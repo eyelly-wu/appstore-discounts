@@ -1,0 +1,59 @@
+{
+  "name": "appstore-discounts",
+  "version": "1.0.0",
+  "description": "todo ...",
+  "keywords": [],
+  "scripts": {
+    "prepare": "husky install",
+    "lint-code": "npx lint-staged",
+    "lint-msg": "npx commitlint --edit",
+    "docs": "jtm run",
+    "docs-translate": "i18n t -P docs/src",
+    "build": "rimraf dist/src && rollup -c",
+    "collect": "tsx src/data/index.ts"
+  },
+  "author": "Eyelly Wu",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.8.1",
+    "@commitlint/config-conventional": "^17.8.1",
+    "@eyelly/prettier-config": "^1.0.0",
+    "@types/node": "^20.14.11",
+    "@types/react": "^18.3.3",
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "cheerio": "1.0.0-rc.12",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^8.10.0",
+    "eslint-formatter-table": "^7.32.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.34.4",
+    "husky": "^8.0.3",
+    "jsx-to-md": "^0.11.4",
+    "lint-staged": "^13.3.0",
+    "node-fetch": "^3.3.2",
+    "prettier": "^2.8.8",
+    "rimraf": "^5.0.9",
+    "rollup": "^2.79.1",
+    "rollup-plugin-prettier": "^3.1.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-typescript2": "^0.34.1",
+    "tslib": "^2.6.3",
+    "tsx": "^4.16.2",
+    "typescript": "4.9.5"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "i18n-pro": "2.0.0",
+    "lodash": "^4.17.21",
+    "react": "16.8.0",
+    "react-dom": "16.8.0"
+  },
+  "lint-staged": {
+    "*.{json,ts,tsx,js}": "eslint --fix -f table"
+  },
+  "codeNameMap": {
+    "en": "",
+    "zh": "zh-CN"
+  }
+}
