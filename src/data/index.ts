@@ -1,9 +1,11 @@
 import { regions, appIdConfig } from '../../appinfo.config'
 import getRegionAppInfo from './scrap'
 import { getStorageAppInfo, setStorageAppInfo } from './storage'
-import { calculateLatestAppInfo } from './calculate'
+import calculateLatestAppInfo from './calculate'
+import updateFeeds from './rss'
 
 async function controller() {
+  console.time('controller')
   const appIds = Object.keys(appIdConfig)
   const timestamp = Date.now()
 
@@ -18,8 +20,8 @@ async function controller() {
   // get storage data
   const regionStorageAppInfo = getStorageAppInfo(regions)
 
-  // merge
-  calculateLatestAppInfo(
+  // calculate discounts and merge appinfo
+  const discountInfos = calculateLatestAppInfo(
     timestamp,
     regions,
     regionAppInfo,
@@ -32,6 +34,8 @@ async function controller() {
   setStorageAppInfo(regions, regionStorageAppInfo)
 
   // update rss
+  updateFeeds(discountInfos)
+  console.timeEnd('controller')
 }
 
 controller()

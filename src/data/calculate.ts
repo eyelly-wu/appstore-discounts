@@ -1,10 +1,7 @@
 import dayjs from 'dayjs'
 import { isEqual, omit, isEmpty } from 'lodash'
-
-function getDate(timestampProps) {
-  // TODO 这里应该需要根据地区来计算，不同地区计算出的日期应该是不一样的
-  return dayjs(timestampProps).format('YYYY-MM-DD')
-}
+import { getDate } from './utils'
+import { regionInAppPurchasesTextMap } from 'appinfo.config'
 
 function getPrice(priceStr: string) {
   const regexp = /[^0-9]*([0-9]+(\.[0-9]+)?)[^0-9]*/
@@ -13,7 +10,11 @@ function getPrice(priceStr: string) {
   return price
 }
 
-export function getDiscountInfo(newAppInfo: AppInfo, oldAppInfo?: AppInfo) {
+export function getDiscountInfo(
+  region: Region,
+  newAppInfo: AppInfo,
+  oldAppInfo?: AppInfo,
+) {
   const { price, formattedPrice, inAppPurchases } = newAppInfo
 
   const discounts: Discount[] = []
@@ -32,6 +33,7 @@ export function getDiscountInfo(newAppInfo: AppInfo, oldAppInfo?: AppInfo) {
     discounts.push({
       type: 'price',
       // TODO i18n
+      typeName: '应用价格',
       name: '价格',
       from: oldFormattedPrice,
       to: formattedPrice,
@@ -47,6 +49,7 @@ export function getDiscountInfo(newAppInfo: AppInfo, oldAppInfo?: AppInfo) {
       if (oldPrice != -1 && price != -1 && oldPrice > price) {
         discounts.push({
           type: 'inAppPurchase',
+          typeName: regionInAppPurchasesTextMap[region],
           name,
           from: oldFormattedPrice,
           to: formattedPrice,
@@ -58,16 +61,19 @@ export function getDiscountInfo(newAppInfo: AppInfo, oldAppInfo?: AppInfo) {
   return discounts
 }
 
-export function calculateLatestAppInfo(
+export default function calculateLatestAppInfo(
   timestamp: number,
   regions: Region[],
   regionAppInfo: RegionAppInfo,
   regionStorageAppInfo: RegionStorageAppInfo,
 ) {
+  const regionDiscountInfo = {}
+
   for (let i = 0; i < regions.length; i++) {
     const region = regions[i]
     const appInfos = regionAppInfo[region] || []
     const date = getDate(timestamp)
+    const discountInfos: DiscountInfo[] = []
 
     if (appInfos.length > 0) {
       const storageAppInfo = regionStorageAppInfo[region]
@@ -103,10 +109,34 @@ export function calculateLatestAppInfo(
            *        判断是否是内购价格变化
            */
           // TODO 合并重复的信息
+
+          discountInfos.push({
+            ...newAppInfo,
+            discounts: [
+              {
+                type: 'price',
+                typeName: '价格',
+                name: '价格',
+                from: '￥100',
+                to: '$2',
+              },
+              {
+                type: 'inAppPurchase',
+                typeName: regionInAppPurchasesTextMap[region],
+                name: '内购',
+                from: '￥99',
+                to: '￥50',
+              },
+            ],
+          })
         }
 
         storageAppInfo[trackId] = dateStorageAppInfo
       })
     }
+
+    regionDiscountInfo[region] = discountInfos
   }
+
+  return regionDiscountInfo as RegionDiscountInfo
 }

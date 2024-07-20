@@ -77,15 +77,19 @@ declare global {
 
   type Discount = {
     type: DiscountType
+    typeName: string
     name: 'price' | string
     from: string
     to: string
   }
 
-  type DiscountInfo = {
-    appId: AppInfo['trackId']
+  type DiscountInfo = TimeStorageAppInfo & {
     discounts: Discount[]
   }
+
+  type RegionDiscountInfo = Record<Region, DiscountInfo[]>
+
+  type RegionFeed = Record<Region, string>
 
   const tr: Translate
 }

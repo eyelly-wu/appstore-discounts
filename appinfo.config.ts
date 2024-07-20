@@ -10,4 +10,6 @@ export const regionInAppPurchasesTextMap: Record<Region, string> = {
 
 export const appIdConfig: AppIdConfig = {
   1067198688: '彩云天气pro',
+  // 1319191852: '熊猫吃短信 - 垃圾短信过滤',
+  // 1642682818: '熊猫吃短信 - 垃圾短信过滤',
 }

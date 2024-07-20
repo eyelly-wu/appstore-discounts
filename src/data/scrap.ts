@@ -58,8 +58,6 @@ async function getInAppPurchases(url: string, region: Region): Promise<any> {
           })
       }
     })
-
-    console.info({ purchases: inAppPurchases, region })
   } catch (error) {
     console.error('getInAppPurchases request error:', error)
   }
