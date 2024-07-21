@@ -71,8 +71,8 @@ devDependencies:
     specifier: ^8.0.3
     version: 8.0.3
   jsx-to-md:
-    specifier: ^0.11.4
-    version: 0.11.4
+    specifier: ^0.11.5
+    version: 0.11.5
   lint-staged:
     specifier: ^13.3.0
     version: 13.3.0
@@ -3415,8 +3415,8 @@ packages:
       object.values: 1.2.0
     dev: true
 
-  /jsx-to-md@0.11.4:
-    resolution: {integrity: sha512-Ub7qCLlmRUdRqzNnNnDbjw/kQcK+hjNPoP+l2J1tVljk52XMrSLmvcjvZ19fsBzAtp75nTJfZCon92YMeFEz/A==}
+  /jsx-to-md@0.11.5:
+    resolution: {integrity: sha512-jLoFxk9F/MhgvgAtPw8bo2HQKvq4t9pX+3FCzC0nJ9Dh0OVoTaWNJS3xefQqBRG4gRZq8t33daY51h0QX77v8A==}
     hasBin: true
     dependencies:
       '@types/node': 18.19.40

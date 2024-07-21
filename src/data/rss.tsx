@@ -4,7 +4,6 @@ import { writeFileSync } from 'fs'
 import { resolve } from 'path'
 import { getDate } from './utils'
 import React, { render } from 'jsx-to-md'
-import { describe } from 'node:test'
 
 type Post = {
   id: string
@@ -55,28 +54,6 @@ function getShowContent(
     return `${trackName} \n${inAppPurchase.join('\n')}`
   }
 
-  const discountInfoElement = discounts.map((discount) => {
-    const { type, typeName, name, from, to } = discount
-    console.info({ discount })
-
-    return render(
-      <tr>
-        <td>{typeName}</td>
-        <td>{name}</td>
-        <td width={120} align="right">
-          {from}
-        </td>
-        <td width={120} align="right">
-          {to}
-        </td>
-      </tr>,
-    )
-  })
-
-  console.info({
-    discountInfoElement,
-  })
-
   return render(
     <>
       <a href={trackViewUrl}>
@@ -99,7 +76,24 @@ function getShowContent(
             </th>
           </tr>
         </thead>
-        <tbody>{discountInfoElement.join('')}</tbody>
+        <tbody>
+          {discounts.map((discount) => {
+            const { type, typeName, name, from, to } = discount
+
+            return render(
+              <tr>
+                <td>{typeName}</td>
+                <td>{name}</td>
+                <td width={120} align="right">
+                  {from}
+                </td>
+                <td width={120} align="right">
+                  {to}
+                </td>
+              </tr>,
+            )
+          })}
+        </tbody>
       </table>
       <h2>应用描述</h2>
       <p>{description}</p>
