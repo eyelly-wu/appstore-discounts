@@ -65,7 +65,7 @@ declare global {
 
   type TimeStorageAppInfo = {
     timestamp: number
-  } & AppInfo
+  } & Pick<AppInfo, 'price' | 'formattedPrice' | 'inAppPurchases'>
 
   type DateStorageAppInfo = TimeStorageAppInfo[]
 

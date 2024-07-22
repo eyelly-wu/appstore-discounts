@@ -1,7 +1,9 @@
 import dayjs from 'dayjs'
-import { isEqual, omit, isEmpty } from 'lodash'
+import { isEqual, isEmpty, pick } from 'lodash'
 import { getDate } from './utils'
 import { regionInAppPurchasesTextMap } from 'appinfo.config'
+
+const timeStorageAppInfoFields = ['price', 'formattedPrice', 'inAppPurchases']
 
 function getPrice(priceStr: string) {
   const regexp = /[^0-9]*([0-9]+(\.[0-9]+)?)[^0-9]*/
@@ -83,9 +85,12 @@ export default function calculateLatestAppInfo(
         const dateStorageAppInfo = storageAppInfo[trackId] || []
         const timeStorageAppInfo = dateStorageAppInfo[0] || []
         const oldAppInfo = timeStorageAppInfo[0]
-        const newAppInfo = {
+        const newAppInfo: TimeStorageAppInfo = {
           timestamp,
-          ...appInfo,
+          ...(pick(appInfo, timeStorageAppInfoFields) as Omit<
+            TimeStorageAppInfo,
+            'timestamp'
+          >),
         }
 
         if (!oldAppInfo) {
@@ -94,7 +99,12 @@ export default function calculateLatestAppInfo(
         } else {
           const oldDate = getDate(oldAppInfo.timestamp)
           if (oldDate === date) {
-            if (!isEqual(omit(oldAppInfo, ['timestamp']), appInfo)) {
+            if (
+              !isEqual(
+                pick(oldAppInfo, timeStorageAppInfoFields),
+                pick(newAppInfo, timeStorageAppInfoFields),
+              )
+            ) {
               timeStorageAppInfo.unshift(newAppInfo)
             }
           } else {
@@ -111,7 +121,8 @@ export default function calculateLatestAppInfo(
           // TODO 合并重复的信息
 
           discountInfos.push({
-            ...newAppInfo,
+            ...appInfo,
+            timestamp,
             discounts: [
               {
                 type: 'price',
