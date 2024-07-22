@@ -2,7 +2,7 @@ import './i18n' // NOTE initial i18n
 import { regions, appIdConfig } from '../../appinfo.config'
 import getRegionAppInfo from './scrap'
 import { getStorageAppInfo, setStorageAppInfo } from './storage'
-import calculateLatestAppInfo from './calculate'
+import calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo from './calculate'
 import updateFeeds from './rss'
 
 async function controller() {
@@ -10,7 +10,6 @@ async function controller() {
   const appIds = Object.keys(appIdConfig)
   const timestamp = Date.now()
 
-  // scape data
   const regionAppInfo = await getRegionAppInfo(appIds, regions)
 
   if (Object.keys(regionAppInfo).length === 0) {
@@ -18,27 +17,20 @@ async function controller() {
     return
   }
 
-  // get storage data
   const regionStorageAppInfo = getStorageAppInfo(regions)
 
-  // calculate discounts and merge appinfo
-  const discountInfos = calculateLatestAppInfo(
-    timestamp,
-    regions,
-    regionAppInfo,
-    regionStorageAppInfo,
-  )
+  const discountInfos =
+    calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo(
+      timestamp,
+      regions,
+      regionAppInfo,
+      regionStorageAppInfo,
+    )
 
-  // console.info({ regionStorageAppInfo, regionAppInfo })
-
-  // update storage data
   setStorageAppInfo(regions, regionStorageAppInfo)
 
-  // update rss
   updateFeeds(discountInfos)
   console.timeEnd('controller')
 }
 
 controller()
-
-// console.info('date', getDate(timestamp))

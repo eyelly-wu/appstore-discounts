@@ -83,9 +83,10 @@ declare global {
     to: string
   }
 
-  type DiscountInfo = TimeStorageAppInfo & {
-    discounts: Discount[]
-  }
+  type DiscountInfo = AppInfo &
+    Pick<TimeStorageAppInfo, 'timestamp'> & {
+      discounts: Discount[]
+    }
 
   type RegionDiscountInfo = Record<Region, DiscountInfo[]>
 

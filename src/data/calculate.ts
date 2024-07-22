@@ -12,10 +12,10 @@ function getPrice(priceStr: string) {
   return price
 }
 
-export function getDiscountInfo(
+export function getDiscounts(
   region: Region,
-  newAppInfo: AppInfo,
-  oldAppInfo?: AppInfo,
+  newAppInfo: TimeStorageAppInfo,
+  oldAppInfo?: TimeStorageAppInfo,
 ) {
   const { price, formattedPrice, inAppPurchases } = newAppInfo
 
@@ -63,7 +63,7 @@ export function getDiscountInfo(
   return discounts
 }
 
-export default function calculateLatestAppInfo(
+export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo(
   timestamp: number,
   regions: Region[],
   regionAppInfo: RegionAppInfo,
@@ -92,6 +92,7 @@ export default function calculateLatestAppInfo(
             'timestamp'
           >),
         }
+        let discounts: Discount[] = []
 
         if (!oldAppInfo) {
           timeStorageAppInfo.unshift(newAppInfo)
@@ -110,43 +111,16 @@ export default function calculateLatestAppInfo(
           } else {
             dateStorageAppInfo.unshift([newAppInfo])
           }
-          // TODO 这里可以计算出价格是否有变化
-          /**
-           * 1. 如果是新的一天，先判断价格，如果是免费，则加入提醒
-           * 2. 否则判断今天是否已存在当前app的提醒
-           *    如果存在提醒:
-           *        判断是否是价格变化
-           *        判断是否是内购价格变化
-           */
-          // TODO 合并重复的信息
 
-          discountInfos.push({
-            ...appInfo,
-            timestamp,
-            discounts: [
-              {
-                type: 'price',
-                typeName: '价格',
-                name: '价格',
-                from: '￥100',
-                to: '￥2',
-              },
-              {
-                type: 'inAppPurchase',
-                typeName: regionInAppPurchasesTextMap[region],
-                name: '连续包月 SVIP',
-                from: '￥99',
-                to: '￥50',
-              },
-              {
-                type: 'inAppPurchase',
-                typeName: regionInAppPurchasesTextMap[region],
-                name: '年度 SVIP',
-                from: '￥99',
-                to: '￥0',
-              },
-            ],
-          })
+          discounts = getDiscounts(region, newAppInfo, oldAppInfo)
+
+          if (discounts.length) {
+            discountInfos.push({
+              ...appInfo,
+              timestamp,
+              discounts,
+            })
+          }
         }
 
         storageAppInfo[trackId] = dateStorageAppInfo
