@@ -91,5 +91,5 @@ declare global {
 
   type RegionFeed = Record<Region, string>
 
-  const tr: Translate
+  const t: Translate
 }

@@ -118,14 +118,21 @@ export default function calculateLatestAppInfo(
                 typeName: '价格',
                 name: '价格',
                 from: '￥100',
-                to: '$2',
+                to: '￥2',
               },
               {
                 type: 'inAppPurchase',
                 typeName: regionInAppPurchasesTextMap[region],
-                name: '内购',
+                name: '连续包月 SVIP',
                 from: '￥99',
                 to: '￥50',
+              },
+              {
+                type: 'inAppPurchase',
+                typeName: regionInAppPurchasesTextMap[region],
+                name: '年度 SVIP',
+                from: '￥99',
+                to: '￥0',
               },
             ],
           })

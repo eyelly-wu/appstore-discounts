@@ -1,3 +1,4 @@
+import './i18n' // NOTE initial i18n
 import { regions, appIdConfig } from '../../appinfo.config'
 import getRegionAppInfo from './scrap'
 import { getStorageAppInfo, setStorageAppInfo } from './storage'
@@ -13,7 +14,7 @@ async function controller() {
   const regionAppInfo = await getRegionAppInfo(appIds, regions)
 
   if (Object.keys(regionAppInfo).length === 0) {
-    console.info('未抓取到数据，程序已结束')
+    console.info('No data captured, program execution has ended')
     return
   }
 

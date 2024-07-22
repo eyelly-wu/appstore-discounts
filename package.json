@@ -10,7 +10,8 @@
     "docs": "jtm run",
     "docs-translate": "i18n t -P docs/src",
     "build": "rimraf dist/src && rollup -c",
-    "collect": "tsx src/data/index.ts"
+    "collect": "tsx src/data/index.ts",
+    "i18n-rss": "npx i18n t -P src/data/i18n"
   },
   "author": "Eyelly Wu",
   "license": "MIT",

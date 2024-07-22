@@ -16,7 +16,6 @@ export function getStorageAppInfo(regions: Region[]) {
 
     if (isExist) {
       try {
-        const info = require(filepath)
         const storageAppInfo = require(filepath)
         res[region] = storageAppInfo
       } catch (error) {
