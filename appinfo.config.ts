@@ -16,6 +16,14 @@ export const regionLanguageCodeMap: Record<Region, string> = {
   us: 'en',
 }
 
+export const regionTimezoneMap: Record<Region, string> = {
+  cn: 'Asia/Shanghai',
+  hk: 'Asia/Hong_Kong',
+  mo: 'Asia/Macau',
+  tw: 'Asia/Taipei',
+  us: 'America/New_York',
+}
+
 export const appIdConfig: AppIdConfig = {
   // 932747118: 'Shadowrocket',
   // 1067198688: '彩云天气pro',

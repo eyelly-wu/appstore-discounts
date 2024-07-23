@@ -1,6 +1,6 @@
 import dayjs from 'dayjs'
 import { isEqual, isEmpty, pick } from 'lodash'
-import { getDate } from './utils'
+import { getRegionDate } from './utils'
 import { regionInAppPurchasesTextMap } from 'appinfo.config'
 
 const timeStorageAppInfoFields = ['price', 'formattedPrice', 'inAppPurchases']
@@ -74,7 +74,7 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
   for (let i = 0; i < regions.length; i++) {
     const region = regions[i]
     const appInfos = regionAppInfo[region] || []
-    const date = getDate(timestamp)
+    const date = getRegionDate(region, timestamp)
     const discountInfos: DiscountInfo[] = []
 
     if (appInfos.length > 0) {
@@ -98,7 +98,7 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
           timeStorageAppInfo.unshift(newAppInfo)
           dateStorageAppInfo.unshift(timeStorageAppInfo)
         } else {
-          const oldDate = getDate(oldAppInfo.timestamp)
+          const oldDate = getRegionDate(region, oldAppInfo.timestamp)
           if (oldDate === date) {
             if (
               !isEqual(

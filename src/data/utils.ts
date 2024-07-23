@@ -1,6 +1,12 @@
 import dayjs from 'dayjs'
+import utcPlugin from 'dayjs/plugin/utc'
+import timezonePlugin from 'dayjs/plugin/timezone'
+import { regionTimezoneMap } from 'appinfo.config'
 
-export function getDate(timestampProps) {
-  // TODO 这里应该需要根据地区来计算，不同地区计算出的日期应该是不一样的
-  return dayjs(timestampProps).format('YYYY/MM/DD')
+dayjs.extend(utcPlugin)
+dayjs.extend(timezonePlugin)
+
+export function getRegionDate(region: Region, timestamp: number) {
+  const timezone = regionTimezoneMap[region]
+  return dayjs(timestamp).tz(timezone).format('YYYY/MM/DD')
 }

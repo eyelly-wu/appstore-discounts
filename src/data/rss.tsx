@@ -2,7 +2,6 @@ import dayjs from 'dayjs'
 import { Feed } from 'feed'
 import { writeFileSync } from 'fs'
 import { resolve } from 'path'
-import { getDate } from './utils'
 import React, { render } from 'jsx-to-md'
 import { getTranslate } from './i18n'
 import { Translate } from 'i18n-pro'
@@ -178,6 +177,8 @@ function generateRegionFeed(regionDiscountInfo: RegionDiscountInfo) {
         },
       })
 
+      // TODO 首次订阅，默认给一个订阅提醒
+
       discountInfos.forEach((discountInfo) => {
         const { timestamp, trackName, trackViewUrl } = discountInfo
 
@@ -210,5 +211,6 @@ function saveRegionFeed(feeds: RegionFeed) {
 
 export default function updateFeeds(regionDiscountInfo: RegionDiscountInfo) {
   const feed = generateRegionFeed(regionDiscountInfo)
+  // TODO feed 需要保留最近30天的
   saveRegionFeed(feed)
 }
