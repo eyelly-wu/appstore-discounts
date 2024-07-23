@@ -10,8 +10,8 @@
     "docs": "jtm run",
     "docs-translate": "i18n t -P docs/src",
     "build": "rimraf dist/src && rollup -c",
-    "data": "tsx src/data/index.ts",
-    "i18n-rss": "npx i18n t -P src/data/i18n"
+    "rss": "tsx src/data/index.ts",
+    "rss-i18n": "npx i18n t -P src/data/i18n"
   },
   "author": "Eyelly Wu",
   "license": "MIT",
@@ -55,6 +55,7 @@
   "lint-staged": {
     "*.{json,ts,tsx,js}": "eslint --fix -f table"
   },
+  "homepage": "https://github.com/eyelly-wu/appstore-discounts",
   "codeNameMap": {
     "en": "",
     "zh": "zh-CN"
