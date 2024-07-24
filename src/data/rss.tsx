@@ -162,8 +162,8 @@ function generateRegionFeed(regionDiscountInfo: RegionDiscountInfo) {
       const t = getTranslate(region)
 
       const feed = new Feed({
-        title: `AppStore Discounts（${region}）`,
-        description: `AppStore Discounts - Made with love by appstore-discounts(${homepage})`,
+        title: `App Store Discounts（${region.toUpperCase()}）`,
+        description: `App Store Discounts - Made with love by appstore-discounts(${homepage})`,
         id: `${homepage}/rss/${region}.xml`,
         link: `https://apps.apple.com/${region}/app`,
         image: appstoreIcon,
@@ -178,7 +178,7 @@ function generateRegionFeed(regionDiscountInfo: RegionDiscountInfo) {
       })
 
       feed.addItem({
-        title: '🎉 ' + t('欢迎订阅{0}', 'AppStore Discounts'),
+        title: '🎉 ' + t('欢迎订阅{0}', ' App Store Discounts'),
         id: 'welcome',
         link: homepage,
         ...(() => {
@@ -198,7 +198,7 @@ function generateRegionFeed(regionDiscountInfo: RegionDiscountInfo) {
                 </li>
               </ul>
               <h1>{t('找到我们')}</h1>
-              <a href={homepage}>AppStore Discounts</a>
+              <a href={homepage}>App Store Discounts</a>
               <h1>{t('最后')}</h1>
               <p>{t('如果本项目对你有帮助，请帮我们点个{0}可好', ' ⭐️ ')}</p>
             </>,
