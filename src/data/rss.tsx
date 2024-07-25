@@ -1,4 +1,3 @@
-import dayjs from 'dayjs'
 import { Feed } from 'feed'
 import { writeFileSync } from 'fs'
 import { resolve } from 'path'
@@ -158,6 +157,8 @@ function generateRegionFeed(regionDiscountInfo: RegionDiscountInfo) {
 
   const regionFeed = Object.entries(regionDiscountInfo).reduce(
     (res, [key, discountInfos]) => {
+      if (discountInfos.length === 0) return res
+
       const region = key as Region
       const t = getTranslate(region)
 
