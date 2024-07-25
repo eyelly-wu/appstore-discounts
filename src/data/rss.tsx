@@ -6,6 +6,7 @@ import { getTranslate } from './i18n'
 import { Translate } from 'i18n-pro'
 import { regionInAppPurchasesTextMap } from 'appinfo.config'
 import { homepage } from '../../package.json'
+import { start, end } from './timer'
 
 function getShowDescription(discountInfo: DiscountInfo) {
   const { discounts } = discountInfo
@@ -243,7 +244,9 @@ function saveRegionFeed(feeds: RegionFeed) {
 }
 
 export default function updateFeeds(regionDiscountInfo: RegionDiscountInfo) {
+  start('updateFeeds')
   const feed = generateRegionFeed(regionDiscountInfo)
   // TODO feed 需要保留最近30天的
   saveRegionFeed(feed)
+  end('updateFeeds')
 }

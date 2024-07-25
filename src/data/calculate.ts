@@ -2,6 +2,7 @@ import dayjs from 'dayjs'
 import { isEqual, isEmpty, pick } from 'lodash'
 import { getRegionDate } from './utils'
 import { regionInAppPurchasesTextMap } from 'appinfo.config'
+import { start, end } from './timer'
 
 const timeStorageAppInfoFields = ['price', 'formattedPrice', 'inAppPurchases']
 
@@ -69,6 +70,7 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
   regionAppInfo: RegionAppInfo,
   regionStorageAppInfo: RegionStorageAppInfo,
 ) {
+  start('calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo')
   const regionDiscountInfo = {}
 
   for (let i = 0; i < regions.length; i++) {
@@ -76,6 +78,8 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
     const appInfos = regionAppInfo[region] || []
     const date = getRegionDate(region, timestamp)
     const discountInfos: DiscountInfo[] = []
+
+    console.info(`【${i + 1}/${regions.length}】（${region}）`)
 
     if (appInfos.length > 0) {
       const storageAppInfo = regionStorageAppInfo[region]
@@ -130,5 +134,6 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
     regionDiscountInfo[region] = discountInfos
   }
 
+  end('calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo')
   return regionDiscountInfo as RegionDiscountInfo
 }

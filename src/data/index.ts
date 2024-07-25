@@ -4,11 +4,17 @@ import getRegionAppInfo from './scrap'
 import { getStorageAppInfo, setStorageAppInfo } from './storage'
 import calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo from './calculate'
 import updateFeeds from './rss'
+import { start, end, summarize } from './timer'
 
 async function controller() {
-  console.time('controller')
-  const appIds = Object.keys(appIdConfig)
+  start('controller')
+  const appIds = Object.keys(appIdConfig).slice(0, 2)
   const timestamp = Date.now()
+
+  console.info(
+    `当前收录地区数：${regions.length}
+当前收录应用数：${appIds.length}`,
+  )
 
   const regionAppInfo = await getRegionAppInfo(appIds, regions)
 
@@ -30,7 +36,8 @@ async function controller() {
   setStorageAppInfo(regions, regionStorageAppInfo)
 
   updateFeeds(discountInfos)
-  console.timeEnd('controller')
+  end('controller')
+  summarize()
 }
 
 controller()

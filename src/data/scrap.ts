@@ -1,6 +1,7 @@
 import nodeFetch from 'node-fetch'
 import { load } from 'cheerio'
 import { regionInAppPurchasesTextMap } from '../../appinfo.config'
+import { start, end } from './timer'
 
 /**
  * https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1
@@ -88,6 +89,13 @@ async function getAppInfo(
     res = (tempRes as ResponseResult).results
   } catch (error) {
     console.error('getAppInfo request error:', error)
+    if (
+      (error as string).includes(
+        'SyntaxError: Unexpected token < in JSON at position 0',
+      )
+    ) {
+      res = await getAppInfo(appIds, region)
+    }
   }
 
   return res
@@ -97,16 +105,21 @@ export default async function getRegionAppInfo(
   appIds: string[],
   regions: Region[],
 ) {
+  start('getRegionAppInfo')
   let res: RegionAppInfo = {}
 
   for (let i = 0; i < regions.length; i++) {
     const region = regions[i]
+    const label = `【${i + 1}/${regions.length}】（${region}）`
+    console.info(`${label}getAppInfo`)
     const appInfos = await getAppInfo(appIds, region)
-
     if (appInfos.length > 0) {
       const newAppInfos: AppInfo[] = []
       for (let j = 0; j < appInfos.length; j++) {
         const appInfo = appInfos[j]
+        console.log(
+          `${label}【${j + 1}/${appInfos.length}】${appInfo.trackName}`,
+        )
         const inAppPurchases = await getInAppPurchases(
           appInfo.trackViewUrl,
           region,
@@ -120,6 +133,6 @@ export default async function getRegionAppInfo(
       res[region] = newAppInfos
     }
   }
-
+  end('getRegionAppInfo')
   return res
 }
