@@ -8,7 +8,7 @@ import { start, end, summarize } from './timer'
 
 async function controller() {
   start('controller')
-  const appIds = Object.keys(appIdConfig).slice(0, 2)
+  const appIds = Object.keys(appIdConfig) /* .slice(0, 2) */
   const timestamp = Date.now()
 
   console.info(
