@@ -19,13 +19,22 @@ jobs:
         run: npm run rss
 
       - name: commit the all info
+        id: commit_msg
         run: |
+          if git status -s | grep -q .; then
+            echo "Changes detected, committing..."
+            echo "check_result=success" >> $GITHUB_OUTPUT
+          else
+            echo "No changes to commit"
+            exit 0
+          fi
           git config --global user.email "eyelly.wu@gmail.com"
-          git config --global user.name "Eyelly Wu"
+          git config --global user.name "GitHub Workflow"
           git add .
           git commit -m 'chore: automatic update of GitHub workflow'
 
       - name: git push
+        if: steps.commit_msg.outputs.check_result == 'success'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.PUBLISH_TOKEN }}
