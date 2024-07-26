@@ -110,6 +110,12 @@
   "488674899": [
     [
       {
+        "timestamp": 1722009757950,
+        "price": 0.59,
+        "formattedPrice": "$0.59",
+        "inAppPurchases": {}
+      },
+      {
         "timestamp": 1722006133793,
         "price": 9.99,
         "formattedPrice": "$9.99",
@@ -728,6 +734,12 @@
   "1159700098": [
     [
       {
+        "timestamp": 1722009757950,
+        "price": 4.99,
+        "formattedPrice": "$4.99",
+        "inAppPurchases": {}
+      },
+      {
         "timestamp": 1722006133793,
         "price": 1.99,
         "formattedPrice": "$1.99",
@@ -1297,6 +1309,15 @@
   ],
   "1485101937": [
     [
+      {
+        "timestamp": 1722009757950,
+        "price": 0,
+        "formattedPrice": "Free",
+        "inAppPurchases": {
+          "Premium Features": "$3.99",
+          "Value for Value": "$24.99"
+        }
+      },
       {
         "timestamp": 1722006133793,
         "price": 6.99,
@@ -1935,6 +1956,15 @@
   "1644917705": [
     [
       {
+        "timestamp": 1722009757950,
+        "price": 4.99,
+        "formattedPrice": "$4.99",
+        "inAppPurchases": {
+          "Home Sweet Home": "$0.99",
+          "Hello World!": "$0.99"
+        }
+      },
+      {
         "timestamp": 1722006133793,
         "price": 4.99,
         "formattedPrice": "$4.99",
@@ -2283,6 +2313,14 @@
   "6450262949": [
     [
       {
+        "timestamp": 1722009757950,
+        "price": 0,
+        "formattedPrice": "Free",
+        "inAppPurchases": {
+          "Pro version lifetime": "$7.99"
+        }
+      },
+      {
         "timestamp": 1722006133793,
         "price": 0,
         "formattedPrice": "Free",
@@ -2356,6 +2394,23 @@
   ],
   "6462360082": [
     [
+      {
+        "timestamp": 1722009757950,
+        "price": 0,
+        "formattedPrice": "Free",
+        "inAppPurchases": {
+          "Base Game": "$59.99",
+          "Separate Ways": "$9.99",
+          "Extra DLC Pack": "$19.99",
+          "Weapon Upgrade Ticket x5 (A)": "$9.99",
+          "Weapon Upgrade Ticket x3 (A)": "$6.99",
+          "Attaché Case: 'Gold'": "$0.99",
+          "Charm: 'Handgun Ammo'": "$0.99",
+          "Weapon Upgrade Ticket x1 (A)": "$2.99",
+          "Attaché Case: 'Classic'": "$0.99",
+          "Charm: 'Green Herb'": "$0.99"
+        }
+      },
       {
         "timestamp": 1722006133793,
         "price": 0,
