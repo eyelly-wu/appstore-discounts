@@ -152,6 +152,12 @@
   "488674899": [
     [
       {
+        "timestamp": 1722020533183,
+        "price": 0.59,
+        "formattedPrice": "$0.59",
+        "inAppPurchases": {}
+      },
+      {
         "timestamp": 1722013322860,
         "price": 9.99,
         "formattedPrice": "$9.99",
@@ -782,6 +788,12 @@
   "1159700098": [
     [
       {
+        "timestamp": 1722020533183,
+        "price": 4.99,
+        "formattedPrice": "$4.99",
+        "inAppPurchases": {}
+      },
+      {
         "timestamp": 1722013322860,
         "price": 1.99,
         "formattedPrice": "$1.99",
@@ -1363,6 +1375,15 @@
   ],
   "1485101937": [
     [
+      {
+        "timestamp": 1722020533183,
+        "price": 0,
+        "formattedPrice": "Free",
+        "inAppPurchases": {
+          "Premium Features": "$3.99",
+          "Value for Value": "$24.99"
+        }
+      },
       {
         "timestamp": 1722013322860,
         "price": 6.99,
