@@ -40,7 +40,6 @@ async function getInAppPurchases(url: string, region: Region): Promise<any> {
     $('.information-list__item').each((index, element) => {
       const title = $(element).find('dt').text().trim()
       if (title === inAppPurchasesText) {
-        // 遍历所有的内购项目
         $(element)
           .find('.list-with-numbers__item')
           .each((i, item) => {

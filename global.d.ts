@@ -82,7 +82,6 @@ declare global {
 
   type Discount = {
     type: DiscountType
-    typeName: string
     name: 'price' | string
     from: string
     to: string

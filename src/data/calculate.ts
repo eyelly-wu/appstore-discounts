@@ -1,8 +1,8 @@
 import dayjs from 'dayjs'
 import { isEqual, isEmpty, pick } from 'lodash'
 import { getRegionDate } from './utils'
-import { regionInAppPurchasesTextMap } from 'appinfo.config'
 import { start, end } from './timer'
+import { getTranslate } from './i18n'
 
 const timeStorageAppInfoFields = ['price', 'formattedPrice', 'inAppPurchases']
 
@@ -18,6 +18,7 @@ export function getDiscounts(
   newAppInfo: TimeStorageAppInfo,
   oldAppInfo?: TimeStorageAppInfo,
 ) {
+  const t = getTranslate(region)
   const { price, formattedPrice, inAppPurchases } = newAppInfo
 
   const discounts: Discount[] = []
@@ -35,9 +36,7 @@ export function getDiscounts(
   if (oldPrice > price) {
     discounts.push({
       type: 'price',
-      // TODO i18n
-      typeName: '应用价格',
-      name: '价格',
+      name: t('价格'),
       from: oldFormattedPrice,
       to: formattedPrice,
     })
@@ -52,7 +51,6 @@ export function getDiscounts(
       if (oldPrice != -1 && price != -1 && oldPrice > price) {
         discounts.push({
           type: 'inAppPurchase',
-          typeName: regionInAppPurchasesTextMap[region],
           name,
           from: oldFormattedPrice,
           to: formattedPrice,

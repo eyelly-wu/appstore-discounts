@@ -15,8 +15,10 @@ jobs:
       - name: install dependence
         run: npm i -g pnpm && pnpm i --no-frozen-lockfile
 
-      - name: generate RSS
+      - name: generate RSS and push notifacations
         run: npm run rss
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
 
       - name: commit the all info
         id: commit_msg

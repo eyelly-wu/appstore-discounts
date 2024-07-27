@@ -5,6 +5,8 @@ import { getStorageAppInfo, setStorageAppInfo } from './storage'
 import calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo from './calculate'
 import updateFeeds from './rss'
 import { start, end, summarize } from './timer'
+import { pushTelegramNotification } from './telegram'
+import 'dotenv/config'
 
 async function controller() {
   start('controller')
@@ -25,7 +27,7 @@ async function controller() {
 
   const regionStorageAppInfo = getStorageAppInfo(regions)
 
-  const discountInfos =
+  const regionDiscountInfos =
     calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo(
       timestamp,
       regions,
@@ -35,7 +37,10 @@ async function controller() {
 
   setStorageAppInfo(regions, regionStorageAppInfo)
 
-  updateFeeds(discountInfos)
+  updateFeeds(regionDiscountInfos)
+
+  await pushTelegramNotification(regionDiscountInfos)
+
   end('controller')
   summarize()
 }
