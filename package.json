@@ -8,7 +8,7 @@
     "lint-code": "npx lint-staged",
     "lint-msg": "npx commitlint --edit",
     "docs": "jtm run",
-    "docs-translate": "i18n t -P docs/src",
+    "docs-i18n": "i18n t -P docs/src",
     "build": "rimraf dist/src && rollup -c",
     "rss": "tsx src/data/index.ts",
     "rss-i18n": "npx i18n t -P src/data/i18n"
@@ -49,7 +49,7 @@
   "dependencies": {
     "dayjs": "^1.11.11",
     "feed": "^4.2.2",
-    "i18n-pro": "2.0.0",
+    "i18n-pro": "2.1.0",
     "lodash": "^4.17.21",
     "react": "16.8.0",
     "react-dom": "16.8.0"
@@ -58,6 +58,9 @@
     "*.{json,ts,tsx,js}": "eslint --fix -f table"
   },
   "homepage": "https://github.com/eyelly-wu/appstore-discounts",
+  "bugs": {
+    "url": "https://github.com/eyelly-wu/appstore-discounts/issues"
+  },
   "codeNameMap": {
     "en": "",
     "zh": "zh-CN"

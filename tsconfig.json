@@ -4,10 +4,7 @@
     "rootDir": ".",
     "module": "CommonJS",
     "target": "ESNext",
-    "lib": [
-      "ESNext",
-      "DOM"
-    ],
+    "lib": ["ESNext", "DOM"],
     "moduleResolution": "Node",
     "removeComments": true,
     "outDir": "dist",
@@ -16,14 +13,8 @@
     "esModuleInterop": true,
     "jsx": "react",
     "paths": {
-      "@/*": [
-        "./src/*"
-      ],
+      "@/*": ["./src/*"]
     }
   },
-  "include": [
-    "global.d.ts",
-    "src/",
-    "appinfo.config.ts"
-  ]
+  "include": ["global.d.ts", "src/", "appinfo.config.ts", "docs"]
 }

@@ -19,5 +19,6 @@ module.exports = {
     '@typescript-eslint/no-var-requires': 'off',
     '@typescript-eslint/no-explicit-any': 1,
     '@typescript-eslint/no-unused-vars': 1,
+    'no-irregular-whitespace': 0,
   },
 }
