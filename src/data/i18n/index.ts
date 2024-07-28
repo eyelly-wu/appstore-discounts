@@ -1,5 +1,4 @@
 import { initI18n } from 'i18n-pro'
-import { regionLanguageCodeMap } from 'appinfo.config'
 import en from './en.json'
 
 const { t, withI18n } = initI18n({
@@ -16,6 +15,7 @@ Object.defineProperty(global, 't', {
 })
 
 export function getTranslate(region: Region) {
+  const regionLanguageCodeMap = require('appinfo.config')
   const { t } = withI18n({
     locale: regionLanguageCodeMap[region],
   })
