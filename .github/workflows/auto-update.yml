@@ -25,6 +25,7 @@ jobs:
         run: |
           if git status -s | grep -q .; then
             echo "Changes detected, committing..."
+            git status -s
             echo "check_result=success" >> $GITHUB_OUTPUT
           else
             echo "No changes to commit"
