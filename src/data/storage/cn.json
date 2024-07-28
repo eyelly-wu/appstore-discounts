@@ -1508,7 +1508,7 @@
     ]
   },
   "1197275827": {
-    "name": "金十数据(专业版)-为交易而生",
+    "name": "金十数据专业版-为交易而生",
     "history": [
       [
         {
@@ -2312,6 +2312,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1722207726425,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1722182536531,
           "price": 48,
@@ -3801,6 +3810,12 @@
     "name": "灵体侦测器",
     "history": [
       [
+        {
+          "timestamp": 1722207726425,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1722182536531,
           "price": 8,
