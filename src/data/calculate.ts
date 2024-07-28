@@ -8,7 +8,7 @@ const timeStorageAppInfoFields = ['price', 'formattedPrice', 'inAppPurchases']
 
 function getPrice(priceStr: string) {
   const regexp = /[^0-9]*([0-9]+(\.[0-9]+)?)[^0-9]*/
-  let [full, numberStr] = priceStr.match(regexp) || [, '-1']
+  const [full, numberStr] = priceStr.match(regexp) || ['', '-1']
   const price = parseFloat(numberStr)
   return price
 }
@@ -83,8 +83,8 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
       const storageAppInfo = regionStorageAppInfo[region]
 
       appInfos.forEach((appInfo) => {
-        const { trackId } = appInfo
-        const dateStorageAppInfo = storageAppInfo[trackId] || []
+        const { trackId, trackName } = appInfo
+        const dateStorageAppInfo = storageAppInfo[trackId]?.history || []
         const timeStorageAppInfo = dateStorageAppInfo[0] || []
         const oldAppInfo = timeStorageAppInfo[0]
         const newAppInfo: TimeStorageAppInfo = {
@@ -125,7 +125,10 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
           }
         }
 
-        storageAppInfo[trackId] = dateStorageAppInfo
+        storageAppInfo[trackId] = {
+          name: trackName,
+          history: dateStorageAppInfo,
+        }
       })
     }
 

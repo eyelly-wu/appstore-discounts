@@ -74,7 +74,13 @@ declare global {
 
   type DateStorageAppInfo = TimeStorageAppInfo[]
 
-  type StorageAppInfo = Record<string, DateStorageAppInfo[]>
+  type StorageAppInfo = Record<
+    string,
+    {
+      name: string
+      history: DateStorageAppInfo[]
+    }
+  >
 
   type RegionStorageAppInfo = Partial<Record<Region, StorageAppInfo>>
 
