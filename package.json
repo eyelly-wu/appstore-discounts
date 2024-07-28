@@ -55,7 +55,7 @@
     "react-dom": "16.8.0"
   },
   "lint-staged": {
-    "*.{json,ts,tsx,js}": "eslint --fix -f table"
+    "*.{ts,tsx,js}": "eslint --fix -f table"
   },
   "homepage": "https://github.com/eyelly-wu/appstore-discounts",
   "bugs": {
