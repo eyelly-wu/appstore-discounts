@@ -12,7 +12,7 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
     <>
       <b>
         {t(
-          '{0}有{1}款应正在打折',
+          '{0}有{p1款应用}正在打折',
           `App Store（${region.toUpperCase()}）`,
           discountInfos.length,
         )}

@@ -6,6 +6,19 @@ const { t, withI18n } = initI18n({
   langs: {
     en,
   },
+  formatPlural({ keyword, text, payload, locale }) {
+    let res = text
+    switch (locale) {
+      case 'en':
+        switch (keyword) {
+          case 'App':
+            res = `${payload} ${keyword}${(payload as number) > 1 ? 's' : ''}`
+            break
+        }
+        break
+    }
+    return res
+  },
 })
 
 Object.defineProperty(global, 't', {
