@@ -28,7 +28,7 @@ Object.defineProperty(global, 't', {
 })
 
 export function getTranslate(region: Region) {
-  const regionLanguageCodeMap = require('appinfo.config')
+  const { regionLanguageCodeMap } = require('appinfo.config')
   const { t } = withI18n({
     locale: regionLanguageCodeMap[region],
   })
