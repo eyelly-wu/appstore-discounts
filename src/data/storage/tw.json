@@ -2550,6 +2550,14 @@
     "history": [
       [
         {
+          "timestamp": 1722267783313,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Advanced Features": "$30.00"
+          }
+        },
+        {
           "timestamp": 1722182536531,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -2700,6 +2708,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1722267783313,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1722265457522,
           "price": 0,
@@ -3387,6 +3404,14 @@
     "name": "Streets of Rage 4",
     "history": [
       [
+        {
+          "timestamp": 1722267783313,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$90.00"
+          }
+        },
         {
           "timestamp": 1722266127689,
           "price": 290,
@@ -4177,6 +4202,12 @@
     "name": "靈體偵測器",
     "history": [
       [
+        {
+          "timestamp": 1722267783313,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1722265457522,
           "price": 0,

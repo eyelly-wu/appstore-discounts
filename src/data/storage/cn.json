@@ -2122,6 +2122,14 @@
     "history": [
       [
         {
+          "timestamp": 1722267783313,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "高级特性": "¥3.00"
+          }
+        },
+        {
           "timestamp": 1722182536531,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -2344,6 +2352,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1722267783313,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1722216523029,
           "price": 0,
@@ -3860,6 +3877,12 @@
     "name": "灵体侦测器",
     "history": [
       [
+        {
+          "timestamp": 1722267783313,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1722216523029,
           "price": 0,
