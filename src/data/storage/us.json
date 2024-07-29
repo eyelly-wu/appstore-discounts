@@ -3389,6 +3389,15 @@
     "history": [
       [
         {
+          "timestamp": 1722261732741,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
+        {
           "timestamp": 1722225748046,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -5213,6 +5222,12 @@
     "history": [
       [
         {
+          "timestamp": 1722261732741,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1722225748046,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -6036,6 +6051,23 @@
     "name": "Resident Evil 4",
     "history": [
       [
+        {
+          "timestamp": 1722261732741,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Attaché Case: 'Classic'": "$0.99",
+            "Charm: 'Green Herb'": "$0.99"
+          }
+        },
         {
           "timestamp": 1722258286584,
           "price": 0,

@@ -2306,6 +2306,19 @@
     "history": [
       [
         {
+          "timestamp": 1722261732741,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Unlock all Tools": "$30.00",
+            "包月會員": "$10.00",
+            "解鎖所有動態壁紙": "$30.00",
+            "永久會員": "$120.00",
+            "包年會員": "$120.00",
+            "桌面透明小組件": "$0.00"
+          }
+        },
+        {
           "timestamp": 1722258286584,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -2687,6 +2700,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1722261732741,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1722258286584,
           "price": 220,
