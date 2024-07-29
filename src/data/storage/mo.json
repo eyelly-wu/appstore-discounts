@@ -4,6 +4,12 @@
     "history": [
       [
         {
+          "timestamp": 1722258286584,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1722182536531,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -434,6 +440,12 @@
     "history": [
       [
         {
+          "timestamp": 1722258286584,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1722182536531,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -478,6 +490,20 @@
     "name": "ProCam - 專業相機",
     "history": [
       [
+        {
+          "timestamp": 1722258286584,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "4K Ultra HD 視訊影片": "USD 4.99",
+            "大師系列": "USD 1.99",
+            "城市系列": "USD 0.99",
+            "8K Max 延時攝影": "USD 7.99",
+            "批量相片處理": "USD 0.00",
+            "4K Ultra HD 延時攝影": "USD 2.99",
+            "基本系列": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1722254616842,
           "price": 9.99,
