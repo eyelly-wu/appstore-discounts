@@ -1,5 +1,6 @@
 import nodeFetch from 'node-fetch'
 import { load } from 'cheerio'
+import { isEmpty } from 'lodash'
 import { regionInAppPurchasesTextMap } from '../../appinfo.config'
 import { start, end } from './timer'
 
@@ -16,17 +17,22 @@ function getUrl(appIds: string[], region: Region) {
     country: region,
     entity: 'software',
     limit: `${appIds.length}`,
+    timestamp: Date.now() + '',
   }).toString()
   url.search = search
 
   return url
 }
 
-async function getInAppPurchases(url: string, region: Region): Promise<any> {
+async function getInAppPurchases(
+  appInfo: RequestAppInfo,
+  region: Region,
+): Promise<any> {
+  const { trackViewUrl, formattedPrice, trackName } = appInfo
   const inAppPurchases: AppInfo['inAppPurchases'] = {}
 
   try {
-    const tempRes = (await nodeFetch(url, {
+    const tempRes = (await nodeFetch(trackViewUrl, {
       method: 'GET',
       headers: {
         Accept: '*/*',
@@ -58,6 +64,20 @@ async function getInAppPurchases(url: string, region: Region): Promise<any> {
           })
       }
     })
+    const price = $('.app-header__list__item--price')?.text()?.trim?.()
+    const inAppPurchaseElementText = $(
+      '.app-header__list__item--in-app-purchase',
+    )?.text?.()
+    if (formattedPrice !== price) {
+      console.error(
+        `【${trackName}】appInfo price(${formattedPrice}) !== pageInfo price(${price})`,
+      )
+    }
+    if (inAppPurchaseElementText && isEmpty(inAppPurchases)) {
+      console.error(
+        `【${trackName}】is In-App purchase，but can't get relate info`,
+      )
+    }
   } catch (error) {
     console.error('getInAppPurchases request error:', error)
   }
@@ -88,10 +108,9 @@ async function getAppInfo(
     res = (tempRes as ResponseResult).results
   } catch (error) {
     console.error('getAppInfo request error:', error)
+    const errorMsg = typeof error === 'string' ? error : error?.toString?.()
     if (
-      (error as string).includes(
-        'SyntaxError: Unexpected token < in JSON at position 0',
-      )
+      errorMsg.includes('SyntaxError: Unexpected token < in JSON at position 0')
     ) {
       res = await getAppInfo(appIds, region)
     }
@@ -105,7 +124,7 @@ export default async function getRegionAppInfo(
   regions: Region[],
 ) {
   start('getRegionAppInfo')
-  let res: RegionAppInfo = {}
+  const res: RegionAppInfo = {}
 
   for (let i = 0; i < regions.length; i++) {
     const region = regions[i]
@@ -119,10 +138,7 @@ export default async function getRegionAppInfo(
         console.log(
           `${label}【${j + 1}/${appInfos.length}】${appInfo.trackName}`,
         )
-        const inAppPurchases = await getInAppPurchases(
-          appInfo.trackViewUrl,
-          region,
-        )
+        const inAppPurchases = await getInAppPurchases(appInfo, region)
 
         newAppInfos.push({
           ...appInfo,
