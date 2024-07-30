@@ -3,12 +3,13 @@ import { Translate } from 'i18n-pro'
 declare global {
   type Region = 'cn' | 'hk' | 'mo' | 'tw' | 'us'
 
-  type AppIdConfig = Record<
-    string,
-    | string
-    | Partial<Record<Region, string>>
-    | [string, Partial<Record<Region, string>>]
-  >
+  type AppConfig = {
+    id: number
+    name:
+      | string
+      | Partial<Record<string, string>>
+      | [string, Partial<Record<string, string>>]
+  }
 
   type ResponseResult = {
     resultCount: number

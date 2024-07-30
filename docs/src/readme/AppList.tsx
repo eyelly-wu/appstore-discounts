@@ -1,5 +1,5 @@
 import React, { H1, Table, Break, BlockQuote } from 'jsx-to-md'
-import { regionNameMap, regions, appIdConfig } from 'appinfo.config'
+import { regionNameMap, regions, appConfig } from 'appinfo.config'
 import { getCountOrRegionText, getAppText, getAppStoreText } from '../utils'
 import { getStorageAppInfo } from '@/data/storage'
 
@@ -7,8 +7,7 @@ export default function AppList() {
   const countOrRegionText = getCountOrRegionText()
   const appText = getAppText()
   const regionStorageAppInfo = getStorageAppInfo(regions)
-  const appIds = Object.keys(appIdConfig)
-  const data = appIds.reduce((res, appId, index) => {
+  const data = appConfig.reduce((res, { id: appId }, index) => {
     const item: any = {
       index: index + 1,
       appId,
@@ -29,7 +28,7 @@ export default function AppList() {
       {t(
         '当前已收录{p0个国家或地区}和{p1个应用}',
         regions.length,
-        appIds.length,
+        appConfig.length,
       )}
       <br />
       {t(

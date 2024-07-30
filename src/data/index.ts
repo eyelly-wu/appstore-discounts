@@ -1,5 +1,5 @@
 import './i18n' // NOTE initial i18n
-import { regions, appIdConfig } from '../../appinfo.config'
+import { regions, appConfig } from '../../appinfo.config'
 import getRegionAppInfo from './scrap'
 import { getStorageAppInfo, setStorageAppInfo } from './storage'
 import calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo from './calculate'
@@ -10,7 +10,7 @@ import 'dotenv/config'
 
 async function controller() {
   start('controller')
-  const appIds = Object.keys(appIdConfig) /* .slice(0, 2) */
+  const appIds = appConfig.map((item) => item.id) /* .slice(0, 2) */
   const timestamp = Date.now()
 
   console.info(

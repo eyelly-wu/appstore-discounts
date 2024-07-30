@@ -7,7 +7,7 @@ import React, {
   List,
   CodeBlock,
 } from 'jsx-to-md'
-import { regionNameMap, regions, appIdConfig } from 'appinfo.config'
+import { regionNameMap, regions } from 'appinfo.config'
 import { getCountOrRegionText, getAppText, getAppStoreText } from '../utils'
 import { getStorageAppInfo } from '@/data/storage'
 
@@ -55,23 +55,6 @@ function getCodeOrId(type: 'code' | 'id') {
 export default function AppList() {
   const countOrRegionText = getCountOrRegionText()
   const appText = getAppText()
-  const appStoreText = getAppStoreText()
-  const regionStorageAppInfo = getStorageAppInfo(regions)
-  const appIds = Object.keys(appIdConfig)
-  const data = appIds.reduce((res, appId, index) => {
-    const item: any = {
-      index: index + 1,
-      appId,
-    }
-    regions.forEach((region) => {
-      const storageAppInfoObj = regionStorageAppInfo[region] || {}
-      item[region] = storageAppInfoObj[appId]?.name || '❌'
-    })
-
-    res.push(item)
-
-    return res
-  }, [])
 
   return (
     <>

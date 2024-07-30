@@ -11,7 +11,7 @@ const IN_APP_PURCHASE_MAX_TIMES = 50
  */
 const BASE_URL = 'https://itunes.apple.com/lookup'
 
-function getUrl(appIds: string[], region: Region) {
+function getUrl(appIds: Array<string | number>, region: Region) {
   const url = new URL(BASE_URL)
 
   const search = new URLSearchParams({
@@ -104,7 +104,7 @@ async function getInAppPurchases(
 }
 
 async function getAppInfo(
-  appIds: string[],
+  appIds: Array<string | number>,
   region: Region,
 ): Promise<RequestAppInfo[]> {
   let res: RequestAppInfo[] = []
@@ -138,7 +138,7 @@ async function getAppInfo(
 }
 
 export default async function getRegionAppInfo(
-  appIds: string[],
+  appIds: Array<string | number>,
   regions: Region[],
 ) {
   start('getRegionAppInfo')
