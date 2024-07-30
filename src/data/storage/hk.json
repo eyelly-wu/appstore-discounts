@@ -1949,6 +1949,16 @@
     "history": [
       [
         {
+          "timestamp": 1722342276293,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "VIP会员  1个月": "HK$ 488.00",
+            "VIP会员  1年": "HK$ 4,888.00",
+            "VIP会员  3个月": "HK$ 1,188.00"
+          }
+        },
+        {
           "timestamp": 1722340988694,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -2254,6 +2264,22 @@
     "name": "Muse Dash",
     "history": [
       [
+        {
+          "timestamp": 1722342276293,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "Miku in Museland": "HK$ 48.00",
+            "cyTus": "HK$ 48.00",
+            "Rin·Len's Mirrorland": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00"
+          }
+        },
         {
           "timestamp": 1722340988694,
           "price": 23,
