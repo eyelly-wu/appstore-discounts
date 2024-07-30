@@ -3397,6 +3397,15 @@
     "history": [
       [
         {
+          "timestamp": 1722308535804,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
+        {
           "timestamp": 1722261732741,
           "price": 0,
           "formattedPrice": "Free",
@@ -5229,6 +5238,12 @@
     "name": "Ghostly Detector",
     "history": [
       [
+        {
+          "timestamp": 1722308535804,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1722261732741,
           "price": 0,
