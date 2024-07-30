@@ -4,6 +4,8 @@ import { isEmpty } from 'lodash'
 import { regionInAppPurchasesTextMap } from '../../appinfo.config'
 import { start, end } from './timer'
 
+const IN_APP_PURCHASE_MAX_TIMES = 50
+
 /**
  * https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1
  */
@@ -27,12 +29,16 @@ function getUrl(appIds: string[], region: Region) {
 async function getInAppPurchases(
   appInfo: RequestAppInfo,
   region: Region,
+  times = 1,
 ): Promise<any> {
   const { trackViewUrl, formattedPrice, trackName } = appInfo
   const inAppPurchases: AppInfo['inAppPurchases'] = {}
+  const url = `${trackViewUrl}${
+    trackViewUrl.includes('?') ? '&' : '?'
+  }timestamp=${Date.now()}`
 
   try {
-    const tempRes = (await nodeFetch(trackViewUrl, {
+    const tempRes = (await nodeFetch(url, {
       method: 'GET',
       headers: {
         Accept: '*/*',
@@ -68,15 +74,27 @@ async function getInAppPurchases(
     const inAppPurchaseElementText = $(
       '.app-header__list__item--in-app-purchase',
     )?.text?.()
-    if (formattedPrice !== price) {
+    const isPriceNotEqual = formattedPrice !== price
+    const inAppPurchasesError =
+      inAppPurchaseElementText && isEmpty(inAppPurchases)
+
+    if (isPriceNotEqual) {
       console.error(
         `【${trackName}】appInfo price(${formattedPrice}) !== pageInfo price(${price})`,
       )
     }
-    if (inAppPurchaseElementText && isEmpty(inAppPurchases)) {
+
+    if (inAppPurchasesError) {
       console.error(
         `【${trackName}】is In-App purchase，but can't get relate info`,
       )
+    }
+
+    if (
+      ((isPriceNotEqual && isEmpty(price)) || inAppPurchasesError) &&
+      times <= IN_APP_PURCHASE_MAX_TIMES
+    ) {
+      return await getInAppPurchases(appInfo, region, times + 1)
     }
   } catch (error) {
     console.error('getInAppPurchases request error:', error)
