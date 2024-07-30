@@ -9,6 +9,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
     steps:
       - uses: actions/checkout@v3
 
@@ -19,6 +20,9 @@ jobs:
         run: npm run rss
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+
+      - name: update README
+        run: npx jtm run --watch false
 
       - name: commit the all info
         id: commit_msg

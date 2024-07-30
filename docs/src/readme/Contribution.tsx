@@ -7,8 +7,7 @@ import React, {
   List,
   CodeBlock,
 } from 'jsx-to-md'
-import { regionNameMap, regions } from 'appinfo.config'
-import { getCountOrRegionText, getAppText, getAppStoreText } from '../utils'
+import { getCountryOrRegionText, getAppText, getAppStoreText } from '../utils'
 import { getStorageAppInfo } from '@/data/storage'
 
 function getCodeOrId(type: 'code' | 'id') {
@@ -16,7 +15,9 @@ function getCodeOrId(type: 'code' | 'id') {
   const url = 'https://apps.apple.com/us/app/pages/id409201541?mt=12&l=en-US'
   return [
     t('在你的苹果设备打开{0}应用', appStoreText),
-    t('打开{0}中的任何一个应用的详情', appStoreText),
+    type === 'code'
+      ? t('打开{0}中任何一个应用的详情', appStoreText)
+      : t('打开{0}中你想添加应用的详情', appStoreText),
     t('点击{0}', ` \`${t('分享按钮')}\` `),
     t('点击{0}', ` \`${t('拷贝链接')}\` `),
     [
@@ -31,7 +32,7 @@ function getCodeOrId(type: 'code' | 'id') {
           '它的规则是：{0}',
           `${t('协议')}://apps.apple.com/${t(
             '{0}的编码',
-            getCountOrRegionText(true),
+            getCountryOrRegionText(true),
           )}/app/${t('应用的名称')}/id${t('应用的ID')}?x1=x1&x2=x2`,
         ),
         type === 'code'
@@ -53,13 +54,13 @@ function getCodeOrId(type: 'code' | 'id') {
 }
 
 export default function AppList() {
-  const countOrRegionText = getCountOrRegionText()
+  const countryOrRegionText = getCountryOrRegionText()
   const appText = getAppText()
 
   return (
     <>
       <H1>{t('如何参与贡献')}</H1>
-      <H2>1. {t('补充{0}或{1}', countOrRegionText, appText)}</H2>
+      <H2>1. {t('补充{0}或{1}', countryOrRegionText, appText)}</H2>
       {t(
         '需要有一定的{0}语言基础，下面是大致的操作步骤，如果觉得上手有难度，可以提{1}',
         ' `TypeScript` ',
@@ -69,11 +70,11 @@ export default function AppList() {
         items={[
           'U',
           [
-            t('补充{0}', countOrRegionText),
+            t('补充{0}', countryOrRegionText),
             [
               'O',
               [
-                t('获取{0}的编码', countOrRegionText),
+                t('获取{0}的{1}', countryOrRegionText, ` \`${t('编码')}\` `),
                 ['O', ...getCodeOrId('code')],
               ],
               [
@@ -96,6 +97,7 @@ export default function AppList() {
                 [
                   'O',
                   t('补充{0}变量声明', ' `regions` '),
+                  t('补充{0}变量声明', ' `getRegionNameMap` '),
                   t('补充{0}变量声明', ' `regionInAppPurchasesTextMap` '),
                   t('补充{0}变量声明', ' `regionLanguageCodeMap` '),
                   t('补充{0}变量声明', ' `regionTimezoneMap` '),
@@ -113,10 +115,11 @@ export default function AppList() {
               ],
               [
                 t('修改{0}', ' `appinfo.config.ts` '),
-                ['O', t('补充{0}变量声明', ' `appIdConfig` ')],
+                ['O', t('补充{0}变量声明', ' `appConfig` ')],
               ],
             ],
           ],
+          t('最后将你的提交合并到本项目的{0}分支', ' `dev` '),
         ]}
       />
       <H2>2. {t('其他')}</H2>

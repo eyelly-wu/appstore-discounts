@@ -25,6 +25,12 @@ const { t, withI18n } = initI18n({
             break
         }
         break
+      case 'zh':
+        switch (keyword) {
+          case '个应用':
+            res = ` \`${payload}\` 个 \`应用\` `
+        }
+        break
     }
 
     return res

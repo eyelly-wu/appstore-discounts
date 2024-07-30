@@ -1,5 +1,5 @@
 import React, { H1, List } from 'jsx-to-md'
-import { getCountOrRegionText } from '../utils'
+import { getCountryOrRegionText } from '../utils'
 
 export default function Vision() {
   return (
@@ -10,7 +10,7 @@ export default function Vision() {
           'U',
           t(
             '支持任意{0}的{1}（理论上🤔）',
-            getCountOrRegionText(),
+            getCountryOrRegionText(),
             ' `App Store` ',
           ),
           t(

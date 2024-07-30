@@ -10,7 +10,7 @@ export default function Doc(props) {
   const Principle = require('./Principle').default
   const License = require('./License').default
   const Subscription = require('./Subscription').default
-  const AppList = require('./AppList').default
+  const Focus = require('./Focus').default
   const Contribution = require('./Contribution').default
 
   return (
@@ -20,9 +20,9 @@ export default function Doc(props) {
       <Vision />
       <Feature />
       <Subscription />
-      <AppList />
-      <Contribution />
+      <Focus />
       <Principle />
+      <Contribution />
       <License />
     </>
   )

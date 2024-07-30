@@ -16,7 +16,7 @@ export function getDocHref(
   let name = codeNameMap[locale]
   name = name ? `_${name}` : ''
   const anchor = anchorProp ? getAnchor(anchorProp) : ''
-  let version = `v${originVersion}`
+  let version = `main`
 
   // only in dev branch
   const DEV_FILENAMES = ['CONTRIBUTION_GUIDELINES']
@@ -70,7 +70,7 @@ function getText(text: string, normal = false) {
   return ` \`${text}\` `
 }
 
-export function getCountOrRegionText(normal = false) {
+export function getCountryOrRegionText(normal = false) {
   const text = t('国家或地区')
   return getText(text, normal)
 }

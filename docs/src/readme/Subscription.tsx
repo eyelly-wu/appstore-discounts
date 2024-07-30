@@ -9,8 +9,8 @@ import React, {
   Table,
 } from 'jsx-to-md'
 import { linkObj, imageObj } from '../constants'
-import { regionNameMap } from 'appinfo.config'
-import { getCountOrRegionText } from '../utils'
+import { getRegionNameMap } from 'appinfo.config'
+import { getCountryOrRegionText } from '../utils'
 
 export default function Subscription() {
   return (
@@ -25,21 +25,24 @@ export default function Subscription() {
           },
           {
             fieldName: 'name',
-            title: getCountOrRegionText(true),
+            title: getCountryOrRegionText(true),
           },
           {
             fieldName: 'rss',
             title: t('{0}源', 'RSS '),
           },
         ]}
-        data={Object.entries(regionNameMap).reduce((res, [region, name]) => {
-          res.push({
-            region,
-            name,
-            rss: `https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/${region}.xml`,
-          })
-          return res
-        }, [])}
+        data={Object.entries(getRegionNameMap()).reduce(
+          (res, [region, name]) => {
+            res.push({
+              region,
+              name,
+              rss: `https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/${region}.xml`,
+            })
+            return res
+          },
+          [],
+        )}
       />
       <H2>Telegram</H2>
       {t(
