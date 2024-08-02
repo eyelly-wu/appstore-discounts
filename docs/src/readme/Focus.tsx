@@ -26,9 +26,8 @@ export default function Focus() {
     <>
       <H1>{t('关注焦点')}</H1>
       {t(
-        '当前已收录{0}个{1}和{p2个应用}',
-        ` \`${regions.length}\` `,
-        countryOrRegionText,
+        '当前已收录{p0个国家或地区}和{p1个应用}',
+        regions.length,
         appConfig.length,
       )}
       <br />

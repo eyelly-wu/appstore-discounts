@@ -11,15 +11,15 @@ const { t, withI18n } = initI18n({
     switch (locale) {
       case 'en':
         switch (keyword) {
-          case 'country or region':
+          case 'Country or Region':
             if ((payload as number) > 1) {
-              res = `${payload} countries and regions`
+              res = `\`${payload}\` \`Countries or Regions\``
             } else {
-              res = `${payload} ${keyword}`
+              res = `\`${payload}\` \`${keyword}\``
             }
             break
           case 'app':
-            res = ` \`${payload} ${keyword}${
+            res = ` \`${payload}\` \`App${
               (payload as number) > 1 ? 's' : ''
             }\` `
             break
@@ -29,6 +29,10 @@ const { t, withI18n } = initI18n({
         switch (keyword) {
           case '个应用':
             res = ` \`${payload}\` 个 \`应用\` `
+            break
+          case '个国家或地区':
+            res = ` \`${payload}\` 个 \`国家或地区\` `
+            break
         }
         break
     }
