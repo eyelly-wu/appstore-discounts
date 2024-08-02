@@ -58,6 +58,7 @@ export const regionTimezoneMap: Record<Region, string> = {
  * 正常的话，中英文不一样就中英文各写一个就可以；这里的名称只有写代码的能看到
  */
 export const appConfig: AppConfig[] = [
+  { id: 6499125531, name: '完蛋！我被美女包围了！' },
   { id: 1485101937, name: 'Juice Watch' },
   {
     id: 703265535,
