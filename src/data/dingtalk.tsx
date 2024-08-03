@@ -1,5 +1,4 @@
 import fetch from 'node-fetch'
-import { HttpsProxyAgent } from 'https-proxy-agent'
 import React, { render } from 'jsx-to-md'
 import { start, end } from './timer'
 import { isEmpty } from 'lodash'
@@ -10,14 +9,13 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
 
   const msg = render(
     <>
-      <b>
+      <h3>
         {t(
           '{0}有{p1款应用}正在打折',
           `App Store（${region.toUpperCase()}）`,
           discountInfos.length,
         )}
-      </b>
-      {'\n'}
+      </h3>
       {discountInfos.map((discountInfo) => {
         const { trackName, trackViewUrl, discounts = [] } = discountInfo
 
@@ -28,7 +26,7 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
               return (
                 <>
                   <b>{name}</b>: <s>{from}</s> → {to}
-                  {'\n'}
+                  <br />
                 </>
               )
             }
@@ -64,12 +62,11 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
 
         return (
           <>
-            {'\n'}
+            <br />
             <a href={trackViewUrl}>
               <b>{trackName}</b>
             </a>
-            {'\n'}
-            {inAppPurchase}
+            <div>{inAppPurchase}</div>
           </>
         )
       })}
@@ -80,61 +77,62 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
 }
 
 async function sendMessage(
-  telegramBotToken: string,
-  region: Region,
+  dingTalkAccessToken: string,
+  title: string,
   message: string,
-  disabledLinkPreview: boolean,
-  proxy?: string,
 ) {
   try {
     const res = (await fetch(
-      `https://api.telegram.org/bot${telegramBotToken}/sendMessage`,
+      `https://oapi.dingtalk.com/robot/send?access_token=${dingTalkAccessToken}`,
       {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        agent: proxy ? new HttpsProxyAgent(proxy) : null,
         body: JSON.stringify({
-          chat_id: '@appstore_discounts',
-          text: message,
-          parse_mode: 'HTML',
-          link_preview_options: {
-            is_disabled: disabledLinkPreview,
+          msgtype: 'markdown',
+          markdown: {
+            title,
+            text: message,
           },
         }),
       },
     ).then((res) => res.json())) as {
-      ok: boolean
-      description: string
+      errcode: number
+      errmsg: string
     }
 
-    if (!res.ok) {
-      throw res.description
+    const { errcode, errmsg } = res
+
+    if (errcode !== 0) {
+      throw errmsg
     }
   } catch (error) {
-    console.error('Telegram Bot sendMessage failed：\n', error)
+    console.error('DingTalk sendMessage failed：\n', error)
   }
 }
 
-export default async function pushTelegramNotification(
+export default async function pushDingTalkNotification(
   regionDiscountInfos: RegionDiscountInfo,
 ) {
-  start('pushTelegramNotification')
-  const telegramBotToken = process.env.TELEGRAM_BOT_TOKEN
-  const isLocalDev = process.env.IS_LOCAL_DEV
+  start('pushDingTalkNotification')
+  const dingTalkBotToken = process.env.DING_TALK_BOT_TOKEN
   const tempRegionDiscountInfos = Object.entries(regionDiscountInfos)
   for (let i = 0; i < tempRegionDiscountInfos.length; i++) {
     const [region, discountInfos] = tempRegionDiscountInfos[i]
     if (isEmpty(discountInfos)) continue
     const msg = getMessage(region as Region, discountInfos)
+    const t = getTranslate(region as Region)
+
     await sendMessage(
-      telegramBotToken,
-      region as Region,
+      dingTalkBotToken,
+      t(
+        '{0}有{p1款应用}正在打折',
+        `App Store（${region.toUpperCase()}）`,
+        discountInfos.length,
+      ),
       msg,
-      discountInfos.length > 1,
-      isLocalDev ? 'http://127.0.0.1:7997' : undefined,
     )
   }
-  end('pushTelegramNotification')
+  end('pushDingTalkNotification')
 }

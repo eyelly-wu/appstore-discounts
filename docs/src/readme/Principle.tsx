@@ -37,6 +37,7 @@ export default function Principle() {
           t('储存最新价格信息'),
           t('更新{0}文件', ' `RSS` '),
           t('推送通知到{0}', ' `Telegram` '),
+          t('推送通知到{0}', ` \`${t('钉钉')}\` `),
           t('更新{0}', ' `README.md` '),
           t('提交{0}更新', ' `Git` '),
         ]}

@@ -11,7 +11,7 @@ export default function Top() {
     <div {...props}>
       <p style={{ fontSize: 18 }}>
         {t(
-          '开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS 和 Telegram 通知',
+          '开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和 钉钉 通知',
         )}
       </p>
       <Break />

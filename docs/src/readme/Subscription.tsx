@@ -53,6 +53,15 @@ export default function Subscription() {
           </Link>,
         )} `,
       )}
+      <H2>{t('钉钉')}</H2>
+      {t(
+        '点击{0}订阅',
+        ` ${render(
+          <Link {...linkObj['dingtalk']}>
+            <Image {...imageObj['dingtalk']} />
+          </Link>,
+        )} `,
+      )}
     </>
   )
 }

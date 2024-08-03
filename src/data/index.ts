@@ -1,13 +1,14 @@
 import './i18n' // NOTE initial i18n
+import 'dotenv/config'
 import { regions, appConfig } from '../../appinfo.config'
 import getRegionAppInfo from './scrap'
 import { getStorageAppInfo, setStorageAppInfo } from './storage'
 import calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo from './calculate'
 import updateFeeds from './rss'
 import { start, end, summarize } from './timer'
-import { pushTelegramNotification } from './telegram'
-import 'dotenv/config'
+import pushTelegramNotification from './telegram'
 import updateIpCounter from './ip'
+import pushDingTalkNotification from './dingtalk'
 
 async function controller() {
   start('controller')
@@ -43,6 +44,8 @@ async function controller() {
   updateFeeds(regionDiscountInfos)
 
   await pushTelegramNotification(regionDiscountInfos)
+
+  await pushDingTalkNotification(regionDiscountInfos)
 
   end('controller')
   summarize()

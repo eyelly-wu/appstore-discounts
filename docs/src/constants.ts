@@ -35,6 +35,10 @@ const links = [
     title: 'telegram-channel',
     href: 'https://t.me/appstore_discounts',
   },
+  {
+    title: 'dingtalk',
+    href: 'https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11',
+  },
 ] as const
 
 type LinkTitleType = ArrayObject<typeof links, 'title'>
@@ -64,8 +68,13 @@ const images = [
   },
   {
     title: 'telegram',
-    alt: 'github-issues',
+    alt: 'telegram',
     src: 'https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram',
+  },
+  {
+    title: 'dingtalk',
+    alt: 'dingtalk',
+    src: 'https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg',
   },
 ] as const
 
