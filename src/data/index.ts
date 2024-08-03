@@ -7,6 +7,7 @@ import updateFeeds from './rss'
 import { start, end, summarize } from './timer'
 import { pushTelegramNotification } from './telegram'
 import 'dotenv/config'
+import updateIpCounter from './ip'
 
 async function controller() {
   start('controller')
@@ -17,6 +18,8 @@ async function controller() {
     `当前收录地区数：${regions.length}
 当前收录应用数：${appIds.length}`,
   )
+
+  await updateIpCounter()
 
   const regionAppInfo = await getRegionAppInfo(appIds, regions)
 
