@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 18px;">开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS 和 Telegram 通知</p>
+  <p style="font-size: 18px;">开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和 钉钉 通知</p>
 
 
 [English](https://github.com/eyelly-wu/appstore-discounts/tree/main#readme) | 简体中文
@@ -20,6 +20,7 @@
   [如何订阅](#如何订阅)<br/>
   &emsp;&emsp;[RSS](#rss)<br/>
   &emsp;&emsp;[Telegram](#telegram)<br/>
+  &emsp;&emsp;[钉钉](#钉钉)<br/>
   [关注焦点](#关注焦点)<br/>
   [运行机制及流程](#运行机制及流程)<br/>
   [如何参与贡献](#如何参与贡献)<br/>
@@ -39,6 +40,7 @@
 * 支持多种方式订阅折扣信息
    * RSS
    * Telegram
+   * 钉钉
 * 开源免费，任何人可参与贡献
 
 
@@ -55,7 +57,9 @@
 |us|美国|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/us.xml|
 
 ## Telegram
-点击 [![github-issues](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel") 订阅
+点击 [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel") 订阅
+## 钉钉
+点击 [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk") 订阅
 # 关注焦点
 当前已收录 `5` 个 `国家或地区` 和 `118` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用
@@ -191,8 +195,9 @@
 4. 储存最新价格信息
 5. 更新 `RSS` 文件
 6. 推送通知到 `Telegram` 
-7. 更新 `README.md` 
-8. 提交 `Git` 更新
+7. 推送通知到 `钉钉` 
+8. 更新 `README.md` 
+9. 提交 `Git` 更新
 
 以上流程走完，如果有折扣信息，订阅了 `RSS 源` 和 `Telegram 频道` 的朋友，会收到推送
 # 如何参与贡献

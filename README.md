@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 18px;">An open-source App Store discounts tracker built on GitHub Actions, supporting RSS and Telegram notifications</p>
+  <p style="font-size: 18px;">An open-source App Store discounts tracker built on GitHub Actions, supporting RSS, Telegram and DingTalk notifications</p>
 
 
 English | [简体中文](https://github.com/eyelly-wu/appstore-discounts/blob/main/README_zh-CN.md)
@@ -20,6 +20,7 @@ English | [简体中文](https://github.com/eyelly-wu/appstore-discounts/blob/ma
   [How to Subscribe](#how-to-subscribe)<br/>
   &emsp;&emsp;[RSS](#rss)<br/>
   &emsp;&emsp;[Telegram](#telegram)<br/>
+  &emsp;&emsp;[DingTalk](#dingtalk)<br/>
   [Focus](#focus)<br/>
   [Operating Mechanism and Process](#operating-mechanism-and-process)<br/>
   [How to Contribute](#how-to-contribute)<br/>
@@ -39,6 +40,7 @@ Become the trusted savings assistant for  `App Store`  users, helping more peopl
 * Support multiple ways to subscribe to discount information
    * RSS
    * Telegram
+   * DingTalk
 * Open source and free, anyone can contribute
 
 
@@ -55,7 +57,9 @@ Become the trusted savings assistant for  `App Store`  users, helping more peopl
 |us|United States|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/us.xml|
 
 ## Telegram
-Click  [![github-issues](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel")  to Subscribe
+Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel")  to Subscribe
+## DingTalk
+Click  [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk")  to Subscribe
 # Focus
 So far, we've covered `5` `Countries or Regions` and  `118` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` 
@@ -191,8 +195,9 @@ The entire mechanism relies on scheduled tasks provided by  `GitHub Actions` , e
 4. Store the latest price information
 5. Update  `RSS`  files
 6. Push notification to  `Telegram` 
-7. Update  `README.md` 
-8. Submit  `Git`  update
+7. Push notification to  `DingTalk` 
+8. Update  `README.md` 
+9. Submit  `Git`  update
 
 After the above process, if there is discount information, friends who subscribed to  `RSS Source`  and  `Telegram Channel`  will receive a push notification
 # How to Contribute
