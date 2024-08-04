@@ -20,6 +20,7 @@ jobs:
         run: npm run rss
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          DING_TALK_BOT_TOKEN: ${{ secrets.DING_TALK_BOT_TOKEN }}
 
       - name: update README
         run: npx jtm run --watch false
