@@ -58,6 +58,263 @@ export const regionTimezoneMap: Record<Region, string> = {
  * 正常的话，中英文不一样就中英文各写一个就可以；这里的名称只有写代码的能看到
  */
 export const appConfig: AppConfig[] = [
+  {
+    id: 920133658,
+    name: ['解剖和生理学', { us: 'Anatomy & Physiology' }],
+  },
+  {
+    id: 6463851696,
+    name: ['功德++ : 锁屏，Standby，桌面小组件都可以敲的木鱼', { us: 'Zen++' }],
+  },
+  {
+    id: 1358237203,
+    name: '时间胶囊-寄往未来的信',
+  },
+  {
+    id: 1316883372,
+    name: '音乐世界赛特斯2',
+  },
+  {
+    id: 956086985,
+    name: ['美元折纸', { us: 'Dollar Bill Origami' }],
+  },
+  {
+    id: 1436481293,
+    name: ['迷失岛3宇宙的尘埃', { us: 'ISOLAND 3 Dust of the Universe' }],
+  },
+  {
+    id: 1422480068,
+    name: [
+      'Notes Writer Pro: 笔记和 PDF 标注',
+      { us: 'Notes Writer Pro 2024' },
+    ],
+  },
+  {
+    id: 6443915320,
+    name: '发条日签-好心情制造机',
+  },
+  {
+    id: 884153085,
+    name: 'Remote, Mouse & Keyboard Pro',
+  },
+  {
+    id: 1065802380,
+    name: 'Stream Music Player',
+  },
+  {
+    id: 533055404,
+    name: ['夜星 (Night Stars)', { us: 'Night Stars' }],
+  },
+  {
+    id: 1493379610,
+    name: [
+      '时光进度 - 进度管理&待办计划',
+      { us: 'bProgress - Manage Daily Tasks' },
+    ],
+  },
+  {
+    id: 1255627901,
+    name: [
+      '方便面 - 朋友圈图文排版好帮手',
+      { us: 'Instant Noodles: Original' },
+    ],
+  },
+  {
+    id: 1449020025,
+    name: '不玩手机-自律习惯养成记',
+  },
+  {
+    id: 1576004936,
+    name: ['化学 - 元素周期表 2024', { us: 'Chemistry Periodic Table 2024' }],
+  },
+  {
+    id: 827740598,
+    name: ['小牛计算器(高级版)', { us: 'Xmart Calculator Pro' }],
+  },
+  {
+    id: 355460798,
+    name: 'Inspire Pro',
+  },
+  {
+    id: 1595313870,
+    name: [
+      '瓦尔登 - 日程管理，一个就够',
+      { us: 'Walden - Calendar/ToDo/Notes' },
+    ],
+  },
+  {
+    id: 6449383791,
+    name: [
+      'GIF录制助手-录屏、裁剪、优化、生成一站式便捷体验',
+      { us: 'GIF Recorder-ImproveEfficiency' },
+    ],
+  },
+  {
+    id: 1587301632,
+    name: ['全能记(录音,备忘,流水)', { us: 'All In One Memo' }],
+  },
+  {
+    id: 1464666446,
+    name: ['我的足迹: GPS记录仪', { us: 'MyTracks: GPS Recorder' }],
+  },
+  {
+    id: 1665759338,
+    name: '坐在罐子里的人',
+  },
+  {
+    id: 953426154,
+    name: 'Be Focused Pro - Focus Timer',
+  },
+  {
+    id: 1238778050,
+    name: '纪念碑谷2',
+  },
+  {
+    id: 1020541183,
+    name: [
+      '电影精灵 - 专业视频编辑和电影制作',
+      { us: 'MovieSpirit - Movie Maker Pro' },
+    ],
+  },
+  {
+    id: 576718804,
+    name: ['aTimeLogger - 时间记录工具', { us: 'aTimeLogger Time Tracker' }],
+  },
+  {
+    id: 670400597,
+    name: ['梁的挠度', { us: 'Deflection' }],
+  },
+  {
+    id: 1400652313,
+    name: '冰钓大师',
+  },
+  {
+    id: 1551596643,
+    name: '模拟地铁',
+  },
+  {
+    id: 1437479513,
+    name: '逃脱者：困境突围',
+  },
+  {
+    id: 1314212521,
+    name: [
+      'PPHub For GitHub - 开发者必备',
+      { us: 'PPHub For GitHub - Developer' },
+    ],
+  },
+  {
+    id: 1564383045,
+    name: ['算法导论.助手', { us: 'CLRS.Helper' }],
+  },
+  {
+    id: 1380582804,
+    name: ['手机帝国', { us: 'Mobile Empire' }],
+  },
+  {
+    id: 6466390901,
+    name: '旋转音律 Rotaeno',
+  },
+  {
+    id: 1596406400,
+    name: '黄鸭证件照-最美求职考试证照制作神器',
+  },
+  {
+    id: 598581396,
+    name: [
+      'Kingdom Rush Frontiers 塔防史诗冒险',
+      { us: 'Kingdom Rush Frontiers TD' },
+    ],
+  },
+  {
+    id: 1157863540,
+    name: '泰拉瑞亚',
+  },
+  {
+    id: 1630541373,
+    name: [
+      '隐私相册-私密记忆，安心记录，安全保障隐藏秘密PRAM',
+      { us: 'Private Album - PRAM' },
+    ],
+  },
+  {
+    id: 1512838461,
+    name: ['DayCircle - 倒数', { us: 'DayCircle - Day counter' }],
+  },
+  {
+    id: 1400032769,
+    name: 'Card.Note - 多彩卡片笔记',
+  },
+  {
+    id: 460661291,
+    name: ['安全笔记+ Pro', { us: 'Safety Note+ Pro' }],
+  },
+  {
+    id: 505904421,
+    name: 'AirDisk Pro',
+  },
+  {
+    id: 1527841661,
+    name: ['沙盒星球', { us: 'Sandbox Planet' }],
+  },
+  {
+    id: 1159266744,
+    name: '双子 Gemini',
+  },
+  {
+    id: 1453808408,
+    name: ['恶果之地', { us: 'Juicy Realm' }],
+  },
+  {
+    id: 1458460469,
+    name: '人类跌落梦境',
+  },
+  {
+    id: 1481100296,
+    name: 'BreatheIn: Calm Breathing',
+  },
+  {
+    id: 431033044,
+    name: [
+      'Phone Drive - 云储存管理和文件共享',
+      { us: 'Phone Drive: File Storage Sync' },
+    ],
+  },
+  {
+    id: 1309638846,
+    name: [
+      'Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜',
+      { us: 'Vintage Camera - Goodak' },
+    ],
+  },
+  {
+    id: 1618180398,
+    name: [
+      '照片同步-导出备份相册照片视频',
+      { us: 'PhotoSync-Backup your photos' },
+    ],
+  },
+  {
+    id: 456637671,
+    name: ['安全监控照片+视频Pro', { us: 'Safety Photo+Video Pro' }],
+  },
+  {
+    id: 1453318714,
+    name: ['Vostok — 创建美丽快拍页面', { us: 'Vostok — Story Make' }],
+  },
+  {
+    id: 931188326,
+    name: ['DayCost', { us: 'Wafari - Watch Browser' }],
+  },
+  {
+    id: 6449930220,
+    name: ['手表浏览器 Wafari', { us: 'Wafari - Watch Browser' }],
+  },
+  {
+    id: 818394449,
+    name: ['时间轴-全球历史', { us: 'Timeline - World history' }],
+  },
+  { id: 1391571907, name: ['Fine修图', { us: 'Fine - Photo Edito' }] },
   { id: 6499125531, name: '完蛋！我被美女包围了！' },
   { id: 1485101937, name: 'Juice Watch' },
   {

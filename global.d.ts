@@ -7,8 +7,8 @@ declare global {
     id: number
     name:
       | string
-      | Partial<Record<string, string>>
-      | [string, Partial<Record<string, string>>]
+      | Partial<Record<Region, string>>
+      | [string, Partial<Record<Region, string>>]
   }
 
   type ResponseResult = {
