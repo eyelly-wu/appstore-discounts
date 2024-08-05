@@ -1,8 +1,7 @@
 import nodeFetch from 'node-fetch'
 import { load } from 'cheerio'
 import { isEmpty } from 'lodash'
-import { regionInAppPurchasesTextMap } from '../../appinfo.config'
-import { start, end } from './timer'
+import { regionInAppPurchasesTextMap } from '../../../appinfo.config'
 
 const IN_APP_PURCHASE_MAX_TIMES = 50
 
@@ -26,11 +25,13 @@ function getUrl(appIds: Array<string | number>, region: Region) {
   return url
 }
 
-async function getInAppPurchases(
+export async function getInAppPurchases(
   appInfo: RequestAppInfo,
   region: Region,
+  log: string,
   times = 1,
-): Promise<any> {
+): Promise<AppInfo['inAppPurchases']> {
+  console.log(log)
   const { trackViewUrl, formattedPrice, trackName } = appInfo
   const inAppPurchases: AppInfo['inAppPurchases'] = {}
   const url = `${trackViewUrl}${
@@ -94,7 +95,7 @@ async function getInAppPurchases(
       ((isPriceNotEqual && isEmpty(price)) || inAppPurchasesError) &&
       times <= IN_APP_PURCHASE_MAX_TIMES
     ) {
-      return await getInAppPurchases(appInfo, region, times + 1)
+      return await getInAppPurchases(appInfo, region, log, times + 1)
     }
   } catch (error) {
     console.error('getInAppPurchases request error:', error)
@@ -103,12 +104,13 @@ async function getInAppPurchases(
   return inAppPurchases
 }
 
-async function getAppInfo(
+export async function getAppInfo(
   appIds: Array<string | number>,
   region: Region,
+  log: string,
 ): Promise<RequestAppInfo[]> {
   let res: RequestAppInfo[] = []
-
+  console.log(log)
   try {
     const tempRes = (await nodeFetch(getUrl(appIds, region), {
       method: 'GET',
@@ -130,42 +132,9 @@ async function getAppInfo(
     if (
       errorMsg.includes('SyntaxError: Unexpected token < in JSON at position 0')
     ) {
-      res = await getAppInfo(appIds, region)
+      res = await getAppInfo(appIds, region, log)
     }
   }
 
-  return res
-}
-
-export default async function getRegionAppInfo(
-  appIds: Array<string | number>,
-  regions: Region[],
-) {
-  start('getRegionAppInfo')
-  const res: RegionAppInfo = {}
-
-  for (let i = 0; i < regions.length; i++) {
-    const region = regions[i]
-    const label = `【${i + 1}/${regions.length}】（${region}）`
-    console.info(`${label}getAppInfo`)
-    const appInfos = await getAppInfo(appIds, region)
-    if (appInfos.length > 0) {
-      const newAppInfos: AppInfo[] = []
-      for (let j = 0; j < appInfos.length; j++) {
-        const appInfo = appInfos[j]
-        console.log(
-          `${label}【${j + 1}/${appInfos.length}】${appInfo.trackName}`,
-        )
-        const inAppPurchases = await getInAppPurchases(appInfo, region)
-
-        newAppInfos.push({
-          ...appInfo,
-          inAppPurchases,
-        })
-      }
-      res[region] = newAppInfos
-    }
-  }
-  end('getRegionAppInfo')
   return res
 }
