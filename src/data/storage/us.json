@@ -2656,6 +2656,12 @@
     "history": [
       [
         {
+          "timestamp": 1722827032411,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1722784406759,
           "price": 0,
           "formattedPrice": "Free",
@@ -10747,6 +10753,15 @@
     "name": "Cyber Manhunt",
     "history": [
       [
+        {
+          "timestamp": 1722827032411,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        },
         {
           "timestamp": 1722744192203,
           "price": 4.99,
