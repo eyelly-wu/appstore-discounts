@@ -38,6 +38,15 @@ export async function getInAppPurchases(
     trackViewUrl.includes('?') ? '&' : '?'
   }timestamp=${Date.now()}`
 
+  function retry() {
+    if (times > IN_APP_PURCHASE_MAX_TIMES) return inAppPurchases
+    return new Promise<AppInfo['inAppPurchases']>((resolve) => {
+      setTimeout(() => {
+        resolve(getInAppPurchases(appInfo, region, log, times + 1))
+      }, 1000)
+    })
+  }
+
   try {
     const tempRes = (await nodeFetch(url, {
       method: 'GET',
@@ -81,24 +90,22 @@ export async function getInAppPurchases(
 
     if (isPriceNotEqual) {
       console.error(
-        `【${trackName}】appInfo price(${formattedPrice}) !== pageInfo price(${price})`,
+        `${log}【${trackName}】appInfo price(${formattedPrice}) !== pageInfo price(${price})`,
       )
     }
 
     if (inAppPurchasesError) {
       console.error(
-        `【${trackName}】is In-App purchase，but can't get relate info`,
+        `${log}【${trackName}】is In-App purchase，but can't get relate info`,
       )
     }
 
-    if (
-      ((isPriceNotEqual && isEmpty(price)) || inAppPurchasesError) &&
-      times <= IN_APP_PURCHASE_MAX_TIMES
-    ) {
-      return await getInAppPurchases(appInfo, region, log, times + 1)
+    if ((isPriceNotEqual && isEmpty(price)) || inAppPurchasesError) {
+      return retry()
     }
   } catch (error) {
-    console.error('getInAppPurchases request error:', error)
+    console.error(`${log} getInAppPurchases request error:`, error)
+    return retry()
   }
 
   return inAppPurchases
