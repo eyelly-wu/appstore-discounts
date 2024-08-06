@@ -26,6 +26,7 @@
   [如何参与贡献](#如何参与贡献)<br/>
   &emsp;&emsp;[1. 补充 `国家或地区` 或 `应用` ](#1-补充-国家或地区-或-应用)<br/>
   &emsp;&emsp;[2. 其他](#2-其他)<br/>
+  [Star History](#star-history)<br/>
   [License](#license)<br/>
 
 </details>
@@ -297,6 +298,13 @@
 
 ## 2. 其他
 若不想参与编码实现，只是有好的想法或者是发现 bug 直接提 `Issue` <br />若想参与编码实现，由于现有的逻辑较多，贸然改动可能会影响已储存数据，也是先提 `Issue` ，后续可以根据其影响模块或难易程度来决定指派任务
+# Star History
+<a href="https://star-history.com/#eyelly-wu/appstore-discounts&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"srcset="https://api.star-history.com/svg?repos=eyelly-wu/appstore-discounts&type=Date&theme=dark"></source><source media="(prefers-color-scheme: light)"srcset="https://api.star-history.com/svg?repos=eyelly-wu/appstore-discounts&type=Date"></source><img alt="Star History Chart"src="https://api.star-history.com/svg?repos=eyelly-wu/appstore-discounts&type=Date" />
+  </picture>
+</a>
+
 # License
 [MIT](./LICENSE)
 

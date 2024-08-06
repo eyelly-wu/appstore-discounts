@@ -26,6 +26,7 @@ English | [简体中文](https://github.com/eyelly-wu/appstore-discounts/blob/ma
   [How to Contribute](#how-to-contribute)<br/>
   &emsp;&emsp;[1. Add  `Country or Region`  or  `App` ](#1-add--country-or-region--or--app)<br/>
   &emsp;&emsp;[2. Other](#2-other)<br/>
+  [Star History](#star-history)<br/>
   [License](#license)<br/>
 
 </details>
@@ -297,6 +298,13 @@ A basic understanding of  `TypeScript`  is required. Here are the general steps.
 
 ## 2. Other
 If you don't want to participate in coding implementation, you can open an  `Issue`  if you have good ideas or find bugs<br />If you want to participate in coding implementation, due to the complexity of existing logic, rash changes may affect stored data. It's best to open an  `Issue`  first. Follow-up tasks can be assigned based on the affected modules or difficulty
+# Star History
+<a href="https://star-history.com/#eyelly-wu/appstore-discounts&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"srcset="https://api.star-history.com/svg?repos=eyelly-wu/appstore-discounts&type=Date&theme=dark"></source><source media="(prefers-color-scheme: light)"srcset="https://api.star-history.com/svg?repos=eyelly-wu/appstore-discounts&type=Date"></source><img alt="Star History Chart"src="https://api.star-history.com/svg?repos=eyelly-wu/appstore-discounts&type=Date" />
+  </picture>
+</a>
+
 # License
 [MIT](./LICENSE)
 
