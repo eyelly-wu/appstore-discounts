@@ -6955,6 +6955,14 @@
     "history": [
       [
         {
+          "timestamp": 1722907709335,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Card.Note Premiun": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1722873736301,
           "price": 0,
           "formattedPrice": "免費",
@@ -9704,6 +9712,12 @@
     "name": "算法導論.助手",
     "history": [
       [
+        {
+          "timestamp": 1722907709335,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1722873736301,
           "price": 0.29,
