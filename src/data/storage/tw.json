@@ -600,6 +600,19 @@
     "history": [
       [
         {
+          "timestamp": 1722952925540,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        },
+        {
           "timestamp": 1722873736301,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -3445,6 +3458,12 @@
     "name": "電影精靈 - 專業視頻編輯和電影製作",
     "history": [
       [
+        {
+          "timestamp": 1722952925540,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1722873736301,
           "price": 0,
