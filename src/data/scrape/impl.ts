@@ -1,6 +1,7 @@
 import nodeFetch from 'node-fetch'
 import { load } from 'cheerio'
 import { isEmpty } from 'lodash'
+import chalk from 'chalk'
 import { regionInAppPurchasesTextMap } from '../../../appinfo.config'
 
 const IN_APP_PURCHASE_MAX_TIMES = 50
@@ -39,7 +40,10 @@ export async function getInAppPurchases(
   }timestamp=${Date.now()}`
 
   function retry() {
-    if (times > IN_APP_PURCHASE_MAX_TIMES) return inAppPurchases
+    if (times > IN_APP_PURCHASE_MAX_TIMES) {
+      console.log(chalk.red(log))
+      return inAppPurchases
+    }
     return new Promise<AppInfo['inAppPurchases']>((resolve) => {
       setTimeout(() => {
         resolve(getInAppPurchases(appInfo, region, log, times + 1))
