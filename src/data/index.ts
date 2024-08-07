@@ -1,7 +1,7 @@
 import './i18n' // NOTE initial i18n
 import 'dotenv/config'
 import { regions, appConfig } from '../../appinfo.config'
-import getRegionAppInfo from './scrap'
+import getRegionAppInfo from './scrape'
 import { getStorageAppInfo, setStorageAppInfo } from './storage'
 import calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo from './calculate'
 import updateFeeds from './rss'
