@@ -75,11 +75,19 @@ declare global {
 
   type DateStorageAppInfo = TimeStorageAppInfo[]
 
+  type PriceInfo = {
+    price: number
+    formattedPrice: string
+    [key: string]: string | number
+  }
+
   type StorageAppInfo = Record<
     string,
     {
       name: string
       history: DateStorageAppInfo[]
+      maxPriceInfo: PriceInfo
+      minPriceInfo: PriceInfo
     }
   >
 

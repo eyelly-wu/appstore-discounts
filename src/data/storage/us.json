@@ -42,7 +42,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    }
   },
   "373454750": {
     "name": "随手记Pro",
@@ -332,7 +340,35 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "连续包月": "$3.99",
+      "6香蕉贝": "$0.99",
+      "免广告会员十二个月": "$1.99",
+      "连续包年": "$39.99",
+      "30香蕉贝": "$3.99",
+      "68香蕉贝": "$9.99",
+      "6随手贝": "$0.99",
+      "233香蕉贝": "$34.99",
+      "128香蕉贝": "$19.99",
+      "通用型套餐-25元": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "连续包月": "$3.99",
+      "6香蕉贝": "$0.99",
+      "免广告会员十二个月": "$1.99",
+      "连续包年": "$39.99",
+      "30香蕉贝": "$3.99",
+      "68香蕉贝": "$9.99",
+      "6随手贝": "$0.99",
+      "233香蕉贝": "$34.99",
+      "128香蕉贝": "$19.99",
+      "通用型套餐-25元": "$3.99"
+    }
   },
   "388624839": {
     "name": "CamScanner + | OCR Scanner",
@@ -562,7 +598,27 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "CamScanner Premium": "$49.99",
+      "One-page Fax": "$0.99",
+      "Ten-page Fax": "$8.99",
+      "3000 C-Points": "$4.99",
+      "600 cp + One chance to Draw": "$0.99",
+      "3000 cp + Six chance to Draw": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "CamScanner Premium": "$49.99",
+      "One-page Fax": "$0.99",
+      "Ten-page Fax": "$8.99",
+      "3000 C-Points": "$4.99",
+      "600 cp + One chance to Draw": "$0.99",
+      "3000 cp + Six chance to Draw": "$4.99"
+    }
   },
   "431033044": {
     "name": "Phone Drive: File Storage Sync",
@@ -632,7 +688,23 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Premium Cloud Service Lifetime": "$34.99",
+      "Premium Cloud Service Monthly": "$0.99",
+      "Premium Cloud Service Yearly": "$6.99",
+      "Reset Password": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Premium Cloud Service Lifetime": "$34.99",
+      "Premium Cloud Service Monthly": "$0.99",
+      "Premium Cloud Service Yearly": "$6.99",
+      "Reset Password": "$0.99"
+    }
   },
   "456637671": {
     "name": "Safety Photo+Video Pro",
@@ -732,7 +804,35 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Reset Password": "$0.99",
+      "iCloud Sync Yearly": "$7.99",
+      "iCloud Sync Monthly": "$0.99",
+      "iCloud Sync Lifetime": "$39.99",
+      "100 GB monthly": "$5.99",
+      "200 GB monthly": "$9.99",
+      "100 GB yearly": "$59.99",
+      "1 TB monthly": "$47.99",
+      "1 TB yearly": "$479.99",
+      "200 GB yearly": "$99.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Reset Password": "$0.99",
+      "iCloud Sync Yearly": "$7.99",
+      "iCloud Sync Monthly": "$0.99",
+      "iCloud Sync Lifetime": "$39.99",
+      "100 GB monthly": "$5.99",
+      "200 GB monthly": "$9.99",
+      "100 GB yearly": "$59.99",
+      "1 TB monthly": "$47.99",
+      "1 TB yearly": "$479.99",
+      "200 GB yearly": "$99.99"
+    }
   },
   "460661291": {
     "name": "Safety Note+ Pro",
@@ -825,7 +925,27 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "iCloud Sync Yearly": "$6.99",
+      "iCloud Sync Monthly": "$0.99",
+      "Cloud Backup Yearly": "$8.99",
+      "Reset Password": "$0.99",
+      "iCloud Sync Lifetime": "$34.99",
+      "Cloud Backup Monthly": "$1.49"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "iCloud Sync Yearly": "$6.99",
+      "iCloud Sync Monthly": "$0.99",
+      "Cloud Backup Yearly": "$8.99",
+      "Reset Password": "$0.99",
+      "iCloud Sync Lifetime": "$34.99",
+      "Cloud Backup Monthly": "$1.49"
+    }
   },
   "469338840": {
     "name": "飞常准Pro-全球航班查询机票酒店预订",
@@ -950,7 +1070,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "481629890": {
     "name": "LIMBO by Playdead",
@@ -1075,7 +1203,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    }
   },
   "488674899": {
     "name": "RAIN RADAR °- sky weather NOAA",
@@ -1278,7 +1414,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free"
+    }
   },
   "505904421": {
     "name": "AirDisk Pro",
@@ -1359,7 +1503,23 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Lifetime Cloud Services": "$34.99",
+      "Yearly Cloud Services": "$6.99",
+      "Monthly Cloud Services": "$1.99",
+      "Reset Password": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime Cloud Services": "$34.99",
+      "Yearly Cloud Services": "$6.99",
+      "Monthly Cloud Services": "$1.99",
+      "Reset Password": "$0.99"
+    }
   },
   "510249014": {
     "name": "Level HD.",
@@ -1484,7 +1644,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "533055404": {
     "name": "Night Stars",
@@ -1547,7 +1715,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 5,
+      "formattedPrice": "$5.00",
+      "Remove advertisement": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Remove advertisement": "$1.99"
+    }
   },
   "576718804": {
     "name": "aTimeLogger Time Tracker",
@@ -1592,7 +1770,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "578665578": {
     "name": "Threema. The Secure Messenger",
@@ -1717,7 +1903,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    }
   },
   "598581396": {
     "name": "Kingdom Rush Frontiers TD",
@@ -1919,7 +2113,57 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Bonehart": "$6.99",
+      "Ashbite": "$6.99",
+      "Sha'tra": "$2.99",
+      "Nivus": "$0.99",
+      "Chest of gems": "$9.99",
+      "Grawl": "$2.99",
+      "Dante": "$4.99",
+      "Bag of gems": "$4.99",
+      "Captain Blackthorne": "$0.99",
+      "Kahz": "$4.99",
+      "Vault Of Gems": "$49.99",
+      "Wagon Of Gems": "$19.99",
+      "Chest Of Gems": "$9.99",
+      "Barrel Of Gems": "$4.99",
+      "Bag Of Gems": "$2.99",
+      "Special Offer Saitam": "$2.99",
+      "Big Hero Pack 2": "$12.99",
+      "Saitam": "$4.99",
+      "Big Hero Pack": "$9.99",
+      "Hero Pack 5": "$4.99",
+      "Dierdre": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Bonehart": "$6.99",
+      "Ashbite": "$6.99",
+      "Sha'tra": "$2.99",
+      "Nivus": "$0.99",
+      "Chest of gems": "$9.99",
+      "Grawl": "$2.99",
+      "Dante": "$4.99",
+      "Bag of gems": "$4.99",
+      "Captain Blackthorne": "$0.99",
+      "Kahz": "$4.99",
+      "Vault Of Gems": "$49.99",
+      "Wagon Of Gems": "$19.99",
+      "Chest Of Gems": "$9.99",
+      "Barrel Of Gems": "$4.99",
+      "Bag Of Gems": "$2.99",
+      "Special Offer Saitam": "$2.99",
+      "Big Hero Pack 2": "$12.99",
+      "Saitam": "$4.99",
+      "Big Hero Pack": "$9.99",
+      "Hero Pack 5": "$4.99",
+      "Dierdre": "$0.99"
+    }
   },
   "656951157": {
     "name": "Playdead's LIMBO",
@@ -2044,7 +2288,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    }
   },
   "670400597": {
     "name": "Deflection",
@@ -2089,7 +2341,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    }
   },
   "703265535": {
     "name": "FocusDots · Focus What Matters",
@@ -2214,7 +2474,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    }
   },
   "728293409": {
     "name": "Monument Valley",
@@ -2369,7 +2637,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Forgotten Shores": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Forgotten Shores": "$1.99"
+    }
   },
   "730712409": {
     "name": "ProCam - Pro Camera",
@@ -2684,7 +2962,29 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99",
+      "4K Ultra HD Video": "$4.99",
+      "The Master Collection": "$1.99",
+      "4K Ultra HD Time Lapse": "$2.99",
+      "The Urban Collection": "$0.99",
+      "The Elemental Collection": "$0.99",
+      "Batch Photo Actions": "$0.00",
+      "8K Max Time Lapse": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "4K Ultra HD Video": "$4.99",
+      "The Master Collection": "$1.99",
+      "4K Ultra HD Time Lapse": "$2.99",
+      "The Urban Collection": "$0.99",
+      "The Elemental Collection": "$0.99",
+      "Batch Photo Actions": "$0.00",
+      "8K Max Time Lapse": "$7.99"
+    }
   },
   "754105884": {
     "name": "NightCap Camera",
@@ -2809,7 +3109,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    }
   },
   "768160271": {
     "name": "航旅纵横PRO-官方机票、值机火车票接送机免税酒店",
@@ -2934,7 +3242,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "818394449": {
     "name": "Timeline - World history",
@@ -2979,7 +3295,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    }
   },
   "827740598": {
     "name": "Xmart Calculator Pro",
@@ -3024,7 +3348,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    }
   },
   "866450515": {
     "name": "Forest: Focus for Productivity",
@@ -3254,7 +3586,27 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Box of Sunshine Elixir": "$1.99",
+      "Bottle of Sunshine Elixir": "$0.99",
+      "Small pot of Crystal": "$4.99",
+      "Large bag of Crystal": "$10.99",
+      "Shovelful of Crystal": "$0.99",
+      "Cartful of Crystal": "$21.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Box of Sunshine Elixir": "$1.99",
+      "Bottle of Sunshine Elixir": "$0.99",
+      "Small pot of Crystal": "$4.99",
+      "Large bag of Crystal": "$10.99",
+      "Shovelful of Crystal": "$0.99",
+      "Cartful of Crystal": "$21.99"
+    }
   },
   "884153085": {
     "name": "Remote, Mouse & Keyboard Pro",
@@ -3299,7 +3651,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00"
+    },
+    "minPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00"
+    }
   },
   "886561127": {
     "name": "INSIDE by Playdead",
@@ -3424,7 +3784,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    }
   },
   "898876435": {
     "name": "Planit Pro: Photo Planner",
@@ -3624,7 +3992,23 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "3D Model (A Year)": "$5.99",
+      "3D Model (A Month)": "$0.99",
+      "Location Explorer (Month)": "$4.99",
+      "Location Explorer (A Year)": "$29.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "3D Model (A Year)": "$5.99",
+      "3D Model (A Month)": "$0.99",
+      "Location Explorer (Month)": "$4.99",
+      "Location Explorer (A Year)": "$29.99"
+    }
   },
   "900833042": {
     "name": "Fliqlo",
@@ -3749,7 +4133,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "904237743": {
     "name": "Things 3",
@@ -3874,7 +4266,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    }
   },
   "916366645": {
     "name": "Procreate Pocket",
@@ -3999,7 +4399,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    }
   },
   "920133658": {
     "name": "Anatomy & Physiology",
@@ -4044,7 +4452,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 34.99,
+      "formattedPrice": "$34.99"
+    },
+    "minPriceInfo": {
+      "price": 34.99,
+      "formattedPrice": "$34.99"
+    }
   },
   "931188326": {
     "name": "DayCost Pro - Personal Finance",
@@ -4095,7 +4511,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free"
+    }
   },
   "932747118": {
     "name": "Shadowrocket",
@@ -4220,7 +4644,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    }
   },
   "953426154": {
     "name": "Be Focused Pro - Focus Timer",
@@ -4265,7 +4697,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    }
   },
   "956086985": {
     "name": "Dollar Bill Origami",
@@ -4310,7 +4750,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    }
   },
   "966489322": {
     "name": "生辰 — 桌面时间小组件",
@@ -4435,7 +4883,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1009747025": {
     "name": "zFuse - Video Player",
@@ -4560,7 +5016,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    }
   },
   "1020541183": {
     "name": "MovieSpirit - Movie Maker Pro",
@@ -4617,7 +5081,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free"
+    }
   },
   "1054505347": {
     "name": "zFuse - Media Player",
@@ -4772,7 +5244,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Remove ads": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Remove ads": "$9.99"
+    }
   },
   "1062745479": {
     "name": "HeartWatch: Heart Rate Tracker",
@@ -4897,7 +5379,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    }
   },
   "1065802380": {
     "name": "Stream Music Player",
@@ -4942,7 +5432,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    }
   },
   "1067198688": {
     "name": "彩云天气Pro",
@@ -5187,7 +5685,29 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99",
+      "SVIP auto-renew annually": "$12.99",
+      "SVIP auto-renew yearly": "$12.99",
+      "100 Days SVIP": "$2.99",
+      "1-Year SVIP": "$12.99",
+      "Quarterly SVIP": "$2.99",
+      "500 Conversations": "$9.99",
+      "250 Conversations": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99",
+      "SVIP auto-renew annually": "$12.99",
+      "SVIP auto-renew yearly": "$12.99",
+      "100 Days SVIP": "$2.99",
+      "1-Year SVIP": "$12.99",
+      "Quarterly SVIP": "$2.99",
+      "500 Conversations": "$9.99",
+      "250 Conversations": "$4.99"
+    }
   },
   "1080235640": {
     "name": "CNU - 顶尖视觉精选",
@@ -5312,7 +5832,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    }
   },
   "1085114709": {
     "name": "Parallels Desktop",
@@ -5542,7 +6070,27 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Parallels Desktop for Mac": "$99.99",
+      "Parallels Desktop for Mac #4": "$99.99",
+      "Subscription (1 year)": "$99.99",
+      "Parallels Desktop for Mac #2": "$99.99",
+      "Parallels Desktop for Mac #3": "$99.99",
+      "Parallels Desktop for Mac #5": "$99.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Parallels Desktop for Mac": "$99.99",
+      "Parallels Desktop for Mac #4": "$99.99",
+      "Subscription (1 year)": "$99.99",
+      "Parallels Desktop for Mac #2": "$99.99",
+      "Parallels Desktop for Mac #3": "$99.99",
+      "Parallels Desktop for Mac #5": "$99.99"
+    }
   },
   "1117998129": {
     "name": "Human Anatomy Atlas 2025",
@@ -5727,7 +6275,21 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 24.99,
+      "formattedPrice": "$24.99",
+      "Patient Education Animations": "$19.99",
+      "Advanced Animations": "$9.99",
+      "3D Dental Anatomy": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 24.99,
+      "formattedPrice": "$24.99",
+      "Patient Education Animations": "$19.99",
+      "Advanced Animations": "$9.99",
+      "3D Dental Anatomy": "$7.99"
+    }
   },
   "1136220934": {
     "name": "Infuse • Video Player",
@@ -5942,7 +6504,25 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Infuse Pro - Monthly": "$1.99",
+      "Infuse Pro - Yearly": "$12.99",
+      "DTS Audio": "$0.00",
+      "Dolby Audio": "$0.00",
+      "Infuse Pro - Lifetime": "$99.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Infuse Pro - Monthly": "$1.99",
+      "Infuse Pro - Yearly": "$12.99",
+      "DTS Audio": "$0.00",
+      "Dolby Audio": "$0.00",
+      "Infuse Pro - Lifetime": "$99.99"
+    }
   },
   "1152396902": {
     "name": "凤凰新闻(专业版)-头条新闻阅读平台",
@@ -6232,7 +6812,35 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "私信付费1元": "$0.99",
+      "私信付费8元": "$0.99",
+      "私信付费6元": "$0.99",
+      "私信付费3元": "$0.99",
+      "998元": "$149.99",
+      "618元": "$94.99",
+      "488元": "$74.99",
+      "218元": "$31.99",
+      "118元": "$17.99",
+      "50元": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "私信付费1元": "$0.99",
+      "私信付费8元": "$0.99",
+      "私信付费6元": "$0.99",
+      "私信付费3元": "$0.99",
+      "998元": "$149.99",
+      "618元": "$94.99",
+      "488元": "$74.99",
+      "218元": "$31.99",
+      "118元": "$17.99",
+      "50元": "$7.99"
+    }
   },
   "1159700098": {
     "name": "To the Moon",
@@ -6429,7 +7037,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    }
   },
   "1163515895": {
     "name": "鲨鱼记账本Pro-管家理财必备工具",
@@ -6719,7 +7335,35 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "98财富币": "$14.99",
+      "6财富币": "$0.99",
+      "68财富币": "$9.99",
+      "128财富币": "$19.99",
+      "88财富币": "$12.99",
+      "198财富币": "$29.99",
+      "168财富币": "$24.99",
+      "1998财富币": "$299.99",
+      "1598财富币": "$229.99",
+      "898财富币": "$129.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "98财富币": "$14.99",
+      "6财富币": "$0.99",
+      "68财富币": "$9.99",
+      "128财富币": "$19.99",
+      "88财富币": "$12.99",
+      "198财富币": "$29.99",
+      "168财富币": "$24.99",
+      "1998财富币": "$299.99",
+      "1598财富币": "$229.99",
+      "898财富币": "$129.99"
+    }
   },
   "1164801111": {
     "name": "AutoSleep Track Sleep on Watch",
@@ -6844,7 +7488,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    }
   },
   "1197275827": {
     "name": "金十数据专业版-为交易而生",
@@ -7029,7 +7681,21 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "VIP会员  1个月": "$59.99",
+      "VIP会员  1年": "$599.99",
+      "VIP会员  3个月": "$149.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "VIP会员  1个月": "$59.99",
+      "VIP会员  1年": "$599.99",
+      "VIP会员  3个月": "$149.99"
+    }
   },
   "1201642309": {
     "name": "Playdead's INSIDE",
@@ -7184,7 +7850,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "INSIDE full game": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "INSIDE full game": "$6.99"
+    }
   },
   "1210251567": {
     "name": "SleepTown",
@@ -7309,7 +7985,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    }
   },
   "1255627901": {
     "name": "Instant Noodles: Original",
@@ -7354,7 +8038,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    }
   },
   "1261944766": {
     "name": "Alook Browser - 8x Speed",
@@ -7479,7 +8171,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1271620263": {
     "name": "ICEY",
@@ -7604,7 +8304,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    }
   },
   "1309638846": {
     "name": "Vintage Camera - Goodak",
@@ -7704,7 +8412,35 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Upgrade Deluxe Edition": "$5.99",
+      "Retro Frame Pack": "$0.99",
+      "Color Frame Pack": "$0.99",
+      "Blue Cam Film Pack": "$0.99",
+      "Stroke Frame Pack": "$0.99",
+      "Black Cam Film Pack": "$0.99",
+      "Purple Cam Film Pack": "$0.99",
+      "Green Cam Film Pack": "$0.99",
+      "Stamp Frame Pack": "$0.99",
+      "Red Cam Film Pack": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Upgrade Deluxe Edition": "$5.99",
+      "Retro Frame Pack": "$0.99",
+      "Color Frame Pack": "$0.99",
+      "Blue Cam Film Pack": "$0.99",
+      "Stroke Frame Pack": "$0.99",
+      "Black Cam Film Pack": "$0.99",
+      "Purple Cam Film Pack": "$0.99",
+      "Green Cam Film Pack": "$0.99",
+      "Stamp Frame Pack": "$0.99",
+      "Red Cam Film Pack": "$0.99"
+    }
   },
   "1314212521": {
     "name": "PPHub For GitHub - Developer",
@@ -7749,7 +8485,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1319191852": {
     "name": "熊猫吃短信 - 垃圾短信过滤",
@@ -7874,7 +8618,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1358237203": {
     "name": "时间胶囊-寄往未来的信",
@@ -7974,7 +8726,35 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "纸短情长-纸质信纸尊享版": "$5.99",
+      "纸短情长-纸质信纸普通版": "$1.99",
+      "时间胶囊-永久去广告": "$0.99",
+      "时间胶囊-年度超级会员": "$2.99",
+      "纸短情长-纸质信纸升级版": "$3.99",
+      "时间胶囊-月度超级会员服务": "$0.99",
+      "时间胶囊超级会员": "$5.99",
+      "给你的Ta寄一封三行情书": "$0.99",
+      "给未来寄一封带照片的信": "$0.99",
+      "获取不限字数的信纸": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "纸短情长-纸质信纸尊享版": "$5.99",
+      "纸短情长-纸质信纸普通版": "$1.99",
+      "时间胶囊-永久去广告": "$0.99",
+      "时间胶囊-年度超级会员": "$2.99",
+      "纸短情长-纸质信纸升级版": "$3.99",
+      "时间胶囊-月度超级会员服务": "$0.99",
+      "时间胶囊超级会员": "$5.99",
+      "给你的Ta寄一封三行情书": "$0.99",
+      "给未来寄一封带照片的信": "$0.99",
+      "获取不限字数的信纸": "$0.99"
+    }
   },
   "1361473095": {
     "name": "Muse Dash",
@@ -8327,7 +9107,33 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "unlockall_0": "$27.99",
+      "Touhou Mugakudan -Ⅰ-": "$3.99",
+      "Muse Radio FM101": "$3.99",
+      "Miku in Museland": "$8.99",
+      "unlockall_29": "$33.99",
+      "Rin·Len's Mirrorland": "$8.99",
+      "cyTus": "$5.99",
+      "Let's GROOVE": "$3.99",
+      "Give Up TREATMENT Vol.3": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "unlockall_0": "$27.99",
+      "Touhou Mugakudan -Ⅰ-": "$3.99",
+      "Muse Radio FM101": "$3.99",
+      "Miku in Museland": "$5.99",
+      "unlockall_29": "$33.99",
+      "Rin·Len's Mirrorland": "$5.99",
+      "cyTus": "$5.99",
+      "Let's GROOVE": "$3.99",
+      "Give Up TREATMENT Vol.3": "$3.99"
+    }
   },
   "1369179088": {
     "name": "Grimvalor",
@@ -8452,7 +9258,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    }
   },
   "1371965583": {
     "name": "The Gardens Between",
@@ -8577,7 +9391,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    }
   },
   "1373567447": {
     "name": "Loon",
@@ -8702,7 +9524,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    }
   },
   "1373575045": {
     "name": "The Gardens Between",
@@ -8827,7 +9657,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    }
   },
   "1380582804": {
     "name": "Mobile Empire",
@@ -8872,7 +9710,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    }
   },
   "1389752090": {
     "name": "Dead Cells",
@@ -9072,7 +9918,23 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99",
+      "The Bad Seed": "$3.99",
+      "Fatal Falls": "$3.99",
+      "The Queen and the Sea": "$3.99",
+      "Return to Castlevania": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99",
+      "The Bad Seed": "$3.99",
+      "Fatal Falls": "$3.99",
+      "The Queen and the Sea": "$3.99",
+      "Return to Castlevania": "$6.99"
+    }
   },
   "1391571907": {
     "name": "Fine - Photo Editor",
@@ -9117,7 +9979,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    }
   },
   "1400032769": {
     "name": "Card.Note - 多彩卡片笔记",
@@ -9180,7 +10050,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Card.Note Premiun": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Card.Note Premiun": "$0.99"
+    }
   },
   "1422480068": {
     "name": "Notes Writer Pro 2024",
@@ -9235,7 +10115,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "Notes Writer Pro AI Assistant": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "Notes Writer Pro AI Assistant": "$1.99"
+    }
   },
   "1436481293": {
     "name": "ISOLAND 3 Dust of the Universe",
@@ -9305,7 +10195,23 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "A stack of gold coins": "$0.99",
+      "A gold coin": "$0.99",
+      "A bundle of gold coins": "$1.99",
+      "A large number of gold coins": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "A stack of gold coins": "$0.99",
+      "A gold coin": "$0.99",
+      "A bundle of gold coins": "$1.99",
+      "A large number of gold coins": "$4.99"
+    }
   },
   "1439723850": {
     "name": "Countdown! Reminders and Timer",
@@ -9535,7 +10441,27 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Unlock all Tools": "$0.99",
+      "Unlock all dynamic wallpapers": "$0.99",
+      "Permanent VIP": "$3.99",
+      "Monthly VIP": "$0.49",
+      "Yearly VIP": "$3.49",
+      "Transparent Widget": "$0.00"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Unlock all Tools": "$0.99",
+      "Unlock all dynamic wallpapers": "$0.99",
+      "Permanent VIP": "$3.99",
+      "Monthly VIP": "$0.49",
+      "Yearly VIP": "$3.49",
+      "Transparent Widget": "$0.00"
+    }
   },
   "1442620678": {
     "name": "Surge 5",
@@ -9705,7 +10631,19 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Surge Pro": "$49.99",
+      "Feature Subscription": "$14.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Surge Pro": "$49.99",
+      "Feature Subscription": "$14.99"
+    }
   },
   "1443988620": {
     "name": "Quantumult X",
@@ -9830,7 +10768,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    }
   },
   "1445379072": {
     "name": "GRIS",
@@ -9955,7 +10901,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    }
   },
   "1449020025": {
     "name": "不玩手机-自律习惯养成记",
@@ -10010,7 +10964,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "不玩手机永久会员": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "不玩手机永久会员": "$3.99"
+    }
   },
   "1453318714": {
     "name": "Vostok — Story Maker",
@@ -10061,7 +11025,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free"
+    }
   },
   "1453808408": {
     "name": "Juicy Realm",
@@ -10106,7 +11078,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    }
   },
   "1459076631": {
     "name": "隐形守护者",
@@ -10261,7 +11241,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "解锁剩余九个章节": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "解锁剩余九个章节": "$3.99"
+    }
   },
   "1464666446": {
     "name": "MyTracks: GPS Recorder",
@@ -10326,7 +11316,21 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "MyTracks Premium": "$9.99",
+      "300 Altitude Query Times": "$3.99",
+      "100 Altitude Query Times": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "MyTracks Premium": "$9.99",
+      "300 Altitude Query Times": "$3.99",
+      "100 Altitude Query Times": "$2.99"
+    }
   },
   "1465779286": {
     "name": "GRIS",
@@ -10451,7 +11455,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    }
   },
   "1467880680": {
     "name": "LEDot",
@@ -10614,7 +11626,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Advanced Features": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29",
+      "Advanced Features": "$1.99"
+    }
   },
   "1476649036": {
     "name": "Pascal's Wager",
@@ -10859,7 +11881,29 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Deep into the Dark Mist": "$0.99",
+      "The Tides of Oblivion": "$2.99",
+      "Herald outfit for Terrence": "$0.99",
+      "Dance of the Throne": "$1.99",
+      "Sleeping Beauty": "$0.99",
+      "Initiation Rite": "$0.99",
+      "Enigma": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Deep into the Dark Mist": "$0.99",
+      "The Tides of Oblivion": "$2.99",
+      "Herald outfit for Terrence": "$0.99",
+      "Dance of the Throne": "$1.99",
+      "Sleeping Beauty": "$0.99",
+      "Initiation Rite": "$0.99",
+      "Enigma": "$0.99"
+    }
   },
   "1481100296": {
     "name": "BreatheIn: Calm Breathing",
@@ -10904,7 +11948,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    }
   },
   "1484181693": {
     "name": "截图超人 - 微商专用的营销助手截图神器",
@@ -11029,7 +12081,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    }
   },
   "1485101937": {
     "name": "Juice Watch",
@@ -11316,7 +12376,19 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99",
+      "Premium Features": "$3.99",
+      "Value for Value": "$24.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Premium Features": "$3.99",
+      "Value for Value": "$24.99"
+    }
   },
   "1492395549": {
     "name": "爱美剧-人人美剧天堂社区",
@@ -11441,7 +12513,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    }
   },
   "1493379610": {
     "name": "bProgress - Manage Daily Tasks",
@@ -11486,7 +12566,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1512838461": {
     "name": "DayCircle - Day counter",
@@ -11531,7 +12619,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    }
   },
   "1522215205": {
     "name": "拒之-骚扰电话批量拦截助手",
@@ -11746,7 +12842,25 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "6包野果": "$0.99",
+      "698包野果": "$96.99",
+      "98包野果": "$14.99",
+      "30包野果": "$4.99",
+      "12包野果": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "6包野果": "$0.99",
+      "698包野果": "$96.99",
+      "98包野果": "$14.99",
+      "30包野果": "$4.99",
+      "12包野果": "$1.99"
+    }
   },
   "1527841661": {
     "name": "Sandbox Planet",
@@ -11826,7 +12940,27 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 12,
+      "formattedPrice": "$12.00",
+      "Remove Ad": "$2.99",
+      "5000 GP": "$1.99",
+      "25000 GP": "$5.99",
+      "50000 GP": "$9.99",
+      "200000 GP": "$29.99",
+      "120000 GP": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "$12.00",
+      "Remove Ad": "$2.99",
+      "5000 GP": "$1.99",
+      "25000 GP": "$5.99",
+      "50000 GP": "$9.99",
+      "200000 GP": "$29.99",
+      "120000 GP": "$19.99"
+    }
   },
   "1529445840": {
     "name": "Reeder 5",
@@ -11951,7 +13085,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    }
   },
   "1529448980": {
     "name": "Reeder 5.",
@@ -12076,7 +13218,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    }
   },
   "1548711022": {
     "name": "Barbee - Hide Menu Bar Items",
@@ -12276,7 +13426,23 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime": "$3.99",
+      "Free Trial": "$0.00",
+      "Yearly VIP": "$2.99",
+      "Tester Award": "$0.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime": "$3.99",
+      "Free Trial": "$0.00",
+      "Yearly VIP": "$2.99",
+      "Tester Award": "$0.00"
+    }
   },
   "1552536109": {
     "name": "PasteNow - Instant Clipboard",
@@ -12446,7 +13612,19 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "PasteNow Free Trial": "$0.00",
+      "PasteNow Pro": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "PasteNow Free Trial": "$0.00",
+      "PasteNow Pro": "$7.99"
+    }
   },
   "1558391784": {
     "name": "Fileball",
@@ -12601,7 +13779,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Fileball Pro Lifetime": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Fileball Pro Lifetime": "$9.99"
+    }
   },
   "1564383045": {
     "name": "CLRS.Helper",
@@ -12652,7 +13840,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29"
+    }
   },
   "1575588022": {
     "name": "MenubarX - Floating Browser",
@@ -12807,7 +14003,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "MenubarX Pro": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "MenubarX Pro": "$6.99"
+    }
   },
   "1576004936": {
     "name": "Chemistry Periodic Table 2024",
@@ -12852,7 +14058,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    }
   },
   "1587301632": {
     "name": "All In One Memo",
@@ -12897,7 +14111,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1587860402": {
     "name": "Moncage",
@@ -13022,7 +14244,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    }
   },
   "1595313870": {
     "name": "Walden - Calendar/ToDo/Notes",
@@ -13112,7 +14342,31 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime Membership": "$9.99",
+      "Yearly Membership": "$3.99",
+      "Lifetime - Education": "$9.99",
+      "Monthly Membership": "$0.99",
+      "月度会员": "$0.99",
+      "Quarterly Membership": "$1.99",
+      "年度会员升级终身会员": "$9.99",
+      "年度会员": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime Membership": "$9.99",
+      "Yearly Membership": "$3.99",
+      "Lifetime - Education": "$9.99",
+      "Monthly Membership": "$0.99",
+      "月度会员": "$0.99",
+      "Quarterly Membership": "$1.99",
+      "年度会员升级终身会员": "$9.99",
+      "年度会员": "$3.99"
+    }
   },
   "1595901138": {
     "name": "Handheld Game - NES Emulator",
@@ -13237,7 +14491,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1596063349": {
     "name": "Stash - Rule Based Proxy",
@@ -13362,7 +14624,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    }
   },
   "1596406400": {
     "name": "黄鸭证件照-最美求职考试证照制作神器",
@@ -13432,7 +14702,23 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "黄鸭证件照永久VIP": "$1.99",
+      "黄鸭证件照3元": "$0.99",
+      "黄鸭证件照-周度会员": "$0.99",
+      "黄鸭证件照1元": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "黄鸭证件照永久VIP": "$1.99",
+      "黄鸭证件照3元": "$0.99",
+      "黄鸭证件照-周度会员": "$0.99",
+      "黄鸭证件照1元": "$0.99"
+    }
   },
   "1598130789": {
     "name": "Company of Heroes Collection",
@@ -13722,7 +15008,35 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99",
+      "All Content": "$0.00",
+      "Opposing Fronts": "$0.00",
+      "Tales of Valor": "$0.00",
+      "1 vs 1 Skirmish Maps": "$0.00",
+      "Invasion of Normandy 2-5": "$0.00",
+      "2 vs 2 Skirmish Maps": "$0.00",
+      "4 vs 4 Skirmish Maps": "$0.00",
+      "High-Quality Models": "$0.00",
+      "3 vs 3 Skirmish Maps": "$0.00",
+      "Invasion of Normandy 6-10": "$0.00"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99",
+      "All Content": "$0.00",
+      "Opposing Fronts": "$0.00",
+      "Tales of Valor": "$0.00",
+      "1 vs 1 Skirmish Maps": "$0.00",
+      "Invasion of Normandy 2-5": "$0.00",
+      "2 vs 2 Skirmish Maps": "$0.00",
+      "4 vs 4 Skirmish Maps": "$0.00",
+      "High-Quality Models": "$0.00",
+      "3 vs 3 Skirmish Maps": "$0.00",
+      "Invasion of Normandy 6-10": "$0.00"
+    }
   },
   "1601446687": {
     "name": "Streets of Rage 4",
@@ -13877,7 +15191,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99",
+      "Mr. X Nightmare DLC": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99",
+      "Mr. X Nightmare DLC": "$2.99"
+    }
   },
   "1606703078": {
     "name": "Gunfire Reborn",
@@ -14032,7 +15356,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99",
+      "$1.99 Bundle": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99",
+      "$1.99 Bundle": "$1.99"
+    }
   },
   "1618180398": {
     "name": "PhotoSync-Backup your photos",
@@ -14077,7 +15411,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1620883955": {
     "name": "Little Nightmares",
@@ -14202,7 +15544,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    }
   },
   "1622341132": {
     "name": "iSleeper: Sleep Tracker",
@@ -14327,7 +15677,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    }
   },
   "1625289361": {
     "name": "AirShot - AuditoryAR",
@@ -14452,7 +15810,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1630034110": {
     "name": "Bob - 翻译和 OCR 工具",
@@ -14637,7 +16003,21 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Bob Free Trial": "$0.00",
+      "Bob Pro": "$8.99",
+      "Bob Pro Original": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Bob Free Trial": "$0.00",
+      "Bob Pro": "$8.99",
+      "Bob Pro Original": "$8.99"
+    }
   },
   "1630403500": {
     "name": "APTV",
@@ -14792,7 +16172,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "APTV Pro": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "APTV Pro": "$3.99"
+    }
   },
   "1630541373": {
     "name": "Private Album - PRAM",
@@ -14847,7 +16237,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Buy Pro Version": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Buy Pro Version": "$2.99"
+    }
   },
   "1631331207": {
     "name": "Hitman: Blood Money — Reprisal",
@@ -14972,7 +16372,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99"
+    }
   },
   "1633366918": {
     "name": "Instant Lines",
@@ -15097,7 +16505,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1633865171": {
     "name": "獬豸 · 民法典",
@@ -15222,7 +16638,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1636719674": {
     "name": "Lock Launcher - Screen Widgets",
@@ -15407,7 +16831,21 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro(Lifetime)": "$8.99",
+      "Pro (Yearly)": "$6.99",
+      "Pro (Monthly)": "$1.49"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro(Lifetime)": "$8.99",
+      "Pro (Yearly)": "$6.99",
+      "Pro (Monthly)": "$1.49"
+    }
   },
   "1640627334": {
     "name": "Resident Evil Village for Mac",
@@ -15592,7 +17030,21 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "$39.99",
+      "DLC pack": "$19.99",
+      "All Access Voucher": "$4.99",
+      "Street Wolf Outfit": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "$39.99",
+      "DLC pack": "$19.99",
+      "All Access Voucher": "$4.99",
+      "Street Wolf Outfit": "$2.99"
+    }
   },
   "1642364007": {
     "name": "Altitude Compass",
@@ -15717,7 +17169,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "1642682818": {
     "name": "熊猫吃短信2 - 垃圾短信拦截",
@@ -15887,7 +17347,19 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "订阅机器学习模型（按年）": "$1.99",
+      "订阅机器学习模型（按月）": "$0.49"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "订阅机器学习模型（按年）": "$1.99",
+      "订阅机器学习模型（按月）": "$0.49"
+    }
   },
   "1644917705": {
     "name": "Cyber Manhunt",
@@ -16066,7 +17538,19 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Home Sweet Home": "$0.99",
+      "Hello World!": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Home Sweet Home": "$0.99",
+      "Hello World!": "$0.99"
+    }
   },
   "1658579911": {
     "name": "XIAOTE Watch key",
@@ -16191,7 +17675,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    }
   },
   "1659622164": {
     "name": "VidHub -Video Library & Player",
@@ -16376,7 +17868,21 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime": "$29.99",
+      "1 Month": "$1.49",
+      "1 Year": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime": "$29.99",
+      "1 Month": "$1.49",
+      "1 Year": "$4.99"
+    }
   },
   "1661419573": {
     "name": "atvTools",
@@ -16501,7 +18007,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "6479307181": {
     "name": "Ghostly Detector",
@@ -16638,7 +18152,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 1.19,
+      "formattedPrice": "$1.19"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free"
+    }
   },
   "6476010032": {
     "name": "拦截猫-垃圾短信电话拦截",
@@ -16823,7 +18345,21 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "拦截猫股东会员": "$19.99",
+      "连续包年订阅": "$6.99",
+      "连续包月订阅": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "拦截猫股东会员": "$19.99",
+      "连续包年订阅": "$6.99",
+      "连续包月订阅": "$0.99"
+    }
   },
   "6444824570": {
     "name": "ClashX - 服务监控面板",
@@ -16948,7 +18484,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    }
   },
   "6480159520": {
     "name": "Whisper Pen - Speech to Text",
@@ -17073,7 +18617,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    }
   },
   "6476963352": {
     "name": "万能生成器",
@@ -17303,7 +18855,27 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29",
+      "终身会员": "$2.99",
+      "季卡": "$1.99",
+      "月度卡": "$0.99",
+      "周度卡": "$0.99",
+      "月卡": "$0.99",
+      "周卡": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29",
+      "终身会员": "$2.99",
+      "季卡": "$1.99",
+      "月度卡": "$0.99",
+      "周度卡": "$0.99",
+      "月卡": "$0.99",
+      "周卡": "$0.99"
+    }
   },
   "6451239549": {
     "name": "全网短剧大全-热门短剧抢先看",
@@ -17503,7 +19075,23 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "周度会员": "$3.99",
+      "季度会员": "$7.99",
+      "年度会员": "$12.99",
+      "月度会员": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "周度会员": "$3.99",
+      "季度会员": "$7.99",
+      "年度会员": "$12.99",
+      "月度会员": "$6.99"
+    }
   },
   "6479683928": {
     "name": "AMood",
@@ -17688,7 +19276,21 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "包月会员": "$0.99",
+      "永久会员": "$14.99",
+      "包年会员": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "包月会员": "$0.99",
+      "永久会员": "$14.99",
+      "包年会员": "$7.99"
+    }
   },
   "6443798663": {
     "name": "MuYu",
@@ -17813,7 +19415,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "6447023668": {
     "name": "爱韩剧 - 韩剧TV大全",
@@ -17938,7 +19548,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "6468843723": {
     "name": "GTA III – Definitive",
@@ -18063,7 +19681,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    }
   },
   "6468845173": {
     "name": "GTA: Vice City – Definitive",
@@ -18188,7 +19814,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    }
   },
   "6468845068": {
     "name": "GTA: San Andreas – Definitive",
@@ -18313,7 +19947,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    }
   },
   "6450262949": {
     "name": "Longshot - Screenshot & OCR",
@@ -18468,7 +20110,17 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro version lifetime": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro version lifetime": "$7.99"
+    }
   },
   "6451498949": {
     "name": "Stray",
@@ -18593,7 +20245,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "$29.99"
+    },
+    "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "$29.99"
+    }
   },
   "6450980545": {
     "name": "Resident Evil Village",
@@ -18793,7 +20453,23 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Base Game": "$39.99",
+      "All Access Voucher": "$4.99",
+      "DLC pack": "$19.99",
+      "Street Wolf Outfit": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Base Game": "$39.99",
+      "All Access Voucher": "$4.99",
+      "DLC pack": "$19.99",
+      "Street Wolf Outfit": "$2.99"
+    }
   },
   "6462360082": {
     "name": "Resident Evil 4",
@@ -19355,7 +21031,41 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Base Game": "$59.99",
+      "Separate Ways": "$9.99",
+      "Extra DLC Pack": "$19.99",
+      "Weapon Upgrade Ticket x5 (A)": "$9.99",
+      "Weapon Upgrade Ticket x3 (A)": "$6.99",
+      "Weapon Upgrade Ticket x1 (A)": "$2.99",
+      "Charm: 'Handgun Ammo'": "$0.99",
+      "Weapon Upgrade Ticket x3 (B)": "$6.99",
+      "Attaché Case: 'Gold'": "$0.99",
+      "Charm: 'Green Herb'": "$0.99",
+      "Weapon Upgrade Ticket x3 (C)": "$6.99",
+      "Attaché Case: 'Classic'": "$0.99",
+      "Weapon Upgrade Ticket x1 (B)": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Base Game": "$59.99",
+      "Separate Ways": "$9.99",
+      "Extra DLC Pack": "$19.99",
+      "Weapon Upgrade Ticket x5 (A)": "$9.99",
+      "Weapon Upgrade Ticket x3 (A)": "$6.99",
+      "Weapon Upgrade Ticket x1 (A)": "$2.99",
+      "Charm: 'Handgun Ammo'": "$0.99",
+      "Weapon Upgrade Ticket x3 (B)": "$6.99",
+      "Attaché Case: 'Gold'": "$0.99",
+      "Charm: 'Green Herb'": "$0.99",
+      "Weapon Upgrade Ticket x3 (C)": "$6.99",
+      "Attaché Case: 'Classic'": "$0.99",
+      "Weapon Upgrade Ticket x1 (B)": "$2.99"
+    }
   },
   "6444029612": {
     "name": "Loon Lite",
@@ -19480,7 +21190,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "6499125531": {
     "name": "完蛋！我被美女包围了！",
@@ -19541,7 +21259,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    }
   },
   "6463851696": {
     "name": "Zen++",
@@ -19586,7 +21312,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "6443915320": {
     "name": "发条日签-好心情制造机",
@@ -19631,7 +21365,15 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   },
   "6449383791": {
     "name": "GIF Recorder-ImproveEfficiency",
@@ -19691,7 +21433,19 @@
           }
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99",
+      "Monthly": "$0.99",
+      "Yearly": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99",
+      "Monthly": "$0.99",
+      "Yearly": "$0.99"
+    }
   },
   "6449930220": {
     "name": "Wafari - Watch Browser",
@@ -19736,6 +21490,14 @@
           "inAppPurchases": {}
         }
       ]
-    ]
+    ],
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    }
   }
 }

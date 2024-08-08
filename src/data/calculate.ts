@@ -62,6 +62,45 @@ export function getDiscounts(
   return discounts
 }
 
+export function updateRangePriceInfo(
+  type: 'min' | 'max',
+  priceInfo: PriceInfo,
+  appInfo: TimeStorageAppInfo,
+) {
+  const { price: oldPrice } = priceInfo
+  const {
+    price: newPrice,
+    formattedPrice: newFormattedPrice,
+    inAppPurchases,
+  } = appInfo
+
+  if (
+    (type === 'max' && newPrice > oldPrice) ||
+    (type === 'min' && newPrice < oldPrice)
+  ) {
+    priceInfo.price = newPrice
+    priceInfo.formattedPrice = newFormattedPrice
+  }
+
+  Object.entries(inAppPurchases).forEach(([name, formattedPrice]) => {
+    const oldFormattedPrice = priceInfo[name]
+    if (!oldFormattedPrice) {
+      priceInfo[name] = formattedPrice
+      return
+    }
+
+    const oldPrice = getPrice(oldFormattedPrice as string)
+    const newPrice = getPrice(formattedPrice)
+
+    if (
+      (type === 'max' && newPrice > oldPrice) ||
+      (type === 'min' && newPrice < oldPrice)
+    ) {
+      priceInfo[name] = formattedPrice
+    }
+  })
+}
+
 export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo(
   timestamp: number,
   regions: Region[],
@@ -84,7 +123,8 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
 
       appInfos.forEach((appInfo) => {
         const { trackId, trackName } = appInfo
-        const dateStorageAppInfo = storageAppInfo[trackId]?.history || []
+        const currentStorageAppInfo = storageAppInfo[trackId]
+        const dateStorageAppInfo = currentStorageAppInfo?.history || []
         const timeStorageAppInfo = dateStorageAppInfo[0] || []
         const oldAppInfo = timeStorageAppInfo[0]
         const newAppInfo: TimeStorageAppInfo = {
@@ -94,40 +134,53 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
             'timestamp'
           >),
         }
+        let maxPriceInfo = currentStorageAppInfo?.maxPriceInfo || {}
+        let minPriceInfo = currentStorageAppInfo?.minPriceInfo || {}
         let discounts: Discount[] = []
 
         if (!oldAppInfo) {
           timeStorageAppInfo.unshift(newAppInfo)
           dateStorageAppInfo.unshift(timeStorageAppInfo)
+          minPriceInfo = maxPriceInfo = {
+            ...pick(appInfo, ['price,formattedPrice']),
+            ...appInfo.inAppPurchases,
+          }
         } else {
           const oldDate = getRegionDate(region, oldAppInfo.timestamp)
+          const isPriceChange = !isEqual(
+            pick(oldAppInfo, timeStorageAppInfoFields),
+            pick(newAppInfo, timeStorageAppInfoFields),
+          )
+
           if (oldDate === date) {
-            if (
-              !isEqual(
-                pick(oldAppInfo, timeStorageAppInfoFields),
-                pick(newAppInfo, timeStorageAppInfoFields),
-              )
-            ) {
+            if (isPriceChange) {
               timeStorageAppInfo.unshift(newAppInfo)
             }
           } else {
             dateStorageAppInfo.unshift([newAppInfo])
           }
 
-          discounts = getDiscounts(region, newAppInfo, oldAppInfo)
+          if (isPriceChange) {
+            updateRangePriceInfo('max', maxPriceInfo as PriceInfo, newAppInfo)
+            updateRangePriceInfo('min', minPriceInfo as PriceInfo, newAppInfo)
 
-          if (discounts.length) {
-            discountInfos.push({
-              ...appInfo,
-              timestamp,
-              discounts,
-            })
+            discounts = getDiscounts(region, newAppInfo, oldAppInfo)
+
+            if (discounts.length) {
+              discountInfos.push({
+                ...appInfo,
+                timestamp,
+                discounts,
+              })
+            }
           }
         }
 
         storageAppInfo[trackId] = {
           name: trackName,
           history: dateStorageAppInfo,
+          maxPriceInfo: maxPriceInfo as PriceInfo,
+          minPriceInfo: minPriceInfo as PriceInfo,
         }
       })
     }
