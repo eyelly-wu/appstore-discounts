@@ -1237,6 +1237,17 @@
     "history": [
       [
         {
+          "timestamp": 1723086139414,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        },
+        {
           "timestamp": 1723003387690,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -17442,6 +17453,23 @@
     "name": "Resident Evil 4",
     "history": [
       [
+        {
+          "timestamp": 1723086139414,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x3 (B)": "$6.99",
+            "Weapon Upgrade Ticket x3 (C)": "$6.99",
+            "Attaché Case: 'Gold'": "$0.99"
+          }
+        },
         {
           "timestamp": 1723003387690,
           "price": 0,
