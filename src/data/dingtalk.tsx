@@ -39,7 +39,8 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
               res.inAppPurchase.push(
                 res.inAppPurchase.length === 0 ? (
                   <>
-                    {t('App 内购买项目')}:{'\n'}
+                    {t('App 内购买项目')}:
+                    <br />
                     {content}
                   </>
                 ) : (
