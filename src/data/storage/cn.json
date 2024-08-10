@@ -5120,6 +5120,14 @@
     "history": [
       [
         {
+          "timestamp": 1723312932144,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "去除广告": "¥19.90"
+          }
+        },
+        {
           "timestamp": 1723305736099,
           "price": 0,
           "formattedPrice": "免费",
@@ -5297,7 +5305,7 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "去除广告": "¥68.00"
+      "去除广告": "¥19.90"
     }
   },
   "1062745479": {
