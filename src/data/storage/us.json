@@ -1441,6 +1441,12 @@
     "history": [
       [
         {
+          "timestamp": 1723345327867,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1723262536358,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -1667,6 +1673,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1723345327867,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        },
         {
           "timestamp": 1723262536358,
           "price": 0,
@@ -9598,6 +9615,23 @@
     "history": [
       [
         {
+          "timestamp": 1723345327867,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        },
+        {
           "timestamp": 1723262536358,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -9731,8 +9765,8 @@
       ]
     ],
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "Upgrade Deluxe Edition": "$5.99",
       "Retro Frame Pack": "$0.99",
       "Color Frame Pack": "$0.99",
@@ -15790,6 +15824,14 @@
     "name": "Fileball",
     "history": [
       [
+        {
+          "timestamp": 1723345327867,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "$9.99"
+          }
+        },
         {
           "timestamp": 1723262536358,
           "price": 0,
