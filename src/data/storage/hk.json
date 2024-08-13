@@ -20286,6 +20286,12 @@
     "history": [
       [
         {
+          "timestamp": 1723579326147,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1723564946546,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -20384,8 +20390,8 @@
       "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 0,
+      "formattedPrice": "免費"
     }
   },
   "1587301632": {
@@ -21393,6 +21399,23 @@
     "history": [
       [
         {
+          "timestamp": 1723579326147,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "德語音頻": "HK$ 0.00",
+            "Tales of Valor - Russian": "HK$ 0.00",
+            "《Tales of Valor》": "HK$ 0.00",
+            "Tales of Valor - Spanish": "HK$ 0.00",
+            "Opposing Fronts - French": "HK$ 0.00",
+            "Opposing Fronts - Spanish": "HK$ 0.00",
+            "Tales of Valor - French": "HK$ 0.00",
+            "戰役任務 6-10": "HK$ 0.00",
+            "高畫質模型": "HK$ 0.00",
+            "法語音頻": "HK$ 0.00"
+          }
+        },
+        {
           "timestamp": 1723564946546,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -21836,7 +21859,14 @@
       "2 vs 2 獨立戰役地圖": "HK$ 0.00",
       "4 vs 4 獨立戰役地圖": "HK$ 0.00",
       "3 vs 3 獨立戰役地圖": "HK$ 0.00",
-      "戰役任務 6-10": "HK$ 0.00"
+      "戰役任務 6-10": "HK$ 0.00",
+      "德語音頻": "HK$ 0.00",
+      "Tales of Valor - Russian": "HK$ 0.00",
+      "Tales of Valor - Spanish": "HK$ 0.00",
+      "Opposing Fronts - French": "HK$ 0.00",
+      "Opposing Fronts - Spanish": "HK$ 0.00",
+      "Tales of Valor - French": "HK$ 0.00",
+      "法語音頻": "HK$ 0.00"
     },
     "minPriceInfo": {
       "price": 148,
@@ -21851,7 +21881,14 @@
       "2 vs 2 獨立戰役地圖": "HK$ 0.00",
       "4 vs 4 獨立戰役地圖": "HK$ 0.00",
       "3 vs 3 獨立戰役地圖": "HK$ 0.00",
-      "戰役任務 6-10": "HK$ 0.00"
+      "戰役任務 6-10": "HK$ 0.00",
+      "德語音頻": "HK$ 0.00",
+      "Tales of Valor - Russian": "HK$ 0.00",
+      "Tales of Valor - Spanish": "HK$ 0.00",
+      "Opposing Fronts - French": "HK$ 0.00",
+      "Opposing Fronts - Spanish": "HK$ 0.00",
+      "Tales of Valor - French": "HK$ 0.00",
+      "法語音頻": "HK$ 0.00"
     }
   },
   "1600873673": {
