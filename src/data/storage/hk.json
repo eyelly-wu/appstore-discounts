@@ -952,6 +952,23 @@
     "history": [
       [
         {
+          "timestamp": 1723557722661,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Monthly": "HK$ 8.00",
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "1 TB monthly": "HK$ 388.00",
+            "200 GB monthly": "HK$ 88.00",
+            "1 TB yearly": "HK$ 3,888.00",
+            "200 GB yearly": "HK$ 788.00",
+            "100 GB monthly": "HK$ 48.00",
+            "100 GB yearly": "HK$ 488.00"
+          }
+        },
+        {
           "timestamp": 1723478543783,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -1156,8 +1173,8 @@
       "100 GB yearly": "HK$ 488.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "iCloud Sync Monthly": "HK$ 8.00",
       "Reset Password": "HK$ 8.00",
       "iCloud Sync Yearly": "HK$ 52.00",
@@ -1705,6 +1722,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1723557722661,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1723478543783,
           "price": 88,

@@ -952,6 +952,23 @@
     "history": [
       [
         {
+          "timestamp": 1723557722661,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Reset Password": "USD 0.99",
+            "1 TB monthly": "USD 47.99",
+            "200 GB monthly": "USD 9.99",
+            "1 TB yearly": "USD 479.99",
+            "200 GB yearly": "USD 99.99",
+            "100 GB monthly": "USD 5.99",
+            "100 GB yearly": "USD 59.99",
+            "iCloud Sync Monthly": "USD 0.99",
+            "iCloud Sync Yearly": "USD 7.99",
+            "iCloud Sync Lifetime": "USD 39.99"
+          }
+        },
+        {
           "timestamp": 1723478543783,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -1156,8 +1173,8 @@
       "iCloud Sync Lifetime": "USD 39.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Reset Password": "USD 0.99",
       "1 TB monthly": "USD 47.99",
       "200 GB monthly": "USD 9.99",
@@ -1705,6 +1722,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1723557722661,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1723478543783,
           "price": 9.99,
