@@ -843,6 +843,17 @@
     "history": [
       [
         {
+          "timestamp": 1723644147004,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "HK$ 288.00",
+            "Premium Cloud Service Monthly": "HK$ 8.00",
+            "Premium Cloud Service Yearly": "HK$ 52.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1723564946546,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -994,8 +1005,8 @@
       "Reset Password": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium Cloud Service Lifetime": "HK$ 288.00",
       "Premium Cloud Service Monthly": "HK$ 8.00",
       "Premium Cloud Service Yearly": "HK$ 52.00",
@@ -1827,6 +1838,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1723644147004,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1723564946546,
           "price": 0,
