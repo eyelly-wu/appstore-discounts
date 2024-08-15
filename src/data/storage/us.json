@@ -1107,6 +1107,23 @@
     "history": [
       [
         {
+          "timestamp": 1723755742586,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Reset Password": "$0.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Yearly": "$7.99",
+            "iCloud Sync Lifetime": "$39.99",
+            "100 GB monthly": "$5.99",
+            "100 GB yearly": "$59.99",
+            "200 GB monthly": "$9.99",
+            "10 GB monthly": "$2.99",
+            "10 GB yearly": "$29.99",
+            "1 TB monthly": "$47.99"
+          }
+        },
+        {
           "timestamp": 1723694537011,
           "price": 0,
           "formattedPrice": "Free",
@@ -1363,7 +1380,9 @@
       "100 GB yearly": "$59.99",
       "1 TB monthly": "$47.99",
       "1 TB yearly": "$479.99",
-      "200 GB yearly": "$99.99"
+      "200 GB yearly": "$99.99",
+      "10 GB monthly": "$2.99",
+      "10 GB yearly": "$29.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -1377,7 +1396,9 @@
       "100 GB yearly": "$59.99",
       "1 TB monthly": "$47.99",
       "1 TB yearly": "$479.99",
-      "200 GB yearly": "$99.99"
+      "200 GB yearly": "$99.99",
+      "10 GB monthly": "$2.99",
+      "10 GB yearly": "$29.99"
     }
   },
   "460661291": {

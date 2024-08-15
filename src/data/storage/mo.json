@@ -1128,6 +1128,23 @@
     "history": [
       [
         {
+          "timestamp": 1723755742586,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Reset Password": "USD 0.99",
+            "10 GB monthly": "USD 2.99",
+            "10 GB yearly": "USD 29.99",
+            "1 TB monthly": "USD 47.99",
+            "200 GB monthly": "USD 9.99",
+            "1 TB yearly": "USD 479.99",
+            "200 GB yearly": "USD 99.99",
+            "100 GB monthly": "USD 5.99",
+            "100 GB yearly": "USD 59.99",
+            "iCloud Sync Monthly": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1723737747001,
           "price": 0,
           "formattedPrice": "免費",
@@ -1403,7 +1420,9 @@
       "100 GB yearly": "USD 59.99",
       "iCloud Sync Monthly": "USD 0.99",
       "iCloud Sync Yearly": "USD 7.99",
-      "iCloud Sync Lifetime": "USD 39.99"
+      "iCloud Sync Lifetime": "USD 39.99",
+      "10 GB monthly": "USD 2.99",
+      "10 GB yearly": "USD 29.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -1417,7 +1436,9 @@
       "100 GB yearly": "USD 59.99",
       "iCloud Sync Monthly": "USD 0.99",
       "iCloud Sync Yearly": "USD 7.99",
-      "iCloud Sync Lifetime": "USD 39.99"
+      "iCloud Sync Lifetime": "USD 39.99",
+      "10 GB monthly": "USD 2.99",
+      "10 GB yearly": "USD 29.99"
     }
   },
   "460661291": {

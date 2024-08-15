@@ -121,6 +121,23 @@
     "history": [
       [
         {
+          "timestamp": 1723755742586,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6香蕉贝": "¥6.00",
+            "连续包月": "¥28.00",
+            "30香蕉贝": "¥30.00",
+            "68香蕉贝": "¥68.00",
+            "1香蕉贝": "¥1.00",
+            "连续包年": "¥273.00",
+            "免广告会员十二个月": "¥12.00",
+            "128香蕉贝": "¥128.00",
+            "6随手贝": "¥6.00",
+            "连续包季": "¥72.00"
+          }
+        },
+        {
           "timestamp": 1723752138802,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -1233,6 +1250,23 @@
     "history": [
       [
         {
+          "timestamp": 1723755742586,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Reset Password": "¥8.00",
+            "iCloud Sync Yearly": "¥52.00",
+            "iCloud Sync Monthly": "¥6.00",
+            "iCloud Sync Lifetime": "¥298.00",
+            "100 GB monthly": "¥38.00",
+            "10 GB monthly": "¥22.00",
+            "10 GB yearly": "¥198.00",
+            "1 TB monthly": "¥328.00",
+            "200 GB monthly": "¥68.00",
+            "1 TB yearly": "¥3,298.00"
+          }
+        },
+        {
           "timestamp": 1723737747001,
           "price": 0,
           "formattedPrice": "免费",
@@ -1508,7 +1542,9 @@
       "200 GB monthly": "¥68.00",
       "1 TB yearly": "¥3,298.00",
       "200 GB yearly": "¥698.00",
-      "100 GB yearly": "¥398.00"
+      "100 GB yearly": "¥398.00",
+      "10 GB monthly": "¥22.00",
+      "10 GB yearly": "¥198.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -1522,7 +1558,9 @@
       "200 GB monthly": "¥68.00",
       "1 TB yearly": "¥3,298.00",
       "200 GB yearly": "¥698.00",
-      "100 GB yearly": "¥398.00"
+      "100 GB yearly": "¥398.00",
+      "10 GB monthly": "¥22.00",
+      "10 GB yearly": "¥198.00"
     }
   },
   "460661291": {
