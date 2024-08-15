@@ -1,21 +1,25 @@
 import fetch from 'node-fetch'
-import React, { render } from 'jsx-to-md'
+import React, { render, H3, Bold, Italic, Break, Link } from 'jsx-to-md'
 import { start, end } from './timer'
 import { isEmpty } from 'lodash'
 import { getTranslate } from './i18n'
 
 function getMessage(region: Region, discountInfos: DiscountInfo[]) {
   const t = getTranslate(region)
+  const br = `
+
+  `
 
   const msg = render(
     <>
-      <h3>
+      <H3>
         {t(
           '{0}有{p1款应用}正在打折',
           `App Store（${region.toUpperCase()}）`,
           discountInfos.length,
         )}
-      </h3>
+      </H3>
+      <br />
       {discountInfos.map((discountInfo) => {
         const { trackName, trackViewUrl, discounts = [] } = discountInfo
 
@@ -25,8 +29,8 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
             function getContent() {
               return (
                 <>
-                  <b>{name}</b>: <s>{from}</s> → {to}
-                  <br />
+                  <Bold>{name}</Bold>: <s>{from}</s> → {to}
+                  {br}
                 </>
               )
             }
@@ -39,8 +43,7 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
               res.inAppPurchase.push(
                 res.inAppPurchase.length === 0 ? (
                   <>
-                    {t('App 内购买项目')}:
-                    <br />
+                    <Bold>{t('App 内购买项目')}</Bold>:{br}
                     {content}
                   </>
                 ) : (
@@ -63,11 +66,10 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
 
         return (
           <>
-            <br />
-            <a href={trackViewUrl}>
-              <b>{trackName}</b>
-            </a>
-            <div>{inAppPurchase}</div>
+            {br}
+            <Bold>{render(<Link href={trackViewUrl}>{trackName}</Link>)}</Bold>
+            {br}
+            {inAppPurchase}
           </>
         )
       })}
