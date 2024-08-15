@@ -45,9 +45,9 @@ function getShowContent(
     trackViewUrl,
     description,
     artworkUrl60,
-    screenshotUrls,
-    ipadScreenshotUrls,
-    appletvScreenshotUrls,
+    screenshotUrls = [],
+    ipadScreenshotUrls = [],
+    appletvScreenshotUrls = [],
   } = discountInfo
 
   const discountInfoContent = (() => {
