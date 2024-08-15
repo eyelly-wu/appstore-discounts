@@ -2348,6 +2348,12 @@
     "history": [
       [
         {
+          "timestamp": 1723734490828,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1723651333850,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -2520,8 +2526,8 @@
       "formattedPrice": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0,
+      "formattedPrice": "免費"
     }
   },
   "533055404": {
@@ -17883,6 +17889,15 @@
     "history": [
       [
         {
+          "timestamp": 1723734490828,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Premium Features": "USD 3.99",
+            "Value for Value": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1723651333850,
           "price": 0,
           "formattedPrice": "免費",
@@ -20639,6 +20654,12 @@
     "name": "化學 - 元素週期表 2024",
     "history": [
       [
+        {
+          "timestamp": 1723734490828,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1723651333850,
           "price": 0,
