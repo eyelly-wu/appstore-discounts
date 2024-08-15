@@ -14475,6 +14475,14 @@
     "history": [
       [
         {
+          "timestamp": 1723685290855,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1723651333850,
           "price": 0,
           "formattedPrice": "免費",
@@ -14613,7 +14621,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "Card.Note Premiun": "USD 0.99"
+      "Card.Note Premiun": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,

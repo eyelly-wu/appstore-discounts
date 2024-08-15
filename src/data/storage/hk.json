@@ -15270,6 +15270,14 @@
     "history": [
       [
         {
+          "timestamp": 1723685290855,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1723651333850,
           "price": 0,
           "formattedPrice": "免費",
@@ -15408,7 +15416,7 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "Card.Note Premiun": "HK$ 8.00"
+      "Card.Note Premiun": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 0,
