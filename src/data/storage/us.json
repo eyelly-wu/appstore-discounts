@@ -2505,6 +2505,12 @@
     "history": [
       [
         {
+          "timestamp": 1723777343840,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1723694537011,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -2685,8 +2691,8 @@
       "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     }
   },
   "533055404": {
@@ -18685,6 +18691,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1723777343840,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
         {
           "timestamp": 1723694537011,
           "price": 0,
