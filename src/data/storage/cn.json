@@ -16559,6 +16559,16 @@
     "history": [
       [
         {
+          "timestamp": 1723791742016,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "MyTracks 高级版": "¥68.00",
+            "300次高精度海拔查询": "¥28.00",
+            "100次高精度海拔查询": "¥22.00"
+          }
+        },
+        {
           "timestamp": 1723737747001,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -16715,8 +16725,8 @@
       ]
     ],
     "maxPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00",
+      "price": 6,
+      "formattedPrice": "¥6.00",
       "MyTracks 高级版": "¥68.00",
       "300次高精度海拔查询": "¥28.00",
       "100次高精度海拔查询": "¥22.00"
