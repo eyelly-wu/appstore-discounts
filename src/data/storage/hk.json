@@ -969,6 +969,17 @@
     "history": [
       [
         {
+          "timestamp": 1723903331297,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "HK$ 288.00",
+            "Premium Cloud Service Monthly": "HK$ 8.00",
+            "Premium Cloud Service Yearly": "HK$ 52.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1723824135833,
           "price": 0,
           "formattedPrice": "免費",
@@ -2191,6 +2202,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1723903331297,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1723824135833,
           "price": 88,
@@ -13664,6 +13681,23 @@
     "name": "Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影",
     "history": [
       [
+        {
+          "timestamp": 1723903331297,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1723824135833,
           "price": 22,
