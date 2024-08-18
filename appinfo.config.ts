@@ -59,6 +59,64 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 904280696,
+    name: 'Things 3',
+  },
+  {
+    id: 1055511498,
+    name: 'Day One',
+  },
+  {
+    id: 1208145167,
+    name: 'Picsew',
+  },
+  {
+    id: 1444636541,
+    name: 'Photomator',
+  },
+  {
+    id: 1444383602,
+    name: 'Goodnotes 6',
+  },
+  {
+    id: 1473785373,
+    name: ['钱迹记账-无广告随手记账本', { us: '钱迹-存钱记账小能手' }],
+  },
+  {
+    id: 1461652639,
+    name: ['TCP UDP Ping Socket 网络 调试 工具', { us: 'TCP UDP Debugger' }],
+  },
+  {
+    id: 6499198824,
+    name: ['蜂软扫描 - 全能扫描仪', { us: 'ScanGo:Scanner App free of ads' }],
+  },
+  {
+    id: 1538124245,
+    name: ['哪里哪里', { us: 'where I put it' }],
+  },
+  {
+    id: 6446469093,
+    name: [
+      '口袋时钟 - StandBy待机Widget桌面翻页创意时钟',
+      { us: 'Clock Pocket:standby widget' },
+    ],
+  },
+  {
+    id: 1610668825,
+    name: [
+      'FyTube - 没有广告的 YouTube',
+      { us: 'FyTube - YouTube Without Ads' },
+    ],
+  },
+  {
+    id: 1175912897,
+    name: ['EverMemo印象便签', { us: 'EverMemo - Fastest Note' }],
+  },
+  {
+    id: 6504433140,
+    name: 'LaxtTime',
+  },
+  {
     id: 920133658,
     name: ['解剖和生理学', { us: 'Anatomy & Physiology' }],
   },
