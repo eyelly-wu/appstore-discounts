@@ -2,14 +2,15 @@ import pLimit from 'p-limit'
 import { start, end } from '../timer'
 import { getInAppPurchases, getAppInfo } from './impl'
 
-const limit = pLimit(10)
-
 export default async function getRegionAppInfo(
   appIds: Array<string | number>,
   regions: Region[],
+  limitCount: number,
 ) {
-  start('parallel getRegionAppInfo')
+  const label = `parallel getRegionAppInfo(${limitCount})`
+  start(label)
   const res: RegionAppInfo = {}
+  const limit = pLimit(limitCount)
 
   for (let i = 0; i < regions.length; i++) {
     const region = regions[i]
@@ -38,6 +39,6 @@ export default async function getRegionAppInfo(
     }
   }
 
-  end('parallel getRegionAppInfo')
+  end(label)
   return res
 }
