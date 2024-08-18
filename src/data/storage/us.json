@@ -7720,6 +7720,21 @@
       "formattedPrice": "$9.99"
     }
   },
+  "904280696": {
+    "name": "Things 3",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 49.99,
+          "formattedPrice": "$49.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "maxPriceInfo": {},
+    "minPriceInfo": {}
+  },
   "916366645": {
     "name": "Procreate Pocket",
     "history": [
@@ -9526,6 +9541,27 @@
       "price": 0,
       "formattedPrice": "Free",
       "Remove ads": "$2.99"
+    }
+  },
+  "1055511498": {
+    "name": "Day One",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium": "$34.99"
+          }
+        }
+      ]
+    ],
+    "maxPriceInfo": {
+      "Premium": "$34.99"
+    },
+    "minPriceInfo": {
+      "Premium": "$34.99"
     }
   },
   "1062745479": {
@@ -13120,6 +13156,36 @@
       "formattedPrice": "$5.99"
     }
   },
+  "1175912897": {
+    "name": "EverMemo - Fastest Note",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "计算器": "$0.00",
+            "彩色便签": "$0.00",
+            "设置提醒": "$0.00",
+            "密码保护": "$0.00"
+          }
+        }
+      ]
+    ],
+    "maxPriceInfo": {
+      "计算器": "$0.00",
+      "彩色便签": "$0.00",
+      "设置提醒": "$0.00",
+      "密码保护": "$0.00"
+    },
+    "minPriceInfo": {
+      "计算器": "$0.00",
+      "彩色便签": "$0.00",
+      "设置提醒": "$0.00",
+      "密码保护": "$0.00"
+    }
+  },
   "1197275827": {
     "name": "金十数据专业版-为交易而生",
     "history": [
@@ -13702,6 +13768,36 @@
       "price": 0,
       "formattedPrice": "Free",
       "INSIDE full game": "$6.99"
+    }
+  },
+  "1208145167": {
+    "name": "Picsew - Screenshot Stitching",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Picsew Pro": "$1.99",
+            "Upgrade to Picsew Plus": "$0.00",
+            "Picsew Plus": "$0.99",
+            "Upgrade to Picsew Pro": "$0.99"
+          }
+        }
+      ]
+    ],
+    "maxPriceInfo": {
+      "Picsew Pro": "$1.99",
+      "Upgrade to Picsew Plus": "$0.00",
+      "Picsew Plus": "$0.99",
+      "Upgrade to Picsew Pro": "$0.99"
+    },
+    "minPriceInfo": {
+      "Picsew Pro": "$1.99",
+      "Upgrade to Picsew Plus": "$0.00",
+      "Picsew Plus": "$0.99",
+      "Upgrade to Picsew Pro": "$0.99"
     }
   },
   "1210251567": {
@@ -19116,6 +19212,78 @@
       "formattedPrice": "$7.99"
     }
   },
+  "1444383602": {
+    "name": "Goodnotes 6",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$9.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 One-Time Payment": "$23.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 (1 Year)": "$9.99",
+            "Marketplace Content": "$1.99",
+            "Bunny Oasis Stickers": "$0.00",
+            "Dotted Squares: Draft Papers": "$0.99"
+          }
+        }
+      ]
+    ],
+    "maxPriceInfo": {
+      "Goodnotes 6 (1 year)": "$9.99",
+      "GoodNotes 5 Unlock": "$9.99",
+      "Goodnotes 6 One-Time Payment": "$23.99",
+      "Goodnotes 6 Free Trial": "$0.00",
+      "Goodnotes 6 (1 Year)": "$9.99",
+      "Marketplace Content": "$1.99",
+      "Bunny Oasis Stickers": "$0.00",
+      "Dotted Squares: Draft Papers": "$0.99"
+    },
+    "minPriceInfo": {
+      "Goodnotes 6 (1 year)": "$9.99",
+      "GoodNotes 5 Unlock": "$9.99",
+      "Goodnotes 6 One-Time Payment": "$23.99",
+      "Goodnotes 6 Free Trial": "$0.00",
+      "Goodnotes 6 (1 Year)": "$9.99",
+      "Marketplace Content": "$1.99",
+      "Bunny Oasis Stickers": "$0.00",
+      "Dotted Squares: Draft Papers": "$0.99"
+    }
+  },
+  "1444636541": {
+    "name": "Photomator – Photo Editor",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "$29.99",
+            "Monthly Subscription": "$7.99",
+            "Exclusive Lifetime Offer": "$79.99",
+            "Lifetime": "$149.99"
+          }
+        }
+      ]
+    ],
+    "maxPriceInfo": {
+      "Yearly Subscription": "$29.99",
+      "Monthly Subscription": "$7.99",
+      "Exclusive Lifetime Offer": "$79.99",
+      "Lifetime": "$149.99"
+    },
+    "minPriceInfo": {
+      "Yearly Subscription": "$29.99",
+      "Monthly Subscription": "$7.99",
+      "Exclusive Lifetime Offer": "$79.99",
+      "Lifetime": "$149.99"
+    }
+  },
   "1445379072": {
     "name": "GRIS",
     "history": [
@@ -20031,6 +20199,30 @@
       "解锁剩余九个章节": "$3.99"
     }
   },
+  "1461652639": {
+    "name": "TCP  UDP Debugger",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Encourage us, Donate Coke": "$0.99",
+            "Encourage  us, Buy me a coffee": "$2.99"
+          }
+        }
+      ]
+    ],
+    "maxPriceInfo": {
+      "Encourage us, Donate Coke": "$0.99",
+      "Encourage  us, Buy me a coffee": "$2.99"
+    },
+    "minPriceInfo": {
+      "Encourage us, Donate Coke": "$0.99",
+      "Encourage  us, Buy me a coffee": "$2.99"
+    }
+  },
   "1464666446": {
     "name": "MyTracks: GPS Recorder",
     "history": [
@@ -20714,6 +20906,33 @@
       "price": 0.29,
       "formattedPrice": "$0.29",
       "Advanced Features": "$1.99"
+    }
+  },
+  "1473785373": {
+    "name": "钱迹-存钱记账小能手",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$19.95",
+            "Monthly": "$0.99",
+            "Annual": "$6.99"
+          }
+        }
+      ]
+    ],
+    "maxPriceInfo": {
+      "Lifetime": "$19.95",
+      "Monthly": "$0.99",
+      "Annual": "$6.99"
+    },
+    "minPriceInfo": {
+      "Lifetime": "$19.95",
+      "Monthly": "$0.99",
+      "Annual": "$6.99"
     }
   },
   "1476649036": {
@@ -23487,6 +23706,21 @@
       "price": 9.99,
       "formattedPrice": "$9.99"
     }
+  },
+  "1538124245": {
+    "name": "where I put it",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "maxPriceInfo": {},
+    "minPriceInfo": {}
   },
   "1548711022": {
     "name": "Barbee - Hide Menu Bar Items",
@@ -27307,6 +27541,21 @@
       "formattedPrice": "$6.99",
       "$1.99 Bundle": "$1.99"
     }
+  },
+  "1610668825": {
+    "name": "FyTube - YouTube Without Ads",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "maxPriceInfo": {},
+    "minPriceInfo": {}
   },
   "1618180398": {
     "name": "PhotoSync-Backup your photos",
@@ -37382,6 +37631,78 @@
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
+    }
+  },
+  "6499198824": {
+    "name": "ScanGo:Scanner App free of ads",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "maxPriceInfo": {},
+    "minPriceInfo": {}
+  },
+  "6446469093": {
+    "name": "Clock Pocket:standby widget",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Membership": "$0.00",
+            "Early Bird Membership": "$4.99",
+            "Month Member": "$0.99",
+            "Annual subscription": "$3.99"
+          }
+        }
+      ]
+    ],
+    "maxPriceInfo": {
+      "Lifetime Membership": "$0.00",
+      "Early Bird Membership": "$4.99",
+      "Month Member": "$0.99",
+      "Annual subscription": "$3.99"
+    },
+    "minPriceInfo": {
+      "Lifetime Membership": "$0.00",
+      "Early Bird Membership": "$4.99",
+      "Month Member": "$0.99",
+      "Annual subscription": "$3.99"
+    }
+  },
+  "6504433140": {
+    "name": "LaxtTime",
+    "history": [
+      [
+        {
+          "timestamp": 1723994479838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Lifetime": "$17.99",
+            "Premium Monthly": "$0.99",
+            "Premium Annual": "$8.99"
+          }
+        }
+      ]
+    ],
+    "maxPriceInfo": {
+      "Premium Lifetime": "$17.99",
+      "Premium Monthly": "$0.99",
+      "Premium Annual": "$8.99"
+    },
+    "minPriceInfo": {
+      "Premium Lifetime": "$17.99",
+      "Premium Monthly": "$0.99",
+      "Premium Annual": "$8.99"
     }
   }
 }
