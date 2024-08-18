@@ -2308,6 +2308,12 @@
     "history": [
       [
         {
+          "timestamp": 1723989725915,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1723910533523,
           "price": 0,
           "formattedPrice": "免費",
@@ -2780,6 +2786,12 @@
     "name": "水準管 HD",
     "history": [
       [
+        {
+          "timestamp": 1723989725915,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1723910533523,
           "price": 0,
@@ -29923,6 +29935,15 @@
     "name": "無處遁形：全網公敵",
     "history": [
       [
+        {
+          "timestamp": 1723989725915,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "甜蜜之家": "USD 0.99",
+            "Hello World!": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1723910533523,
           "price": 2.99,
