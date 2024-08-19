@@ -2358,6 +2358,12 @@
     "history": [
       [
         {
+          "timestamp": 1724036540514,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1723953796392,
           "price": 0,
           "formattedPrice": "Free",
@@ -2916,6 +2922,12 @@
     "name": "Level HD.",
     "history": [
       [
+        {
+          "timestamp": 1724036540514,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1723953796392,
           "price": 0,
@@ -23728,6 +23740,12 @@
     "history": [
       [
         {
+          "timestamp": 1724036540514,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1723994479838,
           "price": 0,
           "formattedPrice": "Free",
@@ -30880,6 +30898,15 @@
     "name": "Cyber Manhunt",
     "history": [
       [
+        {
+          "timestamp": 1724036540514,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hello World!": "$0.99",
+            "Home Sweet Home": "$0.99"
+          }
+        },
         {
           "timestamp": 1723953796392,
           "price": 2.99,
