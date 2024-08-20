@@ -1834,6 +1834,19 @@
     "history": [
       [
         {
+          "timestamp": 1724162541614,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        },
+        {
           "timestamp": 1724083340652,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -2581,6 +2594,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1724162541614,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1724083340652,
           "price": 320,
@@ -16630,6 +16649,23 @@
     "name": "Muse Dash",
     "history": [
       [
+        {
+          "timestamp": 1724162541614,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "cyTus": "$190.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "unlockall_29": "$1,120.00",
+            "Miku in Museland": "$290.00",
+            "放棄治療 Vol.3": "$130.00",
+            "MSR特選曲目組合包": "$190.00",
+            "Let's GROOVE": "$130.00",
+            "Rin·Len's Mirrorland": "$290.00",
+            "暮 色 電 台 FM101": "$130.00"
+          }
+        },
         {
           "timestamp": 1724083340652,
           "price": 100,
