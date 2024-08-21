@@ -35045,6 +35045,16 @@
     "history": [
       [
         {
+          "timestamp": 1724216521636,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期": "USD 12.99",
+            "月方案": "USD 1.49",
+            "年方案": "USD 4.99"
+          }
+        },
+        {
           "timestamp": 1724169725521,
           "price": 0,
           "formattedPrice": "免費",
@@ -35378,7 +35388,7 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "生命周期": "USD 29.99",
+      "生命周期": "USD 12.99",
       "月方案": "USD 1.49",
       "年方案": "USD 4.99"
     }
