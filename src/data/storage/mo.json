@@ -2636,6 +2636,12 @@
     "history": [
       [
         {
+          "timestamp": 1724248944125,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724169725521,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -6206,6 +6212,12 @@
     "history": [
       [
         {
+          "timestamp": 1724248944125,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724169725521,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -6354,8 +6366,8 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 0,
+      "formattedPrice": "免費"
     }
   },
   "827740598": {
@@ -41582,6 +41594,17 @@
     "history": [
       [
         {
+          "timestamp": 1724248944125,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "終身會員": "USD 1.99",
+            "早鳥會員": "USD 4.99",
+            "按年度訂閱": "USD 3.99",
+            "月份會員": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1724169725521,
           "price": 0,
           "formattedPrice": "免費",
@@ -41634,7 +41657,7 @@
       ]
     ],
     "maxPriceInfo": {
-      "終身會員": "USD 0.00",
+      "終身會員": "USD 1.99",
       "早鳥會員": "USD 4.99",
       "按年度訂閱": "USD 3.99",
       "月份會員": "USD 0.99"
