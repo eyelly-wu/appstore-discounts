@@ -45131,6 +45131,14 @@
     "history": [
       [
         {
+          "timestamp": 1724364127232,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "本体1-6章": "HK$ 48.00"
+          }
+        },
+        {
           "timestamp": 1724342595153,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -45308,11 +45316,13 @@
     ],
     "maxPriceInfo": {
       "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "formattedPrice": "HK$ 48.00",
+      "本体1-6章": "HK$ 48.00"
     },
     "minPriceInfo": {
       "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "formattedPrice": "HK$ 48.00",
+      "本体1-6章": "HK$ 48.00"
     }
   },
   "6463851696": {
