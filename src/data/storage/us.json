@@ -3162,6 +3162,17 @@
     "history": [
       [
         {
+          "timestamp": 1724382135288,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        },
+        {
           "timestamp": 1724299340898,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -7042,6 +7053,12 @@
     "name": "Timeline - World history",
     "history": [
       [
+        {
+          "timestamp": 1724382135288,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1724299340898,
           "price": 0,
@@ -18481,6 +18498,22 @@
     "history": [
       [
         {
+          "timestamp": 1724382135288,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Miku in Museland": "$8.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "cyTus": "$3.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        },
+        {
           "timestamp": 1724379416046,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -19349,7 +19382,7 @@
       "Miku in Museland": "$5.99",
       "unlockall_29": "$33.99",
       "Rin·Len's Mirrorland": "$5.99",
-      "cyTus": "$5.99",
+      "cyTus": "$3.99",
       "Let's GROOVE": "$3.99",
       "Give Up TREATMENT Vol.3": "$2.99",
       "Let's Rhythm Jam!": "$3.99",
@@ -30577,6 +30610,21 @@
     "history": [
       [
         {
+          "timestamp": 1724382135288,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Membership": "$7.99",
+            "Yearly Membership": "$3.99",
+            "Lifetime - Education": "$9.99",
+            "Monthly Membership": "$0.99",
+            "月度会员": "$0.99",
+            "Quarterly Membership": "$1.99",
+            "年度会员升级终身会员": "$9.99",
+            "年度会员": "$3.99"
+          }
+        },
+        {
           "timestamp": 1724299340898,
           "price": 0,
           "formattedPrice": "Free",
@@ -30914,7 +30962,7 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime Membership": "$9.99",
+      "Lifetime Membership": "$7.99",
       "Yearly Membership": "$3.99",
       "Lifetime - Education": "$9.99",
       "Monthly Membership": "$0.99",

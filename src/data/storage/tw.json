@@ -31300,6 +31300,21 @@
     "history": [
       [
         {
+          "timestamp": 1724382135288,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Yearly Membership": "$120.00",
+            "Lifetime Membership": "$290.00",
+            "Quarterly Membership": "$60.00",
+            "Lifetime - Education": "$320.00",
+            "Monthly Membership": "$30.00",
+            "年度会员升级终身会员": "$320.00",
+            "年度会员": "$120.00",
+            "月度会员": "$30.00"
+          }
+        },
+        {
           "timestamp": 1724342595153,
           "price": 0,
           "formattedPrice": "免費",
@@ -31654,7 +31669,7 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Lifetime Membership": "$320.00",
+      "Lifetime Membership": "$290.00",
       "Yearly Membership": "$120.00",
       "Quarterly Membership": "$60.00",
       "Lifetime - Education": "$320.00",
