@@ -44517,6 +44517,14 @@
     "history": [
       [
         {
+          "timestamp": 1724403722048,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "本体1-6章": "$190.00"
+          }
+        },
+        {
           "timestamp": 1724364127232,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -44706,8 +44714,8 @@
       "本体1-6章": "$190.00"
     },
     "minPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00",
+      "price": 30,
+      "formattedPrice": "$30.00",
       "本体1-6章": "$190.00"
     }
   },
