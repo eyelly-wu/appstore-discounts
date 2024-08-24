@@ -2026,6 +2026,19 @@
     "history": [
       [
         {
+          "timestamp": 1724468537652,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "iCloud Sync Lifetime": "$34.99",
+            "Cloud Backup Monthly": "$1.49"
+          }
+        },
+        {
           "timestamp": 1724385760106,
           "price": 0,
           "formattedPrice": "Free",
@@ -25173,6 +25186,15 @@
     "name": "TCP  UDP Debugger",
     "history": [
       [
+        {
+          "timestamp": 1724468537652,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Encourage us, Donate Coke": "$0.99",
+            "Encourage  us, Buy me a coffee": "$2.99"
+          }
+        },
         {
           "timestamp": 1724385760106,
           "price": 0,
