@@ -3014,6 +3014,12 @@
     "history": [
       [
         {
+          "timestamp": 1724554925079,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724472131102,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -18550,6 +18556,23 @@
     "name": "Vintage Camera - Goodak",
     "history": [
       [
+        {
+          "timestamp": 1724554925079,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        },
         {
           "timestamp": 1724472131102,
           "price": 1.99,
@@ -35472,6 +35495,12 @@
     "name": "FyTube - YouTube Without Ads",
     "history": [
       [
+        {
+          "timestamp": 1724554925079,
+          "price": 4.95,
+          "formattedPrice": "$4.95",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1724472131102,
           "price": 0,
