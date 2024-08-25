@@ -11123,6 +11123,12 @@
     "history": [
       [
         {
+          "timestamp": 1724608933680,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724601720903,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -11311,8 +11317,8 @@
       "formattedPrice": "$320.00"
     },
     "minPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 190,
+      "formattedPrice": "$190.00"
     }
   },
   "956086985": {
