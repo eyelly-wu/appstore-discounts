@@ -3133,6 +3133,12 @@
     "history": [
       [
         {
+          "timestamp": 1724594532142,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724515341607,
           "price": 0,
           "formattedPrice": "免費",
@@ -3447,6 +3453,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1724594532142,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$1,190.00",
+            "Yearly Cloud Services": "$220.00",
+            "Monthly Cloud Services": "$50.00",
+            "Reset Password": "$30.00"
+          }
+        },
         {
           "timestamp": 1724515341607,
           "price": 0,
@@ -25609,6 +25626,22 @@
     "name": "Goodnotes 6",
     "history": [
       [
+        {
+          "timestamp": 1724594532142,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "GoodNotes 5完整版解鎖": "$320.00",
+            "Goodnotes 6（1 年）": "$320.00",
+            "Goodnotes 6 一次性付款": "$770.00",
+            "兔子綠洲貼紙": "$0.00",
+            "Goodnotes 6 免費試用": "$0.00",
+            "虛線方格：草稿紙張": "$30.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "$0.00",
+            "好心智雜誌": "$0.00",
+            "秋貓貼紙組": "$0.00"
+          }
+        },
         {
           "timestamp": 1724515341607,
           "price": 0,
