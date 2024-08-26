@@ -34429,6 +34429,14 @@
     "history": [
       [
         {
+          "timestamp": 1724666541004,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "金手指": "¥22.00"
+          }
+        },
+        {
           "timestamp": 1724601720903,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -34686,11 +34694,13 @@
     ],
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "¥8.00"
+      "formattedPrice": "¥8.00",
+      "金手指": "¥22.00"
     },
     "minPriceInfo": {
       "price": 8,
-      "formattedPrice": "¥8.00"
+      "formattedPrice": "¥8.00",
+      "金手指": "¥22.00"
     }
   },
   "1596406400": {

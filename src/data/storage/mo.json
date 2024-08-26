@@ -34743,6 +34743,14 @@
     "history": [
       [
         {
+          "timestamp": 1724666541004,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Cheat Codes": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1724601720903,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -35000,11 +35008,13 @@
     ],
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "Cheat Codes": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "Cheat Codes": "USD 2.99"
     }
   },
   "1596063349": {

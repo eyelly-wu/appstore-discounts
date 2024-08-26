@@ -35815,6 +35815,14 @@
     "history": [
       [
         {
+          "timestamp": 1724666541004,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Cheat Codes": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1724601720903,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -36072,11 +36080,13 @@
     ],
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "Cheat Codes": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "Cheat Codes": "HK$ 22.00"
     }
   },
   "1596063349": {
