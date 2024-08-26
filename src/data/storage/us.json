@@ -24047,6 +24047,12 @@
     "history": [
       [
         {
+          "timestamp": 1724662939218,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724644957258,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -24235,8 +24241,8 @@
       "formattedPrice": "$6.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99"
+      "price": 0,
+      "formattedPrice": "Free"
     }
   },
   "1400032769": {
