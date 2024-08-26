@@ -35291,6 +35291,17 @@
     "history": [
       [
         {
+          "timestamp": 1724684524828,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "USD 1.99",
+            "黄鸭证件照-周度会员": "USD 0.99",
+            "黄鸭证件照1元": "USD 0.99",
+            "黄鸭证件照3元": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1724601720903,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -35598,8 +35609,8 @@
       "黄鸭证件照3元": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "黄鸭证件照永久VIP": "USD 1.99",
       "黄鸭证件照-周度会员": "USD 0.99",
       "黄鸭证件照1元": "USD 0.99",
