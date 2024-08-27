@@ -74,7 +74,7 @@ So far, we've covered `5` `Countries or Regions` and  `187` `Apps` <br />Push no
 |5|1444383602|Goodnotes 6|Goodnotes 6|Goodnotes 6|Goodnotes 6|Goodnotes 6|
 |6|1473785373|钱迹记账-无广告随手记账本|钱迹记账-无广告随手记账本|钱迹记账-无广告随手记账本|钱迹记账-无广告随手记账本|钱迹-存钱记账小能手|
 |7|1461652639|TCP UDP Ping Socket 网络 调试  工具|TCP UDP Ping  Socket 網絡調試助手|TCP UDP Ping  Socket 網絡調試助手|TCP UDP Ping  Socket 網絡調試助手|TCP  UDP Debugger|
-|8|6499198824|蜂软扫描 - 全能扫描仪|ScanGo:Scanner App free of ads|ScanGo:Scanner App free of ads|ScanGo:Scanner App free of ads|ScanGo:Scanner App free of ads|
+|8|6499198824|蜂软扫描 - 全能扫描仪|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|
 |9|1538124245|哪里哪里|where I put it|where I put it|where I put it|where I put it|
 |10|6446469093|口袋时钟 - StandBy待机Widget桌面翻页创意时钟|口袋時鐘-創意全屏精準錶盤懸浮顯示鎖屏桌面小組件手錶|口袋時鐘-創意全屏精準錶盤懸浮顯示鎖屏桌面小組件手錶|口袋時鐘-創意全屏精準錶盤懸浮顯示鎖屏桌面小組件手錶|Clock Pocket:standby widget|
 |11|1610668825|FyTube - 没有广告的 YouTube|FyTube -沒有廣告的 YouTube|FyTube -沒有廣告的 YouTube|FyTube -沒有廣告的 YouTube|FyTube - YouTube Without Ads|
