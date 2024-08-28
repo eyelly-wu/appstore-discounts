@@ -3238,6 +3238,12 @@
     "history": [
       [
         {
+          "timestamp": 1724853742330,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724774544280,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -32556,6 +32562,12 @@
     "history": [
       [
         {
+          "timestamp": 1724853742330,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724774544280,
           "price": 0,
           "formattedPrice": "免费",
@@ -50313,6 +50325,18 @@
     "history": [
       [
         {
+          "timestamp": 1724853742330,
+          "price": 9,
+          "formattedPrice": "¥9.00",
+          "inAppPurchases": {
+            "510 星钻": "¥30.00",
+            "100 星钻": "¥6.00",
+            "1030 星钻": "¥60.00",
+            "300 星钻": "¥18.00",
+            "2080 星钻": "¥118.00"
+          }
+        },
+        {
           "timestamp": 1724774544280,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -50672,8 +50696,8 @@
       "2080 星钻": "¥118.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00",
+      "price": 9,
+      "formattedPrice": "¥9.00",
       "510 星钻": "¥30.00",
       "100 星钻": "¥6.00",
       "1030 星钻": "¥60.00",

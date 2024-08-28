@@ -3401,6 +3401,12 @@
     "history": [
       [
         {
+          "timestamp": 1724853742330,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724774544280,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -34193,6 +34199,12 @@
     "name": "where I put it",
     "history": [
       [
+        {
+          "timestamp": 1724853742330,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1724774544280,
           "price": 0,
