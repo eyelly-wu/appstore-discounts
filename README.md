@@ -148,7 +148,7 @@ So far, we've covered `5` `Countries or Regions` and  `187` `Apps` <br />Push no
 |79|6446614518|画中世界|❌|❌|❌|❌|
 |80|1159700098|去月球-To the Moon|去月球-To the Moon|去月球-To the Moon|去月球-To the Moon|To the Moon|
 |81|1271620263|艾希 - ICEY|ICEY|ICEY|ICEY|ICEY|
-|82|1361473095|Muse Dash 喵斯快跑|Muse Dash|Muse Dash|Muse Dash|Muse Dash|
+|82|1361473095|喵斯快跑|MuseDash|MuseDash|MuseDash|MuseDash|
 |83|6476010032|拦截猫-垃圾短信电话拦截|拦截猫-垃圾短信电话拦截|拦截猫-垃圾短信电话拦截|拦截猫-垃圾短信电话拦截|拦截猫-垃圾短信电话拦截|
 |84|510249014|水平仪 HD|水準管 HD|水準管 HD|水準管 HD|Level HD.|
 |85|904237743|Things 3|Things 3|Things 3|Things 3|Things 3|
