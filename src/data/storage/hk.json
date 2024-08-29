@@ -47799,6 +47799,12 @@
     "history": [
       [
         {
+          "timestamp": 1724936714225,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724860955142,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -48079,8 +48085,8 @@
       ]
     ],
     "maxPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 32,
