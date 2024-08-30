@@ -1909,6 +1909,23 @@
     "history": [
       [
         {
+          "timestamp": 1725026524127,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Reset Password": "USD 0.99",
+            "10 GB monthly": "USD 2.99",
+            "10 GB yearly": "USD 29.99",
+            "1 TB monthly": "USD 47.99",
+            "200 GB monthly": "USD 9.99",
+            "1 TB yearly": "USD 479.99",
+            "200 GB yearly": "USD 99.99",
+            "100 GB monthly": "USD 5.99",
+            "100 GB yearly": "USD 59.99",
+            "iCloud Sync Monthly": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1724947337211,
           "price": 0,
           "formattedPrice": "免費",
@@ -4712,6 +4729,14 @@
     "name": "夜星 (Night Stars)",
     "history": [
       [
+        {
+          "timestamp": 1725026524127,
+          "price": 5,
+          "formattedPrice": "USD 5.00",
+          "inAppPurchases": {
+            "移除廣告": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1724947337211,
           "price": 0,
@@ -23551,6 +23576,22 @@
     "name": "MuseDash",
     "history": [
       [
+        {
+          "timestamp": 1725026524127,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "unlockall_0": "USD 27.99",
+            "unlockall_29": "USD 33.99",
+            "cyTus": "USD 5.99",
+            "東方暮樂團 -壹-": "USD 3.99",
+            "暮 色 電 台 FM101": "USD 3.99",
+            "Let's GROOVE": "USD 3.99",
+            "肥宅快樂包 Vol.3": "USD 3.99",
+            "Miku in Museland": "USD 8.99",
+            "unlockall_13": "USD 21.99"
+          }
+        },
         {
           "timestamp": 1725004971323,
           "price": 2.99,
