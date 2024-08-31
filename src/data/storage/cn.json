@@ -34735,6 +34735,18 @@
     "history": [
       [
         {
+          "timestamp": 1725112926039,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥8.00",
+            "解锁《致命坠落》DLC": "¥6.00",
+            "解锁《王后与海》DLC": "¥8.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00"
+          }
+        },
+        {
           "timestamp": 1725033738341,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -35277,7 +35289,7 @@
       "price": 30,
       "formattedPrice": "¥30.00",
       "解锁《坏种》DLC": "¥6.00",
-      "解锁《致命坠落》DLC": "¥8.00",
+      "解锁《致命坠落》DLC": "¥6.00",
       "解锁《王后与海》DLC": "¥8.00",
       "解锁《重返恶魔城》DLC": "¥16.00",
       "解锁《一路向海》DLC捆绑包": "¥18.00"
@@ -41953,6 +41965,12 @@
     "history": [
       [
         {
+          "timestamp": 1725112926039,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725033738341,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -42181,8 +42199,8 @@
       "formattedPrice": "¥6.00"
     },
     "minPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00"
+      "price": 0,
+      "formattedPrice": "免费"
     }
   },
   "1622341132": {
