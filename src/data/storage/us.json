@@ -1943,6 +1943,23 @@
     "history": [
       [
         {
+          "timestamp": 1725073324715,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Reset Password": "$0.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Yearly": "$7.99",
+            "iCloud Sync Lifetime": "$39.99",
+            "100 GB monthly": "$5.99",
+            "200 GB monthly": "$9.99",
+            "100 GB yearly": "$59.99",
+            "10 GB monthly": "$2.99",
+            "10 GB yearly": "$29.99",
+            "1 TB monthly": "$47.99"
+          }
+        },
+        {
           "timestamp": 1724990572466,
           "price": 0,
           "formattedPrice": "Free",
@@ -4856,6 +4873,14 @@
     "name": "Night Stars",
     "history": [
       [
+        {
+          "timestamp": 1725073324715,
+          "price": 5,
+          "formattedPrice": "$5.00",
+          "inAppPurchases": {
+            "Remove advertisement": "$1.99"
+          }
+        },
         {
           "timestamp": 1724990572466,
           "price": 0,
@@ -24128,6 +24153,22 @@
     "name": "MuseDash",
     "history": [
       [
+        {
+          "timestamp": 1725073324715,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "unlockall_29": "$33.99",
+            "cyTus": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        },
         {
           "timestamp": 1725040947459,
           "price": 2.99,
