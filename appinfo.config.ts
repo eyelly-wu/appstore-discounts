@@ -59,6 +59,10 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1198176727,
+    name: 'Controller for HomeKit',
+  },
+  {
     id: 904280696,
     name: 'Things 3',
   },
