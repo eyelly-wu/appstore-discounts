@@ -13440,6 +13440,15 @@
     "history": [
       [
         {
+          "timestamp": 1725199327752,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium": "¥253.00",
+            "高级版": "¥248.00"
+          }
+        },
+        {
           "timestamp": 1725120129395,
           "price": 0,
           "formattedPrice": "免费",
@@ -13605,7 +13614,7 @@
       ]
     ],
     "maxPriceInfo": {
-      "Premium": "¥233.00",
+      "Premium": "¥253.00",
       "高级版": "¥248.00"
     },
     "minPriceInfo": {
@@ -28741,6 +28750,21 @@
     "history": [
       [
         {
+          "timestamp": 1725199327752,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "¥49.90",
+            "解锁GoodNotes 5完整版": "¥68.00",
+            "Goodnotes 6 免费试用": "¥0.00",
+            "小兔绿洲贴纸": "¥0.00",
+            "Goodnotes 6 一次性付款": "¥119.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸": "¥0.00",
+            "好心智杂志": "¥0.00",
+            "点阵：草稿纸": "¥3.00"
+          }
+        },
+        {
           "timestamp": 1725120129395,
           "price": 0,
           "formattedPrice": "免费",
@@ -29134,7 +29158,7 @@
       "Goodnotes 6 一次性付款": "¥119.00",
       "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸": "¥0.00",
       "好心智杂志": "¥0.00",
-      "点阵：草稿纸": "¥8.00",
+      "点阵：草稿纸": "¥3.00",
       "秋日猫猫贴纸组": "¥0.00"
     }
   },
@@ -33555,6 +33579,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1725199327752,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1725120129395,
           "price": 48,
@@ -55616,6 +55649,14 @@
     "history": [
       [
         {
+          "timestamp": 1725199327752,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "本体1-6章": "¥41.00"
+          }
+        },
+        {
           "timestamp": 1725120129395,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -55900,7 +55941,7 @@
     "maxPriceInfo": {
       "price": 33,
       "formattedPrice": "¥33.00",
-      "本体1-6章": "¥32.00"
+      "本体1-6章": "¥41.00"
     },
     "minPriceInfo": {
       "price": 1,

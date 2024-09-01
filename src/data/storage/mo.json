@@ -30879,6 +30879,21 @@
     "history": [
       [
         {
+          "timestamp": 1725199327752,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "USD 9.99",
+            "GoodNotes 5完整版解鎖": "USD 9.99",
+            "Goodnotes 6 一次性付款": "USD 23.99",
+            "Goodnotes 6 免費試用": "USD 0.00",
+            "兔子綠洲貼紙": "USD 0.00",
+            "虛線方格：草稿紙張": "USD 0.49",
+            "市場內容": "USD 9.99",
+            "輕安自在兔子貼紙": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1725157619807,
           "price": 0,
           "formattedPrice": "免費",
@@ -31275,7 +31290,8 @@
       "好心智雜誌": "USD 0.00",
       "秋貓貼紙組": "USD 0.00",
       "輕安自在兔子貼紙": "USD 0.99",
-      "市集內容": "USD 8.99"
+      "市集內容": "USD 8.99",
+      "市場內容": "USD 9.99"
     },
     "minPriceInfo": {
       "Goodnotes 6（1 年）": "USD 9.99",
@@ -31283,12 +31299,13 @@
       "Goodnotes 6 一次性付款": "USD 21.99",
       "兔子綠洲貼紙": "USD 0.00",
       "Goodnotes 6 免費試用": "USD 0.00",
-      "虛線方格：草稿紙張": "USD 0.99",
+      "虛線方格：草稿紙張": "USD 0.49",
       "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "USD 0.00",
       "好心智雜誌": "USD 0.00",
       "秋貓貼紙組": "USD 0.00",
       "輕安自在兔子貼紙": "USD 0.99",
-      "市集內容": "USD 8.99"
+      "市集內容": "USD 8.99",
+      "市場內容": "USD 9.99"
     }
   },
   "1444636541": {
@@ -35692,6 +35709,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1725199327752,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "USD 3.99",
+            "Value for Value": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1725120129395,
           "price": 6.99,
@@ -44729,6 +44755,14 @@
     "history": [
       [
         {
+          "timestamp": 1725199327752,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1725120129395,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
@@ -45114,8 +45148,8 @@
       "Mr. X Nightmare DLC": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "USD 7.99",
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
       "Mr. X Nightmare DLC": "USD 2.99"
     }
   },

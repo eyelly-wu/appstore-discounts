@@ -32108,6 +32108,21 @@
     "history": [
       [
         {
+          "timestamp": 1725199327752,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "HK$ 88.00",
+            "GoodNotes 5完整版解鎖": "HK$ 88.00",
+            "Goodnotes 6 一次性付款": "HK$ 210.00",
+            "Goodnotes 6 免費試用": "HK$ 0.00",
+            "兔子綠洲貼紙": "HK$ 0.00",
+            "虛線方格：草稿紙張": "HK$ 2.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "HK$ 0.00",
+            "好心智雜誌": "HK$ 0.00"
+          }
+        },
+        {
           "timestamp": 1725120129395,
           "price": 0,
           "formattedPrice": "免費",
@@ -32378,7 +32393,7 @@
       "Goodnotes 6 免費試用": "HK$ 0.00",
       "Goodnotes 6 一次性付款": "HK$ 210.00",
       "兔子綠洲貼紙": "HK$ 0.00",
-      "虛線方格：草稿紙張": "HK$ 8.00",
+      "虛線方格：草稿紙張": "HK$ 2.00",
       "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "HK$ 0.00",
       "好心智雜誌": "HK$ 0.00"
     }
@@ -36784,6 +36799,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1725199327752,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1725120129395,
           "price": 58,
@@ -45836,6 +45860,14 @@
     "history": [
       [
         {
+          "timestamp": 1725199327752,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1725120129395,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -46221,8 +46253,8 @@
       "Mr. X Nightmare DLC": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00",
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
       "Mr. X Nightmare DLC": "HK$ 22.00"
     }
   },
