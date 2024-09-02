@@ -2835,6 +2835,19 @@
     "history": [
       [
         {
+          "timestamp": 1725285733971,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "Cloud Backup Yearly": "HK$ 68.00",
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "Cloud Backup Monthly": "HK$ 12.00",
+            "iCloud Sync Monthly": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1725206540925,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -4011,6 +4024,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1725285733971,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725282336861,
           "price": 98,
@@ -9845,6 +9864,12 @@
     "name": "时间轴-全球历史",
     "history": [
       [
+        {
+          "timestamp": 1725285733971,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725206540925,
           "price": 32,
@@ -37933,6 +37958,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1725285733971,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1725206540925,
           "price": 0,
