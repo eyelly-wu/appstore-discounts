@@ -244,8 +244,8 @@
 |175|656951157|❌|Playdead's LIMBO|Playdead's LIMBO|Playdead's LIMBO|Playdead's LIMBO|
 |176|886561127|❌|INSIDE by Playdead|INSIDE by Playdead|INSIDE by Playdead|INSIDE by Playdead|
 |177|1201642309|❌|Playdead's INSIDE|Playdead's INSIDE|Playdead's INSIDE|Playdead's INSIDE|
-|178|1529448980|❌|Reeder 5.|Reeder 5.|Reeder 5.|Reeder 5.|
-|179|1529445840|❌|Reeder 5|Reeder 5|Reeder 5|Reeder 5|
+|178|1529448980|❌|Reeder Classic.|Reeder Classic.|Reeder Classic.|Reeder Classic.|
+|179|1529445840|❌|Reeder Classic|Reeder Classic|Reeder Classic|Reeder Classic|
 |180|1596063349|❌|Stash|Stash|Stash|Stash - Rule Based Proxy|
 |181|6444029612|❌|Loon Lite|Loon Lite|Loon Lite|Loon Lite|
 |182|1373567447|❌|Loon|Loon|Loon|Loon|
