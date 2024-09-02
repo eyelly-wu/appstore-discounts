@@ -23307,6 +23307,17 @@
     "history": [
       [
         {
+          "timestamp": 1725296539692,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "HK$ 198.00",
+            "Lifetime license": "HK$ 388.00",
+            "Yearly Subscription": "HK$ 158.00",
+            "Monthly Subscription": "HK$ 43.00"
+          }
+        },
+        {
           "timestamp": 1725292927751,
           "price": 0,
           "formattedPrice": "免費",
@@ -23341,7 +23352,7 @@
     "minPriceInfo": {
       "PRO yearly subscription": "HK$ 198.00",
       "Yearly Subscription": "HK$ 158.00",
-      "Lifetime license": "HK$ 788.00",
+      "Lifetime license": "HK$ 388.00",
       "Monthly Subscription": "HK$ 43.00"
     }
   },
