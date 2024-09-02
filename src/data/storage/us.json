@@ -36289,6 +36289,15 @@
     "history": [
       [
         {
+          "timestamp": 1725246171243,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
+        {
           "timestamp": 1725163416212,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -44876,6 +44885,14 @@
     "history": [
       [
         {
+          "timestamp": 1725246171243,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        },
+        {
           "timestamp": 1725163416212,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -45271,8 +45288,8 @@
       "Mr. X Nightmare DLC": "$2.99"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "$7.99",
+      "price": 4.99,
+      "formattedPrice": "$4.99",
       "Mr. X Nightmare DLC": "$2.99"
     }
   },
