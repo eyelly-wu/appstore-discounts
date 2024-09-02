@@ -4044,6 +4044,12 @@
     "history": [
       [
         {
+          "timestamp": 1725282336861,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725206540925,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -4428,8 +4434,8 @@
       ]
     ],
     "maxPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 390,
+      "formattedPrice": "$390.00"
     },
     "minPriceInfo": {
       "price": 0,
