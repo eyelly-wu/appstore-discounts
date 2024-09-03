@@ -33626,6 +33626,17 @@
     "history": [
       [
         {
+          "timestamp": 1725339741107,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "$39.99",
+            "Monthly Subscription": "$7.99",
+            "Exclusive Lifetime Offer": "$79.99",
+            "Lifetime": "$149.99"
+          }
+        },
+        {
           "timestamp": 1725336147284,
           "price": 0,
           "formattedPrice": "Free",
@@ -33847,7 +33858,7 @@
       ]
     ],
     "maxPriceInfo": {
-      "Yearly Subscription": "$29.99",
+      "Yearly Subscription": "$39.99",
       "Monthly Subscription": "$7.99",
       "Exclusive Lifetime Offer": "$79.99",
       "Lifetime": "$149.99"
