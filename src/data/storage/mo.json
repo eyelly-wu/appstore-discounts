@@ -58103,6 +58103,16 @@
     "history": [
       [
         {
+          "timestamp": 1725375738879,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "永久会员": "USD 14.99",
+            "包月会员": "USD 0.99",
+            "包年会员": "USD 7.99"
+          }
+        },
+        {
           "timestamp": 1725292927751,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -58590,8 +58600,8 @@
       "包年会员": "USD 7.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "永久会员": "USD 14.99",
       "包月会员": "USD 0.99",
       "包年会员": "USD 7.99"
