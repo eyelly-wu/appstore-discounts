@@ -2800,6 +2800,19 @@
     "history": [
       [
         {
+          "timestamp": 1725332531685,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "iCloud Sync Lifetime": "$34.99",
+            "Cloud Backup Monthly": "$1.49"
+          }
+        },
+        {
           "timestamp": 1725249761465,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -3992,6 +4005,12 @@
     "name": "RAIN RADAR °- sky weather NOAA",
     "history": [
       [
+        {
+          "timestamp": 1725332531685,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725282336861,
           "price": 12.99,
@@ -9877,6 +9896,12 @@
     "name": "Timeline - World history",
     "history": [
       [
+        {
+          "timestamp": 1725332531685,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725249761465,
           "price": 3.99,
@@ -37334,6 +37359,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1725332531685,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
         {
           "timestamp": 1725249761465,
           "price": 0,
