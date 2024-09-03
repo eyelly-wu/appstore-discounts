@@ -4162,6 +4162,12 @@
     "history": [
       [
         {
+          "timestamp": 1725372145279,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725292927751,
           "price": 0,
           "formattedPrice": "免費",
@@ -4578,6 +4584,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1725372145279,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$1,190.00",
+            "Yearly Cloud Services": "$220.00",
+            "Monthly Cloud Services": "$50.00",
+            "Reset Password": "$30.00"
+          }
+        },
         {
           "timestamp": 1725292927751,
           "price": 90,
@@ -9911,6 +9928,12 @@
     "name": "时间轴-全球历史",
     "history": [
       [
+        {
+          "timestamp": 1725372145279,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725292927751,
           "price": 0,
@@ -48735,6 +48758,12 @@
     "name": "照片同步-備份相冊照片視頻",
     "history": [
       [
+        {
+          "timestamp": 1725372145279,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725292927751,
           "price": 0,
