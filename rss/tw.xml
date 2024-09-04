@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2024-09-03T15:05:05.200Z</updated>
+    <updated>2024-09-04T14:05:06.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,42 +18,48 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-09-03T15:05:05.200Z</updated>
+        <updated>2024-09-04T14:05:06.055Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMood]]></title>
-        <id>AMood-1725375738879</id>
-        <link href="https://apps.apple.com/tw/app/amood/id6479683928?uo=4"/>
-        <updated>2024-09-03T15:02:18.879Z</updated>
-        <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/amood/id6479683928?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/37/95/2137952b-c4ce-8cd7-f696-43dd07ea9f13/AppIcon-0-0-1x_U007ephone-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Juice Watch]]></title>
+        <id>Juice Watch-1725458543439</id>
+        <link href="https://apps.apple.com/tw/app/juice-watch/id1485101937?uo=4"/>
+        <updated>2024-09-04T14:02:23.439Z</updated>
+        <summary type="html"><![CDATA[价格: $220.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/juice-watch/id1485101937?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/e8/99/1fe89909-69fa-0fbd-030b-9067f4666502/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>$30.00</span> → <b>
+  优惠信息（价格：<span>$220.00</span> → <b>
   <strong>免費</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  AMoood通过苹果手表主动追踪您的身体活力、心理情绪等数据，帮助您更好地感知每日身体压力和心理波动程度。
+  Monitor your iPhone battery level from your wrist.
 
-◎ 苹果健康集成
-AMood与Apple Health集成，需要授予苹果健康的读取权限来追踪您的活力和心情。
+Juice Watch is a simple app designed to do two things well:
 
-◎ 订阅价格和条款
-我们提供一次性购买、按月和按年自动续订三种不同的购买选项。按月或按年订阅的说明：确认并支付后，将通过你的苹果 iTunes 账号自动续订。扣费成功后，顺延一个订阅周期。若需退订，请在当前订阅期结束前至少24小时内，手动在 iTunes / Apple ID 设置管理中关闭自动续费功能。试用期内，如不取消订阅，则会在试用期结束时自动开通订阅并扣款。本服务由您自助选择是否取消，若您选择不取消，将为您开通下一个计费周期的续费服务。
+• Show the battery level of the paired iPhone in a complication on Apple Watch
 
-◎ 隐私保护
-用户健康数据仅储存在本地以及用户所属的iCloud中，我们不会上传任何健康数据。
+• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
 
-◎ 免责声明
-AMood不是医疗设备，不能用于诊断、治疗、预防疾病或医疗状况，所提供的所有信息和建议不可以被视作医疗建议或诊断，请勿替代专业的诊断和治疗。因此，如果您担心自己的身体和(或)心理健康，请咨询医生。
+Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
 
-◎ 用户协议和隐私条款
-用户协议 https://www.apple.com/legal/internet-services/itunes/dev/stdeula
-隐私条款 https://privacy.1ts.fun/product/240325TMy6RwMgsW0Afs
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/74/02/2674024e-2881-fa18-c215-657a2c17e3b7/ca3b7246-8576-4974-ad24-2516b66ed5ad__U5e7b_U706f_U72471.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/bc/5c/1abc5c43-6747-ac95-353c-8e5d7f1aeb73/d766445b-5e6a-4d19-81e7-e04ffd35a2bd_5.5_U82f1_U5bf8_U5546_U5e97_U622a_U56fe.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/97/d8/9497d8d0-e762-0193-442a-e6f71485d0e6/115daeee-f7bc-4d48-853a-620f18eb3530__U5e7b_U706f_U72473.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/ae/2e/4eae2e02-12ad-2d4b-c48f-6a700ac4439e/f05c30f0-e67e-465d-91de-2d677fa1f538__U5e7b_U706f_U72474.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/c9/e4/fcc9e4cd-6c02-565a-97c6-493715429174/cb86a6e1-cd35-4d3f-b085-2379a790568a__U5e7b_U706f_U72475.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0b/81/370b81af-cfd0-816b-d0b1-bd33e6145c04/e88e5f17-2771-435b-9996-c597a85eeb4d__U5e7b_U706f_U72476.png/392x696bb.png" />]]></content>
+You can see both your iPhone and Apple Watch battery levels on the same complication.
+
+You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+
+You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+
+Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+
+You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+
+Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+
+As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
