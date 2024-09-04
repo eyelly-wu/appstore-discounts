@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2024-09-04T14:05:06.050Z</updated>
+    <updated>2024-09-04T16:05:03.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,69 +18,44 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-09-04T14:05:06.051Z</updated>
+        <updated>2024-09-04T16:05:03.190Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1725458543439</id>
-        <link href="https://apps.apple.com/cn/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2024-09-04T14:02:23.439Z</updated>
-        <summary type="html"><![CDATA[价格: ¥48.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/e8/99/1fe89909-69fa-0fbd-030b-9067f4666502/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥48.00</span> → <b>
-  <strong>免费</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  从手腕上监控你的iPhone电池电量。
+        <title type="html"><![CDATA[AMood]]></title>
+        <id>AMood-1725465740770</id>
+        <link href="https://apps.apple.com/cn/app/amood/id6479683928?uo=4"/>
+        <updated>2024-09-04T16:02:20.770Z</updated>
+        <summary type="html"><![CDATA[永久会员: ¥98.00 → ¥58.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/amood/id6479683928?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/cd/a2/50cda22c-a431-6870-6f10-8d0452d52fa1/AppIcon-0-0-1x_U007ephone-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>永久会员：</strong><span>¥98.00</span> → <b>
+  <strong>¥58.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  AMoood通过苹果手表主动追踪您的身体活力、心理情绪等数据，帮助您更好地感知每日身体压力和心理波动程度。
 
-Juice Watch 是一个简单的应用程序，旨在做好两件事：
+◎ 苹果健康集成
+AMood与Apple Health集成，需要授予苹果健康的读取权限来追踪您的活力和心情。
 
-•在Apple Watch上显示配对iPhone的电池电量
+◎ 订阅价格和条款
+我们提供一次性购买、按月和按年自动续订三种不同的购买选项。按月或按年订阅的说明：确认并支付后，将通过你的苹果 iTunes 账号自动续订。扣费成功后，顺延一个订阅周期。若需退订，请在当前订阅期结束前至少24小时内，手动在 iTunes / Apple ID 设置管理中关闭自动续费功能。试用期内，如不取消订阅，则会在试用期结束时自动开通订阅并扣款。本服务由您自助选择是否取消，若您选择不取消，将为您开通下一个计费周期的续费服务。
 
-•当你的 Apple Watch 正在充电，电量超过 90 %（或者你选择的任何范围，从 50 %到 100 %）时，在你的iPhone 上发送通知提醒
+◎ 隐私保护
+用户健康数据仅储存在本地以及用户所属的iCloud中，我们不会上传任何健康数据。
 
-只需要看一眼你的手腕，就可以全天监控iPhone的电量情况。或者，当你的iPhone在另一个房间充电时，你可以密切关注它的电池电量。
+◎ 免责声明
+AMood不是医疗设备，不能用于诊断、治疗、预防疾病或医疗状况，所提供的所有信息和建议不可以被视作医疗建议或诊断，请勿替代专业的诊断和治疗。因此，如果您担心自己的身体和(或)心理健康，请咨询医生。
 
-你可以同时看到iPhone和Apple Watch的电池电量。
-
-当配对的iPhone正在充电，并且电量至少达到 80 %（或者你选择的任何范围，从 50 %到 100 %）时，可以在你的 Apple Watch 上收到通知提醒。
-
-你可以设置电池低电量通知提醒，当你的Apple Watch或者iPhone电池电量不足时收到通知提醒。
-
-Juice Watch具有多种复杂功能，所以你可以在自己喜欢的表盘上使用它。
-
-你还可以使用这个应用程序从配对的iPhone上查看Apple Watch的电池电量。 当Apple Watch在其他地方充电时，可能会很起作用。
-
-请注意，Apple Watch上显示的iPhone电池电量并不是实时的。 它大约每5-60分钟定期刷新一次。 配对的iPhone上所显示的Apple Watch的电池电量则以大致相同的速率刷新。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a0/93/c4/a093c457-f9eb-7a0e-4ec8-e884294d9e35/85c225a8-7133-4dce-93da-d1421b26426e_5.5_inch_-_1_-_cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/31/15/70/31157006-4bcc-b282-6306-1fe9682d4c5c/b28e8371-2da8-403c-ae2b-f6cb92f4a34f_5.5_inch_-_2_-_cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f2/4b/4c/f24b4c89-3fcd-20c9-7948-6fd43fae3717/4738d87c-93b1-4532-8668-0d4f8f462601_5.5_inch_-_3_-_cn.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蜡烛人]]></title>
-        <id>蜡烛人-1725458543439</id>
-        <link href="https://apps.apple.com/cn/app/%E8%9C%A1%E7%83%9B%E4%BA%BA/id1344655035?uo=4"/>
-        <updated>2024-09-04T14:02:23.439Z</updated>
-        <summary type="html"><![CDATA[价格: ¥30.00 → ¥18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E8%9C%A1%E7%83%9B%E4%BA%BA/id1344655035?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/21/b1/0d21b1c0-3c02-f7da-629d-fa7c665f0d68/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥30.00</span> → <b>
-  <strong>¥18.00</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  一根只能燃烧10秒的小蜡烛决心走出黑暗，追寻光明。
-
-《蜡烛人》是一款拥有独特游戏玩法和故事情节的动作冒险游戏。玩家将扮演一根只能燃烧10秒的小蜡烛，挑战由光与影构成的陷阱谜题，体验令人惴惴不安的游戏氛围，依靠微弱的火光探索黑暗的世界、追寻远方的光明，发掘冒险背后富有现实意义的童话故事……
-
-特色
-• 依靠10秒火光在黑暗中摸索前行
-• 挑战由光与影构成的独特陷阱谜题
-• 阅读一段富有现实意义的童话故事
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/71/70/ae/7170ae43-0eb2-8ed5-d384-268b0577c679/dd4343a7-c07a-4a0c-bf00-09a4488cd118_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fd/a1/9c/fda19c47-7b45-fb34-13f8-73435155beb6/7f4a527d-7c19-496b-a725-eebfb17840e1_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c7/e9/ef/c7e9ef8d-8b14-ace1-5f64-b9769516fe62/2c83b2df-5d90-4a4b-9c25-2509615b7a1f_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/ae/a8/42aea8ad-4d02-fb08-6f54-8575ee0a63f3/f070c272-5b18-49b2-abd5-257a01c4c0d5_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/30/9b/a6/309ba64b-24f9-47da-ace7-cc6957eb9121/4724cbd3-1520-4bf7-9728-59322c8c6da3_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/e4/c5/27e4c502-54aa-5f54-0175-6eaceb620964/b0368460-6c6d-4a20-9d8f-cb017cccec2f_6.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/24/d7/4e24d7f5-28e7-970d-057e-20f4e12dace8/06252ea6-5e43-4979-b882-a5af8440666b_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/da/3b/9f/da3b9fc9-b522-b0f9-be72-17c9860bac58/660fc7ae-5d1e-4620-89da-9401b6f9d7b3_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f5/ae/0f/f5ae0f83-7e19-9629-cb06-b69ca9dd9b61/173e43c6-eee4-40fe-9d43-00fc63ea33ce_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1e/84/00/1e840089-a6af-f315-afda-5055a4ef1d2c/0f8b227e-eb4b-4ae5-92d1-293cff9bebbb_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/69/60/0f/69600ff0-7b34-99de-832d-788a290a60b2/f8076b05-da6d-44c2-8aa1-22a6ff466d55_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/60/69/ba/6069ba0c-466a-d75f-fd0e-a99cf5d83085/9f1283ea-7263-4e0b-aaff-730f2ff50e38_6.png/552x414bb.png" />]]></content>
+◎ 用户协议和隐私条款
+用户协议 https://www.apple.com/legal/internet-services/itunes/dev/stdeula
+隐私条款 https://privacy.1ts.fun/product/240325TMy6RwMgsW0Afs
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/74/02/2674024e-2881-fa18-c215-657a2c17e3b7/ca3b7246-8576-4974-ad24-2516b66ed5ad__U5e7b_U706f_U72471.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/bc/5c/1abc5c43-6747-ac95-353c-8e5d7f1aeb73/d766445b-5e6a-4d19-81e7-e04ffd35a2bd_5.5_U82f1_U5bf8_U5546_U5e97_U622a_U56fe.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/97/d8/9497d8d0-e762-0193-442a-e6f71485d0e6/115daeee-f7bc-4d48-853a-620f18eb3530__U5e7b_U706f_U72473.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/ae/2e/4eae2e02-12ad-2d4b-c48f-6a700ac4439e/f05c30f0-e67e-465d-91de-2d677fa1f538__U5e7b_U706f_U72474.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/c9/e4/fcc9e4cd-6c02-565a-97c6-493715429174/cb86a6e1-cd35-4d3f-b085-2379a790568a__U5e7b_U706f_U72475.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0b/81/370b81af-cfd0-816b-d0b1-bd33e6145c04/e88e5f17-2771-435b-9996-c597a85eeb4d__U5e7b_U706f_U72476.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
