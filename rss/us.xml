@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2024-09-05T01:32:03.172Z</updated>
+    <updated>2024-09-05T03:05:02.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,70 +18,48 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-09-05T01:32:03.172Z</updated>
+        <updated>2024-09-05T03:05:02.704Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Night Stars]]></title>
-        <id>Night Stars-1725499747061</id>
-        <link href="https://apps.apple.com/us/app/night-stars/id533055404?uo=4"/>
-        <updated>2024-09-05T01:29:07.061Z</updated>
-        <summary type="html"><![CDATA[Price: $5.00 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/night-stars/id533055404?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/59/d1/9c59d1bc-7349-238a-38f9-797f55df356b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/60x60bb.jpg" />
+        <title type="html"><![CDATA[Juice Watch]]></title>
+        <id>Juice Watch-1725505332025</id>
+        <link href="https://apps.apple.com/us/app/juice-watch/id1485101937?uo=4"/>
+        <updated>2024-09-05T03:02:12.025Z</updated>
+        <summary type="html"><![CDATA[Price: $6.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/juice-watch/id1485101937?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/e8/99/1fe89909-69fa-0fbd-030b-9067f4666502/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>$5.00</span> → <b>
+  Discount Information（Price：<span>$6.99</span> → <b>
   <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Highly addictive game. Once you start, you cannot stop.
+  Monitor your iPhone battery level from your wrist.
 
-There are two modes.
+Juice Watch is a simple app designed to do two things well:
 
-Game rule
-Regular:
-- Tap two or more blocks, which are same color
-- No time limit, once you meet target you can promote to next level
+• Show the battery level of the paired iPhone in a complication on Apple Watch
 
-Endless:
-- Tap two or more blocks, which are same color
-- Tap the blocks as more and fast as you can
-- The more block you tap once, the more time will be added
-- When level up the time drain will be faster
-- Once time up it will game over
-- Click the menu (Moon), the time will be paused
+• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
 
-Score rule:
-Score = block x block x 5
+Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
 
-Bonus rule of Regular mode:
-For 10 x 10 board:
-bonus = 2000 - block x block x 20
+You can see both your iPhone and Apple Watch battery levels on the same complication.
 
-For 12 x 12 board:
-bonus = 2000 - block x block x 10
+You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
 
-For 15 x 15 board:
-bonus = 2000 - block x block x 5
+You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
 
-Features:
-- 3 difficult level, Easy (4 color blocks), Normal (5 color blocks), Hard (6 color blocks)
-- 9 different color blocks, you can choose random color or fixed color
-- iPhone/iPod can play 10 x 10, 12 x 12 board
-- iPad can play 10 x 10, 12 x 12 , 15 x 15 board
+Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
 
------------------------------------------------------------------
+You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
 
+Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
 
-Play as God, create your own universe
-
-myDream Universe
-
-
-https://apps.apple.com/app/mydream-universe/id1447861806
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/96/b6/0e/96b60eba-4532-e0d5-8dc3-da4610d7b9f5/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/ac/0b/26ac0b84-bcde-fc23-4713-20418c636554/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/3a/ba/a73abaac-0612-ab5b-b8cc-0f111433fc2e/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/7b/48/307b4812-8454-30c8-d5e4-1b865aac7d60/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/21/d5/de/21d5dedf-0f53-ce4c-527a-eaa143b0db2c/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/07/34/7a/07347a2d-4dc7-1c39-b2b6-4de9fb30ee48/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/aa/48/50aa48e7-b15f-f9b9-4b7f-ebe48e7393f4/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/c2/c0/97c2c0cc-dbc9-46a6-3f78-6b207f1896e2/pr_source.jpg/576x768bb.jpg" />]]></content>
+As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
