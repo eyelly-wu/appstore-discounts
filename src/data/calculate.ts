@@ -156,7 +156,7 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
             if (isPriceChange) {
               timeStorageAppInfo.unshift(newAppInfo)
             }
-          } else {
+          } else if (isPriceChange) {
             dateStorageAppInfo.unshift([newAppInfo])
           }
 
@@ -178,9 +178,9 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
 
         storageAppInfo[trackId] = {
           name: trackName,
-          history: dateStorageAppInfo,
           maxPriceInfo: maxPriceInfo as PriceInfo,
           minPriceInfo: minPriceInfo as PriceInfo,
+          history: dateStorageAppInfo,
         }
       })
     }
