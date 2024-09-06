@@ -11,18 +11,28 @@ function definePriceRange() {
     appIds.forEach((appId) => {
       const storageApp = storageAppInfo[appId]
       if (!isEmpty(storageApp)) {
-        const { history = [] } = storageApp
-        const maxPriceInfo: PriceInfo & any = { price: -1 }
-        const minPriceInfo: PriceInfo & any = { price: Infinity }
-        history.forEach((day) => {
-          day.forEach((time) => {
-            updateRangePriceInfo('max', maxPriceInfo, time)
-            updateRangePriceInfo('min', minPriceInfo, time)
-          })
-        })
+        const {
+          history = [],
+          minPriceInfo: min,
+          maxPriceInfo: max,
+        } = storageApp
 
-        storageApp.maxPriceInfo = maxPriceInfo
-        storageApp.minPriceInfo = minPriceInfo
+        if (
+          typeof min.price === 'undefined' ||
+          typeof max.price === 'undefined'
+        ) {
+          const maxPriceInfo: PriceInfo & any = { price: -1 }
+          const minPriceInfo: PriceInfo & any = { price: Infinity }
+          history.forEach((day) => {
+            day.forEach((time) => {
+              updateRangePriceInfo('max', maxPriceInfo, time)
+              updateRangePriceInfo('min', minPriceInfo, time)
+            })
+          })
+
+          storageApp.maxPriceInfo = maxPriceInfo
+          storageApp.minPriceInfo = minPriceInfo
+        }
       }
     })
   })

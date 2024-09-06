@@ -1429,6 +1429,8 @@
   "625206080": {
     "name": "Tomb Raider",
     "maxPriceInfo": {
+      "price": 990,
+      "formattedPrice": "$990.00",
       "Single Player DLC Pack": "$0.00",
       "Пакет поддержки русского языка": "$0.00",
       "Pacchetto lingua italiana": "$0.00",
@@ -1437,6 +1439,8 @@
       "Paquete para el idioma español": "$0.00"
     },
     "minPriceInfo": {
+      "price": 990,
+      "formattedPrice": "$990.00",
       "Single Player DLC Pack": "$0.00",
       "Пакет поддержки русского языка": "$0.00",
       "Pacchetto lingua italiana": "$0.00",
@@ -2179,9 +2183,13 @@
   "1055511498": {
     "name": "Day One",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium": "$190.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium": "$190.00"
     },
     "history": [
@@ -2394,8 +2402,14 @@
   },
   "1108032375": {
     "name": "Rise of the Tomb Raider™",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 990,
+      "formattedPrice": "$990.00"
+    },
+    "minPriceInfo": {
+      "price": 990,
+      "formattedPrice": "$990.00"
+    },
     "history": [
       [
         {
@@ -2729,12 +2743,16 @@
   "1175912897": {
     "name": "EverMemo印象便簽",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "彩色便签": "$0.00",
       "设置提醒": "$0.00",
       "计算器": "$0.00",
       "密码保护": "$0.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "彩色便签": "$0.00",
       "设置提醒": "$0.00",
       "计算器": "$0.00",
@@ -2790,12 +2808,16 @@
   "1198176727": {
     "name": "Controller for HomeKit",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "PRO yearly subscription": "$820.00",
       "Yearly Subscription": "$650.00",
       "Lifetime license": "$2,990.00",
       "Monthly Subscription": "$170.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "PRO yearly subscription": "$820.00",
       "Yearly Subscription": "$650.00",
       "Lifetime license": "$2,990.00",
@@ -2845,12 +2867,16 @@
   "1208145167": {
     "name": "Picsew - 長圖拼接",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Picsew Pro": "$60.00",
       "升級到 Picsew Plus": "$0.00",
       "Picsew Plus": "$30.00",
       "升級到 Picsew Pro": "$30.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Picsew Pro": "$60.00",
       "升級到 Picsew Plus": "$0.00",
       "Picsew Plus": "$30.00",
@@ -4535,8 +4561,14 @@
   },
   "1439569401": {
     "name": "Shadow of the Tomb Raider",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 1990,
+      "formattedPrice": "$1,990.00"
+    },
+    "minPriceInfo": {
+      "price": 1990,
+      "formattedPrice": "$1,990.00"
+    },
     "history": [
       [
         {
@@ -4590,8 +4622,14 @@
   },
   "1441532941": {
     "name": "神界：原罪2",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 1490,
+      "formattedPrice": "$1,490.00"
+    },
+    "minPriceInfo": {
+      "price": 1490,
+      "formattedPrice": "$1,490.00"
+    },
     "history": [
       [
         {
@@ -4655,8 +4693,10 @@
   "1444383602": {
     "name": "Goodnotes 6",
     "maxPriceInfo": {
-      "GoodNotes 5完整版解鎖": "$320.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Goodnotes 6（1 年）": "$320.00",
+      "GoodNotes 5完整版解鎖": "$320.00",
       "Goodnotes 6 一次性付款": "$770.00",
       "兔子綠洲貼紙": "$0.00",
       "Goodnotes 6 免費試用": "$0.00",
@@ -4667,8 +4707,10 @@
       "秋貓貼紙組": "$0.00"
     },
     "minPriceInfo": {
-      "GoodNotes 5完整版解鎖": "$320.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Goodnotes 6（1 年）": "$320.00",
+      "GoodNotes 5完整版解鎖": "$320.00",
       "Goodnotes 6 一次性付款": "$770.00",
       "兔子綠洲貼紙": "$0.00",
       "Goodnotes 6 免費試用": "$0.00",
@@ -5208,12 +5250,16 @@
   "1444636541": {
     "name": "Photomator",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "年度訂閱": "$990.00",
       "月度訂閱": "$290.00",
       "專屬終生優惠方案": "$2,490.00",
       "終生": "$3,990.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "年度訂閱": "$990.00",
       "月度訂閱": "$290.00",
       "專屬終生優惠方案": "$2,490.00",
@@ -5342,10 +5388,14 @@
   "1461652639": {
     "name": "TCP UDP Ping  Socket 網絡調試助手",
     "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
       "送上咖啡，支持開發者": "$90.00",
       "捐贈可樂，支持我们": "$30.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "送上咖啡，支持開發者": "$90.00",
       "捐贈可樂，支持我们": "$30.00"
     },
@@ -5464,11 +5514,15 @@
   "1473785373": {
     "name": "钱迹记账-无广告随手记账本",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Lifetime": "$690.00",
       "Monthly": "$30.00",
       "Annual": "$220.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Lifetime": "$690.00",
       "Monthly": "$30.00",
       "Annual": "$220.00"
@@ -8280,12 +8334,16 @@
   "6446469093": {
     "name": "口袋時鐘-創意全屏精準錶盤懸浮顯示鎖屏桌面小組件手錶",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "終身會員": "$150.00",
       "早鳥會員": "$150.00",
       "月份會員": "$30.00",
       "按年度訂閱": "$120.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "終身會員": "$0.00",
       "早鳥會員": "$150.00",
       "月份會員": "$30.00",
@@ -8336,11 +8394,15 @@
   "6504433140": {
     "name": "LaxtTime",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium Monthly": "$30.00",
       "Premium Annual": "$290.00",
       "Premium Lifetime": "$590.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium Monthly": "$30.00",
       "Premium Annual": "$290.00",
       "Premium Lifetime": "$590.00"
@@ -8362,8 +8424,14 @@
   },
   "6459738231": {
     "name": "Lies of P",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 1290,
+      "formattedPrice": "$1,290.00"
+    },
+    "minPriceInfo": {
+      "price": 1290,
+      "formattedPrice": "$1,290.00"
+    },
     "history": [
       [
         {
@@ -8377,8 +8445,14 @@
   },
   "6449748961": {
     "name": "DEATH STRANDING DIRECTOR'S CUT",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 1290,
+      "formattedPrice": "$1,290.00"
+    },
+    "minPriceInfo": {
+      "price": 1290,
+      "formattedPrice": "$1,290.00"
+    },
     "history": [
       [
         {
@@ -8393,10 +8467,14 @@
   "6499559693": {
     "name": "iStat Menus 7",
     "maxPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00",
       "Yearly Weather Subscription": "$150.00",
       "Monthly Weather Subscription": "$30.00"
     },
     "minPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00",
       "Yearly Weather Subscription": "$150.00",
       "Monthly Weather Subscription": "$30.00"
     },
@@ -8417,10 +8495,14 @@
   "6475002485": {
     "name": "Reeder.",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Yearly": "$320.00",
       "Monthly": "$30.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Yearly": "$320.00",
       "Monthly": "$30.00"
     },

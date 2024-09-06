@@ -142,7 +142,7 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
           timeStorageAppInfo.unshift(newAppInfo)
           dateStorageAppInfo.unshift(timeStorageAppInfo)
           minPriceInfo = maxPriceInfo = {
-            ...pick(appInfo, ['price,formattedPrice']),
+            ...pick(appInfo, ['price', 'formattedPrice']),
             ...appInfo.inAppPurchases,
           }
         } else {

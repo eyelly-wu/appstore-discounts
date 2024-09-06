@@ -1450,6 +1450,8 @@
   "625206080": {
     "name": "Tomb Raider",
     "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "$29.99",
       "Single Player DLC Pack": "$0.00",
       "Paquete para el idioma español": "$0.00",
       "Arabic language pack": "$0.00",
@@ -1458,6 +1460,8 @@
       "Polski pakiet językowy": "$0.00"
     },
     "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "$29.99",
       "Single Player DLC Pack": "$0.00",
       "Paquete para el idioma español": "$0.00",
       "Arabic language pack": "$0.00",
@@ -2272,9 +2276,13 @@
   "1055511498": {
     "name": "Day One",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Premium": "$34.99"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Premium": "$34.99"
     },
     "history": [
@@ -2438,8 +2446,14 @@
   },
   "1108032375": {
     "name": "Rise of the Tomb Raider™",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "$29.99"
+    },
+    "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "$29.99"
+    },
     "history": [
       [
         {
@@ -2784,12 +2798,16 @@
   "1175912897": {
     "name": "EverMemo - Fastest Note",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "计算器": "$0.00",
       "彩色便签": "$0.00",
       "设置提醒": "$0.00",
       "密码保护": "$0.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "计算器": "$0.00",
       "彩色便签": "$0.00",
       "设置提醒": "$0.00",
@@ -2845,12 +2863,16 @@
   "1198176727": {
     "name": "Controller for HomeKit",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "PRO yearly subscription": "$29.99",
       "Yearly Subscription": "$19.99",
       "Lifetime license": "$99.99",
       "Monthly Subscription": "$5.49"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "PRO yearly subscription": "$29.99",
       "Yearly Subscription": "$19.99",
       "Lifetime license": "$99.99",
@@ -2900,12 +2922,16 @@
   "1208145167": {
     "name": "Picsew - Screenshot Stitching",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Picsew Pro": "$1.99",
       "Upgrade to Picsew Plus": "$0.00",
       "Picsew Plus": "$0.99",
       "Upgrade to Picsew Pro": "$0.99"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Picsew Pro": "$1.99",
       "Upgrade to Picsew Plus": "$0.00",
       "Picsew Plus": "$0.99",
@@ -4022,8 +4048,14 @@
   },
   "1439569401": {
     "name": "Shadow of the Tomb Raider",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 54.99,
+      "formattedPrice": "$54.99"
+    },
+    "minPriceInfo": {
+      "price": 54.99,
+      "formattedPrice": "$54.99"
+    },
     "history": [
       [
         {
@@ -4077,8 +4109,14 @@
   },
   "1441532941": {
     "name": "Divinity: Original Sin 2",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 44.99,
+      "formattedPrice": "$44.99"
+    },
+    "minPriceInfo": {
+      "price": 44.99,
+      "formattedPrice": "$44.99"
+    },
     "history": [
       [
         {
@@ -4142,23 +4180,27 @@
   "1444383602": {
     "name": "Goodnotes 6",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Goodnotes 6 (1 year)": "$9.99",
       "GoodNotes 5 Unlock": "$9.99",
       "Goodnotes 6 One-Time Payment": "$23.99",
       "Goodnotes 6 Free Trial": "$0.00",
       "Goodnotes 6 (1 Year)": "$9.99",
-      "Marketplace Content": "$9.99",
       "Bunny Oasis Stickers": "$0.00",
+      "Marketplace Content": "$9.99",
       "Dotted Squares: Draft Papers": "$0.99"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Goodnotes 6 (1 year)": "$9.99",
       "GoodNotes 5 Unlock": "$9.99",
       "Goodnotes 6 One-Time Payment": "$23.99",
       "Goodnotes 6 Free Trial": "$0.00",
       "Goodnotes 6 (1 Year)": "$9.99",
-      "Marketplace Content": "$1.99",
       "Bunny Oasis Stickers": "$0.00",
+      "Marketplace Content": "$1.99",
       "Dotted Squares: Draft Papers": "$0.99"
     },
     "history": [
@@ -4324,12 +4366,16 @@
   "1444636541": {
     "name": "Photomator – Photo Editor",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Yearly Subscription": "$39.99",
       "Monthly Subscription": "$7.99",
       "Exclusive Lifetime Offer": "$79.99",
       "Lifetime": "$149.99"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Yearly Subscription": "$29.99",
       "Monthly Subscription": "$7.99",
       "Exclusive Lifetime Offer": "$79.99",
@@ -4496,10 +4542,14 @@
   "1461652639": {
     "name": "TCP  UDP Debugger",
     "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "Encourage us, Donate Coke": "$0.99",
       "Encourage  us, Buy me a coffee": "$2.99"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Encourage us, Donate Coke": "$0.99",
       "Encourage  us, Buy me a coffee": "$2.99"
     },
@@ -4618,11 +4668,15 @@
   "1473785373": {
     "name": "钱迹-存钱记账小能手",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Lifetime": "$19.95",
       "Monthly": "$0.99",
       "Annual": "$6.99"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Lifetime": "$19.95",
       "Monthly": "$0.99",
       "Annual": "$6.99"
@@ -7552,16 +7606,20 @@
   "6446469093": {
     "name": "Clock Pocket:standby widget",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Lifetime Membership": "$4.99",
       "Early Bird Membership": "$4.99",
-      "Month Member": "$0.99",
-      "Annual subscription": "$3.99"
+      "Annual subscription": "$3.99",
+      "Month Member": "$0.99"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Lifetime Membership": "$0.00",
       "Early Bird Membership": "$4.99",
-      "Month Member": "$0.99",
-      "Annual subscription": "$3.99"
+      "Annual subscription": "$3.99",
+      "Month Member": "$0.99"
     },
     "history": [
       [
@@ -7595,11 +7653,15 @@
   "6504433140": {
     "name": "LaxtTime",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Premium Lifetime": "$17.99",
       "Premium Monthly": "$0.99",
       "Premium Annual": "$8.99"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Premium Lifetime": "$17.99",
       "Premium Monthly": "$0.99",
       "Premium Annual": "$8.99"
@@ -7621,8 +7683,14 @@
   },
   "6459738231": {
     "name": "Lies of P",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 59.99,
+      "formattedPrice": "$59.99"
+    },
+    "minPriceInfo": {
+      "price": 59.99,
+      "formattedPrice": "$59.99"
+    },
     "history": [
       [
         {
@@ -7636,8 +7704,14 @@
   },
   "6449748961": {
     "name": "DEATH STRANDING DIRECTOR'S CUT",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "$39.99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "$39.99"
+    },
     "history": [
       [
         {
@@ -7652,10 +7726,14 @@
   "6499559693": {
     "name": "iStat Menus 7",
     "maxPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "$11.99",
       "Yearly Weather Subscription": "$4.99",
       "Monthly Weather Subscription": "$0.99"
     },
     "minPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "$11.99",
       "Yearly Weather Subscription": "$4.99",
       "Monthly Weather Subscription": "$0.99"
     },
@@ -7676,10 +7754,14 @@
   "6475002485": {
     "name": "Reeder.",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Yearly": "$10.00",
       "Monthly": "$1.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
       "Yearly": "$10.00",
       "Monthly": "$1.00"
     },

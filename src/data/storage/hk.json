@@ -1656,6 +1656,8 @@
   "625206080": {
     "name": "Tomb Raider",
     "maxPriceInfo": {
+      "price": 228,
+      "formattedPrice": "HK$ 228.00",
       "Single Player DLC Pack": "HK$ 0.00",
       "Пакет поддержки русского языка": "HK$ 0.00",
       "Pacchetto lingua italiana": "HK$ 0.00",
@@ -1664,6 +1666,8 @@
       "Arabic language pack": "HK$ 0.00"
     },
     "minPriceInfo": {
+      "price": 228,
+      "formattedPrice": "HK$ 228.00",
       "Single Player DLC Pack": "HK$ 0.00",
       "Пакет поддержки русского языка": "HK$ 0.00",
       "Pacchetto lingua italiana": "HK$ 0.00",
@@ -2406,9 +2410,13 @@
   "1055511498": {
     "name": "Day One",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium": "HK$ 273.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium": "HK$ 273.00"
     },
     "history": [
@@ -2621,8 +2629,14 @@
   },
   "1108032375": {
     "name": "Rise of the Tomb Raider™",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 228,
+      "formattedPrice": "HK$ 228.00"
+    },
+    "minPriceInfo": {
+      "price": 228,
+      "formattedPrice": "HK$ 228.00"
+    },
     "history": [
       [
         {
@@ -2994,12 +3008,16 @@
   "1175912897": {
     "name": "EverMemo印象便簽",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "计算器": "HK$ 0.00",
       "设置提醒": "HK$ 0.00",
       "彩色便签": "HK$ 0.00",
       "密码保护": "HK$ 0.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "计算器": "HK$ 0.00",
       "设置提醒": "HK$ 0.00",
       "彩色便签": "HK$ 0.00",
@@ -3055,12 +3073,16 @@
   "1198176727": {
     "name": "Controller for HomeKit",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "PRO yearly subscription": "HK$ 198.00",
       "Yearly Subscription": "HK$ 158.00",
       "Lifetime license": "HK$ 788.00",
       "Monthly Subscription": "HK$ 43.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "PRO yearly subscription": "HK$ 198.00",
       "Yearly Subscription": "HK$ 158.00",
       "Lifetime license": "HK$ 388.00",
@@ -3136,12 +3158,16 @@
   "1208145167": {
     "name": "Picsew - 長圖拼接",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Picsew Pro": "HK$ 18.00",
       "升級到 Picsew Plus": "HK$ 0.00",
       "Picsew Plus": "HK$ 8.00",
       "升級到 Picsew Pro": "HK$ 8.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Picsew Pro": "HK$ 18.00",
       "升級到 Picsew Plus": "HK$ 0.00",
       "Picsew Plus": "HK$ 8.00",
@@ -4649,8 +4675,14 @@
   },
   "1439569401": {
     "name": "Shadow of the Tomb Raider",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 428,
+      "formattedPrice": "HK$ 428.00"
+    },
+    "minPriceInfo": {
+      "price": 428,
+      "formattedPrice": "HK$ 428.00"
+    },
     "history": [
       [
         {
@@ -4704,8 +4736,14 @@
   },
   "1441532941": {
     "name": "神界：原罪2",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 368,
+      "formattedPrice": "HK$ 368.00"
+    },
+    "minPriceInfo": {
+      "price": 368,
+      "formattedPrice": "HK$ 368.00"
+    },
     "history": [
       [
         {
@@ -4769,20 +4807,24 @@
   "1444383602": {
     "name": "Goodnotes 6",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Goodnotes 6（1 年）": "HK$ 88.00",
       "GoodNotes 5完整版解鎖": "HK$ 88.00",
-      "Goodnotes 6 免費試用": "HK$ 0.00",
       "Goodnotes 6 一次性付款": "HK$ 210.00",
+      "Goodnotes 6 免費試用": "HK$ 0.00",
       "兔子綠洲貼紙": "HK$ 0.00",
       "虛線方格：草稿紙張": "HK$ 8.00",
       "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "HK$ 0.00",
       "好心智雜誌": "HK$ 0.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Goodnotes 6（1 年）": "HK$ 88.00",
       "GoodNotes 5完整版解鎖": "HK$ 88.00",
-      "Goodnotes 6 免費試用": "HK$ 0.00",
       "Goodnotes 6 一次性付款": "HK$ 210.00",
+      "Goodnotes 6 免費試用": "HK$ 0.00",
       "兔子綠洲貼紙": "HK$ 0.00",
       "虛線方格：草稿紙張": "HK$ 2.00",
       "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "HK$ 0.00",
@@ -4828,12 +4870,16 @@
   "1444636541": {
     "name": "Photomator",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "年度訂閱": "HK$ 228.00",
       "月度訂閱": "HK$ 58.00",
       "專屬終生優惠方案": "HK$ 588.00",
       "終生": "HK$ 888.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "年度訂閱": "HK$ 228.00",
       "月度訂閱": "HK$ 58.00",
       "專屬終生優惠方案": "HK$ 588.00",
@@ -4987,10 +5033,14 @@
   "1461652639": {
     "name": "TCP UDP Ping  Socket 網絡調試助手",
     "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
       "送上咖啡，支持開發者": "HK$ 22.00",
       "捐贈可樂，支持我们": "HK$ 8.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "送上咖啡，支持開發者": "HK$ 22.00",
       "捐贈可樂，支持我们": "HK$ 8.00"
     },
@@ -5109,11 +5159,15 @@
   "1473785373": {
     "name": "钱迹记账-无广告随手记账本",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Monthly": "HK$ 8.00",
       "Lifetime": "HK$ 148.00",
       "Annual": "HK$ 58.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Monthly": "HK$ 8.00",
       "Lifetime": "HK$ 148.00",
       "Annual": "HK$ 58.00"
@@ -7788,12 +7842,16 @@
   "6446469093": {
     "name": "口袋時鐘-創意全屏精準錶盤懸浮顯示鎖屏桌面小組件手錶",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "終身會員": "HK$ 38.00",
       "早鳥會員": "HK$ 38.00",
       "按年度訂閱": "HK$ 32.00",
       "月份會員": "HK$ 8.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "終身會員": "HK$ 0.00",
       "早鳥會員": "HK$ 38.00",
       "按年度訂閱": "HK$ 32.00",
@@ -7844,11 +7902,15 @@
   "6504433140": {
     "name": "LaxtTime",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium Monthly": "HK$ 8.00",
       "Premium Lifetime": "HK$ 148.00",
       "Premium Annual": "HK$ 68.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium Monthly": "HK$ 8.00",
       "Premium Lifetime": "HK$ 148.00",
       "Premium Annual": "HK$ 68.00"
@@ -7870,8 +7932,14 @@
   },
   "6459738231": {
     "name": "Lies of P",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 328,
+      "formattedPrice": "HK$ 328.00"
+    },
+    "minPriceInfo": {
+      "price": 328,
+      "formattedPrice": "HK$ 328.00"
+    },
     "history": [
       [
         {
@@ -7885,8 +7953,14 @@
   },
   "6449748961": {
     "name": "DEATH STRANDING DIRECTOR'S CUT",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 288,
+      "formattedPrice": "HK$ 288.00"
+    },
+    "minPriceInfo": {
+      "price": 288,
+      "formattedPrice": "HK$ 288.00"
+    },
     "history": [
       [
         {
@@ -7901,10 +7975,14 @@
   "6499559693": {
     "name": "iStat Menus 7",
     "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00",
       "Monthly Weather Subscription": "HK$ 8.00",
       "Yearly Weather Subscription": "HK$ 38.00"
     },
     "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00",
       "Monthly Weather Subscription": "HK$ 8.00",
       "Yearly Weather Subscription": "HK$ 38.00"
     },
@@ -7925,10 +8003,14 @@
   "6475002485": {
     "name": "Reeder.",
     "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Yearly": "HK$ 88.00",
       "Monthly": "HK$ 8.00"
     },
     "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
       "Yearly": "HK$ 88.00",
       "Monthly": "HK$ 8.00"
     },
