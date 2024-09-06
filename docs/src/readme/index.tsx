@@ -13,16 +13,6 @@ import License from './License'
 export default function Doc(props) {
   initI18n(props.locale)
 
-  // const Top = require('./Top').default
-  // const Vision = require('./Vision').default
-  // const Feature = require('./Feature').default
-  // const Principle = require('./Principle').default
-  // const License = require('./License').default
-  // const Subscription = require('./Subscription').default
-  // const Focus = require('./Focus').default
-  // const StarHistory = require('./StarHistory').default
-  // const Contribution = require('./Contribution').default
-
   return (
     <>
       <Top />

@@ -46,6 +46,12 @@ export default function Focus() {
           countryOrRegionText,
           getAppStoreText(),
         )}
+        <br />
+        {t(
+          '如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到{0}，同一个应用反馈的次数超过{1}次，该应用的折扣信息推送极有可能会被禁止',
+          ' `Issue` ',
+          ' `10` ',
+        )}
       </BlockQuote>
       <Break />
       <Table
