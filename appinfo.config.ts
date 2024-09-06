@@ -59,6 +59,38 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 625206080,
+    name: `Tomb Raider`,
+  },
+  {
+    id: 1108032375,
+    name: `Rise of the Tomb Raider™`,
+  },
+  {
+    id: 1439569401,
+    name: `Shadow of the Tomb Raider`,
+  },
+  {
+    id: 6459738231,
+    name: `Lies of P`,
+  },
+  {
+    id: 1441532941,
+    name: ['神界：原罪2', { us: 'Divinity: Original Sin 2' }],
+  },
+  {
+    id: 6449748961,
+    name: `DEATH STRANDING DIRECTOR'S CUT`,
+  },
+  {
+    id: 6499559693,
+    name: 'iStat Menus 7',
+  },
+  {
+    id: 6475002485,
+    name: 'Reeder.',
+  },
+  {
     id: 1198176727,
     name: 'Controller for HomeKit',
   },
