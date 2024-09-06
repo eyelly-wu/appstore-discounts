@@ -1928,8 +1928,14 @@
   },
   "904280696": {
     "name": "Things 3",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "$49.99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "$49.99"
+    },
     "history": [
       [
         {
@@ -5089,8 +5095,14 @@
   },
   "1538124245": {
     "name": "where I put it",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free"
+    },
     "history": [
       [
         {
@@ -5701,8 +5713,14 @@
   },
   "1610668825": {
     "name": "FyTube - YouTube Without Ads",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free"
+    },
     "history": [
       [
         {
@@ -7423,8 +7441,14 @@
   },
   "6499198824": {
     "name": "ScanGo - PDF Document Scanner",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free"
+    },
     "history": [
       [
         {
