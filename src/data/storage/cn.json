@@ -7252,5 +7252,29 @@
         }
       ]
     ]
+  },
+  "6499559693": {
+    "name": "iStat Menus 7",
+    "maxPriceInfo": {
+      "Yearly Weather Subscription": "¥38.00",
+      "Monthly Weather Subscription": "¥8.00"
+    },
+    "minPriceInfo": {
+      "Yearly Weather Subscription": "¥38.00",
+      "Monthly Weather Subscription": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Yearly Weather Subscription": "¥38.00",
+            "Monthly Weather Subscription": "¥8.00"
+          }
+        }
+      ]
+    ]
   }
 }

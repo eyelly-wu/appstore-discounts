@@ -1447,6 +1447,42 @@
       ]
     ]
   },
+  "625206080": {
+    "name": "Tomb Raider",
+    "maxPriceInfo": {
+      "Single Player DLC Pack": "$0.00",
+      "Paquete para el idioma español": "$0.00",
+      "Arabic language pack": "$0.00",
+      "Пакет поддержки русского языка": "$0.00",
+      "Pacchetto lingua italiana": "$0.00",
+      "Polski pakiet językowy": "$0.00"
+    },
+    "minPriceInfo": {
+      "Single Player DLC Pack": "$0.00",
+      "Paquete para el idioma español": "$0.00",
+      "Arabic language pack": "$0.00",
+      "Пакет поддержки русского языка": "$0.00",
+      "Pacchetto lingua italiana": "$0.00",
+      "Polski pakiet językowy": "$0.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "$0.00",
+            "Paquete para el idioma español": "$0.00",
+            "Arabic language pack": "$0.00",
+            "Пакет поддержки русского языка": "$0.00",
+            "Pacchetto lingua italiana": "$0.00",
+            "Polski pakiet językowy": "$0.00"
+          }
+        }
+      ]
+    ]
+  },
   "656951157": {
     "name": "Playdead's LIMBO",
     "maxPriceInfo": {
@@ -2396,6 +2432,21 @@
             "Parallels Desktop for Mac #3": "$99.99",
             "Parallels Desktop for Mac #5": "$99.99"
           }
+        }
+      ]
+    ]
+  },
+  "1108032375": {
+    "name": "Rise of the Tomb Raider™",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -3969,6 +4020,21 @@
       ]
     ]
   },
+  "1439569401": {
+    "name": "Shadow of the Tomb Raider",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 54.99,
+          "formattedPrice": "$54.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1439723850": {
     "name": "Countdown! Reminders and Timer",
     "maxPriceInfo": {
@@ -4005,6 +4071,21 @@
             "Yearly VIP": "$3.49",
             "Transparent Widget": "$0.00"
           }
+        }
+      ]
+    ]
+  },
+  "1441532941": {
+    "name": "Divinity: Original Sin 2",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 44.99,
+          "formattedPrice": "$44.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -7533,6 +7614,84 @@
             "Premium Lifetime": "$17.99",
             "Premium Monthly": "$0.99",
             "Premium Annual": "$8.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6459738231": {
+    "name": "Lies of P",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 59.99,
+          "formattedPrice": "$59.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449748961": {
+    "name": "DEATH STRANDING DIRECTOR'S CUT",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 39.99,
+          "formattedPrice": "$39.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6499559693": {
+    "name": "iStat Menus 7",
+    "maxPriceInfo": {
+      "Yearly Weather Subscription": "$4.99",
+      "Monthly Weather Subscription": "$0.99"
+    },
+    "minPriceInfo": {
+      "Yearly Weather Subscription": "$4.99",
+      "Monthly Weather Subscription": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
+          "inAppPurchases": {
+            "Yearly Weather Subscription": "$4.99",
+            "Monthly Weather Subscription": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6475002485": {
+    "name": "Reeder.",
+    "maxPriceInfo": {
+      "Yearly": "$10.00",
+      "Monthly": "$1.00"
+    },
+    "minPriceInfo": {
+      "Yearly": "$10.00",
+      "Monthly": "$1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly": "$10.00",
+            "Monthly": "$1.00"
           }
         }
       ]

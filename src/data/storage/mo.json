@@ -962,6 +962,42 @@
       ]
     ]
   },
+  "625206080": {
+    "name": "Tomb Raider",
+    "maxPriceInfo": {
+      "Single Player DLC Pack": "USD 0.00",
+      "Пакет поддержки русского языка": "USD 0.00",
+      "Pacchetto lingua italiana": "USD 0.00",
+      "Paquete para el idioma español": "USD 0.00",
+      "Polski pakiet językowy": "USD 0.00",
+      "Arabic language pack": "USD 0.00"
+    },
+    "minPriceInfo": {
+      "Single Player DLC Pack": "USD 0.00",
+      "Пакет поддержки русского языка": "USD 0.00",
+      "Pacchetto lingua italiana": "USD 0.00",
+      "Paquete para el idioma español": "USD 0.00",
+      "Polski pakiet językowy": "USD 0.00",
+      "Arabic language pack": "USD 0.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "USD 0.00",
+            "Пакет поддержки русского языка": "USD 0.00",
+            "Pacchetto lingua italiana": "USD 0.00",
+            "Paquete para el idioma español": "USD 0.00",
+            "Polski pakiet językowy": "USD 0.00",
+            "Arabic language pack": "USD 0.00"
+          }
+        }
+      ]
+    ]
+  },
   "656951157": {
     "name": "Playdead's LIMBO",
     "maxPriceInfo": {
@@ -1888,6 +1924,21 @@
             "Parallels Desktop for Mac #5": "USD 99.99",
             "Parallels Desktop for Mac #3": "USD 99.99"
           }
+        }
+      ]
+    ]
+  },
+  "1108032375": {
+    "name": "Rise of the Tomb Raider™",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -3123,6 +3174,21 @@
       ]
     ]
   },
+  "1439569401": {
+    "name": "Shadow of the Tomb Raider",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 54.99,
+          "formattedPrice": "USD 54.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1439723850": {
     "name": "Countdown! Reminders and Timer",
     "maxPriceInfo": {
@@ -3159,6 +3225,21 @@
             "Unlock all Tools": "USD 0.99",
             "解鎖所有動態壁紙": "USD 0.99"
           }
+        }
+      ]
+    ]
+  },
+  "1441532941": {
+    "name": "神界：原罪2",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 44.99,
+          "formattedPrice": "USD 44.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -6430,6 +6511,84 @@
             "Premium Lifetime": "USD 17.99",
             "Premium Monthly": "USD 0.99",
             "Premium Annual": "USD 8.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6459738231": {
+    "name": "Lies of P",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 59.99,
+          "formattedPrice": "USD 59.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449748961": {
+    "name": "DEATH STRANDING DIRECTOR'S CUT",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 39.99,
+          "formattedPrice": "USD 39.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6499559693": {
+    "name": "iStat Menus 7",
+    "maxPriceInfo": {
+      "Monthly Weather Subscription": "USD 0.99",
+      "Yearly Weather Subscription": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "Monthly Weather Subscription": "USD 0.99",
+      "Yearly Weather Subscription": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
+          "inAppPurchases": {
+            "Monthly Weather Subscription": "USD 0.99",
+            "Yearly Weather Subscription": "USD 4.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6475002485": {
+    "name": "Reeder.",
+    "maxPriceInfo": {
+      "Monthly": "USD 1.00",
+      "Yearly": "USD 10.00"
+    },
+    "minPriceInfo": {
+      "Monthly": "USD 1.00",
+      "Yearly": "USD 10.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1725636889563,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly": "USD 1.00",
+            "Yearly": "USD 10.00"
           }
         }
       ]
