@@ -6850,10 +6850,21 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "订阅机器学习模型（按年）": "HK$ 18.00",
+      "订阅机器学习模型（按年）": "HK$ 8.00",
       "订阅机器学习模型（按月）": "HK$ 5.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1725717733368,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "订阅机器学习模型（按年）": "HK$ 8.00",
+            "订阅机器学习模型（按月）": "HK$ 5.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,

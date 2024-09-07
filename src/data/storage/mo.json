@@ -5557,10 +5557,21 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "订阅机器学习模型（按年）": "USD 1.99",
+      "订阅机器学习模型（按年）": "USD 0.99",
       "订阅机器学习模型（按月）": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1725717733368,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "订阅机器学习模型（按年）": "USD 0.99",
+            "订阅机器学习模型（按月）": "USD 0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
