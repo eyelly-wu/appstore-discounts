@@ -1101,7 +1101,8 @@
       "8K Max 延時攝影": "USD 7.99",
       "批量相片處理": "USD 0.00",
       "4K Ultra HD 延時攝影": "USD 2.99",
-      "基本系列": "USD 0.99"
+      "基本系列": "USD 0.99",
+      "ZERO: 直接感測器擷取": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -1112,9 +1113,27 @@
       "8K Max 延時攝影": "USD 7.99",
       "批量相片處理": "USD 0.00",
       "4K Ultra HD 延時攝影": "USD 2.99",
-      "基本系列": "USD 0.99"
+      "基本系列": "USD 0.99",
+      "ZERO: 直接感測器擷取": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1725762247451,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "4K Ultra HD 視訊影片": "USD 4.99",
+            "大師系列": "USD 1.99",
+            "城市系列": "USD 0.99",
+            "ZERO: 直接感測器擷取": "USD 3.99",
+            "8K Max 延時攝影": "USD 7.99",
+            "批量相片處理": "USD 0.00",
+            "4K Ultra HD 延時攝影": "USD 2.99",
+            "基本系列": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
