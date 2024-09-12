@@ -222,6 +222,25 @@
     "history": [
       [
         {
+          "timestamp": 1726149740732,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Reset Password": "USD 0.99",
+            "10 GB monthly": "USD 2.99",
+            "10 GB yearly": "USD 29.99",
+            "1 TB monthly": "USD 47.99",
+            "200 GB monthly": "USD 9.99",
+            "1 TB yearly": "USD 479.99",
+            "200 GB yearly": "USD 99.99",
+            "100 GB monthly": "USD 5.99",
+            "100 GB yearly": "USD 59.99",
+            "iCloud Sync Monthly": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1725026524127,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -517,6 +536,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726149740732,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725976946641,
@@ -2175,6 +2202,14 @@
     "history": [
       [
         {
+          "timestamp": 1726149740732,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1722520934770,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -2492,10 +2527,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726149740732,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -3051,10 +3094,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726149740732,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -3969,10 +4020,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726149740732,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -4958,10 +5017,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726149740732,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -5851,6 +5918,17 @@
       "Hello World!": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726149740732,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "甜蜜之家": "USD 0.99",
+            "Hello World!": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723989725915,
