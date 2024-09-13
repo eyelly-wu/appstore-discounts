@@ -278,6 +278,25 @@
     "history": [
       [
         {
+          "timestamp": 1726196568667,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$7.99",
+            "Reset Password": "$0.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Lifetime": "$39.99",
+            "100 GB monthly": "$5.99",
+            "200 GB monthly": "$9.99",
+            "100 GB yearly": "$59.99",
+            "10 GB monthly": "$2.99",
+            "10 GB yearly": "$29.99",
+            "1 TB monthly": "$47.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1725073324715,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -575,6 +594,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726196568667,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1726023731036,
@@ -2769,6 +2796,14 @@
     "history": [
       [
         {
+          "timestamp": 1726196568667,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1722567732166,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -3154,10 +3189,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726196568667,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -4038,10 +4081,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726196568667,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -4416,6 +4467,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1726196568667,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$9.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 One-Time Payment": "$23.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 (1 Year)": "$9.99",
+            "Bunny Oasis Stickers": "$0.00",
+            "Marketplace Content": "$9.99",
+            "Dotted Squares: Draft Papers": "$0.99"
+          }
+        },
         {
           "timestamp": 1726120980515,
           "price": 0,
@@ -4862,10 +4928,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726196568667,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -5912,10 +5986,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726196568667,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -6679,6 +6761,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726196568667,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724036540514,
