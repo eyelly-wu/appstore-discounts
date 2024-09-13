@@ -683,6 +683,14 @@
     "history": [
       [
         {
+          "timestamp": 1726236124151,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1726149740732,
           "price": 0,
           "formattedPrice": "免费",
@@ -1067,6 +1075,16 @@
       "移除广告": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726236124151,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "移除广告": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725499747061,
@@ -3153,7 +3171,7 @@
       "310 C.COIN": "¥30.00",
       "710 C.COIN": "¥68.00",
       "60 C.COIN": "¥6.00",
-      "1030 C.COIN": "¥98.00",
+      "1030 C.COIN": "¥63.00",
       "解锁角色Miku": "¥68.00",
       "解锁角色ConneR": "¥30.00",
       "120 C.COIN": "¥12.00",
@@ -3166,6 +3184,25 @@
       "解锁角色Sagar": "¥30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726236124151,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "60 C.COIN": "¥6.00",
+            "1030 C.COIN": "¥63.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "解锁角色Joe": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725544928053,
@@ -5383,6 +5420,17 @@
       "Value for Value": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726236124151,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725976946641,
@@ -7681,6 +7729,16 @@
       "本体1-6章": "¥32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726236124151,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "本体1-6章": "¥32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725199327752,
