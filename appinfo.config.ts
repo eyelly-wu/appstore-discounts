@@ -59,6 +59,28 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1581140954,
+    name: [
+      'Noir – Dark Mode for Safari',
+      { cn: 'Noir - 为Safari添加深色模式' },
+    ],
+  },
+  {
+    id: 1592917505,
+    name: [
+      'Noir – Dark Mode for Safari',
+      { cn: 'Noir – 为Safari添加深色模式' },
+    ],
+  },
+  {
+    id: 1591620171,
+    name: ['Stay for Safari', { cn: 'Stay for Safari - 浏览器伴侣' }],
+  },
+  {
+    id: 1438243180,
+    name: `Dark Reader for Safari`,
+  },
+  {
     id: 625206080,
     name: `Tomb Raider`,
   },
