@@ -4408,6 +4408,23 @@
     "history": [
       [
         {
+          "timestamp": 1726367168564,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "¥49.90",
+            "解锁GoodNotes 5完整版": "¥68.00",
+            "Goodnotes 6 免费试用": "¥0.00",
+            "小兔绿洲贴纸": "¥0.00",
+            "Goodnotes 6 一次性付款": "¥119.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸": "¥0.00",
+            "好心智杂志": "¥0.00",
+            "点阵：草稿纸": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726290128230,
           "price": 0,
           "formattedPrice": "免费",
@@ -5194,13 +5211,25 @@
       "100次高精度海拔查询": "¥22.00"
     },
     "minPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "MyTracks 高级版": "¥68.00",
       "300次高精度海拔查询": "¥28.00",
       "100次高精度海拔查询": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726367168564,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "MyTracks 高级版": "¥68.00",
+            "300次高精度海拔查询": "¥28.00",
+            "100次高精度海拔查询": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723791742016,
@@ -6796,10 +6825,18 @@
       "formattedPrice": "¥18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00"
+      "price": 6,
+      "formattedPrice": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726367168564,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
