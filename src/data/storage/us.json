@@ -189,6 +189,19 @@
     "history": [
       [
         {
+          "timestamp": 1726369647173,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726110142698,
           "price": 0,
           "formattedPrice": "Free",
@@ -5357,6 +5370,17 @@
     "history": [
       [
         {
+          "timestamp": 1726369647173,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726282970123,
           "price": 0,
           "formattedPrice": "Free",
@@ -5663,6 +5687,14 @@
     "history": [
       [
         {
+          "timestamp": 1726369647173,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1726110142698,
           "price": 0,
           "formattedPrice": "Free",
@@ -5739,6 +5771,21 @@
       "120000 GP": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726369647173,
+          "price": 12,
+          "formattedPrice": "$12.00",
+          "inAppPurchases": {
+            "5000 GP": "$1.99",
+            "25000 GP": "$5.99",
+            "50000 GP": "$9.99",
+            "Remove Ad": "$2.99",
+            "200000 GP": "$29.99",
+            "120000 GP": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1726110142698,
@@ -6345,6 +6392,19 @@
       "黄鸭证件照1元": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726369647173,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "$1.99",
+            "黄鸭证件照3元": "$0.99",
+            "黄鸭证件照-周度会员": "$0.99",
+            "黄鸭证件照1元": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724986926471,
