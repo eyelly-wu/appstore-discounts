@@ -82,7 +82,7 @@
 |13|1198176727|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|
 |14|904280696|Things 3|Things 3|Things 3|Things 3|Things 3|
 |15|1055511498|Day One|Day One|Day One|Day One|Day One|
-|16|1208145167|Picsew - 长图拼接|Picsew - 長圖拼接|Picsew - 長圖拼接|Picsew - 長圖拼接|Picsew - Screenshot Stitching|
+|16|1208145167|Picsew - 滚动截图 & 长图拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - Scrollshot & Collage|
 |17|1444636541|Photomator|Photomator|Photomator|Photomator|Photomator – Photo Editor|
 |18|1444383602|Goodnotes 6|Goodnotes 6|Goodnotes 6|Goodnotes 6|Goodnotes 6|
 |19|1473785373|钱迹记账-无广告随手记账本|钱迹记账-无广告随手记账本|钱迹记账-无广告随手记账本|钱迹记账-无广告随手记账本|钱迹-存钱记账小能手|
