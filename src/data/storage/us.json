@@ -291,6 +291,25 @@
     "history": [
       [
         {
+          "timestamp": 1726456100123,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Reset Password": "$0.99",
+            "iCloud Sync Yearly": "$7.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Lifetime": "$39.99",
+            "100 GB monthly": "$5.99",
+            "200 GB monthly": "$9.99",
+            "100 GB yearly": "$59.99",
+            "10 GB monthly": "$2.99",
+            "10 GB yearly": "$29.99",
+            "1 TB monthly": "$47.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726196568667,
           "price": 0,
           "formattedPrice": "Free",
@@ -1029,6 +1048,16 @@
     "history": [
       [
         {
+          "timestamp": 1726456100123,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remove advertisement": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726282970123,
           "price": 5,
           "formattedPrice": "$5.00",
@@ -1682,10 +1711,18 @@
       "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726456100123,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -6630,6 +6667,16 @@
     "history": [
       [
         {
+          "timestamp": 1726456100123,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1725246171243,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -8455,6 +8502,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726456100123,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725354137427,
