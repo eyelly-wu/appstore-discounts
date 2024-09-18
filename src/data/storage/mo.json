@@ -410,6 +410,21 @@
     "history": [
       [
         {
+          "timestamp": 1726668141596,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cloud Backup Monthly": "USD 1.49",
+            "Cloud Backup Yearly": "USD 8.99",
+            "iCloud Sync Lifetime": "USD 34.99",
+            "iCloud Sync Monthly": "USD 0.99",
+            "iCloud Sync Yearly": "USD 6.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1725544928053,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -2307,6 +2322,14 @@
     "history": [
       [
         {
+          "timestamp": 1726668141596,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1726149740732,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -2636,6 +2659,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726668141596,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1726149740732,
@@ -3203,6 +3234,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726668141596,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1726149740732,
@@ -4179,6 +4218,14 @@
     "history": [
       [
         {
+          "timestamp": 1726668141596,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1726149740732,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -4501,6 +4548,17 @@
       "Value for Value": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726668141596,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "USD 3.99",
+            "Value for Value": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1726322531806,
@@ -4973,6 +5031,14 @@
     "history": [
       [
         {
+          "timestamp": 1726668141596,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1724853742330,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -5072,6 +5138,16 @@
       "Fileball Pro Lifetime": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726668141596,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1726536313998,
@@ -5266,6 +5342,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726668141596,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1726149740732,
@@ -7260,10 +7344,18 @@
       "formattedPrice": "USD 59.99"
     },
     "minPriceInfo": {
-      "price": 59.99,
-      "formattedPrice": "USD 59.99"
+      "price": 35.99,
+      "formattedPrice": "USD 35.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726668141596,
+          "price": 35.99,
+          "formattedPrice": "USD 35.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
