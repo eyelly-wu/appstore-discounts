@@ -8075,10 +8075,18 @@
       "formattedPrice": "$490.00"
     },
     "minPriceInfo": {
-      "price": 490,
-      "formattedPrice": "$490.00"
+      "price": 449,
+      "formattedPrice": "$449.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726751188918,
+          "price": 449,
+          "formattedPrice": "$449.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
