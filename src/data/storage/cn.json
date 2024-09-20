@@ -997,6 +997,19 @@
     "history": [
       [
         {
+          "timestamp": 1726840940907,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "¥228.00",
+            "Yearly Cloud Services": "¥48.00",
+            "Monthly Cloud Services": "¥15.00",
+            "Reset Password": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726581734239,
           "price": 0,
           "formattedPrice": "免费",
@@ -5654,8 +5667,8 @@
       "秘灵": "¥6.00"
     },
     "minPriceInfo": {
-      "price": 35,
-      "formattedPrice": "¥35.00",
+      "price": 25,
+      "formattedPrice": "¥25.00",
       "追加內容·「深入黑雾」": "¥6.00",
       "遗忘之潮": "¥18.00",
       "皇座之舞": "¥12.00",
@@ -5665,6 +5678,22 @@
       "秘灵": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726840940907,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "追加內容·「深入黑雾」": "¥6.00",
+            "遗忘之潮": "¥18.00",
+            "皇座之舞": "¥12.00",
+            "泰伦斯先驱者套装": "¥6.00",
+            "成人礼": "¥6.00",
+            "睡美人套装": "¥6.00",
+            "秘灵": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
