@@ -446,6 +446,21 @@
     "history": [
       [
         {
+          "timestamp": 1726927330055,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Cloud Backup Monthly": "USD 1.49",
+            "Cloud Backup Yearly": "USD 8.99",
+            "iCloud Sync Lifetime": "USD 34.99",
+            "iCloud Sync Monthly": "USD 0.99",
+            "iCloud Sync Yearly": "USD 6.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726668141596,
           "price": 0,
           "formattedPrice": "免費",
@@ -1430,6 +1445,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726927330055,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725372145279,
@@ -2765,6 +2788,25 @@
       "Upgrade Deluxe Edition": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726927330055,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725976946641,

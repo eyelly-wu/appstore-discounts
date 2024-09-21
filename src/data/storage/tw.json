@@ -578,6 +578,21 @@
     "history": [
       [
         {
+          "timestamp": 1726927330055,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726668141596,
           "price": 0,
           "formattedPrice": "免費",
@@ -2058,6 +2073,14 @@
     "history": [
       [
         {
+          "timestamp": 1726927330055,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1725372145279,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -3467,6 +3490,25 @@
       "Red Cam Film Pack": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1726927330055,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$190.00",
+            "Retro Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Blue Cam Film Pack": "$30.00",
+            "Black Cam Film Pack": "$30.00",
+            "Purple Cam Film Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Green Cam Film Pack": "$30.00",
+            "Red Cam Film Pack": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725976946641,
