@@ -504,6 +504,21 @@
     "history": [
       [
         {
+          "timestamp": 1726974483801,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "Cloud Backup Yearly": "$8.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Reset Password": "$0.99",
+            "iCloud Sync Lifetime": "$34.99",
+            "Cloud Backup Monthly": "$1.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726715035138,
           "price": 0,
           "formattedPrice": "Free",
@@ -2058,6 +2073,14 @@
     "history": [
       [
         {
+          "timestamp": 1726974483801,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1725418932698,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -3437,6 +3460,25 @@
     "history": [
       [
         {
+          "timestamp": 1726974483801,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726023731036,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -4716,6 +4758,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1726974483801,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$9.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$23.99",
+            "Goodnotes 6 (1 Year)": "$9.99",
+            "Bunny Oasis Stickers": "$0.00",
+            "Marketplace Content": "$9.99",
+            "Dotted Squares: Draft Papers": "$0.99"
+          }
+        },
         {
           "timestamp": 1726894927002,
           "price": 0,
