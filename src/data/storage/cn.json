@@ -745,6 +745,14 @@
     "history": [
       [
         {
+          "timestamp": 1727100129030,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1726581734239,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -5873,6 +5881,17 @@
     "history": [
       [
         {
+          "timestamp": 1727100129030,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726754532696,
           "price": 48,
           "formattedPrice": "¥48.00",
@@ -7204,6 +7223,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1727100129030,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727020924342,
           "price": 0,

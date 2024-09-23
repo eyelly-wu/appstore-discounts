@@ -636,6 +636,14 @@
     "history": [
       [
         {
+          "timestamp": 1727100129030,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1726581734239,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -4714,6 +4722,17 @@
     "history": [
       [
         {
+          "timestamp": 1727100129030,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "USD 3.99",
+            "Value for Value": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726754532696,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -6100,6 +6119,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1727100129030,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727020924342,
           "price": 0,

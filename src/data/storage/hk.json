@@ -728,6 +728,14 @@
     "history": [
       [
         {
+          "timestamp": 1727100129030,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1726581734239,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -6477,6 +6485,17 @@
     "history": [
       [
         {
+          "timestamp": 1727100129030,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726754532696,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -7907,6 +7926,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1727100129030,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727020924342,
           "price": 0,
