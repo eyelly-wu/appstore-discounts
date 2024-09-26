@@ -3770,6 +3770,20 @@
     "history": [
       [
         {
+          "timestamp": 1727317476003,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Rin·Len's Mirrorland": "$4.99",
+            "Miku in Museland": "$8.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "cyTus": "$5.99"
+          }
+        },
+        {
           "timestamp": 1727305334227,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -8550,6 +8564,25 @@
       "Weapon Upgrade Ticket x1 (B)": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1727317476003,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x3 (B)": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727208139692,
