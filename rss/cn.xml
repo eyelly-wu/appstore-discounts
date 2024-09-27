@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2024-09-27T04:05:21.483Z</updated>
+    <updated>2024-09-27T06:06:06.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,53 +18,42 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-09-27T04:05:21.484Z</updated>
+        <updated>2024-09-27T06:06:06.501Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小特钥匙 - 特斯拉蓝牙手表钥匙]]></title>
-        <id>小特钥匙 - 特斯拉蓝牙手表钥匙-1727409762264</id>
-        <link href="https://apps.apple.com/cn/app/%E5%B0%8F%E7%89%B9%E9%92%A5%E5%8C%99-%E7%89%B9%E6%96%AF%E6%8B%89%E8%93%9D%E7%89%99%E6%89%8B%E8%A1%A8%E9%92%A5%E5%8C%99/id1658579911?uo=4"/>
-        <updated>2024-09-27T04:02:42.264Z</updated>
-        <summary type="html"><![CDATA[价格: ¥48.00 → ¥28.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%B0%8F%E7%89%B9%E9%92%A5%E5%8C%99-%E7%89%B9%E6%96%AF%E6%8B%89%E8%93%9D%E7%89%99%E6%89%8B%E8%A1%A8%E9%92%A5%E5%8C%99/id1658579911?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d5/7c/63d57c0f-c761-1dcb-a0de-e44460d6492f/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥48.00</span> → <b>
-  <strong>¥28.00</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  iPhone 与 Apple Watch 都可用！
-
-纯本地蓝牙钥匙，不需要网络权限，也不需要 Tesla ID，不会收集您的任何信息或数据，没有任何隐私的担忧。
-
-支持车型： Model 3 、Model Y 以及 2021年以后的 Model S、Model X （不支持老款 Model S 、Model X）
-
-1. 如何配对？
-注意！配对过程中，请保持手表面对自己且屏幕保持常亮。
-请先进入车内，点击 Watch 上本应用首页的 配对按钮 -> 自动搜索蓝牙设备 -> 从信号最强的车辆中选择 -> 按钮提示刷卡，并在屏幕上确认
-
-*如果周围有很多特斯拉，不清楚自己的车是哪一台，则可以去手机的蓝牙查看「已连接」钥匙设备名称，并在手表上选择配对同名设备。
-
-2. 如何使用垂直召唤？
-首先需要您的车辆已经购买或订阅了 EAP 或者 FSD，然后在 控制 -> AutoPilot自动辅助驾驶 -> 自定义召唤功能 中 「指定长按启用」设置为「否」的 。
-设置好车辆以后，点击手表上的 「召唤」，车辆进入双闪灯模式后5秒内，点击 前或后移动 按钮即可。
-*注意：使用时请留意周边环境，随时准备中止车辆移动。
-
-3. 是否支持控制多辆特斯拉车辆？
-暂不支持，后续会更新支持。可以移除当前钥匙后，更换车辆进行重新配对。
-
-4. 是否支持无感解锁、无感启动驾驶？
-受限于Apple Watch本身后台调用机制，需要您打开本应用，车辆才能感应到钥匙，从而无感解锁/启动。
-
-5. 是否会影响原本的手机钥匙？
-完全不影响，一台车可以同时连接同把钥匙，无论是多个蓝牙钥匙还是实体钥匙，均不影响。
-
-6. 如何移除当前配对的蓝牙钥匙？
-在车机的钥匙管理界面删除手表蓝牙钥匙，然后卸载本应用。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/05/e1/94/05e19410-193f-f1fe-6f3e-d9678e221dbc/34e9cd6f-a7bf-4fd4-8e0b-6ffc3a474e3c_Frame_49.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cc/6c/4a/cc6c4ac5-9bbc-60ee-38fc-f8f1ab2e915f/533bc6de-8585-46ec-afd7-fec9e83bf3dc_Frame_346.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/00/0f/da/000fda51-94b7-c2f3-b1a2-1f85c979ef39/d8d3c613-bdea-4787-bbea-0f500a04651e_Frame_347.png/392x696bb.png" />]]></content>
+        <title type="html"><![CDATA[TCP UDP Ping Socket 网络 调试  工具]]></title>
+        <id>TCP UDP Ping Socket 网络 调试  工具-1727416991701</id>
+        <link href="https://apps.apple.com/cn/app/tcp-udp-ping-socket-%E7%BD%91%E7%BB%9C-%E8%B0%83%E8%AF%95-%E5%B7%A5%E5%85%B7/id1461652639?uo=4"/>
+        <updated>2024-09-27T06:03:11.701Z</updated>
+        <summary type="html"><![CDATA[捐赠可乐，支持我们: ¥6.00 → ¥4.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/tcp-udp-ping-socket-%E7%BD%91%E7%BB%9C-%E8%B0%83%E8%AF%95-%E5%B7%A5%E5%85%B7/id1461652639?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/ad/42/1ead4236-a905-b3a8-18d0-76d186d38c09/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>捐赠可乐，支持我们：</strong><span>¥6.00</span> → <b>
+  <strong>¥4.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  网络调试工具是一款TCP&UDP通信调试工具，工具功能丰富，界面清晰，简单易用。可以协助网络运维人员、程序开发工作者调试网络。主要功能包括：
+1. 集成TCP客户端、服务端；UDP客户端、服务端
+2. 支持Ping命令
+3. 支持Ping监控(定時自动Ping指定服务器)
+4. 支持组播
+5. 支持UDP广播
+6. 支持端口扫描(Port Scan)
+7. 支持Trace Route
+8. 支持局域网IP扫描
+9. 支持Whois功能
+10. 支持命令面板
+11. 多客户端链接同时管理
+12. 定时自动发送报文
+13. 支持16进制、UTF-8、Unicode、GBK字符编码切换
+14. 自动缓存上次发送报文
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/68/7d/5f/687d5f45-5b71-d7b5-34f7-66c0d9d52a23/0f11e7e5-01ea-4438-8714-359879509dd3_iPhone6_-_dark_-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/1a/33/ab1a33d2-3545-5b90-02af-6b71ebc94707/65740b3e-9389-4b29-93aa-3ded697cb704_iPhone6_-_dark_-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/af/f7/5a/aff75af1-4760-fe9f-4396-09b49be052d3/72cb35d5-eb22-4673-bc18-d0f90d8dfeca_iPhone6_-_dark_-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/81/4f/29814fd5-5c8c-ecba-08d4-dcf56110853d/495f0827-2d9c-4e27-980d-c1adedea49c9_iPhone6_-_dark_-4.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/12/6d/eb126df6-fe35-5132-e856-261f0fcdfe55/7b7f2227-59b5-4970-8275-b3ff04501401_iPad1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c2/4b/be/c24bbe30-4f67-e55e-6006-47f0a0caf0df/cfc1605b-335d-4a0a-9ea9-bd45ea6a6249_iPad2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/47/78/e94778ae-7924-fd6e-7d44-18b0016accb8/9d87dd97-28a5-4a52-b479-681b4102e8f6_iPad3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/01/a5/73/01a5735e-306c-7b00-c2bf-e586cd4b5795/5449b976-3c41-49c1-b7ab-ca8bcdeb49a9_iPad4.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
