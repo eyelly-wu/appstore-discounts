@@ -3905,6 +3905,25 @@
     "history": [
       [
         {
+          "timestamp": 1727532120635,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726927330055,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -4232,12 +4251,12 @@
       "無盡旋舞": "HK$ 48.00"
     },
     "minPriceInfo": {
-      "price": 23,
-      "formattedPrice": "HK$ 23.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "unlockall_0": "HK$ 218.00",
       "東方暮樂團 -壹-": "HK$ 28.00",
       "暮 色 電 台 FM101": "HK$ 28.00",
-      "unlockall_29": "HK$ 268.00",
+      "unlockall_29": "HK$ 163.00",
       "Let's GROOVE": "HK$ 28.00",
       "cyTus": "HK$ 28.00",
       "Miku in Museland": "HK$ 38.00",
@@ -4257,6 +4276,24 @@
       "無盡旋舞": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1727532120635,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "Miku in Museland": "HK$ 68.00",
+            "unlockall_29": "HK$ 163.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "Rin·Len's Mirrorland": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727197333683,

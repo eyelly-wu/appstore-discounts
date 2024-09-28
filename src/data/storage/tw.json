@@ -3650,6 +3650,25 @@
     "history": [
       [
         {
+          "timestamp": 1727532120635,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$190.00",
+            "Retro Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Blue Cam Film Pack": "$30.00",
+            "Black Cam Film Pack": "$30.00",
+            "Purple Cam Film Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Green Cam Film Pack": "$30.00",
+            "Red Cam Film Pack": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726927330055,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -3885,7 +3904,7 @@
       "unlockall_0": "$930.00",
       "東方暮樂團 -壹-": "$130.00",
       "cyTus": "$190.00",
-      "unlockall_29": "$1,120.00",
+      "unlockall_29": "$690.00",
       "Miku in Museland": "$290.00",
       "暮 色 電 台 FM101": "$130.00",
       "放棄治療 Vol.3": "$130.00",
@@ -3905,8 +3924,8 @@
       "花雨合奏秘聞": "$100.00"
     },
     "minPriceInfo": {
-      "price": 100,
-      "formattedPrice": "$100.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "unlockall_0": "$930.00",
       "東方暮樂團 -壹-": "$130.00",
       "cyTus": "$130.00",
@@ -3931,6 +3950,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1727532120635,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "Miku in Museland": "$290.00",
+            "Rin·Len's Mirrorland": "$190.00",
+            "cyTus": "$190.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "unlockall_29": "$690.00",
+            "放棄治療 Vol.3": "$130.00",
+            "MSR特選曲目組合包": "$190.00",
+            "Let's GROOVE": "$130.00"
+          }
+        },
         {
           "timestamp": 1727490229010,
           "price": 100,
