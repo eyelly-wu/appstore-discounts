@@ -3534,6 +3534,25 @@
     "history": [
       [
         {
+          "timestamp": 1727579398376,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1726974483801,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -3787,13 +3806,13 @@
       "Endless Pirouette": "$5.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "unlockall_0": "$27.99",
       "Touhou Mugakudan -Ⅰ-": "$3.99",
       "Muse Radio FM101": "$3.99",
       "Miku in Museland": "$5.99",
-      "unlockall_29": "$33.99",
+      "unlockall_29": "$20.99",
       "Rin·Len's Mirrorland": "$4.99",
       "cyTus": "$3.99",
       "Let's GROOVE": "$3.99",
@@ -3811,6 +3830,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1727579398376,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Rin·Len's Mirrorland": "$8.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Miku in Museland": "$8.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "cyTus": "$5.99",
+            "Let's GROOVE": "$3.99"
+          }
+        },
         {
           "timestamp": 1727553748522,
           "price": 2.99,
