@@ -1009,6 +1009,14 @@
     "history": [
       [
         {
+          "timestamp": 1727618535045,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1727359342791,
           "price": 0,
           "formattedPrice": "免費",
@@ -4424,6 +4432,14 @@
     "history": [
       [
         {
+          "timestamp": 1727618535045,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1724274139820,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -5771,6 +5787,23 @@
       "Lifetime Membership": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1727618535045,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Quarterly Membership": "USD 1.99",
+            "Lifetime - Education": "USD 9.99",
+            "年度会员升级终身会员": "USD 9.99",
+            "Yearly Membership": "USD 3.99",
+            "Monthly Membership": "USD 0.99",
+            "年度会员": "USD 3.99",
+            "月度会员": "USD 0.99",
+            "Lifetime Membership": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724382135288,
