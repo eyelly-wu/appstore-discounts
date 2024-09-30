@@ -3811,7 +3811,8 @@
       "Valentine Stage": "$3.99",
       "Happy Otaku SP": "$3.99",
       "MUSE RADIO FM104": "$3.99",
-      "Endless Pirouette": "$5.99"
+      "Endless Pirouette": "$5.99",
+      "unlockall_3": "$20.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -3834,9 +3835,27 @@
       "Valentine Stage": "$3.99",
       "Happy Otaku SP": "$3.99",
       "MUSE RADIO FM104": "$3.99",
-      "Endless Pirouette": "$5.99"
+      "Endless Pirouette": "$5.99",
+      "unlockall_3": "$20.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1727683390009,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Rin·Len's Mirrorland": "$8.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "unlockall_3": "$20.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727579398376,
