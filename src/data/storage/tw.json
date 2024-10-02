@@ -783,6 +783,14 @@
     "history": [
       [
         {
+          "timestamp": 1727877738971,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1727791334811,
           "price": 0,
           "formattedPrice": "免費",
@@ -2256,6 +2264,14 @@
     "history": [
       [
         {
+          "timestamp": 1727877738971,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1727013716429,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -2869,10 +2885,18 @@
       "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1727877738971,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -7263,6 +7287,17 @@
     "history": [
       [
         {
+          "timestamp": 1727877738971,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1727445737535,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -8812,6 +8847,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1727877738971,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727845334104,
           "price": 0,

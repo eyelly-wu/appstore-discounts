@@ -827,6 +827,14 @@
     "history": [
       [
         {
+          "timestamp": 1727877738971,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1727791334811,
           "price": 0,
           "formattedPrice": "免費",
@@ -2445,6 +2453,14 @@
     "history": [
       [
         {
+          "timestamp": 1727877738971,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1727013716429,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -3058,10 +3074,18 @@
       "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1727877738971,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -7047,6 +7071,17 @@
     "history": [
       [
         {
+          "timestamp": 1727877738971,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1727445737535,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -8577,6 +8612,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1727877738971,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727845334104,
           "price": 0,
