@@ -8296,7 +8296,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro(Lifetime)": "$8.99",
+      "Pro(Lifetime)": "$9.99",
       "Pro (Yearly)": "$6.99",
       "Pro (Monthly)": "$1.49"
     },
@@ -8308,6 +8308,18 @@
       "Pro (Monthly)": "$1.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1727870599327,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro(Lifetime)": "$9.99",
+            "Pro (Yearly)": "$6.99",
+            "Pro (Monthly)": "$1.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
