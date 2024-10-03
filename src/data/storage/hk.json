@@ -9054,13 +9054,25 @@
       "Street Wolf 裝束": "HK$ 23.00"
     },
     "minPriceInfo": {
-      "price": 308,
-      "formattedPrice": "HK$ 308.00",
-      "可下載內容包": "HK$ 158.00",
-      "通行證": "HK$ 39.00",
-      "Street Wolf 裝束": "HK$ 23.00"
+      "price": 123,
+      "formattedPrice": "HK$ 123.00",
+      "可下載內容包": "HK$ 79.00",
+      "通行證": "HK$ 15.00",
+      "Street Wolf 裝束": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1727946143974,
+          "price": 123,
+          "formattedPrice": "HK$ 123.00",
+          "inAppPurchases": {
+            "可下載內容包": "HK$ 79.00",
+            "通行證": "HK$ 15.00",
+            "Street Wolf 裝束": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -9734,12 +9746,25 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "遊戲本體": "HK$ 308.00",
-      "通行證": "HK$ 39.00",
-      "可下載內容包": "HK$ 158.00",
-      "Street Wolf 裝束": "HK$ 23.00"
+      "遊戲本體": "HK$ 123.00",
+      "通行證": "HK$ 15.00",
+      "可下載內容包": "HK$ 79.00",
+      "Street Wolf 裝束": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1727946143974,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 123.00",
+            "通行證": "HK$ 15.00",
+            "可下載內容包": "HK$ 79.00",
+            "Street Wolf 裝束": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
