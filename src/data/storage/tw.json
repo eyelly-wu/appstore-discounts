@@ -578,6 +578,21 @@
     "history": [
       [
         {
+          "timestamp": 1728050545203,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1727791334811,
           "price": 0,
           "formattedPrice": "免費",
@@ -8534,6 +8549,19 @@
     "history": [
       [
         {
+          "timestamp": 1728050545203,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "$60.00",
+            "黄鸭证件照3元": "$30.00",
+            "黄鸭证件照-周度会员": "$30.00",
+            "黄鸭证件照1元": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1727704942389,
           "price": 0,
           "formattedPrice": "免費",
@@ -8956,6 +8984,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728050545203,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1727967731900,
