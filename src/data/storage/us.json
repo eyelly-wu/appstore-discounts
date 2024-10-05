@@ -504,6 +504,21 @@
     "history": [
       [
         {
+          "timestamp": 1728097527212,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "iCloud Sync Lifetime": "$34.99",
+            "Cloud Backup Monthly": "$1.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1727838367640,
           "price": 0,
           "formattedPrice": "Free",
@@ -5287,6 +5302,21 @@
     "history": [
       [
         {
+          "timestamp": 1728097527212,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$9.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$23.99",
+            "Goodnotes 6 (1 Year)": "$9.99",
+            "Bunny Oasis Stickers": "$0.00",
+            "Marketplace Content": "$9.99",
+            "Dotted Squares: Draft Papers": "$0.89"
+          }
+        },
+        {
           "timestamp": 1728082931050,
           "price": 0,
           "formattedPrice": "Free",
@@ -7791,6 +7821,19 @@
     "history": [
       [
         {
+          "timestamp": 1728097527212,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "$1.99",
+            "黄鸭证件照3元": "$0.99",
+            "黄鸭证件照-周度会员": "$0.99",
+            "黄鸭证件照1元": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1727752371154,
           "price": 0,
           "formattedPrice": "Free",
@@ -8118,6 +8161,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728097527212,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1727967731900,
