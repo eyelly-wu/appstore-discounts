@@ -724,6 +724,14 @@
     "history": [
       [
         {
+          "timestamp": 1728184169178,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728011194689,
           "price": 0,
           "formattedPrice": "Free",
@@ -2876,6 +2884,14 @@
     "history": [
       [
         {
+          "timestamp": 1728184169178,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1727924811586,
           "price": 0,
           "formattedPrice": "Free",
@@ -3986,6 +4002,25 @@
       "unlockall_3": "$20.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728184169178,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_3": "$20.99",
+            "Endless Pirouette": "$5.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_0": "$27.99",
+            "Muse Radio FM101": "$3.99",
+            "Valentine Stage": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "cyTus": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727964146847,
