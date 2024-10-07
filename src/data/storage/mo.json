@@ -1444,14 +1444,22 @@
   "670400597": {
     "name": "樑的撓度",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "USD 7.99"
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 7.99,
       "formattedPrice": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728316940177,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
