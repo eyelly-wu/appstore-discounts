@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2024-10-08T03:11:14.437Z</updated>
+    <updated>2024-10-08T16:05:29.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,48 +18,69 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-10-08T03:11:14.439Z</updated>
+        <updated>2024-10-08T16:05:29.910Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1728356911115</id>
-        <link href="https://apps.apple.com/us/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2024-10-08T03:08:31.115Z</updated>
-        <summary type="html"><![CDATA[Price: $6.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/6e/18/046e1884-3550-6e6f-2483-fef69701fecd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$6.99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Monitor your iPhone battery level from your wrist.
+        <title type="html"><![CDATA[Photomator – Photo Editor]]></title>
+        <id>Photomator – Photo Editor-1728403349463</id>
+        <link href="https://apps.apple.com/us/app/photomator-photo-editor/id1444636541?uo=4"/>
+        <updated>2024-10-08T16:02:29.463Z</updated>
+        <summary type="html"><![CDATA[Yearly Subscription: $39.99 → $29.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/photomator-photo-editor/id1444636541?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/38/4b/9d384b95-c30a-0465-9800-8013702a6d36/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Yearly Subscription：</strong><span>$39.99</span> → <b>
+  <strong>$29.99</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Photomator is the most powerful photo editing app ever designed for a mobile device. It includes an extensive collection of cutting-edge color adjustments, automatic selections powered by AI, support for over 750 RAW image formats, a magical Repair tool for removing unwanted objects, and many more powerful features, letting you enjoy pro photo editing anyplace, anytime.
 
-Juice Watch is a simple app designed to do two things well:
+Everything you need to make your photos look incredible
+• Edit photos using a wide collection of powerful, nondestructive color adjustments
+• Quickly make precise subject, sky, and background selections in photos using AI, add gradient masks, and easily make selections using a brush
+• Effortlessly remove unwanted objects using an incredible object removal tool
+• Crop, straighten, rotate, and adjust the perspective of photos with an easy-to-use Crop tool
+• Instantly increase the resolution of photos using AI
+• Remove camera noise and image compression artifacts with the powerful Denoise feature
+• Magically remove color banding and increase color depth in photos with the AI-powered Smart Deband feature
+• Make your photos stand out with photographer-designed presets for landscape, black and white, and other photography styles
+• Easily copy and paste edits between photos or batch edit even hundreds of photographs at a time
+• Open and edit over 750 RAW image formats, including Apple ProRAW and compressed Fujifilm RAWs
+• Follow all the changes you make in the beautiful live histogram
 
-• Show the battery level of the paired iPhone in a complication on Apple Watch
+Tools powered by AI
+• Select the subject, sky, or background in a photo with just a tap
+• Improve the quality of photos by reducing camera noise with the AI-powered Denoise feature, intelligently upscale photos with Super Resolution, or magically remove color banding and increase color depth using Smart Deband
+• Automatically enhance shots using a machine learning algorithm trained on 20 million pro photos, or fine-tune individual adjustments, like White Balance, Selective Color, or Color Balance with a single tap
+• Intelligently crop photos using the AI-powered auto-cropping
+• Copy the look of any photo to another using the incredible Match Colors feature
 
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
+State-of-the-art color adjustments
+• Enjoy powerful tools for effortlessly adjusting the temperature, tint, exposure, contrast, brightness, hue, saturation, and vibrance in your photos
+• Recover incredible amounts of detail in the highlights and shadows of photos
+• Magically enhance fine details and structure in photos using powerful Clarity and Texture adjustments, or adjust textures in the highlights, midtones, and shadows separately
+• Selectively edit individual color ranges with Selective Color, or improve the balance of colors in the shadows, midtones, and highlights with Color Balance
+• Adjust lighting and colors with full precision using Levels and Curves adjustments
+• Mix the balance of the red, green, and blue color channels to create intense color effects in your images
+• Replace any color with any other using the Replace Color adjustment
+• Create beautiful black and whites even from your color photos
+• Use a range of additional adjustments, like Sharpen, Fade, Grain, Color Monochrome, Sepia, and Invert to make your photos stand out
+• Instantly change the look of photos with LUTs or export custom LUTs to use in other apps
 
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
+Compatibility
+• Automatically sync every change back to your Photos or Files browser
+• With the support for iCloud Drive, enjoy seamless edit syncing across Mac, iPhone, and iPad
+• Photomator is built from the ground up for iPhone and iPad with a native design that blends seamlessly with the sleek and modern look of iOS and iPadOS 18
+• Photomator uses powerful Apple technologies like Metal, Core ML, and Core Image to deliver staggeringly fast performance, even when editing large RAW photos or batch editing multiple images at a time
 
-You can see both your iPhone and Apple Watch battery levels on the same complication.
-
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
-
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
-
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
-
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
-
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
-
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+• Terms of use: https://www.pixelmator.com/terms-of-use/
+• Privacy policy: https://www.pixelmator.com/privacy-policy
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/20/bd/6620bdd3-0b70-6471-35b7-9f4ab4a2d7cf/74ef5722-39ac-4c38-85e1-114ae3d1722b_5_U002c5_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/d7/d9/19d7d954-d86a-0c21-1afc-81ec68038587/cdbd7779-849d-498a-a540-dc86927b77a9_5_U002c5_copy.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/7c/af/0f7caf0c-d172-7a88-bf0d-ac1120b2c3d9/18bb4aaa-73d1-4c97-821f-47c446342a7d_5_U002c5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/e6/c2/3de6c2d6-6565-99f3-7818-bc9e028c9ea7/70d3274b-ff16-44bf-83c2-227001e29669_5_U002c5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/cb/3c/e0cb3c27-dee9-be47-3d0a-16a95e5ce8c7/aaabbb6f-c7f0-4f1b-99ff-9b0eb4a6b815_5_U002c5_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/56/e6/dc56e60c-7721-2d88-4e79-d4ca42a5f8a8/9ae4baf0-84e2-4ff8-af27-3e3a3919d9be_Workflows.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/f0/72/9ff07252-a562-fd51-2c81-7ff2fe61b91e/97aa37e5-20f9-45b4-9180-8e8b386f933e_Presets.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/98/db/7998dbbe-ded4-6b15-f588-2e0995e5a564/6f9d0117-bc01-4df6-96dc-c18ca1c5736c_RAW.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/50/a2/e850a216-1c1b-57de-f0b3-9a4889814d35/965dbf72-78f3-4325-855a-774176ddfd5e_Crop.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/16/72/ce167229-7317-6e2c-6c1b-e07a86545e18/c208d809-906c-4010-a6d5-7ad7ea5257cf_5_U002c5_2.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/3f/79/cf3f79a7-44a9-dfa8-97b1-5aaa31b95d28/4451fcf6-0b29-4feb-a574-bf0b5e2ccd45_Appstore_Seni_iPadPro_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/11/4b/f1114b82-d2d2-2b69-caad-f97289d91a3e/5dd55252-f88b-4963-ae61-efa5a138f2a3_Appstore_Seni_iPadPro_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/05/3f/a4053fb6-1ea4-820a-f93f-c1e1b88752cf/1207d7df-6984-4182-8122-e026f3e2a6ab_Appstore_Seni_iPadPro.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/13/08/3213080d-39ac-6aa3-4266-ff1604755d3c/fe99086c-63cc-4086-aacb-dbc0b6e151dd_Appstore_iPadPro.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d4/da/92d4da12-9594-e8d9-33be-4e71572e4a36/f0382f43-123f-4dd6-92b9-0767a6a11f5b_Appstore_Seni_iPadPro_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/5c/e5/425ce554-a019-7ffa-d017-4c72b4ee9a75/0c692fcf-7a4c-4a6a-8e4d-eedcca771708_Appstore_Seni_iPadPro_8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/eb/fe/f3ebfe54-acd9-2bea-897c-bbbe5ff9fb5b/48a97225-fa74-4de1-a126-859d7a494830_Appstore_Seni_iPadPro_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/26/e1/e626e11b-f4df-41ed-b429-0b7d27ac75d6/fea1dde7-c049-4118-a78a-83d092a38ee8_Appstore_Seni_iPadPro.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/e2/90/26e290ce-eabf-b334-b39c-9975bc7e6a9b/86821e07-cb08-4799-a1e5-a319a2a8039e_Appstore_Seni_iPadPro_7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/d3/406cd3ec-56d6-f0f0-0065-11cac2a452d0/c736c6b5-3bb4-4162-a085-12c88f21bad4_Appstore_Seni_iPadPro_6.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
