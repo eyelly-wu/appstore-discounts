@@ -8766,14 +8766,22 @@
   "1633865171": {
     "name": "獬豸 · 民法典",
     "maxPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00"
+      "price": 6,
+      "formattedPrice": "¥6.00"
     },
     "minPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728346072188,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
