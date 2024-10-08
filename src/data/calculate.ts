@@ -7,6 +7,7 @@ import { getTranslate } from './i18n'
 const timeStorageAppInfoFields = ['price', 'formattedPrice', 'inAppPurchases']
 
 function getPrice(priceStr: string) {
+  priceStr = priceStr.replace(',', '')
   const regexp = /[^0-9]*([0-9]+(\.[0-9]+)?)[^0-9]*/
   const [full, numberStr] = priceStr.match(regexp) || ['', '-1']
   const price = parseFloat(numberStr)
