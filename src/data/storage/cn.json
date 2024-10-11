@@ -10274,14 +10274,22 @@
   "6449930220": {
     "name": "手表浏览器  Wafari",
     "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00"
+      "price": 3,
+      "formattedPrice": "¥3.00"
     },
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728673321065,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
