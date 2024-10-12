@@ -2498,7 +2498,10 @@
       "Small pot of Crystal": "$4.99",
       "Large bag of Crystal": "$10.99",
       "Shovelful of Crystal": "$0.99",
-      "Cartful of Crystal": "$21.99"
+      "Cartful of Crystal": "$21.99",
+      "Gem Pack - Special Offer 3": "$21.99",
+      "Gem Pack - Special Offer 1": "$4.99",
+      "Gem Pack - Special Offer 2": "$10.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -2508,9 +2511,30 @@
       "Small pot of Crystal": "$4.99",
       "Large bag of Crystal": "$10.99",
       "Shovelful of Crystal": "$0.99",
-      "Cartful of Crystal": "$21.99"
+      "Cartful of Crystal": "$21.99",
+      "Gem Pack - Special Offer 3": "$21.99",
+      "Gem Pack - Special Offer 1": "$4.99",
+      "Gem Pack - Special Offer 2": "$10.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728696540986,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Box of Sunshine Elixir": "$1.99",
+            "Bottle of Sunshine Elixir": "$0.99",
+            "Small pot of Crystal": "$4.99",
+            "Large bag of Crystal": "$10.99",
+            "Shovelful of Crystal": "$0.99",
+            "Cartful of Crystal": "$21.99",
+            "Gem Pack - Special Offer 3": "$21.99",
+            "Gem Pack - Special Offer 1": "$4.99",
+            "Gem Pack - Special Offer 2": "$10.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -5338,6 +5362,16 @@
       "Card.Note Premiun": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728696540986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Card.Note Premiun": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728440681855,
