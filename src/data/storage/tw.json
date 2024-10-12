@@ -6256,9 +6256,22 @@
       "A gold coin": "$30.00",
       "A stack of gold coins": "$30.00",
       "A bundle of gold coins": "$60.00",
-      "A large number of gold coins": "$150.00"
+      "A large number of gold coins": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728712961951,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "A gold coin": "$30.00",
+            "A stack of gold coins": "$30.00",
+            "A bundle of gold coins": "$60.00",
+            "A large number of gold coins": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
