@@ -335,6 +335,19 @@
     "history": [
       [
         {
+          "timestamp": 1728828126058,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "¥228.00",
+            "Premium Cloud Service Monthly": "¥7.00",
+            "Premium Cloud Service Yearly": "¥48.00",
+            "Reset Password": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728568939370,
           "price": 0,
           "formattedPrice": "免费",
@@ -860,6 +873,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728828126058,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728655341157,
@@ -2353,6 +2374,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728828126058,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728568939370,
@@ -4070,6 +4099,25 @@
       "解锁角色Sagar": "¥30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728828126058,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "1030 C.COIN": "¥78.00",
+            "60 C.COIN": "¥6.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "解锁角色Joe": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1726236124151,
@@ -7262,6 +7310,17 @@
     "history": [
       [
         {
+          "timestamp": 1728828126058,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728741719604,
           "price": 0,
           "formattedPrice": "免费",
@@ -9337,6 +9396,17 @@
       "Hello World!": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728828126058,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1726149740732,
