@@ -277,6 +277,19 @@
     "history": [
       [
         {
+          "timestamp": 1728875363181,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728615949678,
           "price": 0,
           "formattedPrice": "Free",
@@ -825,6 +838,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728875363181,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728702289366,
@@ -2771,6 +2792,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728875363181,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728615949678,
@@ -7385,6 +7414,17 @@
     "history": [
       [
         {
+          "timestamp": 1728875363181,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728788940418,
           "price": 0,
           "formattedPrice": "Free",
@@ -9618,6 +9658,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1728875363181,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1726196568667,
