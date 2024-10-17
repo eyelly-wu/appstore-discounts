@@ -3316,7 +3316,9 @@
       "1-Year SVIP": "$12.99",
       "Quarterly SVIP": "$2.99",
       "500 Conversations": "$9.99",
-      "250 Conversations": "$4.99"
+      "250 Conversations": "$4.99",
+      "545 Days SVIP": "$12.99",
+      "3-Year SVIP": "$24.99"
     },
     "minPriceInfo": {
       "price": 14.99,
@@ -3327,9 +3329,27 @@
       "1-Year SVIP": "$12.99",
       "Quarterly SVIP": "$2.99",
       "500 Conversations": "$9.99",
-      "250 Conversations": "$4.99"
+      "250 Conversations": "$4.99",
+      "545 Days SVIP": "$12.99",
+      "3-Year SVIP": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729195336101,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "Quarterly SVIP": "$2.99",
+            "100 Days SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "545 Days SVIP": "$12.99",
+            "3-Year SVIP": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
