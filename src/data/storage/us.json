@@ -828,10 +828,18 @@
       "formattedPrice": "$9.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729134412677,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -853,6 +861,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729134412677,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1729048121041,
@@ -1266,6 +1282,19 @@
       "Reset Password": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729134412677,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728011194689,
@@ -3242,6 +3271,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729134412677,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728184169178,
@@ -7577,6 +7614,17 @@
       "Value for Value": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729134412677,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1729048121041,
