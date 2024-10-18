@@ -9812,14 +9812,22 @@
   "1658579911": {
     "name": "小特钥匙 - 特斯拉蓝牙手表钥匙",
     "maxPriceInfo": {
-      "price": 48,
-      "formattedPrice": "¥48.00"
+      "price": 68,
+      "formattedPrice": "¥68.00"
     },
     "minPriceInfo": {
       "price": 28,
       "formattedPrice": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729238572255,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1727409762264,
