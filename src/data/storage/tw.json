@@ -258,7 +258,9 @@
       "3000 C-Points": "$150.00",
       "十頁傳真": "$290.00",
       "3000 cp + Six chance to Draw": "$150.00",
-      "600 cp + One chance to Draw": "$30.00"
+      "600 cp + One chance to Draw": "$30.00",
+      "掃描全能王高級帳戶單月版": "$150.00",
+      "掃描全能王高級帳戶全年版": "$1,490.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -268,9 +270,28 @@
       "3000 C-Points": "$150.00",
       "十頁傳真": "$290.00",
       "3000 cp + Six chance to Draw": "$150.00",
-      "600 cp + One chance to Draw": "$30.00"
+      "600 cp + One chance to Draw": "$30.00",
+      "掃描全能王高級帳戶單月版": "$150.00",
+      "掃描全能王高級帳戶全年版": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729432923199,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶單月版": "$150.00",
+            "掃描全能王高級帳戶全年版": "$1,490.00",
+            "掃描全能王高級帳戶": "$1,660.00",
+            "一頁傳真": "$30.00",
+            "十頁傳真": "$290.00",
+            "3000 C-Points": "$150.00",
+            "600 cp + One chance to Draw": "$30.00",
+            "3000 cp + Six chance to Draw": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722333748897,
@@ -1463,6 +1484,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729432923199,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1729173739058,
