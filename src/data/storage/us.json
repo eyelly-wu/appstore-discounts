@@ -8663,7 +8663,9 @@
       "Lifetime": "$3.99",
       "Free Trial": "$0.00",
       "Yearly VIP": "$2.99",
-      "Tester Award": "$0.00"
+      "Tester Award": "$0.00",
+      "Community VIP": "$0.00",
+      "Education VIP - 2024": "$0.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -8671,9 +8673,26 @@
       "Lifetime": "$3.99",
       "Free Trial": "$0.00",
       "Yearly VIP": "$2.99",
-      "Tester Award": "$0.00"
+      "Tester Award": "$0.00",
+      "Community VIP": "$0.00",
+      "Education VIP - 2024": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729526546988,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$3.99",
+            "Free Trial": "$0.00",
+            "Yearly VIP": "$2.99",
+            "Community VIP": "$0.00",
+            "Education VIP - 2024": "$0.00",
+            "Tester Award": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
