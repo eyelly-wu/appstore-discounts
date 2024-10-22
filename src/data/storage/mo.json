@@ -6077,7 +6077,7 @@
       "price": 6.99,
       "formattedPrice": "USD 6.99",
       "Premium Features": "USD 3.99",
-      "Value for Value": "USD 0.99"
+      "Value for Value": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -6086,6 +6086,17 @@
       "Value for Value": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729620163479,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Value for Value": "USD 2.99",
+            "Premium Features": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1729605738970,
