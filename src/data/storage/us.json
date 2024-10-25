@@ -2542,7 +2542,8 @@
       "The Elemental Collection": "$0.99",
       "Batch Photo Actions": "$0.00",
       "8K Max Time Lapse": "$7.99",
-      "ZERO: Direct Sensor Capture": "$3.99"
+      "ZERO: Direct Sensor Capture": "$3.99",
+      "AI Spatial": "$5.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -2554,9 +2555,28 @@
       "The Elemental Collection": "$0.99",
       "Batch Photo Actions": "$0.00",
       "8K Max Time Lapse": "$2.99",
-      "ZERO: Direct Sensor Capture": "$3.99"
+      "ZERO: Direct Sensor Capture": "$3.99",
+      "AI Spatial": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729832543265,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "4K Ultra HD Video": "$4.99",
+            "The Master Collection": "$1.99",
+            "4K Ultra HD Time Lapse": "$2.99",
+            "The Urban Collection": "$0.99",
+            "ZERO: Direct Sensor Capture": "$3.99",
+            "The Elemental Collection": "$0.99",
+            "Batch Photo Actions": "$0.00",
+            "8K Max Time Lapse": "$5.99",
+            "AI Spatial": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1729713745262,
