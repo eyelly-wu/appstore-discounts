@@ -923,6 +923,14 @@
     "history": [
       [
         {
+          "timestamp": 1729998594315,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1729911897192,
           "price": 0,
           "formattedPrice": "Free",
@@ -4417,6 +4425,25 @@
       "Red Cam Film Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729998594315,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1729393838326,
@@ -8363,6 +8390,17 @@
     "history": [
       [
         {
+          "timestamp": 1729998594315,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1729911897192,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -10200,6 +10238,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1729998594315,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1729825698341,
