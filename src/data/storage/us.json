@@ -431,6 +431,25 @@
     "history": [
       [
         {
+          "timestamp": 1730085028474,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Reset Password": "$0.99",
+            "iCloud Sync Yearly": "$7.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Lifetime": "$39.99",
+            "100 GB monthly": "$5.99",
+            "10 GB monthly": "$2.99",
+            "200 GB monthly": "$9.99",
+            "100 GB yearly": "$59.99",
+            "10 GB yearly": "$29.99",
+            "1 TB monthly": "$47.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1729825698341,
           "price": 0,
           "formattedPrice": "Free",
@@ -6390,14 +6409,27 @@
       "Return to Castlevania": "$6.99"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "$8.99",
+      "price": 5.99,
+      "formattedPrice": "$5.99",
       "The Bad Seed": "$3.99",
       "Fatal Falls": "$3.99",
       "The Queen and the Sea": "$3.99",
       "Return to Castlevania": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730085028474,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "The Bad Seed": "$3.99",
+            "Fatal Falls": "$3.99",
+            "The Queen and the Sea": "$3.99",
+            "Return to Castlevania": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -8438,6 +8470,17 @@
     "history": [
       [
         {
+          "timestamp": 1730085028474,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1729998594315,
           "price": 0,
           "formattedPrice": "Free",
@@ -10472,10 +10515,18 @@
       "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "$7.99"
+      "price": 6.99,
+      "formattedPrice": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730085028474,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
