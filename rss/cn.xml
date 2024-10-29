@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2024-10-29T10:05:07.569Z</updated>
+    <updated>2024-10-29T14:05:07.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,49 +18,199 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-10-29T10:05:07.570Z</updated>
+        <updated>2024-10-29T14:05:07.184Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[算法导论.助手]]></title>
-        <id>算法导论.助手-1730196145645</id>
-        <link href="https://apps.apple.com/cn/app/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA-%E5%8A%A9%E6%89%8B/id1564383045?uo=4"/>
-        <updated>2024-10-29T10:02:25.645Z</updated>
-        <summary type="html"><![CDATA[价格: ¥6.00 → ¥1.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA-%E5%8A%A9%E6%89%8B/id1564383045?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/a0/0c/50a00c8a-77a2-a74e-6af8-1524a8534a7d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[哪里哪里]]></title>
+        <id>哪里哪里-1730210536980</id>
+        <link href="https://apps.apple.com/cn/app/%E5%93%AA%E9%87%8C%E5%93%AA%E9%87%8C/id1538124245?uo=4"/>
+        <updated>2024-10-29T14:02:16.980Z</updated>
+        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%93%AA%E9%87%8C%E5%93%AA%E9%87%8C/id1538124245?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a1/0d/21/a10d2125-4b9c-fd22-8da3-7b27244b65e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥6.00</span> → <b>
-  <strong>¥1.00</strong>
+  优惠信息（价格：<span>¥8.00</span> → <b>
+  <strong>免费</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  参照原书第三版，内容包括：
-    第2章 算法入门：插入排序，归并排序；
-    第4章 分治法：最大子集问题，矩阵相乘算法[常规算法，分治法，Strassen算法]；
-    第6章 堆排序：堆排序[大根堆，小根堆]；
-    第7章 快速排序：快速排序；
-    第8章 线性时间排序：计数排序；
-    第12章 二叉搜索树：二叉搜索树[中序遍历，递归搜索，迭代搜索，迭代最小，迭代最大，后继，先驱，插入，删除]；
-    第13章 红黑树：红黑树[插入，删除]；
-    第15章 动态规划：切钢条问题[递归，自顶向下，自底向上，打印]，最长公共子序列；
-    第16章 贪心算法：活动选择问题[递归，迭代]，Huffman编码；
-    第22章 基本图算法：广度优先搜索，深度优先搜索，拓扑排序，强连通分量；
-    第23章 最小生成树：最小生成树[Kruskal算法，Prim算法];
-    第24章 单源最短路径：Bellman-Ford算法，有向无环图算法，Dijkstra算法；
-    第25章 每对顶点间的最短路径：最短路径算法[Slow算法，Faster算法，Floyd-Warshall算法]；
-    第26章 最大流：Ford-Fulkerson算法；
-    附加内容：Hanoi塔问题，N皇后问题，排序算法性能比较；
+  马上就能找到物品的简单管理软件！
 
-主要特点有：
-    可单步或连续运行伪码，观察参数和数据结构的变化，有助于理解算法的设计思想；
-    可设置程序断点，方便观察算法的断点状态，通过循环不变式验证其正确性；
-    提供运行时函数栈，并标记函数返回位置，可轻松跟踪递归函数的运行过程，并有助于理解计算机程序的运行机制；
-    记录代码行执行次数，有助于理解算法的时间复杂度；
+整理整顿后找不到东西，是不是很困扰吗？
 
-希望此App能对您学习算法和数据结构有所帮助；
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1a/26/06/1a26061e-0171-8f23-b5f8-9bc6e5765111/4432827c-b4fe-4aaf-b8c6-d6a6f0c1054e_phoneCh02MergeSort.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f2/c8/24/f2c82421-c3ac-bb1f-4b40-4129c464d042/a8d6dbb0-f282-4f37-9707-772c6860401f_phoneCh04MaximumSubarray.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/96/67/40/96674008-d90c-3192-eb88-b7eedd84c1f1/13c89fe8-0c90-4840-90a7-02adf8143c86_phoneCh06Heapsort.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1a/f9/98/1af998b4-d6d3-33c8-5f79-82dcf23d3aff/1fd0c096-75bf-4950-a838-886ff4d4573a_phoneCh08CountingSort.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/7e/6b/8b/7e6b8bd2-9baa-ccf6-8fe9-132a45cb64bd/15bfe5aa-ae30-476d-bc34-75798e52f922_phoneCh12BinarySearchTree.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f5/eb/5f/f5eb5f91-15ab-1d05-e157-346a6c83865f/9ad107f9-b01b-4114-a42e-f04ea7060a4e_phoneCh13RBTree.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/80/f2/5d/80f25db5-ace6-3fe5-489d-72324160c7b4/c9a2603c-ce29-4b1f-b535-f14adb396685_phoneCh15RodCutting.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ee/42/53/ee4253e9-b852-2be3-0b73-94e261348540/1f20d4e7-55ff-43db-a9f1-ff7fe979d373_phoneCh16ActivitySelection.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1f/b8/57/1fb857f5-4587-129c-f63a-f46e53711df5/240b0f0b-4c6c-48cf-93c9-ab172d900bda_phoneCh22BFS.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/69/fb/6a/69fb6ad1-d10d-bdaa-ffc7-865e03d2b5ac/6024eed4-8f47-4037-a5b2-f408a7195bbf_phoneCh22DFS.PNG/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a8/ac/11/a8ac11fd-0f81-cb75-f9c2-c9415f5bef39/c04685ec-476f-4d51-98f1-76598279c7d5_padCh02MergeSort.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/83/18/19/8318191d-42f4-ad8c-ecb6-a24b44b26742/ee6f52c6-8bd5-48cb-b203-b27d43b77fcd_padCh06Heapsort.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/cf/71/7b/cf717b61-693e-cf65-99cd-4d560606ffa7/3234a435-24c9-4cc8-ba68-e6aa4739a2c7_padCh22BFS.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9e/71/d4/9e71d41e-f314-a8e5-127c-51d18fff1285/3dff8f51-3ed2-4796-9774-4c4e7908cadc_padCh12BinarySearchTree.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/26/54/8a/26548abd-19e7-ed36-4931-23fe91808555/5f284a8a-ff5d-4d89-a00e-792b956f2aae_padCh13RBTree.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/78/cf/39/78cf390a-cae3-e843-5a0b-0b0c647b045e/619b7096-998c-467a-aab6-88851a0c6196_padCh22DFS.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/66/80/ec/6680ec6d-48b7-f818-7e50-aaccb35ed11c/f2ea2ea7-f800-4494-940b-1a579bb767c7_padCh15RodCutting.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ac/4d/99/ac4d998c-514a-444c-d457-c5f9f0092ea8/b3bc9ce0-6b52-42de-9c53-694f728c8235_padCh16ActivitySelection.PNG/552x414bb.png" />]]></content>
+使用“哪里哪里”就能马上找到要找的东西！
+
+
+建造房子，制作家具，分配储物柜，把东西全部放进去吧。
+
+
+书籍和重要的收藏、兴趣的道具、孩子的玩具、季节的衣服、回忆的物品等，有助于整理家里所有的东西。
+
+无论是不能扔东西的人，还是非常喜欢整理整顿东西的人，这都是非常适合的应用程序。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ad/3e/ae/ad3eae38-e547-7899-ce27-b3cda1d2a73d/6f75e7c0-5a24-456f-9e60-9954543f7140_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.38.40.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1a/12/4b/1a124b7b-472a-4d62-b11e-849b39a38d8e/0b32134e-4954-4faf-88de-ea0571677462_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.36.19.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a3/31/ae/a331ae60-9677-0d9e-59ac-5516135ae4b0/8bd8f8c9-dc50-453e-a71d-1c3bf71077a0_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.37.25.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b1/42/34/b142344c-fcf5-f6a6-6f43-4d091a899001/9bebd615-7b18-442b-8321-4d13ec9358d2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.39.03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/dc/fb/30/dcfb30c8-d2fd-40bc-622a-c69d9898cfad/118d5d20-d1a7-4b94-81ec-e6410b88aba4_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.37.03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2f/2b/ce/2f2bce8b-16b7-91a9-9f1a-ae6d21b3116e/b1aa6ab1-d535-4d2a-9ddc-302bf36e1b9d_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.36.11.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电影精灵 - 专业视频编辑和电影制作]]></title>
+        <id>电影精灵 - 专业视频编辑和电影制作-1730210536980</id>
+        <link href="https://apps.apple.com/cn/app/%E7%94%B5%E5%BD%B1%E7%B2%BE%E7%81%B5-%E4%B8%93%E4%B8%9A%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%92%8C%E7%94%B5%E5%BD%B1%E5%88%B6%E4%BD%9C/id1020541183?uo=4"/>
+        <updated>2024-10-29T14:02:16.980Z</updated>
+        <summary type="html"><![CDATA[价格: ¥68.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%94%B5%E5%BD%B1%E7%B2%BE%E7%81%B5-%E4%B8%93%E4%B8%9A%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%92%8C%E7%94%B5%E5%BD%B1%E5%88%B6%E4%BD%9C/id1020541183?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/aa/8f/58aa8fc3-3ede-5036-6576-4f920c5138f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥68.00</span> → <b>
+  <strong>免费</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  只需一次付费，即可终身免费使用！
+
+【客服微信】加微信(MovieSpiritApp)，让我们一对一解答您的疑问!
+您想制作属于自己的微电影吗？
+您想当导演、制片、主演......吗？
+
+在电影精灵中，这些角色可以全部由您一个人搞定！
+
+通过电影精灵，您可以把各种媒体素材如视频、照片、音乐、文字、录音以及手指涂鸦等，按照您的创意，把它们编辑组合在一起，并给它们添加各种特效（场景切换特效、文字动画、滤镜特效、片头、蒙版、移动马赛克等），创作出属于您自己的微电影。
+
+主要功能：
+
+- 可剪裁、分割、合并、剪切、 缩放、翻转、变形各种媒体素材
+- 叠加多层视频图片素材 （画中画效果），视频图片数量没有限制
+- 专业的视频比例选项，可伸缩时间轴（逐帧），无限轨道图层
+- 添加各种蒙版 （线性蒙版、矩形蒙版、圆形蒙版、文字蒙版和路径蒙版）来隐藏或者显示影片的各个部分
+- 可视频抠像， 去掉视频背景
+- 可快速抠图（钢笔工具、套索工具、涂抹工具和文字工具等自定义形状抠图工具）
+- 绿幕或蓝幕视频可一键去除背景
+- 多达50多种特效可添加，如高斯模糊，雪花，雨滴，气泡，地震，烟花，烟雾，漩涡，火焰，星空等特效
+- 溶图
+- 快进、慢放（1/12慢速至16倍速），倒放视频 
+- 文字转语音功能 （几十种语言选项）
+- 360度旋转影片
+- 多种混合图像模式
+- 各种字体、文本模版、文字颜色、竖排文字、表情符号、阴影、文字描边、对齐等，支持从互联网、iCloud下载新字体；
+- 内置多种风格的免费配乐和音效，可添加电脑上的音乐或者iTunes里的音乐，还可提取并导出视频里的音频
+- 给视频配音录音
+- 直接在影片上用手指绘画涂鸦，有多种辅助画图形状工具供选择如直线、曲线、箭头、圆形、方形、多边形、 心形、 七彩文字等
+- 简单自动跟踪功能
+- 添加移动式马赛克
+- 可自定义影片背景颜色，如纯色、渐变色、拾取图片颜色等
+- 可添加几十种动画效果
+- 可调整素材亮度、对比度、饱和度、色阶、曝光、白平衡、伽玛等
+- 创建自己的GIF动画
+- 私人定制特效片头（需另外购买）
+- 多达80种滤镜特效 （素描、漫画、鱼眼、放大镜、背景模糊、晕影、运动模糊、旋转模糊、移轴镜、虚化、锐化、漩涡、各种颜色滤镜等）
+- 多达60种场景切换效果可选择
+- 可给视频／照片设置各种几十种外观形状如圆形、心形、钻石、星形、各种不规则形状等，甚至是自定义独一无二的形状
+- 可设置叠加视频／照片的透明色（Chroma Key)，比如去除照片中纯色背景色 （绿幕蓝幕抠像）
+- 能把视频／照片变黑白，把需要突出的部分还原色彩突出出来（Color Splash)
+- 能自由变形视频／照片成不规则形状
+- 给视频／照片／文字添加运动点，使它们动起来，缩放、旋转和移动结合起来可创建出各种各样的绚丽效果，如淡入淡出效果、多重幻影效果等；
+- 实时预览，高分辨视频输出
+- 可通过Wi-Fi直接从电脑导入多媒体素材：视频、照片、音乐和GIF动画等
+- 可直接保存并分享影片到社交网络，如云盘、微信、QQ 、抖音、Instagram、Facebook等
+
+
+如果您有任何问题或反馈，请直接发邮件到verytools2006@gmail.com，或通过微信联系我们(MovieSpiritApp)，我们会尽快答复您。谢谢！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/84/c1/b684c14b-0ab9-0731-a440-85f7785d5818/mzl.nhqldhwc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/5f/e1/e65fe112-3cf1-2a06-4bad-f170e6b927f4/mzl.egmrhbuk.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/38/e1/af/38e1af9c-4945-e6e1-ec8b-83fd5e3d3265/mzl.pwazltxe.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/4c/85/894c8549-ef29-42b1-9008-4131b3a08e28/mzl.bosppwem.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/15/51/54/15515482-407f-42f7-3f92-11f4a3812745/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/9e/25/8f9e25a6-899b-f8f4-2040-153d6b7d74df/mzl.rugzbulj.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/34/97/39/349739e6-7335-f6c7-1ced-087f8da58a40/mzl.ldgsltta.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/44/e8/8c/44e88cd2-d217-731b-39b8-f00034a6be31/mzl.uihwdfls.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/29/f5/d6/29f5d6df-301d-d9c9-98f5-7052efdf1ec0/mzl.lqfnlnfz.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/dd/28/fd/dd28fd46-2192-9fad-5052-6de96835b1f0/pr_source.jpg/576x768bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防史诗冒险]]></title>
+        <id>Kingdom Rush Frontiers 塔防史诗冒险-1730210536980</id>
+        <link href="https://apps.apple.com/cn/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E5%8F%B2%E8%AF%97%E5%86%92%E9%99%A9/id598581396?uo=4"/>
+        <updated>2024-10-29T14:02:16.980Z</updated>
+        <summary type="html"><![CDATA[价格: ¥15.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E5%8F%B2%E8%AF%97%E5%86%92%E9%99%A9/id598581396?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/70/ec0470a6-3e3b-9fba-453e-30a34ddc6b81/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥15.00</span> → <b>
+  <strong>¥8.00</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  全世界最令人着迷的防御游戏重磅回归 —— 欢迎来到《王国保卫战：前线》！ 
+
+《王国保卫战：前线》规模更加宏大，战况更胜从前，堪称全新水准的快节奏、超迷人游戏玩法，可谓是实至名归。轻按指挥你的的部队，展开一场史诗级的冒险，保卫这片异国大陆免受飞龙、食人植物和地下世界可怕居民的侵害 —— 你完全可以利用华丽的新防御塔、关卡、英雄和众多好东西，助你将敌人碾碎！（别担心，我们仍然提供前作中的好东西，只不过现在已是陈年经典。） 
+
+《王国保卫战：前线》涵盖众多内容，它就像是完全升级版的诱人火炮，将像素化的欢乐径直发射到你笑逐颜开的小脸上... 可疼了！ 
+
+游戏
+
+•  巩固异国新大陆的前线 —— 在沙漠、丛林甚至地下世界中坚守阵地！
+
+•  八种全新专业防御塔升级！你可以用弩兵堡垒、强大的圣殿骑士、亡灵甚至地震机切开、烤焦和践踏你的敌人 —— 嘿，我们告诉过你会动摇一切的。
+
+•  超过18种防御塔技能！释放死亡骑手、瘟疫毒云或刺客，暗杀你的敌人！
+
+•  超过40位具有独特技能的敌人！随时待命，对抗沙漠沙虫、部落萨满、游牧部落和地下世界恐怖生物。
+
+• 十六位传奇英雄。选择你的战士，训练他们的技能！
+
+•  每个关卡都会出现特殊单位和特色！注意黑龙！
+
+•  残酷无情的头目战！嘿，我们告诉过你会有这些升级...
+
+•  70多个成就，让你尽享游戏时间！
+
+•  经典、钢铁和英雄游戏模式，挑战你的战术技能！
+
+•  三种难度模式！你是否准备迎接真正的挑战？试试困难模式吧！
+振奋人心的配乐，圆润醇厚的旁白，加上图文并茂的动画效果，真令人陶醉其中而不能自拔！（自然也包括动画的鲜血效果。）
+
+•  游戏内百科全书！真正的战士知己知彼... 对防御塔的了解也不例外。用功研读吧！
+
+《王国保卫战》所获赞誉：IGN编辑精选游戏，Slide To Play必玩游戏，148 Apps编辑精选游戏，Jay is Games年度游戏，Pocket Gamer金奖，Touch Arcade 4.5/5，CNET。最佳iPad游戏
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e4/d0/0f/e4d00fcd-188d-fd5a-d105-835ed009c5bd/a317a203-92f2-4e87-9e66-bc34f6146e23_screenshots_2208x12420011.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/db/36/28/db36287e-872c-b2bb-e4ca-880fb04e4e64/ed2440e8-7636-4721-9cd6-e6611ee15246_screenshots_2208x12420012.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/44/9c/8a/449c8a55-c61f-2507-f4a6-4b85479272b4/ce301336-b1fa-4b2a-aa90-c274d5374365_screenshots_2208x12420013.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/e9/49/3c/e9493ccd-0f7b-99ee-ec09-a046b8893f50/26187e05-8313-40e0-9f8b-c1558caf7bd7_screenshots_2208x12420014.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/27/9c/ff/279cff26-14e4-a77a-e316-2a44a896833b/95e7c5b8-6e36-4971-b952-799de509b935_screenshots_2208x12420015.jpg/406x228bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全笔记+ Pro]]></title>
+        <id>安全笔记+ Pro-1730210536980</id>
+        <link href="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291?uo=4"/>
+        <updated>2024-10-29T14:02:16.980Z</updated>
+        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/9d/64/659d646d-f675-8ede-e208-5b45bb23e06c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥28.00</span> → <b>
+  <strong>免费</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  介绍安全笔记+：保护您最私密的笔记
+
+您有没有遇到过这样的情况？您把手机借给别人，他们却像自己的一样翻阅您的信息。您是否讨厌这样的事情？如果您有一些不希望其他人访问的笔记，那么您需要安全笔记+。通过这款应用，您可以快速、轻松地设置密码保护您最私密或敏感的笔记，以便只有您自己能够找到它们。
+
+主要功能：
+
+• 使用触摸ID或面容ID支持的生物识别来解锁应用程序
+• 入侵者报告：当入侵者试图访问您的应用程序时，应用程序将捕捉其照片
+• 伪装密码以保护您的真实隐私
+• 对个别文件夹进行密码锁定
+• 提供更高安全性的点图案锁定样式
+• 密码锁定样式（组合锁、键盘锁）
+• 可选择的时尚主题，界面易于使用
+• 按文件夹创建和排序笔记
+• 支持移动、复制和粘贴
+• 支持全方位显示
+• 通过iTunes文件共享或iCloud将笔记从iPhone备份到电脑
+• 通过蓝牙/ Wi-Fi与安装了安全笔记+的两个iOS设备共享笔记
+• 自动保存笔记
+• 搜索您的笔记
+• 发送电子邮件笔记
+• 该应用程序适用于iPhone和iPad，您只需购买一次
+
+凭借三种时尚且易于使用的锁定设计，您可以根据自己的喜好自定义密码样式，而不会影响安全性。现在，您可以选择使用标准的组合锁样式、键盘样式或全新的点图案样式，以便轻松访问那些私人物品。为了增加安全性，为每个单独的文件夹设置独特的密码和锁定设计。
+
+立即下载安全笔记+，您可以确保只有您可以查看安全笔记+中的内容。
+
+访问我们的网站：
+网站：https://sixbytes.io
+推特：https://twitter.com/SixbytesApp
+Facebook：https://www.facebook.com/sixbytesapp
+
+请阅读我们的服务条款和隐私政策的更多信息：
+服务条款：https://sixbytes.io/assets/terms-of-service.pdf
+隐私政策：https://sixbytes.io/assets/privacy-policy.pdf
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

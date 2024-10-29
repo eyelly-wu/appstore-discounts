@@ -780,6 +780,21 @@
     "history": [
       [
         {
+          "timestamp": 1730210536980,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Reset Password": "¥8.00",
+            "iCloud Sync Yearly": "¥48.00",
+            "Cloud Backup Yearly": "¥58.00",
+            "iCloud Sync Lifetime": "¥228.00",
+            "iCloud Sync Monthly": "¥7.00",
+            "Cloud Backup Monthly": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1729260127173,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -1934,8 +1949,8 @@
       "卡基诺斯": "¥22.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00",
+      "price": 8,
+      "formattedPrice": "¥8.00",
       "波恩哈特": "¥48.00",
       "阿什比特": "¥48.00",
       "大型英雄包 2": "¥88.00",
@@ -1960,6 +1975,25 @@
       "卡基诺斯": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730210536980,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "波恩哈特": "¥48.00",
+            "阿什比特": "¥48.00",
+            "大型英雄包 2": "¥88.00",
+            "纽维斯": "¥8.00",
+            "沙塔尔": "¥22.00",
+            "但丁": "¥38.00",
+            "黑棘船长": "¥8.00",
+            "英雄包 1": "¥15.00",
+            "英雄包 3": "¥15.00",
+            "德得尔": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728482543032,
@@ -2989,6 +3023,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730210536980,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725631330475,
@@ -8243,6 +8285,17 @@
     "history": [
       [
         {
+          "timestamp": 1730210536980,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1730124148043,
           "price": 0,
           "formattedPrice": "免费",
@@ -9013,6 +9066,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730210536980,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1729346534387,

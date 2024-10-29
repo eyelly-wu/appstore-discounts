@@ -648,6 +648,21 @@
     "history": [
       [
         {
+          "timestamp": 1730210536980,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cloud Backup Monthly": "USD 1.49",
+            "Cloud Backup Yearly": "USD 8.99",
+            "iCloud Sync Lifetime": "USD 34.99",
+            "iCloud Sync Monthly": "USD 0.99",
+            "iCloud Sync Yearly": "USD 6.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1729260127173,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -1731,8 +1746,8 @@
       "崗牢": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99",
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
       "黑龍灰霸齒": "USD 6.99",
       "骷心巫龍": "USD 6.99",
       "英雄包 5": "USD 4.99",
@@ -1745,6 +1760,25 @@
       "崗牢": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730210536980,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "黑龍灰霸齒": "USD 6.99",
+            "骷心巫龍": "USD 6.99",
+            "英雄包 5": "USD 4.99",
+            "倪浮世": "USD 0.99",
+            "一箱寶石": "USD 9.99",
+            "帝娥翠": "USD 0.99",
+            "特別優惠大聖": "USD 2.99",
+            "但丁": "USD 4.99",
+            "庫紹": "USD 2.99",
+            "崗牢": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -2724,6 +2758,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730210536980,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725631330475,
@@ -6402,6 +6444,17 @@
     "history": [
       [
         {
+          "timestamp": 1730210536980,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Premium Features": "USD 3.99",
+            "Value for Value": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1730124148043,
           "price": 0,
           "formattedPrice": "免費",
@@ -7136,6 +7189,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730210536980,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1729346534387,
