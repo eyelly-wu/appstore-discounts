@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2024-10-29T05:05:06.967Z</updated>
+    <updated>2024-10-29T09:05:09.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,57 +18,49 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-10-29T05:05:06.968Z</updated>
+        <updated>2024-10-29T09:05:09.687Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goodnotes 6]]></title>
-        <id>Goodnotes 6-1730178136959</id>
-        <link href="https://apps.apple.com/us/app/goodnotes-6/id1444383602?uo=4"/>
-        <updated>2024-10-29T05:02:16.959Z</updated>
-        <summary type="html"><![CDATA[Marketplace Content: $8.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/e6/42/28e642b3-4bbe-0918-0428-9c0aeba4b013/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Marketplace Content：</strong><span>$8.99</span> → <b>
-  <strong>$1.99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Step into the future of note-taking with Goodnotes 6. With leading AI technology and advanced digital tools, Goodnotes is your go-to note-taking app for capturing ideas, organizing documents, sharing notes, and collaborating with others.
+        <title type="html"><![CDATA[CLRS.Helper]]></title>
+        <id>CLRS.Helper-1730192546597</id>
+        <link href="https://apps.apple.com/us/app/clrs-helper/id1564383045?uo=4"/>
+        <updated>2024-10-29T09:02:26.597Z</updated>
+        <summary type="html"><![CDATA[Price: $0.99 → $0.29]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/clrs-helper/id1564383045?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/a0/0c/50a00c8a-77a2-a74e-6af8-1524a8534a7d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$0.99</span> → <b>
+  <strong>$0.29</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Refer to The third edition of the book, covering content:
+    2. Getting Started: Insertion sort, Merge sort;
+    4. Divide-and-Conquer: Maximum-subarray, Matrix Multiplication[normal, recursive, Strassen’s algorithm];
+    6. Heapsort: Heapsort[max-heap, min-heap];
+    7. Quicksort: Quicksort;
+    8. Sorting in Linear Time: Counting sort;
+    12. Binary Search Trees: Binary search tree[Inorder Walk, Search Recursive, Search Iterative, Minimum Iterative, Maximum Iterative, Successor, Predecessor, Insert, Delete];
+    13. Red-Black Trees: Red Black Tree[Insert, Delete];
+    15. Dynamic Programming: Rod cutting[Recursive, Top_down, Bottom_up, Print],Longest common subsequence;
+    16. Greedy Algorithms: Acitivity selection[Recursive, Iterative],Huffman codes;
+    22. Elementary Graph: Breadth-first search, Depth-first search, Topological sort, Strongly connected components;
+    23. Minimum Spanning Trees: Minimum spanning tree[Kruskal’s algorithm，Prim’s algorithm];
+    24. Single-Source Shortest Paths: The Bellman-Ford algorithm，DAG algorithm，Dijkstra’s algorithm;
+    25. All-pairs Shortest Paths: All-pairs Shortest paths algorithms[Slow，Faster，The Floyd-Warshall algorithm];
+    26. Maximum Flow: The Ford-Fulkerson algorithm;
+    Addition: Tower of Hanoi，N Queens Problem，Comparison of sorting algorithms;
 
-Empowering Students to Excel
-◆ Use Ask Goodnotes to get answers to any questions about the information in your notes, generate practice quizzes, and more using AI 
-◆ Solve handwritten math problems anywhere in your notes with Math Assist, simply by tapping the equals sign
-◆ Convert your handwritten math equations to LaTeX format
-◆ Memorize vocabulary, or information from your handwritten notes with Study Sets
-◆ Fix grammar, paraphrase, change length or tone of your text with the the help of AI Typing
-◆ Work on the same document with your classmates in your next seminar or project
-◆ Record audio from your lectures in sync with your handwriting
-◆ Find previous notes in a blink with handwriting search
+The primary features:
+    You can run the pseudo-code single step or continuous, observe the change of parameters and data structures，it can help you to understand the design thought of the algorithm;
+    You can set breakpoints in program and ovserve the status of breakpoint, it can help you to understand why this algorithm is corrcet by using loop invariants;
+    With running-time function stacks and the returning positions，you can track the running process of recursive functions easily, and understand the operation mechanism of computer programs;
+    By recording the performed times of the pseudo-codes can help you to understand the running time of algorithms;
 
-Enhancing Planners’ Creativity
-◆ Customize the size, color, or cover of your notebooks and paper templates
-◆ Edit, resize, and align your handwriting just like typed text, and watch it reflow to fill the spaces
-◆ Improve your concentration and productivity with Smart Timer
-◆ Download cute stickers, stylish templates, useful paper templates, even educational material from the in-app Marketplace
-◆ Unlimited customizable folders for organizing your notes 
-◆ Bonus downloadable content in Marketplace for paid users every month
-◆ Pencil, tape, eyedropper, elements, lasso tool, crop images, layering, and many more useful features to help you create beautiful notes
-
-Boost Professionals’ Productivity
-◆ Project documents easily from your device and guide your audience with a built-in laser pointer
-◆ Import meeting notes, contracts, photos, presentations, or briefs for signature, annotation or collaboration
-◆ Export your notes to email, print, or share them anywhere as PDF or image
-◆ Add documents by directly sending it to your unique Goodnotes email
-◆ Secure the safety of your important documents with iCloud Sync, Google Drive, OneDrive, Dropbox, and WebDAV
-
-Privacy policy: https://www.goodnotes.com/privacy-policy
-Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
-</p>]]></content>
+I wish this app can be helpful to you;
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1a/26/06/1a26061e-0171-8f23-b5f8-9bc6e5765111/4432827c-b4fe-4aaf-b8c6-d6a6f0c1054e_phoneCh02MergeSort.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f2/c8/24/f2c82421-c3ac-bb1f-4b40-4129c464d042/a8d6dbb0-f282-4f37-9707-772c6860401f_phoneCh04MaximumSubarray.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/96/67/40/96674008-d90c-3192-eb88-b7eedd84c1f1/13c89fe8-0c90-4840-90a7-02adf8143c86_phoneCh06Heapsort.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1a/f9/98/1af998b4-d6d3-33c8-5f79-82dcf23d3aff/1fd0c096-75bf-4950-a838-886ff4d4573a_phoneCh08CountingSort.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/7e/6b/8b/7e6b8bd2-9baa-ccf6-8fe9-132a45cb64bd/15bfe5aa-ae30-476d-bc34-75798e52f922_phoneCh12BinarySearchTree.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f5/eb/5f/f5eb5f91-15ab-1d05-e157-346a6c83865f/9ad107f9-b01b-4114-a42e-f04ea7060a4e_phoneCh13RBTree.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/80/f2/5d/80f25db5-ace6-3fe5-489d-72324160c7b4/c9a2603c-ce29-4b1f-b535-f14adb396685_phoneCh15RodCutting.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ee/42/53/ee4253e9-b852-2be3-0b73-94e261348540/1f20d4e7-55ff-43db-a9f1-ff7fe979d373_phoneCh16ActivitySelection.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1f/b8/57/1fb857f5-4587-129c-f63a-f46e53711df5/240b0f0b-4c6c-48cf-93c9-ab172d900bda_phoneCh22BFS.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/69/fb/6a/69fb6ad1-d10d-bdaa-ffc7-865e03d2b5ac/6024eed4-8f47-4037-a5b2-f408a7195bbf_phoneCh22DFS.PNG/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a8/ac/11/a8ac11fd-0f81-cb75-f9c2-c9415f5bef39/c04685ec-476f-4d51-98f1-76598279c7d5_padCh02MergeSort.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/83/18/19/8318191d-42f4-ad8c-ecb6-a24b44b26742/ee6f52c6-8bd5-48cb-b203-b27d43b77fcd_padCh06Heapsort.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/cf/71/7b/cf717b61-693e-cf65-99cd-4d560606ffa7/3234a435-24c9-4cc8-ba68-e6aa4739a2c7_padCh22BFS.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9e/71/d4/9e71d41e-f314-a8e5-127c-51d18fff1285/3dff8f51-3ed2-4796-9774-4c4e7908cadc_padCh12BinarySearchTree.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/26/54/8a/26548abd-19e7-ed36-4931-23fe91808555/5f284a8a-ff5d-4d89-a00e-792b956f2aae_padCh13RBTree.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/78/cf/39/78cf390a-cae3-e843-5a0b-0b0c647b045e/619b7096-998c-467a-aab6-88851a0c6196_padCh22DFS.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/66/80/ec/6680ec6d-48b7-f818-7e50-aaccb35ed11c/f2ea2ea7-f800-4494-940b-1a579bb767c7_padCh15RodCutting.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ac/4d/99/ac4d998c-514a-444c-d457-c5f9f0092ea8/b3bc9ce0-6b52-42de-9c53-694f728c8235_padCh16ActivitySelection.PNG/552x414bb.png" />]]></content>
     </entry>
 </feed>
