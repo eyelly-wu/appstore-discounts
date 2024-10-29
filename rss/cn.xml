@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2024-10-28T14:05:32.437Z</updated>
+    <updated>2024-10-29T10:05:07.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,68 +18,49 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-10-28T14:05:32.438Z</updated>
+        <updated>2024-10-29T10:05:07.570Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1730124148043</id>
-        <link href="https://apps.apple.com/cn/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2024-10-28T14:02:28.043Z</updated>
-        <summary type="html"><![CDATA[价格: ¥48.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/6e/18/046e1884-3550-6e6f-2483-fef69701fecd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[算法导论.助手]]></title>
+        <id>算法导论.助手-1730196145645</id>
+        <link href="https://apps.apple.com/cn/app/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA-%E5%8A%A9%E6%89%8B/id1564383045?uo=4"/>
+        <updated>2024-10-29T10:02:25.645Z</updated>
+        <summary type="html"><![CDATA[价格: ¥6.00 → ¥1.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA-%E5%8A%A9%E6%89%8B/id1564383045?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/a0/0c/50a00c8a-77a2-a74e-6af8-1524a8534a7d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥48.00</span> → <b>
-  <strong>免费</strong>
+  优惠信息（价格：<span>¥6.00</span> → <b>
+  <strong>¥1.00</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  从手腕上监控你的iPhone电池电量。
+  参照原书第三版，内容包括：
+    第2章 算法入门：插入排序，归并排序；
+    第4章 分治法：最大子集问题，矩阵相乘算法[常规算法，分治法，Strassen算法]；
+    第6章 堆排序：堆排序[大根堆，小根堆]；
+    第7章 快速排序：快速排序；
+    第8章 线性时间排序：计数排序；
+    第12章 二叉搜索树：二叉搜索树[中序遍历，递归搜索，迭代搜索，迭代最小，迭代最大，后继，先驱，插入，删除]；
+    第13章 红黑树：红黑树[插入，删除]；
+    第15章 动态规划：切钢条问题[递归，自顶向下，自底向上，打印]，最长公共子序列；
+    第16章 贪心算法：活动选择问题[递归，迭代]，Huffman编码；
+    第22章 基本图算法：广度优先搜索，深度优先搜索，拓扑排序，强连通分量；
+    第23章 最小生成树：最小生成树[Kruskal算法，Prim算法];
+    第24章 单源最短路径：Bellman-Ford算法，有向无环图算法，Dijkstra算法；
+    第25章 每对顶点间的最短路径：最短路径算法[Slow算法，Faster算法，Floyd-Warshall算法]；
+    第26章 最大流：Ford-Fulkerson算法；
+    附加内容：Hanoi塔问题，N皇后问题，排序算法性能比较；
 
-Juice Watch 是一个简单的应用程序，旨在做好两件事：
+主要特点有：
+    可单步或连续运行伪码，观察参数和数据结构的变化，有助于理解算法的设计思想；
+    可设置程序断点，方便观察算法的断点状态，通过循环不变式验证其正确性；
+    提供运行时函数栈，并标记函数返回位置，可轻松跟踪递归函数的运行过程，并有助于理解计算机程序的运行机制；
+    记录代码行执行次数，有助于理解算法的时间复杂度；
 
-•在Apple Watch上显示配对iPhone的电池电量
-
-•当你的 Apple Watch 正在充电，电量超过 90 %（或者你选择的任何范围，从 50 %到 100 %）时，在你的iPhone 上发送通知提醒
-
-只需要看一眼你的手腕，就可以全天监控iPhone的电量情况。或者，当你的iPhone在另一个房间充电时，你可以密切关注它的电池电量。
-
-你可以同时看到iPhone和Apple Watch的电池电量。
-
-当配对的iPhone正在充电，并且电量至少达到 80 %（或者你选择的任何范围，从 50 %到 100 %）时，可以在你的 Apple Watch 上收到通知提醒。
-
-你可以设置电池低电量通知提醒，当你的Apple Watch或者iPhone电池电量不足时收到通知提醒。
-
-Juice Watch具有多种复杂功能，所以你可以在自己喜欢的表盘上使用它。
-
-你还可以使用这个应用程序从配对的iPhone上查看Apple Watch的电池电量。 当Apple Watch在其他地方充电时，可能会很起作用。
-
-请注意，Apple Watch上显示的iPhone电池电量并不是实时的。 它大约每5-60分钟定期刷新一次。 配对的iPhone上所显示的Apple Watch的电池电量则以大致相同的速率刷新。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a0/93/c4/a093c457-f9eb-7a0e-4ec8-e884294d9e35/85c225a8-7133-4dce-93da-d1421b26426e_5.5_inch_-_1_-_cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/31/15/70/31157006-4bcc-b282-6306-1fe9682d4c5c/b28e8371-2da8-403c-ae2b-f6cb92f4a34f_5.5_inch_-_2_-_cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f2/4b/4c/f24b4c89-3fcd-20c9-7948-6fd43fae3717/4738d87c-93b1-4532-8668-0d4f8f462601_5.5_inch_-_3_-_cn.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雨雷達-實時天氣圖。 亞洲和中國。°]]></title>
-        <id>雨雷達-實時天氣圖。 亞洲和中國。°-1730124148043</id>
-        <link href="https://apps.apple.com/cn/app/%E9%9B%A8%E9%9B%B7%E9%81%94-%E5%AF%A6%E6%99%82%E5%A4%A9%E6%B0%A3%E5%9C%96-%E4%BA%9E%E6%B4%B2%E5%92%8C%E4%B8%AD%E5%9C%8B/id488674899?uo=4"/>
-        <updated>2024-10-28T14:02:28.043Z</updated>
-        <summary type="html"><![CDATA[价格: ¥88.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%9B%A8%E9%9B%B7%E9%81%94-%E5%AF%A6%E6%99%82%E5%A4%A9%E6%B0%A3%E5%9C%96-%E4%BA%9E%E6%B4%B2%E5%92%8C%E4%B8%AD%E5%9C%8B/id488674899?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/a6/eb/44a6ebc2-0045-22bb-5c81-8cbfcc93bfb0/AppIcon-Full-0-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥88.00</span> → <b>
-  <strong>免费</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  天气雷达随处可见。
-使用Rain Radar快速查看动画雷达图像和当前状况。
-
-使用可缩放的雨水雷达功能跟踪倾盆大雨，天气前沿和暴风雨的运动。 “雨雷达”可预测全球任何位置，并显示实时天气状况以及新兴模式。
-
-有关天气的一切一目了然。 快速，简单，免费！
-天气预报应用程序，可以准确地描述当前的天气和新兴模式。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a3/3d/2a/a33d2a55-48a0-198c-5b98-6f1dd4cb2126/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/16/b2/96/16b296cb-a323-c26c-1c67-8d336eaade89/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/72/37/90/723790d9-642f-995f-5469-1e588dc81498/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0d/3f/2d/0d3f2de0-3a41-ebad-bb58-e53b811f4c3d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5c/1b/62/5c1b625d-5f1f-e349-1560-7c82a12cf0fe/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9d/59/61/9d596154-9d65-80c9-ab53-83ffd40e6ef8/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/df/13/66/df13660d-b292-b476-d9e2-e0b2e010d0ba/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/43/88/9c/43889c88-ab93-e998-d855-c08f4fb805db/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0d/72/7c/0d727cce-b561-e9d2-a7db-3a3de3baa490/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a3/c4/ea/a3c4ead7-014d-f4c2-af52-4e2eecd97377/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/3b/f1/c73bf143-8967-2204-b939-40b74f669980/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/17/0f/e4/170fe4c4-a239-274a-d507-99efff510706/pr_source.png/552x414bb.png" />]]></content>
+希望此App能对您学习算法和数据结构有所帮助；
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1a/26/06/1a26061e-0171-8f23-b5f8-9bc6e5765111/4432827c-b4fe-4aaf-b8c6-d6a6f0c1054e_phoneCh02MergeSort.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f2/c8/24/f2c82421-c3ac-bb1f-4b40-4129c464d042/a8d6dbb0-f282-4f37-9707-772c6860401f_phoneCh04MaximumSubarray.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/96/67/40/96674008-d90c-3192-eb88-b7eedd84c1f1/13c89fe8-0c90-4840-90a7-02adf8143c86_phoneCh06Heapsort.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1a/f9/98/1af998b4-d6d3-33c8-5f79-82dcf23d3aff/1fd0c096-75bf-4950-a838-886ff4d4573a_phoneCh08CountingSort.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/7e/6b/8b/7e6b8bd2-9baa-ccf6-8fe9-132a45cb64bd/15bfe5aa-ae30-476d-bc34-75798e52f922_phoneCh12BinarySearchTree.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f5/eb/5f/f5eb5f91-15ab-1d05-e157-346a6c83865f/9ad107f9-b01b-4114-a42e-f04ea7060a4e_phoneCh13RBTree.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/80/f2/5d/80f25db5-ace6-3fe5-489d-72324160c7b4/c9a2603c-ce29-4b1f-b535-f14adb396685_phoneCh15RodCutting.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ee/42/53/ee4253e9-b852-2be3-0b73-94e261348540/1f20d4e7-55ff-43db-a9f1-ff7fe979d373_phoneCh16ActivitySelection.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1f/b8/57/1fb857f5-4587-129c-f63a-f46e53711df5/240b0f0b-4c6c-48cf-93c9-ab172d900bda_phoneCh22BFS.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/69/fb/6a/69fb6ad1-d10d-bdaa-ffc7-865e03d2b5ac/6024eed4-8f47-4037-a5b2-f408a7195bbf_phoneCh22DFS.PNG/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a8/ac/11/a8ac11fd-0f81-cb75-f9c2-c9415f5bef39/c04685ec-476f-4d51-98f1-76598279c7d5_padCh02MergeSort.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/83/18/19/8318191d-42f4-ad8c-ecb6-a24b44b26742/ee6f52c6-8bd5-48cb-b203-b27d43b77fcd_padCh06Heapsort.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/cf/71/7b/cf717b61-693e-cf65-99cd-4d560606ffa7/3234a435-24c9-4cc8-ba68-e6aa4739a2c7_padCh22BFS.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9e/71/d4/9e71d41e-f314-a8e5-127c-51d18fff1285/3dff8f51-3ed2-4796-9774-4c4e7908cadc_padCh12BinarySearchTree.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/26/54/8a/26548abd-19e7-ed36-4931-23fe91808555/5f284a8a-ff5d-4d89-a00e-792b956f2aae_padCh13RBTree.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/78/cf/39/78cf390a-cae3-e843-5a0b-0b0c647b045e/619b7096-998c-467a-aab6-88851a0c6196_padCh22DFS.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/66/80/ec/6680ec6d-48b7-f818-7e50-aaccb35ed11c/f2ea2ea7-f800-4494-940b-1a579bb767c7_padCh15RodCutting.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ac/4d/99/ac4d998c-514a-444c-d457-c5f9f0092ea8/b3bc9ce0-6b52-42de-9c53-694f728c8235_padCh16ActivitySelection.PNG/552x414bb.png" />]]></content>
     </entry>
 </feed>
