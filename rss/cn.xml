@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2024-10-30T14:05:06.851Z</updated>
+    <updated>2024-10-30T16:05:06.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,135 +18,68 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-10-30T14:05:06.852Z</updated>
+        <updated>2024-10-30T16:05:06.701Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AirDisk Pro]]></title>
-        <id>AirDisk Pro-1730296934686</id>
-        <link href="https://apps.apple.com/cn/app/airdisk-pro/id505904421?uo=4"/>
-        <updated>2024-10-30T14:02:14.686Z</updated>
-        <summary type="html"><![CDATA[价格: ¥22.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/airdisk-pro/id505904421?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/d8/f7/43d8f72a-d9cb-24ac-6740-8e0eb55b48e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
+        <id>Card.Note - 多彩卡片笔记-1730304142835</id>
+        <link href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
+        <updated>2024-10-30T16:02:22.835Z</updated>
+        <summary type="html"><![CDATA[价格: ¥3.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bd/ea/39/bdea39a5-04ae-3694-52b7-e7564c9e9ed5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥22.00</span> → <b>
+  优惠信息（价格：<span>¥3.00</span> → <b>
   <strong>免费</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  介绍AirDisk Pro，一款可让您在iPhone、iPad或iPod touch上存储、查看和管理文件的终极解决方案。您可以通过Wi-Fi网络从任何Mac或PC连接到AirDisk Pro，并通过从Finder或Windows资源管理器中直接拖放文件进行传输。
+  「Card.Note」：每个念头都值得用心记录
 
-AirDisk Pro具备强大的文档查看器、PDF阅读器、音乐播放器、图片查看器、录音机、文本编辑器、文件管理器，并支持大多数文件操作，如删除、移动、复制、电子邮件、共享、压缩、解压等。
+这是一款以卡片为主要设计理念的极简记事 App 。
+你写的每一段文字都可以生成一张张精美的卡片 。
 
+你可以用它来写诗、短文、随想； 
+也可以用它来写日记、清单、规划、要事提醒；
+还可以直接用语音输入来记录每个瞬间的念头。
 
-主要功能：
+「Card.Note」九大特点：
 
-1. 支持云存储：
-支持iCloud Drive、Google Drive、Dropbox和OneDrive存储账户的多重链接，方便快捷。
+1.极简设计
+循着极简的设计理念，结合图标及手势操作，轻松上手。
 
-2. 文档阅读器：
-轻松访问和查看MS Office、iWork、文本和HTML格式的文件。
+2.全局卡片化
+充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
 
-3. 多媒体播放器：
-创建您自己的音频播放列表，支持重复、随机播放、后台播放，并可通过多任务进行远程控制。
+3.全局手势化
+下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
 
-4. HTTP/FTP密码保护：
-通过设置密码保护，确保PC/Mac之间的文件传输安全。
+4.语音录入
+打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
 
-5. 文件操作：
-移动、复制、重命名、删除、压缩、解压、解压RAR、创建文件和文件夹等高效管理文件。
+5.要事提醒：
+可设置提醒闹种，重要事情和计划不再错失。
 
-6. 文件共享：
-通过蓝牙或Wi-Fi与其他iPhone/iPad设备共享文件，并自动搜索附近可用设备。
+6.快捷高效
+支持3D-Touch及Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
 
-7. 简便的文件上传：
-通过PC/Mac的Web浏览器拖放文件上传，或通过iTunes文件共享使用USB上传。
+7.文青定制
+精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
 
-8. 导入/文件创建：
-创建文本文件、捕捉图像、录制视频、进行语音记录，并从照片库导入图片。
+8.iCloud云同步
+支持iCloud云同步，多台设备间数据可任意同步。
 
-9. 密码锁定：
-通过设置密码锁定，保护您的文件免受他人查看。支持使用TouchID进行指纹解锁。
+9.深色模式
+全局适配深色模式，视觉舒适不刺眼。
 
-10. 通用性：
-此应用程序适用于iPhone和iPad，您只需购买一次即可享受无缝体验。
+感谢下载，生活愉快。
 
-
-音频播放器功能：
-
-• 在应用内创建音频播放列表
-• 将文件夹中的所有MP3文件作为播放列表播放
-• 重复和随机播放歌曲
-• 支持后台音频播放
-• 支持多任务下的音频远程控制
-
-
-支持的文件格式：
-
-• 音频：WAV，MP3，M4A，CAF，AIF，AIFF，AAC
-• 图片：JPG，PNG，GIF，BMP，TIF，TIFF，ICO
-• 电影：MP4，MOV，MPV，M4V
-• iWorks：Pages，Numbers，Keynote
-• Microsoft Office：Word，Excel，PowerPoint
-• RTF（富文本格式）
-• RTFD（带有嵌入图像的文本编辑器）
-• PDF文档
-• 纯文本
-• 源代码
-• HTML网页
-• 网页存档
-
-欲了解更多信息，请访问我们的网站：http://www.app2pro.com
-
-有关我们的服务条款和隐私政策的详细信息，请阅读：
-• 服务条款：https://app2pro.com/policy/terms-of-service.pdf
-• 隐私政策：https://app2pro.com/policy/privacy-policy.pdf
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/cc/d4/e3ccd410-2ce1-b402-e060-de9ed2621658/65c20ff4-30dc-4a85-a867-89a1ac92009e_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/73/61/32736100-7768-3959-71c9-4d9784032898/3debb509-006d-4873-9993-67989c41cad0_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/1c/9c/b21c9c87-82bd-9f6a-2c92-0b1c088709f5/453195dd-a27e-4133-9417-4985b3269809_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3f/61/a0/3f61a028-c052-3247-9a4a-8331dbba4857/977d466b-f715-4c42-8e7e-c7d70eac5d8d_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/0c/de/710cdedc-eff7-ce11-09b2-d658ad83f903/402aae6b-f111-4a0d-a181-b1dc70d1ea79_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/44/f0/86/44f086d0-087f-2b38-237d-689feac1bcde/a5d3e1ad-b597-439d-afd9-06777d1a519d_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/df/39/9f/df399f9b-21c8-eea0-7578-2e6b3761e0d5/4213a807-ef6e-42f3-bed7-dbd6bda59f1a_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/a0/82/94a082e5-5c84-b0d6-716b-20dc3596016d/9d37e167-60e5-4b98-9fa0-328d5ca4031b_8.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/51/f1/4b/51f14ba7-b79b-8e01-3706-40dc170a7e8b/72507563-c5bc-4a31-ae52-203dfba97932_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/af/c2/8aafc244-8d42-7972-76b7-244e2d988801/88ea291a-9833-4dd1-a71b-4b2ece4f63b7_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/26/29/3a26294f-9a0b-816d-98ad-4c0deac3e155/b4fbdb19-41eb-4c7f-a569-f79f823e42c2_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/b3/a3/bdb3a31b-5410-ea76-68e6-ea8ae25d21a7/c13326b6-c48b-4ade-811f-55ad27a79064_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/13/4d/80134d49-bca8-0d7e-5733-c27c982b9b7c/dedea4cd-e167-4c5d-aff8-df9bad0df486_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/e8/19/74e819bd-0c3e-fcd6-b371-cb22d5caaa55/d2f8cbbe-7616-49d2-8786-8ff1dc969e59_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/21/de/8c21de2b-e792-0e8c-beb7-798521c773d3/8a51f1a0-6032-4310-88bf-3092ca702599_7.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜]]></title>
-        <id>Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜-1730296934686</id>
-        <link href="https://apps.apple.com/cn/app/goodak-%E5%A4%8D%E5%8F%A4%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA-%E6%8B%8D%E7%AB%8B%E5%BE%97%E6%97%85%E8%A1%8C%E6%91%84%E5%BD%B1-%E6%8B%8D%E7%85%A7%E6%B0%B4%E5%8D%B0%E6%BB%A4%E9%95%9C/id1309638846?uo=4"/>
-        <updated>2024-10-30T14:02:14.686Z</updated>
-        <summary type="html"><![CDATA[价格: ¥22.00 → ¥15.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/goodak-%E5%A4%8D%E5%8F%A4%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA-%E6%8B%8D%E7%AB%8B%E5%BE%97%E6%97%85%E8%A1%8C%E6%91%84%E5%BD%B1-%E6%8B%8D%E7%85%A7%E6%B0%B4%E5%8D%B0%E6%BB%A4%E9%95%9C/id1309638846?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/12/e2/6e12e20d-cbb9-c638-e2e0-9c298420bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥22.00</span> → <b>
-  <strong>¥15.00</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  世界的美好很多，只是容易擦肩而过。
-有些事物之所以美好，是因为只出现在我们的回忆里。
-现在您可以使用 Goodak 拍立得胶片相机来重温旧梦。
-让您的每一张照片独一无二，充满韵味与感动。
-
-—
-尽情体验，层次满点的胶卷相机
-
-+ 拍立得胶片相机，重温旧梦
-+ 无需久候，即拍即冲免等待
-+ 尽情拍摄，无底片数量限制
-+ 相册模式，可翻拍手机照片
-+ 自定义日期格式，重温旧梦
-+ 取景器缩放切换，大小皆宜
-+ 拍立得相纸模式，文青最爱
-+ 多款相机，多样底片与水印
-+ 黑白摄影底片机，层次满点
-+ 自动保存模式，存档免烦恼
-+ 随机底片，独一无二的美感
-
-—
-错过也好，留下也罢，都是我们生命中最美的风景
-疲倦的生活里，总要有些温柔的梦想
-世界太复杂，我们用简单的方式纪录它
-
-Goodak 复古胶片相机 - 极简复古滤镜，摄影拍立得
-感谢您的使用！我们正在开发新功能，并不断努力改善您的体验！
-联系我们：https://goodak.weebly.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/a0/86/aba08624-6a06-39cf-a241-25f6d0e4f3ab/mzl.hmqjeztb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/72/7d/e1727d7b-2dc6-1d43-51b9-28de209d15cd/mzl.uaudkfnw.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/da/0f/0c/da0f0cb6-9071-5e7c-1a1f-4ae42bdd1c11/mzl.tnvgrvvz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/da/5c/89da5c30-8802-df12-d633-1837ba29813f/mzl.zflmcguf.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/77/c5/af77c577-7e9f-ee4f-74a1-f62d119a8f8b/mzl.wrrlcrce.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/1e/d4/221ed4bb-75f6-202c-cb8c-9dcdf0e1c2fc/mzl.grotjgtl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/55/ce/f5/55cef5d2-3354-b366-f691-80c40df804d4/mzl.iwvgubsv.png/392x696bb.png" />]]></content>
+如有问题或建议，请联系开发者
+微博：PoPoem开发者
+邮箱：yande18@126.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

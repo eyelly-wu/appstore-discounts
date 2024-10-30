@@ -3461,6 +3461,25 @@
     "history": [
       [
         {
+          "timestamp": 1730304142835,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "连续包月 SVIP": "¥9.00",
+            "SVIP 连续包月": "¥9.00",
+            "年度 SVIP": "¥90.00",
+            "SVIP 连续包年": "¥90.00",
+            "雨季特惠 100 天 SVIP": "¥19.90",
+            "季度SVIP": "¥18.80",
+            "1年SVIP": "¥88.00",
+            "连续包年 SVIP": "¥90.00",
+            "SVIP特惠 (买一年送半年)": "¥88.00",
+            "SVIP特惠 (买两年送一年)": "¥168.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1730293636215,
           "price": 98,
           "formattedPrice": "¥98.00",
@@ -6150,6 +6169,16 @@
       "Card.Note Premiun": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730304142835,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Card.Note Premiun": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730098942075,
