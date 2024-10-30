@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2024-10-30T09:05:14.039Z</updated>
+    <updated>2024-10-30T15:05:06.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,57 +18,68 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-10-30T09:05:14.039Z</updated>
+        <updated>2024-10-30T15:05:06.593Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote, Mouse & Keyboard Pro]]></title>
-        <id>Remote, Mouse &amp; Keyboard Pro-1730278957967</id>
-        <link href="https://apps.apple.com/us/app/remote-mouse-keyboard-pro/id884153085?uo=4"/>
-        <updated>2024-10-30T09:02:37.967Z</updated>
-        <summary type="html"><![CDATA[Price: $10.00 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/remote-mouse-keyboard-pro/id884153085?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/2d/16/742d16d9-edff-a52d-3367-1fdef5a7be1a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
+        <id>Card.Note - 多彩卡片笔记-1730300542646</id>
+        <link href="https://apps.apple.com/us/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
+        <updated>2024-10-30T15:02:22.646Z</updated>
+        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bd/ea/39/bdea39a5-04ae-3694-52b7-e7564c9e9ed5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>$10.00</span> → <b>
+  Discount Information（Price：<span>$0.99</span> → <b>
   <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  App offers remote control for Mac or PC, with a mouse, keyboard, and media controls. Great if you connect your computer to the TV or projector, to control from a sofa or bed.
+  「Card.Note」：每个念头都值得用心记录
 
-In 2013, I created this app to control my Mac Mini connected to a big-screen TV in my living room. In 2016 I quit my job and became an indie developer, and now my sole focus is on building my apps. The app has been downloaded more than 2,000,000 times over the years and has favorable reviews.
+这是一款以卡片为主要设计理念的极简记事 App 。
+你写的每一段文字都可以生成一张张精美的卡片 。
 
-MAIN FEATURES
-· Remote Mouse and Keyboard
-· Media Controls for popular apps and websites
-· Live view of your computer screen
-· System Commands: shut down, restart, sleep, etc.
-· Launch and Quit apps
-· Use Siri to control your computer
-· Control Sound Output / Screen Mirroring [Mac only]
+你可以用它来写诗、短文、随想； 
+也可以用它来写日记、清单、规划、要事提醒；
+还可以直接用语音输入来记录每个瞬间的念头。
 
-ADVANCED FEATURES
-· Create Control Panels
-· Add Custom Actions using AppleScript / PowerShell
+「Card.Note」九大特点：
 
-QUICK AND EASY SETUP
-· Install the free helper app from https://cherpake.com/get
-· Connect both devices to the same network
+1.极简设计
+循着极简的设计理念，结合图标及手势操作，轻松上手。
 
-SECURITY
-The app uses standard security measures like HTTPS to communicate and only works on your local network. Whenever an unknown device tries to establish a connection with your computer,  the app presents a dialog for you to choose to allow or deny it.
+2.全局卡片化
+充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
 
-REQUIREMENTS
-· Mac with macOS 10.10 or newer
-· PC with Windows 7 SP1 or newer
-· Latest helper app (available at https://cherpake.com/get)
-· Shared network connection (WiFi or Personal Hotspot), see https://cherpake.com/connect
+3.全局手势化
+下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
 
-FREE TRIAL
-This app is a hidden gem that most people don't know they need. Those are not my words, just one of the latest app reviews. Still not convinced, download and install the free app and use the free trial to see it yourself. Available at https://bit.ly/mpcrc
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/c2/08/4dc208c0-5c98-7201-e094-2857c05e26ea/ffc71580-69fe-46f8-9676-a378e08ce5fb_iPhone_8_Plus-00Media_ebcc802e-3f02-473e-ada6-a9648694a87f_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/f9/b9/d9f9b960-22fb-2a9c-c703-a7c2fe00a78a/ee81169d-f7a9-4c60-9ae6-8258fed0114e_iPhone_8_Plus-01Mouse_2699b07a-8fa2-4859-a3aa-880a963d7181_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/2f/66/e92f6680-4ad7-2ae5-218d-6e4e4280fcc5/ebac8ac4-56e9-41e6-946d-eed1e3b0d5ca_iPhone_8_Plus-02Keyboard_36f3f312-b4ae-4d2d-978f-17aa5ad09849_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/32/9b/7b329b2a-856c-47dd-59dc-b17ae9d8ad15/ebac38fd-550e-4fb3-bf97-6cc42b09b1f6_iPhone_8_Plus-05System_2e4df088-3fc0-4a16-84dc-87aad131872b_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/60/ee/a060ee13-64a3-5cd5-f298-8efefaca3466/2938373a-ffed-4826-8956-bf1c23d78724_iPhone_8_Plus-06Apps_3f14a0dc-5e64-4409-b7c9-7e0868eeddb2_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/e5/18/e3e51895-7aec-8c1a-4d28-fb58db98e537/a8643c8c-df98-4fbd-b3f4-4a116dd15dae_iPhone_8_Plus-07Airplay_56afc922-995e-498c-89b7-861ca0510cd4_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/6e/c1/fe6ec12a-a819-d5c5-3184-f334b3bd1f2a/9c0975ce-2b82-49a7-83e6-6de84b9bcbe1_iPhone_8_Plus-08Siri_9b385e5d-d95d-4a19-be29-ea73a66fabdc_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/58/94/4b5894ad-bd88-b859-0046-2968a8717a86/a0d97a00-a9de-45b7-be2a-72510906f2ea_iPhone_8_Plus-09Create_05699385-6b45-4c7d-a543-4db525c4be42_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/dc/93/69dc93f9-4ae4-49a5-a0b5-2d07eeffd717/0ae07539-1499-4e61-bea2-253d1f41b092_iPhone_8_Plus-10Custom_f0640b36-2968-4aa2-81a8-6b9bb73572ba_framed.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/08/31/21083158-db67-70fb-70e5-a2583cde93d0/ed2d6ddd-0416-48ac-939e-73f67a4f2a97_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-00Media_332cd052-281b-4c71-95ae-93d1df36e607_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/13/11/36131116-e701-afd9-6c4b-19e096f0919b/13e6f3ed-d636-41a6-affa-38a81bd2950b_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-01Mouse_19526ccc-1e31-4245-8c4f-7891bf63efc0_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/e0/e5/dfe0e5f1-d80c-4e39-a312-a02d23a13d7b/324df977-5118-4164-8727-c01a2d202bbe_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-02Keyboard_4eb5ef5e-be73-43c3-9e38-85b87399da32_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/9a/47/919a4733-8a63-10a6-b8ad-f15b7d9fbc0c/13e6a82a-b12c-42ff-b34f-96098df542c3_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-04Store_c1167314-5466-45ef-82f4-9c325d47262c_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/f9/4f/3ef94f47-ae94-84cb-b0b3-ea301d98e484/8b3c6ca4-7607-43d8-aeab-af981424d852_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-05System_3da65287-87f8-457f-8eee-d3965206c3ac_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/ba/fd/e3bafd2d-718f-3a40-da58-b35d86ebb367/522185ff-fea6-4f62-b3e6-f07d5ad65791_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-06Apps_17d4b020-f034-4d8b-ab38-81f63ebe22de_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/d1/75/61d1758d-202a-0a3b-d459-0143ae16f93b/aa298c5d-4ac2-4501-ad12-d55fc4c0550f_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-07Airplay_04f1bf04-1628-4fc8-b2f2-ee84e74d7381_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/b1/f6/c0b1f6fb-ec6f-3c6e-6067-9a54366b73ee/7d2b8d23-14c1-4859-a42e-70b609231e64_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-08Siri_85b0ef2a-e9f2-4ba5-928a-a360cc7809dc_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/f3/98/8cf398e3-1359-c1cb-aa84-87d93587ab15/e693d416-45b1-4371-ada6-7f1e1a93f8d4_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-09Create_d6f24679-e2e9-4b9f-92f7-01cde214c445_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/13/fe/5813fef1-6f56-786e-8ec3-26da785328f5/23467551-f0d7-42a5-b7d7-be20619c473a_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-10Custom_ce6d4eb9-637b-4f15-850c-96582a6ad266_framed.jpg/576x768bb.jpg" />]]></content>
+4.语音录入
+打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
+
+5.要事提醒：
+可设置提醒闹种，重要事情和计划不再错失。
+
+6.快捷高效
+支持3D-Touch及Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
+
+7.文青定制
+精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
+
+8.iCloud云同步
+支持iCloud云同步，多台设备间数据可任意同步。
+
+9.深色模式
+全局适配深色模式，视觉舒适不刺眼。
+
+感谢下载，生活愉快。
+
+如有问题或建议，请联系开发者
+微博：PoPoem开发者
+邮箱：yande18@126.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
