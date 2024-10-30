@@ -2438,10 +2438,18 @@
       "formattedPrice": "USD 10.00"
     },
     "minPriceInfo": {
-      "price": 10,
-      "formattedPrice": "USD 10.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730278957967,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -4209,7 +4217,17 @@
       "CHUNITHM CLASS MUSE": "USD 3.99",
       "肥宅快樂包 Vol.19": "USD 3.99",
       "暮色鬥士傳奇": "USD 3.99",
-      "Rin·Len's Mirrorland": "USD 5.99"
+      "Rin·Len's Mirrorland": "USD 5.99",
+      "東方暮樂團 -肆-": "USD 3.99",
+      "東方暮樂團  組合包100": "USD 15.99",
+      "東方暮樂團  組合包88": "USD 12.99",
+      "東方暮樂團  組合包78": "USD 11.99",
+      "東方暮樂團  組合包75": "USD 11.99",
+      "東方暮樂團組合包60": "USD 8.99",
+      "東方暮樂團組合包50": "USD 7.99",
+      "東方暮樂團組合包40": "USD 5.99",
+      "東方暮樂團  組合包0": "USD 15.99",
+      "MD Plus Project": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4230,9 +4248,38 @@
       "CHUNITHM CLASS MUSE": "USD 3.99",
       "肥宅快樂包 Vol.19": "USD 3.99",
       "暮色鬥士傳奇": "USD 3.99",
-      "Rin·Len's Mirrorland": "USD 5.99"
+      "Rin·Len's Mirrorland": "USD 5.99",
+      "東方暮樂團 -肆-": "USD 3.99",
+      "東方暮樂團  組合包100": "USD 15.99",
+      "東方暮樂團  組合包88": "USD 12.99",
+      "東方暮樂團  組合包78": "USD 11.99",
+      "東方暮樂團  組合包75": "USD 11.99",
+      "東方暮樂團組合包60": "USD 8.99",
+      "東方暮樂團組合包50": "USD 7.99",
+      "東方暮樂團組合包40": "USD 5.99",
+      "東方暮樂團  組合包0": "USD 15.99",
+      "MD Plus Project": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730278957967,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "東方暮樂團 -肆-": "USD 3.99",
+            "東方暮樂團  組合包100": "USD 15.99",
+            "東方暮樂團  組合包88": "USD 12.99",
+            "東方暮樂團  組合包78": "USD 11.99",
+            "東方暮樂團  組合包75": "USD 11.99",
+            "東方暮樂團組合包60": "USD 8.99",
+            "東方暮樂團組合包50": "USD 7.99",
+            "東方暮樂團組合包40": "USD 5.99",
+            "東方暮樂團  組合包0": "USD 15.99",
+            "MD Plus Project": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728136934425,
