@@ -1,4 +1,4 @@
-export const regions: Region[] = ['cn', 'hk', 'mo', 'tw', 'us']
+export const regions: Region[] = ['cn', 'hk', 'mo', 'tw', 'us', 'tr']
 
 /**
  * 注意：这里默认写的是中文，做了多语言支持，以中文为key
@@ -9,6 +9,7 @@ export const getRegionNameMap = () => ({
   mo: t('中国澳门'),
   tw: t('中国台湾'),
   us: t('美国'),
+  tr: t('土耳其'),
 })
 
 /**
@@ -21,6 +22,7 @@ export const regionInAppPurchasesTextMap: Record<Region, string> = {
   mo: 'App 內購買項目',
   tw: 'App 內購買',
   us: 'In-App Purchases',
+  tr: `Uygulama İçi Satın Alımlar`,
 }
 
 /**
@@ -32,6 +34,7 @@ export const regionLanguageCodeMap: Record<Region, string> = {
   mo: 'zh-CN',
   tw: 'zh-CN',
   us: 'en',
+  tr: 'en',
 }
 
 /**
@@ -44,6 +47,7 @@ export const regionTimezoneMap: Record<Region, string> = {
   mo: 'Asia/Macau',
   tw: 'Asia/Taipei',
   us: 'America/New_York',
+  tr: 'Europe/Istanbul',
 }
 
 /**
