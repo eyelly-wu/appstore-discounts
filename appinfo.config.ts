@@ -22,7 +22,7 @@ export const regionInAppPurchasesTextMap: Record<Region, string> = {
   mo: 'App 內購買項目',
   tw: 'App 內購買',
   us: 'In-App Purchases',
-  tr: `Uygulama İçi Satın Alımlar`,
+  tr: `In-App Purchases`,
 }
 
 /**
