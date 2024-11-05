@@ -283,14 +283,22 @@
   "488674899": {
     "name": "RAIN RADAR ° live weather maps",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free"
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730765284493,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2086,8 +2094,8 @@
   "1389752090": {
     "name": "Dead Cells",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99",
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
       "The Bad Seed": "₺149,99",
       "Fatal Falls": "₺149,99",
       "QUEEN AND THE SEA  DLC": "₺149,99",
@@ -2102,6 +2110,19 @@
       "Return to Castlevania": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730765284493,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "The Bad Seed": "₺149,99",
+            "Fatal Falls": "₺149,99",
+            "QUEEN AND THE SEA  DLC": "₺149,99",
+            "Return to Castlevania": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3490,14 +3511,22 @@
   "1620883955": {
     "name": "Little Nightmares",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730765284493,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
