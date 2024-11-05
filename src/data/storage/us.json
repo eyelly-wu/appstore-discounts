@@ -11473,6 +11473,18 @@
     "history": [
       [
         {
+          "timestamp": 1730797336575,
+          "price": 39.99,
+          "formattedPrice": "$39.99",
+          "inAppPurchases": {
+            "DLC pack": "$19.99",
+            "All Access Voucher": "$4.99",
+            "Street Wolf Outfit": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1727946143974,
           "price": 15.99,
           "formattedPrice": "$15.99",
@@ -12184,6 +12196,19 @@
     "history": [
       [
         {
+          "timestamp": 1730797336575,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$39.99",
+            "All Access Voucher": "$4.99",
+            "DLC pack": "$19.99",
+            "Street Wolf Outfit": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1727946143974,
           "price": 0,
           "formattedPrice": "Free",
@@ -12266,6 +12291,25 @@
       "Weapon Upgrade Ticket x1 (C)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730797336575,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Attaché Case: 'Classic'": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730466362338,

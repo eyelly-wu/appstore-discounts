@@ -3775,11 +3775,11 @@
   "1640627334": {
     "name": "Resident Evil Village for Mac",
     "maxPriceInfo": {
-      "price": 329.99,
-      "formattedPrice": "₺329,99",
-      "DLC pack": "₺209,00",
-      "All Access Voucher": "₺39,99",
-      "Street Wolf Outfit": "₺45,99"
+      "price": 1399,
+      "formattedPrice": "₺1.399,00",
+      "DLC pack": "₺419,00",
+      "All Access Voucher": "₺99,99",
+      "Street Wolf Outfit": "₺60,99"
     },
     "minPriceInfo": {
       "price": 329.99,
@@ -3789,6 +3789,18 @@
       "Street Wolf Outfit": "₺45,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730797336575,
+          "price": 1399,
+          "formattedPrice": "₺1.399,00",
+          "inAppPurchases": {
+            "DLC pack": "₺419,00",
+            "All Access Voucher": "₺99,99",
+            "Street Wolf Outfit": "₺60,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4588,19 +4600,32 @@
       "price": 0,
       "formattedPrice": "Free",
       "Base Game": "₺329,99",
-      "DLC pack": "₺209,00",
-      "All Access Voucher": "₺39,99",
-      "Street Wolf Outfit": "₺45,99"
+      "DLC pack": "₺419,00",
+      "All Access Voucher": "₺99,99",
+      "Street Wolf Outfit": "₺60,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Base Game": "₺329,99",
+      "Base Game": "₺1.399,00",
       "DLC pack": "₺209,00",
       "All Access Voucher": "₺39,99",
       "Street Wolf Outfit": "₺45,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730797336575,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺1.399,00",
+            "DLC pack": "₺419,00",
+            "All Access Voucher": "₺99,99",
+            "Street Wolf Outfit": "₺60,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4623,11 +4648,11 @@
       "formattedPrice": "Free",
       "Base Game": "₺539,00",
       "Separate Ways": "₺179,00",
-      "Extra DLC Pack": "₺269,00",
-      "Weapon Upgrade Ticket x3 (A)": "₺93,99",
-      "Weapon Upgrade Ticket x5 (A)": "₺134,99",
+      "Extra DLC Pack": "₺359,00",
+      "Weapon Upgrade Ticket x3 (A)": "₺125,00",
+      "Weapon Upgrade Ticket x5 (A)": "₺179,00",
       "Attaché Case: 'Gold'": "₺17,99",
-      "Weapon Upgrade Ticket x1 (A)": "₺41,99",
+      "Weapon Upgrade Ticket x1 (A)": "₺54,99",
       "Charm: 'Handgun Ammo'": "₺17,99",
       "Charm: 'Green Herb'": "₺17,99",
       "Attaché Case: 'Classic'": "₺17,99"
@@ -4635,7 +4660,7 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Base Game": "₺539,00",
+      "Base Game": "₺1.249,99",
       "Separate Ways": "₺179,00",
       "Extra DLC Pack": "₺269,00",
       "Weapon Upgrade Ticket x3 (A)": "₺93,99",
@@ -4647,6 +4672,25 @@
       "Attaché Case: 'Classic'": "₺17,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730797336575,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺1.249,99",
+            "Separate Ways": "₺179,00",
+            "Extra DLC Pack": "₺359,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺125,00",
+            "Weapon Upgrade Ticket x5 (A)": "₺179,00",
+            "Attaché Case: 'Gold'": "₺17,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺54,99",
+            "Charm: 'Handgun Ammo'": "₺17,99",
+            "Charm: 'Green Herb'": "₺17,99",
+            "Attaché Case: 'Classic'": "₺17,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
