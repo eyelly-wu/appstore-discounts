@@ -431,6 +431,25 @@
     "history": [
       [
         {
+          "timestamp": 1730856550998,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "10 GB monthly": "$2.99",
+            "10 GB yearly": "$29.99",
+            "1 TB monthly": "$47.99",
+            "200 GB monthly": "$9.99",
+            "1 TB yearly": "$479.99",
+            "200 GB yearly": "$99.99",
+            "100 GB monthly": "$5.99",
+            "100 GB yearly": "$59.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Yearly": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1730085028474,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -5131,6 +5150,24 @@
       "Touhou Mugakudan -Ⅱ-": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730856550998,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Valentine Stage": "$3.99",
+            "Endless Pirouette": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730779356168,
