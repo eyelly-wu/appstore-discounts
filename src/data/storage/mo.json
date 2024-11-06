@@ -964,6 +964,14 @@
     "history": [
       [
         {
+          "timestamp": 1730905336898,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730808210894,
           "price": 0,
           "formattedPrice": "免費",
@@ -10586,9 +10594,21 @@
       "formattedPrice": "免費",
       "Premium Lifetime": "USD 17.99",
       "Premium Monthly": "USD 0.99",
-      "Premium Annual": "USD 8.99"
+      "Premium Annual": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730905336898,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Lifetime": "USD 17.99",
+            "Premium Monthly": "USD 0.99",
+            "Premium Annual": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723994479838,
@@ -10647,10 +10667,18 @@
       "formattedPrice": "USD 39.99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "USD 39.99"
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730905336898,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
