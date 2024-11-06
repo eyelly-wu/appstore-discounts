@@ -14640,9 +14640,21 @@
       "formattedPrice": "免費",
       "Premium Monthly": "$30.00",
       "Premium Annual": "$290.00",
-      "Premium Lifetime": "$590.00"
+      "Premium Lifetime": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730862269176,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Monthly": "$30.00",
+            "Premium Lifetime": "$290.00",
+            "Premium Annual": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723994479838,

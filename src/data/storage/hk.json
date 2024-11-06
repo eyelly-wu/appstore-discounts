@@ -13755,10 +13755,22 @@
       "price": 0,
       "formattedPrice": "免費",
       "Premium Monthly": "HK$ 8.00",
-      "Premium Lifetime": "HK$ 148.00",
+      "Premium Lifetime": "HK$ 78.00",
       "Premium Annual": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730862269176,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Annual": "HK$ 68.00",
+            "Premium Monthly": "HK$ 8.00",
+            "Premium Lifetime": "HK$ 78.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723994479838,
