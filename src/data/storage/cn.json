@@ -2850,7 +2850,10 @@
       "一推车宝石": "¥148.00",
       "Gem Pack - Special Offer 3": "¥148.00",
       "Gem Pack - Special Offer 1": "¥38.00",
-      "Gem Pack - Special Offer 2": "¥78.00"
+      "Gem Pack - Special Offer 2": "¥78.00",
+      "超值豪华宝石包": "¥91.00",
+      "超值入门宝石包": "¥9.00",
+      "超值进阶宝石包": "¥42.00"
     },
     "minPriceInfo": {
       "price": 25,
@@ -2863,9 +2866,30 @@
       "一推车宝石": "¥133.00",
       "Gem Pack - Special Offer 3": "¥91.00",
       "Gem Pack - Special Offer 1": "¥9.00",
-      "Gem Pack - Special Offer 2": "¥42.00"
+      "Gem Pack - Special Offer 2": "¥42.00",
+      "超值豪华宝石包": "¥91.00",
+      "超值入门宝石包": "¥9.00",
+      "超值进阶宝石包": "¥42.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "一盒阳光菁华": "¥15.00",
+            "一瓶阳光菁华": "¥8.00",
+            "一铲子宝石": "¥6.00",
+            "一小盆宝石": "¥30.00",
+            "一大袋宝石": "¥67.00",
+            "一推车宝石": "¥133.00",
+            "超值豪华宝石包": "¥91.00",
+            "超值入门宝石包": "¥9.00",
+            "超值进阶宝石包": "¥42.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1729234946478,
@@ -4146,6 +4170,14 @@
     "history": [
       [
         {
+          "timestamp": 1730991747140,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730383341908,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -4207,6 +4239,14 @@
     "history": [
       [
         {
+          "timestamp": 1730991747140,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730383341908,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -4266,6 +4306,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730383341908,
@@ -4770,6 +4818,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730383341908,
@@ -6549,6 +6605,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730383341908,
@@ -8420,6 +8484,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730383341908,
@@ -11934,6 +12006,14 @@
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730383341908,

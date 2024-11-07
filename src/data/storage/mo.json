@@ -2467,7 +2467,10 @@
       "一大袋寶石": "USD 10.99",
       "Gem Pack - Special Offer 3": "USD 21.99",
       "Gem Pack - Special Offer 1": "USD 4.99",
-      "Gem Pack - Special Offer 2": "USD 10.99"
+      "Gem Pack - Special Offer 2": "USD 10.99",
+      "超值豪華寶石包": "USD 14.99",
+      "超值入門寶石包": "USD 1.49",
+      "超值進階寶石包": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -2480,9 +2483,30 @@
       "一大袋寶石": "USD 10.99",
       "Gem Pack - Special Offer 3": "USD 14.99",
       "Gem Pack - Special Offer 1": "USD 1.49",
-      "Gem Pack - Special Offer 2": "USD 6.99"
+      "Gem Pack - Special Offer 2": "USD 6.99",
+      "超值豪華寶石包": "USD 14.99",
+      "超值入門寶石包": "USD 1.49",
+      "超值進階寶石包": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "一小盆寶石": "USD 4.99",
+            "一盒陽光菁華": "USD 1.99",
+            "一瓶陽光菁華": "USD 0.99",
+            "一推車寶石": "USD 21.99",
+            "一鏟子寶石": "USD 0.99",
+            "一大袋寶石": "USD 10.99",
+            "超值豪華寶石包": "USD 14.99",
+            "超值入門寶石包": "USD 1.49",
+            "超值進階寶石包": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1729234946478,
@@ -3584,6 +3608,14 @@
     "history": [
       [
         {
+          "timestamp": 1730991747140,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730383341908,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -3945,6 +3977,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730383341908,
@@ -4832,6 +4872,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730383341908,
@@ -6554,6 +6602,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730383341908,

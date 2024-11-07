@@ -3223,7 +3223,10 @@
       "Cartful of Crystal": "$21.99",
       "Gem Pack - Special Offer 3": "$21.99",
       "Gem Pack - Special Offer 1": "$4.99",
-      "Gem Pack - Special Offer 2": "$10.99"
+      "Gem Pack - Special Offer 2": "$10.99",
+      "Supreme Bonus Pack": "$14.99",
+      "Starter Bonus Pack": "$1.49",
+      "Advanced Bonus Pack": "$6.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -3236,9 +3239,30 @@
       "Cartful of Crystal": "$21.99",
       "Gem Pack - Special Offer 3": "$14.99",
       "Gem Pack - Special Offer 1": "$1.49",
-      "Gem Pack - Special Offer 2": "$6.99"
+      "Gem Pack - Special Offer 2": "$6.99",
+      "Supreme Bonus Pack": "$14.99",
+      "Starter Bonus Pack": "$1.49",
+      "Advanced Bonus Pack": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730991747140,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Box of Sunshine Elixir": "$1.99",
+            "Bottle of Sunshine Elixir": "$0.99",
+            "Small pot of Crystal": "$4.99",
+            "Large bag of Crystal": "$10.99",
+            "Shovelful of Crystal": "$0.99",
+            "Cartful of Crystal": "$21.99",
+            "Supreme Bonus Pack": "$14.99",
+            "Starter Bonus Pack": "$1.49",
+            "Advanced Bonus Pack": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1729231383780,
