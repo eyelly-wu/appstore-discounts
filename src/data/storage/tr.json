@@ -293,6 +293,14 @@
     "history": [
       [
         {
+          "timestamp": 1730938088678,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730808210894,
           "price": 0,
           "formattedPrice": "Free",
@@ -4031,14 +4039,22 @@
   "6449748961": {
     "name": "DEATH STRANDING DIRECTOR'S CUT",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 799.99,
+      "formattedPrice": "₺799,99"
     },
     "minPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1730938088678,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
