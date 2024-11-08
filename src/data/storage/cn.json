@@ -2445,14 +2445,22 @@
   "670400597": {
     "name": "梁的挠度",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "¥68.00"
+      "price": 98,
+      "formattedPrice": "¥98.00"
     },
     "minPriceInfo": {
       "price": 58,
       "formattedPrice": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731032631582,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728316940177,

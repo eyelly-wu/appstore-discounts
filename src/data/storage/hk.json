@@ -3104,14 +3104,22 @@
   "670400597": {
     "name": "樑的撓度",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731032631582,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728316940177,
