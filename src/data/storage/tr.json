@@ -2021,7 +2021,8 @@
       "cyTus": "₺229,99",
       "Let's GROOVE": "₺149,99",
       "Ola Dash": "₺149,99",
-      "Muse Radio FM101": "₺149,99"
+      "Muse Radio FM101": "₺149,99",
+      "Novice Rider Pack": "₺39,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -2035,9 +2036,28 @@
       "cyTus": "₺229,99",
       "Let's GROOVE": "₺149,99",
       "Ola Dash": "₺149,99",
-      "Muse Radio FM101": "₺149,99"
+      "Muse Radio FM101": "₺149,99",
+      "Novice Rider Pack": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731124939881,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Valentine Stage": "₺149,99",
+            "Rin·Len's Mirrorland": "₺349,99",
+            "Miku in Museland": "₺229,99",
+            "Touhou Mugakudan -Ⅰ-": "₺149,99",
+            "cyTus": "₺229,99",
+            "Let's GROOVE": "₺149,99",
+            "Touhou Mugakudan -Ⅱ-": "₺149,99",
+            "Muse Radio FM101": "₺149,99",
+            "Novice Rider Pack": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730865746029,
@@ -4074,6 +4094,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1731124939881,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺999,99",
+            "1 Month": "₺59,99",
+            "1 Year": "₺199,99"
+          }
+        },
         {
           "timestamp": 1731121479441,
           "price": 0,
