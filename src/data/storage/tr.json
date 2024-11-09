@@ -3371,9 +3371,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime": "₺199,99"
+      "Lifetime": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731164545130,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,

@@ -10635,9 +10635,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime": "$4.99"
+      "Lifetime": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731164545130,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1726201068727,
