@@ -4068,11 +4068,23 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime": "₺999,99",
+      "Lifetime": "₺499,99",
       "1 Month": "₺59,99",
       "1 Year": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731121479441,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺499,99",
+            "1 Month": "₺59,99",
+            "1 Year": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
