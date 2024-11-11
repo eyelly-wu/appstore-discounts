@@ -5439,11 +5439,21 @@
       "蜡烛人完整版": "¥30.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00",
-      "蜡烛人完整版": "¥30.00"
+      "price": 0,
+      "formattedPrice": "免费",
+      "蜡烛人完整版": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731312180687,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "蜡烛人完整版": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1729864933293,
