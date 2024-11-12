@@ -979,6 +979,14 @@
     "history": [
       [
         {
+          "timestamp": 1731423737767,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730905336898,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -1412,6 +1420,19 @@
       "Reset Password": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731423737767,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "USD 6.99",
+            "Lifetime Cloud Services": "USD 34.99",
+            "Monthly Cloud Services": "USD 1.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730556136201,
@@ -9030,6 +9051,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1731423737767,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1731378139968,
           "price": 0,

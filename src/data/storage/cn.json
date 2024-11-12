@@ -1054,6 +1054,14 @@
     "history": [
       [
         {
+          "timestamp": 1731423737767,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730905336898,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -1543,6 +1551,19 @@
       "Reset Password": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731423737767,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "¥228.00",
+            "Yearly Cloud Services": "¥48.00",
+            "Monthly Cloud Services": "¥15.00",
+            "Reset Password": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730556136201,
@@ -11036,6 +11057,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1731423737767,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1731378139968,
           "price": 0,
