@@ -1067,6 +1067,14 @@
     "history": [
       [
         {
+          "timestamp": 1731470553817,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730952146293,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -1582,6 +1590,19 @@
       "Reset Password": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731470553817,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730603419968,
@@ -5395,6 +5416,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1731470553817,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "cyTus": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        },
         {
           "timestamp": 1731448933818,
           "price": 2.99,
@@ -11606,6 +11643,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731470553817,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1731384148132,
