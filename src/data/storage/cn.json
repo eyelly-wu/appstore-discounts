@@ -3755,6 +3755,14 @@
     "history": [
       [
         {
+          "timestamp": 1731510135893,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1729346534387,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -6805,6 +6813,16 @@
       "Card.Note Premiun": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731510135893,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Card.Note Premiun": "¥9.90"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730770148732,
@@ -12622,6 +12640,16 @@
       "本体1-6章": "¥32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731510135893,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "本体1-6章": "¥41.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1726236124151,
