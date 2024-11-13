@@ -3372,14 +3372,22 @@
   "1564383045": {
     "name": "CLRS.Helper",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "price": 29.99,
+      "formattedPrice": "₺29,99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731492142773,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
