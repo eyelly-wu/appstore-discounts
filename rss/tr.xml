@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2024-11-14T00:11:24.437Z</updated>
+    <updated>2024-11-14T21:06:07.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,66 +18,49 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-11-14T00:11:24.438Z</updated>
+        <updated>2024-11-14T21:06:07.774Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stream Music Player]]></title>
-        <id>Stream Music Player-1731542890179</id>
-        <link href="https://apps.apple.com/tr/app/stream-music-player/id1065802380?uo=4"/>
-        <updated>2024-11-14T00:08:10.179Z</updated>
-        <summary type="html"><![CDATA[Price: ₺79,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/stream-music-player/id1065802380?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/55/32/b3/5532b3ab-619f-3562-24ff-a95ef2c17450/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Deflection]]></title>
+        <id>Deflection-1731618141994</id>
+        <link href="https://apps.apple.com/tr/app/deflection/id670400597?uo=4"/>
+        <updated>2024-11-14T21:02:21.994Z</updated>
+        <summary type="html"><![CDATA[Price: ₺599,99 → ₺499,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/deflection/id670400597?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/15/d2/c715d257-4653-cfcb-dfe3-699308178e5e/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺79,99</span> → <b>
-  <strong>Free</strong>
+  Discount Information（Price：<span>₺599,99</span> → <b>
+  <strong>₺499,99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  --- Special release price 50% off! ---
+  Deflection is a powerful, versatile calculator for beams, 2D trusses, and 2D frames.  The interface is simple and intuitive, and the graphical output is state-of-the-art.  In addition to reaction, shear, bending moment, and deflection results, Deflection also computes internal shear and bending stress along the cross section and along the beam.
 
-Stream was created to give you a seamless listening, managing and syncing cloud music experience. It allows you to create a personal streaming service with cloud storage like Box, Dropbox, Google Drive, OneDrive and Yandex.Disk to save space on your device and have access to all of your music. 
+2D FRAME AND TRUSS EDITOR
 
-How it works? 
-Upload all music to your favourite cloud storage then use Stream to connect and enjoy your music anywhere.
+The 2D editor is seamlessly integrated with the beam editor.  Draw arbitrary frame and truss structures and apply loads and constraints using the same simple interface as for beams.  You can visualize results directly within the 2D editor, or you can select a beam and get additional insights. 
 
-Add your music to your device without iTunes, easy and fast using local WiFi transfer or download music to your iPhone to play it without internet (Offline mode). It’s a multi-cloud system therefore you can stream lists of music regardless where they are stored.
+INTERNAL STRESSES
 
-Access your favourite music across all your devices: iPhone, iPad, iPod library, Box, Dropbox, Google Drive, OneDrive, Yandex.Disk and your computer. Stream your music with in advanced and powerful media player.
+Obtain internal bending and shear stress diagrams in addition to shear, bending, and deflection diagrams.  The internal stresses can be visualized along the length of the beam as well as along the vertical axis of the cross section using the beam editor.
 
+CROSS SECTION EDITOR
 
-Music player:
-- Full featured media player
-- Sleep timer
-- Lock screen playback controls
-- Background music playback
-- Equalizer with BassBooster
-- Over 20 realistic EQ presets
-- Stylish audio Visualizer
-- Fine scrubbing
-- Album cover art
+Edit built-in cross sections.  Moment of inertia and area values are automatically calculated and applied to the rest of the beam calculations.
 
-Playlists: 
-- Create your own playlists
+MORE FEATURES
 
-Media Library: 
-- Import music from your iPod library
-- Tabs for Songs, Albums, Artists
+• The built-in database contains more data for your reference and convenience.
+• Apply beam self-weight optionally
+• Unlimited design files
+• Quick-start templates
 
-Manager:
-- Wi-Fi Transfer
-- Download and upload music, pictures, archives from 
-   - Box
-   - Dropbox
-   - Google Drive
-   - OneDrive
-   - Yandex.Disk
-- Move, rename or delete tracks & songs
-- Search by artist, title, album
-- Create and manage folders
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/79/98/e87998e8-1a73-d99b-5f75-d4344d0281be/mzl.wlfewzhr.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8d/b0/2b/8db02bda-d2ea-cd6c-78eb-1f84a5586c1f/mzl.mrxsourg.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/77/2c/91/772c91b0-d4f2-41a5-73bf-9d28d695ed89/mzl.zgltgvov.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/ce/dd/0dceddb8-3044-c9b8-eb69-ada005eaedee/mzl.givnindd.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/94/df/6394dfd0-1106-e162-be57-634d68112ee4/mzl.uzkdbrbq.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f2/7a/44/f27a44f9-3616-949d-a676-6460ce9a3bc0/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/60/a6/ac60a691-bc5d-3818-44a1-d59c4ed5015a/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d9/c3/c5/d9c3c5ba-dcd0-080c-11e9-ac16e710f859/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/71/78/3a/71783a7a-68da-69da-e32d-d9f95d076338/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/95/6a/6f/956a6f8f-2073-8fc9-ec23-ae3321d1a45a/pr_source.png/576x768bb.png" />]]></content>
+CONTACT
+
+We like to hear from you!  Please email contact@ketchep.com if you have any issues, questions, or comments.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a6/cb/8a/a6cb8aff-a0f6-5d4f-5be3-281faba0c1d5/ecf33bcc-7128-4475-8cb1-9eea0b3224a0_en-1242x2208-0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/b7/2a/3cb72a08-1454-02ca-b71d-cc04d919cd88/5c35be07-53c3-463d-87c5-a6158ac65842_en-1242x2208-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a5/af/b9/a5afb963-5b4b-ea78-41d6-5c6a7725c662/f4ab8c42-7a89-4127-994d-b03f75ff4606_en-1242x2208-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bd/de/d1/bdded11c-7200-dd51-aa05-04b106640d8c/61a1b42f-3cf3-41b0-9b39-b7b0a774de9b_en-1242x2208-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/23/bf/29/23bf294c-7b32-1d29-af4a-41d825b714db/16c1538f-e0bc-44ca-800e-37876942f0cf_en-1242x2208-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/99/ff/9a/99ff9ab5-94a6-dbff-0375-4786d19aac26/5ba5b109-e450-49d9-a653-878c0238e26d_en-1242x2208-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e6/5d/72/e65d7247-1532-3f44-fb83-6d46ff068ba4/ac3ed9fa-d9a0-498d-abe8-42b4494a3431_en-1242x2208-6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0f/36/11/0f361190-503d-0cfa-55e1-18fae4ddfdfa/bdb125d9-465d-4a24-a7a5-f9481488ec6f_en-1242x2208-7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/53/bb/50/53bb5078-3c30-3b6c-8ffb-ef18616f5b9e/455207d4-f800-4828-b334-972ffae77047_en-1242x2208-8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c9/72/e2/c972e28b-77e9-4fd3-c03e-878e0135b843/94340f71-0dec-495c-9d72-7a979330f841_en-1242x2208-9.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/d7/ec/a9d7ec48-0c7f-4715-4e1a-4eed799e24b8/c2fc6c8c-c4cd-4d55-97f6-09477690717c_en-2048x2732-0.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f1/4c/47/f14c472d-21a5-3a21-ec22-16ea3ce4637a/9029052a-9219-4840-a766-5114d4ae0401_en-2048x2732-1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/39/9c/74/399c74bf-6da3-0480-06f9-0d51342ce635/32934f60-7cf3-4cf0-9c87-0889b475f3b8_en-2048x2732-2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1d/35/ce/1d35ce75-6be0-9acc-bddd-0c627f641efd/71f18026-135e-4b0f-ab78-4069d346daf9_en-2048x2732-3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2b/25/21/2b252156-a879-9fdc-a462-6cb51aefe0ce/a137eb29-0909-4be4-93e0-186d15005894_en-2048x2732-4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/16/b1/2f/16b12fcc-4d25-0ef5-95ab-a5192f03c43d/9d14df6e-b5d9-44ac-b48e-d06f9edf9a21_en-2048x2732-5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5d/9b/58/5d9b58d8-9c51-7520-0d29-ae7781ab4476/7183a7ab-0c1f-400b-84b8-5185864ee286_en-2048x2732-6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e5/5d/47/e55d4752-aa2e-5f45-4f0c-15af9bb852f4/6a3a6e2c-f944-4479-baf0-8d2ecba61b0f_en-2048x2732-7.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
