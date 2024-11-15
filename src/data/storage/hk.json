@@ -3218,10 +3218,18 @@
       "formattedPrice": "HK$ 118.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731711731637,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1731618141994,

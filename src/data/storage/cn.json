@@ -2521,10 +2521,18 @@
       "formattedPrice": "¥98.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "¥58.00"
+      "price": 15,
+      "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731711731637,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1731618141994,
