@@ -10164,6 +10164,14 @@
     "history": [
       [
         {
+          "timestamp": 1731855737014,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730296934686,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -11822,6 +11830,17 @@
     "history": [
       [
         {
+          "timestamp": 1731855737014,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1729864933293,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -12550,9 +12569,9 @@
     "maxPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00",
-      "包月会员": "¥8.00",
-      "永久会员": "¥98.00",
-      "包年会员": "¥58.00"
+      "包月会员": "¥16.00",
+      "永久会员": "¥128.00",
+      "包年会员": "¥98.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -12562,6 +12581,18 @@
       "包年会员": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731855737014,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "包月会员": "¥16.00",
+            "永久会员": "¥128.00",
+            "包年会员": "¥98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725465740770,

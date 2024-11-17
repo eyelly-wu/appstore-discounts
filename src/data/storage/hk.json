@@ -10994,6 +10994,14 @@
     "history": [
       [
         {
+          "timestamp": 1731855737014,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730296934686,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -12928,6 +12936,17 @@
     "history": [
       [
         {
+          "timestamp": 1731855737014,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1729864933293,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -13326,9 +13345,9 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "永久会员": "HK$ 118.00",
-      "包月会员": "HK$ 8.00",
-      "包年会员": "HK$ 58.00"
+      "永久会员": "HK$ 148.00",
+      "包月会员": "HK$ 18.00",
+      "包年会员": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -13338,6 +13357,18 @@
       "包年会员": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731855737014,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "永久会员": "HK$ 148.00",
+            "包月会员": "HK$ 18.00",
+            "包年会员": "HK$ 118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725465740770,
