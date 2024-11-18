@@ -3387,10 +3387,18 @@
       "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731888526937,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4395,8 +4403,8 @@
   "1644917705": {
     "name": "Cyber Manhunt",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
       "Hello World!": "₺39,99",
       "Home Sweet Home": "₺39,99"
     },
@@ -4407,6 +4415,17 @@
       "Home Sweet Home": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731888526937,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4975,9 +4994,9 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "包月会员": "₺39,99",
-      "永久会员": "₺299,99",
-      "包年会员": "₺299,99"
+      "包月会员": "₺79,99",
+      "永久会员": "₺799,99",
+      "包年会员": "₺599,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4987,6 +5006,18 @@
       "包年会员": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731888526937,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "包月会员": "₺79,99",
+            "永久会员": "₺799,99",
+            "包年会员": "₺599,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
