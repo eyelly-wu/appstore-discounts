@@ -2181,6 +2181,25 @@
     "history": [
       [
         {
+          "timestamp": 1731902575482,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1731720574259,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -10700,6 +10719,14 @@
     "history": [
       [
         {
+          "timestamp": 1731902575482,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730344117371,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -11541,6 +11568,25 @@
       "Opposing Fronts - Russian": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731902575482,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "Tales of Valor": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "High-Quality Models": "$0.00",
+            "4 vs 4 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00",
+            "Invasion of Normandy 11-15": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730635389769,
@@ -12538,6 +12584,17 @@
     "history": [
       [
         {
+          "timestamp": 1731902575482,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1729911897192,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -12926,9 +12983,9 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
-      "包月会员": "$0.99",
-      "永久会员": "$14.99",
-      "包年会员": "$7.99"
+      "包月会员": "$1.99",
+      "永久会员": "$19.99",
+      "包年会员": "$14.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -12938,6 +12995,18 @@
       "包年会员": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731902575482,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$19.99",
+            "包月会员": "$1.99",
+            "包年会员": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725462137863,
@@ -13243,6 +13312,25 @@
       "Weapon Upgrade Ticket x1 (C)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1731902575482,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x1 (B)": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1731319345574,
