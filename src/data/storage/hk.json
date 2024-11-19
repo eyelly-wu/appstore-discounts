@@ -493,6 +493,25 @@
     "history": [
       [
         {
+          "timestamp": 1732028541265,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "iCloud Sync Monthly": "HK$ 8.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "10 GB monthly": "HK$ 22.00",
+            "10 GB yearly": "HK$ 228.00",
+            "1 TB monthly": "HK$ 388.00",
+            "200 GB monthly": "HK$ 88.00",
+            "1 TB yearly": "HK$ 3,888.00",
+            "200 GB yearly": "HK$ 788.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1730037729290,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -1090,6 +1109,14 @@
     "history": [
       [
         {
+          "timestamp": 1732028541265,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1731596547049,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -1525,8 +1552,8 @@
     "maxPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00",
-      "Lifetime Cloud Services": "HK$ 288.00",
-      "Yearly Cloud Services": "HK$ 52.00",
+      "Lifetime Cloud Services": "HK$ 388.00",
+      "Yearly Cloud Services": "HK$ 88.00",
       "Monthly Cloud Services": "HK$ 18.00",
       "Reset Password": "HK$ 8.00"
     },
@@ -1539,6 +1566,19 @@
       "Reset Password": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732028541265,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "HK$ 388.00",
+            "Yearly Cloud Services": "HK$ 88.00",
+            "Monthly Cloud Services": "HK$ 18.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1731682948621,
@@ -12316,6 +12356,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1732028541265,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1731974918473,
           "price": 0,
