@@ -10637,7 +10637,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Pro version lifetime": "USD 7.99"
+      "Pro version lifetime": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -10645,6 +10645,16 @@
       "Pro version lifetime": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732066167850,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro version lifetime": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,

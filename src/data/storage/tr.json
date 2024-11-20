@@ -5225,7 +5225,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro version lifetime": "₺299,99"
+      "Pro version lifetime": "₺399,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -5233,6 +5233,16 @@
       "Pro version lifetime": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732066167850,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro version lifetime": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
