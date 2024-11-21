@@ -313,6 +313,19 @@
     "history": [
       [
         {
+          "timestamp": 1732161763981,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1729911897192,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -1099,6 +1112,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732161763981,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732075353937,
@@ -3423,6 +3444,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732161763981,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -13460,6 +13489,23 @@
     "history": [
       [
         {
+          "timestamp": 1732161763981,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x1 (B)": "$2.99",
+            "Charm: 'Green Herb'": "$0.99"
+          }
+        },
+        {
           "timestamp": 1732108076858,
           "price": 0,
           "formattedPrice": "Free",
@@ -14846,6 +14892,14 @@
       "formattedPrice": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732161763981,
+          "price": 39.99,
+          "formattedPrice": "$39.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730952146293,
