@@ -3287,12 +3287,23 @@
       "Value for Value": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Premium Features": "₺149,99",
       "Value for Value": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732201352268,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "₺149,99",
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
