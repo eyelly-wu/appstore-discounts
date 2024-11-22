@@ -8646,14 +8646,22 @@
   "1576004936": {
     "name": "化學 - 元素週期表 2024",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732309344310,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728173320315,
