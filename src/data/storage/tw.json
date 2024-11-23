@@ -401,6 +401,19 @@
     "history": [
       [
         {
+          "timestamp": 1732374129821,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$1,190.00",
+            "Premium Cloud Service Monthly": "$30.00",
+            "Premium Cloud Service Yearly": "$220.00",
+            "Reset Password": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732114953817,
           "price": 0,
           "formattedPrice": "免費",
@@ -1220,6 +1233,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732374129821,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732114953817,
@@ -11439,6 +11460,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732374129821,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1731855737014,
