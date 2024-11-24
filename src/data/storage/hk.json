@@ -4137,10 +4137,18 @@
       "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732449836211,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -4158,10 +4166,18 @@
       "formattedPrice": "HK$ 388.00"
     },
     "minPriceInfo": {
-      "price": 388,
-      "formattedPrice": "HK$ 388.00"
+      "price": 288,
+      "formattedPrice": "HK$ 288.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732449836211,
+          "price": 288,
+          "formattedPrice": "HK$ 288.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1723994479838,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2024-11-24T11:05:26.153Z</updated>
+    <updated>2024-11-24T12:07:23.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,7 +18,7 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-11-24T11:05:26.153Z</updated>
+        <updated>2024-11-24T12:07:23.653Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -26,15 +26,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Things 3]]></title>
-        <id>Things 3-1732446123247</id>
-        <link href="https://apps.apple.com/us/app/things-3/id904280696?mt=12&amp;uo=4"/>
-        <updated>2024-11-24T11:02:03.247Z</updated>
-        <summary type="html"><![CDATA[Price: $49.99 → $34.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/things-3/id904280696?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/b4/67/00b467c4-3d3b-40ae-6b5f-285946851e88/App-Release.png/60x60bb.png" />
+        <id>Things 3-1732449836211</id>
+        <link href="https://apps.apple.com/us/app/things-3/id904237743?uo=4"/>
+        <updated>2024-11-24T12:03:56.211Z</updated>
+        <summary type="html"><![CDATA[Price: $9.99 → $6.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/things-3/id904237743?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/bb/6a/fbbb6a0a-23f8-fc49-4552-50a6b40b8123/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>$49.99</span> → <b>
-  <strong>$34.99</strong>
+  Discount Information（Price：<span>$9.99</span> → <b>
+  <strong>$6.99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
   Get things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.
@@ -69,25 +69,25 @@ As you dive deeper, you’ll find Things packed with helpful features. Here are 
 • This Evening — a special place for your evening plans.
 • Calendar integration — see your events and to-dos together.
 • Tags — categorize your to-dos and quickly filter lists.
-• Quick Entry — create to-dos from anywhere, as soon as the thought hits you.
-• Quick Find — instantly locate to-dos, headings, or tags.
-• Type Travel — jump from list to list with your keyboard; just start typing!
-• Widgets — see your lists on the desktop or in Notification Center.
+• Quick Find — instantly find to-dos or switch between lists.
+• Magic Plus — drag the + button to insert to-dos anywhere in a list.
+• Share extension — create to-dos with content from other apps.
+• Widgets — see lists on your home/lock screens.
 • Mail to Things — forward an email to Things; now it’s a to-do.
 • Markdown — structure & style your notes.
 • And much more!
 
 
-MADE FOR MAC
+MADE FOR IPHONE
 
-Things is tailored to the Mac with deep system integrations as well. A great example is Quick Entry with Autofill: a shortcut that grabs content from other apps and adds it to Things for you, such as a link to a website or an email you want to get back to.
+Things is tailored to the iPhone with deep system integrations as well. A great example is the Share extension, which allows you to create to-dos with content from other apps, such as a link to a website you want to get back to.
 
-You can also enjoy a beautiful dark mode at sunset, connect your calendars, open multiple windows, add a variety of widgets, import from Reminders—Things can do it all! There’s even Shortcuts integration if you want to automate your workflows.
+You can also enjoy a beautiful dark mode at sunset, connect your calendars, add a variety of widgets, create to-dos via Siri, import from Reminders—Things can do it all! There’s even Shortcuts integration if you want to automate your workflows.
 
 
-STAY PRODUCTIVE ON THE GO
+MADE FOR APPLE WATCH
 
-Things also has full-featured apps for iPhone, iPad, Apple Watch, and Apple Vision Pro (sold separately). All your devices sync seamlessly via our free Things Cloud service. It’s great to have everything at your fingertips when you need it!
+Things comes with a great app for Apple Watch. Just raise your wrist to glance at your Today list, mark to-dos complete as you go, and dictate new ones on the fly—all synced instantly with your iPhone, iPad, and Mac.
 
 
 AWARD-WINNING DESIGN
@@ -102,9 +102,11 @@ GET THINGS TODAY
 
 Whatever it is you want to accomplish in life, Things can help you get there. Install the app today and see what you can do!
 
-Visit our website now and get a free 15-day trial for your Mac: www.things.app
+• Things is also available for Mac, iPad, and Apple Vision Pro (sold separately).
+• Sync is provided for free via our Things Cloud service.
+• A free trial is available for Mac: www.things.app
 
 If you have any questions, please get in touch. We provide professional support and will be glad to help you!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6f/4c/e5/6f4ce5d6-7caa-d1eb-bbc9-86558e97d2ba/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/92/b4/f8/92b4f8f5-f133-abd8-db17-135ac27bb1fa/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/72/63/63/726363b9-45ff-f93e-975c-fb69836eaf1a/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/29/fa/63/29fa63e3-3cb2-8b8a-8541-31fa9b7ef27f/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/da/17/5f/da175f95-c2cd-e5df-8cbc-d800d6770c64/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f1/82/37/f182376c-4f25-6dbb-c6a8-5e6c1c617620/pr_source.png/800x500bb.jpg" />]]></content>
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/3f/fb/9b3ffb80-8088-4b48-cd18-7c3d631e0ec6/6d2e1e37-b053-4cc7-b887-2d7b25fc9222_iPhone_8_Plus_-_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/aa/28/61aa281c-b27d-8857-7cdb-6d1eb6b8e6ef/2b726649-1d6e-4360-8e80-aa96ea4f7e48_iPhone_8_Plus_-_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/1a/14/b41a1441-896b-b593-4809-fcb5c987e6bd/10f6325d-b427-41e8-a227-04168f3ddc02_iPhone_8_Plus_-_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/10/76/b8/1076b8d6-be56-6f34-9b42-3f67c24b6ff3/c1b6c31b-50e0-48de-ad8e-1e48446ddc15_iPhone_8_Plus_-_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7e/d9/4f/7ed94fb2-f101-d2e3-9b56-a6e66528a4e5/487b250b-431c-4659-9e9a-361c6c79b1e0_iPhone_8_Plus_-_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d9/06/8f/d9068fa7-c157-d6fc-7586-a9a2bc18f9dc/f2a118b6-9811-4a1b-bec5-cc0b0bc677eb_iPhone_8_Plus_-_6.png/392x696bb.png" />]]></content>
     </entry>
 </feed>

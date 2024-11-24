@@ -3928,10 +3928,18 @@
       "formattedPrice": "$9.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99"
+      "price": 6.99,
+      "formattedPrice": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732449836211,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -8450,7 +8458,15 @@
       "365 Digital Bullet Journal": "$8.99",
       "The Daily Schedule Planner in": "$9.99",
       "The Shadow Work Journal": "$9.99",
-      "The Minimalist Planner (Sun. S": "$9.99"
+      "The Minimalist Planner (Sun. S": "$9.99",
+      "Music Generator - Editable Sti": "$9.99",
+      "Pool Party Notebook": "$6.99",
+      "Rainbow Memo & Washi Tape 340": "$8.99",
+      "40 Templates of Colorful Noteb": "$8.99",
+      "Daily Life Management Planner": "$9.99",
+      "Daily Essential Planner (Pink,": "$9.99",
+      "2025 Water Color Diary (Landsc": "$9.99",
+      "2025 Ultimate Rainbow Planner": "$9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -8480,9 +8496,34 @@
       "365 Digital Bullet Journal": "$8.99",
       "The Daily Schedule Planner in": "$9.99",
       "The Shadow Work Journal": "$9.99",
-      "The Minimalist Planner (Sun. S": "$9.99"
+      "The Minimalist Planner (Sun. S": "$9.99",
+      "Music Generator - Editable Sti": "$9.99",
+      "Pool Party Notebook": "$6.99",
+      "Rainbow Memo & Washi Tape 340": "$8.99",
+      "40 Templates of Colorful Noteb": "$8.99",
+      "Daily Life Management Planner": "$9.99",
+      "Daily Essential Planner (Pink,": "$9.99",
+      "2025 Water Color Diary (Landsc": "$9.99",
+      "2025 Ultimate Rainbow Planner": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732449836211,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Music Generator - Editable Sti": "$9.99",
+            "Pool Party Notebook": "$6.99",
+            "Rainbow Memo & Washi Tape 340": "$8.99",
+            "40 Templates of Colorful Noteb": "$8.99",
+            "Daily Life Management Planner": "$9.99",
+            "Daily Essential Planner (Pink,": "$9.99",
+            "2025 Water Color Diary (Landsc": "$9.99",
+            "2025 Ultimate Rainbow Planner": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730260962832,
