@@ -349,6 +349,19 @@
     "history": [
       [
         {
+          "timestamp": 1732420947525,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732161763981,
           "price": 0,
           "formattedPrice": "Free",
@@ -1167,6 +1180,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732420947525,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732161763981,
@@ -5755,6 +5776,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1732420947525,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "MUSE RADIO FM104": "$3.99",
+            "Miku in Museland": "$8.99",
+            "Valentine Stage": "$3.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$8.99",
+            "Let's GROOVE": "$3.99"
+          }
+        },
         {
           "timestamp": 1732392137693,
           "price": 2.99,
