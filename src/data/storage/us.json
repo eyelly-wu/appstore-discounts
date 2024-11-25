@@ -1182,6 +1182,14 @@
     "history": [
       [
         {
+          "timestamp": 1732507354212,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1732420947525,
           "price": 0,
           "formattedPrice": "Free",
@@ -5367,6 +5375,25 @@
     "history": [
       [
         {
+          "timestamp": 1732507354212,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1731816155231,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -5800,6 +5827,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1732507354212,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Valentine Stage": "$3.99",
+            "Miku in Museland": "$8.99",
+            "MUSE RADIO FM104": "$3.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$8.99",
+            "Let's GROOVE": "$3.99"
+          }
+        },
         {
           "timestamp": 1732431789284,
           "price": 2.99,
@@ -11990,6 +12034,23 @@
     "history": [
       [
         {
+          "timestamp": 1732507354212,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "Tales of Valor": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "High-Quality Models": "$0.00",
+            "4 vs 4 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        },
+        {
           "timestamp": 1732498185148,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -13867,6 +13928,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1732507354212,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Attaché Case: 'Classic'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x3 (B)": "$6.99"
+          }
+        },
         {
           "timestamp": 1732498185148,
           "price": 0,
