@@ -2396,7 +2396,8 @@
       "Novice Rider Pack": "₺39,99",
       "DJMAX Reflect": "₺299,99",
       "MUSE RADIO FM104": "₺149,99",
-      "Endless Pirouette": "₺229,99"
+      "Endless Pirouette": "₺229,99",
+      "unlockall_29": "₺1.299,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -2414,9 +2415,28 @@
       "Novice Rider Pack": "₺39,99",
       "DJMAX Reflect": "₺299,99",
       "MUSE RADIO FM104": "₺149,99",
-      "Endless Pirouette": "₺229,99"
+      "Endless Pirouette": "₺229,99",
+      "unlockall_29": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732561336396,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "unlockall_29": "₺1.299,99",
+            "Novice Rider Pack": "₺39,99",
+            "Endless Pirouette": "₺229,99",
+            "MUSE RADIO FM104": "₺149,99",
+            "Rin·Len's Mirrorland": "₺349,99",
+            "Miku in Museland": "₺229,99",
+            "Touhou Mugakudan -Ⅰ-": "₺149,99",
+            "cyTus": "₺229,99",
+            "Let's GROOVE": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732356149295,
