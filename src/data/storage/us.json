@@ -5928,6 +5928,25 @@
     "history": [
       [
         {
+          "timestamp": 1732712922450,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Valentine Stage": "$3.99",
+            "MUSE RADIO FM104": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Endless Pirouette": "$5.99",
+            "Let's GROOVE": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732507354212,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -11363,7 +11382,10 @@
       "Yearly VIP": "$2.99",
       "Tester Award": "$0.00",
       "Community VIP": "$0.00",
-      "Education VIP - 2024": "$0.00"
+      "Education VIP - 2024": "$0.00",
+      "Americano": "$1.99",
+      "Mocha": "$3.99",
+      "Latte": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -11373,9 +11395,30 @@
       "Yearly VIP": "$2.99",
       "Tester Award": "$0.00",
       "Community VIP": "$0.00",
-      "Education VIP - 2024": "$0.00"
+      "Education VIP - 2024": "$0.00",
+      "Americano": "$1.99",
+      "Mocha": "$3.99",
+      "Latte": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732712922450,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$3.99",
+            "Free Trial": "$0.00",
+            "Education VIP - 2024": "$0.00",
+            "Yearly VIP": "$2.99",
+            "Americano": "$1.99",
+            "Mocha": "$3.99",
+            "Latte": "$2.99",
+            "Community VIP": "$0.00",
+            "Tester Award": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1729526546988,
