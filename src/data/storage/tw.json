@@ -2100,6 +2100,16 @@
     "history": [
       [
         {
+          "timestamp": 1732719744176,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "移除廣告": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1730469725956,
           "price": 0,
           "formattedPrice": "免費",
@@ -5276,6 +5286,14 @@
     "history": [
       [
         {
+          "timestamp": 1732719744176,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730991747140,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -5735,6 +5753,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732719744176,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730991747140,
@@ -10717,6 +10743,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732719744176,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730991747140,
