@@ -590,8 +590,8 @@
   "533055404": {
     "name": "Night Stars",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free",
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
       "Remove advertisement": "₺79,99"
     },
     "minPriceInfo": {
@@ -600,6 +600,16 @@
       "Remove advertisement": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732752535741,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Remove advertisement": "₺79,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1891,6 +1901,14 @@
     "history": [
       [
         {
+          "timestamp": 1732752535741,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1731024486989,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -2212,6 +2230,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732752535741,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1731024486989,
@@ -3357,6 +3383,14 @@
     "history": [
       [
         {
+          "timestamp": 1732752535741,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1731024486989,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -4024,7 +4058,7 @@
     ]
   },
   "1576004936": {
-    "name": "Chemistry Periodic Table 2024",
+    "name": "Chemistry Periodic Table 2025",
     "maxPriceInfo": {
       "price": 799.99,
       "formattedPrice": "₺799,99"
