@@ -9195,17 +9195,33 @@
       "A bundle of gold coins": "HK$ 18.00",
       "A stack of gold coins": "HK$ 8.00",
       "A large number of gold coins": "HK$ 38.00",
-      "A gold coin": "HK$ 8.00"
+      "A gold coin": "HK$ 8.00",
+      "Purchase the current game": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "A bundle of gold coins": "HK$ 18.00",
       "A stack of gold coins": "HK$ 8.00",
       "A large number of gold coins": "HK$ 32.00",
-      "A gold coin": "HK$ 8.00"
+      "A gold coin": "HK$ 8.00",
+      "Purchase the current game": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732813340473,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "A bundle of gold coins": "HK$ 18.00",
+            "A stack of gold coins": "HK$ 8.00",
+            "Purchase the current game": "HK$ 18.00",
+            "A large number of gold coins": "HK$ 32.00",
+            "A gold coin": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728712961951,

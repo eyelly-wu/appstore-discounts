@@ -8494,7 +8494,8 @@
       "A stack of gold coins": "$0.99",
       "A gold coin": "$0.99",
       "A bundle of gold coins": "$1.99",
-      "A large number of gold coins": "$4.99"
+      "A large number of gold coins": "$4.99",
+      "Purchase the current game": "$1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -8502,10 +8503,23 @@
       "A stack of gold coins": "$0.99",
       "A gold coin": "$0.99",
       "A bundle of gold coins": "$1.99",
-      "A large number of gold coins": "$3.99"
+      "A large number of gold coins": "$3.99",
+      "Purchase the current game": "$1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1732813340473,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "A stack of gold coins": "$0.99",
+            "A gold coin": "$0.99",
+            "A bundle of gold coins": "$1.99",
+            "A large number of gold coins": "$3.99",
+            "Purchase the current game": "$1.99"
+          }
+        },
         {
           "timestamp": 1732773787649,
           "price": 0,

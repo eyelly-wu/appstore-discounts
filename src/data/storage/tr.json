@@ -2997,7 +2997,8 @@
       "A bundle of gold coins": "₺79,99",
       "A stack of gold coins": "₺29,99",
       "A large number of gold coins": "₺149,99",
-      "A gold coin": "₺4,99"
+      "A gold coin": "₺4,99",
+      "Purchase the current game": "₺79,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -3005,10 +3006,23 @@
       "A bundle of gold coins": "₺79,99",
       "A stack of gold coins": "₺29,99",
       "A large number of gold coins": "₺149,99",
-      "A gold coin": "₺4,99"
+      "A gold coin": "₺4,99",
+      "Purchase the current game": "₺79,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1732813340473,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "A bundle of gold coins": "₺79,99",
+            "A stack of gold coins": "₺29,99",
+            "Purchase the current game": "₺79,99",
+            "A large number of gold coins": "₺149,99",
+            "A gold coin": "₺4,99"
+          }
+        },
         {
           "timestamp": 1732773787649,
           "price": 0,
