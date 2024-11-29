@@ -916,6 +916,21 @@
     "history": [
       [
         {
+          "timestamp": 1732892547971,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "Cloud Backup Yearly": "HK$ 68.00",
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "Cloud Backup Monthly": "HK$ 12.00",
+            "iCloud Sync Monthly": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732633346769,
           "price": 0,
           "formattedPrice": "免費",
@@ -10660,6 +10675,14 @@
     "history": [
       [
         {
+          "timestamp": 1732892547971,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1731052973471,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -13268,6 +13291,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732892547971,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732028541265,

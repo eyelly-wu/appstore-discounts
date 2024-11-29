@@ -844,6 +844,21 @@
     "history": [
       [
         {
+          "timestamp": 1732892547971,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Reset Password": "¥8.00",
+            "iCloud Sync Yearly": "¥48.00",
+            "Cloud Backup Yearly": "¥58.00",
+            "iCloud Sync Lifetime": "¥228.00",
+            "iCloud Sync Monthly": "¥7.00",
+            "Cloud Backup Monthly": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732633346769,
           "price": 0,
           "formattedPrice": "免费",
@@ -9171,6 +9186,14 @@
     "history": [
       [
         {
+          "timestamp": 1732892547971,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1731052973471,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -11900,6 +11923,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732892547971,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732028541265,
