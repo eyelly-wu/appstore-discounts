@@ -715,7 +715,8 @@
       "Dante": "₺199,99",
       "Sha'tra": "₺99,99",
       "Grawl": "₺99,99",
-      "Captain Blackthorne": "₺39,99"
+      "Captain Blackthorne": "₺39,99",
+      "Kahz": "₺199,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -729,9 +730,29 @@
       "Dante": "₺199,99",
       "Sha'tra": "₺99,99",
       "Grawl": "₺99,99",
-      "Captain Blackthorne": "₺39,99"
+      "Captain Blackthorne": "₺39,99",
+      "Kahz": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732843780688,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺249,99",
+            "Ashbite": "₺249,99",
+            "Chest of gems": "₺399,99",
+            "Bag of gems": "₺199,99",
+            "Nivus": "₺39,99",
+            "Kahz": "₺199,99",
+            "Dante": "₺199,99",
+            "Kutsao": "₺99,99",
+            "Sha'tra": "₺99,99",
+            "Grawl": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732666120978,
