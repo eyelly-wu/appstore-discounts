@@ -1163,6 +1163,14 @@
     "history": [
       [
         {
+          "timestamp": 1732978936374,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1732799329328,
           "price": 0,
           "formattedPrice": "免费",
@@ -5433,6 +5441,25 @@
       "Geometric Frame Pack": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732978936374,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732460529514,
@@ -12120,6 +12147,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732978936374,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730469725956,
