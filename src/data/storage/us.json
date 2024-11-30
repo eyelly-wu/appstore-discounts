@@ -856,6 +856,21 @@
     "history": [
       [
         {
+          "timestamp": 1732939355025,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "iCloud Sync Lifetime": "$34.99",
+            "Cloud Backup Monthly": "$1.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732680155610,
           "price": 0,
           "formattedPrice": "Free",
@@ -5991,6 +6006,23 @@
     "history": [
       [
         {
+          "timestamp": 1732939355025,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "MUSE RADIO FM104": "$3.99",
+            "cyTus": "$5.99",
+            "Valentine Stage": "$3.99",
+            "Let's GROOVE": "$3.99",
+            "Rin·Len's Mirrorland": "$8.99"
+          }
+        },
+        {
           "timestamp": 1732930168438,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -10118,6 +10150,14 @@
     "history": [
       [
         {
+          "timestamp": 1732939355025,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1731052973471,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -12863,6 +12903,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1732939355025,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732075353937,
