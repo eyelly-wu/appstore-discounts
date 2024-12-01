@@ -2483,7 +2483,7 @@
       "批量相片處理": "USD 0.00",
       "4K Ultra HD 延時攝影": "USD 2.99",
       "基本系列": "USD 0.99",
-      "ZERO: 直接感測器擷取": "USD 3.99",
+      "ZERO: 直接感測器擷取": "USD 4.99",
       "AI 空間": "USD 9.99"
     },
     "minPriceInfo": {
@@ -2500,6 +2500,24 @@
       "AI 空間": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733072533869,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "ZERO: 直接感測器擷取": "USD 4.99",
+            "4K Ultra HD 視訊影片": "USD 4.99",
+            "大師系列": "USD 1.99",
+            "城市系列": "USD 0.99",
+            "AI 空間": "USD 7.99",
+            "8K Max 延時攝影": "USD 5.99",
+            "批量相片處理": "USD 0.00",
+            "4K Ultra HD 延時攝影": "USD 2.99",
+            "基本系列": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1731520954721,
@@ -6124,6 +6142,22 @@
       "2025 年終極彩虹手帳（週日開始，行事曆整合）": "USD 7.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733072533869,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "USD 9.99",
+            "GoodNotes 5完整版解鎖": "USD 9.99",
+            "Goodnotes 6 免費試用": "USD 0.00",
+            "Goodnotes 6 一次性付款": "USD 21.99",
+            "虛線方格：草稿紙張": "USD 0.99",
+            "秋貓貼紙組": "USD 0.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733025921726,
