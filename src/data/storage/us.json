@@ -1212,6 +1212,14 @@
     "history": [
       [
         {
+          "timestamp": 1733025921726,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1732799329328,
           "price": 0,
           "formattedPrice": "Free",
@@ -5561,6 +5569,25 @@
     "history": [
       [
         {
+          "timestamp": 1733025921726,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732507354212,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -6013,6 +6040,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1733025921726,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "MUSE RADIO FM104": "$3.99",
+            "Rin·Len's Mirrorland": "$8.99",
+            "Valentine Stage": "$3.99"
+          }
+        },
         {
           "timestamp": 1732950136360,
           "price": 2.99,
@@ -13131,6 +13175,14 @@
     "history": [
       [
         {
+          "timestamp": 1733025921726,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1730516750662,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -14350,6 +14402,25 @@
       "Weapon Upgrade Ticket x1 (C)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733025921726,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x3 (B)": "$6.99",
+            "Charm: 'Green Herb'": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732507354212,
