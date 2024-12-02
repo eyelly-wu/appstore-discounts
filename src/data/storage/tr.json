@@ -114,7 +114,7 @@
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99",
-      "CamScanner Premium": "₺329,99",
+      "CamScanner Premium": "₺129,99",
       "One-page Fax": "₺39,99",
       "Ten-page Fax": "₺349,99",
       "3000 C-Points": "₺199,99",
@@ -123,6 +123,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1733137333233,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "CamScanner Premium": "₺129,99",
+            "3000 cp + Six chance to Draw": "₺229,99",
+            "600 cp + One chance to Draw": "₺39,99",
+            "3000 C-Points": "₺229,99",
+            "Ten-page Fax": "₺399,99",
+            "One-page Fax": "₺39,99"
+          }
+        },
         {
           "timestamp": 1733126594374,
           "price": 39.99,
