@@ -2,14 +2,22 @@
   "355460798": {
     "name": "Inspire Pro",
     "maxPriceInfo": {
-      "price": 799.99,
-      "formattedPrice": "₺799,99"
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
     },
     "minPriceInfo": {
       "price": 799.99,
       "formattedPrice": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -25,16 +33,16 @@
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99",
-      "通用型套餐-25元": "₺149,99",
-      "通用型套餐-159元": "₺899,99",
-      "通用型套餐-318元": "₺1.999,99",
-      "通用型套餐-718元": "₺3.999,99",
-      "通用型套餐-468元": "₺2.499,99",
-      "通用型套餐-408元": "₺2.299,99",
-      "通用型套餐-329元": "₺1.999,99",
-      "免广告会员十二个月15元": "₺79,99",
+      "通用型套餐-25元": "₺179,99",
+      "通用型套餐-159元": "₺999,99",
+      "通用型套餐-318元": "₺2.299,99",
+      "通用型套餐-718元": "₺4.499,99",
+      "通用型套餐-468元": "₺2.999,99",
+      "通用型套餐-408元": "₺2.499,99",
+      "通用型套餐-329元": "₺2.299,99",
+      "免广告会员十二个月15元": "₺99,99",
       "免广告会员三个月": "₺39,99",
-      "免广告会员十二个月": "₺79,99"
+      "免广告会员十二个月": "₺99,99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -51,6 +59,25 @@
       "免广告会员十二个月": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "通用型套餐-25元": "₺179,99",
+            "通用型套餐-159元": "₺999,99",
+            "通用型套餐-318元": "₺2.299,99",
+            "通用型套餐-718元": "₺4.499,99",
+            "通用型套餐-468元": "₺2.999,99",
+            "通用型套餐-408元": "₺2.499,99",
+            "通用型套餐-329元": "₺2.299,99",
+            "免广告会员十二个月15元": "₺99,99",
+            "免广告会员三个月": "₺39,99",
+            "免广告会员十二个月": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -79,10 +106,10 @@
       "formattedPrice": "₺39,99",
       "CamScanner Premium": "₺329,99",
       "One-page Fax": "₺39,99",
-      "Ten-page Fax": "₺349,99",
-      "3000 C-Points": "₺199,99",
+      "Ten-page Fax": "₺399,99",
+      "3000 C-Points": "₺229,99",
       "600 cp + One chance to Draw": "₺39,99",
-      "3000 cp + Six chance to Draw": "₺199,99"
+      "3000 cp + Six chance to Draw": "₺229,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -95,6 +122,21 @@
       "3000 cp + Six chance to Draw": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "CamScanner Premium": "₺329,99",
+            "One-page Fax": "₺39,99",
+            "Ten-page Fax": "₺399,99",
+            "3000 C-Points": "₺229,99",
+            "600 cp + One chance to Draw": "₺39,99",
+            "3000 cp + Six chance to Draw": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -115,9 +157,9 @@
   "431033044": {
     "name": "Phone Drive: File Storage Sync",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99",
-      "Premium Cloud Service Lifetime": "₺1.299,99",
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
+      "Premium Cloud Service Lifetime": "₺1.499,99",
       "Premium Cloud Service Yearly": "₺179,99",
       "Premium Cloud Service Monthly": "₺22,99",
       "Reset Password": "₺39,99"
@@ -131,6 +173,19 @@
       "Reset Password": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "₺1.499,99",
+            "Premium Cloud Service Monthly": "₺22,99",
+            "Premium Cloud Service Yearly": "₺179,99",
+            "Reset Password": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732406961304,
@@ -175,12 +230,12 @@
   "456637671": {
     "name": "Safety Photo+Video Pro",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99",
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
       "iCloud Sync Monthly": "₺15,99",
       "Reset Password": "₺39,99",
       "iCloud Sync Yearly": "₺199,99",
-      "iCloud Sync Lifetime": "₺1.499,99",
+      "iCloud Sync Lifetime": "₺1.799,99",
       "100 GB monthly": "₺229,99",
       "10 GB monthly": "₺99,99",
       "10 GB yearly": "₺999,99",
@@ -203,6 +258,25 @@
       "1 TB yearly": "₺11.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "iCloud Sync Monthly": "₺15,99",
+            "iCloud Sync Yearly": "₺199,99",
+            "Reset Password": "₺39,99",
+            "iCloud Sync Lifetime": "₺1.799,99",
+            "100 GB monthly": "₺229,99",
+            "10 GB monthly": "₺99,99",
+            "10 GB yearly": "₺999,99",
+            "1 TB monthly": "₺1.199,99",
+            "200 GB monthly": "₺399,99",
+            "1 TB yearly": "₺11.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732320502778,
@@ -265,14 +339,14 @@
   "460661291": {
     "name": "Safety Note+ Pro",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99",
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
       "iCloud Sync Yearly": "₺179,99",
       "Cloud Backup Monthly": "₺39,99",
       "iCloud Sync Monthly": "₺16,99",
       "Reset Password": "₺39,99",
       "Cloud Backup Yearly": "₺199,99",
-      "iCloud Sync Lifetime": "₺1.299,99"
+      "iCloud Sync Lifetime": "₺1.499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -285,6 +359,21 @@
       "iCloud Sync Lifetime": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "₺179,99",
+            "Cloud Backup Monthly": "₺39,99",
+            "iCloud Sync Monthly": "₺16,99",
+            "Cloud Backup Yearly": "₺199,99",
+            "Reset Password": "₺39,99",
+            "iCloud Sync Lifetime": "₺1.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732925314521,
@@ -386,14 +475,22 @@
   "481629890": {
     "name": "LIMBO by Playdead",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
     },
     "minPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -407,14 +504,22 @@
   "488674899": {
     "name": "RAIN RADAR ° live weather maps",
     "maxPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733011838899,
@@ -514,10 +619,10 @@
   "505904421": {
     "name": "AirDisk Pro",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
       "Yearly Cloud Services": "₺399,99",
-      "Lifetime Cloud Services": "₺1.999,99",
+      "Lifetime Cloud Services": "₺2.299,99",
       "Monthly Cloud Services": "₺49,99",
       "Reset Password": "₺39,99"
     },
@@ -530,6 +635,19 @@
       "Reset Password": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "₺399,99",
+            "Lifetime Cloud Services": "₺2.299,99",
+            "Monthly Cloud Services": "₺49,99",
+            "Reset Password": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732838926430,
@@ -650,9 +768,9 @@
   "533055404": {
     "name": "Night Stars",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99",
-      "Remove advertisement": "₺79,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
+      "Remove advertisement": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -660,6 +778,16 @@
       "Remove advertisement": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Remove advertisement": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732752535741,
@@ -685,14 +813,22 @@
   "576718804": {
     "name": "aTimeLogger Time Tracker",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732968188712,
@@ -722,14 +858,22 @@
   "578665578": {
     "name": "Threema. The Secure Messenger",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -745,17 +889,17 @@
     "maxPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99",
-      "Bonehart": "₺249,99",
-      "Ashbite": "₺249,99",
-      "Chest of gems": "₺399,99",
-      "Bag of gems": "₺199,99",
-      "Kutsao": "₺99,99",
+      "Bonehart": "₺299,99",
+      "Ashbite": "₺299,99",
+      "Chest of gems": "₺449,99",
+      "Bag of gems": "₺229,99",
+      "Kutsao": "₺129,99",
       "Nivus": "₺39,99",
-      "Dante": "₺199,99",
-      "Sha'tra": "₺99,99",
-      "Grawl": "₺99,99",
+      "Dante": "₺229,99",
+      "Sha'tra": "₺129,99",
+      "Grawl": "₺129,99",
       "Captain Blackthorne": "₺39,99",
-      "Kahz": "₺199,99"
+      "Kahz": "₺229,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -773,6 +917,25 @@
       "Kahz": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺229,99",
+            "Sha'tra": "₺129,99",
+            "Kahz": "₺229,99",
+            "Grawl": "₺129,99",
+            "Kutsao": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732843780688,
@@ -835,8 +998,8 @@
   "625206080": {
     "name": "Tomb Raider",
     "maxPriceInfo": {
-      "price": 999.99,
-      "formattedPrice": "₺999,99",
+      "price": 1299.99,
+      "formattedPrice": "₺1.299,99",
       "Single Player DLC Pack": "₺0,00",
       "Arabic language pack": "₺0,00",
       "Пакет поддержки русского языка": "₺0,00",
@@ -857,6 +1020,21 @@
     "history": [
       [
         {
+          "timestamp": 1733126594374,
+          "price": 1299.99,
+          "formattedPrice": "₺1.299,99",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "₺0,00",
+            "Arabic language pack": "₺0,00",
+            "Пакет поддержки русского языка": "₺0,00",
+            "Pacchetto lingua italiana": "₺0,00",
+            "Paquete para el idioma español": "₺0,00",
+            "Polski pakiet językowy": "₺0,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1730693617795,
           "price": 999.99,
           "formattedPrice": "₺999,99",
@@ -875,14 +1053,22 @@
   "656951157": {
     "name": "Playdead's LIMBO",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -904,6 +1090,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732377786971,
@@ -949,14 +1143,22 @@
   "703265535": {
     "name": "FocusDots · Focus What Matters",
     "maxPriceInfo": {
-      "price": 79.99,
-      "formattedPrice": "₺79,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -970,9 +1172,9 @@
   "728293409": {
     "name": "Monument Valley",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99",
-      "Forgotten Shores": "₺79,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
+      "Forgotten Shores": "₺99,99"
     },
     "minPriceInfo": {
       "price": 149.99,
@@ -980,6 +1182,16 @@
       "Forgotten Shores": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Forgotten Shores": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -995,16 +1207,16 @@
   "730712409": {
     "name": "ProCam - Pro Camera",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99",
-      "4K Ultra HD Video": "₺199,99",
-      "The Master Collection": "₺79,99",
-      "4K Ultra HD Time Lapse": "₺99,99",
+      "price": 449.99,
+      "formattedPrice": "₺449,99",
+      "4K Ultra HD Video": "₺229,99",
+      "The Master Collection": "₺99,99",
+      "4K Ultra HD Time Lapse": "₺129,99",
       "The Urban Collection": "₺39,99",
-      "ZERO: Direct Sensor Capture": "₺199,99",
+      "ZERO: Direct Sensor Capture": "₺229,99",
       "The Elemental Collection": "₺39,99",
       "Batch Photo Actions": "₺0,00",
-      "8K Max Time Lapse": "₺229,99",
+      "8K Max Time Lapse": "₺249,99",
       "AI Spatial": "₺399,99"
     },
     "minPriceInfo": {
@@ -1021,6 +1233,24 @@
       "AI Spatial": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "4K Ultra HD Video": "₺229,99",
+            "The Master Collection": "₺99,99",
+            "4K Ultra HD Time Lapse": "₺129,99",
+            "The Urban Collection": "₺39,99",
+            "The Elemental Collection": "₺39,99",
+            "ZERO: Direct Sensor Capture": "₺229,99",
+            "Batch Photo Actions": "₺0,00",
+            "AI Spatial": "₺349,99",
+            "8K Max Time Lapse": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733072533869,
@@ -1080,14 +1310,22 @@
   "754105884": {
     "name": "NightCap Camera",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1122,14 +1360,22 @@
   "818394449": {
     "name": "Timeline - World history",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732234125540,
@@ -1159,14 +1405,22 @@
   "827740598": {
     "name": "Xmart Calculator Pro",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1180,17 +1434,17 @@
   "866450515": {
     "name": "Forest: Focus for Productivity",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99",
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
       "Bottle of Sunshine Elixir": "₺39,99",
-      "Box of Sunshine Elixir": "₺79,99",
+      "Box of Sunshine Elixir": "₺99,99",
       "Shovelful of Crystal": "₺39,99",
-      "Small pot of Crystal": "₺199,99",
-      "Large bag of Crystal": "₺399,99",
-      "Cartful of Crystal": "₺799,99",
-      "Supreme Bonus Pack": "₺599,99",
-      "Starter Bonus Pack": "₺59,99",
-      "Advanced Bonus Pack": "₺249,99"
+      "Small pot of Crystal": "₺229,99",
+      "Large bag of Crystal": "₺499,99",
+      "Cartful of Crystal": "₺999,99",
+      "Supreme Bonus Pack": "₺699,99",
+      "Starter Bonus Pack": "₺69,99",
+      "Advanced Bonus Pack": "₺299,99"
     },
     "minPriceInfo": {
       "price": 149.99,
@@ -1206,6 +1460,24 @@
       "Advanced Bonus Pack": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Bottle of Sunshine Elixir": "₺39,99",
+            "Box of Sunshine Elixir": "₺99,99",
+            "Advanced Bonus Pack": "₺299,99",
+            "Shovelful of Crystal": "₺39,99",
+            "Small pot of Crystal": "₺229,99",
+            "Large bag of Crystal": "₺499,99",
+            "Cartful of Crystal": "₺999,99",
+            "Supreme Bonus Pack": "₺699,99",
+            "Starter Bonus Pack": "₺69,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730991747140,
@@ -1244,14 +1516,22 @@
   "884153085": {
     "name": "Remote, Mouse & Keyboard Pro",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730822556340,
@@ -1273,14 +1553,22 @@
   "886561127": {
     "name": "INSIDE by Playdead",
     "maxPriceInfo": {
-      "price": 799.99,
-      "formattedPrice": "₺799,99"
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
     },
     "minPriceInfo": {
       "price": 799.99,
       "formattedPrice": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1294,8 +1582,8 @@
   "898876435": {
     "name": "Planit Pro: Photo Planner",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99",
+      "price": 449.99,
+      "formattedPrice": "₺449,99",
       "3D Model (A Year)": "₺64,99",
       "Location Explorer (Month)": "₺114,99",
       "3D Model (A Month)": "₺22,99",
@@ -1310,6 +1598,19 @@
       "Location Explorer (A Year)": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "3D Model (A Year)": "₺64,99",
+            "3D Model (A Month)": "₺22,99",
+            "Location Explorer (Month)": "₺114,99",
+            "Location Explorer (A Year)": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1359,6 +1660,14 @@
     "history": [
       [
         {
+          "timestamp": 1733126594374,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1732449836211,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -1388,6 +1697,14 @@
     "history": [
       [
         {
+          "timestamp": 1733126594374,
+          "price": 1499.99,
+          "formattedPrice": "₺1.499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1732446123247,
           "price": 1299.99,
           "formattedPrice": "₺1.299,99",
@@ -1407,14 +1724,22 @@
   "916366645": {
     "name": "Procreate Pocket",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1428,14 +1753,22 @@
   "920133658": {
     "name": "Anatomy & Physiology",
     "maxPriceInfo": {
-      "price": 1299.99,
-      "formattedPrice": "₺1.299,99"
+      "price": 1499.99,
+      "formattedPrice": "₺1.499,99"
     },
     "minPriceInfo": {
       "price": 1299.99,
       "formattedPrice": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 1499.99,
+          "formattedPrice": "₺1.499,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1449,14 +1782,22 @@
   "931188326": {
     "name": "DayCost Pro - Personal Finance",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1470,14 +1811,22 @@
   "932747118": {
     "name": "Shadowrocket",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1499,6 +1848,14 @@
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732453550683,
@@ -1526,14 +1883,22 @@
   "956086985": {
     "name": "Dollar Bill Origami",
     "maxPriceInfo": {
-      "price": 79.99,
-      "formattedPrice": "₺79,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1589,14 +1954,22 @@
   "1020541183": {
     "name": "MovieSpirit - Movie Maker Pro",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
     },
     "minPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1612,7 +1985,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Remove ads": "₺99,99"
+      "Remove ads": "₺129,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -1620,6 +1993,16 @@
       "Remove ads": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remove ads": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1678,14 +2061,22 @@
   "1062745479": {
     "name": "HeartWatch: Heart Rate Tracker",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1699,14 +2090,22 @@
   "1065802380": {
     "name": "Stream Music Player",
     "maxPriceInfo": {
-      "price": 79.99,
-      "formattedPrice": "₺79,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1731802163194,
@@ -1736,16 +2135,16 @@
   "1067198688": {
     "name": "彩云天气Pro",
     "maxPriceInfo": {
-      "price": 599.99,
-      "formattedPrice": "₺599,99",
+      "price": 699.99,
+      "formattedPrice": "₺699,99",
       "SVIP auto-renew annually": "₺299,99",
       "SVIP auto-renew yearly": "₺399,99",
-      "545 Days SVIP": "₺499,99",
+      "545 Days SVIP": "₺599,99",
       "3-Year SVIP": "₺999,99",
-      "100 Days SVIP": "₺99,99",
+      "100 Days SVIP": "₺129,99",
       "Quarterly SVIP": "₺99,99",
       "1-Year SVIP": "₺499,99",
-      "Annual Special SVIP": "₺499,99"
+      "Annual Special SVIP": "₺599,99"
     },
     "minPriceInfo": {
       "price": 599.99,
@@ -1760,6 +2159,21 @@
       "Annual Special SVIP": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "₺29,99",
+            "SVIP auto-renew yearly": "₺399,99",
+            "Annual Special SVIP": "₺599,99",
+            "545 Days SVIP": "₺599,99",
+            "3-Year SVIP": "₺999,99",
+            "100 Days SVIP": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732245119182,
@@ -1796,14 +2210,22 @@
   "1080235640": {
     "name": "CNU - 顶尖视觉精选",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1857,14 +2279,22 @@
   "1108032375": {
     "name": "Rise of the Tomb Raider™",
     "maxPriceInfo": {
-      "price": 999.99,
-      "formattedPrice": "₺999,99"
+      "price": 1299.99,
+      "formattedPrice": "₺1.299,99"
     },
     "minPriceInfo": {
       "price": 999.99,
       "formattedPrice": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 1299.99,
+          "formattedPrice": "₺1.299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1878,11 +2308,11 @@
   "1117998129": {
     "name": "Human Anatomy Atlas 2025",
     "maxPriceInfo": {
-      "price": 799.99,
-      "formattedPrice": "₺799,99",
-      "Patient Education Animations": "₺799,99",
-      "Advanced Animations": "₺399,99",
-      "3D Dental Anatomy": "₺299,99"
+      "price": 899.99,
+      "formattedPrice": "₺899,99",
+      "Patient Education Animations": "₺899,99",
+      "Advanced Animations": "₺449,99",
+      "3D Dental Anatomy": "₺349,99"
     },
     "minPriceInfo": {
       "price": 799.99,
@@ -1892,6 +2322,18 @@
       "3D Dental Anatomy": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {
+            "Patient Education Animations": "₺899,99",
+            "Advanced Animations": "₺449,99",
+            "3D Dental Anatomy": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1915,7 +2357,7 @@
       "Infuse Pro - Monthly": "₺59,99",
       "DTS Audio": "₺0,00",
       "Dolby Audio": "₺0,00",
-      "Infuse Pro - Lifetime": "₺3.999,99"
+      "Infuse Pro - Lifetime": "₺4.499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -1927,6 +2369,20 @@
       "Infuse Pro - Lifetime": "₺3.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Infuse Pro - Yearly": "₺299,99",
+            "Infuse Pro - Monthly": "₺59,99",
+            "DTS Audio": "₺0,00",
+            "Dolby Audio": "₺0,00",
+            "Infuse Pro - Lifetime": "₺4.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -1952,12 +2408,12 @@
       "私信付费8元": "₺39,99",
       "私信付费6元": "₺39,99",
       "私信付费3元": "₺39,99",
-      "998元": "₺5.999,99",
+      "998元": "₺6.999,99",
       "618元": "₺3.999,99",
-      "488元": "₺2.999,99",
-      "218元": "₺1.199,99",
-      "118元": "₺699,99",
-      "50元": "₺299,99"
+      "488元": "₺3.499,99",
+      "218元": "₺1.499,99",
+      "118元": "₺799,99",
+      "50元": "₺349,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -1974,6 +2430,25 @@
       "50元": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "私信付费1元": "₺39,99",
+            "私信付费8元": "₺39,99",
+            "私信付费6元": "₺39,99",
+            "私信付费3元": "₺39,99",
+            "998元": "₺6.999,99",
+            "618元": "₺3.999,99",
+            "488元": "₺3.499,99",
+            "218元": "₺1.499,99",
+            "118元": "₺799,99",
+            "50元": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2035,25 +2510,25 @@
   "1163515895": {
     "name": "鲨鱼记账本Pro-管家理财必备工具",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99",
-      "128财富币": "₺799,99",
-      "88财富币": "₺499,99",
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
+      "128财富币": "₺899,99",
+      "88财富币": "₺599,99",
       "198财富币": "₺999,99",
       "168财富币": "₺999,99",
-      "1998财富币": "₺9.999,99",
-      "1598财富币": "₺8.999,99",
-      "898财富币": "₺4.999,99",
-      "418财富币": "₺2.299,99",
-      "98财富币": "₺599,99",
-      "998财富币": "₺5.999,99"
+      "1998财富币": "₺12.999,99",
+      "1598财富币": "₺9.999,99",
+      "898财富币": "₺5.999,99",
+      "418财富币": "₺2.499,99",
+      "98财富币": "₺699,99",
+      "998财富币": "₺6.999,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99",
       "128财富币": "₺799,99",
       "88财富币": "₺499,99",
-      "198财富币": "₺999,99",
+      "198财富币": "₺1.299,99",
       "168财富币": "₺999,99",
       "1998财富币": "₺9.999,99",
       "1598财富币": "₺8.999,99",
@@ -2063,6 +2538,25 @@
       "998财富币": "₺5.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "128财富币": "₺899,99",
+            "88财富币": "₺599,99",
+            "198财富币": "₺1.299,99",
+            "168财富币": "₺999,99",
+            "1998财富币": "₺12.999,99",
+            "1598财富币": "₺9.999,99",
+            "898财富币": "₺5.999,99",
+            "418财富币": "₺2.499,99",
+            "98财富币": "₺699,99",
+            "998财富币": "₺6.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2087,14 +2581,22 @@
   "1164801111": {
     "name": "AutoSleep Track Sleep on Watch",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2144,9 +2646,9 @@
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99",
-      "VIP会员  1年": "₺22.999,99",
-      "VIP会员  3个月": "₺5.999,99",
-      "VIP会员  1个月": "₺2.299,99"
+      "VIP会员  1年": "₺24.999,99",
+      "VIP会员  3个月": "₺6.999,99",
+      "VIP会员  1个月": "₺2.499,99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -2156,6 +2658,18 @@
       "VIP会员  1个月": "₺2.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "VIP会员  1年": "₺24.999,99",
+            "VIP会员  3个月": "₺6.999,99",
+            "VIP会员  1个月": "₺2.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2178,7 +2692,7 @@
       "PRO yearly subscription": "₺579,99",
       "Yearly Subscription": "₺459,99",
       "Monthly Subscription": "₺109,99",
-      "Lifetime license": "₺3.999,99"
+      "Lifetime license": "₺4.499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -2189,6 +2703,19 @@
       "Lifetime license": "₺3.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "₺579,99",
+            "Lifetime license": "₺4.499,99",
+            "Yearly Subscription": "₺459,99",
+            "Monthly Subscription": "₺109,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2209,7 +2736,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "INSIDE full game": "₺249,99"
+      "INSIDE full game": "₺299,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -2217,6 +2744,16 @@
       "INSIDE full game": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "INSIDE full game": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2234,7 +2771,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Picsew Pro": "₺79,99",
+      "Picsew Pro": "₺99,99",
       "Picsew Plus": "₺39,99",
       "Upgrade to Picsew Plus": "₺0,00",
       "Upgrade to Picsew Pro": "₺39,99"
@@ -2248,6 +2785,19 @@
       "Upgrade to Picsew Pro": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Picsew Pro": "₺99,99",
+            "Picsew Plus": "₺39,99",
+            "Upgrade to Picsew Plus": "₺0,00",
+            "Upgrade to Picsew Pro": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2266,14 +2816,22 @@
   "1210251567": {
     "name": "SleepTown",
     "maxPriceInfo": {
-      "price": 79.99,
-      "formattedPrice": "₺79,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2287,14 +2845,22 @@
   "1255627901": {
     "name": "Instant Noodles: Original",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2308,14 +2874,22 @@
   "1261944766": {
     "name": "Alook Browser - 8x Speed",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2377,7 +2951,7 @@
       "Retro Frame Pack": "₺39,99",
       "Stroke Frame Pack": "₺39,99",
       "Color Frame Pack": "₺39,99",
-      "Upgrade Deluxe Edition": "₺229,99"
+      "Upgrade Deluxe Edition": "₺249,99"
     },
     "minPriceInfo": {
       "price": 59.99,
@@ -2394,6 +2968,25 @@
       "Upgrade Deluxe Edition": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 59.99,
+          "formattedPrice": "₺59,99",
+          "inAppPurchases": {
+            "Design Frame Package": "₺39,99",
+            "Social Frame Package": "₺39,99",
+            "Magazine Frame Package": "₺39,99",
+            "Black Frame Pack": "₺39,99",
+            "Geometric Frame Pack": "₺39,99",
+            "Stamp Frame Pack": "₺39,99",
+            "Retro Frame Pack": "₺39,99",
+            "Stroke Frame Pack": "₺39,99",
+            "Color Frame Pack": "₺39,99",
+            "Upgrade Deluxe Edition": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733011838899,
@@ -2494,14 +3087,22 @@
   "1314212521": {
     "name": "PPHub For GitHub - Developer",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2515,14 +3116,22 @@
   "1319191852": {
     "name": "熊猫吃短信 - 垃圾短信过滤",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2538,16 +3147,16 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "纸短情长-纸质信纸尊享版": "₺229,99",
-      "纸短情长-纸质信纸普通版": "₺79,99",
-      "时间胶囊-永久去广告": "₺29,99",
+      "纸短情长-纸质信纸尊享版": "₺249,99",
+      "纸短情长-纸质信纸普通版": "₺99,99",
+      "时间胶囊-永久去广告": "₺39,99",
       "时间胶囊-年度超级会员": "₺99,99",
-      "纸短情长-纸质信纸升级版": "₺149,99",
+      "纸短情长-纸质信纸升级版": "₺179,99",
       "时间胶囊-月度超级会员服务": "₺5,49",
-      "时间胶囊超级会员": "₺229,99",
+      "时间胶囊超级会员": "₺249,99",
       "给你的Ta寄一封三行情书": "₺4,99",
       "给未来寄一封带照片的信": "₺4,99",
-      "获取不限字数的信纸": "₺29,99"
+      "获取不限字数的信纸": "₺39,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -2564,6 +3173,25 @@
       "获取不限字数的信纸": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "纸短情长-纸质信纸尊享版": "₺249,99",
+            "纸短情长-纸质信纸普通版": "₺99,99",
+            "时间胶囊-永久去广告": "₺39,99",
+            "时间胶囊-年度超级会员": "₺99,99",
+            "纸短情长-纸质信纸升级版": "₺179,99",
+            "时间胶囊-月度超级会员服务": "₺5,49",
+            "时间胶囊超级会员": "₺249,99",
+            "给你的Ta寄一封三行情书": "₺4,99",
+            "给未来寄一封带照片的信": "₺4,99",
+            "获取不限字数的信纸": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2588,23 +3216,23 @@
   "1361473095": {
     "name": "MuseDash",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
       "Valentine Stage": "₺149,99",
-      "Touhou Mugakudan -Ⅰ-": "₺149,99",
-      "Touhou Mugakudan -Ⅱ-": "₺149,99",
+      "Touhou Mugakudan -Ⅰ-": "₺179,99",
+      "Touhou Mugakudan -Ⅱ-": "₺179,99",
       "Rin·Len's Mirrorland": "₺349,99",
       "Miku in Museland": "₺349,99",
       "MUSE RADIO FM103": "₺99,99",
-      "cyTus": "₺229,99",
-      "Let's GROOVE": "₺149,99",
+      "cyTus": "₺249,99",
+      "Let's GROOVE": "₺179,99",
       "Ola Dash": "₺149,99",
       "Muse Radio FM101": "₺149,99",
       "Novice Rider Pack": "₺39,99",
       "DJMAX Reflect": "₺299,99",
-      "MUSE RADIO FM104": "₺149,99",
-      "Endless Pirouette": "₺229,99",
-      "unlockall_29": "₺1.299,99"
+      "MUSE RADIO FM104": "₺179,99",
+      "Endless Pirouette": "₺249,99",
+      "unlockall_29": "₺1.499,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -2626,6 +3254,25 @@
       "unlockall_29": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "unlockall_29": "₺1.499,99",
+            "MUSE RADIO FM104": "₺179,99",
+            "Touhou Mugakudan -Ⅱ-": "₺179,99",
+            "Novice Rider Pack": "₺39,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "cyTus": "₺249,99",
+            "Let's GROOVE": "₺179,99",
+            "Endless Pirouette": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732744938774,
@@ -2872,14 +3519,22 @@
   "1371965583": {
     "name": "The Gardens Between",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2893,14 +3548,22 @@
   "1373567447": {
     "name": "Loon",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2914,14 +3577,22 @@
   "1373575045": {
     "name": "The Gardens Between",
     "maxPriceInfo": {
-      "price": 799.99,
-      "formattedPrice": "₺799,99"
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
     },
     "minPriceInfo": {
       "price": 799.99,
       "formattedPrice": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -2972,12 +3643,12 @@
   "1389752090": {
     "name": "Dead Cells",
     "maxPriceInfo": {
-      "price": 349.99,
-      "formattedPrice": "₺349,99",
-      "The Bad Seed": "₺149,99",
-      "Fatal Falls": "₺149,99",
-      "QUEEN AND THE SEA  DLC": "₺149,99",
-      "Return to Castlevania": "₺249,99"
+      "price": 399.99,
+      "formattedPrice": "₺399,99",
+      "The Bad Seed": "₺179,99",
+      "Fatal Falls": "₺179,99",
+      "QUEEN AND THE SEA  DLC": "₺179,99",
+      "Return to Castlevania": "₺299,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -2988,6 +3659,19 @@
       "Return to Castlevania": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "The Bad Seed": "₺179,99",
+            "Fatal Falls": "₺179,99",
+            "QUEEN AND THE SEA  DLC": "₺179,99",
+            "Return to Castlevania": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730765284493,
@@ -3019,14 +3703,22 @@
   "1391571907": {
     "name": "Fine - Photo Editor",
     "maxPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3112,11 +3804,11 @@
     "maxPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99",
-      "A bundle of gold coins": "₺79,99",
-      "A stack of gold coins": "₺29,99",
-      "A large number of gold coins": "₺149,99",
+      "A bundle of gold coins": "₺99,99",
+      "A stack of gold coins": "₺39,99",
+      "A large number of gold coins": "₺179,99",
       "A gold coin": "₺4,99",
-      "Purchase the current game": "₺79,99"
+      "Purchase the current game": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -3128,6 +3820,20 @@
       "Purchase the current game": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "A bundle of gold coins": "₺99,99",
+            "A stack of gold coins": "₺39,99",
+            "Purchase the current game": "₺99,99",
+            "A large number of gold coins": "₺179,99",
+            "A gold coin": "₺4,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732813340473,
@@ -3171,14 +3877,22 @@
   "1438243180": {
     "name": "Dark Reader for Safari",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3192,14 +3906,22 @@
   "1439569401": {
     "name": "Shadow of the Tomb Raider",
     "maxPriceInfo": {
-      "price": 1999.99,
-      "formattedPrice": "₺1.999,99"
+      "price": 2499.99,
+      "formattedPrice": "₺2.499,99"
     },
     "minPriceInfo": {
       "price": 1999.99,
       "formattedPrice": "₺1.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 2499.99,
+          "formattedPrice": "₺2.499,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3215,7 +3937,7 @@
     "maxPriceInfo": {
       "price": 19.99,
       "formattedPrice": "₺19,99",
-      "Permanent VIP": "₺149,99",
+      "Permanent VIP": "₺179,99",
       "Yearly VIP": "₺70,99",
       "Monthly VIP": "₺8,99",
       "Transparent Widget": "₺0,00",
@@ -3233,6 +3955,21 @@
       "Unlock all dynamic wallpapers": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Permanent VIP": "₺179,99",
+            "Yearly VIP": "₺70,99",
+            "Monthly VIP": "₺8,99",
+            "Transparent Widget": "₺0,00",
+            "Unlock all Tools": "₺19,99",
+            "Unlock all dynamic wallpapers": "₺4,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3253,14 +3990,22 @@
   "1441532941": {
     "name": "Divinity: Original Sin 2",
     "maxPriceInfo": {
-      "price": 1799.99,
-      "formattedPrice": "₺1.799,99"
+      "price": 1999.99,
+      "formattedPrice": "₺1.999,99"
     },
     "minPriceInfo": {
       "price": 1799.99,
       "formattedPrice": "₺1.799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 1999.99,
+          "formattedPrice": "₺1.999,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3277,7 +4022,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "Feature Subscription": "₺399,99",
-      "Surge Pro": "₺1.999,99"
+      "Surge Pro": "₺2.299,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -3286,6 +4031,17 @@
       "Surge Pro": "₺1.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Feature Subscription": "₺399,99",
+            "Surge Pro": "₺2.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3302,14 +4058,22 @@
   "1443988620": {
     "name": "Quantumult X",
     "maxPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99"
+      "price": 349.99,
+      "formattedPrice": "₺349,99"
     },
     "minPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3326,7 +4090,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "Goodnotes 6 (1 year)": "₺379,00",
-      "GoodNotes 5 Unlock": "₺399,99",
+      "GoodNotes 5 Unlock": "₺449,99",
       "Goodnotes 6 One-Time Payment": "₺919,00",
       "Goodnotes 6 Free Trial": "₺0,00",
       "Goodnotes 6 (1 Year)": "₺379,00",
@@ -3363,6 +4127,23 @@
       "2025 Ultimate Rainbow Planner": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺379,00",
+            "GoodNotes 5 Unlock": "₺449,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Goodnotes 6 One-Time Payment": "₺919,00",
+            "Goodnotes 6 (1 Year)": "₺379,00",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732521782265,
@@ -3421,7 +4202,7 @@
       "formattedPrice": "Free",
       "Yearly Subscription": "₺699,99",
       "Monthly Subscription": "₺299,99",
-      "Exclusive Lifetime Offer": "₺2.999,99",
+      "Exclusive Lifetime Offer": "₺3.499,99",
       "Lifetime": "₺4.999,99"
     },
     "minPriceInfo": {
@@ -3433,6 +4214,19 @@
       "Lifetime": "₺4.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "₺699,99",
+            "Monthly Subscription": "₺299,99",
+            "Exclusive Lifetime Offer": "₺3.499,99",
+            "Lifetime": "₺4.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3451,14 +4245,22 @@
   "1445379072": {
     "name": "GRIS",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3472,9 +4274,9 @@
   "1449020025": {
     "name": "不玩手机-自律习惯养成记",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
-      "不玩手机永久会员": "₺149,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
+      "不玩手机永久会员": "₺179,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -3482,6 +4284,16 @@
       "不玩手机永久会员": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "不玩手机永久会员": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3571,10 +4383,10 @@
   "1461652639": {
     "name": "TCP  UDP Debugger",
     "maxPriceInfo": {
-      "price": 79.99,
-      "formattedPrice": "₺79,99",
-      "Encourage  us, Buy me a coffee": "₺99,99",
-      "Encourage us, Donate Coke": "₺29,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Encourage  us, Buy me a coffee": "₺129,99",
+      "Encourage us, Donate Coke": "₺39,99"
     },
     "minPriceInfo": {
       "price": 79.99,
@@ -3583,6 +4395,17 @@
       "Encourage us, Donate Coke": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Encourage  us, Buy me a coffee": "₺129,99",
+            "Encourage us, Donate Coke": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3601,9 +4424,9 @@
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99",
-      "300 Altitude Query Times": "₺149,99",
-      "100 Altitude Query Times": "₺99,99",
-      "MyTracks Premium": "₺399,99"
+      "300 Altitude Query Times": "₺179,99",
+      "100 Altitude Query Times": "₺129,99",
+      "MyTracks Premium": "₺449,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -3613,6 +4436,18 @@
       "MyTracks Premium": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "300 Altitude Query Times": "₺179,99",
+            "100 Altitude Query Times": "₺129,99",
+            "MyTracks Premium": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3630,14 +4465,22 @@
   "1465779286": {
     "name": "GRIS",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
     },
     "minPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3707,12 +4550,12 @@
   "1476649036": {
     "name": "Pascal's Wager",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99",
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
       "Deep into the Dark Mist": "₺39,99",
-      "The Tides of Oblivion": "₺99,99",
+      "The Tides of Oblivion": "₺129,99",
       "Herald outfit for Terrence": "₺39,99",
-      "Dance of the Throne": "₺79,99",
+      "Dance of the Throne": "₺99,99",
       "Initiation Rite": "₺39,99",
       "Enigma": "₺39,99",
       "Sleeping Beauty": "₺39,99"
@@ -3729,6 +4572,22 @@
       "Sleeping Beauty": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Deep into the Dark Mist": "₺39,99",
+            "The Tides of Oblivion": "₺129,99",
+            "Herald outfit for Terrence": "₺39,99",
+            "Dance of the Throne": "₺99,99",
+            "Initiation Rite": "₺39,99",
+            "Enigma": "₺39,99",
+            "Sleeping Beauty": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3750,14 +4609,22 @@
   "1481100296": {
     "name": "BreatheIn: Calm Breathing",
     "maxPriceInfo": {
-      "price": 79.99,
-      "formattedPrice": "₺79,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3771,14 +4638,22 @@
   "1484181693": {
     "name": "截图超人 - 微商专用的营销助手截图神器",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3792,9 +4667,9 @@
   "1485101937": {
     "name": "Juice Watch",
     "maxPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
-      "Premium Features": "₺149,99",
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
+      "Premium Features": "₺179,99",
       "Value for Value": "₺39,99"
     },
     "minPriceInfo": {
@@ -3804,6 +4679,17 @@
       "Value for Value": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Premium Features": "₺179,99",
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732234125540,
@@ -3863,14 +4749,22 @@
   "1512838461": {
     "name": "DayCircle - Day counter",
     "maxPriceInfo": {
-      "price": 79.99,
-      "formattedPrice": "₺79,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3887,9 +4781,9 @@
       "price": 39.99,
       "formattedPrice": "₺39,99",
       "698包野果": "₺3.999,99",
-      "98包野果": "₺599,99",
-      "30包野果": "₺199,99",
-      "12包野果": "₺79,99",
+      "98包野果": "₺699,99",
+      "30包野果": "₺229,99",
+      "12包野果": "₺99,99",
       "6包野果": "₺39,99"
     },
     "minPriceInfo": {
@@ -3902,6 +4796,20 @@
       "6包野果": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "698包野果": "₺3.999,99",
+            "98包野果": "₺699,99",
+            "30包野果": "₺229,99",
+            "12包野果": "₺99,99",
+            "6包野果": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3923,24 +4831,39 @@
     "maxPriceInfo": {
       "price": 499.99,
       "formattedPrice": "₺499,99",
-      "120000 GP": "₺799,99",
+      "120000 GP": "₺899,99",
       "200000 GP": "₺999,99",
-      "25000 GP": "₺229,99",
-      "50000 GP": "₺399,99",
-      "5000 GP": "₺79,99",
-      "Remove Ad": "₺99,99"
+      "25000 GP": "₺249,99",
+      "50000 GP": "₺449,99",
+      "5000 GP": "₺99,99",
+      "Remove Ad": "₺129,99"
     },
     "minPriceInfo": {
       "price": 499.99,
       "formattedPrice": "₺499,99",
       "120000 GP": "₺799,99",
-      "200000 GP": "₺999,99",
+      "200000 GP": "₺1.299,99",
       "25000 GP": "₺229,99",
       "50000 GP": "₺399,99",
       "5000 GP": "₺79,99",
       "Remove Ad": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "120000 GP": "₺899,99",
+            "200000 GP": "₺1.299,99",
+            "25000 GP": "₺249,99",
+            "50000 GP": "₺449,99",
+            "5000 GP": "₺99,99",
+            "Remove Ad": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3961,14 +4884,22 @@
   "1529445840": {
     "name": "Reeder Classic",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -3982,14 +4913,22 @@
   "1529448980": {
     "name": "Reeder Classic.",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
     },
     "minPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4042,15 +4981,15 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime": "₺149,99",
+      "Lifetime": "₺179,99",
       "Free Trial": "₺0,00",
       "Community VIP": "₺0,00",
       "Education VIP - 2024": "₺0,00",
       "Yearly VIP": "₺99,99",
       "Tester Award": "₺0,00",
-      "Americano": "₺79,99",
-      "Mocha": "₺149,99",
-      "Latte": "₺99,99"
+      "Americano": "₺99,99",
+      "Mocha": "₺179,99",
+      "Latte": "₺129,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4066,6 +5005,24 @@
       "Latte": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺179,99",
+            "Free Trial": "₺0,00",
+            "Americano": "₺99,99",
+            "Mocha": "₺179,99",
+            "Latte": "₺129,99",
+            "Community VIP": "₺0,00",
+            "Education VIP - 2024": "₺0,00",
+            "Yearly VIP": "₺99,99",
+            "Tester Award": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732712922450,
@@ -4107,7 +5064,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "PasteNow Free Trial": "₺0,00",
-      "PasteNow Pro": "₺299,99"
+      "PasteNow Pro": "₺349,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4116,6 +5073,17 @@
       "PasteNow Pro": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PasteNow Free Trial": "₺0,00",
+            "PasteNow Pro": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4134,7 +5102,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Fileball Pro Lifetime": "₺399,99"
+      "Fileball Pro Lifetime": "₺449,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4142,6 +5110,16 @@
       "Fileball Pro Lifetime": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1731370080087,
@@ -4167,14 +5145,22 @@
   "1564383045": {
     "name": "CLRS.Helper",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1731492142773,
@@ -4198,7 +5184,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "MenubarX Pro": "₺249,99"
+      "MenubarX Pro": "₺299,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4206,6 +5192,16 @@
       "MenubarX Pro": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "MenubarX Pro": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4229,6 +5225,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732986141552,
@@ -4347,7 +5351,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime": "₺199,99"
+      "Lifetime": "₺229,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4355,6 +5359,16 @@
       "Lifetime": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1731430929415,
@@ -4390,14 +5404,22 @@
   "1592917505": {
     "name": "Noir – Dark Mode for Safari",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4414,13 +5436,13 @@
       "price": 0,
       "formattedPrice": "Free",
       "Quarterly Membership": "₺59,99",
-      "Lifetime - Education": "₺399,99",
-      "年度会员升级终身会员": "₺399,99",
+      "Lifetime - Education": "₺449,99",
+      "年度会员升级终身会员": "₺449,99",
       "Yearly Membership": "₺149,99",
       "Monthly Membership": "₺19,99",
-      "年度会员": "₺149,99",
+      "年度会员": "₺179,99",
       "月度会员": "₺39,99",
-      "Lifetime Membership": "₺399,99"
+      "Lifetime Membership": "₺449,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4435,6 +5457,23 @@
       "Lifetime Membership": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Quarterly Membership": "₺59,99",
+            "Lifetime - Education": "₺449,99",
+            "年度会员升级终身会员": "₺449,99",
+            "Yearly Membership": "₺149,99",
+            "Monthly Membership": "₺19,99",
+            "年度会员": "₺179,99",
+            "月度会员": "₺39,99",
+            "Lifetime Membership": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4459,7 +5498,7 @@
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99",
-      "Cheat Codes": "₺99,99"
+      "Cheat Codes": "₺129,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -4467,6 +5506,16 @@
       "Cheat Codes": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Cheat Codes": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4482,14 +5531,22 @@
   "1596063349": {
     "name": "Stash - Rule Based Proxy",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4505,7 +5562,7 @@
     "maxPriceInfo": {
       "price": 19.99,
       "formattedPrice": "₺19,99",
-      "黄鸭证件照永久VIP": "₺79,99",
+      "黄鸭证件照永久VIP": "₺99,99",
       "黄鸭证件照-周度会员": "₺19,99",
       "黄鸭证件照1元": "₺4,99",
       "黄鸭证件照3元": "₺19,99"
@@ -4519,6 +5576,19 @@
       "黄鸭证件照3元": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "₺99,99",
+            "黄鸭证件照-周度会员": "₺19,99",
+            "黄鸭证件照1元": "₺4,99",
+            "黄鸭证件照3元": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4707,9 +5777,9 @@
   "1601446687": {
     "name": "Streets of Rage 4",
     "maxPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
-      "Mr. X Nightmare DLC": "₺99,99"
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
+      "Mr. X Nightmare DLC": "₺129,99"
     },
     "minPriceInfo": {
       "price": 299.99,
@@ -4717,6 +5787,16 @@
       "Mr. X Nightmare DLC": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4817,8 +5897,8 @@
   "1618180398": {
     "name": "PhotoSync-Backup your photos",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4826,6 +5906,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1733098148351,
           "price": 29.99,
@@ -4854,14 +5940,22 @@
   "1620883955": {
     "name": "Little Nightmares",
     "maxPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99"
+      "price": 349.99,
+      "formattedPrice": "₺349,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730765284493,
@@ -4883,14 +5977,22 @@
   "1622341132": {
     "name": "iSleeper: Sleep Tracker",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1731229340791,
@@ -4936,8 +6038,8 @@
       "price": 0,
       "formattedPrice": "Free",
       "Bob Free Trial": "₺0,00",
-      "Bob Pro": "₺349,99",
-      "Bob Pro Original": "₺349,99"
+      "Bob Pro": "₺399,99",
+      "Bob Pro Original": "₺399,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4947,6 +6049,18 @@
       "Bob Pro Original": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Bob Free Trial": "₺0,00",
+            "Bob Pro": "₺399,99",
+            "Bob Pro Original": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4966,7 +6080,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "APTV Pro": "₺149,99"
+      "APTV Pro": "₺179,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4974,6 +6088,16 @@
       "APTV Pro": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "APTV Pro": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -4991,7 +6115,7 @@
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99",
-      "Buy Pro Version": "₺99,99"
+      "Buy Pro Version": "₺129,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -4999,6 +6123,16 @@
       "Buy Pro Version": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Buy Pro Version": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5064,14 +6198,22 @@
   "1633865171": {
     "name": "獬豸 · 民法典 - 法律/司法解释/指导案例",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5087,7 +6229,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro(Lifetime)": "₺399,99",
+      "Pro(Lifetime)": "₺449,99",
       "Pro (Yearly)": "₺249,99",
       "Pro (Monthly)": "₺59,99"
     },
@@ -5099,6 +6241,18 @@
       "Pro (Monthly)": "₺59,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro(Lifetime)": "₺449,99",
+            "Pro (Yearly)": "₺249,99",
+            "Pro (Monthly)": "₺59,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5258,14 +6412,22 @@
   "1658579911": {
     "name": "XIAOTE - Tesla BLE Watch key",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
     },
     "minPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5288,11 +6450,23 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime": "₺499,99",
+      "Lifetime": "₺1.299,99",
       "1 Month": "₺59,99",
       "1 Year": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺1.299,99",
+            "1 Month": "₺59,99",
+            "1 Year": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1731124939881,
@@ -5490,8 +6664,8 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Early Bird Membership": "₺199,99",
-      "Lifetime Membership": "₺199,99",
+      "Early Bird Membership": "₺229,99",
+      "Lifetime Membership": "₺229,99",
       "Month Member": "₺9,99",
       "Annual subscription": "₺129,99"
     },
@@ -5504,6 +6678,19 @@
       "Annual subscription": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Early Bird Membership": "₺229,99",
+            "Lifetime Membership": "₺229,99",
+            "Month Member": "₺9,99",
+            "Annual subscription": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5524,7 +6711,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Premium Lifetime": "₺699,99",
+      "Premium Lifetime": "₺799,99",
       "Premium Monthly": "₺39,99",
       "Premium Annual": "₺349,99"
     },
@@ -5536,6 +6723,18 @@
       "Premium Annual": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Lifetime": "₺799,99",
+            "Premium Monthly": "₺39,99",
+            "Premium Annual": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5574,8 +6773,8 @@
   "6449383791": {
     "name": "GIF Recorder-ImproveEfficiency",
     "maxPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
       "Monthly": "₺4,99",
       "Yearly": "₺4,99"
     },
@@ -5586,6 +6785,17 @@
       "Yearly": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Monthly": "₺4,99",
+            "Yearly": "₺4,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5625,7 +6835,7 @@
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99",
-      "本体1-6章": "₺229,99"
+      "本体1-6章": "₺249,99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -5633,6 +6843,16 @@
       "本体1-6章": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "本体1-6章": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5673,7 +6893,7 @@
       "formattedPrice": "Free",
       "连续包月订阅": "₺29,99",
       "连续包年订阅": "₺249,99",
-      "拦截猫股东会员": "₺799,99"
+      "拦截猫股东会员": "₺899,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -5683,6 +6903,18 @@
       "拦截猫股东会员": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "连续包月订阅": "₺29,99",
+            "连续包年订阅": "₺249,99",
+            "拦截猫股东会员": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5700,14 +6932,22 @@
   "6444824570": {
     "name": "ClashX - 服务监控面板",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5721,14 +6961,22 @@
   "6480159520": {
     "name": "Whisper Pen - Speech to Text",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5744,11 +6992,11 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "₺2,99",
-      "终身会员": "₺99,99",
-      "季卡": "₺79,99",
+      "终身会员": "₺129,99",
+      "季卡": "₺99,99",
       "月度卡": "₺29,99",
       "周度卡": "₺19,99",
-      "月卡": "₺29,99",
+      "月卡": "₺39,99",
       "周卡": "₺19,99"
     },
     "minPriceInfo": {
@@ -5762,6 +7010,21 @@
       "周卡": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {
+            "终身会员": "₺129,99",
+            "季卡": "₺99,99",
+            "月度卡": "₺29,99",
+            "周度卡": "₺19,99",
+            "月卡": "₺39,99",
+            "周卡": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5819,7 +7082,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "包月会员": "₺79,99",
-      "永久会员": "₺799,99",
+      "永久会员": "₺899,99",
       "包年会员": "₺599,99"
     },
     "minPriceInfo": {
@@ -5830,6 +7093,18 @@
       "包年会员": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "包月会员": "₺79,99",
+            "永久会员": "₺899,99",
+            "包年会员": "₺599,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1731888526937,
@@ -5966,7 +7241,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro version lifetime": "₺399,99"
+      "Pro version lifetime": "₺449,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -5974,6 +7249,16 @@
       "Pro version lifetime": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733126594374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro version lifetime": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732066167850,
