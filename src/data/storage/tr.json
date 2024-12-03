@@ -1723,14 +1723,22 @@
   "904237743": {
     "name": "Things 3",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
     },
     "minPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733227411462,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -1760,14 +1768,22 @@
   "904280696": {
     "name": "Things 3",
     "maxPriceInfo": {
-      "price": 1999.99,
-      "formattedPrice": "₺1.999,99"
+      "price": 2299.99,
+      "formattedPrice": "₺2.299,99"
     },
     "minPriceInfo": {
       "price": 1299.99,
       "formattedPrice": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733227411462,
+          "price": 2299.99,
+          "formattedPrice": "₺2.299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
