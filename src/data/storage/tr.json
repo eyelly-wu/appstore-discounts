@@ -299,6 +299,25 @@
     "history": [
       [
         {
+          "timestamp": 1733270936713,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Monthly": "₺15,99",
+            "iCloud Sync Yearly": "₺199,99",
+            "Reset Password": "₺39,99",
+            "iCloud Sync Lifetime": "₺1.799,99",
+            "100 GB monthly": "₺229,99",
+            "10 GB monthly": "₺99,99",
+            "10 GB yearly": "₺999,99",
+            "1 TB monthly": "₺1.199,99",
+            "200 GB monthly": "₺399,99",
+            "1 TB yearly": "₺11.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1733126594374,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -551,6 +570,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733270936713,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733184601959,
@@ -934,8 +961,8 @@
   "598581396": {
     "name": "Kingdom Rush Frontiers TD",
     "maxPriceInfo": {
-      "price": 79.99,
-      "formattedPrice": "₺79,99",
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
       "Bonehart": "₺299,99",
       "Ashbite": "₺299,99",
       "Chest of gems": "₺449,99",
@@ -964,6 +991,25 @@
       "Kahz": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733270936713,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺229,99",
+            "Sha'tra": "₺129,99",
+            "Grawl": "₺129,99",
+            "Kahz": "₺229,99",
+            "Kutsao": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -1433,6 +1479,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733270936713,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733184601959,
@@ -2059,6 +2113,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733270936713,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733184601959,
@@ -3613,14 +3675,22 @@
   "1369179088": {
     "name": "Grimvalor",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733270936713,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732536222739,
