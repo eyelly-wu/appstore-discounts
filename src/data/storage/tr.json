@@ -201,6 +201,19 @@
     "history": [
       [
         {
+          "timestamp": 1733443737243,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "₺1.499,99",
+            "Premium Cloud Service Monthly": "₺22,99",
+            "Premium Cloud Service Yearly": "₺179,99",
+            "Reset Password": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1733184601959,
           "price": 0,
           "formattedPrice": "Free",
@@ -2657,14 +2670,22 @@
   "1159700098": {
     "name": "To the Moon",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733443737243,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732752535741,
@@ -3087,14 +3108,22 @@
   "1271620263": {
     "name": "ICEY",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733443737243,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732752535741,
@@ -3816,14 +3845,22 @@
   "1380582804": {
     "name": "Mobile Empire",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733443737243,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732234125540,
@@ -4556,14 +4593,22 @@
   "1453808408": {
     "name": "Juicy Realm",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
       "price": 79.99,
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733443737243,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732752535741,
@@ -5530,14 +5575,22 @@
   "1587860402": {
     "name": "Moncage",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733443737243,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732234125540,
@@ -6030,6 +6083,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733443737243,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733357343162,
