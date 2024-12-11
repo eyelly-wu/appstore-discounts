@@ -814,6 +814,19 @@
     "history": [
       [
         {
+          "timestamp": 1733875736876,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "₺399,99",
+            "Lifetime Cloud Services": "₺2.299,99",
+            "Monthly Cloud Services": "₺49,99",
+            "Reset Password": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1733126594374,
           "price": 129.99,
           "formattedPrice": "₺129,99",
