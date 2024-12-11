@@ -14187,14 +14187,22 @@
   "1622341132": {
     "name": "iSleeper: Sleep Tracker",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 7.99,
+      "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733893345360,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1731229340791,

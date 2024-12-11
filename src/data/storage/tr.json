@@ -6504,14 +6504,22 @@
   "1622341132": {
     "name": "iSleeper: Sleep Tracker",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 349.99,
+      "formattedPrice": "₺349,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733893345360,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
