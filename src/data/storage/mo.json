@@ -2305,10 +2305,18 @@
       "formattedPrice": "USD 5.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733929351360,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -6103,7 +6111,7 @@
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99",
-      "Notes Writer Pro AI Assistant": "USD 1.99"
+      "Notes Writer Pro AI Assistant": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -6111,6 +6119,16 @@
       "Notes Writer Pro AI Assistant": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733929351360,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -8483,6 +8501,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1733929351360,
+          "price": 1,
+          "formattedPrice": "USD 1.00",
+          "inAppPurchases": {
+            "Value for Value": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1733864549053,
           "price": 6.99,
@@ -12574,6 +12600,14 @@
       "formattedPrice": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733929351360,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732114953817,

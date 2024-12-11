@@ -2453,10 +2453,18 @@
       "formattedPrice": "HK$ 48.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733929351360,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -9814,7 +9822,7 @@
     "maxPriceInfo": {
       "price": 88,
       "formattedPrice": "HK$ 88.00",
-      "Notes Writer Pro AI Assistant": "HK$ 18.00"
+      "Notes Writer Pro AI Assistant": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 88,
@@ -9822,6 +9830,16 @@
       "Notes Writer Pro AI Assistant": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733929351360,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -11902,6 +11920,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1733929351360,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1733864549053,
           "price": 58,
@@ -16526,6 +16552,14 @@
       "formattedPrice": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733929351360,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732114953817,
