@@ -5711,14 +5711,22 @@
   "1576004936": {
     "name": "Chemistry Periodic Table 2025",
     "maxPriceInfo": {
-      "price": 799.99,
-      "formattedPrice": "₺799,99"
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733983389409,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733605328531,
