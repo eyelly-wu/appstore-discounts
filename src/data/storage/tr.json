@@ -1052,10 +1052,18 @@
       "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733962140079,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -4197,7 +4205,7 @@
     "maxPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99",
-      "Notes Writer Pro AI Assistant": "₺79,99"
+      "Notes Writer Pro AI Assistant": "₺179,99"
     },
     "minPriceInfo": {
       "price": 249.99,
@@ -4205,6 +4213,16 @@
       "Notes Writer Pro AI Assistant": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733962140079,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -5113,6 +5131,16 @@
       "Value for Value": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733962140079,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733864549053,
@@ -7105,14 +7133,22 @@
   "6449748961": {
     "name": "DEATH STRANDING DIRECTOR'S CUT",
     "maxPriceInfo": {
-      "price": 799.99,
-      "formattedPrice": "₺799,99"
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
     },
     "minPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1733962140079,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732147722318,
