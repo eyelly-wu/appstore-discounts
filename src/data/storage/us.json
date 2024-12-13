@@ -956,6 +956,21 @@
     "history": [
       [
         {
+          "timestamp": 1734062557829,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1733803358075,
           "price": 0,
           "formattedPrice": "Free",
@@ -2533,6 +2548,14 @@
     "history": [
       [
         {
+          "timestamp": 1734062557829,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1733976163411,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -2606,6 +2629,25 @@
       "Karkinos": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734062557829,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733707810983,
@@ -11540,6 +11582,16 @@
     "history": [
       [
         {
+          "timestamp": 1734062557829,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1733976163411,
           "price": 1,
           "formattedPrice": "$1.00",
@@ -12256,6 +12308,21 @@
       "120000 GP": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734062557829,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5000 GP": "$1.99",
+            "25000 GP": "$5.99",
+            "50000 GP": "$9.99",
+            "Remove Ad": "$2.99",
+            "200000 GP": "$29.99",
+            "120000 GP": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -14022,6 +14089,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1734062557829,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1734012141107,
           "price": 0,

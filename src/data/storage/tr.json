@@ -5394,8 +5394,8 @@
       "Remove Ad": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "120000 GP": "₺799,99",
       "200000 GP": "₺1.299,99",
       "25000 GP": "₺229,99",
@@ -5404,6 +5404,21 @@
       "Remove Ad": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734062557829,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "120000 GP": "₺899,99",
+            "200000 GP": "₺1.299,99",
+            "25000 GP": "₺249,99",
+            "50000 GP": "₺449,99",
+            "5000 GP": "₺99,99",
+            "Remove Ad": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
