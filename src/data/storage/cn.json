@@ -1285,6 +1285,14 @@
     "history": [
       [
         {
+          "timestamp": 1734102151382,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1733756549721,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -1870,6 +1878,19 @@
       "Reset Password": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734102151382,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "¥328.00",
+            "Yearly Cloud Services": "¥68.00",
+            "Monthly Cloud Services": "¥15.00",
+            "Reset Password": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733842952441,
@@ -6335,6 +6356,25 @@
       "解锁角色Neko": "¥30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734102151382,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "1030 C.COIN": "¥98.00",
+            "60 C.COIN": "¥6.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "解锁角色Joe": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732172544312,
