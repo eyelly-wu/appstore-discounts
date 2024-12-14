@@ -6433,6 +6433,25 @@
     "history": [
       [
         {
+          "timestamp": 1734188538795,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$190.00",
+            "Retro Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Blue Cam Film Pack": "$30.00",
+            "Black Cam Film Pack": "$30.00",
+            "Purple Cam Film Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Green Cam Film Pack": "$30.00",
+            "Red Cam Film Pack": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732978936374,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -14289,6 +14308,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1734188538795,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1734163355839,
           "price": 0,

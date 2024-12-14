@@ -4910,6 +4910,25 @@
     "history": [
       [
         {
+          "timestamp": 1734188538795,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732978936374,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -10785,6 +10804,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1734188538795,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1734163355839,
           "price": 0,

@@ -5925,6 +5925,25 @@
     "history": [
       [
         {
+          "timestamp": 1734188538795,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732978936374,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -6356,6 +6375,25 @@
       "解锁角色Neko": "¥30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734188538795,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "1030 C.COIN": "¥98.00",
+            "60 C.COIN": "¥6.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "解锁角色Joe": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734102151382,
@@ -12612,6 +12650,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1734188538795,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1734163355839,
           "price": 0,
