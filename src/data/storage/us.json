@@ -6172,6 +6172,25 @@
     "history": [
       [
         {
+          "timestamp": 1734235353970,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1733025921726,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -13534,6 +13553,23 @@
     "history": [
       [
         {
+          "timestamp": 1734235353970,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "Tales of Valor": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "High-Quality Models": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "4 vs 4 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        },
+        {
           "timestamp": 1734202927173,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -14212,6 +14248,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1734235353970,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1734163355839,
           "price": 0,
