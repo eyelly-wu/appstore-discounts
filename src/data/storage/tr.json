@@ -5393,6 +5393,20 @@
     "history": [
       [
         {
+          "timestamp": 1734307772099,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "698包野果": "₺3.999,99",
+            "98包野果": "₺699,99",
+            "30包野果": "₺229,99",
+            "12包野果": "₺99,99",
+            "6包野果": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1734148955332,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -7177,8 +7191,8 @@
   "1644917705": {
     "name": "Cyber Manhunt",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99",
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
       "Hello World!": "₺39,99",
       "Home Sweet Home": "₺39,99"
     },
@@ -7189,6 +7203,17 @@
       "Home Sweet Home": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734307772099,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732838926430,
