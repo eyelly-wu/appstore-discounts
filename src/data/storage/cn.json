@@ -6,10 +6,18 @@
       "formattedPrice": "¥148.00"
     },
     "minPriceInfo": {
-      "price": 148,
-      "formattedPrice": "¥148.00"
+      "price": 58,
+      "formattedPrice": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734361349528,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -401,6 +409,19 @@
       "Reset Password": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734361349528,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "¥228.00",
+            "Premium Cloud Service Monthly": "¥7.00",
+            "Premium Cloud Service Yearly": "¥48.00",
+            "Reset Password": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733410955241,
@@ -1283,6 +1304,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734361349528,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734102151382,
@@ -11548,10 +11577,18 @@
       "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 8,
+      "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734361349528,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732546954713,

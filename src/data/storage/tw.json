@@ -6,10 +6,18 @@
       "formattedPrice": "$690.00"
     },
     "minPriceInfo": {
-      "price": 690,
-      "formattedPrice": "$690.00"
+      "price": 290,
+      "formattedPrice": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734361349528,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -465,6 +473,19 @@
       "Premium Cloud Service Yearly": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734361349528,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$1,190.00",
+            "Premium Cloud Service Yearly": "$220.00",
+            "Premium Cloud Service Monthly": "$30.00",
+            "Reset Password": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733410955241,
@@ -1459,6 +1480,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734361349528,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734102151382,
