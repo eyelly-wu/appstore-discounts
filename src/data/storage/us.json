@@ -12416,6 +12416,20 @@
     "history": [
       [
         {
+          "timestamp": 1734321760757,
+          "price": 0.89,
+          "formattedPrice": "$0.89",
+          "inAppPurchases": {
+            "6包野果": "$0.99",
+            "698包野果": "$96.99",
+            "98包野果": "$14.99",
+            "30包野果": "$4.99",
+            "12包野果": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1734148955332,
           "price": 0.49,
           "formattedPrice": "$0.49",
@@ -15036,6 +15050,17 @@
     "history": [
       [
         {
+          "timestamp": 1734321760757,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1732852956300,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -15814,6 +15839,25 @@
       "Weapon Upgrade Ticket x1 (C)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734321760757,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$19.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$14.99",
+            "Weapon Upgrade Ticket x5 (A)": "$7.49",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$5.29",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.29",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x3 (B)": "$5.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734139774746,
