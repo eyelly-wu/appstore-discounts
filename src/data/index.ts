@@ -7,7 +7,7 @@ import calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo from './calcula
 import updateFeeds from './rss'
 import { start, end, summarize } from './timer'
 import pushTelegramNotification from './telegram'
-import updateIpCounter from './ip'
+// import updateIpCounter from './ip'
 import pushDingTalkNotification from './dingtalk'
 
 async function controller() {
@@ -20,7 +20,7 @@ async function controller() {
 当前收录应用数：${appIds.length}`,
   )
 
-  await updateIpCounter()
+  // await updateIpCounter()
 
   const regionAppInfo = await getRegionAppInfo(appIds, regions)
 

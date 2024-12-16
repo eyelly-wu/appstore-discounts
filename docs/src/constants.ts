@@ -25,7 +25,7 @@ const links = [
   },
   {
     title: 'last-commit',
-    href: `${homepage}/commits/main`,
+    href: `${homepage}/commits/dev`,
   },
   {
     title: 'github-issues',
