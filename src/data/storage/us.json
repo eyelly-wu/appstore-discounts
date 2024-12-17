@@ -6,10 +6,18 @@
       "formattedPrice": "$19.99"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "$19.99"
+      "price": 7.99,
+      "formattedPrice": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734408165790,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -383,6 +391,19 @@
       "Reset Password": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734408165790,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733457756779,
@@ -1340,6 +1361,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734408165790,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734148955332,
@@ -2650,6 +2679,25 @@
       "Karkinos": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734408165790,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734300127076,
@@ -14335,6 +14383,12 @@
     "history": [
       [
         {
+          "timestamp": 1734408165790,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1734364957039,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -15884,6 +15938,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1734408165790,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$19.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$14.99",
+            "Weapon Upgrade Ticket x5 (A)": "$7.49",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$5.29",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.29",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x3 (B)": "$5.29"
+          }
+        },
         {
           "timestamp": 1734398983364,
           "price": 0,
