@@ -2681,6 +2681,23 @@
     "history": [
       [
         {
+          "timestamp": 1734537765218,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        },
+        {
           "timestamp": 1734534153588,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -17585,16 +17602,31 @@
       "formattedPrice": "Free",
       "Premium Lifetime": "$17.99",
       "Premium Monthly": "$0.99",
-      "Premium Annual": "$8.99"
+      "Premium Annual": "$8.99",
+      "Premium Lifetime-Early Bird": "$9.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "Premium Lifetime": "$17.99",
       "Premium Monthly": "$0.99",
-      "Premium Annual": "$8.99"
+      "Premium Annual": "$8.99",
+      "Premium Lifetime-Early Bird": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734537765218,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Lifetime": "$17.99",
+            "Premium Annual": "$8.99",
+            "Premium Monthly": "$0.99",
+            "Premium Lifetime-Early Bird": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723994479838,

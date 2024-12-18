@@ -17593,16 +17593,31 @@
       "formattedPrice": "免費",
       "Premium Monthly": "$30.00",
       "Premium Annual": "$290.00",
-      "Premium Lifetime": "$590.00"
+      "Premium Lifetime": "$590.00",
+      "Premium Lifetime-Early Bird": "$320.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Premium Monthly": "$30.00",
       "Premium Annual": "$220.00",
-      "Premium Lifetime": "$290.00"
+      "Premium Lifetime": "$290.00",
+      "Premium Lifetime-Early Bird": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734537765218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Lifetime": "$290.00",
+            "Premium Monthly": "$30.00",
+            "Premium Annual": "$220.00",
+            "Premium Lifetime-Early Bird": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730905336898,
