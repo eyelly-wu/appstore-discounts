@@ -411,6 +411,19 @@
     "history": [
       [
         {
+          "timestamp": 1734620559485,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "¥228.00",
+            "Premium Cloud Service Monthly": "¥7.00",
+            "Premium Cloud Service Yearly": "¥48.00",
+            "Reset Password": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1734361349528,
           "price": 0,
           "formattedPrice": "免费",
@@ -2225,6 +2238,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734620559485,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733065342731,
@@ -5160,6 +5181,14 @@
     "history": [
       [
         {
+          "timestamp": 1734620559485,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1733410955241,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -5328,6 +5357,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734620559485,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733410955241,
@@ -5856,6 +5893,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734620559485,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733410955241,
@@ -7932,6 +7977,14 @@
     "history": [
       [
         {
+          "timestamp": 1734620559485,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1733410955241,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -9927,6 +9980,14 @@
     "history": [
       [
         {
+          "timestamp": 1734620559485,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1733410955241,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -10031,6 +10092,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734620559485,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732806142028,
@@ -11494,6 +11563,14 @@
     "history": [
       [
         {
+          "timestamp": 1734620559485,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1731942147169,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -12217,6 +12294,14 @@
       "formattedPrice": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734620559485,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733410955241,
@@ -14009,6 +14094,14 @@
     "history": [
       [
         {
+          "timestamp": 1734620559485,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1733410955241,
           "price": 20,
           "formattedPrice": "¥20.00",
@@ -14499,9 +14592,19 @@
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00",
-      "本体1-6章": "¥32.00"
+      "本体1-6章": "¥29.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734620559485,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "本体1-6章": "¥29.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1731510135893,
