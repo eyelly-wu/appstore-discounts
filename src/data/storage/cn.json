@@ -1338,6 +1338,14 @@
     "history": [
       [
         {
+          "timestamp": 1734706948070,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734361349528,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -6517,6 +6525,23 @@
     "history": [
       [
         {
+          "timestamp": 1734706948070,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "60 C.COIN": "¥6.00",
+            "1030 C.COIN": "¥98.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "解锁角色Joe": "¥30.00"
+          }
+        },
+        {
           "timestamp": 1734703340212,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -11629,6 +11654,14 @@
     "history": [
       [
         {
+          "timestamp": 1734706948070,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734620559485,
           "price": 0,
           "formattedPrice": "免费",
@@ -13605,6 +13638,17 @@
       "Hello World!": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734706948070,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734274939083,

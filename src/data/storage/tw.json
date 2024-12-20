@@ -1514,6 +1514,14 @@
     "history": [
       [
         {
+          "timestamp": 1734706948070,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734361349528,
           "price": 390,
           "formattedPrice": "$390.00",
@@ -5412,6 +5420,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1734706948070,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {
+            "SVIP 連續包月": "$40.00",
+            "連續包月 SVIP": "$40.00",
+            "年度 SVIP": "$430.00",
+            "SVIP 連續包年": "$390.00",
+            "1年SVIP": "$390.00",
+            "新年特惠 1 年 SVIP 聯合禮包 3": "$390.00",
+            "新年特惠 1 年 SVIP 聯合禮包 2": "$390.00",
+            "新年特惠 1 年 SVIP 聯合禮包 1": "$390.00",
+            "SVIP特惠 (買一年送半年)": "$390.00",
+            "SVIP特惠 (買兩年送一年)": "$790.00"
+          }
+        },
         {
           "timestamp": 1734703340212,
           "price": 490,
@@ -13021,6 +13046,14 @@
     "history": [
       [
         {
+          "timestamp": 1734706948070,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734620559485,
           "price": 0,
           "formattedPrice": "免費",
@@ -15319,6 +15352,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734706948070,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734274939083,
