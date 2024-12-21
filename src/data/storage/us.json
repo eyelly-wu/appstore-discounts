@@ -1395,6 +1395,14 @@
     "history": [
       [
         {
+          "timestamp": 1734753747978,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734408165790,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -2720,6 +2728,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1734753747978,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        },
         {
           "timestamp": 1734721327081,
           "price": 1.99,
@@ -12911,6 +12936,14 @@
     "history": [
       [
         {
+          "timestamp": 1734753747978,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734667356801,
           "price": 0,
           "formattedPrice": "Free",
@@ -15375,6 +15408,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734753747978,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734321760757,
