@@ -1422,6 +1422,14 @@
     "history": [
       [
         {
+          "timestamp": 1734879728158,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734793325998,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -2282,6 +2290,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734879728158,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734620559485,
@@ -4390,6 +4406,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734879728158,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733238148974,
@@ -6626,8 +6650,8 @@
       "Black Cam Film Pack": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00",
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
       "Upgrade Deluxe Edition": "HK$ 48.00",
       "Retro Frame Pack": "HK$ 8.00",
       "Color Frame Pack": "HK$ 8.00",
@@ -6644,6 +6668,25 @@
       "Black Cam Film Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734879728158,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734188538795,
@@ -12978,6 +13021,20 @@
       "6包野果": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734879728158,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "698包野果": "HK$ 788.00",
+            "98包野果": "HK$ 118.00",
+            "30包野果": "HK$ 38.00",
+            "12包野果": "HK$ 18.00",
+            "6包野果": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734771828285,

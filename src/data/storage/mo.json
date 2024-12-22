@@ -1290,6 +1290,14 @@
     "history": [
       [
         {
+          "timestamp": 1734879728158,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734793325998,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -2150,6 +2158,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734879728158,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734620559485,
@@ -3128,6 +3144,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734879728158,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733238148974,
@@ -5075,8 +5099,8 @@
       "Black Cam Film Pack": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99",
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
       "Design Frame Package": "USD 0.99",
       "Social Frame Package": "USD 0.99",
       "Magazine Frame Package": "USD 0.99",
@@ -5094,6 +5118,25 @@
       "Black Cam Film Pack": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734879728158,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734188538795,
@@ -9568,6 +9611,20 @@
       "6包野果": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734879728158,
+          "price": 0.89,
+          "formattedPrice": "USD 0.89",
+          "inAppPurchases": {
+            "698包野果": "USD 96.99",
+            "98包野果": "USD 14.99",
+            "30包野果": "USD 4.99",
+            "12包野果": "USD 1.99",
+            "6包野果": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734771828285,
