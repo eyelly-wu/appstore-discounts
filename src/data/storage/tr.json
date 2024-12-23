@@ -774,6 +774,14 @@
     "history": [
       [
         {
+          "timestamp": 1734912521063,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734826134810,
           "price": 599.99,
           "formattedPrice": "₺599,99",
@@ -1089,6 +1097,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734912521063,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734653294516,
@@ -1868,6 +1884,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734912521063,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733270936713,
@@ -3574,8 +3598,8 @@
       "Upgrade Deluxe Edition": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 59.99,
-      "formattedPrice": "₺59,99",
+      "price": 29.99,
+      "formattedPrice": "₺29,99",
       "Design Frame Package": "₺39,99",
       "Social Frame Package": "₺39,99",
       "Magazine Frame Package": "₺39,99",
@@ -3588,6 +3612,25 @@
       "Upgrade Deluxe Edition": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734912521063,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {
+            "Design Frame Package": "₺39,99",
+            "Social Frame Package": "₺39,99",
+            "Magazine Frame Package": "₺39,99",
+            "Black Frame Pack": "₺39,99",
+            "Geometric Frame Pack": "₺39,99",
+            "Stamp Frame Pack": "₺39,99",
+            "Retro Frame Pack": "₺39,99",
+            "Stroke Frame Pack": "₺39,99",
+            "Color Frame Pack": "₺39,99",
+            "Upgrade Deluxe Edition": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734221396878,
@@ -5635,6 +5678,20 @@
       "6包野果": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1734912521063,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "698包野果": "₺3.999,99",
+            "98包野果": "₺699,99",
+            "30包野果": "₺229,99",
+            "12包野果": "₺99,99",
+            "6包野果": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734771828285,
