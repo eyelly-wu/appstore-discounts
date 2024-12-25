@@ -1429,6 +1429,14 @@
     "history": [
       [
         {
+          "timestamp": 1735099350158,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1735012951054,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -5239,10 +5247,18 @@
       "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735099350158,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -16569,6 +16585,25 @@
       "Weapon Upgrade Ticket x1 (C)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735099350158,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$19.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$14.99",
+            "Weapon Upgrade Ticket x5 (A)": "$7.49",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$5.29",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.29",
+            "Attaché Case: 'Classic'": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734926564026,
