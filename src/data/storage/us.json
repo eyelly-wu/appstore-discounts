@@ -1429,6 +1429,14 @@
     "history": [
       [
         {
+          "timestamp": 1735185752615,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1735099350158,
           "price": 0,
           "formattedPrice": "Free",
@@ -2801,6 +2809,25 @@
       "Karkinos": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735185752615,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734807720618,
@@ -5488,6 +5515,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735185752615,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1731816155231,
@@ -12231,6 +12266,16 @@
     "history": [
       [
         {
+          "timestamp": 1735185752615,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1734062557829,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -16585,6 +16630,25 @@
       "Weapon Upgrade Ticket x1 (C)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735185752615,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$19.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$14.99",
+            "Weapon Upgrade Ticket x5 (A)": "$7.49",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$5.29",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.29",
+            "Weapon Upgrade Ticket x3 (B)": "$5.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735099350158,
