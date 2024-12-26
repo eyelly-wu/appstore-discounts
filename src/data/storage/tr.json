@@ -1343,15 +1343,15 @@
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99",
-      "Bonehart": "₺249,99",
-      "Ashbite": "₺249,99",
+      "Bonehart": "₺229,99",
+      "Ashbite": "₺229,99",
       "Chest of gems": "₺399,99",
       "Bag of gems": "₺199,99",
-      "Kutsao": "₺99,99",
+      "Kutsao": "₺39,99",
       "Nivus": "₺39,99",
-      "Dante": "₺199,99",
-      "Sha'tra": "₺99,99",
-      "Grawl": "₺99,99",
+      "Dante": "₺129,99",
+      "Sha'tra": "₺39,99",
+      "Grawl": "₺39,99",
       "Captain Blackthorne": "₺39,99",
       "Kahz": "₺199,99",
       "Vault Of Gems": "₺2.299,99",
@@ -1367,6 +1367,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1735214596970,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺229,99",
+            "Ashbite": "₺229,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Captain Blackthorne": "₺39,99",
+            "Dante": "₺129,99",
+            "Sha'tra": "₺39,99",
+            "Grawl": "₺39,99",
+            "Kutsao": "₺39,99"
+          }
+        },
         {
           "timestamp": 1735171683579,
           "price": 39.99,
