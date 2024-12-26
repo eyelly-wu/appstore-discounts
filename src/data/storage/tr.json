@@ -789,6 +789,14 @@
     "history": [
       [
         {
+          "timestamp": 1735171683579,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1735085286644,
           "price": 0,
           "formattedPrice": "Free",
@@ -1358,6 +1366,25 @@
       "Hero Pack 5": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735171683579,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Captain Blackthorne": "₺39,99",
+            "Dante": "₺229,99",
+            "Sha'tra": "₺129,99",
+            "Grawl": "₺129,99",
+            "Kutsao": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734706948070,
@@ -2757,6 +2784,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735171683579,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -5556,6 +5591,16 @@
       "Value for Value": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735171683579,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734048538298,
