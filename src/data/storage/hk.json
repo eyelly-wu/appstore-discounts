@@ -1480,6 +1480,14 @@
     "history": [
       [
         {
+          "timestamp": 1735484526087,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1735398133297,
           "price": 0,
           "formattedPrice": "免費",
@@ -2097,6 +2105,19 @@
       "Reset Password": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735484526087,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "HK$ 388.00",
+            "Yearly Cloud Services": "HK$ 88.00",
+            "Monthly Cloud Services": "HK$ 18.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735225340351,
@@ -13719,6 +13740,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735484526087,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735398133297,
