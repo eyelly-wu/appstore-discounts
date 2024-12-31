@@ -12,6 +12,14 @@
     "history": [
       [
         {
+          "timestamp": 1735617750661,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734408165790,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -1442,6 +1450,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735617750661,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735531351892,
@@ -6687,6 +6703,25 @@
     "history": [
       [
         {
+          "timestamp": 1735617750661,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1734926564026,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -10691,6 +10726,19 @@
     "history": [
       [
         {
+          "timestamp": 1735617750661,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$9.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$23.99",
+            "Goodnotes 6 (1 Year)": "$9.99",
+            "Marketplace Content": "$10.99"
+          }
+        },
+        {
           "timestamp": 1735556526357,
           "price": 0,
           "formattedPrice": "Free",
@@ -14582,6 +14630,25 @@
       "Opposing Fronts - Russian": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735617750661,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "Tales of Valor": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "High-Quality Models": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00",
+            "4 vs 4 Skirmish Maps": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735444953134,
