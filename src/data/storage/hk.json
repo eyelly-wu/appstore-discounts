@@ -5600,9 +5600,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Premium": "HK$ 273.00"
+      "Premium": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735650321543,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723994479838,
@@ -6809,7 +6819,7 @@
     ]
   },
   "1261944766": {
-    "name": "Alook瀏覽器 - 8倍速",
+    "name": "Alook瀏覽器 - 5倍速",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
