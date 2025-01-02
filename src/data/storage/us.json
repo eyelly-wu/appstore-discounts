@@ -2927,6 +2927,25 @@
     "history": [
       [
         {
+          "timestamp": 1735790559256,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$0.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$0.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1735326129867,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -13925,6 +13944,16 @@
     "history": [
       [
         {
+          "timestamp": 1735790559256,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1735012951054,
           "price": 0,
           "formattedPrice": "Free",
@@ -15558,6 +15587,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735790559256,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735621338561,
@@ -18943,6 +18980,14 @@
       "formattedPrice": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735790559256,
+          "price": 39.99,
+          "formattedPrice": "$39.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733976163411,
