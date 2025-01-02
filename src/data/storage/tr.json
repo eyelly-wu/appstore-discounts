@@ -1486,6 +1486,25 @@
     "history": [
       [
         {
+          "timestamp": 1735776484580,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Dante": "₺229,99",
+            "Nivus": "₺39,99",
+            "Sha'tra": "₺129,99",
+            "Kutsao": "₺129,99",
+            "Captain Blackthorne": "₺39,99",
+            "Grawl": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1735358548472,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -6447,6 +6466,16 @@
     "history": [
       [
         {
+          "timestamp": 1735776484580,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "₺449,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1734998894959,
           "price": 0,
           "formattedPrice": "Free",
@@ -7293,14 +7322,22 @@
   "1610668825": {
     "name": "FyTube - YouTube Without Ads",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735776484580,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735621338561,
@@ -8183,6 +8220,14 @@
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735776484580,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733962140079,
