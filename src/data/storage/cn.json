@@ -14236,11 +14236,21 @@
       "解锁专业版(Pro)": "¥18.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "解锁专业版(Pro)": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735819396333,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁专业版(Pro)": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -15678,12 +15688,23 @@
       "年度订阅": "¥1.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "¥58.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "月度订阅": "¥1.00",
       "年度订阅": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735819396333,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "月度订阅": "¥1.00",
+            "年度订阅": "¥1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,

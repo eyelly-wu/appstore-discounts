@@ -12205,11 +12205,21 @@
       "Buy Pro Version": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Buy Pro Version": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735819396333,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -13570,12 +13580,23 @@
       "Yearly": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "USD 7.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Monthly": "USD 0.99",
       "Yearly": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735819396333,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly": "USD 0.99",
+            "Yearly": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,

@@ -7738,11 +7738,21 @@
       "Buy Pro Version": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Buy Pro Version": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735819396333,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Buy Pro Version": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -8474,12 +8484,23 @@
       "Yearly": "₺4,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Monthly": "₺4,99",
       "Yearly": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735819396333,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "₺4,99",
+            "Yearly": "₺4,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,

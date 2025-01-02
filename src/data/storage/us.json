@@ -16163,11 +16163,21 @@
       "Buy Pro Version": "$2.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Buy Pro Version": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735819396333,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Buy Pro Version": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -18816,12 +18826,23 @@
       "Yearly": "$0.99"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "$7.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Monthly": "$0.99",
       "Yearly": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735819396333,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "$0.99",
+            "Yearly": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,

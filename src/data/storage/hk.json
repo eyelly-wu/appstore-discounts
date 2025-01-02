@@ -16040,11 +16040,21 @@
       "Buy Pro Version": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Buy Pro Version": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735819396333,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
@@ -17893,12 +17903,23 @@
       "Yearly": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Monthly": "HK$ 8.00",
       "Yearly": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1735819396333,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly": "HK$ 8.00",
+            "Yearly": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
