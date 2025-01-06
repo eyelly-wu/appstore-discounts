@@ -14524,9 +14524,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "解锁专业版(Pro)": "¥18.00"
+      "解锁专业版(Pro)": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736175749991,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁专业版(Pro)": "¥0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735819396333,
