@@ -245,6 +245,19 @@
     "history": [
       [
         {
+          "timestamp": 1736122136914,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "₺1.499,99",
+            "Premium Cloud Service Monthly": "₺22,99",
+            "Premium Cloud Service Yearly": "₺179,99",
+            "Reset Password": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1735862892558,
           "price": 0,
           "formattedPrice": "Free",
@@ -2729,6 +2742,14 @@
     "history": [
       [
         {
+          "timestamp": 1736122136914,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1735862892558,
           "price": 0,
           "formattedPrice": "Free",
@@ -4033,6 +4054,25 @@
       "Upgrade Deluxe Edition": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736122136914,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Design Frame Package": "₺39,99",
+            "Social Frame Package": "₺39,99",
+            "Magazine Frame Package": "₺39,99",
+            "Black Frame Pack": "₺39,99",
+            "Geometric Frame Pack": "₺39,99",
+            "Stamp Frame Pack": "₺39,99",
+            "Retro Frame Pack": "₺39,99",
+            "Stroke Frame Pack": "₺39,99",
+            "Color Frame Pack": "₺39,99",
+            "Upgrade Deluxe Edition": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735603680605,
