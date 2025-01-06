@@ -401,6 +401,19 @@
     "history": [
       [
         {
+          "timestamp": 1736136149217,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1735876952544,
           "price": 0,
           "formattedPrice": "Free",
@@ -5367,6 +5380,14 @@
     "history": [
       [
         {
+          "timestamp": 1736136149217,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1735876952544,
           "price": 0,
           "formattedPrice": "Free",
@@ -6884,6 +6905,25 @@
     "history": [
       [
         {
+          "timestamp": 1736136149217,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1735617750661,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -7411,6 +7451,24 @@
       "Touhou Mugakudan -Ⅱ-": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736136149217,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Valentine Stage": "$3.99",
+            "Let's GROOVE": "$3.99",
+            "Rin·Len's Mirrorland": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735801347970,
@@ -17465,6 +17523,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1736136149217,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$19.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$14.99",
+            "Weapon Upgrade Ticket x5 (A)": "$7.49",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$5.29",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.29",
+            "Attaché Case: 'Classic'": "$0.99",
+            "Charm: 'Green Herb'": "$0.99"
+          }
+        },
         {
           "timestamp": 1736071336526,
           "price": 0,
