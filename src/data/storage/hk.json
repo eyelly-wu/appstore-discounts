@@ -18399,7 +18399,7 @@
       "Premium Monthly": "HK$ 8.00",
       "Premium Lifetime": "HK$ 148.00",
       "Premium Annual": "HK$ 68.00",
-      "Premium Lifetime-Early Bird": "HK$ 88.00"
+      "Premium Lifetime-Early Bird": "HK$ 148.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -18410,6 +18410,19 @@
       "Premium Lifetime-Early Bird": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736261626842,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Monthly": "HK$ 8.00",
+            "Premium Annual": "HK$ 58.00",
+            "Premium Lifetime-Early Bird": "HK$ 148.00",
+            "Premium Lifetime": "HK$ 78.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734537765218,

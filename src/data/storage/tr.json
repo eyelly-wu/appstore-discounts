@@ -8646,7 +8646,7 @@
       "Premium Lifetime": "₺799,99",
       "Premium Monthly": "₺39,99",
       "Premium Annual": "₺349,99",
-      "Premium Lifetime-Early Bird": "₺449,99"
+      "Premium Lifetime-Early Bird": "₺799,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -8657,6 +8657,19 @@
       "Premium Lifetime-Early Bird": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736261626842,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Lifetime-Early Bird": "₺799,99",
+            "Premium Lifetime": "₺799,99",
+            "Premium Monthly": "₺39,99",
+            "Premium Annual": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734537765218,

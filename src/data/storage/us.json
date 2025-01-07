@@ -19322,7 +19322,7 @@
       "Premium Lifetime": "$17.99",
       "Premium Monthly": "$0.99",
       "Premium Annual": "$8.99",
-      "Premium Lifetime-Early Bird": "$9.99"
+      "Premium Lifetime-Early Bird": "$17.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -19333,6 +19333,19 @@
       "Premium Lifetime-Early Bird": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736261626842,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Annual": "$8.99",
+            "Premium Monthly": "$0.99",
+            "Premium Lifetime": "$17.99",
+            "Premium Lifetime-Early Bird": "$17.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734537765218,

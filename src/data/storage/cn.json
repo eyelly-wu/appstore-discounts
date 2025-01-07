@@ -16265,7 +16265,7 @@
       "年度会员": "¥38.00",
       "月度会员": "¥6.00",
       "终身会员": "¥68.00",
-      "Premium Lifetime-Early Bird": "¥68.00"
+      "Premium Lifetime-Early Bird": "¥128.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -16276,6 +16276,19 @@
       "Premium Lifetime-Early Bird": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736261626842,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "月度会员": "¥6.00",
+            "年度会员": "¥38.00",
+            "终身会员": "¥68.00",
+            "Premium Lifetime-Early Bird": "¥128.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734537765218,
