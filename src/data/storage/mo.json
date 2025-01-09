@@ -73,6 +73,23 @@
     "history": [
       [
         {
+          "timestamp": 1736434953716,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "连续包年": "USD 39.99",
+            "连续包季": "USD 9.99",
+            "通用型套餐-25元": "USD 3.99",
+            "通用型套餐-159元": "USD 22.99",
+            "通用型套餐-318元": "USD 49.99",
+            "通用型套餐-718元": "USD 99.99",
+            "通用型套餐-468元": "USD 69.99",
+            "通用型套餐-408元": "USD 59.99",
+            "通用型套餐-329元": "USD 49.99",
+            "免广告会员十二个月15元": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1736431344151,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -10203,6 +10220,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736434953716,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735884160842,
