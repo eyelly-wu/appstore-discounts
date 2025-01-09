@@ -8206,6 +8206,18 @@
     "history": [
       [
         {
+          "timestamp": 1736413340277,
+          "price": 1399,
+          "formattedPrice": "₺1.399,00",
+          "inAppPurchases": {
+            "DLC pack": "₺419,00",
+            "Street Wolf Outfit": "₺60,99",
+            "All Access Voucher": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1733299370600,
           "price": 559.99,
           "formattedPrice": "₺559,99",
@@ -9326,7 +9338,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Base Game": "₺559,99",
+      "Base Game": "₺829,00",
       "DLC pack": "₺419,00",
       "All Access Voucher": "₺99,99",
       "Street Wolf Outfit": "₺60,99"
@@ -9340,6 +9352,19 @@
       "Street Wolf Outfit": "₺45,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736413340277,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺829,00",
+            "All Access Voucher": "₺99,99",
+            "DLC pack": "₺419,00",
+            "Street Wolf Outfit": "₺60,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733295758939,
