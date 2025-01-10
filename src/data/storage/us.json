@@ -6604,14 +6604,22 @@
   "1164801111": {
     "name": "AutoSleep Track Sleep on Watch",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99"
+      "price": 8.99,
+      "formattedPrice": "$8.99"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736485344773,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -11132,6 +11140,21 @@
       "2025 Ultimate Rainbow Planner": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736485344773,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$9.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$23.99",
+            "Goodnotes 6 (1 Year)": "$9.99",
+            "Marketplace Content": "$10.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1736323360418,
