@@ -5826,9 +5826,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Remove ads": "$2.99"
+      "Remove ads": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736496179624,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remove ads": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723312932144,

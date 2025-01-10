@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-01-09T14:05:23.959Z</updated>
+    <updated>2025-01-10T08:06:22.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,25 +18,27 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-01-09T14:05:23.959Z</updated>
+        <updated>2025-01-10T08:06:22.634Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[zFuse - Video Player]]></title>
-        <id>zFuse - Video Player-1736431344151</id>
-        <link href="https://apps.apple.com/tr/app/zfuse-video-player/id1009747025?uo=4"/>
-        <updated>2025-01-09T14:02:24.151Z</updated>
-        <summary type="html"><![CDATA[Price: ₺149,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/zfuse-video-player/id1009747025?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/02/ec/1802ecb8-d50e-d6f2-ce54-2b3d4b83815b/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺149,99</span> → <b>
+        <title type="html"><![CDATA[zFuse - Media Player]]></title>
+        <id>zFuse - Media Player-1736496179624</id>
+        <link href="https://apps.apple.com/tr/app/zfuse-media-player/id1054505347?uo=4"/>
+        <updated>2025-01-10T08:02:59.624Z</updated>
+        <summary type="html"><![CDATA[Remove ads: ₺129,99 → ₺39,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/zfuse-media-player/id1054505347?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/33/8b/8d338b1f-3a83-a798-0246-c325a2d14b98/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Remove ads：</strong><span>₺129,99</span> → <b>
   <strong>₺39,99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
   - zFuse can play all video formats and encodings, allowing you to play video files on your mobile device without need to convert to MP4.
 
 - zFuse supports ASS/SSA/SUP effects subtitles, you can experience the full effects subtitles like on your PC / Mac.
@@ -52,10 +54,10 @@
 - zFuse more detailed features are as follows:
 
     * SMB / CIFS playback/discovery (play media files on your pc easily).
-    * Download media file or directory from SAMBA/DLNA/WebDAV/FTP directly.
+    * Download media file or directory from SAMBA / DLNA directly.
     * UPnP / DLNA playback/discovery.
     * Airplay playback.
-    * Support Picture In Picture mode.
+    * Support iPad Picture In Picture mode.
     * Support iPad split-screen multitasking .
     * Hardware acceleration.
     * Supports HDR Tone Mapping on non-HDR display.
@@ -67,7 +69,6 @@
     * Multi soundtrack selection.
     * Embedded/External subtitle-track selection.
     * Subtitle synchronization .
-    * Audio synchronization .
     * Support for external subtitle font selection .
     * Preview for playlist file before run it.
     * Play bluray directory.
@@ -79,6 +80,7 @@
         - Support for Wi-Fi transmission, without connecting the USB cable to transfer files.
         - Support create of streaming-media playlist.
         - Support file decompression: 7z, zip, rar, tar, bz, bz2, etc.
+
     
     * Gesture function :
         - The horizontal of drag : adjust the playback position.
@@ -92,6 +94,8 @@
          - Space : pause/play.
          - Left Arrow : backward seek.
          - Right Arrow : forward seek.
+         - Up Arrow : increase volume.
+         - Down Arrow : decrease volume.
          - Esc : exit play. 
          - S : change the playback speed.
          - B : play previous.
@@ -102,6 +106,9 @@
     * Supported audio formats : MP3, WAV, WMA, FLAC, APE and so on.
     * Support subtitle format : SRT, SSA, ASS, SUP, VTT.
     * Supported image formats : JPG, PNG, BMP,TIFF,GIF,HEIC etc.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/80/ba/8180bada-9204-da39-114f-36d9ec75b7da/6bea3ebd-1387-4596-a62f-3e7f2fa0c01b_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/bc/4c/42bc4c0e-e483-40a7-7c41-cc8d6d61b8f2/7d076890-7a4b-4bee-835d-2217e49a9e1e__U7ad6_U7248_U77ed_U624b_U673a_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ca/69/b9/ca69b961-24d2-666c-8fb7-945708ceb8f2/a6f8f362-b67f-4b18-80cf-761d5e40f81c_55.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/92/2b/d6922b45-26e6-fbc3-9cb7-dabca6ff2edb/4a6977fe-5d01-4d63-bc83-b768c87ee02c_55_en_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/20/96/d92096e4-60c0-3dd1-3dda-2c1ec75bcf4c/2d476062-c90e-4f9b-b9ec-6d68beb77b96_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/82/53/9f/82539fa3-9278-f020-30ee-eaed623605db/34f6d01f-02a0-48c9-9fda-d1e8cd7093c4_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/78/26/72/78267252-51ff-ce8c-1ab4-0ba9ab2c5135/a66a1f13-0baa-479a-ac04-c359d5a5c338_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ee/95/b1/ee95b12a-9473-73fc-9097-b6f9cbfc8825/619a768f-4ab5-4307-b497-8990a8d75c95_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bb/79/0c/bb790cfc-d5c4-a01c-eece-ee0caca71abb/1806c4ca-7f40-45a2-9149-4d62d5d8badb__U6a2a_U7248iPad_en.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/00/10/48/00104871-ed80-7722-074f-2ac4a3ea35de/23fa53e2-ca9a-4ca1-b15c-93acf7c253c3_129.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/46/53/024653a2-3284-cfe6-5e20-ac77672a2d1e/043ab8f1-39cb-4284-9b19-d99866a78dbb_129_en.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/45/8a/9d/458a9d25-1e2a-26e2-c21c-a781571f9bc3/c312345e-6043-49bd-a22a-9f89f7c9590e_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/05/46/0705460d-81af-b45f-045f-5b2678a1ff8a/503666d8-5fe3-433e-ba9b-c6e743b466f5_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d8/f5/15/d8f5156a-46af-8e3f-884f-5afc97b3ad56/74ad5d11-0d66-4ae5-b4d3-a77c81abc124_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/d6/2c/add62c28-186b-ea1f-6e41-f57c7c0aef42/cde94407-3c91-47ad-9236-b7d67ee2d83d_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d8/59/a3/d859a3d8-334a-6b66-099b-d669e02c716f/87056b3b-6598-4dea-b2fd-61ad210badcb_1.png/552x414bb.png" />]]></content>
+    * Supported book formats : EPUB, TXT, PDF.
+    * Support editing format : Json, HTML,XML, C/C++, Lua, Java, Objective-C, Swift, Python, JavaScript.
+    * Supported document formats :  Word, Excel, PowerPoint, Numbers, Keynote, Pages, RTF, CSV.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/65/bd/a665bdc6-0554-cbc7-b025-c8545bfe659a/d0e25c03-b746-4cc8-bf4a-a396a1024aaa_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/7f/f0/0a7ff04a-c27d-b65b-0557-eaecc044d486/bf77647d-ed8f-4606-b22d-af45628c5392__U7ad6_U7248_U77ed_U624b_U673a_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/39/a9/2239a97f-955a-deec-1b2d-0d022c6db4d7/8c420357-1b7e-45a9-bde3-fcfb2acffb70_55_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/a6/d4/f0a6d484-2df9-01a8-9aa1-9a7ce56d8ccb/49b237cf-69c7-434b-a9d7-c4bc8f0e6f25_55_en_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/fc/7d/02fc7d8a-505b-71a0-ceb3-64b97bc5e122/7ab7ad43-bf7d-4c96-b07b-6d62e7b989dc_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/c7/47/01c7473f-75ba-364d-d048-8a93e182d160/5b2f68e9-936b-456b-b43a-2771bfffd833_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/81/b5/bb81b544-cf85-038f-2cab-8194b7531bcc/01ecb0b2-ba36-4e7d-be52-3d269de78d62_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/9f/b7/409fb77e-1518-42a2-1c87-0b80522bbdb3/6ea8d435-bb1c-4a9c-bf44-d317ce38f5a1_3.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/de/21/bede215f-0dbb-d9b3-e3fd-f3153d7bb241/de6269fe-530e-4ad8-a78f-223a635ad9f2_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/86/dc/e586dcb6-c302-2161-7c5b-3fe2f853d851/b973008f-57ce-4a9d-80a4-0bb5bf0dabab__U6a2a_U7248iPad_en.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/83/30/bc8330cf-eab9-5d07-4dfe-9937b5163b5c/e162ad07-f2cb-47d7-890a-f2523af70a3d_129_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/72/e8/2c72e8d4-992f-12e4-18c8-e62660330a15/b5676b30-7d2a-46a8-b1b5-33525df58548_129_en.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/bb/4f/34bb4f6a-ccd3-1a77-8a18-5efc6c2f19bf/ad056686-3a8d-4278-94da-9088cffae217_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/dd/21/7bdd2125-5e6d-2ff0-2c36-2ee137d82a77/3d9f9117-b005-4696-8505-7e2512184afa_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/72/30/ca723058-2476-2434-28c7-ce539c5b6d05/67d26d0b-ab09-42ea-ae45-d059b0e2d670_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/8f/58/5f8f588d-b6f2-0200-d2af-fe64dcb5e818/4af9c71a-da17-480e-8d91-ca312d0a0fa5_3.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

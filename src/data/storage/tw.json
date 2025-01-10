@@ -5723,9 +5723,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "去除廣告": "$90.00"
+      "去除廣告": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736496179624,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "去除廣告": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723312932144,
