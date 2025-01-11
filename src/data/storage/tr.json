@@ -1607,6 +1607,23 @@
     "history": [
       [
         {
+          "timestamp": 1736568151560,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺229,99",
+            "Sha'tra": "₺129,99",
+            "Captain Blackthorne": "₺39,99",
+            "Grawl": "₺129,99",
+            "Kutsao": "₺129,99"
+          }
+        },
+        {
           "timestamp": 1736558951507,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -9288,14 +9305,22 @@
   "6447023668": {
     "name": "爱韩剧 - 韩剧TV大全",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 19.99,
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736568151560,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
