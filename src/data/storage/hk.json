@@ -17437,14 +17437,22 @@
   "6447023668": {
     "name": "爱韩剧 - 韩剧TV大全",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736571732736,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
