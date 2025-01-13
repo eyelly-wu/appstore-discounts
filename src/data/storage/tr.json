@@ -7693,14 +7693,22 @@
   "1610668825": {
     "name": "FyTube - YouTube Without Ads",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736735210026,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735776484580,
