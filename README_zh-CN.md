@@ -47,6 +47,9 @@
 
 # 如何订阅
 
+> 友情提示:  
+> 通过 `RSS` 和 `Telegram` 订阅需要科学上网才能有好的体验，[了解如何科学上网](https://github.com/eyelly-wu/vpn)
+    
 ## RSS
 
 |编码|国家或地区|RSS 源|

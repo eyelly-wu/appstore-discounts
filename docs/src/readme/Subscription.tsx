@@ -1,21 +1,37 @@
-import React, {
-  H1,
-  Link,
-  Image,
-  Bold,
-  List,
-  render,
-  H2,
-  Table,
-} from 'jsx-to-md'
+import React, { H1, Link, Image, render, H2, Table } from 'jsx-to-md'
 import { linkObj, imageObj } from '../constants'
 import { getRegionNameMap } from 'appinfo.config'
 import { getCountryOrRegionText } from '../utils'
+
+// 友情提示
+function FriendlyTips() {
+  if (global.docLocale !== 'zh') return null
+  console.log({ locale: global.docLocale })
+
+  return (
+    <>
+      {`
+> ${t('友情提示')}:${`  `}
+> ${t(
+        '通过{0}和{1}订阅需要科学上网才能有好的体验，{2}',
+        ' `RSS` ',
+        ' `Telegram` ',
+        render(
+          <Link href="https://github.com/eyelly-wu/vpn">
+            {t('了解如何科学上网')}
+          </Link>,
+        ),
+      )}
+    `}
+    </>
+  )
+}
 
 export default function Subscription() {
   return (
     <>
       <H1>{t('如何订阅')}</H1>
+      <FriendlyTips />
       <H2>RSS</H2>
       <Table
         columns={[
