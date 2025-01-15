@@ -17728,7 +17728,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Pro version lifetime": "HK$ 88.00"
+      "Pro version lifetime": "HK$ 98.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -17736,6 +17736,16 @@
       "Pro version lifetime": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736946323931,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro version lifetime": "HK$ 98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732066167850,

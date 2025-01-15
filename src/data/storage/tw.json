@@ -6398,6 +6398,20 @@
     "history": [
       [
         {
+          "timestamp": 1736946323931,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "$3,290.00",
+            "Parallels Desktop for Mac #4": "$3,290.00",
+            "Parallels Desktop for Mac #3": "$3,290.00",
+            "Parallels Desktop for Mac": "$3,290.00",
+            "Parallels Desktop for Mac #2": "$3,290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1736280150220,
           "price": 0,
           "formattedPrice": "免費",
@@ -17657,7 +17671,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Pro version lifetime": "$320.00"
+      "Pro version lifetime": "$390.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -17665,6 +17679,16 @@
       "Pro version lifetime": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736946323931,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro version lifetime": "$390.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732066167850,
