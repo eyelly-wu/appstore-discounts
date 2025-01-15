@@ -11717,6 +11717,22 @@
     "history": [
       [
         {
+          "timestamp": 1736956943306,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "HK$ 88.00",
+            "GoodNotes 5完整版解鎖": "HK$ 88.00",
+            "Goodnotes 6 免費試用": "HK$ 0.00",
+            "Goodnotes 6 一次性付款": "HK$ 193.00",
+            "虛線方格：草稿紙張": "HK$ 8.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "HK$ 0.00",
+            "好心智雜誌": "HK$ 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1736913748381,
           "price": 0,
           "formattedPrice": "免費",
@@ -17657,14 +17673,22 @@
   "6447023668": {
     "name": "爱韩剧 - 韩剧TV大全",
     "maxPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1736956943306,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1736949742762,
