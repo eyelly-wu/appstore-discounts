@@ -6137,7 +6137,7 @@
       "formattedPrice": "Free",
       "Monthly": "₺59,99",
       "Lifetime": "₺800,00",
-      "Annual": "₺249,99"
+      "Annual": "₺299,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -6147,6 +6147,18 @@
       "Annual": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737108147056,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "₺59,99",
+            "Lifetime": "₺800,00",
+            "Annual": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,

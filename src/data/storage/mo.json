@@ -9791,9 +9791,21 @@
       "formattedPrice": "免費",
       "Lifetime": "USD 19.99",
       "Monthly": "USD 0.99",
-      "Annual": "USD 6.99"
+      "Annual": "USD 6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737108147056,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime": "USD 19.99",
+            "Monthly": "USD 0.99",
+            "Annual": "USD 6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723994479838,
