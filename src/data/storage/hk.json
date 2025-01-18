@@ -703,6 +703,25 @@
     "history": [
       [
         {
+          "timestamp": 1737212524161,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "iCloud Sync Monthly": "HK$ 8.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "10 GB monthly": "HK$ 22.00",
+            "10 GB yearly": "HK$ 228.00",
+            "1 TB monthly": "HK$ 388.00",
+            "200 GB monthly": "HK$ 88.00",
+            "1 TB yearly": "HK$ 3,888.00",
+            "200 GB yearly": "HK$ 788.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1736953342613,
           "price": 0,
           "formattedPrice": "免費",
@@ -14571,6 +14590,21 @@
     "history": [
       [
         {
+          "timestamp": 1737212524161,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Remove Ad": "HK$ 22.00",
+            "120000 GP": "HK$ 148.00",
+            "200000 GP": "HK$ 228.00",
+            "25000 GP": "HK$ 48.00",
+            "50000 GP": "HK$ 88.00",
+            "5000 GP": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1736866941556,
           "price": 0,
           "formattedPrice": "免費",
@@ -14774,6 +14808,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737212524161,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735484526087,
@@ -16418,6 +16460,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737212524161,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1737050552051,

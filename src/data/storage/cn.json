@@ -805,6 +805,25 @@
     "history": [
       [
         {
+          "timestamp": 1737212524161,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Reset Password": "¥8.00",
+            "iCloud Sync Yearly": "¥52.00",
+            "iCloud Sync Lifetime": "¥298.00",
+            "iCloud Sync Monthly": "¥6.00",
+            "100 GB monthly": "¥38.00",
+            "10 GB monthly": "¥22.00",
+            "10 GB yearly": "¥198.00",
+            "1 TB monthly": "¥328.00",
+            "200 GB monthly": "¥68.00",
+            "1 TB yearly": "¥3,298.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1736953342613,
           "price": 0,
           "formattedPrice": "免费",
@@ -5982,6 +6001,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1737212524161,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "6元": "¥8.00",
+            "18元": "¥22.00",
+            "50元": "¥58.00",
+            "118元": "¥128.00",
+            "218元": "¥228.00",
+            "488元": "¥498.00",
+            "私信付费1元": "¥8.00",
+            "私信付费8元": "¥8.00",
+            "私信付费6元": "¥8.00",
+            "私信付费3元": "¥8.00"
+          }
+        },
         {
           "timestamp": 1737208938911,
           "price": 8,
@@ -13022,6 +13058,21 @@
     "history": [
       [
         {
+          "timestamp": 1737212524161,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "5000 GP": "¥15.00",
+            "25000 GP": "¥38.00",
+            "Remove Ad": "¥22.00",
+            "50000 GP": "¥68.00",
+            "200000 GP": "¥198.00",
+            "120000 GP": "¥148.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1736866941556,
           "price": 0,
           "formattedPrice": "免费",
@@ -13183,6 +13234,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737212524161,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735484526087,
@@ -14513,6 +14572,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737212524161,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1737050552051,
