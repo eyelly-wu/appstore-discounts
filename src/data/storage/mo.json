@@ -5474,7 +5474,7 @@
       "formattedPrice": "免費",
       "Yearly Subscription": "USD 19.99",
       "PRO yearly subscription": "USD 24.99",
-      "Lifetime license": "USD 49.99",
+      "Lifetime license": "USD 99.99",
       "Monthly Subscription": "USD 5.49"
     },
     "minPriceInfo": {
@@ -5486,6 +5486,19 @@
       "Monthly Subscription": "USD 5.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737342245672,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime license": "USD 99.99",
+            "Yearly Subscription": "USD 19.99",
+            "Monthly Subscription": "USD 5.49",
+            "PRO yearly subscription": "USD 24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725237485711,
