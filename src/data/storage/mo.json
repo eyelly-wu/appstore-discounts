@@ -7432,13 +7432,25 @@
       "偉大的統治": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99",
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
       "異象號": "USD 1.99",
       "邪惡病房": "USD 2.99",
       "偉大的統治": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737532955262,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "異象號": "USD 1.99",
+            "邪惡病房": "USD 2.99",
+            "偉大的統治": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1723111343252,
