@@ -3078,6 +3078,14 @@
     "history": [
       [
         {
+          "timestamp": 1737583341908,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1732968188712,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -11567,6 +11575,21 @@
       "2025 Ultimate Rainbow Planner": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737583341908,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$9.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$23.99",
+            "Goodnotes 6 (1 Year)": "$9.99",
+            "Marketplace Content": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737518548817,
