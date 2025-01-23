@@ -1693,6 +1693,14 @@
     "history": [
       [
         {
+          "timestamp": 1737644546760,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1736780554632,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -2406,6 +2414,19 @@
       "Reset Password": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737644546760,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "¥328.00",
+            "Yearly Cloud Services": "¥68.00",
+            "Monthly Cloud Services": "¥15.00",
+            "Reset Password": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737385336242,
@@ -13108,6 +13129,20 @@
     "history": [
       [
         {
+          "timestamp": 1737644546760,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥8.00",
+            "解锁《致命坠落》DLC": "¥8.00",
+            "解锁《王后与海》DLC": "¥8.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1735484526087,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -15459,12 +15494,23 @@
       "暖雪全家桶": "¥37.00"
     },
     "minPriceInfo": {
-      "price": 25,
-      "formattedPrice": "¥25.00",
+      "price": 20,
+      "formattedPrice": "¥20.00",
       "DLC终业": "¥12.00",
       "暖雪全家桶": "¥37.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737644546760,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {
+            "DLC终业": "¥12.00",
+            "暖雪全家桶": "¥37.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
