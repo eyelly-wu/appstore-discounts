@@ -1676,6 +1676,14 @@
     "history": [
       [
         {
+          "timestamp": 1737730943198,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1737644546760,
           "price": 0,
           "formattedPrice": "免費",
@@ -6214,14 +6222,22 @@
   "1062745479": {
     "name": "HeartWatch: 監測心率",
     "maxPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737730943198,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -7074,14 +7090,22 @@
   "1164801111": {
     "name": "AutoSleep – 在手錶上追蹤睡眠",
     "maxPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737730943198,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -17738,6 +17762,17 @@
       "Hello World!": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737730943198,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1736694125518,
