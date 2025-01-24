@@ -2495,6 +2495,19 @@
     "history": [
       [
         {
+          "timestamp": 1737691347817,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$49.99",
+            "Yearly Cloud Services": "$9.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1737432153508,
           "price": 0,
           "formattedPrice": "Free",
