@@ -1044,6 +1044,14 @@
     "history": [
       [
         {
+          "timestamp": 1737763664009,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1737640939301,
           "price": 0,
           "formattedPrice": "Free",
@@ -3477,14 +3485,22 @@
   "1062745479": {
     "name": "HeartWatch: Heart Rate Tracker",
     "maxPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737763664009,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -4045,14 +4061,22 @@
   "1164801111": {
     "name": "AutoSleep Track Sleep on Watch",
     "maxPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737763664009,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -8940,6 +8964,17 @@
       "Home Sweet Home": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737763664009,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1736726925916,
