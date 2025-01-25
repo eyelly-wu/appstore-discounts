@@ -1782,6 +1782,14 @@
     "history": [
       [
         {
+          "timestamp": 1737777741896,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1737644546760,
           "price": 0,
           "formattedPrice": "Free",
@@ -6261,14 +6269,22 @@
   "1062745479": {
     "name": "HeartWatch: Heart Rate Tracker",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99"
+      "price": 8.99,
+      "formattedPrice": "$8.99"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737777741896,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -17844,6 +17860,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737777741896,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1736740949321,
