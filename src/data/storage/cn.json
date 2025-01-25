@@ -3043,6 +3043,14 @@
     "history": [
       [
         {
+          "timestamp": 1737817325604,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1737583341908,
           "price": 0,
           "formattedPrice": "免费",
@@ -8346,6 +8354,25 @@
     "history": [
       [
         {
+          "timestamp": 1737817325604,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "unlockall_0": "¥188.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "Let's GROOVE": "¥25.00",
+            "新手上路包": "¥8.00",
+            "unlockall_29": "¥138.00",
+            "Nyanya Universe!": "¥25.00",
+            "cyTus": "¥40.00",
+            "Phigros": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1737108147056,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -9972,6 +9999,14 @@
     "history": [
       [
         {
+          "timestamp": 1737817325604,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1732719744176,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -10146,13 +10181,25 @@
       "异象号": "¥12.00"
     },
     "minPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00",
+      "price": 5,
+      "formattedPrice": "¥5.00",
       "伟大的统治": "¥8.00",
       "邪恶病房": "¥12.00",
       "异象号": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737817325604,
+          "price": 5,
+          "formattedPrice": "¥5.00",
+          "inAppPurchases": {
+            "伟大的统治": "¥12.00",
+            "邪恶病房": "¥18.00",
+            "异象号": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737532955262,
@@ -13328,6 +13375,21 @@
     "history": [
       [
         {
+          "timestamp": 1737817325604,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "5000 GP": "¥15.00",
+            "25000 GP": "¥38.00",
+            "Remove Ad": "¥22.00",
+            "50000 GP": "¥68.00",
+            "200000 GP": "¥198.00",
+            "120000 GP": "¥148.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1737212524161,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -13848,10 +13910,18 @@
       "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
-      "price": 10,
-      "formattedPrice": "¥10.00"
+      "price": 8,
+      "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737817325604,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732719744176,
@@ -16881,10 +16951,18 @@
       "formattedPrice": "¥18.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 6,
+      "formattedPrice": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737817325604,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1737450144024,
