@@ -3158,6 +3158,14 @@
     "history": [
       [
         {
+          "timestamp": 1737864139032,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1737583341908,
           "price": 0,
           "formattedPrice": "Free",
@@ -7983,6 +7991,24 @@
       "Touhou Mugakudan -Ⅱ-": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737864139032,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737003728406,
@@ -14788,6 +14814,21 @@
     "history": [
       [
         {
+          "timestamp": 1737864139032,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remove Ad": "$2.99",
+            "200000 GP": "$29.99",
+            "5000 GP": "$1.99",
+            "25000 GP": "$5.99",
+            "50000 GP": "$9.99",
+            "120000 GP": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1737259347510,
           "price": 12,
           "formattedPrice": "$12.00",
@@ -16992,6 +17033,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1737864139032,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1737828136388,
           "price": 4.99,
