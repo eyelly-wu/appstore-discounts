@@ -3104,6 +3104,25 @@
     "history": [
       [
         {
+          "timestamp": 1737986550877,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "黑龍灰霸齒": "USD 4.99",
+            "骷心巫龍": "USD 4.99",
+            "英雄包 5": "USD 4.99",
+            "倪浮世": "USD 0.99",
+            "一箱寶石": "USD 9.99",
+            "帝娥翠": "USD 0.99",
+            "特別優惠大聖": "USD 2.99",
+            "但丁": "USD 2.99",
+            "庫紹": "USD 0.99",
+            "崗牢": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1735743734261,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -11634,6 +11653,16 @@
       "Fileball Pro Lifetime": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737986550877,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735743734261,

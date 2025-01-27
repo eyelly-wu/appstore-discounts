@@ -1837,6 +1837,23 @@
     "history": [
       [
         {
+          "timestamp": 1737986550877,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺229,99",
+            "Ashbite": "₺229,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Sha'tra": "₺39,99",
+            "Dante": "₺129,99",
+            "Grawl": "₺39,99",
+            "Kutsao": "₺39,99",
+            "Captain Blackthorne": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1737954143305,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -7453,6 +7470,16 @@
       "Fileball Pro Lifetime": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1737986550877,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735776484580,
