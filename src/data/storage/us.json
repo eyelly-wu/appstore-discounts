@@ -543,6 +543,19 @@
     "history": [
       [
         {
+          "timestamp": 1738123346707,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1737172943977,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -1835,6 +1848,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738123346707,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1737777741896,
@@ -11956,6 +11977,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1738123346707,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$9.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$23.99",
+            "Goodnotes 6 (1 Year)": "$9.99",
+            "Marketplace Content": "$10.99"
+          }
+        },
         {
           "timestamp": 1738062130219,
           "price": 0,
