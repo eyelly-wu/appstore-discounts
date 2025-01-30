@@ -1076,6 +1076,14 @@
     "history": [
       [
         {
+          "timestamp": 1738195683193,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1738109266093,
           "price": 0,
           "formattedPrice": "Free",
@@ -6457,6 +6465,14 @@
     "history": [
       [
         {
+          "timestamp": 1738195683193,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1737936496404,
           "price": 0,
           "formattedPrice": "Free",
@@ -7219,6 +7235,21 @@
     "history": [
       [
         {
+          "timestamp": 1738195683193,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "120000 GP": "₺899,99",
+            "200000 GP": "₺1.299,99",
+            "25000 GP": "₺249,99",
+            "50000 GP": "₺449,99",
+            "5000 GP": "₺99,99",
+            "Remove Ad": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1737850107839,
           "price": 0,
           "formattedPrice": "Free",
@@ -7601,6 +7632,16 @@
       "Fileball Pro Lifetime": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738195683193,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737986550877,
