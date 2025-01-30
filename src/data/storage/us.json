@@ -1850,6 +1850,14 @@
     "history": [
       [
         {
+          "timestamp": 1738209751886,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1738123346707,
           "price": 0,
           "formattedPrice": "Free",
@@ -3448,6 +3456,25 @@
       "Karkinos": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738209751886,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bonehart": "$4.99",
+            "Ashbite": "$4.99",
+            "Sha'tra": "$0.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$0.99",
+            "Dante": "$2.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738114145338,
@@ -13726,6 +13753,14 @@
     "history": [
       [
         {
+          "timestamp": 1738209751886,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1737950547915,
           "price": 0,
           "formattedPrice": "Free",
@@ -15141,6 +15176,21 @@
     "history": [
       [
         {
+          "timestamp": 1738209751886,
+          "price": 12,
+          "formattedPrice": "$12.00",
+          "inAppPurchases": {
+            "5000 GP": "$1.99",
+            "25000 GP": "$5.99",
+            "50000 GP": "$9.99",
+            "Remove Ad": "$2.99",
+            "200000 GP": "$29.99",
+            "120000 GP": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1737864139032,
           "price": 0,
           "formattedPrice": "Free",
@@ -15636,6 +15686,16 @@
       "Fileball Pro Lifetime": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738209751886,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737986550877,
