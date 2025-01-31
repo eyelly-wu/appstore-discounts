@@ -10595,11 +10595,11 @@
       "Charm: 'Handgun Ammo'": "₺17,99",
       "Charm: 'Green Herb'": "₺17,99",
       "Attaché Case: 'Classic'": "₺17,99",
-      "Weapon Upgrade Ticket x3 (D)": "₺93,99",
-      "Weapon Upgrade Ticket x3 (C)": "₺93,99",
-      "Weapon Upgrade Ticket x1 (F)": "₺41,99",
-      "Weapon Upgrade Ticket x1 (E)": "₺41,99",
-      "Weapon Upgrade Ticket x1 (C)": "₺41,99",
+      "Weapon Upgrade Ticket x3 (D)": "₺125,00",
+      "Weapon Upgrade Ticket x3 (C)": "₺125,00",
+      "Weapon Upgrade Ticket x1 (F)": "₺54,99",
+      "Weapon Upgrade Ticket x1 (E)": "₺54,99",
+      "Weapon Upgrade Ticket x1 (C)": "₺54,99",
       "Weapon Upgrade Ticket x3 (B)": "₺125,00"
     },
     "minPriceInfo": {
@@ -10623,6 +10623,25 @@
       "Weapon Upgrade Ticket x3 (B)": "₺125,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738342941245,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺1.249,99",
+            "Extra DLC Pack": "₺359,00",
+            "Weapon Upgrade Ticket x5 (A)": "₺179,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺125,00",
+            "Weapon Upgrade Ticket x3 (D)": "₺125,00",
+            "Weapon Upgrade Ticket x3 (C)": "₺125,00",
+            "Weapon Upgrade Ticket x1 (F)": "₺54,99",
+            "Weapon Upgrade Ticket x1 (E)": "₺54,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺54,99",
+            "Weapon Upgrade Ticket x1 (C)": "₺54,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738040542484,
