@@ -840,6 +840,25 @@
     "history": [
       [
         {
+          "timestamp": 1738296147997,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Reset Password": "$0.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Yearly": "$7.99",
+            "iCloud Sync Lifetime": "$39.99",
+            "100 GB monthly": "$5.99",
+            "10 GB monthly": "$2.99",
+            "200 GB monthly": "$9.99",
+            "100 GB yearly": "$59.99",
+            "10 GB yearly": "$29.99",
+            "1 TB monthly": "$47.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1738036948952,
           "price": 0,
           "formattedPrice": "Free",
@@ -7634,6 +7653,25 @@
       "Red Cam Film Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738296147997,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738036948952,
