@@ -7059,6 +7059,16 @@
     "history": [
       [
         {
+          "timestamp": 1738598548627,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1736773624494,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -8419,7 +8429,14 @@
       "All Mission Content": "₺0,00",
       "Invasion of Normandy 6-10": "₺0,00",
       "Invasion of Normandy 11-15": "₺0,00",
-      "Russian Audio": "₺0,00"
+      "Russian Audio": "₺0,00",
+      "German Audio": "₺0,00",
+      "Tales of Valor - Russian": "₺0,00",
+      "Tales of Valor - Spanish": "₺0,00",
+      "Opposing Fronts - French": "₺0,00",
+      "Opposing Fronts - Spanish": "₺0,00",
+      "Tales of Valor - French": "₺0,00",
+      "French Audio": "₺0,00"
     },
     "minPriceInfo": {
       "price": 549,
@@ -8436,9 +8453,35 @@
       "All Mission Content": "₺0,00",
       "Invasion of Normandy 6-10": "₺0,00",
       "Invasion of Normandy 11-15": "₺0,00",
-      "Russian Audio": "₺0,00"
+      "Russian Audio": "₺0,00",
+      "German Audio": "₺0,00",
+      "Tales of Valor - Russian": "₺0,00",
+      "Tales of Valor - Spanish": "₺0,00",
+      "Opposing Fronts - French": "₺0,00",
+      "Opposing Fronts - Spanish": "₺0,00",
+      "Tales of Valor - French": "₺0,00",
+      "French Audio": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738598548627,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "German Audio": "₺0,00",
+            "Tales of Valor - Russian": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "Tales of Valor - Spanish": "₺0,00",
+            "Opposing Fronts - French": "₺0,00",
+            "Opposing Fronts - Spanish": "₺0,00",
+            "Tales of Valor - French": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "High-Quality Models": "₺0,00",
+            "French Audio": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735358548472,
