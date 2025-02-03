@@ -5135,7 +5135,8 @@
       "Endless Pirouette": "₺249,99",
       "unlockall_29": "₺999,99",
       "unlockall_30": "₺1.499,99",
-      "MSR Anthology_Vol.02": "₺179,99"
+      "MSR Anthology_Vol.02": "₺179,99",
+      "unlockall_16": "₺799,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -5156,9 +5157,28 @@
       "Endless Pirouette": "₺229,99",
       "unlockall_29": "₺1.299,99",
       "unlockall_30": "₺1.499,99",
-      "MSR Anthology_Vol.02": "₺179,99"
+      "MSR Anthology_Vol.02": "₺179,99",
+      "unlockall_16": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738546151794,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "unlockall_16": "₺799,99",
+            "Novice Rider Pack": "₺39,99",
+            "MSR Anthology_Vol.02": "₺179,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "cyTus": "₺249,99",
+            "Rin·Len's Mirrorland": "₺399,99",
+            "Miku in Museland": "₺249,99",
+            "Let's GROOVE": "₺179,99",
+            "Muse Radio FM101": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738114145338,
