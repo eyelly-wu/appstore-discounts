@@ -5907,14 +5907,22 @@
   "884153085": {
     "name": "Remote, Mouse & Keyboard Pro",
     "maxPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 690,
+      "formattedPrice": "$690.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738616542817,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734876127132,

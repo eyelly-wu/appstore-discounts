@@ -5846,14 +5846,22 @@
   "884153085": {
     "name": "Remote, Mouse & Keyboard Pro",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 148,
+      "formattedPrice": "HK$ 148.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738616542817,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734876127132,

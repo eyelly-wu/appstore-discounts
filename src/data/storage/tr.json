@@ -3048,14 +3048,22 @@
   "884153085": {
     "name": "Remote, Mouse & Keyboard Pro",
     "maxPriceInfo": {
-      "price": 449.99,
-      "formattedPrice": "₺449,99"
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738616542817,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734876127132,

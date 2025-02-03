@@ -5873,14 +5873,22 @@
   "884153085": {
     "name": "Remote, Mouse & Keyboard Pro",
     "maxPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00"
+      "price": 20,
+      "formattedPrice": "$20.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738616542817,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734876127132,
