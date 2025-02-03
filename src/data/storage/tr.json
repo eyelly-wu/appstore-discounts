@@ -1925,6 +1925,23 @@
     "history": [
       [
         {
+          "timestamp": 1738541296339,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Bag Of Gems": "₺129,99",
+            "Dante": "₺229,99",
+            "Captain Blackthorne": "₺39,99",
+            "Sha'tra": "₺129,99",
+            "Grawl": "₺129,99"
+          }
+        },
+        {
           "timestamp": 1738533738288,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -2794,6 +2811,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738541296339,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1737590870356,
