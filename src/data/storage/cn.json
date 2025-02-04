@@ -1836,6 +1836,14 @@
     "history": [
       [
         {
+          "timestamp": 1738684949068,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1738594943371,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -8849,7 +8857,7 @@
       "MD Plus Project": "¥25.00",
       "Phigros": "¥12.00",
       "MD 级战术教育光盘": "¥18.00",
-      "MSR特选曲目组合包_Vol.02": "¥25.00",
+      "MSR特选曲目组合包_Vol.02": "¥40.00",
       "宇宙电台 2024": "¥25.00"
     },
     "minPriceInfo": {
@@ -8890,6 +8898,25 @@
       "宇宙电台 2024": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738684949068,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "MSR特选曲目组合包_Vol.02": "¥40.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "unlockall_3": "¥138.00",
+            "新手上路包": "¥8.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "unlockall_0": "¥188.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "Let's GROOVE": "¥25.00",
+            "MD 级战术教育光盘": "¥18.00",
+            "Nyanya Universe!": "¥25.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738681341798,
