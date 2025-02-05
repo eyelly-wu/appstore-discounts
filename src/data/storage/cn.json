@@ -1836,6 +1836,12 @@
     "history": [
       [
         {
+          "timestamp": 1738767749327,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1738684949068,
           "price": 0,
           "formattedPrice": "免费",
@@ -16697,6 +16703,17 @@
       "终业(DLC)": "¥10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738767749327,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "终业(DLC)": "¥10.00",
+            "暖雪全家桶": "¥37.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737651757152,
