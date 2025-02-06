@@ -9639,6 +9639,18 @@
     "history": [
       [
         {
+          "timestamp": 1738828961304,
+          "price": 559.99,
+          "formattedPrice": "₺559,99",
+          "inAppPurchases": {
+            "DLC pack": "₺209,00",
+            "All Access Voucher": "₺39,99",
+            "Street Wolf Outfit": "₺45,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1736413340277,
           "price": 1399,
           "formattedPrice": "₺1.399,00",
@@ -10897,6 +10909,19 @@
     "history": [
       [
         {
+          "timestamp": 1738828961304,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺559,99",
+            "All Access Voucher": "₺39,99",
+            "DLC pack": "₺209,00",
+            "Street Wolf Outfit": "₺45,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1736413340277,
           "price": 0,
           "formattedPrice": "Free",
@@ -10995,6 +11020,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1738828961304,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺429,00",
+            "Separate Ways": "₺179,00",
+            "Attaché Case: 'Gold'": "₺17,99",
+            "Extra DLC Pack": "₺269,00",
+            "Weapon Upgrade Ticket x5 (A)": "₺134,99",
+            "Charm: 'Handgun Ammo'": "₺17,99",
+            "Weapon Upgrade Ticket x1 (B)": "₺41,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺41,99",
+            "Weapon Upgrade Ticket x3 (A)": "₺93,99",
+            "Charm: 'Green Herb'": "₺17,99"
+          }
+        },
         {
           "timestamp": 1738825351872,
           "price": 0,
