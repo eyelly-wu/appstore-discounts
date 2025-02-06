@@ -1352,6 +1352,21 @@
     "history": [
       [
         {
+          "timestamp": 1738854142499,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "Cloud Backup Yearly": "HK$ 68.00",
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "Cloud Backup Monthly": "HK$ 12.00",
+            "iCloud Sync Monthly": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1738594943371,
           "price": 0,
           "formattedPrice": "免費",
@@ -6171,6 +6186,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738854142499,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1736089339996,
@@ -12123,14 +12146,22 @@
   "1373567447": {
     "name": "Loon",
     "maxPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738854142499,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
