@@ -6057,8 +6057,8 @@
   "1400032769": {
     "name": "Card.Note - 多彩卡片笔记",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free",
+      "price": 19.99,
+      "formattedPrice": "₺19,99",
       "Card.Note Premiun": "₺39,99"
     },
     "minPriceInfo": {
@@ -6067,6 +6067,16 @@
       "Card.Note Premiun": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1738857734873,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Card.Note Premiun": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1731510135893,
