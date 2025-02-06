@@ -1897,6 +1897,14 @@
     "history": [
       [
         {
+          "timestamp": 1738814548082,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1738728157610,
           "price": 0,
           "formattedPrice": "Free",
@@ -12443,6 +12451,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1738814548082,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$9.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$23.99",
+            "Goodnotes 6 (1 Year)": "$9.99",
+            "Marketplace Content": "$1.99",
+            "Dotted Squares: Draft Papers": "$0.99"
+          }
+        },
         {
           "timestamp": 1738792949364,
           "price": 0,
