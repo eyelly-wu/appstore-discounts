@@ -5233,6 +5233,14 @@
     "history": [
       [
         {
+          "timestamp": 1739113325424,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1736002935079,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -6256,6 +6264,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739113325424,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1738854142499,
@@ -17938,11 +17954,21 @@
       "Mr. X Nightmare DLC": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00",
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
       "Mr. X Nightmare DLC": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739113325424,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734966140267,
