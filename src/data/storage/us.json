@@ -5151,6 +5151,14 @@
     "history": [
       [
         {
+          "timestamp": 1739160144870,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1736049746352,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -6240,6 +6248,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739160144870,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1738900945216,
@@ -8501,6 +8517,24 @@
       "Touhou Collection Bundle50": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739160144870,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "MSR Anthology_Vol.02": "$5.99",
+            "Miku in Museland": "$8.99",
+            "MSR Anthology": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "cyTus": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738731739772,
@@ -18051,11 +18085,21 @@
       "Mr. X Nightmare DLC": "$2.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "Mr. X Nightmare DLC": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739160144870,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735012951054,
