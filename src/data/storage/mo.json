@@ -2500,7 +2500,9 @@
       "Yearly Cloud Services": "USD 9.99",
       "Lifetime Cloud Services": "USD 49.99",
       "Monthly Cloud Services": "USD 1.99",
-      "Reset Password": "USD 0.99"
+      "Reset Password": "USD 0.99",
+      "Monthly Photos Transfer": "USD 1.99",
+      "Yearly Photos Transfer": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -2508,9 +2510,26 @@
       "Yearly Cloud Services": "USD 6.99",
       "Lifetime Cloud Services": "USD 34.99",
       "Monthly Cloud Services": "USD 1.99",
-      "Reset Password": "USD 0.99"
+      "Reset Password": "USD 0.99",
+      "Monthly Photos Transfer": "USD 1.99",
+      "Yearly Photos Transfer": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739397745555,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "USD 9.99",
+            "Lifetime Cloud Services": "USD 49.99",
+            "Monthly Photos Transfer": "USD 1.99",
+            "Yearly Photos Transfer": "USD 9.99",
+            "Monthly Cloud Services": "USD 1.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738940538055,
@@ -8495,6 +8514,22 @@
       "2025 商業與生活規劃器（灰色，Sun.Start，日曆整": "USD 10.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739397745555,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "USD 9.99",
+            "GoodNotes 5完整版解鎖": "USD 9.99",
+            "Goodnotes 6 免費試用": "USD 0.00",
+            "Goodnotes 6 一次性付款": "USD 21.99",
+            "虛線方格：草稿紙張": "USD 0.99",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "USD 0.00",
+            "市場內容": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739354541278,
