@@ -2731,7 +2731,8 @@
       "Monthly Cloud Services": "$50.00",
       "Reset Password": "$30.00",
       "Monthly Photos Transfer": "$60.00",
-      "Yearly Photos Transfer": "$320.00"
+      "Yearly Photos Transfer": "$320.00",
+      "Lifetime Photos Transfer": "$1,490.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -2741,10 +2742,25 @@
       "Monthly Cloud Services": "$50.00",
       "Reset Password": "$30.00",
       "Monthly Photos Transfer": "$60.00",
-      "Yearly Photos Transfer": "$320.00"
+      "Yearly Photos Transfer": "$320.00",
+      "Lifetime Photos Transfer": "$1,490.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1739401328065,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$1,490.00",
+            "Yearly Cloud Services": "$320.00",
+            "Monthly Cloud Services": "$50.00",
+            "Reset Password": "$30.00",
+            "Lifetime Photos Transfer": "$1,490.00",
+            "Monthly Photos Transfer": "$60.00",
+            "Yearly Photos Transfer": "$320.00"
+          }
+        },
         {
           "timestamp": 1739397745555,
           "price": 90,

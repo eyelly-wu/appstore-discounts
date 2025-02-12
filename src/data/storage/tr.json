@@ -1506,7 +1506,8 @@
       "Monthly Cloud Services": "₺49,99",
       "Reset Password": "₺39,99",
       "Monthly Photos Transfer": "₺99,99",
-      "Yearly Photos Transfer": "₺449,99"
+      "Yearly Photos Transfer": "₺449,99",
+      "Lifetime Photos Transfer": "₺2.299,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -1516,10 +1517,25 @@
       "Monthly Cloud Services": "₺49,99",
       "Reset Password": "₺39,99",
       "Monthly Photos Transfer": "₺99,99",
-      "Yearly Photos Transfer": "₺449,99"
+      "Yearly Photos Transfer": "₺449,99",
+      "Lifetime Photos Transfer": "₺2.299,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1739401328065,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "₺399,99",
+            "Lifetime Cloud Services": "₺2.299,99",
+            "Monthly Cloud Services": "₺49,99",
+            "Lifetime Photos Transfer": "₺2.299,99",
+            "Monthly Photos Transfer": "₺99,99",
+            "Yearly Photos Transfer": "₺449,99",
+            "Reset Password": "₺39,99"
+          }
+        },
         {
           "timestamp": 1739397745555,
           "price": 129.99,
