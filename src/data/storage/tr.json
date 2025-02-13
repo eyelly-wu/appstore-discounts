@@ -1170,6 +1170,14 @@
     "history": [
       [
         {
+          "timestamp": 1739405300221,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1738800476986,
           "price": 599.99,
           "formattedPrice": "₺599,99",
@@ -8838,6 +8846,19 @@
       "黄鸭证件照3元": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739405300221,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "₺99,99",
+            "黄鸭证件照-周度会员": "₺19,99",
+            "黄鸭证件照1元": "₺4,99",
+            "黄鸭证件照3元": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739232494801,
