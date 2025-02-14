@@ -5709,14 +5709,22 @@
   "1009747025": {
     "name": "zFuse - 影音播放器",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00"
+      "price": 23.8,
+      "formattedPrice": "¥23.80"
     },
     "minPriceInfo": {
       "price": 6,
       "formattedPrice": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739509330058,
+          "price": 23.8,
+          "formattedPrice": "¥23.80",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1736431344151,
@@ -9349,6 +9357,25 @@
       "宇宙电台 2024": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739509330058,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "MSR特选曲目组合包_Vol.02": "¥40.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "unlockall_0": "¥188.00",
+            "新手上路包": "¥8.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "Let's GROOVE": "¥25.00",
+            "unlockall_29": "¥228.00",
+            "Nyanya Universe!": "¥25.00",
+            "cyTus": "¥40.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738990935575,
