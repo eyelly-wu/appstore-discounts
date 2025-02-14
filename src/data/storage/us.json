@@ -14449,6 +14449,17 @@
     "history": [
       [
         {
+          "timestamp": 1739499803878,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "$39.99",
+            "Monthly Subscription": "$7.99",
+            "Exclusive Lifetime Offer": "$79.99",
+            "Lifetime": "$149.99"
+          }
+        },
+        {
           "timestamp": 1739496553857,
           "price": 0,
           "formattedPrice": "Free",
@@ -20239,6 +20250,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1739499803878,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$19.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$14.99",
+            "Weapon Upgrade Ticket x5 (A)": "$7.49",
+            "Weapon Upgrade Ticket x3 (A)": "$5.29",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.29",
+            "Charm: 'Green Herb'": "$0.99",
+            "Attaché Case: 'Classic'": "$0.99"
+          }
+        },
         {
           "timestamp": 1739496553857,
           "price": 0,

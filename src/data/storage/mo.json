@@ -1787,14 +1787,22 @@
   "488674899": {
     "name": "雨雷達 ° -實時天氣圖",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "USD 12.99"
+      "price": 29.99,
+      "formattedPrice": "USD 29.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739499803878,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1739458947485,

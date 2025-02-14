@@ -1173,8 +1173,8 @@
   "488674899": {
     "name": "RAIN RADAR ° live weather maps",
     "maxPriceInfo": {
-      "price": 599.99,
-      "formattedPrice": "₺599,99"
+      "price": 1299.99,
+      "formattedPrice": "₺1.299,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -1182,6 +1182,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1739499803878,
+          "price": 1299.99,
+          "formattedPrice": "₺1.299,99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1739491694881,
           "price": 599.99,
