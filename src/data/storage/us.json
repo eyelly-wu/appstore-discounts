@@ -543,6 +543,19 @@
     "history": [
       [
         {
+          "timestamp": 1739505748480,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1739246553358,
           "price": 0,
           "formattedPrice": "Free",
@@ -1934,14 +1947,22 @@
   "488674899": {
     "name": "RAIN RADAR °- sky weather NOAA",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "$12.99"
+      "price": 29.99,
+      "formattedPrice": "$29.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739505748480,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1739419345270,
@@ -3193,6 +3214,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739505748480,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1737345750455,
