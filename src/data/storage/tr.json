@@ -245,6 +245,19 @@
     "history": [
       [
         {
+          "timestamp": 1739491694881,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "₺1.499,99",
+            "Premium Cloud Service Monthly": "₺22,99",
+            "Premium Cloud Service Yearly": "₺179,99",
+            "Reset Password": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1739232494801,
           "price": 0,
           "formattedPrice": "Free",
@@ -1170,6 +1183,14 @@
     "history": [
       [
         {
+          "timestamp": 1739491694881,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1739405300221,
           "price": 0,
           "formattedPrice": "Free",
@@ -1792,6 +1813,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739491694881,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1737331698700,
