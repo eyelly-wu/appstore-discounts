@@ -14449,6 +14449,19 @@
     "history": [
       [
         {
+          "timestamp": 1739496553857,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "$29.99",
+            "Lifetime": "$119.99",
+            "Monthly Subscription": "$7.99",
+            "Exclusive Lifetime Offer": "$79.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1731071151735,
           "price": 0,
           "formattedPrice": "Free",
@@ -20225,6 +20238,25 @@
       "Weapon Upgrade Ticket x1 (C)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739496553857,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$19.99",
+            "Extra DLC Pack": "$14.99",
+            "Weapon Upgrade Ticket x5 (A)": "$7.49",
+            "Weapon Upgrade Ticket x3 (A)": "$5.29",
+            "Weapon Upgrade Ticket x3 (D)": "$5.29",
+            "Weapon Upgrade Ticket x3 (C)": "$5.29",
+            "Weapon Upgrade Ticket x1 (F)": "$2.29",
+            "Weapon Upgrade Ticket x1 (E)": "$2.29",
+            "Weapon Upgrade Ticket x1 (A)": "$2.29",
+            "Weapon Upgrade Ticket x1 (C)": "$2.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739150954029,
