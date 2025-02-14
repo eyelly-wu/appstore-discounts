@@ -490,6 +490,25 @@
     "history": [
       [
         {
+          "timestamp": 1739538348682,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "10 GB monthly": "₺99,99",
+            "10 GB yearly": "₺999,99",
+            "1 TB monthly": "₺1.199,99",
+            "200 GB monthly": "₺399,99",
+            "1 TB yearly": "₺11.999,99",
+            "200 GB yearly": "₺3.999,99",
+            "100 GB monthly": "₺229,99",
+            "100 GB yearly": "₺2.299,99",
+            "iCloud Sync Monthly": "₺15,99",
+            "iCloud Sync Yearly": "₺199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1739318902020,
           "price": 0,
           "formattedPrice": "Free",
@@ -2084,7 +2103,9 @@
       "Hero Pack 5": "₺229,99",
       "Dierdre": "₺39,99",
       "Hero Pack 1": "₺99,99",
-      "Hero Pack 3": "₺99,99"
+      "Hero Pack 3": "₺99,99",
+      "Handfull of gems": "₺129,99",
+      "Karkinos": "₺129,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -2112,9 +2133,30 @@
       "Hero Pack 5": "₺229,99",
       "Dierdre": "₺39,99",
       "Hero Pack 1": "₺99,99",
-      "Hero Pack 3": "₺99,99"
+      "Hero Pack 3": "₺99,99",
+      "Handfull of gems": "₺129,99",
+      "Karkinos": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739538348682,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Captain Blackthorne": "₺39,99",
+            "Nivus": "₺39,99",
+            "Dierdre": "₺39,99",
+            "Grawl": "₺129,99",
+            "Sha'tra": "₺129,99",
+            "Ashbite": "₺299,99",
+            "Handfull of gems": "₺129,99",
+            "Bag of gems": "₺229,99",
+            "Chest of gems": "₺449,99",
+            "Karkinos": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739260972498,
