@@ -17215,7 +17215,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime Membership": "$9.99",
+      "Lifetime Membership": "$12.99",
       "Yearly Membership": "$3.99",
       "Lifetime - Education": "$9.99",
       "Monthly Membership": "$0.99",
@@ -17237,6 +17237,23 @@
       "年度会员": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739672791945,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Membership": "$12.99",
+            "Yearly Membership": "$3.99",
+            "Lifetime - Education": "$9.99",
+            "Monthly Membership": "$0.99",
+            "Quarterly Membership": "$1.99",
+            "月度会员": "$0.99",
+            "年度会员升级终身会员": "$9.99",
+            "年度会员": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727665829696,

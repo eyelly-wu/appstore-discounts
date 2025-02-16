@@ -17610,7 +17610,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Lifetime Membership": "HK$ 88.00",
+      "Lifetime Membership": "HK$ 98.00",
       "Yearly Membership": "HK$ 32.00",
       "Lifetime - Education": "HK$ 88.00",
       "Monthly Membership": "HK$ 8.00",
@@ -17632,6 +17632,23 @@
       "月度会员": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739672791945,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime Membership": "HK$ 98.00",
+            "Yearly Membership": "HK$ 32.00",
+            "Lifetime - Education": "HK$ 88.00",
+            "Monthly Membership": "HK$ 8.00",
+            "Quarterly Membership": "HK$ 18.00",
+            "年度会员升级终身会员": "HK$ 88.00",
+            "年度会员": "HK$ 32.00",
+            "月度会员": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727618535045,

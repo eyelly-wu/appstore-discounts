@@ -13064,7 +13064,7 @@
       "Monthly Membership": "USD 0.99",
       "年度会员": "USD 3.99",
       "月度会员": "USD 0.99",
-      "Lifetime Membership": "USD 9.99"
+      "Lifetime Membership": "USD 12.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -13079,6 +13079,23 @@
       "Lifetime Membership": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739672791945,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Quarterly Membership": "USD 1.99",
+            "Lifetime - Education": "USD 9.99",
+            "年度会员升级终身会员": "USD 9.99",
+            "Yearly Membership": "USD 3.99",
+            "Monthly Membership": "USD 0.99",
+            "年度会员": "USD 3.99",
+            "月度会员": "USD 0.99",
+            "Lifetime Membership": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727618535045,
