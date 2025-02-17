@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-02-17T16:05:20.991Z</updated>
+    <updated>2025-02-17T17:05:19.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,79 +18,57 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-02-17T16:05:20.992Z</updated>
+        <updated>2025-02-17T17:05:19.907Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day One]]></title>
-        <id>Day One-1739808141759</id>
-        <link href="https://apps.apple.com/tr/app/day-one/id1055511498?mt=12&amp;uo=4"/>
-        <updated>2025-02-17T16:02:21.759Z</updated>
-        <summary type="html"><![CDATA[Premium: ₺389,99 → ₺122,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/day-one/id1055511498?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/06/58/8306586f-c53f-ea79-10a6-1e0f51310fe7/AppIcon-0-0-85-220-0-0-2-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Premium：</strong><span>₺389,99</span> → <b>
-  <strong>₺122,99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Apple’s App of the Year with over 15 million downloads and 200,000 5-star ratings globally, Day One has reinvented journaling letting you record your life as you live it. Securely save audio, video, photos, notes, and more in the world’s most trusted digital journal. 
+        <title type="html"><![CDATA[Remote, Mouse & Keyboard Pro]]></title>
+        <id>Remote, Mouse &amp; Keyboard Pro-1739811732331</id>
+        <link href="https://apps.apple.com/tr/app/remote-mouse-keyboard-pro/id884153085?uo=4"/>
+        <updated>2025-02-17T17:02:12.331Z</updated>
+        <summary type="html"><![CDATA[Price: ₺899,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/remote-mouse-keyboard-pro/id884153085?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/60/5f/69605f91-12a5-3663-4826-7ae944f5c9ba/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺899,99</span> → <b>
+  <strong>Free</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  App offers remote control for Mac or PC, with a mouse, keyboard, and media controls. Great if you connect your computer to the TV or projector, to control from a sofa or bed.
 
-“Day One creates something so rare it feels almost sacred: A completely private digital space.” – New York Times
+In 2013, I created this app to control my Mac Mini connected to a big-screen TV in my living room. In 2016 I quit my job and became an indie developer, and now my sole focus is on building my apps. The app has been downloaded more than 2,000,000 times over the years and has favorable reviews.
 
-“Day One makes keeping a journal delightfully easy.” – Wired
+MAIN FEATURES
+· Remote Mouse and Keyboard
+· Media Controls for popular apps and websites
+· Live view of your computer screen
+· System Commands: shut down, restart, sleep, etc.
+· Launch and Quit apps
+· Use Siri to control your computer
+· Control Sound Output / Screen Mirroring [Mac only]
 
-“This superb journaling app remains pleasant to behold, easy to use, and a tough act for any rival to follow.” – Macworld
+ADVANCED FEATURES
+· Create Control Panels
+· Add Custom Actions using AppleScript / PowerShell
 
-WHY DAY ONE?
+QUICK AND EASY SETUP
+· Install the free helper app from https://cherpake.com/get
+· Connect both devices to the same network
 
-Day One is the original journal app and a decade of updates and feature additions make it the most private, trusted, and easiest-to-use journaling platform in the world. 
+SECURITY
+The app uses standard security measures like HTTPS to communicate and only works on your local network. Whenever an unknown device tries to establish a connection with your computer,  the app presents a dialog for you to choose to allow or deny it.
 
-SIMPLE TO USE, EASY TO LOVE
+REQUIREMENTS
+· Mac with macOS 10.10 or newer
+· PC with Windows 7 SP1 or newer
+· Latest helper app (available at https://cherpake.com/get)
+· Shared network connection (WiFi or Personal Hotspot), see https://cherpake.com/connect
 
-• Beautiful, award-winning design
-• Unlimited text entries 
-• Unlimited photos and videos*
-• Powerful rich text formatting with markdown
-• Different journals for every aspect of your life*
-
-PRIVATE AND SECURE 
-
-• Automatic backups keep your journal entries safe
-• End-to-end encryption, which is a fancy way of saying your entries are 100% private
-• Journal entries stay secure with passcode or TouchID
-• Export options (pdf, plain text, JSON, etc.) ensure your entries always stay yours
-
-FORM A HABIT & STAY CONSISTENT 
-
-• Programmable reminder notifications
-• Unique, daily journal prompts help eliminate writer’s cramp 
-• Customizable templates save time and add organization to entries
-• Today view provides a summary of where you’ve been and what you’ve done
-
-JOURNAL FROM WHEREVER, WHENEVER
-
-• Cross-platform apps available on iPhone, Apple Watch, iPad, and Mac 
-• The ability to email entries straight to your journal
-
-BUILT FOR REMINISCING
-
-• On This Day feature allows you to revisit past memories
-• Tags, favorites, and search filters make it easy to find what you’re looking for
-• Map view quickly shows all the places you’ve journaled from
-
-*Day One is FREE to use forever with unlimited entries. Additional features, including unlimited photos, videos, and sync are available with a Day One Premium membership. Start a free trial today. 
-
-Privacy Policy: https://dayoneapp.com/privacy-policy/
-
-Terms of Use: https://dayoneapp.com/terms-of-use/
-
-For technical assistance or other inquiries: https://dayoneapp.com/contact/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/e4/aa/94e4aa5c-d12f-ab46-eb6f-72d53bc49740/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/f7/e8/35f7e86f-f349-6420-1fd9-f6ccc0db5b25/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/b7/f0/2db7f06a-cc6b-0fd4-945f-59d1b573bd16/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/bc/27/39bc27bc-8156-3c68-1ade-8f0d5e95dba2/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/d2/78/4cd27800-3d0f-f3b3-9b5c-f4a40086d27a/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/0f/46/fb0f46d4-0495-3945-c203-f4244be9700b/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
+FREE TRIAL
+This app is a hidden gem that most people don't know they need. Those are not my words, just one of the latest app reviews. Still not convinced, download and install the free app and use the free trial to see it yourself. Available at https://bit.ly/mpcrc
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/c2/08/4dc208c0-5c98-7201-e094-2857c05e26ea/ffc71580-69fe-46f8-9676-a378e08ce5fb_iPhone_8_Plus-00Media_ebcc802e-3f02-473e-ada6-a9648694a87f_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/f9/b9/d9f9b960-22fb-2a9c-c703-a7c2fe00a78a/ee81169d-f7a9-4c60-9ae6-8258fed0114e_iPhone_8_Plus-01Mouse_2699b07a-8fa2-4859-a3aa-880a963d7181_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/2f/66/e92f6680-4ad7-2ae5-218d-6e4e4280fcc5/ebac8ac4-56e9-41e6-946d-eed1e3b0d5ca_iPhone_8_Plus-02Keyboard_36f3f312-b4ae-4d2d-978f-17aa5ad09849_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/32/9b/7b329b2a-856c-47dd-59dc-b17ae9d8ad15/ebac38fd-550e-4fb3-bf97-6cc42b09b1f6_iPhone_8_Plus-05System_2e4df088-3fc0-4a16-84dc-87aad131872b_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/60/ee/a060ee13-64a3-5cd5-f298-8efefaca3466/2938373a-ffed-4826-8956-bf1c23d78724_iPhone_8_Plus-06Apps_3f14a0dc-5e64-4409-b7c9-7e0868eeddb2_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/e5/18/e3e51895-7aec-8c1a-4d28-fb58db98e537/a8643c8c-df98-4fbd-b3f4-4a116dd15dae_iPhone_8_Plus-07Airplay_56afc922-995e-498c-89b7-861ca0510cd4_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/6e/c1/fe6ec12a-a819-d5c5-3184-f334b3bd1f2a/9c0975ce-2b82-49a7-83e6-6de84b9bcbe1_iPhone_8_Plus-08Siri_9b385e5d-d95d-4a19-be29-ea73a66fabdc_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/58/94/4b5894ad-bd88-b859-0046-2968a8717a86/a0d97a00-a9de-45b7-be2a-72510906f2ea_iPhone_8_Plus-09Create_05699385-6b45-4c7d-a543-4db525c4be42_framed.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/dc/93/69dc93f9-4ae4-49a5-a0b5-2d07eeffd717/0ae07539-1499-4e61-bea2-253d1f41b092_iPhone_8_Plus-10Custom_f0640b36-2968-4aa2-81a8-6b9bb73572ba_framed.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/08/31/21083158-db67-70fb-70e5-a2583cde93d0/ed2d6ddd-0416-48ac-939e-73f67a4f2a97_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-00Media_332cd052-281b-4c71-95ae-93d1df36e607_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/13/11/36131116-e701-afd9-6c4b-19e096f0919b/13e6f3ed-d636-41a6-affa-38a81bd2950b_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-01Mouse_19526ccc-1e31-4245-8c4f-7891bf63efc0_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/e0/e5/dfe0e5f1-d80c-4e39-a312-a02d23a13d7b/324df977-5118-4164-8727-c01a2d202bbe_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-02Keyboard_4eb5ef5e-be73-43c3-9e38-85b87399da32_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/9a/47/919a4733-8a63-10a6-b8ad-f15b7d9fbc0c/13e6a82a-b12c-42ff-b34f-96098df542c3_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-04Store_c1167314-5466-45ef-82f4-9c325d47262c_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/f9/4f/3ef94f47-ae94-84cb-b0b3-ea301d98e484/8b3c6ca4-7607-43d8-aeab-af981424d852_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-05System_3da65287-87f8-457f-8eee-d3965206c3ac_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/ba/fd/e3bafd2d-718f-3a40-da58-b35d86ebb367/522185ff-fea6-4f62-b3e6-f07d5ad65791_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-06Apps_17d4b020-f034-4d8b-ab38-81f63ebe22de_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/d1/75/61d1758d-202a-0a3b-d459-0143ae16f93b/aa298c5d-4ac2-4501-ad12-d55fc4c0550f_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-07Airplay_04f1bf04-1628-4fc8-b2f2-ee84e74d7381_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/b1/f6/c0b1f6fb-ec6f-3c6e-6067-9a54366b73ee/7d2b8d23-14c1-4859-a42e-70b609231e64_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-08Siri_85b0ef2a-e9f2-4ba5-928a-a360cc7809dc_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/f3/98/8cf398e3-1359-c1cb-aa84-87d93587ab15/e693d416-45b1-4371-ada6-7f1e1a93f8d4_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-09Create_d6f24679-e2e9-4b9f-92f7-01cde214c445_framed.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/13/fe/5813fef1-6f56-786e-8ec3-26da785328f5/23467551-f0d7-42a5-b7d7-be20619c473a_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-10Custom_ce6d4eb9-637b-4f15-850c-96582a6ad266_framed.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
