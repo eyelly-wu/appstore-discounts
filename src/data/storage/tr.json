@@ -1238,6 +1238,14 @@
     "history": [
       [
         {
+          "timestamp": 1739750914635,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1739578091696,
           "price": 599.99,
           "formattedPrice": "₺599,99",
@@ -1882,6 +1890,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739750914635,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1739491694881,
@@ -9009,10 +9025,10 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Quarterly Membership": "₺59,99",
+      "Quarterly Membership": "₺129,99",
       "Lifetime - Education": "₺449,99",
       "年度会员升级终身会员": "₺449,99",
-      "Yearly Membership": "₺149,99",
+      "Yearly Membership": "₺229,99",
       "Monthly Membership": "₺19,99",
       "年度会员": "₺179,99",
       "月度会员": "₺39,99",
@@ -9031,6 +9047,23 @@
       "Lifetime Membership": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739750914635,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Quarterly Membership": "₺129,99",
+            "Lifetime - Education": "₺449,99",
+            "年度会员升级终身会员": "₺449,99",
+            "Yearly Membership": "₺229,99",
+            "Monthly Membership": "₺19,99",
+            "年度会员": "₺179,99",
+            "月度会员": "₺39,99",
+            "Lifetime Membership": "₺599,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739672791945,
