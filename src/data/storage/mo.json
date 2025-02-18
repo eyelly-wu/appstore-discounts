@@ -2604,6 +2604,22 @@
     "history": [
       [
         {
+          "timestamp": 1739890956243,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "USD 9.99",
+            "Lifetime Cloud Services": "USD 49.99",
+            "Lifetime Photos Transfer": "USD 49.99",
+            "Monthly Photos Transfer": "USD 1.99",
+            "Yearly Photos Transfer": "USD 9.99",
+            "Monthly Cloud Services": "USD 1.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1739401328065,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -12340,6 +12356,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739890956243,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1737298935742,
