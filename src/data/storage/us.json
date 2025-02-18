@@ -1470,6 +1470,21 @@
     "history": [
       [
         {
+          "timestamp": 1739851352715,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1738900945216,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -1974,6 +1989,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739851352715,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1739764949801,
@@ -12277,14 +12300,27 @@
       "Return to Castlevania": "$6.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99",
+      "price": 4.99,
+      "formattedPrice": "$4.99",
       "The Bad Seed": "$3.99",
       "Fatal Falls": "$3.99",
       "The Queen and the Sea": "$3.99",
       "Return to Castlevania": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739851352715,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "The Bad Seed": "$3.99",
+            "Fatal Falls": "$3.99",
+            "The Queen and the Sea": "$3.99",
+            "Return to Castlevania": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730779356168,
