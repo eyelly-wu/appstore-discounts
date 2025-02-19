@@ -2842,6 +2842,22 @@
     "history": [
       [
         {
+          "timestamp": 1739937749731,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$49.99",
+            "Yearly Cloud Services": "$9.99",
+            "Monthly Cloud Services": "$1.99",
+            "Monthly Photos Transfer": "$1.99",
+            "Reset Password": "$0.99",
+            "Lifetime Photos Transfer": "$49.99",
+            "Yearly Photos Transfer": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1739401328065,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -16625,6 +16641,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1739937749731,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1737345750455,
