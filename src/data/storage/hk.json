@@ -2044,6 +2044,14 @@
     "history": [
       [
         {
+          "timestamp": 1740150136590,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1740063747648,
           "price": 0,
           "formattedPrice": "免費",
@@ -2823,6 +2831,22 @@
       "Lifetime Photos Transfer": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740150136590,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "HK$ 388.00",
+            "Yearly Cloud Services": "HK$ 88.00",
+            "Lifetime Photos Transfer": "HK$ 388.00",
+            "Monthly Photos Transfer": "HK$ 18.00",
+            "Yearly Photos Transfer": "HK$ 88.00",
+            "Monthly Cloud Services": "HK$ 18.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739890956243,
