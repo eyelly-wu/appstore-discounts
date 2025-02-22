@@ -2006,6 +2006,14 @@
     "history": [
       [
         {
+          "timestamp": 1740196939626,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1740110545859,
           "price": 0,
           "formattedPrice": "Free",
@@ -2863,6 +2871,22 @@
       "Lifetime Photos Transfer": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740196939626,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$49.99",
+            "Yearly Cloud Services": "$9.99",
+            "Monthly Cloud Services": "$1.99",
+            "Monthly Photos Transfer": "$1.99",
+            "Reset Password": "$0.99",
+            "Lifetime Photos Transfer": "$49.99",
+            "Yearly Photos Transfer": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739937749731,
@@ -8847,6 +8871,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1740196939626,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "MSR Anthology_Vol.02": "$5.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Valentine Stage": "$3.99"
+          }
+        },
         {
           "timestamp": 1740124980249,
           "price": 2.99,
