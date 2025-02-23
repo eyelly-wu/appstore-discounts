@@ -3411,6 +3411,14 @@
     "history": [
       [
         {
+          "timestamp": 1740269343920,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1738627689942,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -9393,6 +9401,23 @@
       "Lifetime Membership": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740269343920,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Quarterly Membership": "₺129,99",
+            "Lifetime - Education": "₺449,99",
+            "年度会员升级终身会员": "₺449,99",
+            "Yearly Membership": "₺179,99",
+            "Monthly Membership": "₺19,99",
+            "年度会员": "₺179,99",
+            "月度会员": "₺39,99",
+            "Lifetime Membership": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740225779248,
