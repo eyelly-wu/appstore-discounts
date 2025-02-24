@@ -5930,14 +5930,22 @@
   "1009747025": {
     "name": "zFuse - 影音播放器",
     "maxPriceInfo": {
-      "price": 23.8,
-      "formattedPrice": "¥23.80"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 6,
       "formattedPrice": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740360571066,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1739509330058,
