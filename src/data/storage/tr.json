@@ -3092,6 +3092,14 @@
     "history": [
       [
         {
+          "timestamp": 1740355701670,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1739318902020,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -3445,6 +3453,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740355701670,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1740269343920,
@@ -10070,6 +10086,16 @@
     "history": [
       [
         {
+          "timestamp": 1740355701670,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1739146109319,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -10975,6 +11001,17 @@
       "Home Sweet Home": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740355701670,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737763664009,
