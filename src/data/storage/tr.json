@@ -245,6 +245,19 @@
     "history": [
       [
         {
+          "timestamp": 1740442101734,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "₺1.499,99",
+            "Premium Cloud Service Yearly": "₺179,99",
+            "Premium Cloud Service Monthly": "₺22,99",
+            "Reset Password": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1739491694881,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -1266,6 +1279,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740442101734,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1740182887207,
@@ -7004,6 +7025,19 @@
       "Return to Castlevania": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740442101734,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "The Bad Seed": "₺179,99",
+            "Fatal Falls": "₺179,99",
+            "QUEEN AND THE SEA  DLC": "₺179,99",
+            "Return to Castlevania": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739837306189,
