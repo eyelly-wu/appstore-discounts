@@ -579,6 +579,19 @@
     "history": [
       [
         {
+          "timestamp": 1740456151216,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1739505748480,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -2040,6 +2053,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740456151216,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1740196939626,
@@ -12551,6 +12572,19 @@
       "Return to Castlevania": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740456151216,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "The Bad Seed": "$3.99",
+            "Fatal Falls": "$3.99",
+            "The Queen and the Sea": "$3.99",
+            "Return to Castlevania": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739851352715,
