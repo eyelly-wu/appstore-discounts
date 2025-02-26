@@ -17382,6 +17382,14 @@
     "history": [
       [
         {
+          "timestamp": 1740536735718,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1736434953716,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -20437,16 +20445,31 @@
       "formattedPrice": "免費",
       "Pro(Lifetime)": "HK$ 88.00",
       "Pro (Yearly)": "HK$ 58.00",
-      "Pro (Monthly)": "HK$ 12.00"
+      "Pro (Monthly)": "HK$ 12.00",
+      "Pro (Activate)": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Pro(Lifetime)": "HK$ 68.00",
       "Pro (Yearly)": "HK$ 58.00",
-      "Pro (Monthly)": "HK$ 12.00"
+      "Pro (Monthly)": "HK$ 12.00",
+      "Pro (Activate)": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740536735718,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro(Lifetime)": "HK$ 88.00",
+            "Pro (Yearly)": "HK$ 58.00",
+            "Pro (Monthly)": "HK$ 12.00",
+            "Pro (Activate)": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727870599327,

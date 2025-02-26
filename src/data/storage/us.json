@@ -16472,6 +16472,14 @@
     "history": [
       [
         {
+          "timestamp": 1740536735718,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1736481756029,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -19851,16 +19859,31 @@
       "formattedPrice": "Free",
       "Pro(Lifetime)": "$9.99",
       "Pro (Yearly)": "$6.99",
-      "Pro (Monthly)": "$1.49"
+      "Pro (Monthly)": "$1.49",
+      "Pro (Activate)": "$9.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "Pro(Lifetime)": "$8.99",
       "Pro (Yearly)": "$6.99",
-      "Pro (Monthly)": "$1.49"
+      "Pro (Monthly)": "$1.49",
+      "Pro (Activate)": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740536735718,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro(Lifetime)": "$9.99",
+            "Pro (Yearly)": "$6.99",
+            "Pro (Monthly)": "$1.49",
+            "Pro (Activate)": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727870599327,

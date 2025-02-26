@@ -17002,6 +17002,14 @@
     "history": [
       [
         {
+          "timestamp": 1740536735718,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1736434953716,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -20113,16 +20121,31 @@
       "formattedPrice": "免費",
       "Pro(Lifetime)": "$320.00",
       "Pro (Yearly)": "$220.00",
-      "Pro (Monthly)": "$50.00"
+      "Pro (Monthly)": "$50.00",
+      "Pro (Activate)": "$320.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Pro(Lifetime)": "$290.00",
       "Pro (Yearly)": "$220.00",
-      "Pro (Monthly)": "$50.00"
+      "Pro (Monthly)": "$50.00",
+      "Pro (Activate)": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740536735718,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro(Lifetime)": "$320.00",
+            "Pro (Yearly)": "$220.00",
+            "Pro (Monthly)": "$50.00",
+            "Pro (Activate)": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727870599327,
