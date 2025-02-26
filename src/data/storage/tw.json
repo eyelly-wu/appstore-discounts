@@ -20194,7 +20194,8 @@
       "Pro(Lifetime)": "$320.00",
       "Pro (Yearly)": "$220.00",
       "Pro (Monthly)": "$50.00",
-      "Pro (Activate)": "$320.00"
+      "Pro (Activate)": "$320.00",
+      "Pro (Lifetime)": "$320.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -20202,10 +20203,22 @@
       "Pro(Lifetime)": "$290.00",
       "Pro (Yearly)": "$220.00",
       "Pro (Monthly)": "$50.00",
-      "Pro (Activate)": "$320.00"
+      "Pro (Activate)": "$320.00",
+      "Pro (Lifetime)": "$320.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1740575217735,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "$320.00",
+            "Pro (Yearly)": "$220.00",
+            "Pro (Monthly)": "$50.00",
+            "Pro (Activate)": "$320.00"
+          }
+        },
         {
           "timestamp": 1740536735718,
           "price": 0,
