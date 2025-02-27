@@ -16265,15 +16265,25 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Fileball 高级版永久解锁": "¥68.00"
+      "Fileball 高级版永久解锁": "¥68.00",
+      "Filebar 高级版永久解锁": "¥48.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Fileball 高级版永久解锁": "¥48.00"
+      "Fileball 高级版永久解锁": "¥48.00",
+      "Filebar 高级版永久解锁": "¥48.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1740643382898,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Filebar 高级版永久解锁": "¥48.00"
+          }
+        },
         {
           "timestamp": 1740625717324,
           "price": 0,
