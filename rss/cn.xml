@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-02-26T02:29:01.530Z</updated>
+    <updated>2025-02-27T03:12:05.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,119 +18,60 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-02-26T02:29:01.531Z</updated>
+        <updated>2025-02-27T03:12:05.024Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[时光进度 - 进度管理&待办计划]]></title>
-        <id>时光进度 - 进度管理&amp;待办计划-1740536735718</id>
-        <link href="https://apps.apple.com/cn/app/%E6%97%B6%E5%85%89%E8%BF%9B%E5%BA%A6-%E8%BF%9B%E5%BA%A6%E7%AE%A1%E7%90%86-%E5%BE%85%E5%8A%9E%E8%AE%A1%E5%88%92/id1493379610?uo=4"/>
-        <updated>2025-02-26T02:25:35.718Z</updated>
-        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%97%B6%E5%85%89%E8%BF%9B%E5%BA%A6-%E8%BF%9B%E5%BA%A6%E7%AE%A1%E7%90%86-%E5%BE%85%E5%8A%9E%E8%AE%A1%E5%88%92/id1493379610?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/21/47/68/21476879-364d-3a16-b6e1-00a80ed75d36/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥8.00</span> → <b>
-  <strong>免费</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  【时光进度】是一款将进度管理、日程规划相结合的生产力工具，用轻便的记录形式带给用户舒适的体验。
+        <title type="html"><![CDATA[Filebar]]></title>
+        <id>Filebar-1740625717324</id>
+        <link href="https://apps.apple.com/cn/app/filebar/id1558391784?uo=4"/>
+        <updated>2025-02-27T03:08:37.324Z</updated>
+        <summary type="html"><![CDATA[Fileball 高级版永久解锁: ¥68.00 → ¥48.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/filebar/id1558391784?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/17/81/9817819e-7ef6-25cb-857e-b2efeafc5058/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>Fileball 高级版永久解锁：</strong><span>¥68.00</span> → <b>
+  <strong>¥48.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  # Filebar
 
-※ 功能介绍
-- 屏幕小组件
+Filebar 是一款现代化的多媒体播放器，提供视频播放器、音乐播放器、云端服务和文件管理的功能。
 
-- 灵感笔记，随时记录自己的想法，标签归类，方便整理
+## 主要功能
 
--  创建目标进度，立下自己的 Flag，以数字、百分比、进度条的形式量化目标，并且支持归档（恢复）目标，支持分组
 
-- 目标进度支持【里程碑】功能，可以用来记录重要时刻、重大突破等信息
-    
-- 每日待办事项列表（根据优先级），支持重复任务和提醒，帮助用户更快捷地管理自己的工作
+### 视频播放器
 
-- 时间轴（Timeline），提供添加每日计划的便捷方式，直接点击时间块即可添加指定时间的任务
+Filebar 提供了一个强大的视频播放器，你可以播放更多的视频格式，包括标准的MP4、M4V 和 MOV，还加上MKV、AVI、WMV、FLV、OMG、OGV、3GP、RMVB等。您可以浏览播放你的mac、pc、NAS、FTP上的视频，同时还支持播放媒体服务器 （如Emby、Jellyfin、Plex媒体服务器）上的视频，您也可以播放来自云端服务的视频。
 
-- 通知中心扩展组件（Today Widget），可对目标进度和待办事项进行便捷管理
 
--  工作日历（待办日历），可以设置每日工作待办（ToDo），并且提供四象限模型（具体看后面介绍）对待办事项进行优先级管理，并且可关联目标进度，当待办完成后，可以更新所属的目标，愿每位用户都能够做到日事清
+### 音乐播放器
 
-- 小功能：人生进度，设置自己的出生日期，看到自己的人生已经走到了哪里（算是一种警醒吧）
+Filebar 提供了一个漂亮的本地音乐播放器用来播放本地和云端音乐，支持的音频格式有 MP3/M4A/FLAC。Filebar 支持加载同目录下的歌词文件，例如 歌曲名称.mp3、歌曲名称.lrc 的歌词文件会自动加载。
 
-- 小功能：年进度，可以看到今年已经过去了多少，点击年进度可以进入「工作日历」，方便查看及回顾自己的日程规划
 
-※ 特性
-- 采用全新设计语言，圆角 + 卡片形式，视觉上更为舒适
+### 云端服务
 
-- Haptic Touch 触感体验，所有的手势操作都会触发手机自带的震动反馈，并且经过无数遍测试，调整震动反馈强度，让反馈的效果更舒适
+云端服务是 Filebar 另一个核心功能，通过 Filebar 你可以方便管理云端服务，包括 创建文件夹/删除/播放/批量重命名/查看信息，支持百度网盘、阿里云盘、OneDrive、Dropbox、Google Drive 等常见网盘。同时也提供了远程协议的支持，支持的协议有 SMB、WebDAV、Synology、FTP、SFTP。
 
-- 支持 iCloud 数据备份，实现多台设备进行数据同步，再也不用担心数据的丢失问题。（设置步骤：1.【设置】2.【Apple ID】3.【iCloud】4.启用【iCloud 云盘】&【bProgress】。确保网络已经打开，iCloud 剩余空间足够）
 
-- 同步需要等待一段时间，取决于网络状况和数据量，请耐心等待
+### 文件管理
 
-※ 适合人群和场景
+同时 Filebar 还提供了一个文件管理器。您可以管理您的本地与远程文件：移动、删除、编辑、复制、上传、批量重命名等等；同时Filebar 还支持对于常见压缩文件的处理，如Zip、Rar、7z等压缩文件格式。
 
-- 喜欢轻量化管理工具，对复杂工具恐惧、不想花太多时间折腾花里胡哨功能，那么很适合你！
 
-- 希望养成良好习惯、自我监督，将自己的目标量化是一种非常直截了当的方式，没有多余的步骤，不必花太多时间在记录进度上，只需轻点「+」「-」实现进度的更新，看到进度一点点前进，自己也更能坚持下去。
+## 客户支持
 
-- 自由职业者，我本人是一名自由职业者，每天我都会在自己的日历墙上记录自己每日的工作计划，为了将这个工作流程化，所以开发了「时光进度」作为自己的日常工作计划管理工具，方便自己的同时，也希望给需要的用户带来同样的帮助。
+如果您有任何建议或想法，欢迎联系我们。
 
-- 阅读爱好者，可以来管理读书进度
-
-- 跑步爱好者，可以用来记录自己每年的跑步里程
-
-- 储蓄（存钱）目标
-
-※ 介绍
-
-- 四象限工作法则
-
-四象限法则是著名管理学家史蒂芬·科维提出的一个时间管理理论，也有一说是艾森豪威尔提出（无从考证）。史蒂芬·科维把工作按照重要和紧急两个不同的程度进行了划分，基本上可以分为四个象限：【既紧急又重要】、【重要但不紧急】、【紧急但不重要】、【既不紧急也不重要】。按处理顺序划分：先是既紧急又重要的，接着是重要但不紧急的，再到紧急但不重要的，最后才是既不紧急也不重要的。
-
-传统时间管理法的核心：以“急”为重
-
-高效时间管理法的核心：先轻重，后缓急
-
-※ 使用帮助
-
-- 如何开启 iCloud 备份
-
-首先，确保应用的【网络访问权限】已经打开，然后依次打开 1.【设置】2.【Apple ID】3.【iCloud】4.启用【iCloud 云盘】&【bProgress】，另外，如果 iCloud 空间不足，也将无法同步数据
-
-- 如何打开工作日历
-
-工作日历可以通过点击【左侧边栏的日历按钮】进入，或者点击【年进度】也可以进入
-
-- 如何添加每日待办事项
-【方式 1】:最为便捷
-首页切换到【待办事项】，可以根据待办事项的轻重缓急，点击对应的添加按钮【+】新增待办，可点击事项直接进行编辑，右划进行，左滑进行删除
-
-【方式 2】：
-打开工作日历之后，点击对应的日期（可以拖动选择对应的日期），进入到【四象限】面板之后，根据待办事项的轻重缓急【双击】对应象限即可添加事项。添加完成后：
-1. 可以【单击】事项进行编辑
-2. 在列表中进行【右划】可以切换事项的状态（进行中、完成）
-3.【向左滑动】进行删除事项
-4.【长按可拖动】事项进行排序，以及改变事项所处象限
-
-- 如何更换语言 
-
-在左侧边栏，点击【菜单】按钮，选择【设置】，在设置中找到【语言】（Language）选项，点击即可前往设置
-
-※ 后话
-
-任何工具都具有局限性，工具仅仅是一种辅助手段，不希望用户把工具神化，更不可把希望寄托于工具，自身的提高才是我们需要关注的。
-
-感谢支持，祝愉快～
-
-by Bee
-
-※ 支持
-
-公众号：FreelancerX
-
-邮箱：bsn.huang@gmail.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/60/6e/2e606eda-1288-1e14-ddd7-d93e29b790d5/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0f/0d/e8/0f0de821-b683-4541-ce09-4cbc2033f234/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d0/5c/e8/d05ce84b-6b50-db00-4b93-0a018acfcfff/baee42f6-22ab-4e27-b3fa-5405a879f112_5.5-cn-011.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/61/7c/19617cc7-b5ba-7ce9-149c-57fe07a8bd94/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/84/50/f1/8450f18e-a17e-9658-7e27-9631fb27a2ae/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/bf/a4/ebbfa43e-5750-56a5-830f-d174e0e69a56/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fc/da/fc/fcdafc9f-f9f1-edec-a18a-08c8616e067e/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/b3/a2/e4b3a2fc-9e0e-60e4-cc90-c656899802b7/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/8f/9e/968f9e1a-29a0-d2a5-73bc-0e05ade88be1/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/95/63/8d9563d1-e56e-3e5c-b316-63f4f46fdfbd/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/93/56/eb/9356eba2-4607-7558-3e45-5fa708e375d2/b8fc369f-8d4b-4bc2-a989-ac3cceee4435_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-01-06_at_14.11.21.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e5/99/6b/e5996bf8-cde3-7781-620f-c7de0f79fadb/3d98b557-7e9e-4afe-9284-08bb1062ba95_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-01-06_at_14.09.39.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fa/59/c2/fa59c23e-198e-b1e2-1cf2-bcc9c72f9607/4a4635bf-ffcb-45dd-982a-b8121543a8d9_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-01-06_at_14.17.37.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/ec/cd/7ceccd80-6e26-e8d7-27f5-6b7b89531862/3e54cc16-4eae-4edc-8f93-d4ef96a03185_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-01-06_at_14.17.02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/ef/7b/84ef7b9e-3908-e101-8551-347741f9b1d7/bd76ed24-2b76-4488-bbbc-3db224996eb9_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-01-06_at_14.17.17.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/08/bc/db/08bcdb32-821b-6177-36db-0ebf0298cd5f/293350a0-4906-47a7-bd1a-9c53b4199ae0_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-01-06_at_14.20.01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/64/fc/b964fc98-5d68-00c6-05e1-33c461d031e8/5d8a1742-9e65-4c48-b45e-bea465b306b2_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-01-06_at_14.19.06.png/576x768bb.png" />]]></content>
+- 网站：https://fileball.app
+- 邮件：filebox.app@outlook.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3a/8e/5f/3a8e5fea-af92-9744-4c85-d51de3d285ae/aa706f32-6e02-4234-b7f2-848f176c7398_iPhone_8_Plus-CN-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bf/3b/cd/bf3bcd3a-64e0-6905-b7c6-73537d5a08bd/25fa5479-f1bc-4e57-9a25-8d3e08b9ab24_iPhone_8_Plus-CN-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e7/f3/ee/e7f3ee79-c692-1e74-1764-62654030d7ba/f7c4ec58-e4b1-4471-b0a0-b3554c798087_iPhone_8_Plus-CN-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/16/7e/8b/167e8b57-9484-2382-8a36-d34c72dc8df4/fea122b0-81bd-4964-9fa2-208ea4a17c9e_iPhone_8_Plus-CN-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/03/b1/4d/03b14d2d-cdc1-dfc9-24f0-5985b4524f90/d334e5b7-64ef-4721-a615-dda0f55f6dc8_iPhone_8_Plus-CN-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8b/1d/76/8b1d7651-2b7d-3554-3ee9-5b540c71d320/157eb784-7c33-418d-9959-40ebd86532b8_iPhone_8_Plus-CN-6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/9d/a7/bd9da78f-3b57-8068-bec2-fdc223843862/tns.epyhxcxe.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/98/30/589830c1-3c5b-7ab3-86f0-35ac5195582b/2ef22cfe-224f-47fe-8990-e8de8e24d785_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.17.26.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/30/88/2a30885c-298d-de80-f9d0-473efb7c601e/d83a205e-a272-4f39-963b-7528135be403_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.17.37.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/3e/dd/073eddbf-52bb-a0b0-6b72-ebbad45b577f/64aabad3-cec2-48a5-8c25-770c7ae2d411_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.18.23.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
