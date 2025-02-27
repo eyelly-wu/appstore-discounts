@@ -9693,14 +9693,22 @@
   "1319191852": {
     "name": "熊猫吃短信 - 垃圾短信过滤",
     "maxPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00"
+      "price": 88,
+      "formattedPrice": "¥88.00"
     },
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740646951728,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725296539692,
