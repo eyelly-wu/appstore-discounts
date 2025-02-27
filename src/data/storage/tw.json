@@ -20322,10 +20322,23 @@
       "Pro(Lifetime)": "$290.00",
       "Pro (Yearly)": "$220.00",
       "Pro (Monthly)": "$50.00",
-      "Pro (Activate)": "$320.00",
+      "Pro (Activate)": "$0.00",
       "Pro (Lifetime)": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740679382838,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "$320.00",
+            "Pro (Yearly)": "$220.00",
+            "Pro (Monthly)": "$50.00",
+            "Pro (Activate)": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740575217735,

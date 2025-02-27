@@ -20504,10 +20504,23 @@
       "Pro(Lifetime)": "HK$ 68.00",
       "Pro (Yearly)": "HK$ 58.00",
       "Pro (Monthly)": "HK$ 12.00",
-      "Pro (Activate)": "HK$ 88.00",
+      "Pro (Activate)": "HK$ 0.00",
       "Pro (Lifetime)": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740679382838,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "HK$ 88.00",
+            "Pro (Yearly)": "HK$ 58.00",
+            "Pro (Monthly)": "HK$ 12.00",
+            "Pro (Activate)": "HK$ 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740575217735,

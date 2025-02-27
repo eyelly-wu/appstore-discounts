@@ -19970,10 +19970,23 @@
       "Pro(Lifetime)": "$8.99",
       "Pro (Yearly)": "$6.99",
       "Pro (Monthly)": "$1.49",
-      "Pro (Activate)": "$9.99",
+      "Pro (Activate)": "$0.00",
       "Pro (Lifetime)": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740679382838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "$9.99",
+            "Pro (Yearly)": "$6.99",
+            "Pro (Monthly)": "$1.49",
+            "Pro (Activate)": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740575217735,
