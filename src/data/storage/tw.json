@@ -18634,8 +18634,8 @@
   "1595901138": {
     "name": "Handheld Game - NES Emulator",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 60,
+      "formattedPrice": "$60.00",
       "Cheat Codes": "$90.00"
     },
     "minPriceInfo": {
@@ -18644,6 +18644,16 @@
       "Cheat Codes": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1740690133850,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Cheat Codes": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724666541004,
