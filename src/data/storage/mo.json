@@ -1426,6 +1426,21 @@
     "history": [
       [
         {
+          "timestamp": 1741100555532,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cloud Backup Monthly": "USD 1.49",
+            "Cloud Backup Yearly": "USD 8.99",
+            "iCloud Sync Lifetime": "USD 34.99",
+            "iCloud Sync Monthly": "USD 0.99",
+            "iCloud Sync Yearly": "USD 6.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740063747648,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -1944,6 +1959,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741100555532,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1741014146013,
@@ -4247,6 +4270,24 @@
       "AI 空間": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741100555532,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "4K Ultra HD 視訊影片": "USD 4.99",
+            "ZERO: 直接感測器擷取": "USD 4.99",
+            "大師系列": "USD 1.99",
+            "城市系列": "USD 0.99",
+            "AI 空間": "USD 4.99",
+            "8K Max 延時攝影": "USD 4.99",
+            "批量相片處理": "USD 0.00",
+            "4K Ultra HD 延時攝影": "USD 2.99",
+            "基本系列": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739631725816,
