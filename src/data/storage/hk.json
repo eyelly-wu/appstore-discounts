@@ -2159,6 +2159,14 @@
     "history": [
       [
         {
+          "timestamp": 1741186956937,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741100555532,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -18300,7 +18308,7 @@
       "price": 0,
       "formattedPrice": "免費",
       "Fileball Pro Lifetime": "HK$ 88.00",
-      "Filebar Pro Lifetime": "HK$ 58.00"
+      "Filebar Pro Lifetime": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -18309,6 +18317,16 @@
       "Filebar Pro Lifetime": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741186956937,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740643382898,

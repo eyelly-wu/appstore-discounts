@@ -1961,6 +1961,14 @@
     "history": [
       [
         {
+          "timestamp": 1741186956937,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741100555532,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -9158,6 +9166,21 @@
     "history": [
       [
         {
+          "timestamp": 1741186956937,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "USD 9.99",
+            "GoodNotes 5完整版解鎖": "USD 9.99",
+            "Goodnotes 6 一次性付款": "USD 23.99",
+            "Goodnotes 6 免費試用": "USD 0.00",
+            "虛線方格：草稿紙張": "USD 0.99",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "USD 0.00",
+            "好心智雜誌": "USD 0.00",
+            "秋貓貼紙組": "USD 0.00"
+          }
+        },
+        {
           "timestamp": 1741183347665,
           "price": 0,
           "formattedPrice": "免費",
@@ -13259,7 +13282,7 @@
       "price": 0,
       "formattedPrice": "免費",
       "Fileball Pro Lifetime": "USD 9.99",
-      "Filebar Pro Lifetime": "USD 6.99"
+      "Filebar Pro Lifetime": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -13268,6 +13291,16 @@
       "Filebar Pro Lifetime": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741186956937,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740643382898,

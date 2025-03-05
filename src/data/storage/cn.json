@@ -2116,6 +2116,14 @@
     "history": [
       [
         {
+          "timestamp": 1741186956937,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741100555532,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -8738,6 +8746,25 @@
       "Geometric Frame Pack": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741186956937,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Design Frame Package": "¥8.00",
+            "Social Frame Package": "¥8.00",
+            "Magazine Frame Package": "¥8.00",
+            "Black Frame Pack": "¥8.00",
+            "Geometric Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Color Frame Pack": "¥8.00",
+            "Upgrade Deluxe Edition": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738774928516,
@@ -16666,7 +16693,7 @@
       "price": 0,
       "formattedPrice": "免费",
       "Fileball 高级版永久解锁": "¥68.00",
-      "Filebar 高级版永久解锁": "¥48.00"
+      "Filebar 高级版永久解锁": "¥68.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -16675,6 +16702,16 @@
       "Filebar 高级版永久解锁": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741186956937,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Filebar 高级版永久解锁": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740643382898,
