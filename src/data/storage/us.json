@@ -2121,6 +2121,14 @@
     "history": [
       [
         {
+          "timestamp": 1741233756752,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741147347679,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -17069,6 +17077,21 @@
     "history": [
       [
         {
+          "timestamp": 1741233756752,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5000 GP": "$1.99",
+            "25000 GP": "$5.99",
+            "50000 GP": "$9.99",
+            "Remove Ad": "$2.99",
+            "200000 GP": "$29.99",
+            "120000 GP": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1738209751886,
           "price": 12,
           "formattedPrice": "$12.00",
@@ -17588,7 +17611,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "Fileball Pro Lifetime": "$9.99",
-      "Filebar Pro Lifetime": "$6.99"
+      "Filebar Pro Lifetime": "$9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -17597,6 +17620,16 @@
       "Filebar Pro Lifetime": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741233756752,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740643382898,
@@ -20004,14 +20037,22 @@
   "1620883955": {
     "name": "Little Nightmares",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "$7.99"
+      "price": 8.99,
+      "formattedPrice": "$8.99"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741233756752,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730779356168,
