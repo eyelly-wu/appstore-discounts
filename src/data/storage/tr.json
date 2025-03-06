@@ -1347,6 +1347,14 @@
     "history": [
       [
         {
+          "timestamp": 1741219731395,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741133314831,
           "price": 599.99,
           "formattedPrice": "₺599,99",
@@ -9457,7 +9465,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "Fileball Pro Lifetime": "₺449,99",
-      "Filebar Pro Lifetime": "₺299,99"
+      "Filebar Pro Lifetime": "₺449,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -9466,6 +9474,16 @@
       "Filebar Pro Lifetime": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741219731395,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740643382898,
