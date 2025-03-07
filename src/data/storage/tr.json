@@ -1347,6 +1347,14 @@
     "history": [
       [
         {
+          "timestamp": 1741306107499,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741219731395,
           "price": 0,
           "formattedPrice": "Free",
@@ -1816,6 +1824,22 @@
       "Lifetime Photos Transfer": "₺2.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741306107499,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "₺399,99",
+            "Lifetime Cloud Services": "₺2.299,99",
+            "Monthly Cloud Services": "₺49,99",
+            "Lifetime Photos Transfer": "₺2.299,99",
+            "Monthly Photos Transfer": "₺99,99",
+            "Yearly Photos Transfer": "₺449,99",
+            "Reset Password": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741046907658,
@@ -4333,6 +4357,14 @@
     "history": [
       [
         {
+          "timestamp": 1741306107499,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1739146109319,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -4829,6 +4861,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741306107499,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735430940392,
@@ -8679,6 +8719,16 @@
       "Value for Value": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741306107499,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741096947103,
