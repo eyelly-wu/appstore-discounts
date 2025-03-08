@@ -2174,6 +2174,14 @@
     "history": [
       [
         {
+          "timestamp": 1741446130240,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741273341217,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -16529,7 +16537,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "年度訂閱": "HK$ 228.00",
+      "年度訂閱": "HK$ 288.00",
       "月度訂閱": "HK$ 58.00",
       "專屬終生優惠方案": "HK$ 588.00",
       "終生": "HK$ 888.00",
@@ -16546,6 +16554,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1741446130240,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度訂閱": "HK$ 288.00",
+            "月度訂閱": "HK$ 58.00",
+            "專屬終生優惠方案": "HK$ 588.00",
+            "終生": "HK$ 888.00"
+          }
+        },
         {
           "timestamp": 1741397236530,
           "price": 0,
