@@ -2172,6 +2172,14 @@
     "history": [
       [
         {
+          "timestamp": 1741492926056,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741320151156,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -15554,6 +15562,19 @@
       "Suscripción mensual": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741492926056,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "$39.99",
+            "Monthly Subscription": "$7.99",
+            "Exclusive Lifetime Offer": "$79.99",
+            "Lifetime": "$149.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741397236530,
