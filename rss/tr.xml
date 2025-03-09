@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-03-09T16:05:19.878Z</updated>
+    <updated>2025-03-09T23:05:21.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,61 +18,48 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-03-09T16:05:19.878Z</updated>
+        <updated>2025-03-09T23:05:21.074Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inspire Pro]]></title>
-        <id>Inspire Pro-1741536137122</id>
-        <link href="https://apps.apple.com/tr/app/inspire-pro/id355460798?uo=4"/>
-        <updated>2025-03-09T16:02:17.122Z</updated>
-        <summary type="html"><![CDATA[Price: ₺899,99 → ₺449,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/inspire-pro/id355460798?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/9f/0d/f59f0dd0-8930-fe1b-9cfe-9d4328ea951f/AppIcon-1x_U007emarketing-5-0-P3-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Juice Watch]]></title>
+        <id>Juice Watch-1741561346050</id>
+        <link href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4"/>
+        <updated>2025-03-09T23:02:26.050Z</updated>
+        <summary type="html"><![CDATA[Price: ₺299,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/ba/5a/b9ba5a7e-2846-fa81-ac76-66a869367861/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺899,99</span> → <b>
-  <strong>₺449,99</strong>
+  Discount Information（Price：<span>₺299,99</span> → <b>
+  <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Available exclusively on the App Store, meticulously designed to be beautifully powerful, and painstakingly engineered for iPad — Inspire Pro delivers an incredibly fast and realistic painting, drawing, and sketching experience that you can take with you wherever you go and use whenever inspiration strikes.
+  Monitor your iPhone battery level from your wrist.
 
-Our proprietary painting engine Sorcery™ takes full advantage of the GPU to render brush strokes with brilliant 64-bit colour, laser-sharp sub-pixel precision, and insanely fast speed. While the strokes of a wet oil paint brush look beautiful on their own, the breathtaking blending effects of a dry brush will absolutely stun you. Graze the canvas with just a bit of pressure to add a subtle blur to your artwork or use stronger pressure to actually mix existing colours on the canvas together to create new ones.
+Juice Watch is a simple app designed to do two things well:
 
-Whether you are a budding artist, seasoned professional, or somewhere in-between, you will enjoy the simplicity and power of the most intuitive and compelling illustration app for iPad, Inspire Pro.
+• Show the battery level of the paired iPhone in a complication on Apple Watch
 
-Amazing Brushes
-• 150 high-quality brushes to choose from, divided into 15 sets: Oil Paint, Airbrushes, Spray Paint, Paint Splatter, Graphite Pencils, Wax Crayons, Markers, Chalk, Charcoal, Pastels & Conté, Basic Shapes, Complex Shapes, Shape Outlines, Patterns, and Textures
-• All brushes can be used as a Wet Brush, Dry Brush (Blending), or Eraser
-• Over 20 different settings are available to customize brush strokes with powerful versatility and variation
+• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
 
-The Best Painting App for iPad
-• Sorcery™, the fastest 64-bit painting engine on the App Store
-• Full-fledged Apple Pencil support for pressure, tilt angle, orientation, and double-tap
-• Smart Keyboard support with over 20 context-sensitive keyboard shortcuts
-• Create a canvas of any size up to 16K (64MP) on iPad Pro
-• Dual-texture brushes
-• 64-bit colour
-• All device orientations are supported all the time — switch from portrait to landscape painting with ease
-• 1000 levels of undo and redo are available
-• Touch and slide hotspots can be used to quickly change brush size, opacity, and pressure without opening a menu
-• The eyedropper tool can be used with a touch and hold gesture to select paint colours from the canvas
-• The canvas can be moved around, rotated, and zoomed in and out up to 6400%
+Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
 
-Canvas Playback Video Recording
-• Brush strokes are automatically recorded as you paint without any delay
-• You can play the video of your artwork being created stroke-by-stroke directly in the gallery
-• Exported videos are high quality HD at up to 1080p resolution
+You can see both your iPhone and Apple Watch battery levels on the same complication.
 
-Full-Featured Colour Picker
-• Choose any paint colour you can dream of with the intuitive colour picker
-• HSB and RGB sliders accompany a large colour circle, colour square, and opacity slider
-• Your latest colours are saved to a palette automatically while you paint
-• You can also save your favourite colours to a palette with drag and drop
+You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
 
-Visit snowCanoe.com to check out more screenshots, videos and artwork.
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/87/14/76/871476fa-6024-ab69-e33d-561543eb77e1/ffb6e7e6-59e3-4c7f-956e-c3c85d63e010_Screenshot1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3d/3e/db/3d3edba8-ba8d-ed1f-3713-696771e8a24f/a6c508e5-e2b7-4f20-a464-9b9b68041a7d_Screenshot2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/04/31/e70431e3-7495-3a58-44c4-6feb1c77c45c/25bd5baa-ba77-409a-ad6b-97e9164c2d79_Screenshot3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/9a/40/ee9a4030-b796-50f6-9f6a-628ed3da28cd/b06a1812-7725-4e8c-adb5-fab87f91db45_Screenshot4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/74/5a/ff/745aff65-f1ee-ee5c-fd67-4c5273062682/a0381ee6-4ac0-4963-a81a-9e7ee5920e70_Screenshot5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bf/a5/e6/bfa5e61e-a77d-f215-9329-5bdcd0e2d04e/8d42d43c-f7ab-423a-a312-361637be5fb1_Screenshot6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f3/8d/46/f38d4675-088a-3ceb-2916-f652164dfad3/4898ea16-c878-404a-b61b-861035ddab05_Screenshot7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/25/82/0a258262-e690-91d2-f158-ace126bb69e0/d6165148-5439-4c8f-931d-0a9c4ac72aa9_Screenshot8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/ca/cd/6fcacd96-b29c-0edc-66d8-9e50c20eefd0/2fef7a52-9a92-4ce1-bb4c-c2958777ea4b_Screenshot9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9a/c4/a2/9ac4a22e-2772-eac4-c13c-76216027f309/acf8e589-4533-4021-87df-def489adc1b0_Screenshot10.png/552x414bb.png" />]]></content>
+You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+
+Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+
+You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+
+Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+
+As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
