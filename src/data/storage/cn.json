@@ -721,6 +721,19 @@
     "history": [
       [
         {
+          "timestamp": 1741701747124,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "¥228.00",
+            "Premium Cloud Service Monthly": "¥7.00",
+            "Premium Cloud Service Yearly": "¥48.00",
+            "Reset Password": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740668542421,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -2192,6 +2205,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741701747124,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1741615349587,
@@ -15524,6 +15545,16 @@
       "Value for Value": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741701747124,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741528928419,
