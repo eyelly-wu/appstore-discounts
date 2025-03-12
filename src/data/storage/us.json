@@ -623,6 +623,19 @@
     "history": [
       [
         {
+          "timestamp": 1741748984771,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740715360316,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -2197,6 +2210,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741748984771,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1741662644299,
@@ -16546,6 +16567,16 @@
       "Value for Value": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741748984771,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741575743217,
