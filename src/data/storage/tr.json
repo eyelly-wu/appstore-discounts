@@ -1402,6 +1402,14 @@
     "history": [
       [
         {
+          "timestamp": 1741820532482,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741734123444,
           "price": 599.99,
           "formattedPrice": "₺599,99",
@@ -2566,6 +2574,25 @@
       "Karkinos": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741820532482,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Kutsao": "₺129,99",
+            "Sha'tra": "₺129,99",
+            "Dante": "₺229,99",
+            "Grawl": "₺129,99",
+            "Captain Blackthorne": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741665747045,
