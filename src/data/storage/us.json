@@ -2212,6 +2212,14 @@
     "history": [
       [
         {
+          "timestamp": 1741835457021,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741748984771,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -4161,6 +4169,25 @@
       "Karkinos": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741835457021,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740965377351,
@@ -20481,6 +20508,14 @@
       "formattedPrice": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1741835457021,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1741233756752,
