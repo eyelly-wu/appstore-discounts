@@ -5308,6 +5308,19 @@
     "history": [
       [
         {
+          "timestamp": 1742061745457,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "₺29,99",
+            "SVIP auto-renew yearly": "₺399,99",
+            "Annual Special SVIP": "₺599,99",
+            "545 Days SVIP": "₺599,99",
+            "3-Year SVIP": "₺999,99",
+            "100 Days SVIP": "₺129,99"
+          }
+        },
+        {
           "timestamp": 1742058124807,
           "price": 699.99,
           "formattedPrice": "₺699,99",
