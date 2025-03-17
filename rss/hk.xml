@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-03-17T13:11:21.144Z</updated>
+    <updated>2025-03-17T14:05:21.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,87 +21,82 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-03-17T13:11:21.145Z</updated>
+        <updated>2025-03-17T14:05:21.507Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Longshot - Screenshot & OCR]]></title>
-        <id>Longshot - Screenshot &amp; OCR-1742216901502</id>
-        <link href="https://apps.apple.com/hk/app/longshot-screenshot-ocr/id6450262949?mt=12&amp;uo=4"/>
-        <updated>2025-03-17T13:08:21.502Z</updated>
-        <summary type="html"><![CDATA[Pro version lifetime: HK$ 98.00 → HK$ 88.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/longshot-screenshot-ocr/id6450262949?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/85/c5/a085c549-adbd-c0e5-ae80-a1c3474ed130/AppIcon-85-220-0-5-0-0-2x-0-0.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>Pro version lifetime：</strong><span>HK$ 98.00</span> → <b>
-  <strong>HK$ 88.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  ## Annotation and Color Picking
-Conveniently annotate the screen, a great helper for communicating with colleagues, simple and easy to use.
+        <title type="html"><![CDATA[Safety Note+ Pro]]></title>
+        <id>Safety Note+ Pro-1742220143898</id>
+        <link href="https://apps.apple.com/hk/app/safety-note-pro/id460661291?uo=4"/>
+        <updated>2025-03-17T14:02:23.898Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 32.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/safety-note-pro/id460661291?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/06/41/290641d6-1d49-9938-5ce0-0c15eb7cdc07/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 32.00</span> → <b>
+  <strong>免費</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  介紹安全筆記+：保護您最私密的筆記
 
-- Drawing tools, shapes, ovals, lines, arrows, text, marker pen, freehand drawing.
-- Annotation and measurement, mosaic, blur, annotation notes, measure pixel distances, color picking, rich functions.
-- Step annotation, clear expression of ideas, customizable number content
-- Convenient operations, shortcuts, undo, save, open, copy to clipboard, easy and simple.
+您曾經遇過這樣的情況嗎？把手機借給別人後，他們卻像自己的一樣翻閱您的資訊。您討厭這樣的事情嗎？如果您有一些不希望其他人存取的筆記，那麼您需要安全筆記+。這款應用程式能讓您快速、輕鬆地設定密碼，保護您最私密或敏感的筆記，只有您自己能夠找到它們。
 
-## Scrolling Capture
-Optimized image stitching algorithm makes scrolling capture adaptable to various environments, easily capture conversation context scrolling up and down.
+主要功能：
 
-- Vertical/horizontal/360 degrees, support vertical, horizontal, panoramic scrolling capture, scroll any direction to capture.
-- Non-solid color background/non-scrolling areas, capture area can include non-scrolling objects with non-solid color background, good scrolling capture screenshot stitching.
-- Dynamically adjust scrolling direction/area, can change scrolling direction and readjust capture area after completion for restitching during scrolling.
-- Entire window scrolling capture, hold Option to capture entire scrolling window screenshot, automatic edge area handling.
+• 使用觸控ID或臉部辨識支援的生物辨識技術來解鎖應用程式
+• 入侵者報告：當有入侵者試圖存取您的應用程式時，應用程式將拍攝其照片
+• 偽裝密碼以保護您的真實隱私
+• 個別資料夾的密碼鎖定
+• 提供更高安全性的點圖案鎖定樣式
+• 密碼鎖定樣式（組合鎖、數字鍵盤鎖）
+• 可選擇的時尚主題，易於使用的介面
+• 按資料夾建立和排序筆記
+• 支援移動、複製和貼上功能
+• 完整方向支援
+• 透過iTunes檔案共享或iCloud將筆記從iPhone備份到電腦
+• 透過藍牙/無線網路與安裝了安全筆記+的兩個iOS設備分享筆記
+• 自動儲存筆記
+• 搜尋您的筆記
+• 透過電子郵件傳送筆記
+• 此應用程式可在iPhone和iPad上使用，您只需購買一次
 
-## OCR Text Recognition
-Offline OCR algorithm with emphasis on privacy protection. Quickly extract text from images, videos, documents or anywhere.
+憑藉三種時尚且易於使用的鎖定設計，您可以根據自己的喜好自定義密碼樣式，而不會影響安全性。現在，您可以選擇使用標準的組合鎖樣式、鍵盤樣式或全新的點圖案樣式，以便輕鬆訪問那些私人物品。為了增加安全性，為每個單獨的文件夾設置獨特的密碼和鎖定設計。
 
-- Select screen area, recognize text, copy to clipboard, paste to notes, editors, messages etc.
-- Support QR and barcode recognition, quickly open corresponding links.
-- Support text-to-speech playback of recognized text.
+立即下載安全筆記+，您可以確保只有您可以查看安全筆記+中的內容。
 
-## Screen Element Measurement
-Quickly measure any content on screen, automatically recognize distances and element sizes.
+訪問我們的網站：
+網站：https://sixbytes.io
+推特：https://twitter.com/SixbytesApp
+Facebook：https://www.facebook.com/sixbytesapp
 
-- Measure distance, automatically recognize distance between elements or objects on screen, annotate distance.
-- Measure element, just select approximate element area, can automatically snap to element and annotate size.
-- Support distance and element edge color tolerance adjustment for more precise localization.
+請閱讀我們的服務條款和隱私政策的更多信息：
+服務條款：https://sixbytes.io/assets/terms-of-service.pdf
+隱私政策：https://sixbytes.io/assets/privacy-policy.pdf
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雨雷達 ° -實時天氣圖]]></title>
+        <id>雨雷達 ° -實時天氣圖-1742220143898</id>
+        <link href="https://apps.apple.com/hk/app/%E9%9B%A8%E9%9B%B7%E9%81%94-%E5%AF%A6%E6%99%82%E5%A4%A9%E6%B0%A3%E5%9C%96/id488674899?uo=4"/>
+        <updated>2025-03-17T14:02:23.898Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 98.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E9%9B%A8%E9%9B%B7%E9%81%94-%E5%AF%A6%E6%99%82%E5%A4%A9%E6%B0%A3%E5%9C%96/id488674899?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/a6/eb/44a6ebc2-0045-22bb-5c81-8cbfcc93bfb0/AppIcon-Full-0-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 98.00</span> → <b>
+  <strong>免費</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  天氣雷達隨處可見。
+使用Rain Radar快速查看動畫雷達圖像和當前狀況。
 
-## Image Pinning
-Turn images, text from anywhere into desktop pins for convenient comparison.
+使用可縮放的雨水雷達功能跟踪傾盆大雨，天氣前沿和暴風雨的運動。 “雨雷達”可預測全球任何位置，並顯示實時天氣狀況以及新興模式。
 
-- Clipboard pinning, pin images, text, HTML etc. from clipboard to desktop.
-- Double-click pinned image, double-click pinned image or open pinned image on desktop to view.
-- Pinned image scrolling, scroll pinned image, double-click to close or minimize, support flipping and mirroring etc image operations.
-
-## Screen Recording
-Quickly record steps, one click to record full screen, selected area or window for easy sharing.
-
-- Support full-screen, region and window recording, application recording.
-- Support system sound, microphone recording, frame rate settings etc.
-
-## Window Capture
-Select window to highlight subject, make capture area better convey intent.
-
-- Intelligent window recognition, automatically highlight window mouse is in.
-- Multiple window combinations, hold Shift to select multiple windows for combined capture.
-
-## Contact
-Full introduction: https://longshot.chitaner.com
-Email: office.chitaner@gmail.com
-QQ group: 780402788
-
-## Purchase
-Lifetime license of Longshot Pro allows unlimited screenshot scrolling, step annotation, element measurement and sizing annotation, OCR text recognition, custom hotkeys - unlock all current pro features.
-
--------------------------------------------------------
-Privacy Policy: https://longshot.chitaner.com/privacy/
-Terms of Use: https://longshot.chitaner.com/terms/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/71/1b/4e711bdc-3773-cd52-d49f-b122d2b58d08/en_page_1.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/9f/e1/c69fe102-71d6-1041-77ff-5826371c0cc5/en_page_2.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/48/aa/4148aa0d-72c4-3897-31ff-83d421d8b53f/en_page_3.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/12/84/c4128495-b08a-f436-58aa-2ab52d0117d1/en_page_4.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/d6/b1/7dd6b183-8a04-4762-1b49-e1a645bcd1f5/en_page_5.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/9d/54/c79d5475-668c-fd73-f2ec-f9daec3c78ee/en_page_6.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/e4/30/4ce4305c-a706-c41a-c34b-ba664a8f2128/en_page_7.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/b2/46/a3b246bc-7960-59d2-f690-7fe27d8f97fa/en_page_8.jpg/800x500bb.jpg" />]]></content>
+有關天氣的一切一目了然。 快速，簡單，免費！
+天氣預報應用程序，可以準確地描述當前的天氣和新興模式。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a3/3d/2a/a33d2a55-48a0-198c-5b98-6f1dd4cb2126/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/16/b2/96/16b296cb-a323-c26c-1c67-8d336eaade89/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/72/37/90/723790d9-642f-995f-5469-1e588dc81498/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0d/3f/2d/0d3f2de0-3a41-ebad-bb58-e53b811f4c3d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5c/1b/62/5c1b625d-5f1f-e349-1560-7c82a12cf0fe/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9d/59/61/9d596154-9d65-80c9-ab53-83ffd40e6ef8/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/df/13/66/df13660d-b292-b476-d9e2-e0b2e010d0ba/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/43/88/9c/43889c88-ab93-e998-d855-c08f4fb805db/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0d/72/7c/0d727cce-b561-e9d2-a7db-3a3de3baa490/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a3/c4/ea/a3c4ead7-014d-f4c2-af52-4e2eecd97377/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/3b/f1/c73bf143-8967-2204-b939-40b74f669980/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/17/0f/e4/170fe4c4-a239-274a-d507-99efff510706/pr_source.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
