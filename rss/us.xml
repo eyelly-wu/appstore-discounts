@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-03-17T13:11:21.148Z</updated>
+    <updated>2025-03-17T16:06:03.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,87 +21,106 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-03-17T13:11:21.148Z</updated>
+        <updated>2025-03-17T16:06:03.281Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Longshot - Screenshot & OCR]]></title>
-        <id>Longshot - Screenshot &amp; OCR-1742216901502</id>
-        <link href="https://apps.apple.com/us/app/longshot-screenshot-ocr/id6450262949?mt=12&amp;uo=4"/>
-        <updated>2025-03-17T13:08:21.502Z</updated>
-        <summary type="html"><![CDATA[Pro version lifetime: $12.99 → $9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/longshot-screenshot-ocr/id6450262949?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/85/c5/a085c549-adbd-c0e5-ae80-a1c3474ed130/AppIcon-85-220-0-5-0-0-2x-0-0.png/60x60bb.png" />
+        <title type="html"><![CDATA[ProCam - Pro Camera]]></title>
+        <id>ProCam - Pro Camera-1742227355917</id>
+        <link href="https://apps.apple.com/us/app/procam-pro-camera/id730712409?uo=4"/>
+        <updated>2025-03-17T16:02:35.917Z</updated>
+        <summary type="html"><![CDATA[ZERO: Direct Sensor Capture: $4.99 → $2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/procam-pro-camera/id730712409?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/b2/a5/7db2a510-fb7a-025b-ffa3-d9edd91f559a/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Pro version lifetime：</strong><span>$12.99</span> → <b>
-  <strong>$9.99</strong>
+    <strong>ZERO: Direct Sensor Capture：</strong><span>$4.99</span> → <b>
+  <strong>$2.99</strong>
 </b>
   </li>
 </ul><h2>Application Description</h2><p>
-  ## Annotation and Color Picking
-Conveniently annotate the screen, a great helper for communicating with colleagues, simple and easy to use.
+  SHOOTING MODES 
 
-- Drawing tools, shapes, ovals, lines, arrows, text, marker pen, freehand drawing.
-- Annotation and measurement, mosaic, blur, annotation notes, measure pixel distances, color picking, rich functions.
-- Step annotation, clear expression of ideas, customizable number content
-- Convenient operations, shortcuts, undo, save, open, copy to clipboard, easy and simple.
+- Photo
+- Burst Mode
+- Slow Shutter
+- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020
+- 3D Photo - requires dual lens camera system
+- Video
+- Time Lapse
 
-## Scrolling Capture
-Optimized image stitching algorithm makes scrolling capture adaptable to various environments, easily capture conversation context scrolling up and down.
+PHOTO SHUTTER RELEASE OPTIONS
 
-- Vertical/horizontal/360 degrees, support vertical, horizontal, panoramic scrolling capture, scroll any direction to capture.
-- Non-solid color background/non-scrolling areas, capture area can include non-scrolling objects with non-solid color background, good scrolling capture screenshot stitching.
-- Dynamically adjust scrolling direction/area, can change scrolling direction and readjust capture area after completion for restitching during scrolling.
-- Entire window scrolling capture, hold Option to capture entire scrolling window screenshot, automatic edge area handling.
+- Self-Timer 
+- Anti-Shake
+- Screen Shutter / Big Button
+- Interval
 
-## OCR Text Recognition
-Offline OCR algorithm with emphasis on privacy protection. Quickly extract text from images, videos, documents or anywhere.
+VIDEO FRAME RATES AND RESOLUTIONS
 
-- Select screen area, recognize text, copy to clipboard, paste to notes, editors, messages etc.
-- Support QR and barcode recognition, quickly open corresponding links.
-- Support text-to-speech playback of recognized text.
+- VGA, 720p, 1080p
+- 4K Ultra HD - 3264x1836 upscaled to 3840x2160 - in-app purchase - iPhone 5s / iPad Air 2 and later
+- 4K Ultra HD - 3840x2160 - native support on iPhone 6s / Plus and later
+- 4K Max - 4032x2268 - in-app purchase -  iPhone 6s / Plus and later
+- High frame rate:
+* 48 / 50 / 60 fps 720p - iPhone 5 / iPad mini and later  
+* 96 / 100 /120 fps 720p - iPhone 5s / iPad Air 2 and later 
+* 192 / 200 / 240 fps 720p - iPhone 6 and later 
+* 48 / 50 / 60 fps 1080p - iPhone 6 and later
+* 96 / 100 / 120 fps 1080p - iPhone 6s / Plus and later
+* 192 / 200 / 240 fps 1080p - iPhone 8 and later 
+* 48 / 50 / 60 fps 4K - iPhone 8 and later  
 
-## Screen Element Measurement
-Quickly measure any content on screen, automatically recognize distances and element sizes.
+TIME LAPSE FRAME RATES AND RESOLUTIONS
 
-- Measure distance, automatically recognize distance between elements or objects on screen, annotate distance.
-- Measure element, just select approximate element area, can automatically snap to element and annotate size.
-- Support distance and element edge color tolerance adjustment for more precise localization.
+- VGA, 720p, 1080p
+- 4K Ultra HD - 3264x1836 upscaled to 3840x2160 - in-app purchase - iPhone 5 / iPad Air 2 and later
+- 4K Ultra HD - 3840x2160 - native support on iPhone 6s / Plus and later
+- 4K Max - 4032x2268 - in-app purchase - iPhone 6s / Plus and later
+- High frame rate:
+* 48 / 50 / 60 fps 720p - all devices
+* 48 / 50 / 60 fps 1080p - all devices
+* 48 / 50 / 60 fps 4K - iPhone 5 / iPad Air 2 and later
+* 48 / 50 / 60 fps 4K Max -  iPhone 6s / Plus and later
 
-## Image Pinning
-Turn images, text from anywhere into desktop pins for convenient comparison.
+MANUAL CONTROLS
 
-- Clipboard pinning, pin images, text, HTML etc. from clipboard to desktop.
-- Double-click pinned image, double-click pinned image or open pinned image on desktop to view.
-- Pinned image scrolling, scroll pinned image, double-click to close or minimize, support flipping and mirroring etc image operations.
+- Manual exposure, shutter speed, ISO, focus, and white balance controls
+- Scroll and steppers system inspired by DSLR cameras
+- Tap location accurate manual focus assist
+- True focus peaking
+- Zebra stripes - overexposure warning
+- Live shutter speed, ISO, focus, and WB values
+- Manual controls are supported in all photo and video modes
 
-## Screen Recording
-Quickly record steps, one click to record full screen, selected area or window for easy sharing.
+MAIN CAMERA FEATURES
 
-- Support full-screen, region and window recording, application recording.
-- Support system sound, microphone recording, frame rate settings etc.
+- RAW (DNG) iOS 10 - iPhone 6s / iPad Pro 9.7 and later
+- Lossless TIFF file format support
+- Intelligent 3-shot HDR
+- AEB (Auto Exposure Bracketing) with RAW support for high contrast conditions
+- Live light level histogram
+- Adjustable aspect ratio (4:3 / 3:2 / 16:9 / 1:1) 
+- Video pause/resume functionality 
+- Video audio meter (Avg. / Peak signal levels) 
+- Still photo capture during video recording 
+- Realtime video stabilization (ON/OFF) 
+- Video disk space indicator 
+- Thirds grid and horizontal tiltmeter. 
+- Date / time / location / Copyright stamp
 
-## Window Capture
-Select window to highlight subject, make capture area better convey intent.
+PHOTO / VIDEO EDITOR & PHOTO EDITING EXTENSION
 
-- Intelligent window recognition, automatically highlight window mouse is in.
-- Multiple window combinations, hold Shift to select multiple windows for combined capture.
-
-## Contact
-Full introduction: https://longshot.chitaner.com
-Email: office.chitaner@gmail.com
-QQ group: 780402788
-
-## Purchase
-Lifetime license of Longshot Pro allows unlimited screenshot scrolling, step annotation, element measurement and sizing annotation, OCR text recognition, custom hotkeys - unlock all current pro features.
-
--------------------------------------------------------
-Privacy Policy: https://longshot.chitaner.com/privacy/
-Terms of Use: https://longshot.chitaner.com/terms/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/71/1b/4e711bdc-3773-cd52-d49f-b122d2b58d08/en_page_1.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/9f/e1/c69fe102-71d6-1041-77ff-5826371c0cc5/en_page_2.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/48/aa/4148aa0d-72c4-3897-31ff-83d421d8b53f/en_page_3.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/12/84/c4128495-b08a-f436-58aa-2ab52d0117d1/en_page_4.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/d6/b1/7dd6b183-8a04-4762-1b49-e1a645bcd1f5/en_page_5.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/9d/54/c79d5475-668c-fd73-f2ec-f9daec3c78ee/en_page_6.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/e4/30/4ce4305c-a706-c41a-c34b-ba664a8f2128/en_page_7.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/b2/46/a3b246bc-7960-59d2-f690-7fe27d8f97fa/en_page_8.jpg/800x500bb.jpg" />]]></content>
+- Nondestructive editing - all edits, including cropping, are completely amendable / reversible 
+- 60 expertly crafted filters
+- 17 lenses: Vignette / White Vignette / Fisheye / Tilt Shift / Macro / Tiny Planet / Wormhole / Split / Kaleidoscope I, II, III, IV, V / Ripple / Striped / Hatched / Halftone
+- 19 comprehensive adjustment tools
+- Trimming, cropping, rotating, mirroring, straightening, and perspective correction
+- Extremely accurate timeline with the ability to review videos frame by frame
+- Ability to add background music
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/8c/88/a78c883d-c06f-5c4c-76a0-82f4fdd6b849/393dd30a-35d0-4885-9811-ca79edf83e1f_ProCam_3_screenshot_1_iPhone_6_Plus.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/0a/e2/7b0ae23d-89d5-f00b-2b73-e749d144ab78/84bbb6e3-152d-4e03-b43d-ecaa6acd7727_ProCam_8_Screenshot_2_iPhone_5.5_U0022_English.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/99/c5/1599c575-ec29-0043-7c71-a10299306735/500cb606-b579-4085-b989-2027684d0150_ProCam_3_screenshot_3_English_iPhone_6_Plus.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/e8/6b/7be86b1e-5702-e554-ab86-5f4fcb57686f/4b29b106-c9ae-4bee-a46d-fe3b1e068ef4_ProCam_8_screenshot_6_English_iPhone_7_Plus.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/54/52/2e545216-4eda-5b78-68f1-1b2cf925462c/9befd3ce-4189-49fb-bce0-122924d49675_ProCam_2_screenshot_4_English_iPhone_6_Plus.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/0a/80/5e0a80b3-53ca-8884-5f56-747703128c89/905de1a5-4e02-4884-81fc-c3139b235529_1242x2208bb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/47/36/13473600-377c-d5ee-a3f2-6629bfc28093/07e980fe-5640-4720-9acb-40ac01107e4b_1242x2208bb-2.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/70/ef/1270ef44-e87e-2367-a6e0-a213a11b1ccb/mzl.phukbfur.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/4e/43/404e439c-6876-b302-cf6d-a48dc90d2184/mzl.xvoljjrx.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/65/c8/b665c8e1-b500-32e2-0c59-5e975cbae01a/mzl.zbcbbnnv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/97/96/c69796f6-d3d0-d782-b1af-6b9f62dcab90/mzl.klovwyof.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/59/df/5559df08-ad14-ddf5-1467-9435389ca26e/mzl.ixjwfqqf.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
