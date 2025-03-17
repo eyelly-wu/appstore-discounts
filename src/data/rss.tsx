@@ -178,7 +178,9 @@ function generateRegionFeed(regionDiscountInfo: RegionDiscountInfo) {
       const feed = new Feed({
         title: `App Store Discounts（${region.toUpperCase()}）`,
         description: `App Store Discounts - Made with love by appstore-discounts(${homepage})
-This message is used to verify that this feed (feedId:${followFeedId}) belongs to me (userId:${followUserId}). Join me in enjoying the next generation information browser https://follow.is.`,
+This message is used to verify that this feed (feedId:${followFeedId}) belongs to me (userId:${followUserId}). Join me in enjoying the next generation information browser https://follow.is.
+feedId:${followFeedId}+userId:${followUserId}
+`,
         id: `${homepage}/rss/${region}.xml`,
         link: `https://apps.apple.com/${region}/app`,
         image: appstoreIcon,
