@@ -8,6 +8,17 @@ import { regionInAppPurchasesTextMap } from 'appinfo.config'
 import { homepage } from '../../package.json'
 import { start, end } from './timer'
 
+const followUserId = '73658201673997312'
+
+const followRegionFeedMap: Record<Region, string> = {
+  cn: '49753297431966720',
+  hk: '67474973430475776',
+  mo: '73536165737884672',
+  tw: '73536236398899200',
+  us: '49753370488353792',
+  tr: '99063474310237184',
+}
+
 function getShowDescription(discountInfo: DiscountInfo) {
   const { discounts } = discountInfo
 
@@ -162,10 +173,12 @@ function generateRegionFeed(regionDiscountInfo: RegionDiscountInfo) {
 
       const region = key as Region
       const t = getTranslate(region)
+      const followFeedId = followRegionFeedMap[region]
 
       const feed = new Feed({
         title: `App Store Discounts（${region.toUpperCase()}）`,
-        description: `App Store Discounts - Made with love by appstore-discounts(${homepage})`,
+        description: `App Store Discounts - Made with love by appstore-discounts(${homepage})
+This message is used to verify that this feed (feedId:${followFeedId}) belongs to me (userId:${followUserId}). Join me in enjoying the next generation information browser https://follow.is.`,
         id: `${homepage}/rss/${region}.xml`,
         link: `https://apps.apple.com/${region}/app`,
         image: appstoreIcon,
