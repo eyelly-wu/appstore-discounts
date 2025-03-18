@@ -1678,6 +1678,21 @@
     "history": [
       [
         {
+          "timestamp": 1742267543225,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1741406540711,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -2242,6 +2257,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742267543225,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1742181183612,
@@ -16966,8 +16989,8 @@
   "1481853033": {
     "name": "Strongbox Pro",
     "maxPriceInfo": {
-      "price": 74.99,
-      "formattedPrice": "$74.99",
+      "price": 99.99,
+      "formattedPrice": "$99.99",
       "Little Tip": "$4.99",
       "Medium Tip": "$19.99",
       "Monthly Tip": "$2.99",
@@ -16989,6 +17012,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1742267543225,
+          "price": 99.99,
+          "formattedPrice": "$99.99",
+          "inAppPurchases": {
+            "Little Tip": "$4.99",
+            "Medium Tip": "$19.99",
+            "Monthly Tip": "$2.99",
+            "Small Tip": "$9.99",
+            "Annual Tip": "$19.99",
+            "Huge Tip": "$199.99",
+            "Large Tip": "$99.99"
+          }
+        },
         {
           "timestamp": 1742264150416,
           "price": 74.99,
