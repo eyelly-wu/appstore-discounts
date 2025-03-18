@@ -17076,9 +17076,19 @@
       "price": 0,
       "formattedPrice": "Free",
       "Premium Features": "$3.99",
-      "Value for Value": "$2.99"
+      "Value for Value": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742303287037,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741748984771,
