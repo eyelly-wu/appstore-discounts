@@ -1485,6 +1485,14 @@
     "history": [
       [
         {
+          "timestamp": 1742338946600,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742252540459,
           "price": 0,
           "formattedPrice": "Free",
@@ -9388,6 +9396,16 @@
     "history": [
       [
         {
+          "timestamp": 1742338946600,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1742230931682,
           "price": 0,
           "formattedPrice": "Free",
@@ -10043,6 +10061,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742338946600,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1740010106516,
@@ -13182,7 +13208,7 @@
       "formattedPrice": "Free",
       "包月会员": "₺79,99",
       "永久会员": "₺899,99",
-      "包年会员": "₺599,99"
+      "包年会员": "₺899,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -13192,6 +13218,18 @@
       "包年会员": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742338946600,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "₺449,99",
+            "包月会员": "₺79,99",
+            "包年会员": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737536536963,
