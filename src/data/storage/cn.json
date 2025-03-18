@@ -2288,6 +2288,14 @@
     "history": [
       [
         {
+          "timestamp": 1742306545225,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742220143898,
           "price": 0,
           "formattedPrice": "免费",
@@ -16223,6 +16231,14 @@
     "history": [
       [
         {
+          "timestamp": 1742306545225,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        },
+        {
           "timestamp": 1742230931682,
           "price": 0,
           "formattedPrice": "免费",
@@ -17481,6 +17497,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742306545225,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1739977345583,
@@ -20987,7 +21011,7 @@
       "formattedPrice": "¥1.00",
       "包月会员": "¥16.00",
       "永久会员": "¥128.00",
-      "包年会员": "¥98.00"
+      "包年会员": "¥128.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -20997,6 +21021,18 @@
       "包年会员": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742306545225,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久会员": "¥78.00",
+            "包月会员": "¥16.00",
+            "包年会员": "¥128.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737536536963,

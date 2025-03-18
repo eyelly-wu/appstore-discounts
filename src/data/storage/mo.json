@@ -2099,6 +2099,14 @@
     "history": [
       [
         {
+          "timestamp": 1742306545225,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742220143898,
           "price": 0,
           "formattedPrice": "免費",
@@ -12744,6 +12752,14 @@
     "history": [
       [
         {
+          "timestamp": 1742306545225,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Value for Value": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1742230931682,
           "price": 0,
           "formattedPrice": "免費",
@@ -13862,6 +13878,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742306545225,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1739977345583,
@@ -17175,7 +17199,7 @@
       "formattedPrice": "USD 0.99",
       "永久会员": "USD 19.99",
       "包月会员": "USD 1.99",
-      "包年会员": "USD 14.99"
+      "包年会员": "USD 19.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -17185,6 +17209,18 @@
       "包年会员": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742306545225,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "永久会员": "USD 9.99",
+            "包月会员": "USD 1.99",
+            "包年会员": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737536536963,
