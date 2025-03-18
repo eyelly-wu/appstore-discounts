@@ -63,6 +63,10 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1481853033,
+    name: 'Strongbox Pro',
+  },
+  {
     id: 1581140954,
     name: [
       'Noir – Dark Mode for Safari',
