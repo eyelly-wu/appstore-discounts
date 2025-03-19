@@ -9041,12 +9041,23 @@
       "Encourage us, Donate Coke": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 79.99,
-      "formattedPrice": "₺79,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Encourage  us, Buy me a coffee": "₺99,99",
       "Encourage us, Donate Coke": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742353912307,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Encourage  us, Buy me a coffee": "₺129,99",
+            "Encourage us, Donate Coke": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,

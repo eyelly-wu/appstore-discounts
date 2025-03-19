@@ -2259,6 +2259,14 @@
     "history": [
       [
         {
+          "timestamp": 1742353912307,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742267543225,
           "price": 0,
           "formattedPrice": "Free",
@@ -16708,6 +16716,17 @@
     "history": [
       [
         {
+          "timestamp": 1742353912307,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Encourage us, Donate Coke": "$0.99",
+            "Encourage  us, Buy me a coffee": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1724468537652,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -18303,6 +18322,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742353912307,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1740024144770,
@@ -22140,7 +22167,7 @@
       "formattedPrice": "$0.99",
       "包月会员": "$1.99",
       "永久会员": "$19.99",
-      "包年会员": "$14.99"
+      "包年会员": "$19.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -22150,6 +22177,18 @@
       "包年会员": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742353912307,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$9.99",
+            "包月会员": "$1.99",
+            "包年会员": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737536536963,
