@@ -86,7 +86,7 @@
 |13|6475002485|❌|Reeder.|Reeder.|Reeder.|Reeder.|Reeder.|
 |14|1198176727|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|
 |15|904280696|Things 3|Things 3|Things 3|Things 3|Things 3|Things 3|
-|16|1055511498|Day One|Day One|Day One|Day One|Day One|Day One|
+|16|1055511498|Day One 日記：私人日記|Day One 日記：私人日記|Day One 日記：私人日記|Day One 日記：私人日記|Day One|Day One|
 |17|1208145167|Picsew - 滚动截图 & 长图拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - Scrollshot & Collage|Picsew - Scrollshot & Collage|
 |18|1444636541|Photomator|Photomator|Photomator|Photomator|Photomator – Photo Editor|Photomator|
 |19|1444383602|Goodnotes 6|Goodnotes 6|Goodnotes 6|Goodnotes 6|Goodnotes 6|Goodnotes 6|
