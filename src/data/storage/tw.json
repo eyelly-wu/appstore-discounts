@@ -8077,7 +8077,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Premium": "$1,050.00"
+      "Premium": "$1,090.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -8085,6 +8085,16 @@
       "Premium": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742356947184,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium": "$1,090.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730678910337,
