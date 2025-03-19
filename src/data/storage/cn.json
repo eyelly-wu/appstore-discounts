@@ -5180,6 +5180,14 @@
     "history": [
       [
         {
+          "timestamp": 1742403750253,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1740243741227,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -16436,6 +16444,16 @@
       "Value for Value": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742403750253,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742306545225,
