@@ -10400,6 +10400,23 @@
     "history": [
       [
         {
+          "timestamp": 1742637735382,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "1030 C.COIN": "¥98.00",
+            "60 C.COIN": "¥6.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "完整版解锁": "¥12.00"
+          }
+        },
+        {
           "timestamp": 1742616140885,
           "price": 0,
           "formattedPrice": "免费",
@@ -22306,7 +22323,8 @@
       "年度会员": "¥38.00",
       "月度会员": "¥6.00",
       "终身会员": "¥68.00",
-      "Premium Lifetime-Early Bird": "¥128.00"
+      "Premium Lifetime-Early Bird": "¥128.00",
+      "Premium Annual": "¥38.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -22314,9 +22332,23 @@
       "年度会员": "¥38.00",
       "月度会员": "¥6.00",
       "终身会员": "¥68.00",
-      "Premium Lifetime-Early Bird": "¥68.00"
+      "Premium Lifetime-Early Bird": "¥68.00",
+      "Premium Annual": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742637735382,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Annual": "¥38.00",
+            "月度会员": "¥6.00",
+            "终身会员": "¥68.00",
+            "Premium Lifetime-Early Bird": "¥128.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1736261626842,
