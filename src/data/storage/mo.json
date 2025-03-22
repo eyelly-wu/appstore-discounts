@@ -2114,6 +2114,14 @@
     "history": [
       [
         {
+          "timestamp": 1742652128567,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742479338823,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -3059,6 +3067,22 @@
       "Lifetime Photos Transfer": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742652128567,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "USD 9.99",
+            "Lifetime Cloud Services": "USD 49.99",
+            "Lifetime Photos Transfer": "USD 49.99",
+            "Monthly Photos Transfer": "USD 1.99",
+            "Yearly Photos Transfer": "USD 9.99",
+            "Monthly Cloud Services": "USD 1.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742392942591,
@@ -12563,6 +12587,17 @@
       "捐贈可樂，支持我们": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742652128567,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "送上咖啡，支持開發者": "USD 2.99",
+            "捐贈可樂，支持我们": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742353912307,

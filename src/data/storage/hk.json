@@ -2312,6 +2312,14 @@
     "history": [
       [
         {
+          "timestamp": 1742652128567,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742479338823,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -3257,6 +3265,22 @@
       "Lifetime Photos Transfer": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742652128567,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "HK$ 388.00",
+            "Yearly Cloud Services": "HK$ 88.00",
+            "Lifetime Photos Transfer": "HK$ 388.00",
+            "Monthly Photos Transfer": "HK$ 18.00",
+            "Yearly Photos Transfer": "HK$ 88.00",
+            "Monthly Cloud Services": "HK$ 18.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742392942591,
@@ -17879,6 +17903,17 @@
       "捐贈可樂，支持我们": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742652128567,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "送上咖啡，支持開發者": "HK$ 22.00",
+            "捐贈可樂，支持我们": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742353912307,
