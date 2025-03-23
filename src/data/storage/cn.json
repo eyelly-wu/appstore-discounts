@@ -2331,6 +2331,14 @@
     "history": [
       [
         {
+          "timestamp": 1742738516360,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742652128567,
           "price": 0,
           "formattedPrice": "免费",
@@ -3868,6 +3876,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742738516360,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1742479338823,
@@ -15888,6 +15904,14 @@
     "history": [
       [
         {
+          "timestamp": 1742738516360,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742392942591,
           "price": 0,
           "formattedPrice": "免费",
@@ -20634,6 +20658,17 @@
       "Hello World!": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742738516360,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740668542421,
