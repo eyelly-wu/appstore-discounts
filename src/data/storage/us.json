@@ -2310,6 +2310,14 @@
     "history": [
       [
         {
+          "timestamp": 1742786145307,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742699719497,
           "price": 0,
           "formattedPrice": "Free",
@@ -3869,6 +3877,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742786145307,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1742526752376,
@@ -16767,6 +16783,14 @@
     "history": [
       [
         {
+          "timestamp": 1742786145307,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742440257354,
           "price": 0,
           "formattedPrice": "Free",
@@ -20816,6 +20840,16 @@
     "history": [
       [
         {
+          "timestamp": 1742786145307,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740369764491,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -22012,6 +22046,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1742786145307,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740715360316,
