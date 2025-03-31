@@ -3592,6 +3592,22 @@
     "history": [
       [
         {
+          "timestamp": 1743429744487,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$1,490.00",
+            "Yearly Cloud Services": "$320.00",
+            "Monthly Cloud Services": "$50.00",
+            "Reset Password": "$30.00",
+            "Lifetime Photos Transfer": "$1,490.00",
+            "Monthly Photos Transfer": "$60.00",
+            "Yearly Photos Transfer": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1742652128567,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -22806,6 +22822,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743429744487,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Hello World!": "$30.00",
+            "甜蜜之家": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742738516360,
