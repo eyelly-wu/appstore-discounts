@@ -1163,6 +1163,21 @@
     "history": [
       [
         {
+          "timestamp": 1743548539636,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "₺179,99",
+            "Cloud Backup Monthly": "₺39,99",
+            "iCloud Sync Monthly": "₺16,99",
+            "Cloud Backup Yearly": "₺199,99",
+            "Reset Password": "₺39,99",
+            "iCloud Sync Lifetime": "₺1.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1742511735404,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -10944,6 +10959,16 @@
       "Filebar Pro Lifetime": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743548539636,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743477616558,
