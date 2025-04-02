@@ -17700,7 +17700,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime": "$19.95",
+      "Lifetime": "$19.99",
       "Monthly": "$0.99",
       "Annual": "$6.99"
     },
@@ -17712,6 +17712,18 @@
       "Annual": "$6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743557378627,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$19.99",
+            "Monthly": "$0.99",
+            "Annual": "$6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737108147056,

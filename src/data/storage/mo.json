@@ -13329,16 +13329,31 @@
       "formattedPrice": "免費",
       "Lifetime": "USD 19.99",
       "Monthly": "USD 0.99",
-      "Annual": "USD 6.99"
+      "Annual": "USD 6.99",
+      "终身买断": "USD 19.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Lifetime": "USD 19.99",
       "Monthly": "USD 0.99",
-      "Annual": "USD 6.00"
+      "Annual": "USD 6.00",
+      "终身买断": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743557378627,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime": "USD 19.99",
+            "Monthly": "USD 0.99",
+            "Annual": "USD 6.00",
+            "终身买断": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737108147056,

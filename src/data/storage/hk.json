@@ -18898,16 +18898,31 @@
       "formattedPrice": "免費",
       "Monthly": "HK$ 8.00",
       "Lifetime": "HK$ 148.00",
-      "Annual": "HK$ 58.00"
+      "Annual": "HK$ 58.00",
+      "终身买断": "HK$ 148.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Monthly": "HK$ 8.00",
       "Lifetime": "HK$ 148.00",
-      "Annual": "HK$ 48.00"
+      "Annual": "HK$ 48.00",
+      "终身买断": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743557378627,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Annual": "HK$ 48.00",
+            "Lifetime": "HK$ 148.00",
+            "Monthly": "HK$ 8.00",
+            "终身买断": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737108147056,
