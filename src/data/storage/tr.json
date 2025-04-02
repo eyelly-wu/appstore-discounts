@@ -6419,9 +6419,9 @@
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99",
-      "VIP会员  1年": "₺24.999,99",
-      "VIP会员  3个月": "₺6.999,99",
-      "VIP会员  1个月": "₺2.499,99"
+      "VIP会员  1年": "₺29.999,99",
+      "VIP会员  3个月": "₺8.999,99",
+      "VIP会员  1个月": "₺2.999,99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -6431,6 +6431,18 @@
       "VIP会员  1个月": "₺2.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743563675880,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "VIP会员  1年": "₺29.999,99",
+            "VIP会员  3个月": "₺8.999,99",
+            "VIP会员  1个月": "₺2.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -9030,7 +9042,17 @@
       "2025 Balanced Routine Planner": "₺499,99",
       "2025 Advanced Tracking Planner": "₺499,99",
       "2025 Smart Routine Planner (Gr": "₺499,99",
-      "2025 Smart Routine Planner (Pi": "₺499,99"
+      "2025 Smart Routine Planner (Pi": "₺499,99",
+      "Budgeting Stickers Pack": "₺249,99",
+      "Student Budget Planner (Mon. S": "₺499,99",
+      "Student Budget Planner (Sun. S": "₺499,99",
+      "Annual Budget Planner (Sun. St": "₺499,99",
+      "Annual Budget Planner (Mon. St": "₺499,99",
+      "The 'No Spend' Bundle": "₺249,99",
+      "Budget Planner Template Bundle": "₺299,99",
+      "Savings Challenge Bundle": "₺249,99",
+      "Digital ADHD Daily Planner - G": "₺499,99",
+      "Minimalist Monthly Finances Tr": "₺349,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -9066,9 +9088,38 @@
       "2025 Balanced Routine Planner": "₺499,99",
       "2025 Advanced Tracking Planner": "₺499,99",
       "2025 Smart Routine Planner (Gr": "₺499,99",
-      "2025 Smart Routine Planner (Pi": "₺499,99"
+      "2025 Smart Routine Planner (Pi": "₺499,99",
+      "Budgeting Stickers Pack": "₺249,99",
+      "Student Budget Planner (Mon. S": "₺499,99",
+      "Student Budget Planner (Sun. S": "₺499,99",
+      "Annual Budget Planner (Sun. St": "₺499,99",
+      "Annual Budget Planner (Mon. St": "₺499,99",
+      "The 'No Spend' Bundle": "₺249,99",
+      "Budget Planner Template Bundle": "₺299,99",
+      "Savings Challenge Bundle": "₺249,99",
+      "Digital ADHD Daily Planner - G": "₺499,99",
+      "Minimalist Monthly Finances Tr": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743563675880,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Budgeting Stickers Pack": "₺249,99",
+            "Student Budget Planner (Mon. S": "₺499,99",
+            "Student Budget Planner (Sun. S": "₺499,99",
+            "Annual Budget Planner (Sun. St": "₺499,99",
+            "Annual Budget Planner (Mon. St": "₺499,99",
+            "The 'No Spend' Bundle": "₺249,99",
+            "Budget Planner Template Bundle": "₺299,99",
+            "Savings Challenge Bundle": "₺249,99",
+            "Digital ADHD Daily Planner - G": "₺499,99",
+            "Minimalist Monthly Finances Tr": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740488819909,

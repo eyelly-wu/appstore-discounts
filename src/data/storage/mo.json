@@ -7571,9 +7571,9 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "VIP会员  1年": "USD 599.99",
-      "VIP会员  3个月": "USD 149.99",
-      "VIP会员  1个月": "USD 59.99"
+      "VIP会员  1年": "USD 699.99",
+      "VIP会员  3个月": "USD 199.99",
+      "VIP会员  1个月": "USD 69.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -7583,6 +7583,18 @@
       "VIP会员  1个月": "USD 59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743563675880,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "VIP会员  1年": "USD 699.99",
+            "VIP会员  3个月": "USD 199.99",
+            "VIP会员  1个月": "USD 69.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,

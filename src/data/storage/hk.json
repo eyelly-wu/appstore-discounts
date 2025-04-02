@@ -9599,9 +9599,9 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "VIP会员  1个月": "HK$ 488.00",
-      "VIP会员  1年": "HK$ 4,888.00",
-      "VIP会员  3个月": "HK$ 1,188.00"
+      "VIP会员  1个月": "HK$ 588.00",
+      "VIP会员  1年": "HK$ 5,888.00",
+      "VIP会员  3个月": "HK$ 1,488.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -9611,6 +9611,18 @@
       "VIP会员  3个月": "HK$ 1,188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743563675880,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "VIP会员  1个月": "HK$ 588.00",
+            "VIP会员  1年": "HK$ 5,888.00",
+            "VIP会员  3个月": "HK$ 1,488.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
