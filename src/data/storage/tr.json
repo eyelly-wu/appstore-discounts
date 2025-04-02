@@ -5762,7 +5762,8 @@
       "Quarterly SVIP": "₺129,99",
       "1-Year SVIP": "₺599,99",
       "Annual Special SVIP": "₺599,99",
-      "500 Conversations": "₺449,99"
+      "500 Conversations": "₺449,99",
+      "90 Days SVIP": "₺129,99"
     },
     "minPriceInfo": {
       "price": 599.99,
@@ -5775,9 +5776,25 @@
       "Quarterly SVIP": "₺99,99",
       "1-Year SVIP": "₺499,99",
       "Annual Special SVIP": "₺499,99",
-      "500 Conversations": "₺449,99"
+      "500 Conversations": "₺449,99",
+      "90 Days SVIP": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743624147520,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "₺29,99",
+            "SVIP auto-renew yearly": "₺399,99",
+            "90 Days SVIP": "₺129,99",
+            "Annual Special SVIP": "₺599,99",
+            "545 Days SVIP": "₺599,99",
+            "3-Year SVIP": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742486560739,
