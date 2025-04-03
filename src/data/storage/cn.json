@@ -5413,6 +5413,14 @@
     "history": [
       [
         {
+          "timestamp": 1743652947728,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743397350536,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -7254,6 +7262,17 @@
       "高级版": "¥248.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743652947728,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium": "¥233.00",
+            "高级版": "¥248.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742659340696,

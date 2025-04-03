@@ -6220,6 +6220,14 @@
     "history": [
       [
         {
+          "timestamp": 1743652947728,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743397350536,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -10206,6 +10214,24 @@
       "unlockall_12": "$23.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1743652947728,
+          "price": 0.89,
+          "formattedPrice": "$0.89",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$23.99",
+            "Miku in Museland": "$8.99",
+            "unlockall_12": "$23.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743643775055,

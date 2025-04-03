@@ -3933,6 +3933,14 @@
     "history": [
       [
         {
+          "timestamp": 1743652947728,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743397350536,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -7284,7 +7292,8 @@
       "Touhou Collection Bundle60": "₺399,99",
       "Touhou Collection Bundle50": "₺349,99",
       "Neon Abyss": "₺129,99",
-      "Ensemble Arcanum": "₺129,99"
+      "Ensemble Arcanum": "₺129,99",
+      "Muse Dash・Legend": "₺129,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -7318,10 +7327,28 @@
       "Touhou Collection Bundle60": "₺399,99",
       "Touhou Collection Bundle50": "₺349,99",
       "Neon Abyss": "₺129,99",
-      "Ensemble Arcanum": "₺129,99"
+      "Ensemble Arcanum": "₺129,99",
+      "Muse Dash・Legend": "₺129,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1743652947728,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Muse Dash・Legend": "₺129,99",
+            "Valentine Stage": "₺179,99",
+            "Ensemble Arcanum": "₺129,99",
+            "MSR Anthology_Vol.02": "₺249,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "Novice Rider Pack": "₺39,99",
+            "Neon Abyss": "₺129,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99"
+          }
+        },
         {
           "timestamp": 1743631328007,
           "price": 39.99,

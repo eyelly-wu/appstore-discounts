@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-04-02T21:05:28.966Z</updated>
+    <updated>2025-04-03T04:05:21.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,49 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-02T21:05:28.966Z</updated>
+        <updated>2025-04-03T04:05:21.308Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1743627724401</id>
-        <link href="https://apps.apple.com/hk/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2025-04-02T21:02:04.401Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 58.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/ba/5a/b9ba5a7e-2846-fa81-ac76-66a869367861/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[樑的撓度]]></title>
+        <id>樑的撓度-1743652947728</id>
+        <link href="https://apps.apple.com/hk/app/%E6%A8%91%E7%9A%84%E6%92%93%E5%BA%A6/id670400597?uo=4"/>
+        <updated>2025-04-03T04:02:27.728Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 18.00 → HK$ 8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E6%A8%91%E7%9A%84%E6%92%93%E5%BA%A6/id670400597?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ca/0b/63ca0b9f-d0f0-41b2-e454-3186c4e2691d/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>HK$ 58.00</span> → <b>
-  <strong>免費</strong>
+  优惠信息（价格：<span>HK$ 18.00</span> → <b>
+  <strong>HK$ 8.00</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  Monitor your iPhone battery level from your wrist.
+  樑的撓度是一款功能強大且多功能的計算器，適用於梁、二維桁架和二維框架。介面簡單直觀，圖形輸出採用最先進技術。除了反應力、剪力、彎矩和撓度結果之外，樑的撓度還能計算梁截面和梁長度上的內部剪力和彎曲應力。
 
-Juice Watch is a simple app designed to do two things well:
+二維框架和桁架編輯器
 
-• Show the battery level of the paired iPhone in a complication on Apple Watch
+二維編輯器與梁編輯器無縫整合。繪製任意框架和桁架結構，並使用與梁相同的簡單介面來應用荷載和約束。您可以直接在二維編輯器中視覺化結果，或選擇一個梁以獲得更多洞見。
 
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
+內部應力
 
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
+除了剪力、彎矩和撓度圖之外，還可以獲得內部彎曲應力和剪力的圖表。可以沿著梁的長度以及截面的垂直軸線可視化內部應力。
 
-You can see both your iPhone and Apple Watch battery levels on the same complication.
+截面編輯器
 
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+編輯內置截面。轉動慣量和面積值會自動計算並應用於其餘的梁計算。
 
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+更多功能
 
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+• 內置數據庫包含更多參考數據，方便使用。
+• 可選擇應用梁自重
+• 無限設計文件
+• 快速開始模板
 
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+聯繫
 
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
-
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+如有任何問題或評論，請發送電子郵件至contact@ketchep.com。
+</p>]]></content>
     </entry>
 </feed>
