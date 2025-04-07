@@ -4856,7 +4856,10 @@
       "Cartful of Crystal": "₺999,99",
       "Supreme Bonus Pack": "₺699,99",
       "Starter Bonus Pack": "₺69,99",
-      "Advanced Bonus Pack": "₺299,99"
+      "Advanced Bonus Pack": "₺299,99",
+      "Elite Package": "₺449,99",
+      "Supreme Package": "₺229,99",
+      "Advanced Package": "₺129,99"
     },
     "minPriceInfo": {
       "price": 149.99,
@@ -4869,9 +4872,31 @@
       "Cartful of Crystal": "₺799,99",
       "Supreme Bonus Pack": "₺599,99",
       "Starter Bonus Pack": "₺59,99",
-      "Advanced Bonus Pack": "₺249,99"
+      "Advanced Bonus Pack": "₺249,99",
+      "Elite Package": "₺449,99",
+      "Supreme Package": "₺229,99",
+      "Advanced Package": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744059739231,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Bottle of Sunshine Elixir": "₺39,99",
+            "Box of Sunshine Elixir": "₺99,99",
+            "Shovelful of Crystal": "₺39,99",
+            "Small pot of Crystal": "₺229,99",
+            "Large bag of Crystal": "₺499,99",
+            "Cartful of Crystal": "₺999,99",
+            "Advanced Bonus Pack": "₺299,99",
+            "Elite Package": "₺449,99",
+            "Supreme Package": "₺229,99",
+            "Advanced Package": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
