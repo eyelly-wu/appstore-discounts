@@ -22742,13 +22742,22 @@
       "Monthly": "$1.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Yearly": "$9.99",
       "Monthly": "$1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1744207375612,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly": "$9.99",
+            "Monthly": "$1.99"
+          }
+        },
         {
           "timestamp": 1744196541401,
           "price": 4.99,
