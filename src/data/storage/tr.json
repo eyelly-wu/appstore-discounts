@@ -13078,13 +13078,28 @@
     "name": "iSleeper: Sleep Tracker",
     "maxPriceInfo": {
       "price": 349.99,
-      "formattedPrice": "₺349,99"
+      "formattedPrice": "₺349,99",
+      "Yearly": "₺449,99",
+      "Monthly": "₺99,99"
     },
     "minPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "Yearly": "₺449,99",
+      "Monthly": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744196541401,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Yearly": "₺449,99",
+            "Monthly": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734084167057,

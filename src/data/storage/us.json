@@ -22737,13 +22737,28 @@
     "name": "iSleeper: Sleep Tracker",
     "maxPriceInfo": {
       "price": 7.99,
-      "formattedPrice": "$7.99"
+      "formattedPrice": "$7.99",
+      "Yearly": "$9.99",
+      "Monthly": "$1.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "Yearly": "$9.99",
+      "Monthly": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744196541401,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Yearly": "$9.99",
+            "Monthly": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734084167057,

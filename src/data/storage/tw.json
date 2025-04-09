@@ -22850,13 +22850,31 @@
     "name": "iSleeper - 夢話鼾聲記錄與睡眠監測",
     "maxPriceInfo": {
       "price": 290,
-      "formattedPrice": "$290.00"
+      "formattedPrice": "$290.00",
+      "按年訂閱": "$320.00",
+      "終身會員": "$790.00",
+      "按月訂閱": "$60.00"
     },
     "minPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "按年訂閱": "$320.00",
+      "終身會員": "$790.00",
+      "按月訂閱": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744196541401,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "按年訂閱": "$320.00",
+            "終身會員": "$790.00",
+            "按月訂閱": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1734084167057,
