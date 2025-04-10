@@ -9723,7 +9723,7 @@
       "formattedPrice": "Free",
       "Yearly Subscription": "₺699,99",
       "Monthly Subscription": "₺299,99",
-      "Exclusive Lifetime Offer": "₺3.499,99",
+      "Exclusive Lifetime Offer": "₺4.999,99",
       "Lifetime": "₺4.999,99",
       "Suscripción mensual": "₺299,99"
     },
@@ -9737,6 +9737,19 @@
       "Suscripción mensual": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744279357427,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "₺699,99",
+            "Monthly Subscription": "₺299,99",
+            "Exclusive Lifetime Offer": "₺4.999,99",
+            "Lifetime": "₺4.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741397236530,

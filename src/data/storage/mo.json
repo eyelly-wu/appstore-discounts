@@ -12998,7 +12998,7 @@
       "年度訂閱": "USD 29.99",
       "終生": "USD 119.99",
       "月度訂閱": "USD 7.99",
-      "專屬終生優惠方案": "USD 79.99",
+      "專屬終生優惠方案": "USD 119.99",
       "Suscripción mensual": "USD 7.99"
     },
     "minPriceInfo": {
@@ -13011,6 +13011,19 @@
       "Suscripción mensual": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744279357427,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度訂閱": "USD 29.99",
+            "終生": "USD 119.99",
+            "專屬終生優惠方案": "USD 119.99",
+            "月度訂閱": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741397236530,
