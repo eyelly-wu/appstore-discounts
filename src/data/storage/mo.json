@@ -6564,13 +6564,34 @@
     "name": "生辰 — 桌面时间小组件",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "生辰-年度会员": "USD 9.99",
+      "生辰-季度会员": "USD 9.99",
+      "生辰年度会员": "USD 7.99",
+      "月度会员": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "生辰-年度会员": "USD 9.99",
+      "生辰-季度会员": "USD 9.99",
+      "生辰年度会员": "USD 7.99",
+      "月度会员": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744315343907,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生辰-年度会员": "USD 9.99",
+            "生辰-季度会员": "USD 9.99",
+            "生辰年度会员": "USD 7.99",
+            "月度会员": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744034543204,
