@@ -18459,6 +18459,14 @@
     "history": [
       [
         {
+          "timestamp": 1744268532709,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743134547861,
           "price": 0,
           "formattedPrice": "免費",
@@ -18855,6 +18863,16 @@
       "Pro version lifetime": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744268532709,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro version lifetime": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742216901502,

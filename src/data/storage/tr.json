@@ -14438,6 +14438,14 @@
     "history": [
       [
         {
+          "timestamp": 1744268532709,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743134547861,
           "price": 0,
           "formattedPrice": "Free",
@@ -14857,6 +14865,16 @@
       "Pro version lifetime": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744268532709,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro version lifetime": "₺599,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742216901502,
