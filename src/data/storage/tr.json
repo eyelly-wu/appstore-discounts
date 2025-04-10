@@ -11316,7 +11316,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime": "₺179,99",
+      "Lifetime": "₺299,99",
       "Free Trial": "₺0,00",
       "Community VIP": "₺0,00",
       "Education VIP - 2024": "₺0,00",
@@ -11340,6 +11340,24 @@
       "Latte": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744275750859,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺299,99",
+            "Free Trial": "₺0,00",
+            "Americano": "₺99,99",
+            "Mocha": "₺179,99",
+            "Latte": "₺129,99",
+            "Community VIP": "₺0,00",
+            "Education VIP - 2024": "₺0,00",
+            "Yearly VIP": "₺99,99",
+            "Tester Award": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
