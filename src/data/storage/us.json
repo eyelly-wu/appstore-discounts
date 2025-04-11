@@ -111,6 +111,25 @@
     "history": [
       [
         {
+          "timestamp": 1744362146556,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "通用型套餐-25元": "$3.99",
+            "通用型套餐-159元": "$22.99",
+            "通用型套餐-318元": "$49.99",
+            "通用型套餐-718元": "$99.99",
+            "通用型套餐-468元": "$69.99",
+            "通用型套餐-408元": "$59.99",
+            "通用型套餐-329元": "$49.99",
+            "免广告会员十二个月15元": "$1.99",
+            "免广告会员三个月": "$0.99",
+            "免广告会员十二个月": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1744178593515,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -15537,7 +15556,17 @@
       "Savings Challenge Bundle": "$5.99",
       "Digital ADHD Daily Planner - G": "$10.99",
       "Minimalist Monthly Finances Tr": "$7.99",
-      "Budgeting Stickers Pack": "$5.99"
+      "Budgeting Stickers Pack": "$5.99",
+      "Neuroscience Sticker Book (w/": "$15.99",
+      "Physiology Sticker Book (w/ No": "$14.99",
+      "Customizable Medical Sticker B": "$15.99",
+      "Editable Physiology Sticker Bo": "$14.99",
+      "Digital Concept Map Notebook -": "$6.99",
+      "Digital Pathophysiology Notebo": "$6.99",
+      "170+ All-in-One Digital Planni": "$1.99",
+      "15-Minute Digital Daily Planne": "$8.99",
+      "2025 Daily Planner - Landscape": "$9.99",
+      "Editable Neuroscience Sticker": "$15.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -15623,9 +15652,38 @@
       "Savings Challenge Bundle": "$4.99",
       "Digital ADHD Daily Planner - G": "$10.99",
       "Minimalist Monthly Finances Tr": "$6.99",
-      "Budgeting Stickers Pack": "$5.99"
+      "Budgeting Stickers Pack": "$5.99",
+      "Neuroscience Sticker Book (w/": "$15.99",
+      "Physiology Sticker Book (w/ No": "$14.99",
+      "Customizable Medical Sticker B": "$15.99",
+      "Editable Physiology Sticker Bo": "$14.99",
+      "Digital Concept Map Notebook -": "$6.99",
+      "Digital Pathophysiology Notebo": "$6.99",
+      "170+ All-in-One Digital Planni": "$1.99",
+      "15-Minute Digital Daily Planne": "$8.99",
+      "2025 Daily Planner - Landscape": "$9.99",
+      "Editable Neuroscience Sticker": "$15.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744362146556,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Neuroscience Sticker Book (w/": "$15.99",
+            "Physiology Sticker Book (w/ No": "$14.99",
+            "Customizable Medical Sticker B": "$15.99",
+            "Editable Physiology Sticker Bo": "$14.99",
+            "Digital Concept Map Notebook -": "$6.99",
+            "Digital Pathophysiology Notebo": "$6.99",
+            "170+ All-in-One Digital Planni": "$1.99",
+            "15-Minute Digital Daily Planne": "$8.99",
+            "2025 Daily Planner - Landscape": "$9.99",
+            "Editable Neuroscience Sticker": "$15.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744174943080,
