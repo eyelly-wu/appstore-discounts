@@ -22850,15 +22850,29 @@
       "price": 7.99,
       "formattedPrice": "$7.99",
       "Yearly": "$9.99",
-      "Monthly": "$1.99"
+      "Monthly": "$1.99",
+      "Lifetime Pro": "$24.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "Yearly": "$9.99",
-      "Monthly": "$1.99"
+      "Monthly": "$1.99",
+      "Lifetime Pro": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744334975392,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly": "$9.99",
+            "Lifetime Pro": "$24.99",
+            "Monthly": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744207375612,
