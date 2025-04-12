@@ -7604,7 +7604,8 @@
       "Advanced Bonus Pack": "$6.99",
       "Elite Package": "$9.99",
       "Supreme Package": "$4.99",
-      "Advanced Package": "$2.99"
+      "Advanced Package": "$2.99",
+      "Starter Package": "$0.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -7623,9 +7624,29 @@
       "Advanced Bonus Pack": "$6.99",
       "Elite Package": "$9.99",
       "Supreme Package": "$4.99",
-      "Advanced Package": "$2.99"
+      "Advanced Package": "$2.99",
+      "Starter Package": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744495320484,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Elite Package": "$9.99",
+            "Supreme Package": "$4.99",
+            "Advanced Package": "$2.99",
+            "Starter Package": "$0.99",
+            "Supreme Bonus Pack": "$14.99",
+            "Starter Bonus Pack": "$1.49",
+            "Advanced Bonus Pack": "$6.99",
+            "Cartful of Crystal": "$21.99",
+            "Small pot of Crystal": "$4.99",
+            "Shovelful of Crystal": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744059739231,
