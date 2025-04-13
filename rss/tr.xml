@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-04-11T19:05:20.575Z</updated>
+    <updated>2025-04-13T17:05:20.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,79 +21,49 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-11T19:05:20.576Z</updated>
+        <updated>2025-04-13T17:05:20.340Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day One]]></title>
-        <id>Day One-1744398125447</id>
-        <link href="https://apps.apple.com/tr/app/day-one/id1055511498?mt=12&amp;uo=4"/>
-        <updated>2025-04-11T19:02:05.447Z</updated>
-        <summary type="html"><![CDATA[Premium: ₺389,99 → ₺234,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/day-one/id1055511498?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/7a/17/a07a1778-a531-eb48-0a16-ed7c30e029ca/AppIcon-0-0-85-220-0-0-2-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Premium：</strong><span>₺389,99</span> → <b>
-  <strong>₺234,99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Apple’s App of the Year with over 15 million downloads and 200,000 5-star ratings globally, Day One has reinvented journaling letting you record your life as you live it. Securely save audio, video, photos, notes, and more in the world’s most trusted digital journal. 
+        <title type="html"><![CDATA[Deflection]]></title>
+        <id>Deflection-1744563731769</id>
+        <link href="https://apps.apple.com/tr/app/deflection/id670400597?uo=4"/>
+        <updated>2025-04-13T17:02:11.769Z</updated>
+        <summary type="html"><![CDATA[Price: ₺449,99 → ₺229,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/deflection/id670400597?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ca/0b/63ca0b9f-d0f0-41b2-e454-3186c4e2691d/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺449,99</span> → <b>
+  <strong>₺229,99</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Deflection is a powerful, versatile calculator for beams, 2D trusses, and 2D frames.  The interface is simple and intuitive, and the graphical output is state-of-the-art.  In addition to reaction, shear, bending moment, and deflection results, Deflection also computes internal shear and bending stress along the cross section and along the beam.
 
-“Day One creates something so rare it feels almost sacred: A completely private digital space.” – New York Times
+2D FRAME AND TRUSS EDITOR
 
-“Day One makes keeping a journal delightfully easy.” – Wired
+The 2D editor is seamlessly integrated with the beam editor.  Draw arbitrary frame and truss structures and apply loads and constraints using the same simple interface as for beams.  You can visualize results directly within the 2D editor, or you can select a beam and get additional insights. 
 
-“This superb journaling app remains pleasant to behold, easy to use, and a tough act for any rival to follow.” – Macworld
+INTERNAL STRESSES
 
-WHY DAY ONE?
+Obtain internal bending and shear stress diagrams in addition to shear, bending, and deflection diagrams.  The internal stresses can be visualized along the length of the beam as well as along the vertical axis of the cross section using the beam editor.
 
-Day One is the original journal app and a decade of updates and feature additions make it the most private, trusted, and easiest-to-use journaling platform in the world. 
+CROSS SECTION EDITOR
 
-SIMPLE TO USE, EASY TO LOVE
+Edit built-in cross sections.  Moment of inertia and area values are automatically calculated and applied to the rest of the beam calculations.
 
-• Beautiful, award-winning design
-• Unlimited text entries 
-• Unlimited photos and videos*
-• Powerful rich text formatting with markdown
-• Different journals for every aspect of your life*
+MORE FEATURES
 
-PRIVATE AND SECURE 
+• The built-in database contains more data for your reference and convenience.
+• Apply beam self-weight optionally
+• Unlimited design files
+• Quick-start templates
 
-• Automatic backups keep your journal entries safe
-• End-to-end encryption, which is a fancy way of saying your entries are 100% private
-• Journal entries stay secure with passcode or TouchID
-• Export options (pdf, plain text, JSON, etc.) ensure your entries always stay yours
+CONTACT
 
-FORM A HABIT & STAY CONSISTENT 
-
-• Programmable reminder notifications
-• Unique, daily journal prompts help eliminate writer’s cramp 
-• Customizable templates save time and add organization to entries
-• Today view provides a summary of where you’ve been and what you’ve done
-
-JOURNAL FROM WHEREVER, WHENEVER
-
-• Cross-platform apps available on iPhone, Apple Watch, iPad, and Mac 
-• The ability to email entries straight to your journal
-
-BUILT FOR REMINISCING
-
-• On This Day feature allows you to revisit past memories
-• Tags, favorites, and search filters make it easy to find what you’re looking for
-• Map view quickly shows all the places you’ve journaled from
-
-*Day One is FREE to use forever with unlimited entries. Additional features, including unlimited photos, videos, and sync are available with a Day One Premium membership. Start a free trial today. 
-
-Privacy Policy: https://dayoneapp.com/privacy-policy/
-
-Terms of Use: https://dayoneapp.com/terms-of-use/
-
-For technical assistance or other inquiries: https://dayoneapp.com/contact/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/e4/aa/94e4aa5c-d12f-ab46-eb6f-72d53bc49740/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/f7/e8/35f7e86f-f349-6420-1fd9-f6ccc0db5b25/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/b7/f0/2db7f06a-cc6b-0fd4-945f-59d1b573bd16/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/bc/27/39bc27bc-8156-3c68-1ade-8f0d5e95dba2/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/d2/78/4cd27800-3d0f-f3b3-9b5c-f4a40086d27a/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/0f/46/fb0f46d4-0495-3945-c203-f4244be9700b/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
+We like to hear from you!  Please email contact@ketchep.com if you have any issues, questions, or comments.
+</p>]]></content>
     </entry>
 </feed>

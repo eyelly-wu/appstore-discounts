@@ -4038,6 +4038,12 @@
     "history": [
       [
         {
+          "timestamp": 1744563731769,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1744520900996,
           "price": 449.99,
           "formattedPrice": "₺449,99",
@@ -5586,7 +5592,8 @@
       "生辰-年度会员": "₺449,99",
       "生辰-季度会员": "₺449,99",
       "生辰年度会员": "₺349,99",
-      "月度会员": "₺99,99"
+      "月度会员": "₺99,99",
+      "永久会员": "₺899,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -5594,9 +5601,24 @@
       "生辰-年度会员": "₺449,99",
       "生辰-季度会员": "₺449,99",
       "生辰年度会员": "₺349,99",
-      "月度会员": "₺99,99"
+      "月度会员": "₺99,99",
+      "永久会员": "₺899,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744563731769,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "₺899,99",
+            "生辰-年度会员": "₺449,99",
+            "生辰-季度会员": "₺449,99",
+            "生辰年度会员": "₺349,99",
+            "月度会员": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744315343907,
@@ -7570,6 +7592,25 @@
       "MUSE RADIO FM105": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744563731769,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Happy Otaku Pack Vol.20": "₺179,99",
+            "Muse Dash・Legend": "₺179,99",
+            "Cosmic Radio 2024": "₺179,99",
+            "MSR Anthology_Vol.02": "₺249,99",
+            "MDlevelTacticalTrainingBlu-ray": "₺129,99",
+            "Touhou Mugakudan -IV-": "₺179,99",
+            "Touhou Collection Bundle100": "₺699,99",
+            "Touhou Collection Bundle88": "₺599,99",
+            "Touhou Collection Bundle78": "₺499,99",
+            "Touhou Collection Bundle75": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744311725165,
