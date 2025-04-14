@@ -2333,6 +2333,22 @@
     "history": [
       [
         {
+          "timestamp": 1744671735872,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "₺399,99",
+            "Lifetime Cloud Services": "₺2.299,99",
+            "Monthly Cloud Services": "₺49,99",
+            "Monthly Photos Transfer": "₺99,99",
+            "Lifetime Photos Transfer": "₺2.299,99",
+            "Yearly Photos Transfer": "₺449,99",
+            "Reset Password": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1743721332744,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -5750,6 +5766,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744671735872,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744585332477,
