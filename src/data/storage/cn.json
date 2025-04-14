@@ -3556,6 +3556,22 @@
     "history": [
       [
         {
+          "timestamp": 1744639337774,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "¥328.00",
+            "Yearly Cloud Services": "¥68.00",
+            "Monthly Cloud Services": "¥15.00",
+            "Lifetime Photos Transfer": "¥328.00",
+            "Monthly Photos Transfer": "¥15.00",
+            "Yearly Photos Transfer": "¥68.00",
+            "Reset Password": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1743688946609,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -7333,6 +7349,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744639337774,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744552923434,
