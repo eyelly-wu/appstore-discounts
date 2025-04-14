@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-04-14T14:05:22.279Z</updated>
+    <updated>2025-04-14T18:06:20.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,66 +21,48 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-14T14:05:22.280Z</updated>
+        <updated>2025-04-14T18:06:20.367Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AirDisk Pro]]></title>
-        <id>AirDisk Pro-1744639337774</id>
-        <link href="https://apps.apple.com/hk/app/airdisk-pro/id505904421?uo=4"/>
-        <updated>2025-04-14T14:02:17.774Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 22.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/airdisk-pro/id505904421?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/b4/96/95b4969c-f071-1413-5243-ce00a7e02f37/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Juice Watch]]></title>
+        <id>Juice Watch-1744653777130</id>
+        <link href="https://apps.apple.com/hk/app/juice-watch/id1485101937?uo=4"/>
+        <updated>2025-04-14T18:02:57.130Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 58.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/juice-watch/id1485101937?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/ba/5a/b9ba5a7e-2846-fa81-ac76-66a869367861/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>HK$ 22.00</span> → <b>
+  优惠信息（价格：<span>HK$ 58.00</span> → <b>
   <strong>免費</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  AirDisk Pro：終極文件管理解決方案
+  Monitor your iPhone battery level from your wrist.
 
-輕鬆存儲、管理和訪問您在 iPhone、iPad 或 iPod touch 上的文件。AirDisk Pro 將您的設備轉變為強大的文件管理器，支持通過 Wi-Fi 與任何 Mac 或 PC 連接，快速傳輸文件。只需從 Finder 或 Windows 資源管理器拖放文件即可開始操作。
+Juice Watch is a simple app designed to do two things well:
 
-AirDisk Pro 提供一套功能強大的工具，幫助您查看文檔、播放音樂、瀏覽圖片、錄製音頻等，所有這些都可以通過一個應用來實現。
+• Show the battery level of the paired iPhone in a complication on Apple Watch
 
+• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
 
-主要功能：
-• 雲存儲支持：將您的 iCloud Drive、Google Drive、Dropbox 和 OneDrive 賬戶鏈接，輕鬆訪問您的雲端文件。
-• 文檔查看器：輕鬆查看 MS Office、iWork、文本和 HTML 格式的文件。
-• 多媒體播放器：創建音頻播放列表，支持循環播放、隨機播放、後台播放，並可通過多任務控制來操作。
-• HTTP/FTP 密碼保護：通過密碼保護，確保文件在 PC/Mac 之間的傳輸安全。
-• 文件管理功能：支持移動、複製、重命名、刪除、壓縮/解壓、解RAR，以及創建文件和文件夾。
-• 文件共享：通過 藍牙 或 Wi-Fi 輕鬆共享文件，自動搜索附近的設備。
-• 便捷文件上傳：通過網頁瀏覽器或 iTunes 文件共享，方便地上傳文件。
-• 創建和導入文件：可以創建文本文件、拍照、錄製視頻、錄音，並從相冊導入圖片。
-• 密碼鎖保護：通過設置密碼保護文件，或使用 Touch ID 支持提高安全性，防止未經授權的訪問。
-• 通用支持：一次購買，iPhone 和 iPad 均可使用。
-• 照片傳輸：透過無線方式，直接從您的 iOS 照片應用將照片傳輸到您的電腦。
+Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
 
+You can see both your iPhone and Apple Watch battery levels on the same complication.
 
-音樂播放器功能：
-• 創建應用內音頻播放列表
-• 以播放列表的形式播放文件夾中的所有 MP3 文件
-• 支持循環播放和隨機播放
-• 背景播放支持
-• 支持通過多任務控制播放
+You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
 
+You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
 
-支援的檔案格式：
-• 音頻：WAV、MP3、M4A、CAF、AIF、AIFF、AAC
-• 圖片：JPG、PNG、GIF、BMP、TIF、TIFF、ICO
-• 視頻：MP4、MOV、MPV、M4V
-• 文檔：PDF、Microsoft Office（Word、Excel、PowerPoint）、iWorks（Pages、Numbers、Keynote）
-• 文本和代碼：RTF、RTFD、純文本、源代碼、HTML、網頁存檔
+Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
 
+You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
 
-發現 AirDisk Pro 如何簡化文件管理，提升工作效率。
-• 更多信息，請訪問：https://airdisk.app
-• 服務條款：https://airdisk.app/terms-of-service.html
-• 隱私政策：https://airdisk.app/privacy-policy.html
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/cc/d4/e3ccd410-2ce1-b402-e060-de9ed2621658/65c20ff4-30dc-4a85-a867-89a1ac92009e_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/73/61/32736100-7768-3959-71c9-4d9784032898/3debb509-006d-4873-9993-67989c41cad0_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/1c/9c/b21c9c87-82bd-9f6a-2c92-0b1c088709f5/453195dd-a27e-4133-9417-4985b3269809_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3f/61/a0/3f61a028-c052-3247-9a4a-8331dbba4857/977d466b-f715-4c42-8e7e-c7d70eac5d8d_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/0c/de/710cdedc-eff7-ce11-09b2-d658ad83f903/402aae6b-f111-4a0d-a181-b1dc70d1ea79_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/44/f0/86/44f086d0-087f-2b38-237d-689feac1bcde/a5d3e1ad-b597-439d-afd9-06777d1a519d_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/df/39/9f/df399f9b-21c8-eea0-7578-2e6b3761e0d5/4213a807-ef6e-42f3-bed7-dbd6bda59f1a_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/a0/82/94a082e5-5c84-b0d6-716b-20dc3596016d/9d37e167-60e5-4b98-9fa0-328d5ca4031b_8.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/51/f1/4b/51f14ba7-b79b-8e01-3706-40dc170a7e8b/72507563-c5bc-4a31-ae52-203dfba97932_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/af/c2/8aafc244-8d42-7972-76b7-244e2d988801/88ea291a-9833-4dd1-a71b-4b2ece4f63b7_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/26/29/3a26294f-9a0b-816d-98ad-4c0deac3e155/b4fbdb19-41eb-4c7f-a569-f79f823e42c2_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/b3/a3/bdb3a31b-5410-ea76-68e6-ea8ae25d21a7/c13326b6-c48b-4ade-811f-55ad27a79064_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/13/4d/80134d49-bca8-0d7e-5733-c27c982b9b7c/dedea4cd-e167-4c5d-aff8-df9bad0df486_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/e8/19/74e819bd-0c3e-fcd6-b371-cb22d5caaa55/d2f8cbbe-7616-49d2-8786-8ff1dc969e59_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/21/de/8c21de2b-e792-0e8c-beb7-798521c773d3/8a51f1a0-6032-4310-88bf-3092ca702599_7.png/552x414bb.png" />]]></content>
+Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+
+As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
