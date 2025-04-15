@@ -1734,6 +1734,21 @@
     "history": [
       [
         {
+          "timestamp": 1744725751969,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cloud Backup Monthly": "USD 1.49",
+            "Cloud Backup Yearly": "USD 8.99",
+            "iCloud Sync Lifetime": "USD 34.99",
+            "iCloud Sync Monthly": "USD 0.99",
+            "iCloud Sync Yearly": "USD 6.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1743775332878,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -6643,9 +6658,9 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "生辰-年度会员": "USD 9.99",
-      "生辰-季度会员": "USD 9.99",
-      "生辰年度会员": "USD 7.99",
+      "生辰-年度会员": "USD 12.99",
+      "生辰-季度会员": "USD 12.99",
+      "生辰年度会员": "USD 9.99",
       "月度会员": "USD 1.99",
       "永久会员": "USD 19.99"
     },
@@ -6660,6 +6675,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1744725751969,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "永久会员": "USD 14.99",
+            "生辰-年度会员": "USD 12.99",
+            "生辰-季度会员": "USD 12.99",
+            "生辰年度会员": "USD 9.99",
+            "月度会员": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1744700551497,
           "price": 0,
@@ -17233,6 +17260,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1744725751969,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1744704190814,
           "price": 0,
