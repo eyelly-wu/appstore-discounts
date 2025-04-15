@@ -2344,6 +2344,14 @@
     "history": [
       [
         {
+          "timestamp": 1744711340300,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743343327243,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -13258,12 +13266,24 @@
       "price": 0,
       "formattedPrice": "免費",
       "年度訂閱": "USD 29.99",
-      "終生": "USD 119.99",
+      "終生": "USD 79.99",
       "月度訂閱": "USD 7.99",
       "專屬終生優惠方案": "USD 79.99",
       "Suscripción mensual": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744711340300,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度訂閱": "USD 29.99",
+            "終生": "USD 79.99",
+            "月度訂閱": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744330126282,
