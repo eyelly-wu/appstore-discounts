@@ -1263,6 +1263,21 @@
     "history": [
       [
         {
+          "timestamp": 1744758133548,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "₺179,99",
+            "iCloud Sync Monthly": "₺16,99",
+            "Cloud Backup Monthly": "₺39,99",
+            "Cloud Backup Yearly": "₺199,99",
+            "Reset Password": "₺39,99",
+            "iCloud Sync Lifetime": "₺1.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1743807742382,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -5657,9 +5672,9 @@
     "maxPriceInfo": {
       "price": 19.99,
       "formattedPrice": "₺19,99",
-      "生辰-年度会员": "₺449,99",
-      "生辰-季度会员": "₺449,99",
-      "生辰年度会员": "₺349,99",
+      "生辰-年度会员": "₺599,99",
+      "生辰-季度会员": "₺599,99",
+      "生辰年度会员": "₺449,99",
       "月度会员": "₺99,99",
       "永久会员": "₺899,99"
     },
@@ -5673,6 +5688,20 @@
       "永久会员": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744758133548,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "₺699,99",
+            "生辰-年度会员": "₺599,99",
+            "生辰-季度会员": "₺599,99",
+            "生辰年度会员": "₺449,99",
+            "月度会员": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744700551497,
