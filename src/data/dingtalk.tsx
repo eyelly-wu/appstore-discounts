@@ -25,11 +25,11 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
 
         const { price, inAppPurchase } = discounts.reduce(
           (res, discount) => {
-            const { type, name, from, to } = discount
+            const { type, name, from, to, range } = discount
             function getContent() {
               return (
                 <>
-                  <Bold>{name}</Bold>: <s>{from}</s> → {to}
+                  <Bold>{name}</Bold>: <s>{from}</s> → {to} {range}
                   {br}
                 </>
               )

@@ -101,6 +101,7 @@ declare global {
     name: 'price' | string
     from: string
     to: string
+    range: string
   }
 
   type DiscountInfo = AppInfo &

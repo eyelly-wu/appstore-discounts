@@ -64,7 +64,7 @@ function getShowContent(
   const discountInfoContent = (() => {
     const { price, inAppPurchase } = discounts.reduce(
       (res, discount) => {
-        const { type, name, from, to } = discount
+        const { type, name, from, to, range } = discount
         if (type === 'price') {
           res.price = (
             <>
@@ -73,6 +73,7 @@ function getShowContent(
               <b>
                 <strong>{to}</strong>
               </b>
+              <span>{range}</span>
             </>
           )
         } else {
@@ -84,6 +85,7 @@ function getShowContent(
               <b>
                 <strong>{to}</strong>
               </b>
+              <span>{range}</span>
             </>,
           )
         }

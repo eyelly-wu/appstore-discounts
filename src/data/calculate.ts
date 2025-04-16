@@ -1,5 +1,5 @@
 import dayjs from 'dayjs'
-import { isEqual, isEmpty, pick } from 'lodash'
+import { isEqual, isEmpty, pick, get } from 'lodash'
 import { getRegionDate } from './utils'
 import { start, end } from './timer'
 import { getTranslate } from './i18n'
@@ -14,8 +14,31 @@ function getPrice(priceStr: string) {
   return price
 }
 
+function getPriceRange(
+  value: number,
+  minPriceInfo: PriceInfo,
+  maxPriceInfo: PriceInfo,
+  key = 'formattedPrice',
+) {
+  const min = get(minPriceInfo, key) as string
+  const max = get(maxPriceInfo, key) as string
+
+  if (typeof min !== 'undefined' && typeof max !== 'undefined') {
+    const minPrice = getPrice(min)
+    const maxPrice = getPrice(max)
+
+    if (value !== minPrice || value !== maxPrice) {
+      return `(${min} ~ ${max})`
+    }
+  }
+
+  return ''
+}
+
 export function getDiscounts(
   region: Region,
+  minPriceInfo: PriceInfo,
+  maxPriceInfo: PriceInfo,
   newAppInfo: TimeStorageAppInfo,
   oldAppInfo?: TimeStorageAppInfo,
 ) {
@@ -35,11 +58,14 @@ export function getDiscounts(
   } = oldAppInfo
 
   if (oldPrice > price) {
+    const priceRange = getPriceRange(price, minPriceInfo, maxPriceInfo)
+
     discounts.push({
       type: 'price',
       name: t('价格'),
       from: oldFormattedPrice,
       to: formattedPrice,
+      range: priceRange,
     })
   }
 
@@ -50,11 +76,19 @@ export function getDiscounts(
       const price = getPrice(formattedPrice)
 
       if (oldPrice != -1 && price != -1 && oldPrice > price) {
+        const priceRange = getPriceRange(
+          price,
+          minPriceInfo,
+          maxPriceInfo,
+          name,
+        )
+
         discounts.push({
           type: 'inAppPurchase',
           name,
           from: oldFormattedPrice,
           to: formattedPrice,
+          range: priceRange,
         })
       }
     }
@@ -135,8 +169,10 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
             'timestamp'
           >),
         }
-        let maxPriceInfo = currentStorageAppInfo?.maxPriceInfo || {}
-        let minPriceInfo = currentStorageAppInfo?.minPriceInfo || {}
+        let maxPriceInfo = (currentStorageAppInfo?.maxPriceInfo ||
+          {}) as PriceInfo
+        let minPriceInfo = (currentStorageAppInfo?.minPriceInfo ||
+          {}) as PriceInfo
         let discounts: Discount[] = []
 
         if (!oldAppInfo) {
@@ -145,7 +181,7 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
           minPriceInfo = maxPriceInfo = {
             ...pick(appInfo, ['price', 'formattedPrice']),
             ...appInfo.inAppPurchases,
-          }
+          } as any
         } else {
           const oldDate = getRegionDate(region, oldAppInfo.timestamp)
           const isPriceChange = !isEqual(
@@ -162,10 +198,16 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
           }
 
           if (isPriceChange) {
-            updateRangePriceInfo('max', maxPriceInfo as PriceInfo, newAppInfo)
-            updateRangePriceInfo('min', minPriceInfo as PriceInfo, newAppInfo)
+            updateRangePriceInfo('max', maxPriceInfo, newAppInfo)
+            updateRangePriceInfo('min', minPriceInfo, newAppInfo)
 
-            discounts = getDiscounts(region, newAppInfo, oldAppInfo)
+            discounts = getDiscounts(
+              region,
+              minPriceInfo,
+              maxPriceInfo,
+              newAppInfo,
+              oldAppInfo,
+            )
 
             if (discounts.length) {
               discountInfos.push({
