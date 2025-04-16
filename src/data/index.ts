@@ -12,7 +12,9 @@ import pushDingTalkNotification from './dingtalk'
 
 async function controller() {
   start('controller')
-  const appIds = appConfig.map((item) => item.id) /* .slice(0, 2) */
+  const appIds = appConfig
+    .filter((item) => item.allowNotification !== false)
+    .map((item) => item.id) /* .slice(0, 2) */
   const timestamp = Date.now()
 
   console.info(

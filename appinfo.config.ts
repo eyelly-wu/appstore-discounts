@@ -228,6 +228,7 @@ export const appConfig: AppConfig[] = [
   {
     id: 533055404,
     name: ['夜星 (Night Stars)', { us: 'Night Stars' }],
+    allowNotification: false,
   },
   {
     id: 1493379610,
@@ -372,10 +373,12 @@ export const appConfig: AppConfig[] = [
   {
     id: 460661291,
     name: ['安全笔记+ Pro', { us: 'Safety Note+ Pro' }],
+    allowNotification: false,
   },
   {
     id: 505904421,
     name: 'AirDisk Pro',
+    allowNotification: false,
   },
   {
     id: 1527841661,
@@ -403,6 +406,7 @@ export const appConfig: AppConfig[] = [
       'Phone Drive - 云储存管理和文件共享',
       { us: 'Phone Drive: File Storage Sync' },
     ],
+    allowNotification: false,
   },
   {
     id: 1309638846,
@@ -421,6 +425,7 @@ export const appConfig: AppConfig[] = [
   {
     id: 456637671,
     name: ['安全监控照片+视频Pro', { us: 'Safety Photo+Video Pro' }],
+    allowNotification: false,
   },
   {
     id: 1453318714,
@@ -437,10 +442,11 @@ export const appConfig: AppConfig[] = [
   {
     id: 818394449,
     name: ['时间轴-全球历史', { us: 'Timeline - World history' }],
+    allowNotification: false,
   },
   { id: 1391571907, name: ['Fine修图', { us: 'Fine - Photo Edito' }] },
   { id: 6499125531, name: '完蛋！我被美女包围了！' },
-  { id: 1485101937, name: 'Juice Watch' },
+  { id: 1485101937, name: 'Juice Watch', allowNotification: false },
   {
     id: 703265535,
     name: ['FocusDots · Focus What Matters', { cn: 'FocusDots · 专注于当下' }],
@@ -452,6 +458,7 @@ export const appConfig: AppConfig[] = [
       'RAIN RADAR °- sky weather NOAA',
       { cn: '雨雷達-實時天氣圖。 亞洲和中國。°' },
     ],
+    allowNotification: false,
   },
   {
     id: 1636719674,

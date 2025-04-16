@@ -9,6 +9,7 @@ declare global {
       | string
       | Partial<Record<Region, string>>
       | [string, Partial<Record<Region, string>>]
+    allowNotification?: boolean
   }
 
   type ResponseResult = {

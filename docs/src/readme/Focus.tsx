@@ -1,26 +1,47 @@
-import React, { H1, Table, Break, BlockQuote } from 'jsx-to-md'
+import React, {
+  H1,
+  Table,
+  Break,
+  BlockQuote,
+  StrikeThrough,
+  render,
+} from 'jsx-to-md'
 import { getRegionNameMap, regions, appConfig } from 'appinfo.config'
 import { getCountryOrRegionText, getAppText, getAppStoreText } from '../utils'
 import { getStorageAppInfo } from '@/data/storage'
+
+function getDeleteContent(content: string, showDelete = false) {
+  return showDelete
+    ? ` ${render(<StrikeThrough children={`${content}`} />)} `
+    : content
+}
 
 export default function Focus() {
   const countryOrRegionText = getCountryOrRegionText()
   const appText = getAppText()
   const regionStorageAppInfo = getStorageAppInfo(regions)
-  const data = appConfig.reduce((res, { id: appId }, index) => {
-    const item: any = {
-      index: index + 1,
-      appId,
-    }
-    regions.forEach((region) => {
-      const storageAppInfoObj = regionStorageAppInfo[region] || {}
-      item[region] = storageAppInfoObj[appId]?.name || '❌'
-    })
+  const data = appConfig.reduce(
+    (res, { id: appId, allowNotification }, index) => {
+      const showDelete = allowNotification === false
 
-    res.push(item)
+      const item: any = {
+        index: index + 1,
+        appId: getDeleteContent(appId + '', showDelete),
+      }
+      regions.forEach((region) => {
+        const storageAppInfoObj = regionStorageAppInfo[region] || {}
+        item[region] = getDeleteContent(
+          storageAppInfoObj[appId]?.name || '❌',
+          showDelete,
+        )
+      })
 
-    return res
-  }, [])
+      res.push(item)
+
+      return res
+    },
+    [],
+  )
 
   return (
     <>
@@ -51,6 +72,11 @@ export default function Focus() {
           '如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到{0}，同一个应用反馈的次数超过{1}次，该应用的折扣信息推送极有可能会被禁止',
           ' `Issue` ',
           ' `10` ',
+        )}
+        <br />
+        {t(
+          '目前被{0}标记的应用表示已被禁止推送通知',
+          ` ${render(<StrikeThrough children={t('删除线')} />)} `,
         )}
       </BlockQuote>
       <Break />
