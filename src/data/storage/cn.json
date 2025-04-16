@@ -24387,14 +24387,27 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "专业版买断": "¥78.00"
+      "专业版买断": "¥78.00",
+      "专业版（年）": "¥38.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "专业版买断": "¥48.00"
+      "专业版买断": "¥48.00",
+      "专业版（年）": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744794142424,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "专业版买断": "¥78.00",
+            "专业版（年）": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744268532709,

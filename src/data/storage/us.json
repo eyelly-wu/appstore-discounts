@@ -24763,14 +24763,27 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro version lifetime": "$12.99"
+      "Pro version lifetime": "$12.99",
+      "Pro Yearly": "$4.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro version lifetime": "$7.99"
+      "Pro version lifetime": "$7.99",
+      "Pro Yearly": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744794142424,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro version lifetime": "$12.99",
+            "Pro Yearly": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744268532709,

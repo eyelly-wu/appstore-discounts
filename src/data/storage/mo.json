@@ -19343,14 +19343,27 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Pro version lifetime": "USD 12.99"
+      "Pro version lifetime": "USD 12.99",
+      "Pro Yearly": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Pro version lifetime": "USD 7.99"
+      "Pro version lifetime": "USD 7.99",
+      "Pro Yearly": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744794142424,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Yearly": "USD 4.99",
+            "Pro version lifetime": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744268532709,
