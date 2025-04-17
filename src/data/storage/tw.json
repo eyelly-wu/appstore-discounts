@@ -9798,14 +9798,29 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Parallels Desktop for Mac": "$3,290.00",
-      "Parallels Desktop for Mac #4": "$3,290.00",
-      "訂閱 (1 年)": "$3,290.00",
-      "Parallels Desktop for Mac #2": "$3,290.00",
-      "Parallels Desktop for Mac #5": "$3,290.00",
-      "Parallels Desktop for Mac #3": "$3,290.00"
+      "Parallels Desktop for Mac": "$2,490.00",
+      "Parallels Desktop for Mac #4": "$2,490.00",
+      "訂閱 (1 年)": "$2,490.00",
+      "Parallels Desktop for Mac #2": "$2,490.00",
+      "Parallels Desktop for Mac #5": "$2,490.00",
+      "Parallels Desktop for Mac #3": "$2,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744898539585,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$2,490.00",
+            "Parallels Desktop for Mac #4": "$2,490.00",
+            "訂閱 (1 年)": "$2,490.00",
+            "Parallels Desktop for Mac #3": "$2,490.00",
+            "Parallels Desktop for Mac #2": "$2,490.00",
+            "Parallels Desktop for Mac #5": "$2,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1740143172888,
@@ -10924,6 +10939,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744898539585,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1743688946609,
@@ -16056,6 +16079,14 @@
     "history": [
       [
         {
+          "timestamp": 1744898539585,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743688946609,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -20622,6 +20653,21 @@
       "Remove Ad": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744898539585,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "120000 GP": "$690.00",
+            "200000 GP": "$990.00",
+            "25000 GP": "$190.00",
+            "50000 GP": "$320.00",
+            "5000 GP": "$60.00",
+            "Remove Ad": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741960940054,
