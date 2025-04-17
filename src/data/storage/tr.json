@@ -14043,7 +14043,7 @@
     "maxPriceInfo": {
       "price": 1399,
       "formattedPrice": "₺1.399,00",
-      "DLC pack": "₺419,00",
+      "DLC pack": "₺769,00",
       "All Access Voucher": "₺99,99",
       "Street Wolf Outfit": "₺60,99"
     },
@@ -14055,6 +14055,18 @@
       "Street Wolf Outfit": "₺45,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744876979768,
+          "price": 559.99,
+          "formattedPrice": "₺559,99",
+          "inAppPurchases": {
+            "DLC pack": "₺769,00",
+            "All Access Voucher": "₺39,99",
+            "Street Wolf Outfit": "₺45,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742205758483,
@@ -15586,11 +15598,11 @@
       "formattedPrice": "Free",
       "Base Game": "₺539,00",
       "Separate Ways": "₺179,00",
-      "Extra DLC Pack": "₺359,00",
-      "Weapon Upgrade Ticket x3 (A)": "₺125,00",
-      "Weapon Upgrade Ticket x5 (A)": "₺179,00",
+      "Extra DLC Pack": "₺769,00",
+      "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+      "Weapon Upgrade Ticket x5 (A)": "₺349,00",
       "Attaché Case: 'Gold'": "₺17,99",
-      "Weapon Upgrade Ticket x1 (A)": "₺54,99",
+      "Weapon Upgrade Ticket x1 (A)": "₺105,00",
       "Charm: 'Handgun Ammo'": "₺17,99",
       "Charm: 'Green Herb'": "₺17,99",
       "Attaché Case: 'Classic'": "₺17,99",
@@ -15626,6 +15638,25 @@
       "Weapon Upgrade Ticket x1 (D)": "₺41,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744876979768,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Separate Ways": "₺179,00",
+            "Extra DLC Pack": "₺769,00",
+            "Attaché Case: 'Gold'": "₺17,99",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+            "Charm: 'Handgun Ammo'": "₺17,99",
+            "Charm: 'Green Herb'": "₺17,99",
+            "Attaché Case: 'Classic'": "₺17,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺105,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744516462855,
