@@ -1,4 +1,3 @@
-import dayjs from 'dayjs'
 import { isEqual, isEmpty, pick, get } from 'lodash'
 import { getRegionDate } from './utils'
 import { start, end } from './timer'
@@ -6,7 +5,16 @@ import { getTranslate } from './i18n'
 
 const timeStorageAppInfoFields = ['price', 'formattedPrice', 'inAppPurchases']
 
-function getPrice(priceStr: string) {
+function getPrice(priceStrProp: string, region: Region) {
+  let priceStr = priceStrProp
+
+  if (region === 'tr') {
+    priceStr = priceStr
+      .replace('.', 'dot')
+      .replace(',', '.')
+      .replace('dot', ',')
+  }
+
   priceStr = priceStr.replace(',', '')
   const regexp = /[^0-9]*([0-9]+(\.[0-9]+)?)[^0-9]*/
   const [full, numberStr] = priceStr.match(regexp) || ['', '-1']
@@ -18,14 +26,15 @@ function getPriceRange(
   value: number,
   minPriceInfo: PriceInfo,
   maxPriceInfo: PriceInfo,
+  region: Region,
   key = 'formattedPrice',
 ) {
   const min = get(minPriceInfo, key) as string
   const max = get(maxPriceInfo, key) as string
 
   if (typeof min !== 'undefined' && typeof max !== 'undefined') {
-    const minPrice = getPrice(min)
-    const maxPrice = getPrice(max)
+    const minPrice = getPrice(min, region)
+    const maxPrice = getPrice(max, region)
 
     if (value !== minPrice || value !== maxPrice) {
       return `(${min} ~ ${max})`
@@ -58,7 +67,7 @@ export function getDiscounts(
   } = oldAppInfo
 
   if (oldPrice > price) {
-    const priceRange = getPriceRange(price, minPriceInfo, maxPriceInfo)
+    const priceRange = getPriceRange(price, minPriceInfo, maxPriceInfo, region)
 
     discounts.push({
       type: 'price',
@@ -72,14 +81,15 @@ export function getDiscounts(
   Object.entries(inAppPurchases).forEach(([name, formattedPrice]) => {
     const oldFormattedPrice = oldInAppPurchases[name]
     if (oldFormattedPrice) {
-      const oldPrice = getPrice(oldFormattedPrice)
-      const price = getPrice(formattedPrice)
+      const oldPrice = getPrice(oldFormattedPrice, region)
+      const price = getPrice(formattedPrice, region)
 
       if (oldPrice != -1 && price != -1 && oldPrice > price) {
         const priceRange = getPriceRange(
           price,
           minPriceInfo,
           maxPriceInfo,
+          region,
           name,
         )
 
@@ -101,6 +111,7 @@ export function updateRangePriceInfo(
   type: 'min' | 'max',
   priceInfo: PriceInfo,
   appInfo: TimeStorageAppInfo,
+  region: Region,
 ) {
   const { price: oldPrice } = priceInfo
   const {
@@ -124,8 +135,8 @@ export function updateRangePriceInfo(
       return
     }
 
-    const oldPrice = getPrice(oldFormattedPrice as string)
-    const newPrice = getPrice(formattedPrice)
+    const oldPrice = getPrice(oldFormattedPrice as string, region)
+    const newPrice = getPrice(formattedPrice, region)
 
     if (
       (type === 'max' && newPrice > oldPrice) ||
@@ -198,8 +209,8 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
           }
 
           if (isPriceChange) {
-            updateRangePriceInfo('max', maxPriceInfo, newAppInfo)
-            updateRangePriceInfo('min', minPriceInfo, newAppInfo)
+            updateRangePriceInfo('max', maxPriceInfo, newAppInfo, region)
+            updateRangePriceInfo('min', minPriceInfo, newAppInfo, region)
 
             discounts = getDiscounts(
               region,

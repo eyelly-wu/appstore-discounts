@@ -1,4 +1,4 @@
-import { isEmpty } from 'lodash'
+import { isEmpty, isEqual } from 'lodash'
 import { regions, appConfig } from 'appinfo.config'
 import { getStorageAppInfo, setStorageAppInfo } from '../storage'
 import { updateRangePriceInfo } from '../calculate'
@@ -25,13 +25,18 @@ function definePriceRange() {
           const minPriceInfo: PriceInfo & any = { price: Infinity }
           history.forEach((day) => {
             day.forEach((time) => {
-              updateRangePriceInfo('max', maxPriceInfo, time)
-              updateRangePriceInfo('min', minPriceInfo, time)
+              updateRangePriceInfo('max', maxPriceInfo, time, region as Region)
+              updateRangePriceInfo('min', minPriceInfo, time, region as Region)
             })
           })
 
-          storageApp.maxPriceInfo = maxPriceInfo
-          storageApp.minPriceInfo = minPriceInfo
+          if (!isEqual(maxPriceInfo, max)) {
+            storageApp.maxPriceInfo = maxPriceInfo
+          }
+
+          if (!isEqual(min, minPriceInfo)) {
+            storageApp.minPriceInfo = minPriceInfo
+          }
         }
       }
     })

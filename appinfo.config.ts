@@ -383,6 +383,7 @@ export const appConfig: AppConfig[] = [
   {
     id: 1527841661,
     name: ['沙盒星球', { us: 'Sandbox Planet' }],
+    allowNotification: false,
   },
   {
     id: 1159266744,
