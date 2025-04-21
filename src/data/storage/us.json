@@ -4812,6 +4812,25 @@
     "history": [
       [
         {
+          "timestamp": 1745205514169,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Vault Of Gems": "$49.99",
+            "Wagon Of Gems": "$19.99",
+            "Chest Of Gems": "$9.99",
+            "Barrel Of Gems": "$4.99",
+            "Bag Of Gems": "$2.99",
+            "Special Offer Saitam": "$2.99",
+            "Big Hero Pack 2": "$12.99",
+            "Saitam": "$4.99",
+            "Big Hero Pack": "$9.99",
+            "Hero Pack 5": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1744165749786,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -9916,10 +9935,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745205514169,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
