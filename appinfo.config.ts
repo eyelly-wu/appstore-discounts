@@ -63,6 +63,104 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 363385252,
+    name: {
+      tr: 'DTMFdec',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 430270438,
+    name: {
+      tw: 'Astro Gold',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 679454835,
+    name: {
+      hk: 'Rarevision VHS - Retro 80s Cam',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 911201894,
+    name: {
+      tw: 'DRAGON QUEST',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 921954809,
+    name: {
+      us: 'Craft The World-Pocket Edition',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1093859891,
+    name: {
+      tw: 'djembeföla!',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1232097854,
+    name: {
+      tw: '棒球學院物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1261834568,
+    name: {
+      tr: 'Shadow Fight 2 Special Edition',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1555459868,
+    name: {
+      hk: 'Dawncaster: Deckbuilding RPG',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1563121109,
+    name: {
+      hk: 'Shattered Pixel Dungeon',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744629398,
+    name: {
+      cn: '汉界',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738784151,
+    name: {
+      hk: 'A Little to the Left: Stars',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6470642337,
+    name: {
+      tw: '來自星塵',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6483862844,
+    name: {
+      tw: '光遇樂隊',
+    },
+    addType: 'auto',
+  },
+  {
     id: 314192799,
     name: {
       tr: 'Acrobits Softphone',
