@@ -1,3 +1,4 @@
+import { chunk } from 'lodash'
 import pLimit from 'p-limit'
 import { start, end } from '../../timer'
 import { getInAppPurchases, getAppInfo } from './impl'
@@ -11,11 +12,22 @@ export default async function getRegionAppInfo(
   start(label)
   const res: RegionAppInfo = {}
   const limit = pLimit(limitCount)
+  const chunkAppIds = chunk(appIds, 200)
 
   for (let i = 0; i < regions.length; i++) {
     const region = regions[i]
     const label = `【${i + 1}/${regions.length}】（${region}）`
-    const appInfos = await getAppInfo(appIds, region, `${label}getAppInfo`)
+    const appInfos = (
+      await Promise.all(
+        chunkAppIds.map((appIds, i) => {
+          const label2 = `${label}【${i + 1}/${chunkAppIds.length}】`
+          return getAppInfo(appIds, region, `${label2}getAppInfo`)
+        }),
+      )
+    ).reduce((res, appInfos) => {
+      res.push(...appInfos)
+      return res
+    }, [])
 
     if (appInfos.length > 0) {
       const inAppPurchasesArr: AppInfo['inAppPurchases'][] = await Promise.all(

@@ -1,5 +1,6 @@
 import { resolve } from 'node:path'
 import { readFileSync, writeFileSync } from 'node:fs'
+import { isEmpty } from 'lodash'
 import { start, end } from './timer'
 import { appConfig as oldAppConfig } from '../../appinfo.config'
 
@@ -49,6 +50,11 @@ export default function updateAppInfoConfig(
       }
     })
   })
+
+  if (isEmpty(idNameMap)) {
+    end('updateAppInfoConfig')
+    return oldAppConfig
+  }
 
   const appConfig: AppConfig[] = Object.entries(idNameMap).reduce(
     (res, [id, regionNameMap]) => {
