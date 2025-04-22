@@ -63,6 +63,167 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 327963391,
+    name: {
+      us: 'Pedi STAT',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 398463868,
+    name: {
+      mo: '詰将棋',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 419606496,
+    name: {
+      hk: 'Baby Shusher Sleep Miracle App',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 435871950,
+    name: {
+      us: 'HappyCow - Vegan Food Near You',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 459189186,
+    name: {
+      tr: 'Machinarium',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 580008932,
+    name: {
+      mo: 'Real Badminton',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1253855339,
+    name: {
+      tw: 'Rusty Lake Paradise',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1330055286,
+    name: {
+      mo: '比手划脚 - 你比我猜合家欢猜词工具',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1453117329,
+    name: {
+      mo: 'Yume Nikki',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1456547302,
+    name: {
+      hk: 'A Dance of Fire and Ice',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1457316711,
+    name: {
+      tr: 'DRAW CHILLY',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1481181827,
+    name: {
+      tr: 'Aces of the Luftwaffe Squadron',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1505174740,
+    name: {
+      hk: 'VFUN - 你的興趣社區',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1517281147,
+    name: {
+      hk: '行星小時',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1530149693,
+    name: {
+      cn: '心岛日记-难过的人不孤独',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1548281314,
+    name: {
+      mo: '倉頡打字2V',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1607511516,
+    name: {
+      tr: 'Construction Simulator 4',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1612615618,
+    name: {
+      tw: '腕上txt小说阅读器',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1617390109,
+    name: {
+      hk: '我们的大航海',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1621065119,
+    name: {
+      hk: '逆轉裁判123成步堂精選集',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1626320298,
+    name: {
+      cn: '极速变色龙',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738272916,
+    name: {
+      hk: '全球電視 - 國際電視直播',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6446178861,
+    name: {
+      hk: 'PlayNav - 影片內無廣告！',
+    },
+    addType: 'auto',
+  },
+  {
     id: 363385252,
     name: {
       tr: 'DTMFdec',
