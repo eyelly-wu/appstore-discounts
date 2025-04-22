@@ -71,434 +71,434 @@
 
 |序号|App ID|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|
-|1|318639200|❌|❌|❌|❌|❌|❌|
-|2|325915322|❌|❌|❌|❌|❌|❌|
-|3|365729342|❌|❌|❌|❌|❌|❌|
-|4|414469628|❌|❌|❌|❌|❌|❌|
-|5|459313476|❌|❌|❌|❌|❌|❌|
-|6|478126577|❌|❌|❌|❌|❌|❌|
-|7|493493802|❌|❌|❌|❌|❌|❌|
-|8|555612465|❌|❌|❌|❌|❌|❌|
-|9|564730202|❌|❌|❌|❌|❌|❌|
-|10|582584117|❌|❌|❌|❌|❌|❌|
-|11|633600716|❌|❌|❌|❌|❌|❌|
-|12|683353582|❌|❌|❌|❌|❌|❌|
-|13|777310222|❌|❌|❌|❌|❌|❌|
-|14|887877435|❌|❌|❌|❌|❌|❌|
-|15|908905093|❌|❌|❌|❌|❌|❌|
-|16|961339405|❌|❌|❌|❌|❌|❌|
-|17|994157520|❌|❌|❌|❌|❌|❌|
-|18|1048509287|❌|❌|❌|❌|❌|❌|
-|19|1087099916|❌|❌|❌|❌|❌|❌|
-|20|1107320261|❌|❌|❌|❌|❌|❌|
-|21|1241909999|❌|❌|❌|❌|❌|❌|
-|22|1293681293|❌|❌|❌|❌|❌|❌|
-|23|1330717186|❌|❌|❌|❌|❌|❌|
-|24|1357651989|❌|❌|❌|❌|❌|❌|
-|25|1385258906|❌|❌|❌|❌|❌|❌|
-|26|1402080820|❌|❌|❌|❌|❌|❌|
-|27|1439262206|❌|❌|❌|❌|❌|❌|
-|28|1450194251|❌|❌|❌|❌|❌|❌|
-|29|1477229754|❌|❌|❌|❌|❌|❌|
-|30|1514329124|❌|❌|❌|❌|❌|❌|
-|31|1553055273|❌|❌|❌|❌|❌|❌|
-|32|1573220858|❌|❌|❌|❌|❌|❌|
-|33|1580509302|❌|❌|❌|❌|❌|❌|
-|34|1614771445|❌|❌|❌|❌|❌|❌|
-|35|6742396803|❌|❌|❌|❌|❌|❌|
-|36|6740943002|❌|❌|❌|❌|❌|❌|
-|37|6743459503|❌|❌|❌|❌|❌|❌|
-|38|6480251529|❌|❌|❌|❌|❌|❌|
-|39|6739179322|❌|❌|❌|❌|❌|❌|
-|40|6744837914|❌|❌|❌|❌|❌|❌|
-|41|6502623166|❌|❌|❌|❌|❌|❌|
-|42|6468033830|❌|❌|❌|❌|❌|❌|
-|43|6738138603|❌|❌|❌|❌|❌|❌|
-|44|6739185971|❌|❌|❌|❌|❌|❌|
-|45|284972998|❌|❌|❌|❌|❌|❌|
-|46|288419283|❌|❌|❌|❌|❌|❌|
-|47|292421271|❌|❌|❌|❌|❌|❌|
-|48|294934058|❌|❌|❌|❌|❌|❌|
-|49|298206806|❌|❌|❌|❌|❌|❌|
-|50|299117180|❌|❌|❌|❌|❌|❌|
-|51|301387274|❌|❌|❌|❌|❌|❌|
-|52|305557780|❌|❌|❌|❌|❌|❌|
-|53|306938028|❌|❌|❌|❌|❌|❌|
-|54|307132353|❌|❌|❌|❌|❌|❌|
-|55|307727765|❌|❌|❌|❌|❌|❌|
-|56|307751675|❌|❌|❌|❌|❌|❌|
-|57|315021242|❌|❌|❌|❌|❌|❌|
-|58|315514944|❌|❌|❌|❌|❌|❌|
-|59|317809458|❌|❌|❌|❌|❌|❌|
-|60|323048611|❌|❌|❌|❌|❌|❌|
-|61|329670577|❌|❌|❌|❌|❌|❌|
-|62|332424440|❌|❌|❌|❌|❌|❌|
-|63|333212604|❌|❌|❌|❌|❌|❌|
-|64|335029050|❌|❌|❌|❌|❌|❌|
-|65|335709058|❌|❌|❌|❌|❌|❌|
-|66|335862325|❌|❌|❌|❌|❌|❌|
-|67|342115564|❌|❌|❌|❌|❌|❌|
-|68|344784375|❌|❌|❌|❌|❌|❌|
-|69|351850196|❌|❌|❌|❌|❌|❌|
-|70|352247139|❌|❌|❌|❌|❌|❌|
-|71|355281169|❌|❌|❌|❌|❌|❌|
-|72|357404131|❌|❌|❌|❌|❌|❌|
-|73|357421934|❌|❌|❌|❌|❌|❌|
-|74|367327563|❌|❌|❌|❌|❌|❌|
-|75|373493387|❌|❌|❌|❌|❌|❌|
-|76|388130466|❌|❌|❌|❌|❌|❌|
-|77|388857410|❌|❌|❌|❌|❌|❌|
-|78|392531952|❌|❌|❌|❌|❌|❌|
-|79|395680819|❌|❌|❌|❌|❌|❌|
-|80|396085661|❌|❌|❌|❌|❌|❌|
-|81|402012828|❌|❌|❌|❌|❌|❌|
-|82|402656416|❌|❌|❌|❌|❌|❌|
-|83|403684733|❌|❌|❌|❌|❌|❌|
-|84|404990064|❌|❌|❌|❌|❌|❌|
-|85|405835358|❌|❌|❌|❌|❌|❌|
-|86|406239138|❌|❌|❌|❌|❌|❌|
-|87|406541444|❌|❌|❌|❌|❌|❌|
-|88|407933070|❌|❌|❌|❌|❌|❌|
-|89|408697793|❌|❌|❌|❌|❌|❌|
-|90|408854559|❌|❌|❌|❌|❌|❌|
-|91|417817520|❌|❌|❌|❌|❌|❌|
-|92|424403441|❌|❌|❌|❌|❌|❌|
-|93|430163724|❌|❌|❌|❌|❌|❌|
-|94|432850619|❌|❌|❌|❌|❌|❌|
-|95|433596395|❌|❌|❌|❌|❌|❌|
-|96|449735650|❌|❌|❌|❌|❌|❌|
-|97|450542233|❌|❌|❌|❌|❌|❌|
-|98|452990487|❌|❌|❌|❌|❌|❌|
-|99|454086751|❌|❌|❌|❌|❌|❌|
-|100|469343554|❌|❌|❌|❌|❌|❌|
-|101|479516143|❌|❌|❌|❌|❌|❌|
-|102|479662730|❌|❌|❌|❌|❌|❌|
-|103|482303584|❌|❌|❌|❌|❌|❌|
-|104|485246824|❌|❌|❌|❌|❌|❌|
-|105|491231653|❌|❌|❌|❌|❌|❌|
-|106|497716362|❌|❌|❌|❌|❌|❌|
-|107|498732510|❌|❌|❌|❌|❌|❌|
-|108|501695715|❌|❌|❌|❌|❌|❌|
-|109|503190232|❌|❌|❌|❌|❌|❌|
-|110|504176984|❌|❌|❌|❌|❌|❌|
-|111|504300412|❌|❌|❌|❌|❌|❌|
-|112|505367096|❌|❌|❌|❌|❌|❌|
-|113|519411018|❌|❌|❌|❌|❌|❌|
-|114|520231936|❌|❌|❌|❌|❌|❌|
-|115|524387892|❌|❌|❌|❌|❌|❌|
-|116|525818839|❌|❌|❌|❌|❌|❌|
-|117|530425820|❌|❌|❌|❌|❌|❌|
-|118|540925500|❌|❌|❌|❌|❌|❌|
-|119|549105915|❌|❌|❌|❌|❌|❌|
-|120|549432607|❌|❌|❌|❌|❌|❌|
-|121|554937499|❌|❌|❌|❌|❌|❌|
-|122|555642577|❌|❌|❌|❌|❌|❌|
-|123|563718995|❌|❌|❌|❌|❌|❌|
-|124|575154654|❌|❌|❌|❌|❌|❌|
-|125|577628510|❌|❌|❌|❌|❌|❌|
-|126|578448682|❌|❌|❌|❌|❌|❌|
-|127|586149216|❌|❌|❌|❌|❌|❌|
-|128|594117733|❌|❌|❌|❌|❌|❌|
-|129|600626116|❌|❌|❌|❌|❌|❌|
-|130|623592465|❌|❌|❌|❌|❌|❌|
-|131|625334537|❌|❌|❌|❌|❌|❌|
-|132|634235735|❌|❌|❌|❌|❌|❌|
-|133|640364616|❌|❌|❌|❌|❌|❌|
-|134|646256209|❌|❌|❌|❌|❌|❌|
-|135|657016140|❌|❌|❌|❌|❌|❌|
-|136|679044544|❌|❌|❌|❌|❌|❌|
-|137|687236545|❌|❌|❌|❌|❌|❌|
-|138|697885605|❌|❌|❌|❌|❌|❌|
-|139|700637744|❌|❌|❌|❌|❌|❌|
-|140|736683061|❌|❌|❌|❌|❌|❌|
-|141|741990930|❌|❌|❌|❌|❌|❌|
-|142|763692274|❌|❌|❌|❌|❌|❌|
-|143|784373321|❌|❌|❌|❌|❌|❌|
-|144|807317212|❌|❌|❌|❌|❌|❌|
-|145|824305459|❌|❌|❌|❌|❌|❌|
-|146|829581836|❌|❌|❌|❌|❌|❌|
-|147|837860959|❌|❌|❌|❌|❌|❌|
-|148|860809977|❌|❌|❌|❌|❌|❌|
-|149|870322730|❌|❌|❌|❌|❌|❌|
-|150|890791581|❌|❌|❌|❌|❌|❌|
-|151|891194610|❌|❌|❌|❌|❌|❌|
-|152|901738789|❌|❌|❌|❌|❌|❌|
-|153|904278510|❌|❌|❌|❌|❌|❌|
-|154|912536422|❌|❌|❌|❌|❌|❌|
-|155|916976066|❌|❌|❌|❌|❌|❌|
-|156|918609651|❌|❌|❌|❌|❌|❌|
-|157|924695435|❌|❌|❌|❌|❌|❌|
-|158|925494667|❌|❌|❌|❌|❌|❌|
-|159|926015463|❌|❌|❌|❌|❌|❌|
-|160|926076608|❌|❌|❌|❌|❌|❌|
-|161|927098908|❌|❌|❌|❌|❌|❌|
-|162|932389062|❌|❌|❌|❌|❌|❌|
-|163|935216956|❌|❌|❌|❌|❌|❌|
-|164|935528099|❌|❌|❌|❌|❌|❌|
-|165|941143328|❌|❌|❌|❌|❌|❌|
-|166|945322477|❌|❌|❌|❌|❌|❌|
-|167|946477821|❌|❌|❌|❌|❌|❌|
-|168|948944368|❌|❌|❌|❌|❌|❌|
-|169|954724812|❌|❌|❌|❌|❌|❌|
-|170|955687901|❌|❌|❌|❌|❌|❌|
-|171|961932335|❌|❌|❌|❌|❌|❌|
-|172|963034692|❌|❌|❌|❌|❌|❌|
-|173|964708975|❌|❌|❌|❌|❌|❌|
-|174|973482987|❌|❌|❌|❌|❌|❌|
-|175|975683986|❌|❌|❌|❌|❌|❌|
-|176|982175678|❌|❌|❌|❌|❌|❌|
-|177|982227026|❌|❌|❌|❌|❌|❌|
-|178|992047786|❌|❌|❌|❌|❌|❌|
-|179|998437582|❌|❌|❌|❌|❌|❌|
-|180|1010311475|❌|❌|❌|❌|❌|❌|
-|181|1012298403|❌|❌|❌|❌|❌|❌|
-|182|1023146677|❌|❌|❌|❌|❌|❌|
-|183|1028950091|❌|❌|❌|❌|❌|❌|
-|184|1029932207|❌|❌|❌|❌|❌|❌|
-|185|1035219553|❌|❌|❌|❌|❌|❌|
-|186|1035219562|❌|❌|❌|❌|❌|❌|
-|187|1065360416|❌|❌|❌|❌|❌|❌|
-|188|1065599938|❌|❌|❌|❌|❌|❌|
-|189|1077639630|❌|❌|❌|❌|❌|❌|
-|190|1093131935|❌|❌|❌|❌|❌|❌|
-|191|1094038347|❌|❌|❌|❌|❌|❌|
-|192|1095903651|❌|❌|❌|❌|❌|❌|
-|193|1099088440|❌|❌|❌|❌|❌|❌|
-|194|1108479411|❌|❌|❌|❌|❌|❌|
-|195|1110646984|❌|❌|❌|❌|❌|❌|
-|196|1111420122|❌|❌|❌|❌|❌|❌|
-|197|1112429079|❌|❌|❌|❌|❌|❌|
-|198|1113736426|❌|❌|❌|❌|❌|❌|
-|199|1118115766|❌|❌|❌|❌|❌|❌|
-|200|1121484538|❌|❌|❌|❌|❌|❌|
-|201|1128464707|❌|❌|❌|❌|❌|❌|
-|202|1129429340|❌|❌|❌|❌|❌|❌|
-|203|1134805859|❌|❌|❌|❌|❌|❌|
-|204|1137257203|❌|❌|❌|❌|❌|❌|
-|205|1142016085|❌|❌|❌|❌|❌|❌|
-|206|1160608318|❌|❌|❌|❌|❌|❌|
-|207|1166143148|❌|❌|❌|❌|❌|❌|
-|208|1169282239|❌|❌|❌|❌|❌|❌|
-|209|1184204602|❌|❌|❌|❌|❌|❌|
-|210|1187265767|❌|❌|❌|❌|❌|❌|
-|211|1189781891|❌|❌|❌|❌|❌|❌|
-|212|1195035357|❌|❌|❌|❌|❌|❌|
-|213|1217732174|❌|❌|❌|❌|❌|❌|
-|214|1237692856|❌|❌|❌|❌|❌|❌|
-|215|1239299402|❌|❌|❌|❌|❌|❌|
-|216|1241383990|❌|❌|❌|❌|❌|❌|
-|217|1247397901|❌|❌|❌|❌|❌|❌|
-|218|1248033433|❌|❌|❌|❌|❌|❌|
-|219|1249864455|❌|❌|❌|❌|❌|❌|
-|220|1250144822|❌|❌|❌|❌|❌|❌|
-|221|1259067036|❌|❌|❌|❌|❌|❌|
-|222|1262474519|❌|❌|❌|❌|❌|❌|
-|223|1264608487|❌|❌|❌|❌|❌|❌|
-|224|1290687550|❌|❌|❌|❌|❌|❌|
-|225|1291429551|❌|❌|❌|❌|❌|❌|
-|226|1291730054|❌|❌|❌|❌|❌|❌|
-|227|1296085645|❌|❌|❌|❌|❌|❌|
-|228|1298544927|❌|❌|❌|❌|❌|❌|
-|229|1303222868|❌|❌|❌|❌|❌|❌|
-|230|1312534841|❌|❌|❌|❌|❌|❌|
-|231|1329434099|❌|❌|❌|❌|❌|❌|
-|232|1330314351|❌|❌|❌|❌|❌|❌|
-|233|1336793944|❌|❌|❌|❌|❌|❌|
-|234|1339516665|❌|❌|❌|❌|❌|❌|
-|235|1351652600|❌|❌|❌|❌|❌|❌|
-|236|1359107338|❌|❌|❌|❌|❌|❌|
-|237|1359652100|❌|❌|❌|❌|❌|❌|
-|238|1391339323|❌|❌|❌|❌|❌|❌|
-|239|1392608717|❌|❌|❌|❌|❌|❌|
-|240|1406710800|❌|❌|❌|❌|❌|❌|
-|241|1435004182|❌|❌|❌|❌|❌|❌|
-|242|1436429074|❌|❌|❌|❌|❌|❌|
-|243|1437096541|❌|❌|❌|❌|❌|❌|
-|244|1438245901|❌|❌|❌|❌|❌|❌|
-|245|1439187947|❌|❌|❌|❌|❌|❌|
-|246|1439881811|❌|❌|❌|❌|❌|❌|
-|247|1441969889|❌|❌|❌|❌|❌|❌|
-|248|1442776789|❌|❌|❌|❌|❌|❌|
-|249|1444761746|❌|❌|❌|❌|❌|❌|
-|250|1449893235|❌|❌|❌|❌|❌|❌|
-|251|1450064785|❌|❌|❌|❌|❌|❌|
-|252|1450144092|❌|❌|❌|❌|❌|❌|
-|253|1451873044|❌|❌|❌|❌|❌|❌|
-|254|1453838527|❌|❌|❌|❌|❌|❌|
-|255|1455781522|❌|❌|❌|❌|❌|❌|
-|256|1459749978|❌|❌|❌|❌|❌|❌|
-|257|1461751938|❌|❌|❌|❌|❌|❌|
-|258|1464850921|❌|❌|❌|❌|❌|❌|
-|259|1474716211|❌|❌|❌|❌|❌|❌|
-|260|1477203766|❌|❌|❌|❌|❌|❌|
-|261|1477854253|❌|❌|❌|❌|❌|❌|
-|262|1477966166|❌|❌|❌|❌|❌|❌|
-|263|1477991646|❌|❌|❌|❌|❌|❌|
-|264|1479608271|❌|❌|❌|❌|❌|❌|
-|265|1480844881|❌|❌|❌|❌|❌|❌|
-|266|1481006495|❌|❌|❌|❌|❌|❌|
-|267|1482339363|❌|❌|❌|❌|❌|❌|
-|268|1484622401|❌|❌|❌|❌|❌|❌|
-|269|1485875855|❌|❌|❌|❌|❌|❌|
-|270|1491530147|❌|❌|❌|❌|❌|❌|
-|271|1497120981|❌|❌|❌|❌|❌|❌|
-|272|1499849161|❌|❌|❌|❌|❌|❌|
-|273|1500098830|❌|❌|❌|❌|❌|❌|
-|274|1503486239|❌|❌|❌|❌|❌|❌|
-|275|1504662191|❌|❌|❌|❌|❌|❌|
-|276|1504760106|❌|❌|❌|❌|❌|❌|
-|277|1504952058|❌|❌|❌|❌|❌|❌|
-|278|1505636751|❌|❌|❌|❌|❌|❌|
-|279|1509344823|❌|❌|❌|❌|❌|❌|
-|280|1512751689|❌|❌|❌|❌|❌|❌|
-|281|1515215584|❌|❌|❌|❌|❌|❌|
-|282|1515382132|❌|❌|❌|❌|❌|❌|
-|283|1516531425|❌|❌|❌|❌|❌|❌|
-|284|1517349382|❌|❌|❌|❌|❌|❌|
-|285|1518841947|❌|❌|❌|❌|❌|❌|
-|286|1519386476|❌|❌|❌|❌|❌|❌|
-|287|1523633394|❌|❌|❌|❌|❌|❌|
-|288|1525735418|❌|❌|❌|❌|❌|❌|
-|289|1528199331|❌|❌|❌|❌|❌|❌|
-|290|1531462734|❌|❌|❌|❌|❌|❌|
-|291|1531654315|❌|❌|❌|❌|❌|❌|
-|292|1536762482|❌|❌|❌|❌|❌|❌|
-|293|1544190466|❌|❌|❌|❌|❌|❌|
-|294|1544412558|❌|❌|❌|❌|❌|❌|
-|295|1544722749|❌|❌|❌|❌|❌|❌|
-|296|1548185534|❌|❌|❌|❌|❌|❌|
-|297|1551207253|❌|❌|❌|❌|❌|❌|
-|298|1551263854|❌|❌|❌|❌|❌|❌|
-|299|1555857229|❌|❌|❌|❌|❌|❌|
-|300|1556671822|❌|❌|❌|❌|❌|❌|
-|301|1559869450|❌|❌|❌|❌|❌|❌|
-|302|1562560561|❌|❌|❌|❌|❌|❌|
-|303|1563932741|❌|❌|❌|❌|❌|❌|
-|304|1569963107|❌|❌|❌|❌|❌|❌|
-|305|1576329230|❌|❌|❌|❌|❌|❌|
-|306|1576763082|❌|❌|❌|❌|❌|❌|
-|307|1577392165|❌|❌|❌|❌|❌|❌|
-|308|1578203914|❌|❌|❌|❌|❌|❌|
-|309|1581640677|❌|❌|❌|❌|❌|❌|
-|310|1587674627|❌|❌|❌|❌|❌|❌|
-|311|1590622755|❌|❌|❌|❌|❌|❌|
-|312|1591627945|❌|❌|❌|❌|❌|❌|
-|313|1592505377|❌|❌|❌|❌|❌|❌|
-|314|1592660274|❌|❌|❌|❌|❌|❌|
-|315|1595739885|❌|❌|❌|❌|❌|❌|
-|316|1596736236|❌|❌|❌|❌|❌|❌|
-|317|1600307023|❌|❌|❌|❌|❌|❌|
-|318|1603421749|❌|❌|❌|❌|❌|❌|
-|319|1603553413|❌|❌|❌|❌|❌|❌|
-|320|1606405358|❌|❌|❌|❌|❌|❌|
-|321|1609910024|❌|❌|❌|❌|❌|❌|
-|322|1610947489|❌|❌|❌|❌|❌|❌|
-|323|1612952507|❌|❌|❌|❌|❌|❌|
-|324|1614200925|❌|❌|❌|❌|❌|❌|
-|325|1622869542|❌|❌|❌|❌|❌|❌|
-|326|1624326561|❌|❌|❌|❌|❌|❌|
-|327|1631859420|❌|❌|❌|❌|❌|❌|
-|328|1631867592|❌|❌|❌|❌|❌|❌|
-|329|1633243177|❌|❌|❌|❌|❌|❌|
-|330|1633253544|❌|❌|❌|❌|❌|❌|
-|331|1636342413|❌|❌|❌|❌|❌|❌|
-|332|1642601792|❌|❌|❌|❌|❌|❌|
-|333|1642733080|❌|❌|❌|❌|❌|❌|
-|334|1643199620|❌|❌|❌|❌|❌|❌|
-|335|1659271912|❌|❌|❌|❌|❌|❌|
-|336|1659316190|❌|❌|❌|❌|❌|❌|
-|337|1662217862|❌|❌|❌|❌|❌|❌|
-|338|1665706687|❌|❌|❌|❌|❌|❌|
-|339|1668755109|❌|❌|❌|❌|❌|❌|
-|340|1669877091|❌|❌|❌|❌|❌|❌|
-|341|1671505630|❌|❌|❌|❌|❌|❌|
-|342|6737795387|❌|❌|❌|❌|❌|❌|
-|343|6448477521|❌|❌|❌|❌|❌|❌|
-|344|6472380172|❌|❌|❌|❌|❌|❌|
-|345|6443786927|❌|❌|❌|❌|❌|❌|
-|346|6502489827|❌|❌|❌|❌|❌|❌|
-|347|6742129099|❌|❌|❌|❌|❌|❌|
-|348|6443916065|❌|❌|❌|❌|❌|❌|
-|349|6737512463|❌|❌|❌|❌|❌|❌|
-|350|6462190343|❌|❌|❌|❌|❌|❌|
-|351|6444782083|❌|❌|❌|❌|❌|❌|
-|352|6450148077|❌|❌|❌|❌|❌|❌|
-|353|6449766387|❌|❌|❌|❌|❌|❌|
-|354|6740246950|❌|❌|❌|❌|❌|❌|
-|355|6550914957|❌|❌|❌|❌|❌|❌|
-|356|6742537442|❌|❌|❌|❌|❌|❌|
-|357|6741474933|❌|❌|❌|❌|❌|❌|
-|358|6742221550|❌|❌|❌|❌|❌|❌|
-|359|6738767315|❌|❌|❌|❌|❌|❌|
-|360|6737987084|❌|❌|❌|❌|❌|❌|
-|361|6446607609|❌|❌|❌|❌|❌|❌|
-|362|6499512726|❌|❌|❌|❌|❌|❌|
-|363|6483210281|❌|❌|❌|❌|❌|❌|
-|364|6738767322|❌|❌|❌|❌|❌|❌|
-|365|6737434454|❌|❌|❌|❌|❌|❌|
-|366|6743117370|❌|❌|❌|❌|❌|❌|
-|367|6740705851|❌|❌|❌|❌|❌|❌|
-|368|6743487416|❌|❌|❌|❌|❌|❌|
-|369|6478843819|❌|❌|❌|❌|❌|❌|
-|370|6502453075|❌|❌|❌|❌|❌|❌|
-|371|6670749900|❌|❌|❌|❌|❌|❌|
-|372|6711347049|❌|❌|❌|❌|❌|❌|
-|373|6547834967|❌|❌|❌|❌|❌|❌|
-|374|6452276410|❌|❌|❌|❌|❌|❌|
-|375|6471479898|❌|❌|❌|❌|❌|❌|
-|376|6738371720|❌|❌|❌|❌|❌|❌|
-|377|6456751953|❌|❌|❌|❌|❌|❌|
-|378|6469114836|❌|❌|❌|❌|❌|❌|
-|379|6743648252|❌|❌|❌|❌|❌|❌|
-|380|6738636631|❌|❌|❌|❌|❌|❌|
-|381|6480082872|❌|❌|❌|❌|❌|❌|
-|382|6738769251|❌|❌|❌|❌|❌|❌|
-|383|6621207768|❌|❌|❌|❌|❌|❌|
-|384|6743420230|❌|❌|❌|❌|❌|❌|
-|385|6736642117|❌|❌|❌|❌|❌|❌|
-|386|6498879077|❌|❌|❌|❌|❌|❌|
-|387|6738636602|❌|❌|❌|❌|❌|❌|
-|388|6504323939|❌|❌|❌|❌|❌|❌|
-|389|6505046490|❌|❌|❌|❌|❌|❌|
-|390|6443723657|❌|❌|❌|❌|❌|❌|
-|391|6743342476|❌|❌|❌|❌|❌|❌|
-|392|6742773178|❌|❌|❌|❌|❌|❌|
-|393|6476663854|❌|❌|❌|❌|❌|❌|
-|394|6670469064|❌|❌|❌|❌|❌|❌|
-|395|6447508479|❌|❌|❌|❌|❌|❌|
-|396|6470958985|❌|❌|❌|❌|❌|❌|
-|397|6445875391|❌|❌|❌|❌|❌|❌|
-|398|6443923265|❌|❌|❌|❌|❌|❌|
-|399|6739839815|❌|❌|❌|❌|❌|❌|
-|400|6505052301|❌|❌|❌|❌|❌|❌|
-|401|6642649684|❌|❌|❌|❌|❌|❌|
-|402|6738784092|❌|❌|❌|❌|❌|❌|
-|403|6450724928|❌|❌|❌|❌|❌|❌|
-|404|6740814979|❌|❌|❌|❌|❌|❌|
-|405|6456886656|❌|❌|❌|❌|❌|❌|
-|406|6498623389|❌|❌|❌|❌|❌|❌|
-|407|6738342400|❌|❌|❌|❌|❌|❌|
-|408|6744355637|❌|❌|❌|❌|❌|❌|
-|409|6476064417|❌|❌|❌|❌|❌|❌|
-|410|6463710522|❌|❌|❌|❌|❌|❌|
-|411|6468572535|❌|❌|❌|❌|❌|❌|
-|412|6471947612|❌|❌|❌|❌|❌|❌|
-|413|6480501528|❌|❌|❌|❌|❌|❌|
-|414|6714479204|❌|❌|❌|❌|❌|❌|
-|415|6740349666|❌|❌|❌|❌|❌|❌|
-|416|6473097811|❌|❌|❌|❌|❌|❌|
-|417|6463616555|❌|❌|❌|❌|❌|❌|
-|418|6477835115|❌|❌|❌|❌|❌|❌|
-|419|6449003064|❌|❌|❌|❌|❌|❌|
-|420|6670199903|❌|❌|❌|❌|❌|❌|
-|421|6505058041|❌|❌|❌|❌|❌|❌|
-|422|6744445187|❌|❌|❌|❌|❌|❌|
-|423|6469419567|❌|❌|❌|❌|❌|❌|
-|424|6444400410|❌|❌|❌|❌|❌|❌|
-|425|6474616013|❌|❌|❌|❌|❌|❌|
-|426|6471594918|❌|❌|❌|❌|❌|❌|
-|427|6686394372|❌|❌|❌|❌|❌|❌|
-|428|6740471827|❌|❌|❌|❌|❌|❌|
+|1|318639200|❌|Crush the Castle|Crush the Castle|Crush the Castle|Crush the Castle|Crush the Castle|
+|2|325915322|BatteryFull + (Alarm)|BatteryFull + (Alarm)|BatteryFull + (Alarm)|BatteryFull + (Alarm)|BatteryFull + (Alarm)|BatteryFull + (Alarm)|
+|3|365729342|RacquetTune - String Tension|RacquetTune - String Tension|RacquetTune - String Tension|RacquetTune - String Tension|RacquetTune - String Tension|RacquetTune - String Tension|
+|4|414469628|面部和躯体照片编辑器|臉部及身體修圖工具|臉部及身體修圖工具|臉部及身體修圖工具|Face & Body Photo editor|Face & Body Photo editor|
+|5|459313476|Tenuto|Tenuto|Tenuto|Tenuto|Tenuto|Tenuto|
+|6|478126577|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|
+|7|493493802|RhymeZone|RhymeZone|RhymeZone|RhymeZone|RhymeZone|RhymeZone|
+|8|555612465|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|CWMoney Pro - Expense Tracker|CWMoney Pro - Expense Tracker|
+|9|564730202|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|
+|10|582584117|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|
+|11|633600716|432 Player|432 Player|432 Player|432 Player|432 Player|432 Player|
+|12|683353582|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|
+|13|777310222|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|
+|14|887877435|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 Lens Toolkit|f8 Lens Toolkit|
+|15|908905093|Lumy - 太阳追踪器与黄金时刻|Lumy|Lumy|Lumy|Lumy|Lumy|
+|16|961339405|❌|監獄人生 RPG|監獄人生 RPG|監獄人生 RPG|Prison Life RPG|Prison Life RPG|
+|17|994157520|❌|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|
+|18|1048509287|❌|龍紀冒險棋|龍紀冒險棋|龍紀冒險棋|龙纪冒险棋|龙纪冒险棋|
+|19|1087099916|铅笔素描 高清版|鉛筆素描 高清版|鉛筆素描 高清版|鉛筆素描 高清版|Pencil Sketch HD|Pencil Sketch HD|
+|20|1107320261|❌|Splitter Critters|Splitter Critters|Splitter Critters|Splitter Critters|Splitter Critters|
+|21|1241909999|WorkOutDoors|WorkOutDoors|WorkOutDoors|WorkOutDoors|WorkOutDoors|WorkOutDoors|
+|22|1293681293|❌|Pocket Build|Pocket Build|Pocket Build|Pocket Build|Pocket Build|
+|23|1330717186|❌|The Golf Tracer|The Golf Tracer|The Golf Tracer|The Golf Tracer|The Golf Tracer|
+|24|1357651989|❌|Tick Tock: A Tale for Two|Tick Tock: A Tale for Two|Tick Tock: A Tale for Two|Tick Tock: A Tale for Two|Tick Tock: A Tale for Two|
+|25|1385258906|❌|Mindustry|Mindustry|Mindustry|Mindustry|Mindustry|
+|26|1402080820|❌|This War of Mine: Stories|This War of Mine: Stories|This War of Mine: Stories|This War of Mine: Stories|This War of Mine: Stories|
+|27|1439262206|❌|Root Board Game|Root Board Game|Root Board Game|Root Board Game|Root Board Game|
+|28|1450194251|Kişiye Özel Diyet|Kişiye Özel Diyet|Kişiye Özel Diyet|Kişiye Özel Diyet|Weight Loss in 28 Days|Weight Loss in 28 Days|
+|29|1477229754|❌|Papa's Cheeseria To Go!|Papa's Cheeseria To Go!|Papa's Cheeseria To Go!|Papa's Cheeseria To Go!|Papa's Cheeseria To Go!|
+|30|1514329124|❌|Rusted Warfare - RTS|Rusted Warfare - RTS|Rusted Warfare - RTS|Rusted Warfare - RTS|Rusted Warfare - RTS|
+|31|1553055273|Chairgun Elite Ballistic Tool|Chairgun Elite Ballistic Tool|Chairgun Elite Ballistic Tool|Chairgun Elite Ballistic Tool|❌|Chairgun Elite Ballistic Tool|
+|32|1573220858|❌|環球酒店大亨|環球酒店大亨|環球酒店大亨|环球酒店大亨|环球酒店大亨|
+|33|1580509302|❌|伊格利亞戰記|伊格利亞戰記|伊格利亞戰記|The Heroic Legend of Eagarlnia|The Heroic Legend of Eagarlnia|
+|34|1614771445|❌|Rotaeno - 旋轉音律|Rotaeno - 旋轉音律|Rotaeno - 旋轉音律|Rotaeno|Rotaeno|
+|35|6742396803|DaDaDaDa - 空气枪|DaDaDaDa - AirGun|DaDaDaDa - AirGun|DaDaDaDa - AirGun|DaDaDaDa - AirGun|DaDaDaDa - AirGun|
+|36|6740943002|BaMai|BaMai|BaMai|BaMai|BaMai|❌|
+|37|6743459503|❌|逐鹿|逐鹿|逐鹿|逐鹿|逐鹿|
+|38|6480251529|体育集换卡制作专业版|體育集換卡製作專業版|體育集換卡製作專業版|體育集換卡製作專業版|Ultimate Card Creator|Ultimate Card Creator|
+|39|6739179322|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|
+|40|6744837914|块块爱消除-手表游戏经典快乐休闲益智|塊塊愛消除-手錶遊戲經典快樂休閒益智|塊塊愛消除-手錶遊戲經典快樂休閒益智|塊塊愛消除-手錶遊戲經典快樂休閒益智|Block Jam Blast For Watch|Block Jam Blast For Watch|
+|41|6502623166|❌|金武江湖|金武江湖|金武江湖|金武江湖|金武江湖|
+|42|6468033830|❌|憶我: 一個性格測試遊戲|憶我: 一個性格測試遊戲|憶我: 一個性格測試遊戲|Refind Self|Refind Self|
+|43|6738138603|❌|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|
+|44|6739185971|❌|❌|❌|❌|Earnifi: Rent, Early Pay, Cash|❌|
+|45|284972998|SoundHound∞ 音乐搜索识别和播放器|SoundHound∞ 音樂識別搜尋器及播放器|SoundHound∞ 音樂識別搜尋器及播放器|SoundHound∞ 音樂識別搜尋器及播放器|SoundHound∞ - Music Discovery|SoundHound∞ - Music Discovery|
+|46|288419283|❌|❌|❌|❌|RadarScope|RadarScope|
+|47|292421271|❌|Fieldrunners|Fieldrunners|Fieldrunners|Fieldrunners|Fieldrunners|
+|48|294934058|HotSchedules|HotSchedules|HotSchedules|HotSchedules|HotSchedules|HotSchedules|
+|49|298206806|iReal Pro|iReal Pro|iReal Pro|iReal Pro|iReal Pro|iReal Pro|
+|50|299117180|Airports|Airports|Airports|Airports|Airports|Airports|
+|51|301387274|❌|Pocket God|Pocket God|Pocket God|Pocket God|Pocket God|
+|52|305557780|换脸 (iSwap Faces Pro)|iSwap Faces Pro|iSwap Faces Pro|iSwap Faces Pro|iSwap Faces Pro|iSwap Faces Pro|
+|53|306938028|Photo Sticker|Photo Sticker|Photo Sticker|Photo Sticker|Photo Sticker|Photo Sticker|
+|54|307132353|❌|Sally's Spa|Sally's Spa|Sally's Spa|Sally's Spa|Sally's Spa|
+|55|307727765|❌|Doodle Jump|Doodle Jump|Doodle Jump|Doodle Jump|Doodle Jump|
+|56|307751675|❌|PopStar!-stars crush|PopStar!-stars crush|PopStar!-stars crush|PopStar!-stars crush|PopStar!-stars crush|
+|57|315021242|❌|Unblock Me Premium|Unblock Me Premium|Unblock Me Premium|Unblock Me Premium|Unblock Me Premium|
+|58|315514944|实用家常菜谱大全|实用家常菜谱大全|实用家常菜谱大全|实用家常菜谱大全|实用家常菜谱大全|实用家常菜谱大全|
+|59|317809458|LiveATC Air Radio|LiveATC Air Radio|LiveATC Air Radio|LiveATC Air Radio|LiveATC Air Radio|LiveATC Air Radio|
+|60|323048611|Dr.eye譯典通|Dr.eye譯典通|Dr.eye譯典通|Dr.eye譯典通|Dr.eye譯典通|Dr.eye譯典通|
+|61|329670577|Camera+旧版|Camera+傳統|Camera+傳統|Camera+傳統|Camera+ Legacy|Camera+ Legacy|
+|62|332424440|❌|MILLIONAIRE TYCOON™|MILLIONAIRE TYCOON™|MILLIONAIRE TYCOON™|MILLIONAIRE TYCOON™|MILLIONAIRE TYCOON™|
+|63|333212604|蒙恬名片王Mobile|蒙恬名片王Mobile|蒙恬名片王Mobile|蒙恬名片王Mobile|蒙恬名片王Mobile|蒙恬名片王Mobile|
+|64|335029050|❌|Catan Classic|Catan Classic|Catan Classic|Catan Classic|Catan Classic|
+|65|335709058|Stylebook|Stylebook|Stylebook|Stylebook|Stylebook|Stylebook|
+|66|335862325|Blower|Blower|Blower|Blower|Blower|Blower|
+|67|342115564|Hipstamatic 相机|Hipstamatic 相機|Hipstamatic 相機|Hipstamatic 相機|Classic Camera by Hipstamatic|Classic Camera by Hipstamatic|
+|68|344784375|播放器OPlayer|OPlayer - video player|OPlayer - video player|OPlayer - video player|OPlayer - video player|OPlayer - video player|
+|69|351850196|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|
+|70|352247139|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|
+|71|355281169|❌|遠流字典通 (豪華版)|遠流字典通 (豪華版)|遠流字典通 (豪華版)|遠流字典通 (豪華版)|遠流字典通 (豪華版)|
+|72|357404131|慢快门相机 (Slow Shutter Cam)|慢快門相機 (Slow Shutter Cam)|慢快門相機 (Slow Shutter Cam)|慢快門相機 (Slow Shutter Cam)|Slow Shutter Cam|Slow Shutter Cam|
+|73|357421934|PeakFinder|PeakFinder|PeakFinder|PeakFinder|PeakFinder|PeakFinder|
+|74|367327563|秘密照片管理 - i照片文件夹|Secret Photo+Folder|Secret Photo+Folder|Secret Photo+Folder|Secret Photo+Folder|Secret Photo+Folder|
+|75|373493387|AnkiMobile Flashcards|AnkiMobile Flashcards|AnkiMobile Flashcards|AnkiMobile Flashcards|AnkiMobile Flashcards|AnkiMobile Flashcards|
+|76|388130466|❌|iSlash|iSlash|iSlash|iSlash|iSlash|
+|77|388857410|❌|Blackjack & Card Counting Pro|Blackjack & Card Counting Pro|Blackjack & Card Counting Pro|Blackjack & Card Counting Pro|Blackjack & Card Counting Pro|
+|78|392531952|倉頡解碼|倉頡解碼|倉頡解碼|倉頡解碼|倉頡解碼|倉頡解碼|
+|79|395680819|AVPlayer|AVPlayer|AVPlayer|AVPlayer|AVPlayer|AVPlayer|
+|80|396085661|❌|遊戲發展國++|遊戲發展國++|遊戲發展國++|Game Dev Story|Game Dev Story|
+|81|402012828|iSafe Pro|iSafe Pro|iSafe Pro|iSafe Pro|iSafe Pro|iSafe Pro|
+|82|402656416|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|
+|83|403684733|Badoo高级版|Badoo進階版|Badoo進階版|Badoo進階版|Badoo Premium|Badoo Premium|
+|84|404990064|SkyView®|SkyView®|SkyView®|SkyView®|SkyView®|SkyView®|
+|85|405835358|MilGPS|MilGPS|MilGPS|MilGPS|MilGPS|MilGPS|
+|86|406239138|❌|Puffin Cloud Browser|Puffin Cloud Browser|Puffin Cloud Browser|Puffin Browser Pro|Puffin Browser Pro|
+|87|406541444|8毫米相机|8mm Vintage Camera|8mm Vintage Camera|8mm Vintage Camera|8mm Vintage Camera|8mm Vintage Camera|
+|88|407933070|怀旧日历 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|
+|89|408697793|❌|King of Opera|King of Opera|King of Opera|King of Opera|King of Opera|
+|90|408854559|❌|溫泉物語|溫泉物語|溫泉物語|Hot Springs Story|Hot Springs Story|
+|91|417817520|❌|Tiny Wings|Tiny Wings|Tiny Wings|Tiny Wings|Tiny Wings|
+|92|424403441|瑕疵清除器 (Pimple Eraser)|Pimple Eraser|Pimple Eraser|Pimple Eraser|Pimple Eraser|Pimple Eraser|
+|93|430163724|智能风水罗盘-专业版|智能風水羅庚-專業版|智能風水羅庚-專業版|智能風水羅庚-專業版|智能风水罗盘-专业版|智能风水罗盘-专业版|
+|94|432850619|FL Studio Mobile|FL Studio Mobile|FL Studio Mobile|FL Studio Mobile|FL Studio Mobile|FL Studio Mobile|
+|95|433596395|❌|ZOOKEEPER DX|ZOOKEEPER DX|ZOOKEEPER DX|ZOOKEEPER DX|ZOOKEEPER DX|
+|96|449735650|❌|鱷魚小頑皮愛洗澡|鱷魚小頑皮愛洗澡|鱷魚小頑皮愛洗澡|Where's My Water?|Where's My Water?|
+|97|450542233|❌|Cut the Rope: Experiments GOLD|Cut the Rope: Experiments GOLD|Cut the Rope: Experiments GOLD|Cut the Rope: Experiments GOLD|Cut the Rope: Experiments GOLD|
+|98|452990487|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|
+|99|454086751|❌|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|
+|100|469343554|❌|洛克人X|洛克人X|洛克人X|❌|❌|
+|101|479516143|❌|Minecraft|Minecraft|Minecraft|Minecraft: Dream it, Build it!|Minecraft: Dream it, Build it!|
+|102|479662730|❌|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto 3|
+|103|482303584|❌|❌|❌|❌|PDG PROmote 2025+|PDG PROmote 2025+|
+|104|485246824|❌|Cytus|Cytus|Cytus|Cytus|Cytus|
+|105|491231653|❌|大富翁 4 Fun|大富翁 4 Fun|大富翁 4 Fun|大富翁 4 Fun|大富翁 4 Fun|
+|106|497716362|TonalEnergy 调音器—节拍器|TonalEnergy 調音器—節拍器|TonalEnergy 調音器—節拍器|TonalEnergy 調音器—節拍器|TonalEnergy Tuner & Metronome|TonalEnergy Tuner & Metronome|
+|107|498732510|❌|Blitzer.de PRO|❌|Blitzer.de PRO|Blitzer.de PRO|Blitzer.de PRO|
+|108|501695715|儿歌童谣 - 国语+粤语(广东话)儿歌连歌词|兒歌童謠 - 國語+粵語(廣東話)兒歌連歌詞|兒歌童謠 - 國語+粵語(廣東話)兒歌連歌詞|兒歌童謠 - 國語+粵語(廣東話)兒歌連歌詞|兒歌童謠 - 國語+粵語(廣東話)兒歌連歌詞|兒歌童謠 - 國語+粵語(廣東話)兒歌連歌詞|
+|109|503190232|❌|Bridge Constructor|Bridge Constructor|Bridge Constructor|Bridge Constructor|Bridge Constructor|
+|110|504176984|论子平-论八字(实用)|論八字(實用)|論八字(實用)|論八字(實用)|论子平-论八字(实用)|论子平-论八字(实用)|
+|111|504300412|❌|歐陸戰爭3|歐陸戰爭3|歐陸戰爭3|European War 3|European War 3|
+|112|505367096|世界迷雾|世界迷霧|世界迷霧|世界迷霧|Fog of World|Fog of World|
+|113|519411018|iGuzheng - 爱古筝|iGuzheng - 愛古箏|iGuzheng - 愛古箏|iGuzheng - 愛古箏|iGuzheng|iGuzheng|
+|114|520231936|eDrawings|eDrawings|eDrawings|eDrawings|eDrawings|eDrawings|
+|115|524387892|The Official KSIOlajidebt Soundboard - KSI Sounds|The Official KSIOlajidebt Soundboard - KSI Sounds|The Official KSIOlajidebt Soundboard - KSI Sounds|The Official KSIOlajidebt Soundboard - KSI Sounds|The Official KSIOlajidebt Soundboard - KSI Sounds|The Official KSIOlajidebt Soundboard - KSI Sounds|
+|116|525818839|❌|Plague Inc. (瘟疫公司)|Plague Inc. (瘟疫公司)|Plague Inc. (瘟疫公司)|Plague Inc.|Plague Inc.|
+|117|530425820|东方财富领先版-财经资讯&股票开户|东方财富领先版-财经资讯&股票开户|东方财富领先版-财经资讯&股票开户|东方财富领先版-财经资讯&股票开户|东方财富领先版-财经资讯&股票开户|东方财富领先版-财经资讯&股票开户|
+|118|540925500|❌|Need for Speed™ Most Wanted|Need for Speed™ Most Wanted|Need for Speed™ Most Wanted|❌|Need for Speed™ Most Wanted|
+|119|549105915|❌|True Skate|True Skate|True Skate|True Skate|True Skate|
+|120|549432607|❌|Townsmen Premium|Townsmen Premium|Townsmen Premium|Townsmen Premium|Townsmen Premium|
+|121|554937499|❌|Earn to Die|Earn to Die|Earn to Die|Earn to Die|Earn to Die|
+|122|555642577|晋硕万年历|晉碩萬年曆|晉碩萬年曆|晉碩萬年曆|Chinsoft Lunar Calendar|Chinsoft Lunar Calendar|
+|123|563718995|❌|Bloons TD 5|Bloons TD 5|Bloons TD 5|Bloons TD 5|Bloons TD 5|
+|124|575154654|❌|Pou|Pou|Pou|Pou|Pou|
+|125|577628510|TeamSpeak 3|TeamSpeak 3|TeamSpeak 3|TeamSpeak 3|TeamSpeak 3|TeamSpeak 3|
+|126|578448682|❌|Grand Theft Auto: Vice City|Grand Theft Auto: Vice City|Grand Theft Auto: Vice City|Grand Theft Auto: Vice City|Grand Theft Auto: Vice City|
+|127|586149216|Monash FODMAP Diet|Monash FODMAP Diet|Monash FODMAP Diet|Monash FODMAP Diet|Monash FODMAP Diet|Monash FODMAP Diet|
+|128|594117733|❌|仙劍奇俠傳1 DOS懷舊版|仙劍奇俠傳1 DOS懷舊版|仙劍奇俠傳1 DOS懷舊版|仙劍奇俠傳1 DOS懷舊版|仙劍奇俠傳1 DOS懷舊版|
+|129|600626116|❌|Papa's Burgeria To Go!|Papa's Burgeria To Go!|Papa's Burgeria To Go!|Papa's Burgeria To Go!|Papa's Burgeria To Go!|
+|130|623592465|❌|Heads Up!|Heads Up!|Heads Up!|Heads Up!|Heads Up!|
+|131|625334537|❌|Geometry Dash|Geometry Dash|Geometry Dash|Geometry Dash|Geometry Dash|
+|132|634235735|❌|Duet Game|Duet Game|Duet Game|Duet Game|Duet Game|
+|133|640364616|❌|❌|❌|❌|Terraria|Terraria|
+|134|646256209|Photo Eraser|照片橡皮擦|照片橡皮擦|照片橡皮擦|Photo Eraser for iPhone|Photo Eraser for iPhone|
+|135|657016140|Good Maps - 谷歌地图,离线,街景,公交,地铁,导航|Good Maps - Google地圖,3D,離線,全球街景,公交,地鐵,導航|Good Maps - Google地圖,3D,離線,全球街景,公交,地鐵,導航|Good Maps - Google地圖,3D,離線,全球街景,公交,地鐵,導航|Good Maps - for Google Maps, with Offline Map, Directions, Street Views and More|Good Maps - for Google Maps, with Offline Map, Directions, Street Views and More|
+|136|679044544|AndroMoney|理財幫手 AndroMoney|理財幫手 AndroMoney|理財幫手 AndroMoney|AndroMoney|AndroMoney|
+|137|687236545|Adv. Learner’s Dictionary (TC)|劍橋高階英漢雙解詞典：英語— 繁體中文|劍橋高階英漢雙解詞典：英語— 繁體中文|劍橋高階英漢雙解詞典：英語— 繁體中文|Adv. Learner’s Dictionary (TC)|Adv. Learner’s Dictionary (TC)|
+|138|697885605|❌|❌|❌|常春藤基礎英文字彙|常春藤基礎英文字彙|常春藤基礎英文字彙|
+|139|700637744|❌|DEEMO|DEEMO|DEEMO|DEEMO|DEEMO|
+|140|736683061|❌|A Dark Room|A Dark Room|A Dark Room|A Dark Room|A Dark Room|
+|141|741990930|❌|Walkout Song DJ|❌|❌|Walkout Song DJ|❌|
+|142|763692274|❌|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|
+|143|784373321|❌|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|
+|144|807317212|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美|每日精選-天文地理人文照片之美|每日精選-天文地理人文照片之美|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|
+|145|824305459|❌|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|
+|146|829581836|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|
+|147|837860959|❌|迷你地鐵|迷你地鐵|迷你地鐵|Mini Metro|Mini Metro|
+|148|860809977|Fongo World Edition|Fongo World Edition|Fongo World Edition|Fongo World Edition|Fongo World Edition|Fongo World Edition|
+|149|870322730|❌|Implosion 聚爆|Implosion 聚爆|Implosion 聚爆|Implosion - Never Lose Hope|Implosion - Never Lose Hope|
+|150|890791581|樂客導航王全3D Pro|樂客導航王全3D Pro|樂客導航王全3D Pro|樂客導航王全3D Pro|樂客導航王全3D Pro|樂客導航王全3D Pro|
+|151|891194610|❌|戰車撞殭屍2 (Earn to Die 2)|戰車撞殭屍2 (Earn to Die 2)|戰車撞殭屍2 (Earn to Die 2)|Earn to Die 2|Earn to Die 2|
+|152|901738789|地下城堡: 炼金术师的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|Dungeon Survivor|Dungeon Survivor|
+|153|904278510|❌|刺客任務：狙擊 (Hitman Sniper)|刺客任務：狙擊 (Hitman Sniper)|刺客任務：狙擊 (Hitman Sniper)|Hitman Sniper|Hitman Sniper|
+|154|912536422|❌|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|
+|155|916976066|短语键盘|短語鍵盤|短語鍵盤|短語鍵盤|Phraseboard Keyboard|Phraseboard Keyboard|
+|156|918609651|Money Pro: Personal Finance AR|Money Pro: 個人財務|Money Pro: 個人財務|Money Pro: 個人財務|Money Pro: Personal Finance AR|Money Pro: Personal Finance AR|
+|157|924695435|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|
+|158|925494667|❌|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|
+|159|926015463|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|
+|160|926076608|秒速记账 1SecMoney|秒速記帳 1SecMoney|秒速記帳 1SecMoney|秒速記帳 1SecMoney|1SecMoney|1SecMoney|
+|161|927098908|Pro Camera by Moment|Pro Camera by Moment|Pro Camera by Moment|Pro Camera by Moment|Pro Camera by Moment|Pro Camera by Moment|
+|162|932389062|❌|永不言棄！！ - 不可能的節奏跳躍 & 黑色小球翻滾|永不言棄！！ - 不可能的節奏跳躍 & 黑色小球翻滾|永不言棄！！ - 不可能的節奏跳躍 & 黑色小球翻滾|Give It Up! - Jump to the Beat|Give It Up! - Jump to the Beat|
+|163|935216956|❌|Papers, Please|Papers, Please|Papers, Please|Papers, Please|Papers, Please|
+|164|935528099|同步音律|同步音律|同步音律|同步音律|MUSYNX|MUSYNX|
+|165|941143328|❌|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|
+|166|945322477|❌|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|
+|167|946477821|❌|Evoland|Evoland|Evoland|Evoland|Evoland|
+|168|948944368|全屏浏览器 - 用得全屏才是好浏览器！|iBrowser- Full Screen Browser|iBrowser- Full Screen Browser|iBrowser- Full Screen Browser|iBrowser- Full Screen Browser|iBrowser- Full Screen Browser|
+|169|954724812|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|
+|170|955687901|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|
+|171|961932335|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|
+|172|963034692|Streaks|Streaks|Streaks|Streaks|Streaks|Streaks|
+|173|964708975|古诗文网|古诗文网|古诗文网|古诗文网|古诗文网|古诗文网|
+|174|973482987|❌|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|
+|175|975683986|❌|Door Kickers|Door Kickers|Door Kickers|Door Kickers|Door Kickers|
+|176|982175678|❌|This War of Mine|This War of Mine|This War of Mine|This War of Mine|This War of Mine|
+|177|982227026|聚爆Implosion|❌|❌|❌|❌|❌|
+|178|992047786|Analog Wedding|Analog Wedding|Analog Wedding|Analog Wedding|Analog Wedding|Analog Wedding|
+|179|998437582|法语背单词 - 法语单词记忆工具|法语背单词 - 法语单词记忆工具|法语背单词 - 法语单词记忆工具|法语背单词 - 法语单词记忆工具|法语背单词 - 法语单词记忆工具|法语背单词 - 法语单词记忆工具|
+|180|1010311475|QuickBend: Conduit Bending|QuickBend: Conduit Bending|QuickBend: Conduit Bending|QuickBend: Conduit Bending|QuickBend: Conduit Bending|QuickBend: Conduit Bending|
+|181|1012298403|❌|Don't Starve: Pocket Edition|Don't Starve: Pocket Edition|Don't Starve: Pocket Edition|Don't Starve: Pocket Edition|Don't Starve: Pocket Edition|
+|182|1023146677|❌|Five Nights at Freddy's 4|Five Nights at Freddy's 4|Five Nights at Freddy's 4|Five Nights at Freddy's 4|Five Nights at Freddy's 4|
+|183|1028950091|贪婪洞窟：猿神降临|貪婪洞窟：猿神降临|貪婪洞窟：猿神降临|貪婪洞窟：猿神降临|The Greedy Cave|The Greedy Cave|
+|184|1029932207|❌|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|
+|185|1035219553|Analog London|Analog London|Analog London|Analog London|Analog London|Analog London|
+|186|1035219562|Analog Paris|Analog Paris|Analog Paris|Analog Paris|Analog Paris|Analog Paris|
+|187|1065360416|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|
+|188|1065599938|❌|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|
+|189|1077639630|说剑The Swords|❌|❌|❌|❌|❌|
+|190|1093131935|❌|Incredibox|Incredibox|Incredibox|Incredibox|Incredibox|
+|191|1094038347|❌|Only You Are Here|Only You Are Here|Only You Are Here|Only You Are Here|Only You Are Here|
+|192|1095903651|【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|
+|193|1099088440|火柴人联盟2|火柴人联盟2|火柴人联盟2|火柴人联盟2|❌|❌|
+|194|1108479411|❌|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Racing Games|
+|195|1110646984|地下城堡2: 黑暗觉醒|❌|❌|❌|❌|❌|
+|196|1111420122|❌|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat Monitor|Hear My Baby Heartbeat App|
+|197|1112429079|物种起源|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|
+|198|1113736426|❌|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|
+|199|1118115766|❌|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|
+|200|1121484538|❌|箱庭鐵道物語|箱庭鐵道物語|箱庭鐵道物語|Station Manager|Station Manager|
+|201|1128464707|❌|Death Road to Canada|Death Road to Canada|Death Road to Canada|Death Road to Canada|Death Road to Canada|
+|202|1129429340|RaceChrono Pro|RaceChrono Pro|RaceChrono Pro|RaceChrono Pro|RaceChrono Pro|RaceChrono Pro|
+|203|1134805859|迷失岛|迷失島|迷失島|迷失島|Isoland|Isoland|
+|204|1137257203|Namaz Vakti Pro (Reklamsız)|Namaz Vakti Pro (Reklamsız)|Namaz Vakti Pro (Reklamsız)|Namaz Vakti Pro (Reklamsız)|Muslim Prayer Times Pro, Adhan|Muslim Prayer Times Pro, Adhan|
+|205|1142016085|❌|Rusty Lake: Roots|Rusty Lake: Roots|Rusty Lake: Roots|Rusty Lake: Roots|Rusty Lake: Roots|
+|206|1160608318|Air Traffic Control - Live ATC|Air Traffic Control - Live ATC|Air Traffic Control - Live ATC|Air Traffic Control - Live ATC|Air Traffic Control - Live ATC|Air Traffic Control - Live ATC|
+|207|1166143148|❌|暴力街區2|暴力街區2|暴力街區2|Brutal Street 2|Brutal Street 2|
+|208|1169282239|活下去-丧尸题材末日生存冒险游戏|❌|❌|❌|❌|❌|
+|209|1184204602|ProMovie + 专业摄像机|ProMovie + 專業攝像機|ProMovie + 專業攝像機|ProMovie + 專業攝像機|ProMovie Recorder +|ProMovie Recorder +|
+|210|1187265767|❌|Monument Valley 2|Monument Valley 2|Monument Valley 2|Monument Valley 2|Monument Valley 2|
+|211|1189781891|❌|Five Nights at Freddy's: SL|Five Nights at Freddy's: SL|Five Nights at Freddy's: SL|Five Nights at Freddy's: SL|Five Nights at Freddy's: SL|
+|212|1195035357|❌|地牢防禦 : 勇士的侵入|地牢防禦 : 勇士的侵入|地牢防禦 : 勇士的侵入|Dungeon Defense : The Gate|Dungeon Defense : The Gate|
+|213|1217732174|TA - 一对一聊天，遇见对的人|❌|❌|❌|❌|❌|
+|214|1237692856|Gudak Cam|Gudak Cam|Gudak Cam|Gudak Cam|Gudak Cam|Gudak Cam|
+|215|1239299402|❌|Street Fighter IV CE|Street Fighter IV CE|Street Fighter IV CE|Street Fighter IV CE|Street Fighter IV CE|
+|216|1241383990|Baby Sensory Signbook|Baby Sensory Signbook|Baby Sensory Signbook|Baby Sensory Signbook|Baby Sensory Signbook|Baby Sensory Signbook|
+|217|1247397901|❌|奧德瑪|奧德瑪|奧德瑪|Oddmar|Oddmar|
+|218|1248033433|❌|王國保衛戰：復仇|王國保衛戰：復仇|王國保衛戰：復仇|Kingdom Rush Vengeance TD Game|Kingdom Rush Vengeance TD|
+|219|1249864455|❌|Peace, Death!|Peace, Death!|Peace, Death!|Peace, Death!|Peace, Death!|
+|220|1250144822|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|
+|221|1259067036|❌|發現動物公園|發現動物公園|發現動物公園|Wild Park Manager|Wild Park Manager|
+|222|1262474519|❌|Monoposto|Monoposto|Monoposto|Monoposto|Monoposto|
+|223|1264608487|❌|Driving Zone: Germany Pro|Driving Zone: Germany Pro|Driving Zone: Germany Pro|Driving Zone: Germany Pro|Driving Zone: Germany Pro|
+|224|1290687550|❌|Cytus II|Cytus II|Cytus II|Cytus II|Cytus II|
+|225|1291429551|❌|60 Parsecs!|60 Parsecs!|60 Parsecs!|60 Parsecs!|60 Parsecs!|
+|226|1291730054|❌|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|
+|227|1296085645|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|
+|228|1298544927|❌|❌|❌|❌|My Child Lebensborn|My Child Lebensborn|
+|229|1303222868|Paprika食谱管理3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|
+|230|1312534841|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|
+|231|1329434099|乱斗堂3|❌|❌|❌|❌|❌|
+|232|1330314351|微剪辑-微视频编辑助手|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|
+|233|1336793944|❌|勇敢的哈克|勇敢的哈克|勇敢的哈克|HAAK|HAAK|
+|234|1339516665|奥特曼传奇英雄VIP版|❌|❌|❌|❌|❌|
+|235|1351652600|❌|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|
+|236|1359107338|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|
+|237|1359652100|❌|DungeonMaker|DungeonMaker|DungeonMaker|Dungeon Maker : Dark Lord|Dungeon Maker : Dark Lord|
+|238|1391339323|❌|Zaptiye|Zaptiye|Zaptiye|Zaptiye|Zaptiye|
+|239|1392608717|❌|Papa's Scooperia To Go!|Papa's Scooperia To Go!|Papa's Scooperia To Go!|Papa's Scooperia To Go!|Papa's Scooperia To Go!|
+|240|1406710800|❌|Stardew Valley|Stardew Valley|Stardew Valley|Stardew Valley|Stardew Valley|
+|241|1435004182|❌|❌|❌|❌|❌|Hermes: KAYIP|
+|242|1436429074|FILCA - SLR Film Camera|FILCA - SLR Film Camera|FILCA - SLR Film Camera|FILCA - SLR Film Camera|FILCA - Vintage Film Camera|FILCA - SLR Film Camera|
+|243|1437096541|❌|Rush Rally 3|Rush Rally 3|Rush Rally 3|Rush Rally 3|Rush Rally 3|
+|244|1438245901|❌|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|
+|245|1439187947|❌|Rebel Inc. (反叛公司)|Rebel Inc. (反叛公司)|Rebel Inc. (反叛公司)|Rebel Inc.|Rebel Inc.|
+|246|1439881811|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|
+|247|1441969889|❌|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|
+|248|1442776789|❌|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|Pirates Outlaws|Pirates Outlaws|
+|249|1444761746|❌|RFS - Real Flight Simulator|RFS - Real Flight Simulator|RFS - Real Flight Simulator|RFS - Real Flight Simulator|RFS - Real Flight Simulator|
+|250|1449893235|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|
+|251|1450064785|山林日志|山林日誌|山林日誌|山林日誌|Hiking Logger|❌|
+|252|1450144092|❌|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|
+|253|1451873044|❌|Papa's Wingeria To Go!|Papa's Wingeria To Go!|Papa's Wingeria To Go!|Papa's Wingeria To Go!|Papa's Wingeria To Go!|
+|254|1453838527|❌|Age of History II|Age of History II|Age of History II|Age of History II|Age of History II|
+|255|1455781522|❌|FNaF 6: Pizzeria Simulator|FNaF 6: Pizzeria Simulator|FNaF 6: Pizzeria Simulator|FNaF 6: Pizzeria Simulator|FNaF 6: Pizzeria Simulator|
+|256|1459749978|List背单词|List背单词|List背单词|List背单词|List背单词|List背单词|
+|257|1461751938|❌|Purple Place - Classic Games|Purple Place - Classic Games|Purple Place - Classic Games|Purple Place - Classic Games|Purple Place - Classic Games|
+|258|1464850921|每日英语阅读|每日英语阅读|每日英语阅读|每日英语阅读|每日英语阅读|每日英语阅读|
+|259|1474716211|❌|60 Seconds! Reatomized|60 Seconds! Reatomized|60 Seconds! Reatomized|60 Seconds! Reatomized|60 Seconds! Reatomized|
+|260|1477203766|❌|Total War: MEDIEVAL II|Total War: MEDIEVAL II|Total War: MEDIEVAL II|Total War: MEDIEVAL II|Total War: MEDIEVAL II|
+|261|1477854253|大家的日本语 初级 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|
+|262|1477966166|❌|❌|MONOPOLY: The Board Game|MONOPOLY: The Board Game|MONOPOLY: The Board Game|MONOPOLY: The Board Game|
+|263|1477991646|❌|王國：兩個皇冠|王國：兩個皇冠|王國：兩個皇冠|Kingdom Two Crowns|Kingdom Two Crowns|
+|264|1479608271|❌|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|
+|265|1480844881|❌|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|
+|266|1481006495|倒计时应用 Countdown App|倒計時應用 Countdown App|倒計時應用 Countdown App|倒計時應用 Countdown App|Countdown App|Countdown App|
+|267|1482339363|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|
+|268|1484622401|❌|Religion inc.上帝模擬器|Religion inc.上帝模擬器|Religion inc.上帝模擬器|Religion inc. God Simulator|Religion inc. God Simulator|
+|269|1485875855|❌|❌|❌|❌|❌|Başkanlar|
+|270|1491530147|❌|❌|❌|Slay the Spire|Slay the Spire|Slay the Spire|
+|271|1497120981|LUCH: Photo Effects & Filters|LUCH — Filters & Bokeh Effect|LUCH — Filters & Bokeh Effect|LUCH — Filters & Bokeh Effect|LUCH: Photo Effects & Filters|LUCH: Photo Effects & Presets|
+|272|1499849161|❌|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|
+|273|1500098830|❌|視頻大師 Pro|視頻大師 Pro|視頻大師 Pro|❌|Video Master Pro|
+|274|1503486239|❌|大富翁10|大富翁10|大富翁10|Richman10|Richman10|
+|275|1504662191|❌|❌|❌|❌|❌|Monarşi|
+|276|1504760106|❌|Eco inc. Earth Planet|Eco inc. Earth Planet|Eco inc. Earth Planet|Eco inc.|Eco inc.|
+|277|1504952058|❌|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|
+|278|1505636751|❌|TeleGuard|TeleGuard|TeleGuard|TeleGuard|TeleGuard|
+|279|1509344823|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|
+|280|1512751689|❌|The Game of Life 2|The Game of Life 2|The Game of Life 2|The Game of Life 2|The Game of Life 2|
+|281|1515215584|RakugakiAR|RakugakiAR|RakugakiAR|RakugakiAR|RakugakiAR|RakugakiAR|
+|282|1515382132|❌|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|
+|283|1516531425|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|
+|284|1517349382|群雄时代 - 单机三国战棋策略游戏|❌|❌|❌|❌|❌|
+|285|1518841947|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|
+|286|1519386476|❌|MiniGames - 觀看遊戲街機|MiniGames - 觀看遊戲街機|MiniGames - 觀看遊戲街機|MiniGames - Watch Games Arcade|MiniGames - Watch Games Arcade|
+|287|1523633394|❌|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants: BfBB|
+|288|1525735418|❌|❌|❌|❌|❌|Mesih|
+|289|1528199331|❌|崩潰大陸 2|崩潰大陸 2|崩潰大陸 2|Crashlands 2|Crashlands 2|
+|290|1531462734|桂林字牌手机版|桂林字牌手机版|桂林字牌手机版|桂林字牌手机版|❌|❌|
+|291|1531654315|❌|画師牆紙|画師牆紙|画師牆紙|MayLikeWallpaper - best hiapk|MayLikeWallpaper - best hiapk|
+|292|1536762482|Spirit Talker ®|Spirit Talker ®|Spirit Talker ®|Spirit Talker ®|Spirit Talker ®|Spirit Talker ®|
+|293|1544190466|避难所：生存|❌|❌|❌|❌|❌|
+|294|1544412558|航海奇闻|❌|❌|❌|❌|❌|
+|295|1544722749|拣爱|❌|❌|❌|❌|❌|
+|296|1548185534|❌|Musical Maze|Musical Maze|Musical Maze|Musical Maze|Musical Maze|
+|297|1551207253|❌|Papa's Mocharia To Go!|Papa's Mocharia To Go!|Papa's Mocharia To Go!|Papa's Mocharia To Go!|Papa's Mocharia To Go!|
+|298|1551263854|打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业|❌|❌|❌|❌|❌|
+|299|1555857229|2048 for watch|2048_watch|2048_watch|2048_watch|2048_watch|2048_watch|
+|300|1556671822|合成大西瓜 for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|
+|301|1559869450|❌|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|❌|❌|
+|302|1562560561|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|
+|303|1563932741|❌|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|
+|304|1569963107|❌|❌|❌|❌|❌|Aylık Distopya|
+|305|1576329230|传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说|❌|❌|❌|❌|❌|
+|306|1576763082|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|
+|307|1577392165|❌|Monster Train|Monster Train|Monster Train|Monster Train|Monster Train|
+|308|1578203914|电子宠物机|电子宠物机|电子宠物机|电子宠物机|Peggy Cat - A Virtual Pet|Peggy Cat - A Virtual Pet|
+|309|1581640677|❌|Football Referee Simulator|Football Referee Simulator|Football Referee Simulator|Football Referee Simulator|Football Referee Simulator|
+|310|1587674627|爱琳诗篇:异世界冒险 少女放置卡牌手游|愛琳詩篇:少女養成系 休閒放置二次元卡牌手遊|愛琳詩篇:少女養成系 休閒放置二次元卡牌手遊|愛琳詩篇:少女養成系 休閒放置二次元卡牌手遊|❌|❌|
+|311|1590622755|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|
+|312|1591627945|❌|Papa's Cluckeria To Go!|Papa's Cluckeria To Go!|Papa's Cluckeria To Go!|Papa's Cluckeria To Go!|Papa's Cluckeria To Go!|
+|313|1592505377|❌|Wreckfest|Wreckfest|Wreckfest|Wreckfest|Wreckfest|
+|314|1592660274|❌|天際牧場物語-模擬經營自己的牧場|天際牧場物語-模擬經營自己的牧場|天際牧場物語-模擬經營自己的牧場|天际牧场物语-模拟经营自己的牧场|天际牧场物语-模拟经营自己的牧场|
+|315|1595739885|❌|❌|Shadow Hunter: Special Edition|Shadow Hunter: Special Edition|Shadow Hunter: Special Edition|Shadow Hunter: Special Edition|
+|316|1596736236|❌|❌|Rovio Classics: Angry Birds|Rovio Classics: Angry Birds|Red's First Flight|Red's First Flight|
+|317|1600307023|❌|Dealer's Life 2|Dealer's Life 2|Dealer's Life 2|Dealer's Life 2|Dealer's Life 2|
+|318|1603421749|传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜|❌|❌|❌|❌|❌|
+|319|1603553413|手表浏览器|手表浏览器|手表浏览器|手表浏览器|手表浏览器|手表浏览器|
+|320|1606405358|❌|Dealer's Life|Dealer's Life|Dealer's Life|Dealer's Life|Dealer's Life|
+|321|1609910024|❌|泰拉瑞亞|泰拉瑞亞|泰拉瑞亞|❌|❌|
+|322|1610947489|❌|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|
+|323|1612952507|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|
+|324|1614200925|部落与弯刀|❌|❌|❌|❌|❌|
+|325|1622869542|❌|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|
+|326|1624326561|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|
+|327|1631859420|❌|After Inc.|After Inc.|After Inc.|After Inc.|After Inc.|
+|328|1631867592|❌|珍寶機場物語|珍寶機場物語|珍寶機場物語|Jumbo Airport Story|Jumbo Airport Story|
+|329|1633243177|Ableton Note|Ableton Note|Ableton Note|Ableton Note|Ableton Note|Ableton Note|
+|330|1633253544|消除星星 - 益智的星星消消乐经典手表游戏|消除星星-益智的星星消消樂經典手錶消除遊戲|消除星星-益智的星星消消樂經典手錶消除遊戲|消除星星-益智的星星消消樂經典手錶消除遊戲|Pop The Stars Game For Watch|Pop The Stars Game For Watch|
+|331|1636342413|SSH Term Pro|SSH Term Pro|SSH Term Pro|SSH Term Pro|SSH Term Pro|SSH Term Pro|
+|332|1642601792|❌|The Past Within|The Past Within|The Past Within|The Past Within|The Past Within|
+|333|1642733080|❌|DungeonSquad|DungeonSquad|DungeonSquad|DungeonSquad|DungeonSquad|
+|334|1643199620|Any Text · Widgets|Any Text · Widgets|Any Text · Widgets|Any Text · Widgets|Any Text · Widgets|Any Text · Widgets|
+|335|1659271912|❌|東京電車２|東京電車２|東京電車２|Tokyo Train 2|Tokyo Train 2|
+|336|1659316190|钢铁战队(R)|❌|❌|❌|❌|❌|
+|337|1662217862|Wipr 2|Wipr 2|Wipr 2|Wipr 2|Wipr 2|Wipr 2|
+|338|1665706687|❌|Underground Blossom|Underground Blossom|Underground Blossom|Underground Blossom|Underground Blossom|
+|339|1668755109|❌|Brotato:Premium|Brotato:Premium|Brotato:Premium|Brotato:Premium|Brotato:Premium|
+|340|1669877091|光明记忆：无限|Bright Memory: Infinite|Bright Memory: Infinite|Bright Memory: Infinite|Bright Memory: Infinite|Bright Memory: Infinite|
+|341|1671505630|迷失岛外传南瓜镇|❌|❌|❌|❌|❌|
+|342|6737795387|鬼谷八荒|❌|❌|❌|❌|❌|
+|343|6448477521|BiuBiuBiu - 空气枪|PewPewPew - Fingergun|PewPewPew - Fingergun|PewPewPew - Fingergun|PewPewPew - Fingergun|PewPewPew - Fingergun|
+|344|6472380172|Kino - Pro Video Camera|Kino - Pro Video Camera|Kino - Pro Video Camera|Kino - Pro Video Camera|Kino - Pro Video Camera|Kino - Pro Video Camera|
+|345|6443786927|全面憨憨战争模拟器|❌|❌|❌|❌|❌|
+|346|6502489827|大侠立志传|❌|❌|❌|❌|❌|
+|347|6742129099|群英打三国-超休闲国风放置卡牌巅峰巨作|❌|❌|❌|❌|❌|
+|348|6443916065|WiFi万能钥匙专业版-无线热点密码安全万能wi-fi管家|WiFi萬能鑰匙專業版-無線熱點密碼安全萬能wi-fi管家|WiFi萬能鑰匙專業版-無線熱點密碼安全萬能wi-fi管家|WiFi萬能鑰匙專業版-無線熱點密碼安全萬能wi-fi管家|❌|❌|
+|349|6737512463|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|
+|350|6462190343|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|
+|351|6444782083|王国保卫战4|❌|❌|❌|❌|❌|
+|352|6450148077|干中学！偷偷|干中学！偷偷|干中学！偷偷|干中学！偷偷|❌|干中学！偷偷|
+|353|6449766387|合成大西瓜 : 专为手表设计的合成类休闲解压小游戏|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|
+|354|6740246950|花皮 - 无面具素颜社区/解压/释放/正念|花皮 - 无面具素颜社区/解压/释放/正念|花皮 - 无面具素颜社区/解压/释放/正念|花皮 - 无面具素颜社区/解压/释放/正念|花皮 - 无面具素颜社区/解压/释放/正念|花皮 - 无面具素颜社区/解压/释放/正念|
+|355|6550914957|打造世界-经典沙盒建造|❌|❌|❌|❌|❌|
+|356|6742537442|努力活着 - 自由人生重开模拟器|❌|❌|❌|❌|❌|
+|357|6741474933|Berryfilm|Berryfilm|Berryfilm|Berryfilm|Berryfilm|Berryfilm|
+|358|6742221550|魔卡棋旅|❌|❌|❌|❌|❌|
+|359|6738767315|便利店开业日记|❌|❌|❌|❌|❌|
+|360|6737987084|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|CatLight Pro: Selfie Light Cam|CatLight Pro: Selfie Light Cam|
+|361|6446607609|佛系传奇:君王天下|❌|❌|❌|❌|❌|
+|362|6499512726|浮岛冒险|❌|❌|❌|❌|❌|
+|363|6483210281|生物原型|❌|❌|❌|❌|❌|
+|364|6738767322|森丘露营地|❌|❌|❌|❌|❌|
+|365|6737434454|暗夜地城 - 单机暗黑刷装备挂机游戏|❌|❌|❌|❌|❌|
+|366|6743117370|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|
+|367|6740705851|手表变身器：时空驱动器 - iWatch发声器|手錶變身器：時空驅動器 - iWatch發聲器|手錶變身器：時空驅動器 - iWatch發聲器|手錶變身器：時空驅動器 - iWatch發聲器|Henshin Hero - Game for watch|Henshin Hero - Game for watch|
+|368|6743487416|黄金矿工 for Watch - 经典复刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|Gold Miner - Watch Games|Gold Miner - Watch Games|
+|369|6478843819|❌|家園、異星與獵人|家園、異星與獵人|家園、異星與獵人|Home, Planet & Hunters|Home, Planet & Hunters|
+|370|6502453075|❌|Balatro|Balatro|Balatro|Balatro|Balatro|
+|371|6670749900|❌|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|
+|372|6711347049|❌|大俠立志傳|大俠立志傳|大俠立志傳|Hero's Adventure|Hero's Adventure|
+|373|6547834967|❌|動物森友會 口袋露營廣場 集合版|動物森友會 口袋露營廣場 集合版|動物森友會 口袋露營廣場 集合版|Animal Crossing: Pocket Camp C|❌|
+|374|6452276410|❌|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|
+|375|6471479898|猫历 - 可爱清新日历和日程表提醒事项|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：Schedule Planner|Cat Calendar：Schedule Planner|
+|376|6738371720|❌|銀盤滑冰場物語|銀盤滑冰場物語|銀盤滑冰場物語|Skating Rink Story|Skating Rink Story|
+|377|6456751953|❌|ChatTan - AI Bot|ChatTan - AI Bot|ChatTan - AI Bot|ChatTan - AI Bot|ChatTan - AI Bot|
+|378|6469114836|❌|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|Suika Game-Aladdin X|Suika Game-Aladdin X|
+|379|6743648252|❌|終焉車站|終焉車站|終焉車站|Saihate Station|Saihate Station|
+|380|6738636631|❌|烈焰同盟|❌|烈焰同盟|❌|❌|
+|381|6480082872|Dumbify|Dumbify|Dumbify|Dumbify|Dumbify|Dumbify|
+|382|6738769251|❌|METRO QUESTER - Hack & Slash|METRO QUESTER - Hack & Slash|METRO QUESTER - Hack & Slash|METRO QUESTER - Hack & Slash|❌|
+|383|6621207768|❌|聖劍同盟|❌|聖劍同盟|❌|❌|
+|384|6743420230|❌|夢魘騎士團|❌|夢魘騎士團|❌|❌|
+|385|6736642117|櫻花最前線 - 2025年預測|櫻花最前線 - 2025年預測|❌|櫻花最前線 - 2025年預測|❌|❌|
+|386|6498879077|❌|平安古都物語|平安古都物語|平安古都物語|Heian City Story|Heian City Story|
+|387|6738636602|❌|光輝同盟|❌|光輝同盟|❌|❌|
+|388|6504323939|❌|勇者鬥惡龍X　覺醒的五種族　OFFLINE|勇者鬥惡龍X　覺醒的五種族　OFFLINE|勇者鬥惡龍X　覺醒的五種族　OFFLINE|❌|❌|
+|389|6505046490|❌|摔角擂臺物語|摔角擂臺物語|摔角擂臺物語|Pro Wrestler Story|Pro Wrestler Story|
+|390|6443723657|❌|filmhwa (필름화) - 화민 필터|filmhwa (필름화) - 화민 필터|filmhwa (필름화) - 화민 필터|filmhwa - @hwa.min's filter|filmhwa - @hwa.min's filter|
+|391|6743342476|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|
+|392|6742773178|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|
+|393|6476663854|❌|Solo Mini Golf|Solo Mini Golf|Solo Mini Golf|Solo Mini Golf|Solo Mini Golf|
+|394|6670469064|❌|8號出口|8號出口|8號出口|The Exit 8|The Exit 8|
+|395|6447508479|❌|暖雪|暖雪|❌|Warm Snow|Warm Snow|
+|396|6470958985|❌|完美的一天 - 無限流劇情向解謎游戲|完美的一天 - 無限流劇情向解謎游戲|完美的一天 - 無限流劇情向解謎游戲|A Perfect Day: Go back to 1999|A Perfect Day: Go back to 1999|
+|397|6445875391|叶分贝-噪音分贝检测|叶分贝-噪音分贝检测|叶分贝-噪音分贝检测|叶分贝-噪音分贝检测|叶分贝-噪音分贝检测|叶分贝-噪音分贝检测|
+|398|6443923265|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|
+|399|6739839815|❌|RogueVana|RogueVana|RogueVana|RogueVana|RogueVana|
+|400|6505052301|❌|碧海蒼雲錄|碧海蒼雲錄|碧海蒼雲錄|❌|❌|
+|401|6642649684|❌|韭菜投資公司2|韭菜投資公司2|韭菜投資公司2|Leek Inc. 2|Leek Inc. 2|
+|402|6738784092|❌|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|
+|403|6450724928|❌|租戶賭財運|租戶賭財運|租戶賭財運|Luck be a Landlord|Luck be a Landlord|
+|404|6740814979|❌|Follow the meaning|Follow the meaning|Follow the meaning|Follow the meaning|Follow the meaning|
+|405|6456886656|❌|Layla|Layla|Layla|Layla|Layla|
+|406|6498623389|Folium|Folium|Folium|Folium|Folium|Folium|
+|407|6738342400|Tampermonkey|Tampermonkey|Tampermonkey|Tampermonkey|Tampermonkey|Tampermonkey|
+|408|6744355637|Schedule I Drug Dealer|Schedule I Drug Dealer|Schedule I Drug Dealer|Schedule I Drug Dealer|Schedule I Drug Dealer|Schedule I Drug Dealer|
+|409|6476064417|❌|Knight & Dragon III|Knight & Dragon III|Knight & Dragon III|Knight & Dragon III|Knight & Dragon III|
+|410|6463710522|❌|勇者的傳奇|勇者的傳奇|勇者的傳奇|勇者的传奇|勇者的传奇|
+|411|6468572535|❌|洞窟冒險團物語|洞窟冒險團物語|洞窟冒險團物語|Cavern Adventurers|Cavern Adventurers|
+|412|6471947612|❌|召喚騎士團|召喚騎士團|召喚騎士團|召喚騎士團|召喚騎士團|
+|413|6480501528|TODO：猫咪待办事项 & 提醒事项 & 备忘录|Cat Todo - 備忘錄 & 待辦事項 & 記事本|Cat Todo - 備忘錄 & 待辦事項 & 記事本|Cat Todo - 備忘錄 & 待辦事項 & 記事本|Cat Todo：To do list & Reminder|Cat Todo：To do list & Reminder|
+|414|6714479204|❌|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|
+|415|6740349666|❌|Backyard Baseball '97|Backyard Baseball '97|Backyard Baseball '97|Backyard Baseball '97|Backyard Baseball '97|
+|416|6473097811|❌|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|
+|417|6463616555|❌|Ticket to Ride® The Board Game|Ticket to Ride® The Board Game|Ticket to Ride® The Board Game|Ticket to Ride® The Board Game|Ticket to Ride® The Board Game|
+|418|6477835115|❌|Papa's Paleteria To Go!|Papa's Paleteria To Go!|Papa's Paleteria To Go!|Papa's Paleteria To Go!|Papa's Paleteria To Go!|
+|419|6449003064|Goblin Tools|Goblin Tools|Goblin Tools|Goblin Tools|Goblin Tools|Goblin Tools|
+|420|6670199903|❌|StreetPro Racing|StreetPro Racing|StreetPro Racing|StreetPro Racing|StreetPro Racing|
+|421|6505058041|❌|❌|❌|❌|❌|QUAKELINE|
+|422|6744445187|❌|The Platform - Survive|The Platform - Survive|The Platform - Survive|The Platform - Survive|The Platform - Survive|
+|423|6469419567|❌|Overwinter Survival|Overwinter Survival|Overwinter Survival|Overwinter Survival|Overwinter Survival|
+|424|6444400410|❌|Farming Simulator 23|Farming Simulator 23|Farming Simulator 23|Farming Simulator 23 Mobile|Farming Simulator 23 Mobile|
+|425|6474616013|❌|Trump Is Back|Trump Is Back|Trump Is Back|Trump Is Back|Trump Is Back|
+|426|6471594918|Just a Simple Image Converter|Just a Simple Image Converter|Just a Simple Image Converter|Just a Simple Image Converter|Just a Simple Image Converter|Just a Simple Image Converter|
+|427|6686394372|❌|Age of History 3|Age of History 3|Age of History 3|Age of History 3|Age of History 3|
+|428|6740471827|手表经典迷宫游戏|手錶經典迷宮遊戲|手錶經典迷宮遊戲|手錶經典迷宮遊戲|Classic Maze Game for Watch|Classic Maze Game for Watch|
 |429|1481853033|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|
 |430|1581140954|Noir - 为Safari添加深色模式|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|
 |431|1592917505|Noir – 为Safari添加深色模式|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|
@@ -661,7 +661,7 @@
 |588|1009747025|zFuse - 影音播放器|zFuse - 影片播放器|zFuse - 影片播放器|zFuse - 影片播放器|zFuse - Video Player|zFuse - Video Player|
 |589|1054505347|zFuse - 视频播放器|zFuse - 視頻播放器|zFuse - 視頻播放器|zFuse - 視頻播放器|zFuse - Media Player|zFuse - Media Player|
 |590|1659622164|VidHub - 高清影片视频播放器，快速播放云盘网盘|VidHub -Video Library & Player|VidHub -Video Library & Player|VidHub -Video Library & Player|VidHub -Video Library & Player|VidHub -Video Library & Player|
-|591|1136220934|Infuse - 智能视频播放器|Infuse - 智能視頻播放器|Infuse - 智能視頻播放器|Infuse - 智能視頻播放器|Infuse • Video Player|Infuse • Video Player|
+|591|1136220934|Infuse - 智能视频播放器|Infuse - 智能視頻播放器|Infuse - 智能視頻播放器|Infuse - 智能視頻播放器|Infuse|Infuse|
 |592|1476649036|帕斯卡契约|Pascal's Wager|Pascal's Wager|Pascal's Wager|Pascal's Wager|Pascal's Wager|
 |593|1635315427|暖雪|❌|❌|❌|❌|❌|
 |594|1523446532|重生细胞|❌|❌|❌|❌|❌|
