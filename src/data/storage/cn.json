@@ -11731,7 +11731,7 @@
     ]
   },
   "1136220934": {
-    "name": "Infuse - 智能视频播放器",
+    "name": "Infuse",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
@@ -13774,6 +13774,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745330541207,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        },
         {
           "timestamp": 1745328692670,
           "price": 22,
@@ -27857,6 +27874,17 @@
       "Hello World!": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745330541207,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743429744487,

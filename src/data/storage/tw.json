@@ -13100,8 +13100,8 @@
   "994157520": {
     "name": "1942 Pacific Front Premium",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 85,
+      "formattedPrice": "$85.00",
       "25,000資金": "$120.00",
       "60,000資金": "$320.00",
       "125,000資金": "$590.00",
@@ -13119,6 +13119,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745330541207,
+          "price": 85,
+          "formattedPrice": "$85.00",
+          "inAppPurchases": {
+            "25,000資金": "$120.00",
+            "60,000資金": "$320.00",
+            "125,000資金": "$590.00",
+            "700,000資金": "$2,990.00",
+            "325,000資金": "$1,490.00"
+          }
+        },
         {
           "timestamp": 1745328692670,
           "price": 30,
@@ -15126,7 +15138,7 @@
     ]
   },
   "1136220934": {
-    "name": "Infuse - 智能視頻播放器",
+    "name": "Infuse",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
@@ -25706,7 +25718,17 @@
       "旅行家": "$320.00",
       "980玉符": "$490.00",
       "1280玉符": "$690.00",
-      "1980玉符": "$990.00"
+      "1980玉符": "$990.00",
+      "68金玉": "$330.00",
+      "30金玉": "$170.00",
+      "6金玉": "$33.00",
+      "198金玉": "$990.00",
+      "一鍵買斷禮包": "$150.00",
+      "648金玉": "$3,290.00",
+      "尊享月俸": "$170.00",
+      "328金玉": "$1,690.00",
+      "戰姬": "$2,990.00",
+      "月俸": "$90.00"
     },
     "minPriceInfo": {
       "price": 33,
@@ -25720,10 +25742,37 @@
       "旅行家": "$320.00",
       "980玉符": "$490.00",
       "1280玉符": "$690.00",
-      "1980玉符": "$990.00"
+      "1980玉符": "$990.00",
+      "68金玉": "$330.00",
+      "30金玉": "$170.00",
+      "6金玉": "$33.00",
+      "198金玉": "$990.00",
+      "一鍵買斷禮包": "$150.00",
+      "648金玉": "$3,290.00",
+      "尊享月俸": "$170.00",
+      "328金玉": "$1,690.00",
+      "戰姬": "$2,990.00",
+      "月俸": "$90.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1745330541207,
+          "price": 33,
+          "formattedPrice": "$33.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "一鍵買斷禮包": "$150.00",
+            "648金玉": "$3,290.00",
+            "尊享月俸": "$170.00",
+            "328金玉": "$1,690.00",
+            "戰姬": "$2,990.00",
+            "月俸": "$90.00"
+          }
+        },
         {
           "timestamp": 1745328692670,
           "price": 33,
@@ -28064,7 +28113,13 @@
       "Magical Girl Outfit": "$30.00",
       "Skyscraper Avatar": "$30.00",
       "Foxman Outfit": "$30.00",
-      "Super Hero World Bundle": "$290.00"
+      "Super Hero World Bundle": "$290.00",
+      "Haunted Hills World": "$150.00",
+      "Sweet Haven World": "$150.00",
+      "Fairytale Kingdom Bundle": "$290.00",
+      "Lunar Age Bundle": "$290.00",
+      "Haunted Hills Bundle": "$290.00",
+      "Fairytale Kingdom": "$150.00"
     },
     "minPriceInfo": {
       "price": 100,
@@ -28078,10 +28133,32 @@
       "Magical Girl Outfit": "$30.00",
       "Skyscraper Avatar": "$30.00",
       "Foxman Outfit": "$30.00",
-      "Super Hero World Bundle": "$290.00"
+      "Super Hero World Bundle": "$290.00",
+      "Haunted Hills World": "$150.00",
+      "Sweet Haven World": "$150.00",
+      "Fairytale Kingdom Bundle": "$290.00",
+      "Lunar Age Bundle": "$290.00",
+      "Haunted Hills Bundle": "$290.00",
+      "Fairytale Kingdom": "$150.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1745330541207,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "Haunted Hills World": "$150.00",
+            "Sweet Haven World": "$150.00",
+            "Fairytale Kingdom Bundle": "$290.00",
+            "The Ultimate Life Collection": "$690.00",
+            "Lunar Age Bundle": "$290.00",
+            "Haunted Hills Bundle": "$290.00",
+            "Fairytale Kingdom": "$150.00",
+            "Mothgirl Outfit": "$30.00",
+            "Tunneler Ship": "$30.00"
+          }
+        },
         {
           "timestamp": 1745328692670,
           "price": 100,
@@ -33210,6 +33287,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745330541207,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743429744487,

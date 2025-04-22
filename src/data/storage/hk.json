@@ -12988,8 +12988,8 @@
   "994157520": {
     "name": "1942 Pacific Front Premium",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "60,000資金": "HK$ 88.00",
       "700,000資金": "HK$ 688.00",
       "325,000資金": "HK$ 368.00",
@@ -13007,6 +13007,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745330541207,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "60,000資金": "HK$ 88.00",
+            "700,000資金": "HK$ 688.00",
+            "325,000資金": "HK$ 368.00",
+            "25,000資金": "HK$ 32.00",
+            "125,000資金": "HK$ 148.00"
+          }
+        },
         {
           "timestamp": 1745328692670,
           "price": 8,
@@ -14700,7 +14712,7 @@
     ]
   },
   "1136220934": {
-    "name": "Infuse - 智能視頻播放器",
+    "name": "Infuse",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
@@ -33684,6 +33696,17 @@
       "Hello World!": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745330541207,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743429744487,

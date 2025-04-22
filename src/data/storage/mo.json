@@ -10982,8 +10982,8 @@
   "994157520": {
     "name": "1942 Pacific Front Premium",
     "maxPriceInfo": {
-      "price": 0.9,
-      "formattedPrice": "USD 0.90",
+      "price": 2.49,
+      "formattedPrice": "USD 2.49",
       "700,000資金": "USD 89.99",
       "60,000資金": "USD 9.99",
       "325,000資金": "USD 45.99",
@@ -11001,6 +11001,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745330541207,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {
+            "700,000資金": "USD 89.99",
+            "60,000資金": "USD 9.99",
+            "325,000資金": "USD 45.99",
+            "25,000資金": "USD 3.99",
+            "125,000資金": "USD 18.99"
+          }
+        },
         {
           "timestamp": 1745328692670,
           "price": 0.9,
@@ -12603,7 +12615,7 @@
     ]
   },
   "1136220934": {
-    "name": "Infuse - 智能視頻播放器",
+    "name": "Infuse",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
@@ -27396,6 +27408,17 @@
       "Hello World!": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745330541207,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "甜蜜之家": "USD 0.99",
+            "Hello World!": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743429744487,
