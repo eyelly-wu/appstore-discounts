@@ -63,6 +63,314 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 318639200,
+    name: {
+      hk: 'Crush the Castle',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 325915322,
+    name: {
+      hk: 'BatteryFull + (Alarm)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 365729342,
+    name: {
+      hk: 'RacquetTune - String Tension',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 414469628,
+    name: {
+      tr: 'Face & Body Photo editor',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 459313476,
+    name: {
+      tr: 'Tenuto',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 478126577,
+    name: {
+      mo: 'Merriam-Webster Dictionary+',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 493493802,
+    name: {
+      hk: 'RhymeZone',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 555612465,
+    name: {
+      tw: '存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 564730202,
+    name: {
+      hk: 'Money Manager (Remove Ads)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 582584117,
+    name: {
+      tr: 'Solocator - GPS Field Camera',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 633600716,
+    name: {
+      hk: '432 Player',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 683353582,
+    name: {
+      hk: 'Hong Kong Taxi Cards',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 777310222,
+    name: {
+      hk: 'GoodReader PDF Editor & Viewer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 887877435,
+    name: {
+      hk: 'f8 镜头大师',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 908905093,
+    name: {
+      cn: 'Lumy - 太阳追踪器与黄金时刻',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 961339405,
+    name: {
+      tw: '監獄人生 RPG',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 994157520,
+    name: {
+      tr: '1942 Pacific Front Premium',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1048509287,
+    name: {
+      hk: '龍紀冒險棋',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1087099916,
+    name: {
+      hk: '鉛筆素描 高清版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1107320261,
+    name: {
+      hk: 'Splitter Critters',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1241909999,
+    name: {
+      tw: 'WorkOutDoors',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1293681293,
+    name: {
+      us: 'Pocket Build',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1330717186,
+    name: {
+      us: 'The Golf Tracer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1357651989,
+    name: {
+      hk: 'Tick Tock: A Tale for Two',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1385258906,
+    name: {
+      tw: 'Mindustry',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1402080820,
+    name: {
+      tw: 'This War of Mine: Stories',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1439262206,
+    name: {
+      hk: 'Root Board Game',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1450194251,
+    name: {
+      tr: 'Weight Loss in 28 Days',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1477229754,
+    name: {
+      tr: "Papa's Cheeseria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1514329124,
+    name: {
+      tw: 'Rusted Warfare - RTS',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1553055273,
+    name: {
+      tr: 'Chairgun Elite Ballistic Tool',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1573220858,
+    name: {
+      hk: '環球酒店大亨',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1580509302,
+    name: {
+      hk: '伊格利亞戰記',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1614771445,
+    name: {
+      hk: 'Rotaeno - 旋轉音律',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742396803,
+    name: {
+      cn: 'DaDaDaDa - 空气枪',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740943002,
+    name: {
+      cn: 'BaMai',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6743459503,
+    name: {
+      hk: '逐鹿',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6480251529,
+    name: {
+      hk: '體育集換卡製作專業版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6739179322,
+    name: {
+      hk: 'WristShorts for YouTube',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744837914,
+    name: {
+      tw: '塊塊愛消除-手錶遊戲經典快樂休閒益智',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6502623166,
+    name: {
+      tw: '金武江湖',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6468033830,
+    name: {
+      tw: '憶我: 一個性格測試遊戲',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738138603,
+    name: {
+      tw: '偶像之路终极版UltimateEdition',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6739185971,
+    name: {
+      us: 'Earnifi: Rent, Early Pay, Cash',
+    },
+    addType: 'auto',
+  },
+  {
     id: 284972998,
     name: {
       mo: 'SoundHound∞ 音樂識別搜尋器及播放器',
