@@ -209,6 +209,22 @@
     "history": [
       [
         {
+          "timestamp": 1745352145100,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Dance Pack Too": "$0.99",
+            "Tyrannosaurus Rex Skin Pack": "$0.99",
+            "Alien Pack": "$0.99",
+            "Retro Games SkinPack": "$0.99",
+            "Halloween Skin Pack": "$0.99",
+            "Holiday Skin Pack": "$0.99",
+            "Medieval Pack": "$0.99",
+            "Japanese Skin Pack": "$0.99",
+            "Ice Monster Skin Pack": "$0.99"
+          }
+        },
+        {
           "timestamp": 1745348533372,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -345,6 +361,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745352145100,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "1000 coins": "$0.99",
+            "10,000 coins": "$1.99",
+            "30,000 coins": "$2.99",
+            "1000 candies": "$0.99",
+            "500 eggs": "$0.99",
+            "10000 candies": "$2.99",
+            "5000 eggs": "$1.99",
+            "10,000 gold": "$0.99",
+            "100,000 gold": "$1.99",
+            "15000 eggs": "$2.99"
+          }
+        },
         {
           "timestamp": 1745348533372,
           "price": 1.99,
@@ -11129,6 +11162,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745352145100,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "1 Mo. Fongo Plus": "$9.99",
+            "$20 Credit": "$19.99",
+            "$10 Credit": "$9.99"
+          }
+        },
         {
           "timestamp": 1745348533372,
           "price": 4.99,
@@ -26328,7 +26378,13 @@
       "1935 Atlantic City": "$7.99",
       "Snowdrop Valley": "$7.99",
       "L.A. Monstropolis": "$7.99",
-      "New York 2121": "$7.99"
+      "New York 2121": "$7.99",
+      "Transylvania Marine Bundle": "$11.99",
+      "Paris Marine Bundle": "$11.99",
+      "Five Dice Bundle": "$14.99",
+      "Camille the Chameleon Token": "$9.99",
+      "Atlantis Marine Bundle": "$11.99",
+      "The Fire and Ice Bundle": "$4.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -26342,10 +26398,29 @@
       "1935 Atlantic City": "$7.99",
       "Snowdrop Valley": "$7.99",
       "L.A. Monstropolis": "$7.99",
-      "New York 2121": "$7.99"
+      "New York 2121": "$7.99",
+      "Transylvania Marine Bundle": "$11.99",
+      "Paris Marine Bundle": "$11.99",
+      "Five Dice Bundle": "$14.99",
+      "Camille the Chameleon Token": "$9.99",
+      "Atlantis Marine Bundle": "$11.99",
+      "The Fire and Ice Bundle": "$4.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745352145100,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Transylvania Marine Bundle": "$11.99",
+            "Paris Marine Bundle": "$11.99",
+            "Five Dice Bundle": "$14.99",
+            "Camille the Chameleon Token": "$9.99",
+            "Atlantis Marine Bundle": "$11.99",
+            "The Fire and Ice Bundle": "$4.99"
+          }
+        },
         {
           "timestamp": 1745328692670,
           "price": 4.99,
