@@ -63,6 +63,147 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 314192799,
+    name: {
+      tr: 'Acrobits Softphone',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 466388978,
+    name: {
+      tr: 'My Contacts Backup Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 512142109,
+    name: {
+      tr: 'Max Payne Mobile',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 904737816,
+    name: {
+      hk: '王國保衛戰：起源 Kingdom Rush Origins',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 952625011,
+    name: {
+      hk: '每日精選-國家地理每日精選',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 958202096,
+    name: {
+      tr: 'Dukan Diet Classic',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1085978097,
+    name: {
+      mo: 'Pythonista 3',
+      tr: 'Pythonista 3',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1148321705,
+    name: {
+      tr: 'Bully: Anniversary Edition',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1286255182,
+    name: {
+      tw: 'Filmlike Camera',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1449584007,
+    name: {
+      tw: 'Koala Sampler',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1523025509,
+    name: {
+      hk: 'PANTHEON - Official',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1536419933,
+    name: {
+      hk: 'Break Pile - Brick Breaker',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1574175808,
+    name: {
+      tr: 'Specimen Zero - Horror',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1622935612,
+    name: {
+      hk: 'DYSMANTLE',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1633879571,
+    name: {
+      tr: 'Poppy Playtime Chapter 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6504841512,
+    name: {
+      hk: 'Halls of Torment: Premium',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6476902290,
+    name: {
+      hk: 'Handy Guitar Lab for MS-70CDR+',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6479512734,
+    name: {
+      tw: 'NARUTO: Ultimate Ninja STORM',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740051873,
+    name: {
+      tr: 'Classic Number Games for Watch',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6444109272,
+    name: {
+      tr: 'Kübaj - Hacim Hesaplama',
+    },
+    addType: 'auto',
+  },
+  {
     id: 318639200,
     name: {
       hk: 'Crush the Castle',
