@@ -1,5 +1,5 @@
 import pLimit from 'p-limit'
-import { start, end } from '../timer'
+import { start, end } from '../../timer'
 import { getInAppPurchases, getAppInfo } from './impl'
 
 export default async function getRegionAppInfo(

@@ -2,7 +2,7 @@ import nodeFetch from 'node-fetch'
 import { load } from 'cheerio'
 import { isEmpty } from 'lodash'
 import chalk from 'chalk'
-import { regionInAppPurchasesTextMap } from '../../../appinfo.config'
+import { regionInAppPurchasesTextMap } from '../../../../appinfo.config'
 
 const IN_APP_PURCHASE_MAX_TIMES = 50
 
