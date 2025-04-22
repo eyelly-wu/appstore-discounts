@@ -63,6 +63,2825 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 284972998,
+    name: {
+      mo: 'SoundHound∞ 音樂識別搜尋器及播放器',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 288419283,
+    name: {
+      us: 'RadarScope',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 292421271,
+    name: {
+      mo: 'Fieldrunners',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 294934058,
+    name: {
+      us: 'HotSchedules',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 298206806,
+    name: {
+      us: 'iReal Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 299117180,
+    name: {
+      tr: 'Airports',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 301387274,
+    name: {
+      us: 'Pocket God',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 305557780,
+    name: {
+      mo: 'iSwap Faces Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 306938028,
+    name: {
+      mo: 'Photo Sticker',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 307132353,
+    name: {
+      mo: "Sally's Spa",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 307727765,
+    name: {
+      mo: 'Doodle Jump',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 307751675,
+    name: {
+      mo: 'PopStar!-stars crush',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 315021242,
+    name: {
+      mo: 'Unblock Me Premium',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 315514944,
+    name: {
+      mo: '实用家常菜谱大全',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 317809458,
+    name: {
+      hk: 'LiveATC Air Radio',
+      mo: 'LiveATC Air Radio',
+      us: 'LiveATC Air Radio',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 323048611,
+    name: {
+      mo: 'Dr.eye譯典通',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 329670577,
+    name: {
+      mo: 'Camera+傳統',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 332424440,
+    name: {
+      mo: 'MILLIONAIRE TYCOON™',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 333212604,
+    name: {
+      tw: '蒙恬名片王Mobile',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 335029050,
+    name: {
+      us: 'Catan Classic',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 335709058,
+    name: {
+      us: 'Stylebook',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 335862325,
+    name: {
+      tr: 'Blower',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 342115564,
+    name: {
+      mo: 'Hipstamatic 相機',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 344784375,
+    name: {
+      mo: 'OPlayer - video player',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 351850196,
+    name: {
+      mo: '紫白飛星萬年曆 - 十三行作品',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 352247139,
+    name: {
+      us: 'Calorie Counter PRO MyNetDiary',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 355281169,
+    name: {
+      mo: '遠流字典通 (豪華版)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 357404131,
+    name: {
+      hk: '慢快門相機 (Slow Shutter Cam)',
+      mo: '慢快門相機 (Slow Shutter Cam)',
+      tw: '慢快門相機 (Slow Shutter Cam)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 357421934,
+    name: {
+      us: 'PeakFinder',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 367327563,
+    name: {
+      mo: 'Secret Photo+Folder',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 373493387,
+    name: {
+      hk: 'AnkiMobile Flashcards',
+      tw: 'AnkiMobile Flashcards',
+      us: 'AnkiMobile Flashcards',
+      tr: 'AnkiMobile Flashcards',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 388130466,
+    name: {
+      mo: 'iSlash',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 388857410,
+    name: {
+      us: 'Blackjack & Card Counting Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 392531952,
+    name: {
+      mo: '倉頡解碼',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 395680819,
+    name: {
+      mo: 'AVPlayer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 396085661,
+    name: {
+      mo: '遊戲發展國++',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 402012828,
+    name: {
+      mo: 'iSafe Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 402656416,
+    name: {
+      mo: 'IP Cam Viewer Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 403684733,
+    name: {
+      tr: 'Badoo Premium',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 404990064,
+    name: {
+      us: 'SkyView®',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 405835358,
+    name: {
+      us: 'MilGPS',
+      tr: 'MilGPS',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 406239138,
+    name: {
+      mo: 'Puffin Cloud Browser',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 406541444,
+    name: {
+      mo: '8mm Vintage Camera',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 407933070,
+    name: {
+      mo: '懷舊日曆 - 十三行作品',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 408697793,
+    name: {
+      mo: 'King of Opera',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 408854559,
+    name: {
+      mo: '溫泉物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 417817520,
+    name: {
+      mo: 'Tiny Wings',
+      us: 'Tiny Wings',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 424403441,
+    name: {
+      mo: 'Pimple Eraser',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 430163724,
+    name: {
+      hk: '智能風水羅庚-專業版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 432850619,
+    name: {
+      us: 'FL Studio Mobile',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 433596395,
+    name: {
+      mo: 'ZOOKEEPER DX',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 449735650,
+    name: {
+      hk: '鱷魚小頑皮愛洗澡',
+      mo: '鱷魚小頑皮愛洗澡',
+      us: "Where's My Water?",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 450542233,
+    name: {
+      mo: 'Cut the Rope: Experiments GOLD',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 452990487,
+    name: {
+      mo: 'RushPlayer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 454086751,
+    name: {
+      us: 'Flick Home Run !',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 469343554,
+    name: {
+      mo: '洛克人X',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 479516143,
+    name: {
+      hk: 'Minecraft',
+      mo: 'Minecraft',
+      tw: 'Minecraft',
+      us: 'Minecraft: Dream it, Build it!',
+      tr: 'Minecraft: Dream it, Build it!',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 479662730,
+    name: {
+      mo: 'Grand Theft Auto III',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 482303584,
+    name: {
+      us: 'PDG PROmote 2025+',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 485246824,
+    name: {
+      mo: 'Cytus',
+      tw: 'Cytus',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 491231653,
+    name: {
+      mo: '大富翁 4 Fun',
+      tw: '大富翁 4 Fun',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 497716362,
+    name: {
+      us: 'TonalEnergy Tuner & Metronome',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 498732510,
+    name: {
+      tr: 'Blitzer.de PRO',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 501695715,
+    name: {
+      mo: '兒歌童謠 - 國語+粵語(廣東話)兒歌連歌詞',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 503190232,
+    name: {
+      tw: 'Bridge Constructor',
+      tr: 'Bridge Constructor',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 504176984,
+    name: {
+      hk: '論八字(實用)',
+      tw: '論八字(實用)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 504300412,
+    name: {
+      hk: '歐陸戰爭3',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 505367096,
+    name: {
+      tw: '世界迷霧',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 519411018,
+    name: {
+      cn: 'iGuzheng - 爱古筝',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 520231936,
+    name: {
+      tr: 'eDrawings',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 524387892,
+    name: {
+      us: 'The Official KSIOlajidebt Soundboard - KSI Sounds',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 525818839,
+    name: {
+      hk: 'Plague Inc. (瘟疫公司)',
+      mo: 'Plague Inc. (瘟疫公司)',
+      tw: 'Plague Inc. (瘟疫公司)',
+      us: 'Plague Inc.',
+      tr: 'Plague Inc.',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 530425820,
+    name: {
+      cn: '东方财富领先版-财经资讯&股票开户',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 540925500,
+    name: {
+      tr: 'Need for Speed™ Most Wanted',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 549105915,
+    name: {
+      us: 'True Skate',
+      tr: 'True Skate',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 549432607,
+    name: {
+      tr: 'Townsmen Premium',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 554937499,
+    name: {
+      tr: 'Earn to Die',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 555642577,
+    name: {
+      tw: '晉碩萬年曆',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 563718995,
+    name: {
+      us: 'Bloons TD 5',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 575154654,
+    name: {
+      us: 'Pou',
+      tr: 'Pou',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 577628510,
+    name: {
+      tr: 'TeamSpeak 3',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 578448682,
+    name: {
+      tr: 'Grand Theft Auto: Vice City',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 586149216,
+    name: {
+      us: 'Monash FODMAP Diet',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 594117733,
+    name: {
+      mo: '仙劍奇俠傳1 DOS懷舊版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 600626116,
+    name: {
+      us: "Papa's Burgeria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 623592465,
+    name: {
+      hk: 'Heads Up!',
+      us: 'Heads Up!',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 625334537,
+    name: {
+      hk: 'Geometry Dash',
+      mo: 'Geometry Dash',
+      us: 'Geometry Dash',
+      tr: 'Geometry Dash',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 634235735,
+    name: {
+      tr: 'Duet Game',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 640364616,
+    name: {
+      us: 'Terraria',
+      tr: 'Terraria',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 646256209,
+    name: {
+      mo: '照片橡皮擦',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 657016140,
+    name: {
+      mo: 'Good Maps - Google地圖,3D,離線,全球街景,公交,地鐵,導航',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 679044544,
+    name: {
+      mo: '理財幫手 AndroMoney',
+      tw: '理財幫手 AndroMoney',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 687236545,
+    name: {
+      tw: '劍橋高階英漢雙解詞典：英語— 繁體中文',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 697885605,
+    name: {
+      tw: '常春藤基礎英文字彙',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 700637744,
+    name: {
+      mo: 'DEEMO',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 736683061,
+    name: {
+      tr: 'A Dark Room',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 741990930,
+    name: {
+      us: 'Walkout Song DJ',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 763692274,
+    name: {
+      hk: 'Grand Theft Auto: San Andreas',
+      mo: 'Grand Theft Auto: San Andreas',
+      tw: 'Grand Theft Auto: San Andreas',
+      us: 'Grand Theft Auto: San Andreas',
+      tr: 'Grand Theft Auto: San Andreas',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 784373321,
+    name: {
+      mo: '軒轅劍參外傳 天之痕',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 807317212,
+    name: {
+      cn: '每日精选-天文地理人文照片之美&壁纸',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 824305459,
+    name: {
+      us: "Papa's Freezeria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 829581836,
+    name: {
+      hk: 'Driving Theory Test 4 in 1 Kit',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 837860959,
+    name: {
+      hk: '迷你地鐵',
+      mo: '迷你地鐵',
+      us: 'Mini Metro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 860809977,
+    name: {
+      hk: 'Fongo World Edition',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 870322730,
+    name: {
+      mo: 'Implosion 聚爆',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 890791581,
+    name: {
+      tw: '樂客導航王全3D Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 891194610,
+    name: {
+      hk: '戰車撞殭屍2 (Earn to Die 2)',
+      us: 'Earn to Die 2',
+      tr: 'Earn to Die 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 901738789,
+    name: {
+      cn: '地下城堡: 炼金术师的魔幻之旅',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 904278510,
+    name: {
+      hk: '刺客任務：狙擊 (Hitman Sniper)',
+      mo: '刺客任務：狙擊 (Hitman Sniper)',
+      tr: 'Hitman Sniper',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 912536422,
+    name: {
+      us: "Five Nights at Freddy's",
+      tr: "Five Nights at Freddy's",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 916976066,
+    name: {
+      tw: '短語鍵盤',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 918609651,
+    name: {
+      mo: 'Money Pro: 個人財務',
+      tw: 'Money Pro: 個人財務',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 924695435,
+    name: {
+      mo: 'Pixelmator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 925494667,
+    name: {
+      us: "Papa's Pizzeria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 926015463,
+    name: {
+      tw: 'Timestamp Photo and Video pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 926076608,
+    name: {
+      mo: '秒速記帳 1SecMoney',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 927098908,
+    name: {
+      us: 'Pro Camera by Moment',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 932389062,
+    name: {
+      tw: '永不言棄！！ - 不可能的節奏跳躍 & 黑色小球翻滾',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 935216956,
+    name: {
+      us: 'Papers, Please',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 935528099,
+    name: {
+      cn: '同步音律',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 941143328,
+    name: {
+      us: "Five Nights at Freddy's 2",
+      tr: "Five Nights at Freddy's 2",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 945322477,
+    name: {
+      mo: '新仙劍奇俠傳(正版單機)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 946477821,
+    name: {
+      hk: 'Evoland',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 948944368,
+    name: {
+      hk: 'iBrowser- Full Screen Browser',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 954724812,
+    name: {
+      cn: '同花顺至尊版-股票软件',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 955687901,
+    name: {
+      mo: 'kirakira+',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 961932335,
+    name: {
+      mo: 'Analog Tokyo',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 963034692,
+    name: {
+      us: 'Streaks',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 964708975,
+    name: {
+      cn: '古诗文网',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 973482987,
+    name: {
+      us: "Five Nights at Freddy's 3",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 975683986,
+    name: {
+      tw: 'Door Kickers',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 982175678,
+    name: {
+      hk: 'This War of Mine',
+      mo: 'This War of Mine',
+      tw: 'This War of Mine',
+      tr: 'This War of Mine',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 982227026,
+    name: {
+      cn: '聚爆Implosion',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 992047786,
+    name: {
+      mo: 'Analog Wedding',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 998437582,
+    name: {
+      cn: '法语背单词 - 法语单词记忆工具',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1010311475,
+    name: {
+      us: 'QuickBend: Conduit Bending',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1012298403,
+    name: {
+      hk: "Don't Starve: Pocket Edition",
+      mo: "Don't Starve: Pocket Edition",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1023146677,
+    name: {
+      us: "Five Nights at Freddy's 4",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1028950091,
+    name: {
+      cn: '贪婪洞窟：猿神降临',
+      mo: '貪婪洞窟：猿神降临',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1029932207,
+    name: {
+      us: "Papa's Cupcakeria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1035219553,
+    name: {
+      mo: 'Analog London',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1035219562,
+    name: {
+      mo: 'Analog Paris',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1065360416,
+    name: {
+      us: 'BimmerLink for BMW and MINI',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1065599938,
+    name: {
+      mo: 'HARVEST MOON: Seeds Of Memories',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1077639630,
+    name: {
+      cn: '说剑The Swords',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1093131935,
+    name: {
+      us: 'Incredibox',
+      tr: 'Incredibox',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1094038347,
+    name: {
+      hk: 'Only You Are Here',
+      tw: 'Only You Are Here',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1095903651,
+    name: {
+      cn: '【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1099088440,
+    name: {
+      cn: '火柴人联盟2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1108479411,
+    name: {
+      hk: 'Driving Zone 2: Car Racing',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1110646984,
+    name: {
+      cn: '地下城堡2: 黑暗觉醒',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1111420122,
+    name: {
+      us: 'Hear My Baby Heartbeat Monitor',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1112429079,
+    name: {
+      cn: '物种起源',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1113736426,
+    name: {
+      mo: 'RollerCoaster Tycoon® Classic',
+      us: 'RollerCoaster Tycoon® Classic',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1118115766,
+    name: {
+      hk: 'Bloons TD 6',
+      us: 'Bloons TD 6',
+      tr: 'Bloons TD 6',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1121484538,
+    name: {
+      hk: '箱庭鐵道物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1128464707,
+    name: {
+      hk: 'Death Road to Canada',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1129429340,
+    name: {
+      hk: 'RaceChrono Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1134805859,
+    name: {
+      cn: '迷失岛',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1137257203,
+    name: {
+      tr: 'Muslim Prayer Times Pro, Adhan',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1142016085,
+    name: {
+      tw: 'Rusty Lake: Roots',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1160608318,
+    name: {
+      mo: 'Air Traffic Control - Live ATC',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1166143148,
+    name: {
+      hk: '暴力街區2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1169282239,
+    name: {
+      cn: '活下去-丧尸题材末日生存冒险游戏',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1184204602,
+    name: {
+      cn: 'ProMovie + 专业摄像机',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1187265767,
+    name: {
+      mo: 'Monument Valley 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1189781891,
+    name: {
+      us: "Five Nights at Freddy's: SL",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1195035357,
+    name: {
+      tw: '地牢防禦 : 勇士的侵入',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1217732174,
+    name: {
+      cn: 'TA - 一对一聊天，遇见对的人',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1237692856,
+    name: {
+      mo: 'Gudak Cam',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1239299402,
+    name: {
+      hk: 'Street Fighter IV CE',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1241383990,
+    name: {
+      hk: 'Baby Sensory Signbook',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1247397901,
+    name: {
+      hk: '奧德瑪',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1248033433,
+    name: {
+      hk: '王國保衛戰：復仇',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1249864455,
+    name: {
+      tr: 'Peace, Death!',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1250144822,
+    name: {
+      mo: '玄空飛星羅經 - 專業風水羅盤',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1259067036,
+    name: {
+      mo: '發現動物公園',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1262474519,
+    name: {
+      tw: 'Monoposto',
+      tr: 'Monoposto',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1264608487,
+    name: {
+      tr: 'Driving Zone: Germany Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1290687550,
+    name: {
+      tw: 'Cytus II',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1291429551,
+    name: {
+      tr: '60 Parsecs!',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1291730054,
+    name: {
+      us: 'Lowriders Comeback 2: Cruising',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1296085645,
+    name: {
+      tw: 'aRacerSmart',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1298544927,
+    name: {
+      tr: 'My Child Lebensborn',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1303222868,
+    name: {
+      us: 'Paprika Recipe Manager 3',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1312534841,
+    name: {
+      cn: 'MyText Widget',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1329434099,
+    name: {
+      cn: '乱斗堂3',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1330314351,
+    name: {
+      tr: 'Videdit - Handy Video Editor',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1336793944,
+    name: {
+      tw: '勇敢的哈克',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1339516665,
+    name: {
+      cn: '奥特曼传奇英雄VIP版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1351652600,
+    name: {
+      tr: 'Boolean!',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1359107338,
+    name: {
+      us: 'Catch the Easter Bunny',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1359652100,
+    name: {
+      hk: 'DungeonMaker',
+      mo: 'DungeonMaker',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1391339323,
+    name: {
+      tr: 'Zaptiye',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1392608717,
+    name: {
+      us: "Papa's Scooperia To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1406710800,
+    name: {
+      hk: 'Stardew Valley',
+      mo: 'Stardew Valley',
+      tw: 'Stardew Valley',
+      us: 'Stardew Valley',
+      tr: 'Stardew Valley',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1435004182,
+    name: {
+      tr: 'Hermes: KAYIP',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1436429074,
+    name: {
+      mo: 'FILCA - SLR Film Camera',
+      tw: 'FILCA - SLR Film Camera',
+      tr: 'FILCA - SLR Film Camera',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1437096541,
+    name: {
+      hk: 'Rush Rally 3',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1438245901,
+    name: {
+      us: "Papa's Pancakeria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1439187947,
+    name: {
+      hk: 'Rebel Inc. (反叛公司)',
+      mo: 'Rebel Inc. (反叛公司)',
+      tw: 'Rebel Inc. (反叛公司)',
+      us: 'Rebel Inc.',
+      tr: 'Rebel Inc.',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1439881811,
+    name: {
+      us: 'RadarOmega',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1441969889,
+    name: {
+      tr: 'Z.O.N.A Shadow of Lemansk',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1442776789,
+    name: {
+      tw: '槍與香蕉 - Pirates Outlaws',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1444761746,
+    name: {
+      hk: 'RFS - Real Flight Simulator',
+      tw: 'RFS - Real Flight Simulator',
+      us: 'RFS - Real Flight Simulator',
+      tr: 'RFS - Real Flight Simulator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1449893235,
+    name: {
+      tr: 'Earthquake Network',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1450064785,
+    name: {
+      tw: '山林日誌',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1450144092,
+    name: {
+      hk: '三國志天下布武 - 單機戰棋策略遊戲',
+      mo: '三國志天下布武 - 單機戰棋策略遊戲',
+      tw: '三國志天下布武 - 單機戰棋策略遊戲',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1451873044,
+    name: {
+      us: "Papa's Wingeria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1453838527,
+    name: {
+      tr: 'Age of History II',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1455781522,
+    name: {
+      us: 'FNaF 6: Pizzeria Simulator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1459749978,
+    name: {
+      cn: 'List背单词',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1461751938,
+    name: {
+      us: 'Purple Place - Classic Games',
+      tr: 'Purple Place - Classic Games',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1464850921,
+    name: {
+      cn: '每日英语阅读',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1474716211,
+    name: {
+      us: '60 Seconds! Reatomized',
+      tr: '60 Seconds! Reatomized',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1477203766,
+    name: {
+      tr: 'Total War: MEDIEVAL II',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1477854253,
+    name: {
+      hk: '大家的日本語 初級 第二版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1477966166,
+    name: {
+      mo: 'MONOPOLY: The Board Game',
+      us: 'MONOPOLY: The Board Game',
+      tr: 'MONOPOLY: The Board Game',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1477991646,
+    name: {
+      hk: '王國：兩個皇冠',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1479608271,
+    name: {
+      us: 'Arcadia - Watch Games',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1480844881,
+    name: {
+      tr: 'Mini Chess on Watch',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1481006495,
+    name: {
+      tr: 'Countdown App',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1482339363,
+    name: {
+      us: 'iScore5 APHG',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1484622401,
+    name: {
+      tw: 'Religion inc.上帝模擬器',
+      tr: 'Religion inc. God Simulator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1485875855,
+    name: {
+      tr: 'Başkanlar',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1491530147,
+    name: {
+      tw: 'Slay the Spire',
+      us: 'Slay the Spire',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1497120981,
+    name: {
+      tr: 'LUCH: Photo Effects & Presets',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1499849161,
+    name: {
+      us: 'Ultimate Custom Night',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1500098830,
+    name: {
+      tr: 'Video Master Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1503486239,
+    name: {
+      tw: '大富翁10',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1504662191,
+    name: {
+      tr: 'Monarşi',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1504760106,
+    name: {
+      tr: 'Eco inc.',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1504952058,
+    name: {
+      us: "Papa's Sushiria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1505636751,
+    name: {
+      us: 'TeleGuard',
+      tr: 'TeleGuard',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1509344823,
+    name: {
+      tr: 'Ezberle',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1512751689,
+    name: {
+      us: 'The Game of Life 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1515215584,
+    name: {
+      cn: 'RakugakiAR',
+      hk: 'RakugakiAR',
+      mo: 'RakugakiAR',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1515382132,
+    name: {
+      mo: 'Axis & Allies 1942 Online',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1516531425,
+    name: {
+      tr: 'JSPS APP',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1517349382,
+    name: {
+      cn: '群雄时代 - 单机三国战棋策略游戏',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1518841947,
+    name: {
+      tr: 'ATSU',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1519386476,
+    name: {
+      tw: 'MiniGames - 觀看遊戲街機',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1523633394,
+    name: {
+      tr: 'SpongeBob SquarePants: BfBB',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1525735418,
+    name: {
+      tr: 'Mesih',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1528199331,
+    name: {
+      hk: '崩潰大陸 2',
+      tw: '崩潰大陸 2',
+      us: 'Crashlands 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1531462734,
+    name: {
+      cn: '桂林字牌手机版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1531654315,
+    name: {
+      hk: '画師牆紙',
+      tw: '画師牆紙',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1536762482,
+    name: {
+      us: 'Spirit Talker ®',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1544190466,
+    name: {
+      cn: '避难所：生存',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1544412558,
+    name: {
+      cn: '航海奇闻',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1544722749,
+    name: {
+      cn: '拣爱',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1548185534,
+    name: {
+      tr: 'Musical Maze',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1551207253,
+    name: {
+      us: "Papa's Mocharia To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1551263854,
+    name: {
+      cn: '打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1555857229,
+    name: {
+      cn: '2048 for watch',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1556671822,
+    name: {
+      us: 'Merge Watermelon for watch',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1559869450,
+    name: {
+      mo: '新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1562560561,
+    name: {
+      tr: 'Tevekkülvakti Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1563932741,
+    name: {
+      tr: 'Taboo - Official Party Game',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1569963107,
+    name: {
+      tr: 'Aylık Distopya',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1576329230,
+    name: {
+      cn: '传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1576763082,
+    name: {
+      cn: '女帝的日常',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1577392165,
+    name: {
+      hk: 'Monster Train',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1578203914,
+    name: {
+      cn: '电子宠物机',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1581640677,
+    name: {
+      tr: 'Football Referee Simulator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1587674627,
+    name: {
+      tw: '愛琳詩篇:少女養成系 休閒放置二次元卡牌手遊',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1590622755,
+    name: {
+      us: 'µBrowser: Watch Web Browser',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1591627945,
+    name: {
+      us: "Papa's Cluckeria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1592505377,
+    name: {
+      tr: 'Wreckfest',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1592660274,
+    name: {
+      tw: '天際牧場物語-模擬經營自己的牧場',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1595739885,
+    name: {
+      tr: 'Shadow Hunter: Special Edition',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1596736236,
+    name: {
+      mo: 'Rovio Classics: Angry Birds',
+      tw: 'Rovio Classics: Angry Birds',
+      us: "Red's First Flight",
+      tr: "Red's First Flight",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1600307023,
+    name: {
+      tr: "Dealer's Life 2",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1603421749,
+    name: {
+      cn: '传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1603553413,
+    name: {
+      cn: '手表浏览器',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1606405358,
+    name: {
+      tr: "Dealer's Life",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1609910024,
+    name: {
+      hk: '泰拉瑞亞',
+      mo: '泰拉瑞亞',
+      tw: '泰拉瑞亞',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1610947489,
+    name: {
+      tr: 'Poppy Playtime Chapter 1',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1612952507,
+    name: {
+      hk: 'AeroPads - Pads & Soundscapes',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1614200925,
+    name: {
+      cn: '部落与弯刀',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1622869542,
+    name: {
+      hk: 'Kingdom Rush 5: Alliance TD',
+      tw: 'Kingdom Rush 5: Alliance TD',
+      us: 'Kingdom Rush 5: Alliance TD',
+      tr: 'Kingdom Rush 5: Alliance TD',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1624326561,
+    name: {
+      mo: '真武三国  英雄集结',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1631859420,
+    name: {
+      hk: 'After Inc.',
+      tw: 'After Inc.',
+      us: 'After Inc.',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1631867592,
+    name: {
+      mo: '珍寶機場物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1633243177,
+    name: {
+      us: 'Ableton Note',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1633253544,
+    name: {
+      cn: '消除星星 - 益智的星星消消乐经典手表游戏',
+      hk: '消除星星-益智的星星消消樂經典手錶消除遊戲',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1636342413,
+    name: {
+      tr: 'SSH Term Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1642601792,
+    name: {
+      tw: 'The Past Within',
+      tr: 'The Past Within',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1642733080,
+    name: {
+      hk: 'DungeonSquad',
+      mo: 'DungeonSquad',
+      tw: 'DungeonSquad',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1643199620,
+    name: {
+      hk: 'Any Text · Widgets',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1659271912,
+    name: {
+      hk: '東京電車２',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1659316190,
+    name: {
+      cn: '钢铁战队(R)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1662217862,
+    name: {
+      tw: 'Wipr 2',
+      us: 'Wipr 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1665706687,
+    name: {
+      tw: 'Underground Blossom',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1668755109,
+    name: {
+      hk: 'Brotato:Premium',
+      tw: 'Brotato:Premium',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1669877091,
+    name: {
+      cn: '光明记忆：无限',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1671505630,
+    name: {
+      cn: '迷失岛外传南瓜镇',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6737795387,
+    name: {
+      cn: '鬼谷八荒',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6448477521,
+    name: {
+      cn: 'BiuBiuBiu - 空气枪',
+      hk: 'PewPewPew - Fingergun',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6472380172,
+    name: {
+      cn: 'Kino - Pro Video Camera',
+      hk: 'Kino - Pro Video Camera',
+      tw: 'Kino - Pro Video Camera',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6443786927,
+    name: {
+      cn: '全面憨憨战争模拟器',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6502489827,
+    name: {
+      cn: '大侠立志传',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742129099,
+    name: {
+      cn: '群英打三国-超休闲国风放置卡牌巅峰巨作',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6443916065,
+    name: {
+      cn: 'WiFi万能钥匙专业版-无线热点密码安全万能wi-fi管家',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6737512463,
+    name: {
+      cn: '怦然心动的瞬间-轻科幻真人互动恋爱影游',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6462190343,
+    name: {
+      cn: '药王谷女修修炼手札',
+      tw: '药王谷女修修炼手札',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6444782083,
+    name: {
+      cn: '王国保卫战4',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6450148077,
+    name: {
+      cn: '干中学！偷偷',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6449766387,
+    name: {
+      cn: '合成大西瓜 : 专为手表设计的合成类休闲解压小游戏',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740246950,
+    name: {
+      cn: '花皮 - 无面具素颜社区/解压/释放/正念',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6550914957,
+    name: {
+      cn: '打造世界-经典沙盒建造',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742537442,
+    name: {
+      cn: '努力活着 - 自由人生重开模拟器',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6741474933,
+    name: {
+      cn: 'Berryfilm',
+      hk: 'Berryfilm',
+      tw: 'Berryfilm',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742221550,
+    name: {
+      cn: '魔卡棋旅',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738767315,
+    name: {
+      cn: '便利店开业日记',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6737987084,
+    name: {
+      cn: '小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6446607609,
+    name: {
+      cn: '佛系传奇:君王天下',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6499512726,
+    name: {
+      cn: '浮岛冒险',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6483210281,
+    name: {
+      cn: '生物原型',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738767322,
+    name: {
+      cn: '森丘露营地',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6737434454,
+    name: {
+      cn: '暗夜地城 - 单机暗黑刷装备挂机游戏',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6743117370,
+    name: {
+      cn: 'Clash X Pro : Network Analyzer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740705851,
+    name: {
+      cn: '手表变身器：时空驱动器 - iWatch发声器',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6743487416,
+    name: {
+      cn: '黄金矿工 for Watch - 经典复刻',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6478843819,
+    name: {
+      hk: '家園、異星與獵人',
+      tw: '家園、異星與獵人',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6502453075,
+    name: {
+      hk: 'Balatro',
+      mo: 'Balatro',
+      tw: 'Balatro',
+      us: 'Balatro',
+      tr: 'Balatro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6670749900,
+    name: {
+      hk: '再戰江湖之傲視蒼龍',
+      tw: '再戰江湖之傲視蒼龍',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6711347049,
+    name: {
+      hk: '大俠立志傳',
+      tw: '大俠立志傳',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6547834967,
+    name: {
+      hk: '動物森友會 口袋露營廣場 集合版',
+      tw: '動物森友會 口袋露營廣場 集合版',
+      us: 'Animal Crossing: Pocket Camp C',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6452276410,
+    name: {
+      hk: '遊戲開發者：全能製作人',
+      tw: '遊戲開發者：全能製作人',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6471479898,
+    name: {
+      hk: 'Cat Calendar：日曆 & 行事曆 & 時間管理',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738371720,
+    name: {
+      hk: '銀盤滑冰場物語',
+      tw: '銀盤滑冰場物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6456751953,
+    name: {
+      hk: 'ChatTan - AI Bot',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6469114836,
+    name: {
+      hk: 'スイカゲーム-Aladdin X',
+      tw: 'スイカゲーム-Aladdin X',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6743648252,
+    name: {
+      hk: '終焉車站',
+      mo: '終焉車站',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738636631,
+    name: {
+      hk: '烈焰同盟',
+      tw: '烈焰同盟',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6480082872,
+    name: {
+      hk: 'Dumbify',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738769251,
+    name: {
+      hk: 'METRO QUESTER - Hack & Slash',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6621207768,
+    name: {
+      hk: '聖劍同盟',
+      tw: '聖劍同盟',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6743420230,
+    name: {
+      hk: '夢魘騎士團',
+      tw: '夢魘騎士團',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6736642117,
+    name: {
+      hk: '櫻花最前線 - 2025年預測',
+      tw: '櫻花最前線 - 2025年預測',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6498879077,
+    name: {
+      hk: '平安古都物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738636602,
+    name: {
+      hk: '光輝同盟',
+      tw: '光輝同盟',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6504323939,
+    name: {
+      hk: '勇者鬥惡龍X　覺醒的五種族　OFFLINE',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6505046490,
+    name: {
+      hk: '摔角擂臺物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6443723657,
+    name: {
+      hk: 'filmhwa (필름화) - 화민 필터',
+      tw: 'filmhwa (필름화) - 화민 필터',
+      us: "filmhwa - @hwa.min's filter",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6743342476,
+    name: {
+      hk: '中药方剂速查 -【专业版】中医药查询宝典',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742773178,
+    name: {
+      hk: '经络穴位养生 - 中医穴位自我按摩治愈',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6476663854,
+    name: {
+      hk: 'Solo Mini Golf',
+      tw: 'Solo Mini Golf',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6670469064,
+    name: {
+      hk: '8號出口',
+      tw: '8號出口',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6447508479,
+    name: {
+      hk: '暖雪',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6470958985,
+    name: {
+      hk: '完美的一天 - 無限流劇情向解謎游戲',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6445875391,
+    name: {
+      hk: '叶分贝-噪音分贝检测',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6443923265,
+    name: {
+      mo: 'GSE SMART IPTV PRO',
+      tr: 'GSE SMART IPTV PRO',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6739839815,
+    name: {
+      tw: 'RogueVana',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6505052301,
+    name: {
+      tw: '碧海蒼雲錄',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6642649684,
+    name: {
+      tw: '韭菜投資公司2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738784092,
+    name: {
+      tw: 'A Little to the Left: Drawers',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6450724928,
+    name: {
+      tw: '租戶賭財運',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740814979,
+    name: {
+      tw: 'Follow the meaning',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6456886656,
+    name: {
+      tw: 'Layla',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6498623389,
+    name: {
+      tw: 'Folium',
+      us: 'Folium',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738342400,
+    name: {
+      tw: 'Tampermonkey',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744355637,
+    name: {
+      tw: 'Schedule I Drug Dealer',
+      us: 'Schedule I Drug Dealer',
+      tr: 'Schedule I Drug Dealer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6476064417,
+    name: {
+      tw: 'Knight & Dragon III',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6463710522,
+    name: {
+      tw: '勇者的傳奇',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6468572535,
+    name: {
+      tw: '洞窟冒險團物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6471947612,
+    name: {
+      tw: '召喚騎士團',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6480501528,
+    name: {
+      tw: 'Cat Todo - 備忘錄 & 待辦事項 & 記事本',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6714479204,
+    name: {
+      us: 'Lowriders Comeback: Boulevard',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740349666,
+    name: {
+      us: "Backyard Baseball '97",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6473097811,
+    name: {
+      us: 'Doodle Baseball Game',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6463616555,
+    name: {
+      us: 'Ticket to Ride® The Board Game',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6477835115,
+    name: {
+      us: "Papa's Paleteria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6449003064,
+    name: {
+      us: 'Goblin Tools',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6670199903,
+    name: {
+      tr: 'StreetPro Racing',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6505058041,
+    name: {
+      tr: 'QUAKELINE',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744445187,
+    name: {
+      tr: 'The Platform - Survive',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6469419567,
+    name: {
+      tr: 'Overwinter Survival',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6444400410,
+    name: {
+      tr: 'Farming Simulator 23 Mobile',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6474616013,
+    name: {
+      tr: 'Trump Is Back',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6471594918,
+    name: {
+      tr: 'Just a Simple Image Converter',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6686394372,
+    name: {
+      tr: 'Age of History 3',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740471827,
+    name: {
+      tr: 'Classic Maze Game for Watch',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1481853033,
     name: 'Strongbox Pro',
   },
