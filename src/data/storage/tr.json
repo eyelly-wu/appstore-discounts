@@ -32,11 +32,23 @@
     "minPriceInfo": {
       "price": 449.99,
       "formattedPrice": "₺449,99",
-      "Pro Tier 2": "₺369,99",
+      "Pro Tier 2": "₺55,99",
       "Pro Tier 1": "₺26,99",
       "RadarScope Pro Subscription": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "Pro Tier 2": "₺55,99",
+            "Pro Tier 1": "₺26,99",
+            "RadarScope Pro Subscription": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -759,6 +771,27 @@
           "timestamp": 1745328692670,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "336543029": {
+    "name": "Grat's Film Slate/Clapboard",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
           "inAppPurchases": {}
         }
       ]
@@ -6232,6 +6265,27 @@
       ]
     ]
   },
+  "583922375": {
+    "name": "myLightMeter PRO",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "586149216": {
     "name": "Monash FODMAP Diet",
     "maxPriceInfo": {
@@ -7314,6 +7368,40 @@
           "price": 129.99,
           "formattedPrice": "₺129,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "608540795": {
+    "name": "Tunable – Tuner & Metronome",
+    "maxPriceInfo": {
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
+      "Pizza for Seth": "₺499,99",
+      "Burrito for Seth": "₺349,99",
+      "Donut for Seth": "₺39,99",
+      "Coffee for Seth": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
+      "Pizza for Seth": "₺499,99",
+      "Burrito for Seth": "₺349,99",
+      "Donut for Seth": "₺39,99",
+      "Coffee for Seth": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Pizza for Seth": "₺499,99",
+            "Burrito for Seth": "₺349,99",
+            "Donut for Seth": "₺39,99",
+            "Coffee for Seth": "₺129,99"
+          }
         }
       ]
     ]
@@ -10979,6 +11067,31 @@
       ]
     ]
   },
+  "975770717": {
+    "name": "My Earthquake Alerts Pro",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
+      "Buy us a coffee": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
+      "Buy us a coffee": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Buy us a coffee": "₺39,99"
+          }
+        }
+      ]
+    ]
+  },
   "982175678": {
     "name": "This War of Mine",
     "maxPriceInfo": {
@@ -11607,6 +11720,64 @@
           "formattedPrice": "Free",
           "inAppPurchases": {
             "Premium": "₺389,99"
+          }
+        }
+      ]
+    ]
+  },
+  "1056698678": {
+    "name": "Live 2 Photos",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1062022008": {
+    "name": "LumaFusion",
+    "maxPriceInfo": {
+      "price": 1299.99,
+      "formattedPrice": "₺1.299,99",
+      "Creator Pass Monthly": "₺249,99",
+      "Creator Pass Yearly": "₺1.999,99",
+      "FCPXML Export": "₺899,99",
+      "Multicam Studio": "₺899,99",
+      "Speed Ramping & Keyframing": "₺899,99"
+    },
+    "minPriceInfo": {
+      "price": 1299.99,
+      "formattedPrice": "₺1.299,99",
+      "Creator Pass Monthly": "₺249,99",
+      "Creator Pass Yearly": "₺1.999,99",
+      "FCPXML Export": "₺899,99",
+      "Multicam Studio": "₺899,99",
+      "Speed Ramping & Keyframing": "₺899,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 1299.99,
+          "formattedPrice": "₺1.299,99",
+          "inAppPurchases": {
+            "Creator Pass Monthly": "₺249,99",
+            "Creator Pass Yearly": "₺1.999,99",
+            "FCPXML Export": "₺899,99",
+            "Multicam Studio": "₺899,99",
+            "Speed Ramping & Keyframing": "₺899,99"
           }
         }
       ]
@@ -13562,6 +13733,46 @@
       ]
     ]
   },
+  "1207867591": {
+    "name": "Papa's Taco Mia To Go!",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "2500 Tips": "₺229,99",
+      "200 Tips": "₺39,99",
+      "100 Mini-Game Tickets": "₺229,99",
+      "500 Tips": "₺99,99",
+      "30 Mini-Game Tickets": "₺99,99",
+      "10 Mini-Game Tickets": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "2500 Tips": "₺229,99",
+      "200 Tips": "₺39,99",
+      "100 Mini-Game Tickets": "₺229,99",
+      "500 Tips": "₺99,99",
+      "30 Mini-Game Tickets": "₺99,99",
+      "10 Mini-Game Tickets": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "2500 Tips": "₺229,99",
+            "200 Tips": "₺39,99",
+            "100 Mini-Game Tickets": "₺229,99",
+            "500 Tips": "₺99,99",
+            "30 Mini-Game Tickets": "₺99,99",
+            "10 Mini-Game Tickets": "₺39,99"
+          }
+        }
+      ]
+    ]
+  },
   "1208145167": {
     "name": "Picsew - Scrollshot & Collage",
     "maxPriceInfo": {
@@ -15041,6 +15252,27 @@
       ]
     ]
   },
+  "1326740784": {
+    "name": "FINAL FANTASY VIII Remastered",
+    "maxPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "minPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1330055286": {
     "name": "比手划脚 - 亲子互动游戏你画我猜",
     "maxPriceInfo": {
@@ -15102,6 +15334,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745419646428,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Crop": "₺0,00",
+            "Magnifier": "₺0,00",
+            "Distortion": "₺0,00",
+            "Paint": "₺0,00",
+            "Rotate": "₺0,00",
+            "Rate": "₺0,00",
+            "Splice": "₺0,00",
+            "Sticker": "₺0,00",
+            "Chromakey": "₺0,00",
+            "Info": "₺0,00"
+          }
+        },
         {
           "timestamp": 1745416953930,
           "price": 4.99,
@@ -16812,6 +17061,27 @@
       ]
     ]
   },
+  "1372408358": {
+    "name": "ARGun2018",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1373567447": {
     "name": "Loon",
     "maxPriceInfo": {
@@ -17677,6 +17947,27 @@
             "30 Mini-Game Tickets": "₺99,99",
             "10 Mini-Game Tickets": "₺39,99"
           }
+        }
+      ]
+    ]
+  },
+  "1438597800": {
+    "name": "OKNDrum: Optokinetic Drum",
+    "maxPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -18696,6 +18987,27 @@
       ]
     ]
   },
+  "1448798374": {
+    "name": "CAR++",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1449020025": {
     "name": "不玩手机-自律习惯养成记",
     "maxPriceInfo": {
@@ -18874,6 +19186,58 @@
           "price": 39.99,
           "formattedPrice": "₺39,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1450908177": {
+    "name": "Shadow Of Death: Premium Games",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "Dynasty Hero Set": "₺899,99",
+      "Dynasty Pet": "₺699,99",
+      "Ultimate Amulet": "₺249,99",
+      "Ultimate Ring": "₺249,99",
+      "Ultimate Pet": "₺249,99",
+      "Ultimate Ancient": "₺599,99",
+      "Royal Rune": "₺129,99",
+      "Norths Warden Pet Pack": "₺699,99",
+      "Norths Warden Set": "₺899,99",
+      "Black Friday Combo Items": "₺1.299,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "Dynasty Hero Set": "₺899,99",
+      "Dynasty Pet": "₺699,99",
+      "Ultimate Amulet": "₺249,99",
+      "Ultimate Ring": "₺249,99",
+      "Ultimate Pet": "₺249,99",
+      "Ultimate Ancient": "₺599,99",
+      "Royal Rune": "₺129,99",
+      "Norths Warden Pet Pack": "₺699,99",
+      "Norths Warden Set": "₺899,99",
+      "Black Friday Combo Items": "₺1.299,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "₺899,99",
+            "Dynasty Pet": "₺699,99",
+            "Ultimate Amulet": "₺249,99",
+            "Ultimate Ring": "₺249,99",
+            "Ultimate Pet": "₺249,99",
+            "Ultimate Ancient": "₺599,99",
+            "Royal Rune": "₺129,99",
+            "Norths Warden Pet Pack": "₺699,99",
+            "Norths Warden Set": "₺899,99",
+            "Black Friday Combo Items": "₺1.299,99"
+          }
         }
       ]
     ]
@@ -21064,6 +21428,49 @@
       ]
     ]
   },
+  "1509817154": {
+    "name": "某某宗女修修炼手札",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "2000个灵玉": "₺3.499,99",
+      "800个灵玉": "₺1.799,99",
+      "300个灵玉": "₺899,99",
+      "140个灵玉": "₺449,99",
+      "60个灵玉": "₺229,99",
+      "100个灵玉+3个九转还魂丹+3个仙灵延寿丹": "₺229,99",
+      "10个灵玉": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "2000个灵玉": "₺3.499,99",
+      "800个灵玉": "₺1.799,99",
+      "300个灵玉": "₺899,99",
+      "140个灵玉": "₺449,99",
+      "60个灵玉": "₺229,99",
+      "100个灵玉+3个九转还魂丹+3个仙灵延寿丹": "₺229,99",
+      "10个灵玉": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "2000个灵玉": "₺3.499,99",
+            "800个灵玉": "₺1.799,99",
+            "300个灵玉": "₺899,99",
+            "140个灵玉": "₺449,99",
+            "60个灵玉": "₺229,99",
+            "100个灵玉+3个九转还魂丹+3个仙灵延寿丹": "₺229,99",
+            "10个灵玉": "₺39,99"
+          }
+        }
+      ]
+    ]
+  },
   "1512751689": {
     "name": "The Game of Life 2",
     "maxPriceInfo": {
@@ -21140,6 +21547,27 @@
           "timestamp": 1730693617795,
           "price": 79.99,
           "formattedPrice": "₺79,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1513814705": {
+    "name": "Calculator Keyboard - Faster",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]
@@ -22005,6 +22433,27 @@
           "timestamp": 1745398953972,
           "price": 249.99,
           "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1543183092": {
+    "name": "YKS Konu, Deneme, Soru Takibi",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
           "inAppPurchases": {}
         }
       ]
@@ -30835,6 +31284,90 @@
       [
         {
           "timestamp": 1745406133842,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740014272": {
+    "name": "Fruit Merge - Watch Game",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742253703": {
+    "name": "Slime 3K: Rise Against Despot",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6463440317": {
+    "name": "Online Kaza Tutanağı",
+    "maxPriceInfo": {
+      "price": 57.99,
+      "formattedPrice": "₺57,99"
+    },
+    "minPriceInfo": {
+      "price": 57.99,
+      "formattedPrice": "₺57,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 57.99,
+          "formattedPrice": "₺57,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6502287918": {
+    "name": "PPSSPP Gold - PSP emulator",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
           "price": 229.99,
           "formattedPrice": "₺229,99",
           "inAppPurchases": {}

@@ -63,6 +63,147 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 336543029,
+    name: {
+      tw: "Grat's Film Slate/Clapboard",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 583922375,
+    name: {
+      hk: 'myLightMeter PRO',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 608540795,
+    name: {
+      hk: 'Tunable – Tuner & Metronome',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 975770717,
+    name: {
+      tr: 'My Earthquake Alerts Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1056698678,
+    name: {
+      tw: 'Live 2 Photos',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1062022008,
+    name: {
+      tw: 'LumaFusion',
+      tr: 'LumaFusion',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1207867591,
+    name: {
+      us: "Papa's Taco Mia To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1326740784,
+    name: {
+      hk: 'FINAL FANTASY VIII Remastered',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1372408358,
+    name: {
+      tr: 'ARGun2018',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1438597800,
+    name: {
+      tw: 'OKNDrum: Optokinetic Drum',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1448798374,
+    name: {
+      tw: 'CAR++',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1450908177,
+    name: {
+      tr: 'Shadow Of Death: Premium Games',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1509817154,
+    name: {
+      cn: '某某宗女修修炼手札',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1513814705,
+    name: {
+      tw: '計算器鍵盤 - 快人一步',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1543183092,
+    name: {
+      tr: 'YKS Konu, Deneme, Soru Takibi',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744311159,
+    name: {
+      cn: '魔王终局',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740014272,
+    name: {
+      cn: '水果合成 - 手表游戏',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742253703,
+    name: {
+      hk: 'Slime 3K: Rise Against Despot',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6463440317,
+    name: {
+      tr: 'Online Kaza Tutanağı',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6502287918,
+    name: {
+      tr: 'PPSSPP Gold - PSP emulator',
+    },
+    addType: 'auto',
+  },
+  {
     id: 400666114,
     name: {
       hk: 'Guitar Pro',

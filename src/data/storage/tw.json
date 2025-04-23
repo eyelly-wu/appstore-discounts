@@ -733,6 +733,27 @@
       ]
     ]
   },
+  "336543029": {
+    "name": "Grat's Film Slate/Clapboard",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "342115564": {
     "name": "Hipstamatic 相機",
     "maxPriceInfo": {
@@ -4977,7 +4998,9 @@
       "Chapter 6": "$150.00",
       "Chapter T": "$150.00",
       "Chapter S": "$150.00",
-      "Chapter 5": "$150.00"
+      "Chapter 5": "$150.00",
+      "Chapter 10": "$150.00",
+      "Chapter 9": "$150.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -4991,9 +5014,30 @@
       "Chapter 6": "$150.00",
       "Chapter T": "$150.00",
       "Chapter S": "$150.00",
-      "Chapter 5": "$150.00"
+      "Chapter 5": "$150.00",
+      "Chapter 10": "$150.00",
+      "Chapter 9": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Chapter N": "$120.00",
+            "Chapter D": "$150.00",
+            "Chapter L": "$320.00",
+            "Chapter T": "$150.00",
+            "Chapter R": "$150.00",
+            "Chapter 0": "$150.00",
+            "Chapter K": "$150.00",
+            "Chapter 10": "$150.00",
+            "Chapter 9": "$150.00",
+            "Chapter S": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -7986,6 +8030,27 @@
       ]
     ]
   },
+  "583922375": {
+    "name": "myLightMeter PRO",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "586149216": {
     "name": "Monash FODMAP Diet",
     "maxPriceInfo": {
@@ -10085,6 +10150,40 @@
           "price": 90,
           "formattedPrice": "$90.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "608540795": {
+    "name": "Tunable – Tuner & Metronome",
+    "maxPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00",
+      "Donut for Seth": "$30.00",
+      "Pizza for Seth": "$390.00",
+      "Burrito for Seth": "$290.00",
+      "Coffee for Seth": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00",
+      "Donut for Seth": "$30.00",
+      "Pizza for Seth": "$390.00",
+      "Burrito for Seth": "$290.00",
+      "Coffee for Seth": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "Donut for Seth": "$30.00",
+            "Pizza for Seth": "$390.00",
+            "Burrito for Seth": "$290.00",
+            "Coffee for Seth": "$90.00"
+          }
         }
       ]
     ]
@@ -13960,6 +14059,31 @@
       ]
     ]
   },
+  "975770717": {
+    "name": "My Earthquake Alerts Pro",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "Buy us a coffee": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "Buy us a coffee": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Buy us a coffee": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "982175678": {
     "name": "This War of Mine",
     "maxPriceInfo": {
@@ -14652,6 +14776,64 @@
           "formattedPrice": "免費",
           "inAppPurchases": {
             "Premium": "$190.00"
+          }
+        }
+      ]
+    ]
+  },
+  "1056698678": {
+    "name": "Live 2 Photos",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1062022008": {
+    "name": "LumaFusion",
+    "maxPriceInfo": {
+      "price": 990,
+      "formattedPrice": "$990.00",
+      "創作者通行證每月": "$320.00",
+      "FCPXML Export": "$590.00",
+      "Multicam Studio": "$590.00",
+      "每年創作者通行證": "$2,290.00",
+      "速度斜坡和關鍵幀": "$690.00"
+    },
+    "minPriceInfo": {
+      "price": 990,
+      "formattedPrice": "$990.00",
+      "創作者通行證每月": "$320.00",
+      "FCPXML Export": "$590.00",
+      "Multicam Studio": "$590.00",
+      "每年創作者通行證": "$2,290.00",
+      "速度斜坡和關鍵幀": "$690.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 990,
+          "formattedPrice": "$990.00",
+          "inAppPurchases": {
+            "創作者通行證每月": "$320.00",
+            "FCPXML Export": "$590.00",
+            "Multicam Studio": "$590.00",
+            "每年創作者通行證": "$2,290.00",
+            "速度斜坡和關鍵幀": "$690.00"
           }
         }
       ]
@@ -17489,6 +17671,46 @@
       ]
     ]
   },
+  "1207867591": {
+    "name": "Papa's Taco Mia To Go!",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "500 Tips": "$60.00",
+      "2500 Tips": "$150.00",
+      "200 Tips": "$30.00",
+      "100 Mini-Game Tickets": "$150.00",
+      "30 Mini-Game Tickets": "$60.00",
+      "10 Mini-Game Tickets": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "500 Tips": "$60.00",
+      "2500 Tips": "$150.00",
+      "200 Tips": "$30.00",
+      "100 Mini-Game Tickets": "$150.00",
+      "30 Mini-Game Tickets": "$60.00",
+      "10 Mini-Game Tickets": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "500 Tips": "$60.00",
+            "2500 Tips": "$150.00",
+            "200 Tips": "$30.00",
+            "100 Mini-Game Tickets": "$150.00",
+            "30 Mini-Game Tickets": "$60.00",
+            "10 Mini-Game Tickets": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "1208145167": {
     "name": "Picsew - 滾動截圖 & 長圖拼接",
     "maxPriceInfo": {
@@ -19119,6 +19341,27 @@
           "timestamp": 1721960142187,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1326740784": {
+    "name": "FINAL FANTASY VIII Remastered",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 320,
+          "formattedPrice": "$320.00",
           "inAppPurchases": {}
         }
       ]
@@ -23843,6 +24086,27 @@
       ]
     ]
   },
+  "1372408358": {
+    "name": "ARGun2018",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1373567447": {
     "name": "Loon",
     "maxPriceInfo": {
@@ -24847,6 +25111,27 @@
             "30 Mini-Game Tickets": "$60.00",
             "10 Mini-Game Tickets": "$30.00"
           }
+        }
+      ]
+    ]
+  },
+  "1438597800": {
+    "name": "OKNDrum: Optokinetic Drum",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -27307,6 +27592,27 @@
       ]
     ]
   },
+  "1448798374": {
+    "name": "CAR++",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1449020025": {
     "name": "不玩手机-自律习惯养成记",
     "maxPriceInfo": {
@@ -27536,6 +27842,58 @@
           "price": 30,
           "formattedPrice": "$30.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1450908177": {
+    "name": "Shadow Of Death: Premium Games",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Flash Sale Star Rune 1": "$90.00",
+      "First Purchase: Legendary Pack": "$320.00",
+      "Flash Sale Ore Rune 1": "$90.00",
+      "Flash Sale Ore Rune 2": "$60.00",
+      "Flash Sale Crystal 2": "$90.00",
+      "Flash Sale Star Rune 2": "$60.00",
+      "Piggy Bank": "$90.00",
+      "Flash Sale Ultimate Essence 1": "$490.00",
+      "Flash Sale Legendary Essence 1": "$150.00",
+      "Double Exp Package 3": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Flash Sale Star Rune 1": "$90.00",
+      "First Purchase: Legendary Pack": "$320.00",
+      "Flash Sale Ore Rune 1": "$90.00",
+      "Flash Sale Ore Rune 2": "$60.00",
+      "Flash Sale Crystal 2": "$90.00",
+      "Flash Sale Star Rune 2": "$60.00",
+      "Piggy Bank": "$90.00",
+      "Flash Sale Ultimate Essence 1": "$490.00",
+      "Flash Sale Legendary Essence 1": "$150.00",
+      "Double Exp Package 3": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Flash Sale Star Rune 1": "$90.00",
+            "First Purchase: Legendary Pack": "$320.00",
+            "Flash Sale Ore Rune 1": "$90.00",
+            "Flash Sale Ore Rune 2": "$60.00",
+            "Flash Sale Crystal 2": "$90.00",
+            "Flash Sale Star Rune 2": "$60.00",
+            "Piggy Bank": "$90.00",
+            "Flash Sale Ultimate Essence 1": "$490.00",
+            "Flash Sale Legendary Essence 1": "$150.00",
+            "Double Exp Package 3": "$120.00"
+          }
         }
       ]
     ]
@@ -30194,6 +30552,49 @@
       ]
     ]
   },
+  "1509817154": {
+    "name": "某某宗女修修炼手札",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "10个灵玉": "$30.00",
+      "100个灵玉+3个九转还魂丹+3个仙灵延寿丹": "$150.00",
+      "60个灵玉": "$150.00",
+      "140个灵玉": "$320.00",
+      "300个灵玉": "$690.00",
+      "800个灵玉": "$1,290.00",
+      "2000个灵玉": "$2,490.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "10个灵玉": "$30.00",
+      "100个灵玉+3个九转还魂丹+3个仙灵延寿丹": "$150.00",
+      "60个灵玉": "$150.00",
+      "140个灵玉": "$320.00",
+      "300个灵玉": "$690.00",
+      "800个灵玉": "$1,290.00",
+      "2000个灵玉": "$2,490.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "10个灵玉": "$30.00",
+            "100个灵玉+3个九转还魂丹+3个仙灵延寿丹": "$150.00",
+            "60个灵玉": "$150.00",
+            "140个灵玉": "$320.00",
+            "300个灵玉": "$690.00",
+            "800个灵玉": "$1,290.00",
+            "2000个灵玉": "$2,490.00"
+          }
+        }
+      ]
+    ]
+  },
   "1512751689": {
     "name": "The Game of Life 2",
     "maxPriceInfo": {
@@ -30336,6 +30737,27 @@
       [
         {
           "timestamp": 1722784406759,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1513814705": {
+    "name": "計算器鍵盤 - 快人一步",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
           "price": 60,
           "formattedPrice": "$60.00",
           "inAppPurchases": {}
@@ -31395,6 +31817,27 @@
           "timestamp": 1745398953972,
           "price": 190,
           "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1543183092": {
+    "name": "YKS Konu, Deneme, Soru Takibi",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]
@@ -44114,6 +44557,90 @@
       [
         {
           "timestamp": 1745406133842,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740014272": {
+    "name": "Fruit Merge - Watch Game",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742253703": {
+    "name": "Slime 3K: Rise Against Despot",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6463440317": {
+    "name": "Online Kaza Tutanağı",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6502287918": {
+    "name": "PPSSPP Gold - PSP emulator",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
           "price": 150,
           "formattedPrice": "$150.00",
           "inAppPurchases": {}

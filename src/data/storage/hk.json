@@ -708,6 +708,27 @@
       ]
     ]
   },
+  "336543029": {
+    "name": "Grat's Film Slate/Clapboard",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "342115564": {
     "name": "Hipstamatic 相機",
     "maxPriceInfo": {
@@ -7860,6 +7881,27 @@
       ]
     ]
   },
+  "583922375": {
+    "name": "myLightMeter PRO",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "586149216": {
     "name": "Monash FODMAP Diet",
     "maxPriceInfo": {
@@ -10088,6 +10130,40 @@
           "price": 22,
           "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "608540795": {
+    "name": "Tunable – Tuner & Metronome",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00",
+      "Donut for Seth": "HK$ 8.00",
+      "Coffee for Seth": "HK$ 22.00",
+      "Pizza for Seth": "HK$ 88.00",
+      "Burrito for Seth": "HK$ 58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00",
+      "Donut for Seth": "HK$ 8.00",
+      "Coffee for Seth": "HK$ 22.00",
+      "Pizza for Seth": "HK$ 88.00",
+      "Burrito for Seth": "HK$ 58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Donut for Seth": "HK$ 8.00",
+            "Coffee for Seth": "HK$ 22.00",
+            "Pizza for Seth": "HK$ 88.00",
+            "Burrito for Seth": "HK$ 58.00"
+          }
         }
       ]
     ]
@@ -13853,6 +13929,31 @@
       ]
     ]
   },
+  "975770717": {
+    "name": "My Earthquake Alerts Pro",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Buy us a coffee": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Buy us a coffee": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Buy us a coffee": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
+  },
   "982175678": {
     "name": "This War of Mine",
     "maxPriceInfo": {
@@ -14503,6 +14604,64 @@
           "formattedPrice": "免費",
           "inAppPurchases": {
             "Premium": "HK$ 273.00"
+          }
+        }
+      ]
+    ]
+  },
+  "1056698678": {
+    "name": "Live 2 Photos",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1062022008": {
+    "name": "LumaFusion",
+    "maxPriceInfo": {
+      "price": 228,
+      "formattedPrice": "HK$ 228.00",
+      "創作者通行證每月": "HK$ 58.00",
+      "每年創作者通行證": "HK$ 488.00",
+      "FCPXML Export": "HK$ 148.00",
+      "Multicam Studio": "HK$ 148.00",
+      "速度斜坡和關鍵幀": "HK$ 148.00"
+    },
+    "minPriceInfo": {
+      "price": 228,
+      "formattedPrice": "HK$ 228.00",
+      "創作者通行證每月": "HK$ 58.00",
+      "每年創作者通行證": "HK$ 488.00",
+      "FCPXML Export": "HK$ 148.00",
+      "Multicam Studio": "HK$ 148.00",
+      "速度斜坡和關鍵幀": "HK$ 148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 228,
+          "formattedPrice": "HK$ 228.00",
+          "inAppPurchases": {
+            "創作者通行證每月": "HK$ 58.00",
+            "每年創作者通行證": "HK$ 488.00",
+            "FCPXML Export": "HK$ 148.00",
+            "Multicam Studio": "HK$ 148.00",
+            "速度斜坡和關鍵幀": "HK$ 148.00"
           }
         }
       ]
@@ -17154,6 +17313,46 @@
       ]
     ]
   },
+  "1207867591": {
+    "name": "Papa's Taco Mia To Go!",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "2500 Tips": "HK$ 38.00",
+      "200 Tips": "HK$ 8.00",
+      "500 Tips": "HK$ 18.00",
+      "100 Mini-Game Tickets": "HK$ 38.00",
+      "30 Mini-Game Tickets": "HK$ 18.00",
+      "10 Mini-Game Tickets": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "2500 Tips": "HK$ 38.00",
+      "200 Tips": "HK$ 8.00",
+      "500 Tips": "HK$ 18.00",
+      "100 Mini-Game Tickets": "HK$ 38.00",
+      "30 Mini-Game Tickets": "HK$ 18.00",
+      "10 Mini-Game Tickets": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "2500 Tips": "HK$ 38.00",
+            "200 Tips": "HK$ 8.00",
+            "500 Tips": "HK$ 18.00",
+            "100 Mini-Game Tickets": "HK$ 38.00",
+            "30 Mini-Game Tickets": "HK$ 18.00",
+            "10 Mini-Game Tickets": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
+  },
   "1208145167": {
     "name": "Picsew - 滾動截圖 & 長圖拼接",
     "maxPriceInfo": {
@@ -18861,6 +19060,27 @@
           "timestamp": 1721960142187,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1326740784": {
+    "name": "FINAL FANTASY VIII Remastered",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
           "inAppPurchases": {}
         }
       ]
@@ -23979,6 +24199,27 @@
       ]
     ]
   },
+  "1372408358": {
+    "name": "ARGun2018",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1373567447": {
     "name": "Loon",
     "maxPriceInfo": {
@@ -24983,6 +25224,27 @@
             "30 Mini-Game Tickets": "HK$ 18.00",
             "10 Mini-Game Tickets": "HK$ 8.00"
           }
+        }
+      ]
+    ]
+  },
+  "1438597800": {
+    "name": "OKNDrum: Optokinetic Drum",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -28007,6 +28269,27 @@
       ]
     ]
   },
+  "1448798374": {
+    "name": "CAR++",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1449020025": {
     "name": "不玩手机-自律习惯养成记",
     "maxPriceInfo": {
@@ -28220,6 +28503,58 @@
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1450908177": {
+    "name": "Shadow Of Death: Premium Games",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "Flash Sale Ore Rune 2": "HK$ 18.00",
+      "Flash Sale Ore Rune 1": "HK$ 22.00",
+      "Flash Sale Crystal 3": "HK$ 18.00",
+      "First Purchase: Legendary Pack": "HK$ 88.00",
+      "Ultimate Accessory Set 2": "HK$ 88.00",
+      "Crystal Piggy Bank 5": "HK$ 38.00",
+      "Black Friday Chaos": "HK$ 148.00",
+      "RoyalRunePack": "HK$ 148.00",
+      "Legendary Wings Pack 2": "HK$ 38.00",
+      "Flash Sale Star Rune 2": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "Flash Sale Ore Rune 2": "HK$ 18.00",
+      "Flash Sale Ore Rune 1": "HK$ 22.00",
+      "Flash Sale Crystal 3": "HK$ 18.00",
+      "First Purchase: Legendary Pack": "HK$ 88.00",
+      "Ultimate Accessory Set 2": "HK$ 88.00",
+      "Crystal Piggy Bank 5": "HK$ 38.00",
+      "Black Friday Chaos": "HK$ 148.00",
+      "RoyalRunePack": "HK$ 148.00",
+      "Legendary Wings Pack 2": "HK$ 38.00",
+      "Flash Sale Star Rune 2": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Flash Sale Ore Rune 2": "HK$ 18.00",
+            "Flash Sale Ore Rune 1": "HK$ 22.00",
+            "Flash Sale Crystal 3": "HK$ 18.00",
+            "First Purchase: Legendary Pack": "HK$ 88.00",
+            "Ultimate Accessory Set 2": "HK$ 88.00",
+            "Crystal Piggy Bank 5": "HK$ 38.00",
+            "Black Friday Chaos": "HK$ 148.00",
+            "RoyalRunePack": "HK$ 148.00",
+            "Legendary Wings Pack 2": "HK$ 38.00",
+            "Flash Sale Star Rune 2": "HK$ 18.00"
+          }
         }
       ]
     ]
@@ -30759,6 +31094,49 @@
       ]
     ]
   },
+  "1509817154": {
+    "name": "某某宗女修修炼手札",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "10个灵玉": "HK$ 8.00",
+      "100个灵玉+3个九转还魂丹+3个仙灵延寿丹": "HK$ 38.00",
+      "60个灵玉": "HK$ 38.00",
+      "140个灵玉": "HK$ 88.00",
+      "300个灵玉": "HK$ 148.00",
+      "2000个灵玉": "HK$ 588.00",
+      "800个灵玉": "HK$ 288.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "10个灵玉": "HK$ 8.00",
+      "100个灵玉+3个九转还魂丹+3个仙灵延寿丹": "HK$ 38.00",
+      "60个灵玉": "HK$ 38.00",
+      "140个灵玉": "HK$ 88.00",
+      "300个灵玉": "HK$ 148.00",
+      "2000个灵玉": "HK$ 588.00",
+      "800个灵玉": "HK$ 288.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "10个灵玉": "HK$ 8.00",
+            "100个灵玉+3个九转还魂丹+3个仙灵延寿丹": "HK$ 38.00",
+            "60个灵玉": "HK$ 38.00",
+            "140个灵玉": "HK$ 88.00",
+            "300个灵玉": "HK$ 148.00",
+            "2000个灵玉": "HK$ 588.00",
+            "800个灵玉": "HK$ 288.00"
+          }
+        }
+      ]
+    ]
+  },
   "1512751689": {
     "name": "The Game of Life 2",
     "maxPriceInfo": {
@@ -30822,6 +31200,27 @@
       [
         {
           "timestamp": 1722784406759,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1513814705": {
+    "name": "計算器鍵盤 - 快人一步",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
@@ -31881,6 +32280,27 @@
           "timestamp": 1745398953972,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1543183092": {
+    "name": "YKS Konu, Deneme, Soru Takibi",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]
@@ -42916,6 +43336,69 @@
           "timestamp": 1745406133842,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740014272": {
+    "name": "Fruit Merge - Watch Game",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742253703": {
+    "name": "Slime 3K: Rise Against Despot",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6502287918": {
+    "name": "PPSSPP Gold - PSP emulator",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745419646428,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]
