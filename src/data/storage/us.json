@@ -13472,8 +13472,8 @@
   "994157520": {
     "name": "1942 Pacific Front Premium",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "60,000 Gold": "$9.99",
       "25,000 Gold": "$3.99",
       "125,000 Gold": "$18.99",
@@ -13491,6 +13491,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745378203223,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "60,000 Gold": "$9.99",
+            "25,000 Gold": "$3.99",
+            "125,000 Gold": "$18.99",
+            "700,000 Gold": "$89.99",
+            "325,000 Gold": "$45.99"
+          }
+        },
         {
           "timestamp": 1745328692670,
           "price": 0.99,
@@ -22751,8 +22763,8 @@
   "1435461053": {
     "name": "This Is the Police",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 7.99,
+      "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -22760,6 +22772,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745378203223,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1745375383677,
           "price": 1.99,
@@ -27393,8 +27411,8 @@
   "1481181827": {
     "name": "Aces of the Luftwaffe Squadron",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 7.99,
+      "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -27402,6 +27420,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745378203223,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1745362938822,
           "price": 0.99,
@@ -34410,6 +34434,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745378203223,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hello World!": "$0.99",
+            "Home Sweet Home": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743477616558,
