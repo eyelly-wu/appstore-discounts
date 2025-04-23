@@ -63,6 +63,188 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 299021909,
+    name: {
+      tw: '聖經工具(新標點和合本)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 407078169,
+    name: {
+      hk: '⋆數獨+',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 418751595,
+    name: {
+      hk: 'GyrOSC',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 667362389,
+    name: {
+      tr: 'The Room Two',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 768379887,
+    name: {
+      tw: 'Eye Meter',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 814323051,
+    name: {
+      hk: '中世紀Bridge Constructor',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 911205290,
+    name: {
+      tw: 'DRAGON QUEST II',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 983145797,
+    name: {
+      tw: '超注音',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1033342465,
+    name: {
+      hk: 'Just Press Record',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1112850631,
+    name: {
+      tw: '樂秀專業版-影片編輯與影片剪輯',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1126386264,
+    name: {
+      tr: 'AdGuard Pro — adblock',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1182456409,
+    name: {
+      tw: '奧托的奧德賽',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1238247658,
+    name: {
+      hk: 'Cluedo: Classic Edition',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1260271235,
+    name: {
+      hk: 'BoatSpeed: Course & Speed',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1260967308,
+    name: {
+      tw: 'WhatCall',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1423585518,
+    name: {
+      tw: 'ROMAN: 進食計畫、減肥、減脂一體化。體重管理。',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1508108761,
+    name: {
+      hk: 'EasyQuit Pro - Stop Smoking',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1550721625,
+    name: {
+      tw: 'JAMMATES',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1582355047,
+    name: {
+      tr: 'Hacker Başlangıç',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1610305853,
+    name: {
+      tw: 'SunOnTrack: Sun Path & Shadows',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1616391834,
+    name: {
+      tw: '合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1668418644,
+    name: {
+      tw: '大事記帳 - 阻止你花過多的錢',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6477756843,
+    name: {
+      hk: 'Final Girl Companion',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6698876690,
+    name: {
+      tw: 'WristTube+ Player for YouTube',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742457882,
+    name: {
+      tw: 'Deco: Wallpaper Creator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6471914901,
+    name: {
+      tr: 'Lux: AdBlock + PiP for YouTube',
+    },
+    addType: 'auto',
+  },
+  {
     id: 300132735,
     name: {
       hk: '專業萬年曆 - 十三行作品',
