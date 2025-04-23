@@ -63,6 +63,76 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 430388524,
+    name: {
+      mo: 'Do! Spring Mint - To Do List',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 592155900,
+    name: {
+      tr: 'Wake up! Earthquake',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 625274950,
+    name: {
+      tw: '國語辭典',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 998834675,
+    name: {
+      tr: 'Clouds & Sheep 2 Premium',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1232529101,
+    name: {
+      mo: '歸家異途',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1573482724,
+    name: {
+      hk: 'Coffee Inc 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1602772289,
+    name: {
+      hk: '7 Days to End with You',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1613295180,
+    name: {
+      hk: '青春敘曲',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1614666556,
+    name: {
+      tr: 'CNC VMC Simulator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1624777523,
+    name: {
+      mo: 'Guess Who? Meet the Crew',
+    },
+    addType: 'auto',
+  },
+  {
     id: 413943804,
     name: {
       mo: 'Real Piano™',

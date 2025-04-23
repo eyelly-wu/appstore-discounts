@@ -821,7 +821,17 @@
       "RetroPak One": "₺99,99",
       "Bondi HipstaPak": "₺39,99",
       "Tintype SnapPak": "₺39,99",
-      "Wicker Park HipstaPak": "₺39,99"
+      "Wicker Park HipstaPak": "₺39,99",
+      "Coyoacán HipstaPak": "₺99,99",
+      "Ohara HipstaPak": "₺99,99",
+      "RetroPak 2022": "₺299,99",
+      "RetroPak 2023": "₺449,99",
+      "RetroPak Twenty-One": "₺229,99",
+      "Highland Park HipstaPak": "₺39,99",
+      "Pilsen HipstaPak": "₺39,99",
+      "Tiong Bahru HipstaPak": "₺39,99",
+      "Impressionist SnapPak": "₺39,99",
+      "Fitzroy HipstaPak": "₺39,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -835,9 +845,38 @@
       "RetroPak One": "₺99,99",
       "Bondi HipstaPak": "₺39,99",
       "Tintype SnapPak": "₺39,99",
-      "Wicker Park HipstaPak": "₺39,99"
+      "Wicker Park HipstaPak": "₺39,99",
+      "Coyoacán HipstaPak": "₺99,99",
+      "Ohara HipstaPak": "₺99,99",
+      "RetroPak 2022": "₺299,99",
+      "RetroPak 2023": "₺449,99",
+      "RetroPak Twenty-One": "₺229,99",
+      "Highland Park HipstaPak": "₺39,99",
+      "Pilsen HipstaPak": "₺39,99",
+      "Tiong Bahru HipstaPak": "₺39,99",
+      "Impressionist SnapPak": "₺39,99",
+      "Fitzroy HipstaPak": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Coyoacán HipstaPak": "₺99,99",
+            "Ohara HipstaPak": "₺99,99",
+            "RetroPak 2022": "₺299,99",
+            "RetroPak 2023": "₺449,99",
+            "RetroPak Twenty-One": "₺229,99",
+            "Highland Park HipstaPak": "₺39,99",
+            "Pilsen HipstaPak": "₺39,99",
+            "Tiong Bahru HipstaPak": "₺39,99",
+            "Impressionist SnapPak": "₺39,99",
+            "Fitzroy HipstaPak": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -2028,6 +2067,31 @@
             "Predictive Report - No Background": "₺129,99",
             "Birth Chart Report - Untimed": "₺129,99",
             "Predictive Report - Untimed": "₺129,99"
+          }
+        }
+      ]
+    ]
+  },
+  "430388524": {
+    "name": "Do! Spring Mint - To Do List",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99",
+      "Tip": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99",
+      "Tip": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Tip": "₺39,99"
           }
         }
       ]
@@ -6359,6 +6423,27 @@
       ]
     ]
   },
+  "592155900": {
+    "name": "Wake up! Earthquake",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "594117733": {
     "name": "仙劍奇俠傳1 DOS懷舊版",
     "maxPriceInfo": {
@@ -7561,6 +7646,27 @@
             "Paquete para el idioma español": "₺0,00",
             "Polski pakiet językowy": "₺0,00"
           }
+        }
+      ]
+    ]
+  },
+  "625274950": {
+    "name": "中國漢語辭典 Chinese Dictionary",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -11296,6 +11402,43 @@
       ]
     ]
   },
+  "998834675": {
+    "name": "Clouds & Sheep 2 Premium",
+    "maxPriceInfo": {
+      "price": 5,
+      "formattedPrice": "₺5,00",
+      "50 Gems": "₺179,99",
+      "1400 Gems": "₺3.499,99",
+      "650 Gems": "₺1.999,99",
+      "250 Gems": "₺699,99",
+      "120 Gems": "₺349,99"
+    },
+    "minPriceInfo": {
+      "price": 5,
+      "formattedPrice": "₺5,00",
+      "50 Gems": "₺179,99",
+      "1400 Gems": "₺3.499,99",
+      "650 Gems": "₺1.999,99",
+      "250 Gems": "₺699,99",
+      "120 Gems": "₺349,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 5,
+          "formattedPrice": "₺5,00",
+          "inAppPurchases": {
+            "50 Gems": "₺179,99",
+            "1400 Gems": "₺3.499,99",
+            "650 Gems": "₺1.999,99",
+            "250 Gems": "₺699,99",
+            "120 Gems": "₺349,99"
+          }
+        }
+      ]
+    ]
+  },
   "1009747025": {
     "name": "zFuse - Video Player",
     "maxPriceInfo": {
@@ -13991,6 +14134,49 @@
           "price": 229.99,
           "formattedPrice": "₺229,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1232529101": {
+    "name": "Home Behind",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
+      "Endless Mode DLC": "₺99,99",
+      "額外負重": "₺99,99",
+      "科学家": "₺229,99",
+      "郵差": "₺129,99",
+      "手工藝人": "₺129,99",
+      "飼養員": "₺99,99",
+      "退伍軍人": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
+      "Endless Mode DLC": "₺99,99",
+      "額外負重": "₺99,99",
+      "科学家": "₺229,99",
+      "郵差": "₺129,99",
+      "手工藝人": "₺129,99",
+      "飼養員": "₺99,99",
+      "退伍軍人": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Endless Mode DLC": "₺99,99",
+            "額外負重": "₺99,99",
+            "科学家": "₺229,99",
+            "郵差": "₺129,99",
+            "手工藝人": "₺129,99",
+            "飼養員": "₺99,99",
+            "退伍軍人": "₺99,99"
+          }
         }
       ]
     ]
@@ -23419,6 +23605,46 @@
       ]
     ]
   },
+  "1573482724": {
+    "name": "Coffee Inc 2",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Real Estate Expansion": "₺99,99",
+      "Venture Expansion": "₺99,99",
+      "Sports Expansion": "₺99,99",
+      "Custom Interior": "₺39,99",
+      "Auction Expansion": "₺99,99",
+      "Private Jet": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Real Estate Expansion": "₺99,99",
+      "Venture Expansion": "₺99,99",
+      "Sports Expansion": "₺99,99",
+      "Custom Interior": "₺39,99",
+      "Auction Expansion": "₺99,99",
+      "Private Jet": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Real Estate Expansion": "₺99,99",
+            "Venture Expansion": "₺99,99",
+            "Sports Expansion": "₺99,99",
+            "Custom Interior": "₺39,99",
+            "Auction Expansion": "₺99,99",
+            "Private Jet": "₺39,99"
+          }
+        }
+      ]
+    ]
+  },
   "1574175808": {
     "name": "Specimen Zero - Horror",
     "maxPriceInfo": {
@@ -25106,6 +25332,27 @@
       ]
     ]
   },
+  "1602772289": {
+    "name": "7 Days to End with You",
+    "maxPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1603553413": {
     "name": "手表浏览器",
     "maxPriceInfo": {
@@ -25553,6 +25800,48 @@
       ]
     ]
   },
+  "1613295180": {
+    "name": "Growing Up: Life of the '90s",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1614666556": {
+    "name": "CNC VMC Simulator",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1614771445": {
     "name": "Rotaeno",
     "maxPriceInfo": {
@@ -25991,6 +26280,31 @@
             "自定义武将席位4": "₺179,99",
             "自定义武将席位5": "₺179,99",
             "自定义武将席位3": "₺179,99"
+          }
+        }
+      ]
+    ]
+  },
+  "1624777523": {
+    "name": "Guess Who? Meet the Crew",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
+      "Transformers Rescue Bots Deck": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
+      "Transformers Rescue Bots Deck": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Transformers Rescue Bots Deck": "₺129,99"
           }
         }
       ]

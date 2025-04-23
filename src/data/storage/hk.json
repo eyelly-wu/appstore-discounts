@@ -2502,6 +2502,31 @@
       ]
     ]
   },
+  "430388524": {
+    "name": "Do! Spring Mint - To Do List",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00",
+      "Tip": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00",
+      "Tip": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Tip": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
+  },
   "431033044": {
     "name": "Phone Drive - 雲儲存管理和文件共享",
     "maxPriceInfo": {
@@ -7965,6 +7990,27 @@
       ]
     ]
   },
+  "592155900": {
+    "name": "Wake up! Earthquake",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "594117733": {
     "name": "仙劍奇俠傳1 DOS懷舊版",
     "maxPriceInfo": {
@@ -10317,6 +10363,27 @@
             "Paquete para el idioma español": "HK$ 0.00",
             "Arabic language pack": "HK$ 0.00"
           }
+        }
+      ]
+    ]
+  },
+  "625274950": {
+    "name": "國語辭典",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -14205,6 +14272,43 @@
       ]
     ]
   },
+  "998834675": {
+    "name": "Clouds & Sheep 2 Premium",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "1400 顆寶石": "HK$ 588.00",
+      "650 顆寶石": "HK$ 328.00",
+      "250 顆寶石": "HK$ 128.00",
+      "120 顆寶石": "HK$ 58.00",
+      "50 顆寶石": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "1400 顆寶石": "HK$ 588.00",
+      "650 顆寶石": "HK$ 328.00",
+      "250 顆寶石": "HK$ 128.00",
+      "120 顆寶石": "HK$ 58.00",
+      "50 顆寶石": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "1400 顆寶石": "HK$ 588.00",
+            "650 顆寶石": "HK$ 328.00",
+            "250 顆寶石": "HK$ 128.00",
+            "120 顆寶石": "HK$ 58.00",
+            "50 顆寶石": "HK$ 32.00"
+          }
+        }
+      ]
+    ]
+  },
   "1009747025": {
     "name": "zFuse - 影片播放器",
     "maxPriceInfo": {
@@ -17599,6 +17703,49 @@
           "price": 38,
           "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1232529101": {
+    "name": "歸家異途",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "無盡模式 DLC": "HK$ 18.00",
+      "额外负重": "HK$ 18.00",
+      "科學家": "HK$ 38.00",
+      "郵差": "HK$ 22.00",
+      "手工藝人": "HK$ 22.00",
+      "飼養員": "HK$ 18.00",
+      "退伍軍人": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "無盡模式 DLC": "HK$ 18.00",
+      "额外负重": "HK$ 18.00",
+      "科學家": "HK$ 38.00",
+      "郵差": "HK$ 22.00",
+      "手工藝人": "HK$ 22.00",
+      "飼養員": "HK$ 18.00",
+      "退伍軍人": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "無盡模式 DLC": "HK$ 18.00",
+            "额外负重": "HK$ 18.00",
+            "科學家": "HK$ 38.00",
+            "郵差": "HK$ 22.00",
+            "手工藝人": "HK$ 22.00",
+            "飼養員": "HK$ 18.00",
+            "退伍軍人": "HK$ 18.00"
+          }
         }
       ]
     ]
@@ -33289,6 +33436,46 @@
       ]
     ]
   },
+  "1573482724": {
+    "name": "Coffee Inc 2",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "Real Estate Expansion": "HK$ 18.00",
+      "Venture Expansion": "HK$ 18.00",
+      "Sports Expansion": "HK$ 18.00",
+      "Custom Interior": "HK$ 8.00",
+      "Auction Expansion": "HK$ 18.00",
+      "Private Jet": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "Real Estate Expansion": "HK$ 18.00",
+      "Venture Expansion": "HK$ 18.00",
+      "Sports Expansion": "HK$ 18.00",
+      "Custom Interior": "HK$ 8.00",
+      "Auction Expansion": "HK$ 18.00",
+      "Private Jet": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Real Estate Expansion": "HK$ 18.00",
+            "Venture Expansion": "HK$ 18.00",
+            "Sports Expansion": "HK$ 18.00",
+            "Custom Interior": "HK$ 8.00",
+            "Auction Expansion": "HK$ 18.00",
+            "Private Jet": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
+  },
   "1574175808": {
     "name": "Specimen Zero - Horror",
     "maxPriceInfo": {
@@ -35467,6 +35654,27 @@
       ]
     ]
   },
+  "1602772289": {
+    "name": "7 Days to End with You",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1603553413": {
     "name": "手表浏览器",
     "maxPriceInfo": {
@@ -36122,6 +36330,48 @@
       ]
     ]
   },
+  "1613295180": {
+    "name": "青春敘曲",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1614666556": {
+    "name": "CNC VMC Simulator",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1614771445": {
     "name": "Rotaeno - 旋轉音律",
     "maxPriceInfo": {
@@ -36646,6 +36896,31 @@
             "节日礼包": "HK$ 32.00",
             "犒赏令": "HK$ 88.00",
             "聚财盆": "HK$ 22.00"
+          }
+        }
+      ]
+    ]
+  },
+  "1624777523": {
+    "name": "Guess Who? Meet the Crew",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Transformers Rescue Bots Deck": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Transformers Rescue Bots Deck": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Transformers Rescue Bots Deck": "HK$ 22.00"
           }
         }
       ]

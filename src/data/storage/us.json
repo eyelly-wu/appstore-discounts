@@ -2664,6 +2664,31 @@
       ]
     ]
   },
+  "430388524": {
+    "name": "Do! Spring Mint - To Do List",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99",
+      "Tip": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99",
+      "Tip": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Tip": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
   "431033044": {
     "name": "Phone Drive: File Storage Sync",
     "maxPriceInfo": {
@@ -7211,7 +7236,17 @@
       "Scenario Pack": "$2.99",
       "Simian Flu Expansion Pack": "$1.99",
       "Shadow Plague Expansion Pack": "$1.99",
-      "Unlock Virus": "$0.99"
+      "Unlock Virus": "$0.99",
+      "Procurement Director": "$0.99",
+      "Disaster Manager": "$0.99",
+      "Medical Coordinator": "$0.99",
+      "Ethics Watchdog": "$0.99",
+      "Chaos Engineer": "$0.99",
+      "Economic Forecaster": "$0.99",
+      "Situation Director": "$0.99",
+      "Outreach Coordinator": "$0.99",
+      "Fast Response EMTs": "$0.99",
+      "Strategic Fundraiser": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -7225,9 +7260,38 @@
       "Scenario Pack": "$2.99",
       "Simian Flu Expansion Pack": "$1.99",
       "Shadow Plague Expansion Pack": "$1.99",
-      "Unlock Virus": "$0.99"
+      "Unlock Virus": "$0.99",
+      "Procurement Director": "$0.99",
+      "Disaster Manager": "$0.99",
+      "Medical Coordinator": "$0.99",
+      "Ethics Watchdog": "$0.99",
+      "Chaos Engineer": "$0.99",
+      "Economic Forecaster": "$0.99",
+      "Situation Director": "$0.99",
+      "Outreach Coordinator": "$0.99",
+      "Fast Response EMTs": "$0.99",
+      "Strategic Fundraiser": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Procurement Director": "$0.99",
+            "Disaster Manager": "$0.99",
+            "Medical Coordinator": "$0.99",
+            "Ethics Watchdog": "$0.99",
+            "Chaos Engineer": "$0.99",
+            "Economic Forecaster": "$0.99",
+            "Situation Director": "$0.99",
+            "Outreach Coordinator": "$0.99",
+            "Fast Response EMTs": "$0.99",
+            "Strategic Fundraiser": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -8120,6 +8184,27 @@
           "timestamp": 1745328692670,
           "price": 7.99,
           "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "592155900": {
+    "name": "Wake up! Earthquake",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]
@@ -10093,6 +10178,27 @@
             "Pacchetto lingua italiana": "$0.00",
             "Polski pakiet językowy": "$0.00"
           }
+        }
+      ]
+    ]
+  },
+  "625274950": {
+    "name": "中國漢語辭典 Chinese Dictionary",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -14152,6 +14258,43 @@
       ]
     ]
   },
+  "998834675": {
+    "name": "Clouds & Sheep 2 Premium",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "120 Gems": "$7.99",
+      "50 Gems": "$3.99",
+      "250 Gems": "$15.99",
+      "1400 Gems": "$79.99",
+      "650 Gems": "$40.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "120 Gems": "$7.99",
+      "50 Gems": "$3.99",
+      "250 Gems": "$15.99",
+      "1400 Gems": "$79.99",
+      "650 Gems": "$40.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "120 Gems": "$7.99",
+            "50 Gems": "$3.99",
+            "250 Gems": "$15.99",
+            "1400 Gems": "$79.99",
+            "650 Gems": "$40.99"
+          }
+        }
+      ]
+    ]
+  },
   "1009747025": {
     "name": "zFuse - Video Player",
     "maxPriceInfo": {
@@ -16934,6 +17077,49 @@
           "price": 4.99,
           "formattedPrice": "$4.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1232529101": {
+    "name": "Home Behind",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Endless Mode DLC": "$1.99",
+      "額外負重": "$1.99",
+      "科学家": "$4.99",
+      "郵差": "$2.99",
+      "手工藝人": "$2.99",
+      "飼養員": "$1.99",
+      "退伍軍人": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Endless Mode DLC": "$1.99",
+      "額外負重": "$1.99",
+      "科学家": "$4.99",
+      "郵差": "$2.99",
+      "手工藝人": "$2.99",
+      "飼養員": "$1.99",
+      "退伍軍人": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Endless Mode DLC": "$1.99",
+            "額外負重": "$1.99",
+            "科学家": "$4.99",
+            "郵差": "$2.99",
+            "手工藝人": "$2.99",
+            "飼養員": "$1.99",
+            "退伍軍人": "$1.99"
+          }
         }
       ]
     ]
@@ -32181,6 +32367,46 @@
       ]
     ]
   },
+  "1573482724": {
+    "name": "Coffee Inc 2",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Real Estate Expansion": "$1.99",
+      "Venture Expansion": "$1.99",
+      "Sports Expansion": "$1.99",
+      "Custom Interior": "$0.99",
+      "Auction Expansion": "$1.99",
+      "Private Jet": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Real Estate Expansion": "$1.99",
+      "Venture Expansion": "$1.99",
+      "Sports Expansion": "$1.99",
+      "Custom Interior": "$0.99",
+      "Auction Expansion": "$1.99",
+      "Private Jet": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Real Estate Expansion": "$1.99",
+            "Venture Expansion": "$1.99",
+            "Sports Expansion": "$1.99",
+            "Custom Interior": "$0.99",
+            "Auction Expansion": "$1.99",
+            "Private Jet": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
   "1574175808": {
     "name": "Specimen Zero - Horror",
     "maxPriceInfo": {
@@ -34527,6 +34753,27 @@
       ]
     ]
   },
+  "1602772289": {
+    "name": "7 Days to End with You",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1603553413": {
     "name": "手表浏览器",
     "maxPriceInfo": {
@@ -35163,6 +35410,48 @@
       ]
     ]
   },
+  "1613295180": {
+    "name": "Growing Up: Life of the '90s",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1614666556": {
+    "name": "CNC VMC Simulator",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1614771445": {
     "name": "Rotaeno",
     "maxPriceInfo": {
@@ -35673,6 +35962,31 @@
             "竞赛VIP赛季卡": "$3.99",
             "新手成长礼包": "$0.99",
             "新手导师": "$9.99"
+          }
+        }
+      ]
+    ]
+  },
+  "1624777523": {
+    "name": "Guess Who? Meet the Crew",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Transformers Rescue Bots Deck": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Transformers Rescue Bots Deck": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745442137026,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Transformers Rescue Bots Deck": "$2.99"
           }
         }
       ]
