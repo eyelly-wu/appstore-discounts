@@ -8003,6 +8003,25 @@
     "history": [
       [
         {
+          "timestamp": 1745424161197,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "骷心巫龍": "HK$ 58.00",
+            "黑龍灰霸齒": "HK$ 58.00",
+            "大型英雄包 2": "HK$ 98.00",
+            "倪浮世": "HK$ 8.00",
+            "剎陀羅": "HK$ 22.00",
+            "但丁": "HK$ 38.00",
+            "英雄包 3": "HK$ 18.00",
+            "帝娥翠": "HK$ 8.00",
+            "庫紹": "HK$ 22.00",
+            "一箱寶石": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745056932665,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -12797,7 +12816,10 @@
       "Abstract Theme 5": "HK$ 8.00",
       "Abstract Theme 4": "HK$ 8.00",
       "Abstract Theme 2": "HK$ 8.00",
-      "Abstract Theme 3": "HK$ 8.00"
+      "Abstract Theme 3": "HK$ 8.00",
+      "Abstract Theme 1": "HK$ 8.00",
+      "Abstract Theme Bundle": "HK$ 22.00",
+      "Great Art Bundle": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -12809,9 +12831,31 @@
       "Abstract Theme 5": "HK$ 8.00",
       "Abstract Theme 4": "HK$ 8.00",
       "Abstract Theme 2": "HK$ 8.00",
-      "Abstract Theme 3": "HK$ 8.00"
+      "Abstract Theme 3": "HK$ 8.00",
+      "Abstract Theme 1": "HK$ 8.00",
+      "Abstract Theme Bundle": "HK$ 22.00",
+      "Great Art Bundle": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745424161197,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Font Access": "HK$ 388.00",
+            "Pro Access": "HK$ 788.00",
+            "Ultimate Access": "HK$ 1,188.00",
+            "Abstract Theme 5": "HK$ 8.00",
+            "Abstract Theme 4": "HK$ 8.00",
+            "Abstract Theme 2": "HK$ 8.00",
+            "Abstract Theme 3": "HK$ 8.00",
+            "Abstract Theme 1": "HK$ 8.00",
+            "Abstract Theme Bundle": "HK$ 22.00",
+            "Great Art Bundle": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -42984,7 +43028,15 @@
       "Boeing 787-10": "HK$ 18.00",
       "Boeing 747-400": "HK$ 18.00",
       "Boeing 737-900": "HK$ 18.00",
-      "Concorde": "HK$ 18.00"
+      "Concorde": "HK$ 18.00",
+      "Robin DR400": "HK$ 8.00",
+      "Boeing 777F": "HK$ 18.00",
+      "Airbus A319": "HK$ 18.00",
+      "Antares 21E": "HK$ 8.00",
+      "ASK 21": "HK$ 8.00",
+      "Airbus A321": "HK$ 18.00",
+      "Boeing 737 MAX 9": "HK$ 18.00",
+      "Global scenery - 3 months": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 32,
@@ -42998,9 +43050,36 @@
       "Boeing 787-10": "HK$ 18.00",
       "Boeing 747-400": "HK$ 18.00",
       "Boeing 737-900": "HK$ 18.00",
-      "Concorde": "HK$ 18.00"
+      "Concorde": "HK$ 18.00",
+      "Robin DR400": "HK$ 8.00",
+      "Boeing 777F": "HK$ 18.00",
+      "Airbus A319": "HK$ 18.00",
+      "Antares 21E": "HK$ 8.00",
+      "ASK 21": "HK$ 8.00",
+      "Airbus A321": "HK$ 18.00",
+      "Boeing 737 MAX 9": "HK$ 18.00",
+      "Global scenery - 3 months": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745424161197,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Airbus A350-1000": "HK$ 32.00",
+            "Robin DR400": "HK$ 8.00",
+            "Boeing 777F": "HK$ 18.00",
+            "Airbus A319": "HK$ 18.00",
+            "Antares 21E": "HK$ 8.00",
+            "ASK 21": "HK$ 8.00",
+            "Airbus A321": "HK$ 18.00",
+            "Boeing 737 MAX 9": "HK$ 18.00",
+            "Global scenery - 1 month": "HK$ 32.00",
+            "Global scenery - 3 months": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,

@@ -18922,6 +18922,17 @@
     "history": [
       [
         {
+          "timestamp": 1745424161197,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "₺99,99",
+            "RFS Pro (6 month)": "₺139,99",
+            "RFS Pro (1 year)": "₺599,99",
+            "RFS Pro (6 months)": "₺899,90"
+          }
+        },
+        {
           "timestamp": 1745380960880,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -31021,7 +31032,8 @@
       "Boeing 737 MAX 9": "₺99,99",
       "Boeing 777-300ER": "₺99,99",
       "Global scenery - 12 months": "₺399,99",
-      "Airbus A321": "₺99,99"
+      "Airbus A321": "₺99,99",
+      "The Aircraft Bundle": "₺799,99"
     },
     "minPriceInfo": {
       "price": 179.99,
@@ -31035,10 +31047,28 @@
       "Boeing 737 MAX 9": "₺99,99",
       "Boeing 777-300ER": "₺99,99",
       "Global scenery - 12 months": "₺399,99",
-      "Airbus A321": "₺99,99"
+      "Airbus A321": "₺99,99",
+      "The Aircraft Bundle": "₺799,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745424161197,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A350-1000": "₺179,99",
+            "Airbus A380": "₺99,99",
+            "Global scenery - 12 months": "₺399,99",
+            "Global scenery - 3 months": "₺229,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Boeing 747-400": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 777-300ER": "₺99,99"
+          }
+        },
         {
           "timestamp": 1745375383677,
           "price": 179.99,
