@@ -63,6 +63,112 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 300132735,
+    name: {
+      hk: '專業萬年曆 - 十三行作品',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 430234732,
+    name: {
+      us: 'Site Audit Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 602990197,
+    name: {
+      mo: 'METAL SLUG X',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 898697688,
+    name: {
+      hk: '五十音輕鬆學：聯想記憶',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1304822713,
+    name: {
+      mo: '無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1400579543,
+    name: {
+      us: 'imo video calls and chat HD',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1435461053,
+    name: {
+      tr: 'This Is the Police',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1471323296,
+    name: {
+      hk: '籃球熱潮物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1472184189,
+    name: {
+      hk: 'The White Door',
+      tw: 'The White Door',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1478611992,
+    name: {
+      tr: 'Farming Simulator 20',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1498550832,
+    name: {
+      us: 'ASCCP Management Guidelines',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6739975257,
+    name: {
+      hk: '樂橋',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6670190133,
+    name: {
+      hk: '哆啦A夢的銅鑼燒店物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744862281,
+    name: {
+      mo: 'iPlayer - Offline Music  Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6473001577,
+    name: {
+      tr: 'Aerofly FS Global',
+    },
+    addType: 'auto',
+  },
+  {
     id: 327963391,
     name: {
       us: 'Pedi STAT',

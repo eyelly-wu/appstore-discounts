@@ -93,6 +93,27 @@
       ]
     ]
   },
+  "300132735": {
+    "name": "专业万年历 - 十三行作品",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745375383677,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "305557780": {
     "name": "换脸 (iSwap Faces Pro)",
     "maxPriceInfo": {
@@ -1706,6 +1727,34 @@
           "price": 88,
           "formattedPrice": "¥88.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "430234732": {
+    "name": "Site Audit Pro",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00",
+      "Monthly": "¥53.00",
+      "Yearly": "¥448.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00",
+      "Monthly": "¥53.00",
+      "Yearly": "¥448.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745375383677,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Monthly": "¥53.00",
+            "Yearly": "¥448.00"
+          }
         }
       ]
     ]
@@ -8670,6 +8719,27 @@
       ]
     ]
   },
+  "898697688": {
+    "name": "五十音輕鬆學：聯想記憶",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745375383677,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "898876435": {
     "name": "Planit巧摄专业版：风光摄影计划神器",
     "maxPriceInfo": {
@@ -11794,6 +11864,23 @@
     "history": [
       [
         {
+          "timestamp": 1745375383677,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "60根火柴": "¥6.00",
+            "月度礼包": "¥25.00",
+            "180根火柴": "¥18.00",
+            "限时礼包-2": "¥6.00",
+            "980根火柴": "¥98.00",
+            "1元礼包": "¥1.00",
+            "1元火柴礼包": "¥1.00",
+            "500根火柴": "¥50.00",
+            "超值礼包-1": "¥18.00",
+            "成长基金": "¥30.00"
+          }
+        },
+        {
           "timestamp": 1745371786907,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -14048,6 +14135,40 @@
           "price": 38,
           "formattedPrice": "¥38.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1304822713": {
+    "name": "无尽坦克大战 - 八位元单机王者 完美模拟穿越旧经典电视手游",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00",
+      "200张 换购券": "¥38.00",
+      "黄金认证": "¥15.00",
+      "500张 换购券": "¥68.00",
+      "50张 换购券": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00",
+      "200张 换购券": "¥38.00",
+      "黄金认证": "¥15.00",
+      "500张 换购券": "¥68.00",
+      "50张 换购券": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745375383677,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "200张 换购券": "¥38.00",
+            "黄金认证": "¥15.00",
+            "500张 换购券": "¥68.00",
+            "50张 换购券": "¥15.00"
+          }
         }
       ]
     ]
@@ -24064,6 +24185,27 @@
       ]
     ]
   },
+  "1498550832": {
+    "name": "ASCCP Management Guidelines",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745375383677,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1509344823": {
     "name": "Ezberle",
     "maxPriceInfo": {
@@ -31403,10 +31545,18 @@
       "formattedPrice": "¥1.00"
     },
     "minPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745375383677,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -32133,6 +32283,48 @@
           "inAppPurchases": {
             "高级功能": "¥8.00"
           }
+        }
+      ]
+    ]
+  },
+  "6739975257": {
+    "name": "乐桥",
+    "maxPriceInfo": {
+      "price": 25,
+      "formattedPrice": "¥25.00"
+    },
+    "minPriceInfo": {
+      "price": 25,
+      "formattedPrice": "¥25.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745375383677,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6744862281": {
+    "name": "iPlayer - 本地音乐播放器&离线音乐专业版",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745375383677,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
         }
       ]
     ]
