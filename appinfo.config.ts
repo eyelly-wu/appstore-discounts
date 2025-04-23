@@ -63,6 +63,125 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 400666114,
+    name: {
+      hk: 'Guitar Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 562989701,
+    name: {
+      tr: 'Vector Classic',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1127680609,
+    name: {
+      tw: 'Tortoise - Keep Recording',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1171627280,
+    name: {
+      tw: '魔窟-無盡的地下城：暗黑世界',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1179421849,
+    name: {
+      tw: 'GRID™ Autosport',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1260311003,
+    name: {
+      hk: 'Notation Scanner - 五線譜樂譜圖像識別',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1291427111,
+    name: {
+      hk: 'Evoland 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1437715202,
+    name: {
+      hk: '倉頡詞典',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1519571900,
+    name: {
+      tr: 'Luwian',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1544947623,
+    name: {
+      tr: 'Kiosk - fullscreen browser',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1575192531,
+    name: {
+      hk: '遊樂園夢物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742311454,
+    name: {
+      cn: '伏魔诀-阴阳秘术诡道修仙录',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6444396120,
+    name: {
+      cn: '挺进地牢',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6738590491,
+    name: {
+      hk: 'KennysGifs',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6444311205,
+    name: {
+      hk: 'GRID™ Legends: Deluxe Edition',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6477660875,
+    name: {
+      hk: '大海賊探險物語DX',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6447090616,
+    name: {
+      hk: 'Whisper Notes - 離線 AI 語音輸入轉錄文字',
+    },
+    addType: 'auto',
+  },
+  {
     id: 414371107,
     name: {
       tw: 'Morse Elmer',
