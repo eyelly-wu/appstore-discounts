@@ -39,6 +39,16 @@
     "history": [
       [
         {
+          "timestamp": 1745420552468,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "Pro Tier 2": "₺369,99",
+            "Pro Tier 1": "₺26,99",
+            "RadarScope Pro Subscription": "₺449,99"
+          }
+        },
+        {
           "timestamp": 1745419646428,
           "price": 449.99,
           "formattedPrice": "₺449,99",
@@ -19204,7 +19214,17 @@
       "Royal Rune": "₺129,99",
       "Norths Warden Pet Pack": "₺699,99",
       "Norths Warden Set": "₺899,99",
-      "Black Friday Combo Items": "₺1.299,99"
+      "Black Friday Combo Items": "₺1.299,99",
+      "Flash Sale Ore Rune 2": "₺99,99",
+      "Flash Sale Star Rune 2": "₺99,99",
+      "Flash Sale Crystal 2": "₺129,99",
+      "First Purchase: Legendary Pack": "₺449,99",
+      "Piggy Bank": "₺129,99",
+      "Flash Sale Crystal 3": "₺99,99",
+      "Flash Sale Ore Rune 1": "₺129,99",
+      "Double Exp Package 1": "₺39,99",
+      "Flash Sale Star Rune 1": "₺129,99",
+      "Black Friday Inferno": "₺899,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -19218,10 +19238,37 @@
       "Royal Rune": "₺129,99",
       "Norths Warden Pet Pack": "₺699,99",
       "Norths Warden Set": "₺899,99",
-      "Black Friday Combo Items": "₺1.299,99"
+      "Black Friday Combo Items": "₺1.299,99",
+      "Flash Sale Ore Rune 2": "₺99,99",
+      "Flash Sale Star Rune 2": "₺99,99",
+      "Flash Sale Crystal 2": "₺129,99",
+      "First Purchase: Legendary Pack": "₺449,99",
+      "Piggy Bank": "₺129,99",
+      "Flash Sale Crystal 3": "₺99,99",
+      "Flash Sale Ore Rune 1": "₺129,99",
+      "Double Exp Package 1": "₺39,99",
+      "Flash Sale Star Rune 1": "₺129,99",
+      "Black Friday Inferno": "₺899,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745420552468,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Flash Sale Ore Rune 2": "₺99,99",
+            "Flash Sale Star Rune 2": "₺99,99",
+            "Flash Sale Crystal 2": "₺129,99",
+            "First Purchase: Legendary Pack": "₺449,99",
+            "Piggy Bank": "₺129,99",
+            "Flash Sale Crystal 3": "₺99,99",
+            "Flash Sale Ore Rune 1": "₺129,99",
+            "Double Exp Package 1": "₺39,99",
+            "Flash Sale Star Rune 1": "₺129,99",
+            "Black Friday Inferno": "₺899,99"
+          }
+        },
         {
           "timestamp": 1745419646428,
           "price": 39.99,
