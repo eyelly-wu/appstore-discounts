@@ -2024,17 +2024,33 @@
       "Premium": "$360.00",
       "Super Powers": "$360.00",
       "Pack of 100 Credits": "$90.00",
-      "Pack of 550 Credits": "$390.00"
+      "Pack of 550 Credits": "$390.00",
+      "Pack of 450 Credits": "$499.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00",
       "Premium": "$360.00",
-      "Super Powers": "$360.00",
+      "Super Powers": "$90.00",
       "Pack of 100 Credits": "$90.00",
-      "Pack of 550 Credits": "$390.00"
+      "Pack of 550 Credits": "$390.00",
+      "Pack of 450 Credits": "$499.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745380960880,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Premium": "$360.00",
+            "Super Powers": "$90.00",
+            "Pack of 100 Credits": "$90.00",
+            "Pack of 550 Credits": "$390.00",
+            "Pack of 450 Credits": "$499.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -7876,6 +7892,25 @@
     "history": [
       [
         {
+          "timestamp": 1745380960880,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "骷心巫龍": "$220.00",
+            "黑龍灰霸齒": "$220.00",
+            "大型英雄包 2": "$390.00",
+            "倪浮世": "$30.00",
+            "剎陀羅": "$90.00",
+            "但丁": "$150.00",
+            "英雄包 3": "$60.00",
+            "庫紹": "$90.00",
+            "英雄包 1": "$60.00",
+            "帝娥翠": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745100129940,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -12834,7 +12869,8 @@
       "Rooster": "$30.00",
       "Monkey": "$30.00",
       "Goat": "$30.00",
-      "Horse": "$30.00"
+      "Horse": "$30.00",
+      "B.I.G.": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -12854,10 +12890,28 @@
       "Rooster": "$30.00",
       "Monkey": "$30.00",
       "Goat": "$30.00",
-      "Horse": "$30.00"
+      "Horse": "$30.00",
+      "B.I.G.": "$30.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1745380960880,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "$30.00",
+            "Unlock all stages": "$30.00",
+            "Atom": "$30.00",
+            "Small Coin Pack": "$30.00",
+            "Large Coin Pack": "$90.00",
+            "Snake": "$30.00",
+            "Dragon": "$30.00",
+            "Pig": "$30.00",
+            "Tiger": "$30.00",
+            "B.I.G.": "$30.00"
+          }
+        },
         {
           "timestamp": 1745355731152,
           "price": 30,
@@ -18805,6 +18859,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745380960880,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "unlockall_29": "$1,120.00",
+            "cyTus": "$190.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "MSR特選曲目組合包": "$190.00",
+            "新手上路包": "$33.00",
+            "MSR特選曲目組合包_Vol.02": "$190.00",
+            "放棄治療 Vol.3": "$130.00",
+            "Miku in Museland": "$290.00",
+            "Let's GROOVE": "$130.00"
+          }
+        },
         {
           "timestamp": 1745371786907,
           "price": 100,
@@ -33924,7 +33995,8 @@
       "Hero Lumenir": "$220.00",
       "科斯米爾": "$220.00",
       "骷心巫龍": "$220.00",
-      "英雄提供9": "$120.00"
+      "英雄提供9": "$120.00",
+      "沙丘哨兵": "$90.00"
     },
     "minPriceInfo": {
       "price": 220,
@@ -33936,9 +34008,27 @@
       "Hero Lumenir": "$220.00",
       "科斯米爾": "$220.00",
       "骷心巫龍": "$220.00",
-      "英雄提供9": "$120.00"
+      "英雄提供9": "$120.00",
+      "沙丘哨兵": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745380960880,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "巨大的威脅": "$290.00",
+            "所有塔": "$690.00",
+            "所有英雄": "$990.00",
+            "Hero Lumenir": "$220.00",
+            "骷心巫龍": "$220.00",
+            "科斯米爾": "$220.00",
+            "蜘蛛優惠": "$290.00",
+            "沙丘哨兵": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -39948,6 +40038,21 @@
     "history": [
       [
         {
+          "timestamp": 1745380960880,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品": "$120.00",
+            "12.99美元商品": "$390.00",
+            "9.99美元商品": "$320.00",
+            "0.99美元商品": "$30.00",
+            "19.99美元商品": "$690.00",
+            "39.99美元商品": "$1,290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745328692670,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -42347,7 +42452,8 @@
       "UH-60": "$30.00",
       "Concorde": "$60.00",
       "Boeing 747-400": "$60.00",
-      "Boeing 777F": "$60.00"
+      "Boeing 777F": "$60.00",
+      "Airbus A321": "$60.00"
     },
     "minPriceInfo": {
       "price": 120,
@@ -42361,10 +42467,28 @@
       "UH-60": "$30.00",
       "Concorde": "$60.00",
       "Boeing 747-400": "$60.00",
-      "Boeing 777F": "$60.00"
+      "Boeing 777F": "$60.00",
+      "Airbus A321": "$60.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1745380960880,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Airbus A350-1000": "$120.00",
+            "Global scenery - 1 month": "$120.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 787-10": "$60.00",
+            "The Aircraft Bundle": "$590.00",
+            "Boeing 777-300ER": "$60.00",
+            "UH-60": "$30.00",
+            "Concorde": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A321": "$60.00"
+          }
+        },
         {
           "timestamp": 1745375383677,
           "price": 120,
