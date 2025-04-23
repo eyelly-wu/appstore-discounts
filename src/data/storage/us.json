@@ -7275,6 +7275,23 @@
     "history": [
       [
         {
+          "timestamp": 1745445733132,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Necroa Virus Expansion Pack": "$1.99",
+            "Unlock 7 Standard Plagues": "$2.99",
+            "Neurax Worm Expansion Pack": "$1.99",
+            "Unlock All Genes": "$7.99",
+            "Unlock Cheats": "$9.99",
+            "Plague Pack": "$12.99",
+            "Scenario Pack": "$2.99",
+            "Simian Flu Expansion Pack": "$1.99",
+            "Shadow Plague Expansion Pack": "$1.99",
+            "Unlock Virus": "$0.99"
+          }
+        },
+        {
           "timestamp": 1745442137026,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -24817,7 +24834,9 @@
       "StudyTogether Stickers": "$1.99",
       "Good Morning - BuJo Stickers": "$0.99",
       "Dotted Grids & Graphs Papers": "$0.99",
-      "Slouchy Cat Stickers": "$1.99"
+      "Slouchy Cat Stickers": "$1.99",
+      "2025 Business Life (Sun.Start)": "$10.99",
+      "2025 Business Life (Mon.Start)": "$10.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -24922,9 +24941,30 @@
       "StudyTogether Stickers": "$1.99",
       "Good Morning - BuJo Stickers": "$0.99",
       "Dotted Grids & Graphs Papers": "$0.99",
-      "Slouchy Cat Stickers": "$1.99"
+      "Slouchy Cat Stickers": "$1.99",
+      "2025 Business Life (Sun.Start)": "$10.99",
+      "2025 Business Life (Mon.Start)": "$10.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745445733132,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "2025 Business Life (Sun.Start)": "$10.99",
+            "2025 Business Life (Mon.Start)": "$10.99",
+            "Neuroscience Sticker Book (w/": "$15.99",
+            "Physiology Sticker Book (w/ No": "$14.99",
+            "Customizable Medical Sticker B": "$15.99",
+            "Editable Physiology Sticker Bo": "$14.99",
+            "Digital Concept Map Notebook -": "$6.99",
+            "Digital Pathophysiology Notebo": "$6.99",
+            "170+ All-in-One Digital Planni": "$1.99",
+            "15-Minute Digital Daily Planne": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744556528275,
@@ -35843,7 +35883,8 @@
       "Spiders Offer": "$7.99",
       "Mega Tower Bundle": "$14.99",
       "Tower Dune Sentinels": "$2.99",
-      "Tower Surge Colossus": "$4.99"
+      "Tower Surge Colossus": "$4.99",
+      "All Heroes": "$29.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -35858,10 +35899,28 @@
       "Spiders Offer": "$7.99",
       "Mega Tower Bundle": "$14.99",
       "Tower Dune Sentinels": "$2.99",
-      "Tower Surge Colossus": "$4.99"
+      "Tower Surge Colossus": "$4.99",
+      "All Heroes": "$29.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745445733132,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "All Towers": "$19.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Spiders Offer": "$7.99",
+            "Tower Necromancer": "$4.99",
+            "Mega Tower Bundle": "$14.99",
+            "All Heroes": "$29.99"
+          }
+        },
         {
           "timestamp": 1745384546601,
           "price": 6.99,
@@ -42785,7 +42844,14 @@
       "Case IH Speed-Tiller": "$0.99",
       "KINZE 3665 Blue Drive": "$0.99",
       "Mack Trucks Black Anthem 6x4": "$1.99",
-      "ClaasLexion8900+ConvioFlex1380": "$2.99"
+      "ClaasLexion8900+ConvioFlex1380": "$2.99",
+      "JD 9000 Series + 390 Plus": "$1.99",
+      "Vervaet Hydro Trike 5x5": "$1.99",
+      "Kubota RTV-XG850 SIDEKICK": "$1.99",
+      "Case IH Austoft 8800 Multi-Row": "$1.99",
+      "Krone BiG Pack 1290 HDP VC": "$0.99",
+      "Kotte PQ 32000": "$0.99",
+      "Claas Xerion 5000": "$1.99"
     },
     "minPriceInfo": {
       "price": 7.99,
@@ -42799,9 +42865,35 @@
       "Case IH Speed-Tiller": "$0.99",
       "KINZE 3665 Blue Drive": "$0.99",
       "Mack Trucks Black Anthem 6x4": "$1.99",
-      "ClaasLexion8900+ConvioFlex1380": "$2.99"
+      "ClaasLexion8900+ConvioFlex1380": "$2.99",
+      "JD 9000 Series + 390 Plus": "$1.99",
+      "Vervaet Hydro Trike 5x5": "$1.99",
+      "Kubota RTV-XG850 SIDEKICK": "$1.99",
+      "Case IH Austoft 8800 Multi-Row": "$1.99",
+      "Krone BiG Pack 1290 HDP VC": "$0.99",
+      "Kotte PQ 32000": "$0.99",
+      "Claas Xerion 5000": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745445733132,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "$1.99",
+            "Vervaet Hydro Trike 5x5": "$1.99",
+            "Kubota RTV-XG850 SIDEKICK": "$1.99",
+            "Case IH Austoft 8800 Multi-Row": "$1.99",
+            "Krone BiG Pack 1290 HDP VC": "$0.99",
+            "Kotte PQ 32000": "$0.99",
+            "KINZE 3665 Blue Drive": "$0.99",
+            "Versatile 4WD 620": "$1.99",
+            "Amazone CITAN 15001-C": "$0.99",
+            "Claas Xerion 5000": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

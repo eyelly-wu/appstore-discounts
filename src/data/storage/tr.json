@@ -860,6 +860,23 @@
     "history": [
       [
         {
+          "timestamp": 1745445733132,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Portland HipstaPak": "₺39,99",
+            "Williamsburg Starter HipstaPak": "₺39,99",
+            "Mission Hipstapak": "₺39,99",
+            "Shibuya HipstaPak": "₺39,99",
+            "Camden HipstaPak": "₺39,99",
+            "Soho HipstaPak": "₺39,99",
+            "RetroPak One": "₺99,99",
+            "Bondi HipstaPak": "₺39,99",
+            "Tintype SnapPak": "₺39,99",
+            "Wicker Park HipstaPak": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1745442137026,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -4045,7 +4062,8 @@
       "Chapter S": "₺229,99",
       "Chapter L": "₺449,99",
       "Chapter 8": "₺229,99",
-      "Chapter 10": "₺229,99"
+      "Chapter 10": "₺229,99",
+      "Chapter 9": "₺229,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -4059,9 +4077,29 @@
       "Chapter S": "₺229,99",
       "Chapter L": "₺449,99",
       "Chapter 8": "₺229,99",
-      "Chapter 10": "₺229,99"
+      "Chapter 10": "₺229,99",
+      "Chapter 9": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745445733132,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Chapter N": "₺179,99",
+            "Chapter D": "₺229,99",
+            "Chapter L": "₺449,99",
+            "Chapter T": "₺229,99",
+            "Chapter R": "₺229,99",
+            "Chapter 0": "₺229,99",
+            "Chapter K": "₺229,99",
+            "Chapter 10": "₺229,99",
+            "Chapter 9": "₺229,99",
+            "Chapter S": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -5638,7 +5676,17 @@
       "Simian Flu Expansion Pack": "₺99,99",
       "Unlock Cheats": "₺449,99",
       "Plague Pack": "₺599,99",
-      "Shadow Plague Expansion Pack": "₺99,99"
+      "Shadow Plague Expansion Pack": "₺99,99",
+      "Procurement Director": "₺39,99",
+      "Disaster Manager": "₺39,99",
+      "Medical Coordinator": "₺39,99",
+      "Ethics Watchdog": "₺39,99",
+      "Chaos Engineer": "₺39,99",
+      "Economic Forecaster": "₺39,99",
+      "Situation Director": "₺39,99",
+      "Outreach Coordinator": "₺39,99",
+      "Fast Response EMTs": "₺39,99",
+      "Strategic Fundraiser": "₺39,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -5652,9 +5700,38 @@
       "Simian Flu Expansion Pack": "₺99,99",
       "Unlock Cheats": "₺449,99",
       "Plague Pack": "₺599,99",
-      "Shadow Plague Expansion Pack": "₺99,99"
+      "Shadow Plague Expansion Pack": "₺99,99",
+      "Procurement Director": "₺39,99",
+      "Disaster Manager": "₺39,99",
+      "Medical Coordinator": "₺39,99",
+      "Ethics Watchdog": "₺39,99",
+      "Chaos Engineer": "₺39,99",
+      "Economic Forecaster": "₺39,99",
+      "Situation Director": "₺39,99",
+      "Outreach Coordinator": "₺39,99",
+      "Fast Response EMTs": "₺39,99",
+      "Strategic Fundraiser": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745445733132,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Procurement Director": "₺39,99",
+            "Disaster Manager": "₺39,99",
+            "Medical Coordinator": "₺39,99",
+            "Ethics Watchdog": "₺39,99",
+            "Chaos Engineer": "₺39,99",
+            "Economic Forecaster": "₺39,99",
+            "Situation Director": "₺39,99",
+            "Outreach Coordinator": "₺39,99",
+            "Fast Response EMTs": "₺39,99",
+            "Strategic Fundraiser": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -8172,7 +8249,17 @@
       "Brian Crain Collection": "₺179,99",
       "Knight Iris": "₺179,99",
       "Knight Rosabell Collection": "₺179,99",
-      "MILI Collection": "₺179,99"
+      "MILI Collection": "₺179,99",
+      "Rayark 12th Collection": "₺179,99",
+      "Ayatsugu_Otowa Collection": "₺179,99",
+      "Sherwin Collection": "₺179,99",
+      "Capchii Collection": "₺179,99",
+      "VII Bundle 06": "₺599,99",
+      "VII Bundle 05": "₺499,99",
+      "VII Bundle 03": "₺299,99",
+      "VII Bundle 02": "₺229,99",
+      "VII Bundle 04": "₺399,99",
+      "VII Bundle 01": "₺129,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -8186,9 +8273,38 @@
       "Brian Crain Collection": "₺179,99",
       "Knight Iris": "₺179,99",
       "Knight Rosabell Collection": "₺179,99",
-      "MILI Collection": "₺179,99"
+      "MILI Collection": "₺179,99",
+      "Rayark 12th Collection": "₺179,99",
+      "Ayatsugu_Otowa Collection": "₺179,99",
+      "Sherwin Collection": "₺179,99",
+      "Capchii Collection": "₺179,99",
+      "VII Bundle 06": "₺599,99",
+      "VII Bundle 05": "₺499,99",
+      "VII Bundle 03": "₺299,99",
+      "VII Bundle 02": "₺229,99",
+      "VII Bundle 04": "₺399,99",
+      "VII Bundle 01": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745445733132,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "₺179,99",
+            "Ayatsugu_Otowa Collection": "₺179,99",
+            "Sherwin Collection": "₺179,99",
+            "Capchii Collection": "₺179,99",
+            "VII Bundle 06": "₺599,99",
+            "VII Bundle 05": "₺499,99",
+            "VII Bundle 03": "₺299,99",
+            "VII Bundle 02": "₺229,99",
+            "VII Bundle 04": "₺399,99",
+            "VII Bundle 01": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -23462,6 +23578,25 @@
       "Midnight Mix Pack 2": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745445733132,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Midnight Deck": "₺229,99",
+            "Midnight Night Out Pack": "₺99,99",
+            "Fun & Games Sports Mix Pack 1": "₺39,99",
+            "Word Bonanza Bundle": "₺449,99",
+            "Holiday Christmas Pack": "₺39,99",
+            "Mystery Mix Pack 1": "₺39,99",
+            "Celebrity Musicians Pack": "₺39,99",
+            "Midnight Mix Pack 1": "₺99,99",
+            "Midnight Bedroom Pack": "₺99,99",
+            "Surprise Pack 1": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745434910584,
