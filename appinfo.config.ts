@@ -63,6 +63,69 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 413943804,
+    name: {
+      mo: 'Real Piano™',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 508064644,
+    name: {
+      tr: 'Earthquakes Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1038014543,
+    name: {
+      tw: 'Day R Premium: last world war',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1084793426,
+    name: {
+      tr: 'Instant USGS Earthquake Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1596863467,
+    name: {
+      tw: 'LoveChoice 揀愛',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1602403259,
+    name: {
+      tr: 'Webmail App',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1622064157,
+    name: {
+      tr: 'Sismo: Vibration Meter & Alert',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6447606411,
+    name: {
+      tw: '創意咖啡店物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6449046261,
+    name: {
+      tw: '水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲',
+    },
+    addType: 'auto',
+  },
+  {
     id: 336543029,
     name: {
       tw: "Grat's Film Slate/Clapboard",
