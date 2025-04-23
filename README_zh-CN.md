@@ -42,6 +42,7 @@
    * RSS
    * Telegram
    * 钉钉
+* 支持根据应用付费排行榜更新跟踪的应用列表
 * 开源免费，任何人可参与贡献
 
 
@@ -842,17 +843,19 @@
 
 # 运行机制及流程
 整个机制依赖于 `GitHub Actions` 提供的定时任务，每隔 `60分钟` 执行一次，整体流程如下：
-1. 获取应用最新价格信息
+1. 获取付费排行榜的应用信息
+2. 更新跟踪的应用列表
+3. 获取应用最新价格信息
    1. 通过 [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1) 获取应用详细信息和 `应用本体` 的价格
    2. 基于上一步获取的应用详情链接，解析链接获取 `App 内购买项目` 的价格
-2. 读取已存储价格信息
-3. 计算出折扣信息
-4. 储存最新价格信息
-5. 更新 `RSS` 文件
-6. 推送通知到 `Telegram` 
-7. 推送通知到 `钉钉` 
-8. 更新 `README.md` 
-9. 提交 `Git` 更新
+4. 读取已存储价格信息
+5. 计算出折扣信息
+6. 储存最新价格信息
+7. 更新 `RSS` 文件
+8. 推送通知到 `Telegram` 
+9. 推送通知到 `钉钉` 
+10. 更新 `README.md` 
+11. 提交 `Git` 更新
 
 以上流程走完，如果有折扣信息，订阅了 `RSS 源` 和 `Telegram 频道` 的朋友，会收到推送
 # 如何参与贡献

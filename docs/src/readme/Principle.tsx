@@ -12,6 +12,8 @@ export default function Principle() {
       <List
         items={[
           'O',
+          t('获取付费排行榜的应用信息'),
+          t('更新跟踪的应用列表'),
           [
             t('获取应用最新价格信息'),
             [

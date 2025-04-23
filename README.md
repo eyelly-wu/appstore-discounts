@@ -42,6 +42,7 @@ Become the trusted savings assistant for  `App Store`  users, helping more peopl
    * RSS
    * Telegram
    * DingTalk
+* Supports update tracking application lists based on application paid rankings
 * Open source and free, anyone can contribute
 
 
@@ -839,17 +840,19 @@ So far, we've covered `6` `Countries or Regions` and  `768` `Apps` <br />Push no
 
 # Operating Mechanism and Process
 The entire mechanism relies on scheduled tasks provided by  `GitHub Actions` , executed every  `60 minutes` . The overall process is as follows:
-1. Get the latest price information for apps
+1. Get application information for paid rankings
+2. Update tracked app list
+3. Get the latest price information for apps
    1. Get app details and the price of  `App`  through  [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1) 
    2. Based on the app details link obtained in the previous step, parse the link to get the price of  `In-App Purchases` 
-2. Read stored price information
-3. Calculate discount information
-4. Store the latest price information
-5. Update  `RSS`  files
-6. Push notification to  `Telegram` 
-7. Push notification to  `DingTalk` 
-8. Update  `README.md` 
-9. Submit  `Git`  update
+4. Read stored price information
+5. Calculate discount information
+6. Store the latest price information
+7. Update  `RSS`  files
+8. Push notification to  `Telegram` 
+9. Push notification to  `DingTalk` 
+10. Update  `README.md` 
+11. Submit  `Git`  update
 
 After the above process, if there is discount information, friends who subscribed to  `RSS Source`  and  `Telegram Channel`  will receive a push notification
 # How to Contribute
