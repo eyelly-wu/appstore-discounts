@@ -28940,14 +28940,22 @@
   "1482339363": {
     "name": "iScore5 APHG",
     "maxPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 120,
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745413775715,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -43706,7 +43714,8 @@
       "Concorde": "$60.00",
       "Boeing 747-400": "$60.00",
       "Boeing 777F": "$60.00",
-      "Airbus A321": "$60.00"
+      "Airbus A321": "$60.00",
+      "CRJ900": "$30.00"
     },
     "minPriceInfo": {
       "price": 120,
@@ -43721,10 +43730,28 @@
       "Concorde": "$60.00",
       "Boeing 747-400": "$60.00",
       "Boeing 777F": "$60.00",
-      "Airbus A321": "$60.00"
+      "Airbus A321": "$60.00",
+      "CRJ900": "$30.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1745413775715,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Airbus A350-1000": "$120.00",
+            "Global scenery - 1 month": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "The Aircraft Bundle": "$590.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 777-300ER": "$60.00",
+            "UH-60": "$30.00",
+            "Concorde": "$60.00",
+            "CRJ900": "$30.00",
+            "Boeing 747-400": "$60.00"
+          }
+        },
         {
           "timestamp": 1745380960880,
           "price": 120,
