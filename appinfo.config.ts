@@ -63,6 +63,174 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 414371107,
+    name: {
+      tw: 'Morse Elmer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 510119487,
+    name: {
+      hk: 'AnatomyMapp',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 561396899,
+    name: {
+      hk: '皇帝養成計畫 - 經典歷史模擬遊戲',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 634158738,
+    name: {
+      us: 'e-Sword LT: Bible Study to Go',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 814977594,
+    name: {
+      tw: 'Surgeon Simulator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 958889621,
+    name: {
+      hk: 'ADF Trainer - YOU Session Prep',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1066366174,
+    name: {
+      hk: 'Concentration Grid',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1397002811,
+    name: {
+      hk: 'Catholic Hymn',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1447509164,
+    name: {
+      hk: 'Freya • Surge Timer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1456714022,
+    name: {
+      tw: 'RFECU Performance 2.0',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1459520638,
+    name: {
+      us: 'Wingspan: The Board Game',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1463480017,
+    name: {
+      tw: '韭菜投資公司',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1466120520,
+    name: {
+      us: 'iVerify Basic',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1499085878,
+    name: {
+      tr: 'CNC Lathe Simulator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1522425038,
+    name: {
+      tw: 'Alien10',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1541290982,
+    name: {
+      tw: 'GPSPlus Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1551579024,
+    name: {
+      hk: '創意漢堡物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1562608316,
+    name: {
+      hk: 'Kelvin: Light Panel',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1601177112,
+    name: {
+      mo: '便利商店開業日記',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1609059358,
+    name: {
+      hk: 'eVario2  - Variometer Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6702013134,
+    name: {
+      hk: 'Cat Flow - 貓計時器 & 專注番茄鐘',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740487579,
+    name: {
+      hk: 'Songs of Conquest Mobile',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6451009326,
+    name: {
+      hk: 'LMP',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6473789128,
+    name: {
+      tw: '星落湖傳說-魔法騎士團',
+    },
+    addType: 'auto',
+  },
+  {
     id: 299021909,
     name: {
       tw: '聖經工具(新標點和合本)',
