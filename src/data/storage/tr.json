@@ -4083,6 +4083,23 @@
     "history": [
       [
         {
+          "timestamp": 1745449345686,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Chapter D": "₺229,99",
+            "Chapter R": "₺229,99",
+            "Chapter N": "₺179,99",
+            "Chapter 0": "₺229,99",
+            "Chapter K": "₺229,99",
+            "Chapter T": "₺229,99",
+            "Chapter S": "₺229,99",
+            "Chapter L": "₺449,99",
+            "Chapter 8": "₺229,99",
+            "Chapter 10": "₺229,99"
+          }
+        },
+        {
           "timestamp": 1745445733132,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -5714,6 +5731,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745449345686,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Necroa Virus Expansion Pack": "₺99,99",
+            "Unlock 7 Standard Plagues": "₺129,99",
+            "Unlock Virus": "₺39,99",
+            "Neurax Worm Expansion Pack": "₺99,99",
+            "Unlock All Genes": "₺349,99",
+            "Scenario Pack": "₺129,99",
+            "Simian Flu Expansion Pack": "₺99,99",
+            "Unlock Cheats": "₺449,99",
+            "Plague Pack": "₺599,99",
+            "Shadow Plague Expansion Pack": "₺99,99"
+          }
+        },
         {
           "timestamp": 1745445733132,
           "price": 39.99,
@@ -8287,6 +8321,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745449345686,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "₺179,99",
+            "V.K Collection": "₺179,99",
+            "Forgotten Hourglass": "₺449,99",
+            "Rayark Selection Vol.2": "₺179,99",
+            "Cytus Selection Vol.1": "₺179,99",
+            "Cytus Selection Vol.2": "₺179,99",
+            "Brian Crain Collection": "₺179,99",
+            "Knight Iris": "₺179,99",
+            "Knight Rosabell Collection": "₺179,99",
+            "MILI Collection": "₺179,99"
+          }
+        },
         {
           "timestamp": 1745445733132,
           "price": 99.99,
@@ -11513,6 +11564,40 @@
             "法语AI超级会员(3个月)": "₺399,99",
             "法语AI超级会员(1年)": "₺999,99",
             "法语AI超级会员(1个月)": "₺149,99"
+          }
+        }
+      ]
+    ]
+  },
+  "998437590": {
+    "name": "西语背单词",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99",
+      "西语AI超级会员(1年)": "₺999,99",
+      "西语AI超级会员(2年)": "₺1.799,99",
+      "西语AI超级会员(3个月)": "₺399,99",
+      "西语AI超级会员(1个月)": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99",
+      "西语AI超级会员(1年)": "₺999,99",
+      "西语AI超级会员(2年)": "₺1.799,99",
+      "西语AI超级会员(3个月)": "₺399,99",
+      "西语AI超级会员(1个月)": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745449345686,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "西语AI超级会员(1年)": "₺999,99",
+            "西语AI超级会员(2年)": "₺1.799,99",
+            "西语AI超级会员(3个月)": "₺399,99",
+            "西语AI超级会员(1个月)": "₺149,99"
           }
         }
       ]
@@ -18257,8 +18342,8 @@
   "1437096541": {
     "name": "Rush Rally 3",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
       "Classic DLC Pack": "₺129,99",
       "Gravel Track Pack": "₺129,99",
       "Live Event Service": "₺99,99",
@@ -18273,6 +18358,19 @@
       "Retro Expansion Pack": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745449345686,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Classic DLC Pack": "₺129,99",
+            "Gravel Track Pack": "₺129,99",
+            "Live Event Service": "₺99,99",
+            "Retro Expansion Pack": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

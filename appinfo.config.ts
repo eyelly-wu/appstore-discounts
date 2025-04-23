@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 998437590,
+    name: {
+      cn: '西语背单词',
+    },
+    addType: 'auto',
+  },
+  {
     id: 430388524,
     name: {
       mo: 'Do! Spring Mint - To Do List',
