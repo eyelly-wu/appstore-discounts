@@ -21074,7 +21074,8 @@
       "Hamburger Token": "₺129,99",
       "L.A. Monstropolis Dice": "₺229,99",
       "Bald Eagle Token": "₺129,99",
-      "Cherry Blossom Tokyo Board": "₺249,99"
+      "Cherry Blossom Tokyo Board": "₺249,99",
+      "Transylvania Board": "₺249,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -21092,10 +21093,28 @@
       "Hamburger Token": "₺129,99",
       "L.A. Monstropolis Dice": "₺229,99",
       "Bald Eagle Token": "₺129,99",
-      "Cherry Blossom Tokyo Board": "₺249,99"
+      "Cherry Blossom Tokyo Board": "₺249,99",
+      "Transylvania Board": "₺249,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745478153695,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "Orient Express": "₺129,99",
+            "New York 2121 Board": "₺249,99",
+            "Welcome Offer": "₺899,99",
+            "The Complete Collection": "₺1.499,99",
+            "Transylvania Board": "₺249,99",
+            "Bald Eagle Token": "₺129,99",
+            "Cherry Blossom Tokyo Board": "₺249,99",
+            "Monstropolis Board": "₺249,99",
+            "New York 2121": "₺349,99"
+          }
+        },
         {
           "timestamp": 1745470938782,
           "price": 229.99,
@@ -28371,14 +28390,22 @@
   "6499198824": {
     "name": "ScanGo - PDF Document Scanner",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free"
+      "price": 349.99,
+      "formattedPrice": "₺349,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745478153695,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,

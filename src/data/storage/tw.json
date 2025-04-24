@@ -10893,7 +10893,9 @@
       "M2U X NICODE Collection": "$120.00",
       "Rayark Selection Vol.3": "$120.00",
       "Cytus Selection Vol.2": "$120.00",
-      "Knight Iris": "$120.00"
+      "Knight Iris": "$120.00",
+      "Brian Crain Collection": "$120.00",
+      "Eshen Chen Colleciton Vol.1": "$120.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -10907,9 +10909,30 @@
       "M2U X NICODE Collection": "$120.00",
       "Rayark Selection Vol.3": "$120.00",
       "Cytus Selection Vol.2": "$120.00",
-      "Knight Iris": "$120.00"
+      "Knight Iris": "$120.00",
+      "Brian Crain Collection": "$120.00",
+      "Eshen Chen Colleciton Vol.1": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745478153695,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "$120.00",
+            "Rayark Selection Vol.2": "$120.00",
+            "MILI Collection": "$120.00",
+            "V.K Collection": "$120.00",
+            "Brian Crain Collection": "$120.00",
+            "Eshen Chen Colleciton Vol.1": "$120.00",
+            "Rayark Selection Vol.3": "$120.00",
+            "Cytus Selection Vol.1": "$120.00",
+            "Cytus Selection Vol.2": "$120.00",
+            "Knight Iris": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -36569,6 +36592,21 @@
     "history": [
       [
         {
+          "timestamp": 1745478153695,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "巨大的威脅": "$290.00",
+            "所有塔": "$690.00",
+            "所有英雄": "$990.00",
+            "Hero Lumenir": "$220.00",
+            "骷心巫龍": "$220.00",
+            "蜘蛛優惠": "$290.00",
+            "科斯米爾": "$220.00",
+            "英雄提供11": "$90.00"
+          }
+        },
+        {
           "timestamp": 1745470938782,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -42191,6 +42229,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745478153695,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1726408918239,
