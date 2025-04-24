@@ -63,6 +63,41 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 338893931,
+    name: {
+      us: 'Prepware Aviation Maintenance',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 596026805,
+    name: {
+      tw: 'PhotoPills',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1448573670,
+    name: {
+      cn: '冒险与征服-暗黑单机RPG角色扮演挂机游戏',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1619733202,
+    name: {
+      hk: '的士地方筆試 2024 Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6450058135,
+    name: {
+      tw: 'Unpacking',
+    },
+    addType: 'auto',
+  },
+  {
     id: 304731501,
     name: {
       hk: 'Tempo - Metronome 節拍器',
