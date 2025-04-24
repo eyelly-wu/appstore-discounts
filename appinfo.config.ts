@@ -63,6 +63,62 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 463295925,
+    name: {
+      hk: 'Official DVSA Theory Test Kit',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1115022026,
+    name: {
+      hk: 'The Secret To Money',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1442440203,
+    name: {
+      tw: '大家的日本語初級1-改訂版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1453820315,
+    name: {
+      hk: 'This Is the Police 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1453875289,
+    name: {
+      tr: 'Hyper Light Drifter',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1543161449,
+    name: {
+      tw: '冒險村物語2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1616652599,
+    name: {
+      hk: 'Kingdom Eighties',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6444435974,
+    name: {
+      tw: 'VARIOUS DAYLIFE Mobile',
+    },
+    addType: 'auto',
+  },
+  {
     id: 755018884,
     name: {
       cn: '新概念英语专业版 - 英语美语全四册',

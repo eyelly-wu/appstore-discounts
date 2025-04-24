@@ -4475,6 +4475,31 @@
       ]
     ]
   },
+  "463295925": {
+    "name": "Official DVSA Theory Test Kit",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "DVSA Driving essential skills": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "DVSA Driving essential skills": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745470938782,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "DVSA Driving essential skills": "USD 9.99"
+          }
+        }
+      ]
+    ]
+  },
   "466388978": {
     "name": "My Contacts Backup Pro",
     "maxPriceInfo": {
@@ -12705,11 +12730,28 @@
       "[大袋水晶]": "USD 9.99",
       "[大箱水晶]": "USD 49.99",
       "[小袋水晶]": "USD 3.99",
-      "貪婪洞窟點券": "USD 49.99",
+      "貪婪洞窟點券": "USD 2.99",
       "Package4": "USD 9.99",
       "[小箱水晶]": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745470938782,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "[小堆水晶]": "USD 0.99",
+            "[小盒水晶]": "USD 2.99",
+            "[大袋水晶]": "USD 9.99",
+            "[大箱水晶]": "USD 49.99",
+            "[小袋水晶]": "USD 3.99",
+            "Package4": "USD 9.99",
+            "[小箱水晶]": "USD 19.99",
+            "貪婪洞窟點券": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -14071,6 +14113,27 @@
             "Expansion Pack - Time Twister": "USD 1.99",
             "Toolkit: Edit, Design and Share": "USD 5.99"
           }
+        }
+      ]
+    ]
+  },
+  "1115022026": {
+    "name": "The Secret To Money",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745470938782,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -23237,6 +23300,27 @@
       ]
     ]
   },
+  "1453820315": {
+    "name": "This Is the Police 2",
+    "maxPriceInfo": {
+      "price": 1.39,
+      "formattedPrice": "USD 1.39"
+    },
+    "minPriceInfo": {
+      "price": 1.39,
+      "formattedPrice": "USD 1.39"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745470938782,
+          "price": 1.39,
+          "formattedPrice": "USD 1.39",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1453838527": {
     "name": "Age of History II",
     "maxPriceInfo": {
@@ -23251,6 +23335,27 @@
       [
         {
           "timestamp": 1745328692670,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1453875289": {
+    "name": "Hyper Light Drifter",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745470938782,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
@@ -26742,6 +26847,27 @@
       [
         {
           "timestamp": 1745398953972,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1543161449": {
+    "name": "冒險村物語2",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745470938782,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
           "inAppPurchases": {}
@@ -30251,6 +30377,27 @@
           "timestamp": 1745384546601,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1616652599": {
+    "name": "Kingdom Eighties",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745470938782,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
         }
       ]
@@ -35881,8 +36028,8 @@
       "1汉币": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "348汉币": "USD 49.99",
       "128汉币": "USD 19.99",
       "68汉币": "USD 9.99",
@@ -35891,6 +36038,21 @@
       "1汉币": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745470938782,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "348汉币": "USD 49.99",
+            "128汉币": "USD 19.99",
+            "68汉币": "USD 9.99",
+            "38汉币": "USD 4.99",
+            "6汉币": "USD 0.99",
+            "1汉币": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
@@ -36649,6 +36811,27 @@
           "timestamp": 1745461818532,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6444435974": {
+    "name": "VARIOUS DAYLIFE Mobile",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745470938782,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
           "inAppPurchases": {}
         }
       ]
