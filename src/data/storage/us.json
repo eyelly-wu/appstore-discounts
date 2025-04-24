@@ -272,6 +272,25 @@
     "history": [
       [
         {
+          "timestamp": 1745506952822,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "$0.99",
+            "Grimm Skin Pack": "$0.99",
+            "Zombie Skin Pack": "$0.99",
+            "Monster Pack": "$0.99",
+            "Dance Pack Three": "$0.99",
+            "Mondo Pack": "$0.99",
+            "Superbowl Skin Pack": "$0.99",
+            "Candy Land Pack": "$0.99",
+            "Underwater World Pack": "$0.99",
+            "Mafia Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745352145100,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -13093,12 +13112,15 @@
       "Small Money Pack": "$0.99",
       "Dragun": "$14.99",
       "Exorcist": "$14.99",
-      "Extra Large Money Pack": "$9.99"
+      "Extra Large Money Pack": "$9.99",
+      "Extra Large Tokens Pack": "$11.99",
+      "Promo Bundle": "$24.99",
+      "Medium Money Pack": "$4.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
-      "Starter Pack": "$4.99",
+      "Starter Pack": "$2.99",
       "Largo Sniper Rifle": "$0.99",
       "Aria Sniper Rifle": "$9.99",
       "Brutus Sniper Rifle": "$5.99",
@@ -13107,9 +13129,26 @@
       "Small Money Pack": "$0.99",
       "Dragun": "$14.99",
       "Exorcist": "$14.99",
-      "Extra Large Money Pack": "$9.99"
+      "Extra Large Money Pack": "$7.99",
+      "Extra Large Tokens Pack": "$11.99",
+      "Promo Bundle": "$24.99",
+      "Medium Money Pack": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745506952822,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Extra Large Tokens Pack": "$11.99",
+            "Extra Large Money Pack": "$7.99",
+            "Promo Bundle": "$24.99",
+            "Starter Pack": "$2.99",
+            "Medium Money Pack": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -15718,7 +15757,8 @@
       "250 Conversations": "$4.99",
       "545 Days SVIP": "$12.99",
       "3-Year SVIP": "$24.99",
-      "Annual Special SVIP": "$12.99"
+      "Annual Special SVIP": "$12.99",
+      "90 Days SVIP": "$2.99"
     },
     "minPriceInfo": {
       "price": 14.99,
@@ -15732,9 +15772,27 @@
       "250 Conversations": "$4.99",
       "545 Days SVIP": "$12.99",
       "3-Year SVIP": "$24.99",
-      "Annual Special SVIP": "$12.99"
+      "Annual Special SVIP": "$12.99",
+      "90 Days SVIP": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745506952822,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "90 Days SVIP": "$2.99",
+            "Annual Special SVIP": "$12.99",
+            "545 Days SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "SVIP auto-renew annually": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743325336699,
@@ -25494,12 +25552,27 @@
       "formattedPrice": "$8.99",
       "RadarOmega - Alpha Monthly": "$11.99",
       "Data Level Gamma": "$49.99",
-      "Data Level Beta": "$89.99",
+      "Data Level Beta": "$8.99",
       "RapidSweep": "$7.99",
       "Data Level Alpha": "$119.99",
       "Add-on RapidSweep": "$84.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745506952822,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "Add-on RapidSweep": "$84.99",
+            "RapidSweep": "$7.99",
+            "Data Level Gamma": "$49.99",
+            "Data Level Beta": "$8.99",
+            "Data Level Alpha": "$119.99",
+            "RadarOmega - Alpha Monthly": "$11.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -37495,7 +37568,17 @@
       "SP武将碎片": "$39.99",
       "竞赛VIP赛季卡": "$3.99",
       "新手成长礼包": "$0.99",
-      "新手导师": "$9.99"
+      "新手导师": "$9.99",
+      "自建武将皮肤4": "$3.99",
+      "自建武将皮肤3": "$9.99",
+      "自建武将皮肤2": "$3.99",
+      "自创武将皮肤1": "$9.99",
+      "一袋碎片": "$49.99",
+      "一堆碎片": "$3.99",
+      "自定义武将席位6": "$3.99",
+      "自定义武将席位4": "$3.99",
+      "自定义武将席位5": "$3.99",
+      "自定义武将席位3": "$3.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -37508,9 +37591,38 @@
       "SP武将碎片": "$39.99",
       "竞赛VIP赛季卡": "$3.99",
       "新手成长礼包": "$0.99",
-      "新手导师": "$9.99"
+      "新手导师": "$9.99",
+      "自建武将皮肤4": "$3.99",
+      "自建武将皮肤3": "$9.99",
+      "自建武将皮肤2": "$3.99",
+      "自创武将皮肤1": "$9.99",
+      "一袋碎片": "$49.99",
+      "一堆碎片": "$3.99",
+      "自定义武将席位6": "$3.99",
+      "自定义武将席位4": "$3.99",
+      "自定义武将席位5": "$3.99",
+      "自定义武将席位3": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745506952822,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "自建武将皮肤4": "$3.99",
+            "自建武将皮肤3": "$9.99",
+            "自建武将皮肤2": "$3.99",
+            "自创武将皮肤1": "$9.99",
+            "一袋碎片": "$49.99",
+            "一堆碎片": "$3.99",
+            "自定义武将席位6": "$3.99",
+            "自定义武将席位4": "$3.99",
+            "自定义武将席位5": "$3.99",
+            "自定义武将席位3": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

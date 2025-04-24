@@ -13791,7 +13791,15 @@
       "Vault O Monkey Money Sale": "₺299,99",
       "Paragon Unlock": "₺229,99",
       "Vault O Monkey Money": "₺899,99",
-      "Tower and Paragon Unlock": "₺449,99"
+      "Tower and Paragon Unlock": "₺449,99",
+      "She-Ra Prestige Pack Sale": "₺299,99",
+      "She-Ra Sword Booster Sale": "₺99,99",
+      "She-Ra Sword Power Booster": "₺179,99",
+      "She-Ra Prestige Pack": "₺599,99",
+      "Battle Cat Booster Pack": "₺179,99",
+      "Battle Cat Prestige Pack": "₺179,99",
+      "Rogue Legends": "₺449,99",
+      "Heroes and Skins Complete 2024": "₺999,99"
     },
     "minPriceInfo": {
       "price": 299.99,
@@ -13805,9 +13813,34 @@
       "Vault O Monkey Money Sale": "₺299,99",
       "Paragon Unlock": "₺229,99",
       "Vault O Monkey Money": "₺899,99",
-      "Tower and Paragon Unlock": "₺449,99"
+      "Tower and Paragon Unlock": "₺449,99",
+      "She-Ra Prestige Pack Sale": "₺299,99",
+      "She-Ra Sword Booster Sale": "₺99,99",
+      "She-Ra Sword Power Booster": "₺179,99",
+      "She-Ra Prestige Pack": "₺599,99",
+      "Battle Cat Booster Pack": "₺179,99",
+      "Battle Cat Prestige Pack": "₺179,99",
+      "Rogue Legends": "₺449,99",
+      "Heroes and Skins Complete 2024": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745506952822,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "She-Ra Prestige Pack Sale": "₺299,99",
+            "She-Ra Sword Booster Sale": "₺99,99",
+            "She-Ra Sword Power Booster": "₺179,99",
+            "She-Ra Prestige Pack": "₺599,99",
+            "Battle Cat Booster Pack": "₺179,99",
+            "Battle Cat Prestige Pack": "₺179,99",
+            "Rogue Legends": "₺449,99",
+            "Heroes and Skins Complete 2024": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -33351,10 +33384,18 @@
       "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
-      "price": 179.99,
-      "formattedPrice": "₺179,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745506952822,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
