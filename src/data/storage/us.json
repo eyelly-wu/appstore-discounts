@@ -8328,6 +8328,25 @@
     "history": [
       [
         {
+          "timestamp": 1745467358775,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745208188903,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -14656,7 +14675,9 @@
       "[A chest of crystals]": "$19.99",
       "Package4": "$9.99",
       "Coupon of the Greedy Cave": "$3.99",
-      "[A big chest of crystals]": "$49.99"
+      "[A big chest of crystals]": "$49.99",
+      "Package8": "$49.99",
+      "Package7": "$29.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -14667,10 +14688,24 @@
       "[A big package of crystals]": "$9.99",
       "[A chest of crystals]": "$19.99",
       "Package4": "$9.99",
-      "Coupon of the Greedy Cave": "$3.99",
-      "[A big chest of crystals]": "$49.99"
+      "Coupon of the Greedy Cave": "$0.99",
+      "[A big chest of crystals]": "$49.99",
+      "Package8": "$49.99",
+      "Package7": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745467358775,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Coupon of the Greedy Cave": "$0.99",
+            "Package8": "$49.99",
+            "Package7": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -27814,7 +27849,8 @@
       "Crystal Piggy Bank 5": "$4.99",
       "Flash Sale Legendary Essence 1": "$4.99",
       "Flash Sale Crystal 3": "$1.99",
-      "LegendaryPackage": "$19.99"
+      "LegendaryPackage": "$19.99",
+      "Flash Sale Star Rune 1": "$2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -27828,9 +27864,29 @@
       "Crystal Piggy Bank 5": "$4.99",
       "Flash Sale Legendary Essence 1": "$4.99",
       "Flash Sale Crystal 3": "$1.99",
-      "LegendaryPackage": "$19.99"
+      "LegendaryPackage": "$19.99",
+      "Flash Sale Star Rune 1": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745467358775,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Crystal 3": "$1.99",
+            "Flash Sale Star Rune 1": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745419646428,
@@ -36148,6 +36204,25 @@
     "history": [
       [
         {
+          "timestamp": 1745467358775,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "All Towers": "$19.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Spiders Offer": "$7.99",
+            "Tower Dune Sentinels": "$2.99",
+            "All Heroes": "$29.99",
+            "Mega Tower Bundle": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745458190368,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -41368,7 +41443,9 @@
       "12.99美元商品": "$12.99",
       "0.99美元商品": "$0.99",
       "9.99美元商品": "$9.99",
-      "89.99美元商品": "$89.99"
+      "89.99美元商品": "$89.99",
+      "19.99美元商品": "$19.99",
+      "49.99美元商品": "$49.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -41378,9 +41455,27 @@
       "12.99美元商品": "$12.99",
       "0.99美元商品": "$0.99",
       "9.99美元商品": "$9.99",
-      "89.99美元商品": "$89.99"
+      "89.99美元商品": "$89.99",
+      "19.99美元商品": "$19.99",
+      "49.99美元商品": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745467358775,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "39.99美元商品": "$39.99",
+            "3.99美元商品": "$3.99",
+            "89.99美元商品": "$89.99",
+            "19.99美元商品": "$19.99",
+            "49.99美元商品": "$49.99",
+            "12.99美元商品": "$12.99",
+            "9.99美元商品": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

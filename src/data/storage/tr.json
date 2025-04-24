@@ -21007,6 +21007,23 @@
     "history": [
       [
         {
+          "timestamp": 1745467358775,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "Welcome Offer": "₺899,99",
+            "Orient Express": "₺129,99",
+            "New York 2121 Board": "₺249,99",
+            "The Complete Collection": "₺1.499,99",
+            "Bald Eagle Token": "₺129,99",
+            "Monstropolis Board": "₺249,99",
+            "New York 2121": "₺349,99",
+            "Victorian London Board": "₺249,99",
+            "Lava Dice": "₺229,99"
+          }
+        },
+        {
           "timestamp": 1745458190368,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -31826,8 +31843,8 @@
       "1汉币": "₺4,99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "348汉币": "₺2.299,99",
       "128汉币": "₺899,99",
       "68汉币": "₺449,99",
@@ -31836,6 +31853,21 @@
       "1汉币": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745467358775,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "348汉币": "₺2.299,99",
+            "128汉币": "₺899,99",
+            "68汉币": "₺449,99",
+            "38汉币": "₺229,99",
+            "6汉币": "₺39,99",
+            "1汉币": "₺4,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
