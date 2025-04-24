@@ -63,6 +63,76 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 304731501,
+    name: {
+      hk: 'Tempo - Metronome 節拍器',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 954982733,
+    name: {
+      hk: 'Tuner T1 Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 979048658,
+    name: {
+      tw: '新多益必考選擇題型1000',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1050535507,
+    name: {
+      hk: 'Lanota - 動感節奏音樂遊戲',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1078553162,
+    name: {
+      tw: '超級單字王Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1384164285,
+    name: {
+      mo: 'AR魯班尺',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1586762439,
+    name: {
+      tr: 'Auto Translate for Safari',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1598843625,
+    name: {
+      hk: 'DragonSpear-Ex',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6445905944,
+    name: {
+      tr: 'Garten of Banban 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6449941289,
+    name: {
+      tr: 'Spirit of the Island',
+    },
+    addType: 'auto',
+  },
+  {
     id: 384363262,
     name: {
       tw: '13:20:Sync',

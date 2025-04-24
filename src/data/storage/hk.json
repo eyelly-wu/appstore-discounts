@@ -239,6 +239,34 @@
       ]
     ]
   },
+  "304731501": {
+    "name": "Tempo - Metronome 節拍器",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Premium Theme Pack": "HK$ 8.00",
+      "Theme Editor": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Premium Theme Pack": "HK$ 8.00",
+      "Theme Editor": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745517753203,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Premium Theme Pack": "HK$ 8.00",
+            "Theme Editor": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
+  },
   "305557780": {
     "name": "iSwap Faces Pro",
     "maxPriceInfo": {
@@ -14427,6 +14455,27 @@
       ]
     ]
   },
+  "954982733": {
+    "name": "Tuner T1 Pro",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745517753203,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "955687901": {
     "name": "kirakira+",
     "maxPriceInfo": {
@@ -15526,6 +15575,58 @@
       ]
     ]
   },
+  "1050535507": {
+    "name": "Lanota - 動感節奏音樂遊戲",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "白金方案（每月續訂）": "HK$ 48.00",
+      "Radiant Star Trail 限時挑戰書": "HK$ 32.00",
+      "基本方案（每月續訂）": "HK$ 8.00",
+      "白金方案（每三個月續訂）": "HK$ 118.00",
+      "主線第八章": "HK$ 88.00",
+      "擴充章節H": "HK$ 32.00",
+      "擴充章節 U": "HK$ 32.00",
+      "擴充章節B": "HK$ 32.00",
+      "支線第一章": "HK$ 32.00",
+      "擴充章節 I": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "白金方案（每月續訂）": "HK$ 48.00",
+      "Radiant Star Trail 限時挑戰書": "HK$ 32.00",
+      "基本方案（每月續訂）": "HK$ 8.00",
+      "白金方案（每三個月續訂）": "HK$ 118.00",
+      "主線第八章": "HK$ 88.00",
+      "擴充章節H": "HK$ 32.00",
+      "擴充章節 U": "HK$ 32.00",
+      "擴充章節B": "HK$ 32.00",
+      "支線第一章": "HK$ 32.00",
+      "擴充章節 I": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745517753203,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "白金方案（每月續訂）": "HK$ 48.00",
+            "Radiant Star Trail 限時挑戰書": "HK$ 32.00",
+            "基本方案（每月續訂）": "HK$ 8.00",
+            "白金方案（每三個月續訂）": "HK$ 118.00",
+            "主線第八章": "HK$ 88.00",
+            "擴充章節H": "HK$ 32.00",
+            "擴充章節 U": "HK$ 32.00",
+            "擴充章節B": "HK$ 32.00",
+            "支線第一章": "HK$ 32.00",
+            "擴充章節 I": "HK$ 32.00"
+          }
+        }
+      ]
+    ]
+  },
   "1054505347": {
     "name": "zFuse - 視頻播放器",
     "maxPriceInfo": {
@@ -16175,6 +16276,27 @@
             "500次加量包": "HK$ 88.00",
             "250次加量包": "HK$ 38.00"
           }
+        }
+      ]
+    ]
+  },
+  "1078553162": {
+    "name": "超級單字王Pro",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745517753203,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -19763,7 +19885,10 @@
       "Medium Tip": "HK$ 18.00",
       "Small Tip": "HK$ 8.00",
       "Super Mega Smashing Tip": "HK$ 228.00",
-      "Super Mega Tip": "HK$ 88.00"
+      "Super Mega Tip": "HK$ 88.00",
+      "The Ultimate Tip": "HK$ 428.00",
+      "Super Smashing Tip": "HK$ 128.00",
+      "Super Tip": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -19776,9 +19901,30 @@
       "Medium Tip": "HK$ 18.00",
       "Small Tip": "HK$ 8.00",
       "Super Mega Smashing Tip": "HK$ 228.00",
-      "Super Mega Tip": "HK$ 88.00"
+      "Super Mega Tip": "HK$ 88.00",
+      "The Ultimate Tip": "HK$ 428.00",
+      "Super Smashing Tip": "HK$ 128.00",
+      "Super Tip": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745517753203,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "HK$ 23.00",
+            "Power Builder (yearly)": "HK$ 203.00",
+            "Power Builder (weekly)": "HK$ 8.00",
+            "The Ultimate Tip": "HK$ 428.00",
+            "Super Mega Smashing Tip": "HK$ 228.00",
+            "Super Smashing Tip": "HK$ 128.00",
+            "Super Mega Tip": "HK$ 88.00",
+            "Mega Tip": "HK$ 48.00",
+            "Super Tip": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -26041,6 +26187,49 @@
           "price": 22,
           "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1384164285": {
+    "name": "AR魯班尺",
+    "maxPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "月VIP會員": "HK$ 38.00",
+      "解锁所有功能": "HK$ 148.00",
+      "最长测量长度为2千米": "HK$ 38.00",
+      "46.08厘米尺长": "HK$ 38.00",
+      "移除广告": "HK$ 32.00",
+      "年VIP會員": "HK$ 98.00",
+      "50.4厘米尺长": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "月VIP會員": "HK$ 38.00",
+      "解锁所有功能": "HK$ 148.00",
+      "最长测量长度为2千米": "HK$ 38.00",
+      "46.08厘米尺长": "HK$ 38.00",
+      "移除广告": "HK$ 32.00",
+      "年VIP會員": "HK$ 98.00",
+      "50.4厘米尺长": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745517753203,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "月VIP會員": "HK$ 38.00",
+            "解锁所有功能": "HK$ 148.00",
+            "最长测量长度为2千米": "HK$ 38.00",
+            "46.08厘米尺长": "HK$ 38.00",
+            "移除广告": "HK$ 32.00",
+            "年VIP會員": "HK$ 98.00",
+            "50.4厘米尺长": "HK$ 38.00"
+          }
         }
       ]
     ]
@@ -35679,6 +35868,27 @@
       ]
     ]
   },
+  "1586762439": {
+    "name": "Auto Translate for Safari",
+    "maxPriceInfo": {
+      "price": 29,
+      "formattedPrice": "HK$ 29.00"
+    },
+    "minPriceInfo": {
+      "price": 29,
+      "formattedPrice": "HK$ 29.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745517753203,
+          "price": 29,
+          "formattedPrice": "HK$ 29.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1587301632": {
     "name": "全能備忘錄",
     "maxPriceInfo": {
@@ -37199,6 +37409,31 @@
             "4 vs 4 獨立戰役地圖": "HK$ 0.00",
             "3 vs 3 獨立戰役地圖": "HK$ 0.00",
             "戰役任務 6-10": "HK$ 0.00"
+          }
+        }
+      ]
+    ]
+  },
+  "1598843625": {
+    "name": "DragonSpear-Ex",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "天空祭壇入場券": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "天空祭壇入場券": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745517753203,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "天空祭壇入場券": "HK$ 22.00"
           }
         }
       ]
@@ -46523,6 +46758,48 @@
           "timestamp": 1745503347397,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6445905944": {
+    "name": "Garten of Banban 2",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745517753203,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449941289": {
+    "name": "Spirit of the Island",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745517753203,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
           "inAppPurchases": {}
         }
       ]
