@@ -20678,7 +20678,7 @@
       "formattedPrice": "₺39,99",
       "RFS Pro (1 month)": "₺99,99",
       "RFS Pro (6 month)": "₺139,99",
-      "RFS Pro (1 year)": "₺599,99",
+      "RFS Pro (1 year)": "₺1.199,99",
       "RFS Pro (6 months)": "₺899,90"
     },
     "minPriceInfo": {
@@ -20690,6 +20690,19 @@
       "RFS Pro (6 months)": "₺899,90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745532132606,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "₺99,99",
+            "RFS Pro (6 month)": "₺139,99",
+            "RFS Pro (1 year)": "₺1.199,99",
+            "RFS Pro (6 months)": "₺899,90"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745424161197,
@@ -23625,6 +23638,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745532132606,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {
+            "Fairytale Kingdom Bundle": "₺249,99",
+            "Haunted Hills World": "₺199,99",
+            "Fairytale Kingdom": "₺199,99",
+            "The Ultimate Life Collection": "₺1.299,99",
+            "Frozen Lands Bundle": "₺249,99",
+            "Lunar Age World": "₺199,99",
+            "Frozen Lands": "₺199,99",
+            "Haunted Hills Bundle": "₺249,99",
+            "Sweet Haven World": "₺199,99",
+            "Lunar Age Bundle": "₺249,99"
+          }
+        },
         {
           "timestamp": 1745528534252,
           "price": 79.99,
@@ -33927,7 +33957,9 @@
       "Boeing 777-300ER": "₺99,99",
       "Global scenery - 12 months": "₺399,99",
       "Airbus A321": "₺99,99",
-      "The Aircraft Bundle": "₺799,99"
+      "The Aircraft Bundle": "₺799,99",
+      "UH-60": "₺39,99",
+      "Boeing 787-10": "₺99,99"
     },
     "minPriceInfo": {
       "price": 179.99,
@@ -33942,9 +33974,30 @@
       "Boeing 777-300ER": "₺99,99",
       "Global scenery - 12 months": "₺399,99",
       "Airbus A321": "₺99,99",
-      "The Aircraft Bundle": "₺799,99"
+      "The Aircraft Bundle": "₺799,99",
+      "UH-60": "₺39,99",
+      "Boeing 787-10": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745532132606,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Airbus A350-1000": "₺179,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A321": "₺99,99",
+            "UH-60": "₺39,99",
+            "Boeing 787-10": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745424161197,

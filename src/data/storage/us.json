@@ -7668,7 +7668,12 @@
       "Situation Director": "$0.99",
       "Outreach Coordinator": "$0.99",
       "Fast Response EMTs": "$0.99",
-      "Strategic Fundraiser": "$0.99"
+      "Strategic Fundraiser": "$0.99",
+      "Unlock Parasite": "$0.99",
+      "Unlock Fungus": "$0.99",
+      "Unlock Prion": "$0.99",
+      "Unlock NanoVirus": "$0.99",
+      "Unlock Bio Weapon": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -7692,9 +7697,33 @@
       "Situation Director": "$0.99",
       "Outreach Coordinator": "$0.99",
       "Fast Response EMTs": "$0.99",
-      "Strategic Fundraiser": "$0.99"
+      "Strategic Fundraiser": "$0.99",
+      "Unlock Parasite": "$0.99",
+      "Unlock Fungus": "$0.99",
+      "Unlock Prion": "$0.99",
+      "Unlock NanoVirus": "$0.99",
+      "Unlock Bio Weapon": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745532132606,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Unlock Parasite": "$0.99",
+            "Unlock Virus": "$0.99",
+            "Unlock Fungus": "$0.99",
+            "Unlock Prion": "$0.99",
+            "Unlock NanoVirus": "$0.99",
+            "Unlock Bio Weapon": "$0.99",
+            "Unlock 7 Standard Plagues": "$2.99",
+            "Unlock Cheats": "$9.99",
+            "Neurax Worm Expansion Pack": "$1.99",
+            "Unlock All Genes": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745445733132,
@@ -12581,6 +12610,25 @@
       "12 Mo. Global Texting": "$27.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745532132606,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "1 Mo. Fongo Plus": "$9.99",
+            "$20 Credit": "$19.99",
+            "12 Mo. Global Texting": "$27.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745352145100,
@@ -37934,6 +37982,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745532132606,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "All Towers": "$19.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Mega Tower Bundle": "$14.99",
+            "Tower Dune Sentinels": "$2.99",
+            "Tower Necromancer": "$4.99",
+            "All Heroes": "$29.99"
+          }
+        },
         {
           "timestamp": 1745488957273,
           "price": 6.99,
