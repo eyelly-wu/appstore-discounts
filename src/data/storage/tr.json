@@ -11209,7 +11209,9 @@
       "ThemeA1B0C1": "₺0,00",
       "ThemeA1B1C0": "₺0,00",
       "ThemeA2B0C0": "₺0,00",
-      "主题大礼包": "₺179,99"
+      "主题大礼包": "₺179,99",
+      "ThemeA2B0C1": "₺179,99",
+      "ThemeA2B1C0": "₺179,99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -11223,9 +11225,30 @@
       "ThemeA1B0C1": "₺0,00",
       "ThemeA1B1C0": "₺0,00",
       "ThemeA2B0C0": "₺0,00",
-      "主题大礼包": "₺179,99"
+      "主题大礼包": "₺179,99",
+      "ThemeA2B0C1": "₺179,99",
+      "ThemeA2B1C0": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745510557666,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "₺0,00",
+            "ThemeA0B1C0": "₺0,00",
+            "ThemeA1B0C0": "₺0,00",
+            "ThemeA0B1C1": "₺0,00",
+            "ThemeA1B0C1": "₺0,00",
+            "ThemeA1B1C0": "₺0,00",
+            "ThemeA2B0C0": "₺0,00",
+            "主题大礼包": "₺179,99",
+            "ThemeA2B0C1": "₺179,99",
+            "ThemeA2B1C0": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -13825,6 +13848,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745510557666,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺129,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺229,99",
+            "Pile O Monkey Money": "₺229,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Double Cash Mode": "₺399,99",
+            "Paragon Unlock": "₺229,99",
+            "Vault O Monkey Money": "₺899,99",
+            "Tower and Paragon Unlock": "₺449,99"
+          }
+        },
         {
           "timestamp": 1745506952822,
           "price": 299.99,

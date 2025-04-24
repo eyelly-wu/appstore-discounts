@@ -13272,7 +13272,8 @@
       "威爾伯": "$220.00",
       "勇敢樹霸": "$150.00",
       "威之難": "$150.00",
-      "特別優惠火鳳凰": "$150.00"
+      "特別優惠火鳳凰": "$150.00",
+      "迪納斯王子": "$90.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -13286,9 +13287,29 @@
       "威爾伯": "$220.00",
       "勇敢樹霸": "$150.00",
       "威之難": "$150.00",
-      "特別優惠火鳳凰": "$150.00"
+      "特別優惠火鳳凰": "$150.00",
+      "迪納斯王子": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745510557666,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "浮士德": "$220.00",
+            "火鳳凰": "$220.00",
+            "特別優惠浮士德": "$150.00",
+            "Big Hero Pack 3": "$490.00",
+            "銳戈勝": "$60.00",
+            "怖鹿獅": "$150.00",
+            "威爾伯": "$220.00",
+            "勇敢樹霸": "$150.00",
+            "威之難": "$150.00",
+            "迪納斯王子": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
@@ -26362,7 +26383,17 @@
       "Region Tour": "$120.00",
       "戰役 + 挑戰": "$150.00",
       "場景包": "$150.00",
-      "黑暗洞窟擴展": "$60.00"
+      "黑暗洞窟擴展": "$60.00",
+      "精靈詛咒": "$30.00",
+      "神秘瘟疫": "$30.00",
+      "特大旱災": "$30.00",
+      "山雨欲來": "$30.00",
+      "軌道星鏈": "$30.00",
+      "加急空運": "$30.00",
+      "魔鬼山峰": "$60.00",
+      "國防部長": "$30.00",
+      "徵兵員": "$30.00",
+      "無人機程式員": "$30.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -26374,9 +26405,38 @@
       "Region Tour": "$120.00",
       "戰役 + 挑戰": "$150.00",
       "場景包": "$150.00",
-      "黑暗洞窟擴展": "$60.00"
+      "黑暗洞窟擴展": "$60.00",
+      "精靈詛咒": "$30.00",
+      "神秘瘟疫": "$30.00",
+      "特大旱災": "$30.00",
+      "山雨欲來": "$30.00",
+      "軌道星鏈": "$30.00",
+      "加急空運": "$30.00",
+      "魔鬼山峰": "$60.00",
+      "國防部長": "$30.00",
+      "徵兵員": "$30.00",
+      "無人機程式員": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745510557666,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "精靈詛咒": "$30.00",
+            "神秘瘟疫": "$30.00",
+            "特大旱災": "$30.00",
+            "山雨欲來": "$30.00",
+            "軌道星鏈": "$30.00",
+            "加急空運": "$30.00",
+            "魔鬼山峰": "$60.00",
+            "國防部長": "$30.00",
+            "徵兵員": "$30.00",
+            "無人機程式員": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -29095,7 +29155,17 @@
       "Piggy Bank": "$90.00",
       "Flash Sale Ultimate Essence 1": "$490.00",
       "Flash Sale Legendary Essence 1": "$150.00",
-      "Double Exp Package 3": "$120.00"
+      "Double Exp Package 3": "$120.00",
+      "Dynasty Hero Set": "$690.00",
+      "Dynasty Pet": "$490.00",
+      "Ultimate Amulet": "$190.00",
+      "Ultimate Ring": "$190.00",
+      "Ultimate Pet": "$190.00",
+      "Ultimate Ancient": "$390.00",
+      "Royal Rune": "$90.00",
+      "Norths Warden Pet Pack": "$490.00",
+      "Norths Warden Set": "$690.00",
+      "Black Friday Combo Items": "$990.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -29109,9 +29179,38 @@
       "Piggy Bank": "$90.00",
       "Flash Sale Ultimate Essence 1": "$490.00",
       "Flash Sale Legendary Essence 1": "$150.00",
-      "Double Exp Package 3": "$120.00"
+      "Double Exp Package 3": "$120.00",
+      "Dynasty Hero Set": "$690.00",
+      "Dynasty Pet": "$490.00",
+      "Ultimate Amulet": "$190.00",
+      "Ultimate Ring": "$190.00",
+      "Ultimate Pet": "$190.00",
+      "Ultimate Ancient": "$390.00",
+      "Royal Rune": "$90.00",
+      "Norths Warden Pet Pack": "$490.00",
+      "Norths Warden Set": "$690.00",
+      "Black Friday Combo Items": "$990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745510557666,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "$690.00",
+            "Dynasty Pet": "$490.00",
+            "Ultimate Amulet": "$190.00",
+            "Ultimate Ring": "$190.00",
+            "Ultimate Pet": "$190.00",
+            "Ultimate Ancient": "$390.00",
+            "Royal Rune": "$90.00",
+            "Norths Warden Pet Pack": "$490.00",
+            "Norths Warden Set": "$690.00",
+            "Black Friday Combo Items": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745419646428,
@@ -46366,6 +46465,25 @@
       "Airbus A380": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745510557666,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Airbus A350-1000": "$120.00",
+            "Global scenery - 1 month": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "The Aircraft Bundle": "$590.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "CRJ900": "$30.00",
+            "UH-60": "$30.00",
+            "Concorde": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745488957273,
