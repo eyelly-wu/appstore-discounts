@@ -2212,7 +2212,8 @@
       "Astrolocality Maps": "₺999,99",
       "Predictive Report - No Background": "₺129,99",
       "Birth Chart Report - Untimed": "₺129,99",
-      "Predictive Report - Untimed": "₺129,99"
+      "Predictive Report - Untimed": "₺129,99",
+      "Lunar Return Report": "₺179,99"
     },
     "minPriceInfo": {
       "price": 1799.99,
@@ -2226,9 +2227,29 @@
       "Astrolocality Maps": "₺999,99",
       "Predictive Report - No Background": "₺129,99",
       "Birth Chart Report - Untimed": "₺129,99",
-      "Predictive Report - Untimed": "₺129,99"
+      "Predictive Report - Untimed": "₺129,99",
+      "Lunar Return Report": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745500208771,
+          "price": 1799.99,
+          "formattedPrice": "₺1.799,99",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺179,99",
+            "Predictive Report - Full": "₺179,99",
+            "Relationship Report": "₺179,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Birthday Report": "₺179,99",
+            "Child Report - Full": "₺179,99",
+            "Predictive Report - No Background": "₺129,99",
+            "Astrolocality Maps": "₺999,99",
+            "Lunar Return Report": "₺179,99",
+            "Birth Chart Report - Untimed": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
@@ -21786,6 +21807,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745500208771,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "New York 2121 Board": "₺249,99",
+            "Orient Express": "₺129,99",
+            "Welcome Offer": "₺899,99",
+            "Victorian London Board": "₺249,99",
+            "The Complete Collection": "₺1.499,99",
+            "Transylvania Board": "₺249,99",
+            "Bald Eagle Token": "₺129,99",
+            "Cherry Blossom Tokyo Board": "₺249,99",
+            "Monstropolis Board": "₺249,99"
+          }
+        },
         {
           "timestamp": 1745478153695,
           "price": 229.99,

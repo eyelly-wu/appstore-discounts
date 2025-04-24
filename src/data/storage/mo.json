@@ -8726,7 +8726,17 @@
       "Panda Express": "USD 1.99",
       "Ocean Vacation": "USD 0.00",
       "Express Yourself": "USD 1.99",
-      "Adult Supervision": "USD 1.99"
+      "Adult Supervision": "USD 1.99",
+      "Kids Family Bundle BYOD": "USD 6.99",
+      "Kids Bundle with BYOD": "USD 4.99",
+      "Kids Family Bundle BYOD Sale": "USD 5.99",
+      "Build Your Own Deck - Kids": "USD 2.99",
+      "Kids Bundle with BYOD Sale": "USD 3.99",
+      "Kids Bundle": "USD 4.99",
+      "Kids Family Bundle": "USD 6.99",
+      "AAPI Month Bundle": "USD 5.99",
+      "Chinese Cuisine Deck": "USD 1.99",
+      "AAPI Month Bundle Sale": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -8740,9 +8750,38 @@
       "Panda Express": "USD 1.99",
       "Ocean Vacation": "USD 0.00",
       "Express Yourself": "USD 1.99",
-      "Adult Supervision": "USD 1.99"
+      "Adult Supervision": "USD 1.99",
+      "Kids Family Bundle BYOD": "USD 6.99",
+      "Kids Bundle with BYOD": "USD 4.99",
+      "Kids Family Bundle BYOD Sale": "USD 5.99",
+      "Build Your Own Deck - Kids": "USD 2.99",
+      "Kids Bundle with BYOD Sale": "USD 3.99",
+      "Kids Bundle": "USD 4.99",
+      "Kids Family Bundle": "USD 6.99",
+      "AAPI Month Bundle": "USD 5.99",
+      "Chinese Cuisine Deck": "USD 1.99",
+      "AAPI Month Bundle Sale": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745500208771,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Kids Family Bundle BYOD": "USD 6.99",
+            "Kids Bundle with BYOD": "USD 4.99",
+            "Kids Family Bundle BYOD Sale": "USD 5.99",
+            "Build Your Own Deck - Kids": "USD 2.99",
+            "Kids Bundle with BYOD Sale": "USD 3.99",
+            "Kids Bundle": "USD 4.99",
+            "Kids Family Bundle": "USD 6.99",
+            "AAPI Month Bundle": "USD 5.99",
+            "Chinese Cuisine Deck": "USD 1.99",
+            "AAPI Month Bundle Sale": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -29072,6 +29111,25 @@
       "命運神殿禮包263": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745500208771,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "女神祈禱好禮272": "USD 9.99",
+            "特權禮包271": "USD 9.99",
+            "女神幸運禮包270": "USD 14.99",
+            "女神祈禱好禮269": "USD 6.99",
+            "鑽石優惠禮包268": "USD 12.99",
+            "命運神殿禮包267": "USD 2.99",
+            "命運神殿禮包266": "USD 17.99",
+            "女神幸運禮包265": "USD 12.99",
+            "鑽石優惠禮包264": "USD 5.99",
+            "命運神殿禮包263": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
