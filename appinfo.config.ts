@@ -63,6 +63,118 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 344844888,
+    name: {
+      hk: '天元烏兔萬年曆 - 十三行作品',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 349242632,
+    name: {
+      hk: '六爻裝卦',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 936694037,
+    name: {
+      hk: 'Voice Recorder - Audio Record',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1101997011,
+    name: {
+      hk: '奇門(實用)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1147297267,
+    name: {
+      hk: "Don't Starve: Shipwrecked",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1205486761,
+    name: {
+      tw: 'Beholder',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1506620807,
+    name: {
+      hk: '麻雀AI小番 - 胡牌分析',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1513506417,
+    name: {
+      cn: '轻历 - 清新日历',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1563906582,
+    name: {
+      hk: 'Bus Simulator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1586437121,
+    name: {
+      hk: '吃饭打卡-饮食记录和减肥健身,轻断食健康管理日记本',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1599393574,
+    name: {
+      tr: 'Peace, Death! 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1642715290,
+    name: {
+      hk: 'Little Big Workshop',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1672004303,
+    name: {
+      hk: '探險頑皮動物園',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6463115144,
+    name: {
+      tw: '開拍！電視製作物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6448530928,
+    name: {
+      tr: 'Total War™: EMPIRE',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6502455111,
+    name: {
+      tr: 'Lara Croft: Guardian of Light',
+    },
+    addType: 'auto',
+  },
+  {
     id: 295462558,
     name: {
       hk: 'Toobz',
