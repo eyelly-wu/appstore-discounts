@@ -63,6 +63,34 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 755018884,
+    name: {
+      cn: '新概念英语专业版 - 英语美语全四册',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1319618742,
+    name: {
+      hk: 'Getting Over It',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1423115391,
+    name: {
+      tr: 'Führerschein 2025 GOLD',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6474207287,
+    name: {
+      hk: 'Wagotabi（和語旅）：學習日語',
+    },
+    addType: 'auto',
+  },
+  {
     id: 497880658,
     name: {
       us: 'J23 - Release Dates & Restocks',
