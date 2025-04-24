@@ -1837,6 +1837,40 @@
       ]
     ]
   },
+  "384363262": {
+    "name": "13:20:Sync",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
+      "Notes - Tzolkin/13Moon Cycles": "HK$ 22.00",
+      "Tip Jar: Large Coffee": "HK$ 88.00",
+      "Tip Jar: Small Coffee": "HK$ 18.00",
+      "Tip Jar: Medium Coffee": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
+      "Notes - Tzolkin/13Moon Cycles": "HK$ 22.00",
+      "Tip Jar: Large Coffee": "HK$ 88.00",
+      "Tip Jar: Small Coffee": "HK$ 18.00",
+      "Tip Jar: Medium Coffee": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "HK$ 22.00",
+            "Tip Jar: Large Coffee": "HK$ 88.00",
+            "Tip Jar: Small Coffee": "HK$ 18.00",
+            "Tip Jar: Medium Coffee": "HK$ 38.00"
+          }
+        }
+      ]
+    ]
+  },
   "388130466": {
     "name": "iSlash",
     "maxPriceInfo": {
@@ -11267,6 +11301,23 @@
     "history": [
       [
         {
+          "timestamp": 1745503347397,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Rayark Selection Vol.2": "HK$ 32.00",
+            "V.K Collection": "HK$ 32.00",
+            "Rayark Selection Vol.1": "HK$ 32.00",
+            "被遺忘的沙漏": "HK$ 88.00",
+            "Cytus Selection Vol.1": "HK$ 32.00",
+            "Cytus Selection Vol.2": "HK$ 32.00",
+            "Rayark Selection Vol.3": "HK$ 32.00",
+            "Knight Iris": "HK$ 32.00",
+            "MILI Collection": "HK$ 32.00",
+            "M2U X NICODE Collection": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1745500208771,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -18146,8 +18197,8 @@
       "喚生石1100個": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "功能禮包": "HK$ 32.00",
       "自動禮包": "HK$ 128.00",
       "綜合禮包": "HK$ 128.00",
@@ -18160,6 +18211,25 @@
       "喚生石1100個": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "功能禮包": "HK$ 32.00",
+            "自動禮包": "HK$ 128.00",
+            "綜合禮包": "HK$ 128.00",
+            "寶石300個": "HK$ 32.00",
+            "戒指禮包": "HK$ 188.00",
+            "魔法禮包": "HK$ 68.00",
+            "魅魔禮包": "HK$ 328.00",
+            "地獄禮包": "HK$ 188.00",
+            "寶石660個": "HK$ 68.00",
+            "喚生石1100個": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -34426,6 +34496,23 @@
     "history": [
       [
         {
+          "timestamp": 1745503347397,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "HK$ 0.00",
+            "Dawncaster Mega Bundle": "HK$ 98.00",
+            "Siege of Shadows": "HK$ 38.00",
+            "Tribes of Twilight": "HK$ 38.00",
+            "Masks of Misery": "HK$ 38.00",
+            "Death of Divinity": "HK$ 38.00",
+            "Infernal Invasions": "HK$ 48.00",
+            "Dawncaster Origins Bundle": "HK$ 38.00",
+            "Eclypse Supporter Pack": "HK$ 32.00",
+            "Infinitum Support Banner": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1745500208771,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -34715,6 +34802,27 @@
           "timestamp": 1745328692670,
           "price": 123,
           "formattedPrice": "HK$ 123.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1561136737": {
+    "name": "Word Puzzle-Cambridge (NoAds)",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]
@@ -45861,10 +45969,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745419646428,
@@ -46244,6 +46360,67 @@
           "timestamp": 1745492532710,
           "price": 79,
           "formattedPrice": "HK$ 79.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6451224796": {
+    "name": "藏武",
+    "maxPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "一大堆元寶": "HK$ 32.00",
+      "一堆元寶": "HK$ 8.00",
+      "一袋元寶": "HK$ 118.00",
+      "一箱元寶": "HK$ 388.00",
+      "一大箱元寶": "HK$ 788.00",
+      "一大袋元寶": "HK$ 228.00"
+    },
+    "minPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "一大堆元寶": "HK$ 32.00",
+      "一堆元寶": "HK$ 8.00",
+      "一袋元寶": "HK$ 118.00",
+      "一箱元寶": "HK$ 388.00",
+      "一大箱元寶": "HK$ 788.00",
+      "一大袋元寶": "HK$ 228.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "一大堆元寶": "HK$ 32.00",
+            "一堆元寶": "HK$ 8.00",
+            "一袋元寶": "HK$ 118.00",
+            "一箱元寶": "HK$ 388.00",
+            "一大箱元寶": "HK$ 788.00",
+            "一大袋元寶": "HK$ 228.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6504192378": {
+    "name": "B.ROLL - 青春濾鏡相機",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]

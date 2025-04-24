@@ -1717,6 +1717,40 @@
       ]
     ]
   },
+  "384363262": {
+    "name": "13:20:Sync",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99",
+      "Notes - Tzolkin/13Moon Cycles": "USD 2.99",
+      "Tip Jar: Large Coffee": "USD 9.99",
+      "Tip Jar: Small Coffee": "USD 1.99",
+      "Tip Jar: Medium Coffee": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99",
+      "Notes - Tzolkin/13Moon Cycles": "USD 2.99",
+      "Tip Jar: Large Coffee": "USD 9.99",
+      "Tip Jar: Small Coffee": "USD 1.99",
+      "Tip Jar: Medium Coffee": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "USD 2.99",
+            "Tip Jar: Large Coffee": "USD 9.99",
+            "Tip Jar: Small Coffee": "USD 1.99",
+            "Tip Jar: Medium Coffee": "USD 4.99"
+          }
+        }
+      ]
+    ]
+  },
   "388130466": {
     "name": "iSlash",
     "maxPriceInfo": {
@@ -8765,6 +8799,23 @@
     "history": [
       [
         {
+          "timestamp": 1745503347397,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Just For Kids": "USD 0.00",
+            "Mix It Up": "USD 0.00",
+            "Happy Holidays": "USD 1.99",
+            "Build Your Own Deck": "USD 2.99",
+            "Super Heroes": "USD 1.99",
+            "The Ellen Show": "USD 0.00",
+            "Panda Express": "USD 1.99",
+            "Ocean Vacation": "USD 0.00",
+            "Express Yourself": "USD 1.99",
+            "Adult Supervision": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1745500208771,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -15709,8 +15760,8 @@
       "地獄石240個": "USD 24.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "功能禮包": "USD 3.99",
       "綜合禮包": "USD 15.99",
       "寶石180個": "USD 2.99",
@@ -15723,6 +15774,25 @@
       "地獄石240個": "USD 24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "功能禮包": "USD 3.99",
+            "綜合禮包": "USD 15.99",
+            "寶石180個": "USD 2.99",
+            "喚生石2400個": "USD 8.99",
+            "魔法禮包": "USD 8.99",
+            "魅魔禮包": "USD 41.99",
+            "寶石300個": "USD 3.99",
+            "戒指禮包": "USD 24.99",
+            "自動禮包": "USD 15.99",
+            "地獄石240個": "USD 24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -28314,6 +28384,27 @@
       ]
     ]
   },
+  "1561136737": {
+    "name": "Word Puzzle-Cambridge (NoAds)",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1562560561": {
     "name": "Tevekkülvakti Pro",
     "maxPriceInfo": {
@@ -29112,6 +29203,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745503347397,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "60鑽石": "USD 0.99",
+            "180鑽石": "USD 2.99",
+            "300鑽石": "USD 4.99",
+            "680鑽石": "USD 9.99",
+            "1280鑽石": "USD 19.99",
+            "1980鑽石": "USD 29.99",
+            "980鑽石": "USD 14.99",
+            "10鑽石": "USD 0.99",
+            "120鑽石": "USD 1.99",
+            "3280鑽石": "USD 49.99"
+          }
+        },
         {
           "timestamp": 1745500208771,
           "price": 0.29,
@@ -37728,10 +37836,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745419646428,
@@ -38090,6 +38206,67 @@
           "timestamp": 1745492532710,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6451224796": {
+    "name": "藏武",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29",
+      "一大堆元寶": "USD 3.99",
+      "一箱元寶": "USD 49.99",
+      "一袋元寶": "USD 14.99",
+      "一堆元寶": "USD 0.99",
+      "一大袋元寶": "USD 29.99",
+      "一大箱元寶": "USD 99.99"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29",
+      "一大堆元寶": "USD 3.99",
+      "一箱元寶": "USD 49.99",
+      "一袋元寶": "USD 14.99",
+      "一堆元寶": "USD 0.99",
+      "一大袋元寶": "USD 29.99",
+      "一大箱元寶": "USD 99.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "一大堆元寶": "USD 3.99",
+            "一箱元寶": "USD 49.99",
+            "一袋元寶": "USD 14.99",
+            "一堆元寶": "USD 0.99",
+            "一大袋元寶": "USD 29.99",
+            "一大箱元寶": "USD 99.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6504192378": {
+    "name": "B.ROLL - 青春濾鏡相機",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]

@@ -1434,6 +1434,40 @@
       ]
     ]
   },
+  "384363262": {
+    "name": "13:20:Sync",
+    "maxPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
+      "Notes - Tzolkin/13Moon Cycles": "₺129,99",
+      "Tip Jar: Large Coffee": "₺449,99",
+      "Tip Jar: Small Coffee": "₺99,99",
+      "Tip Jar: Medium Coffee": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
+      "Notes - Tzolkin/13Moon Cycles": "₺129,99",
+      "Tip Jar: Large Coffee": "₺449,99",
+      "Tip Jar: Small Coffee": "₺99,99",
+      "Tip Jar: Medium Coffee": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "₺129,99",
+            "Tip Jar: Large Coffee": "₺449,99",
+            "Tip Jar: Small Coffee": "₺99,99",
+            "Tip Jar: Medium Coffee": "₺229,99"
+          }
+        }
+      ]
+    ]
+  },
   "388130466": {
     "name": "iSlash",
     "maxPriceInfo": {
@@ -24858,6 +24892,27 @@
       ]
     ]
   },
+  "1561136737": {
+    "name": "Word Puzzle-Cambridge (NoAds)",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1562560561": {
     "name": "Tevekkülvakti Pro",
     "maxPriceInfo": {
@@ -34134,6 +34189,27 @@
           "timestamp": 1745492532710,
           "price": 289,
           "formattedPrice": "₺289,00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6504192378": {
+    "name": "B.ROLL - Youth Filter Camera",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
           "inAppPurchases": {}
         }
       ]

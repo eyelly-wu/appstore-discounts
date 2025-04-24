@@ -1762,6 +1762,40 @@
       ]
     ]
   },
+  "384363262": {
+    "name": "13:20:Sync",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "Notes - Tzolkin/13Moon Cycles": "$90.00",
+      "Tip Jar: Small Coffee": "$60.00",
+      "Tip Jar: Large Coffee": "$320.00",
+      "Tip Jar: Medium Coffee": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "Notes - Tzolkin/13Moon Cycles": "$90.00",
+      "Tip Jar: Small Coffee": "$60.00",
+      "Tip Jar: Large Coffee": "$320.00",
+      "Tip Jar: Medium Coffee": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "$90.00",
+            "Tip Jar: Small Coffee": "$60.00",
+            "Tip Jar: Large Coffee": "$320.00",
+            "Tip Jar: Medium Coffee": "$150.00"
+          }
+        }
+      ]
+    ]
+  },
   "388130466": {
     "name": "iSlash",
     "maxPriceInfo": {
@@ -18359,8 +18393,8 @@
       "覺醒禮包": "$1,290.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "功能禮包": "$120.00",
       "綜合禮包": "$490.00",
       "自動禮包": "$490.00",
@@ -18373,6 +18407,25 @@
       "覺醒禮包": "$1,290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "魔法禮包": "$290.00",
+            "寶石180個": "$90.00",
+            "寶石660個": "$290.00",
+            "魅魔禮包": "$1,290.00",
+            "覺醒禮包": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -33935,6 +33988,27 @@
       ]
     ]
   },
+  "1561136737": {
+    "name": "Word Puzzle-Cambridge (NoAds)",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1562560561": {
     "name": "Tevekkülvakti Pro",
     "maxPriceInfo": {
@@ -46739,10 +46813,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745419646428,
@@ -47143,6 +47225,67 @@
           "timestamp": 1745492532710,
           "price": 299,
           "formattedPrice": "$299.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6451224796": {
+    "name": "藏武",
+    "maxPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00",
+      "一大堆元寶": "$120.00",
+      "一堆元寶": "$30.00",
+      "一袋元寶": "$490.00",
+      "一大袋元寶": "$990.00",
+      "一箱元寶": "$1,490.00",
+      "一大箱元寶": "$2,990.00"
+    },
+    "minPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00",
+      "一大堆元寶": "$120.00",
+      "一堆元寶": "$30.00",
+      "一袋元寶": "$490.00",
+      "一大袋元寶": "$990.00",
+      "一箱元寶": "$1,490.00",
+      "一大箱元寶": "$2,990.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "一大堆元寶": "$120.00",
+            "一堆元寶": "$30.00",
+            "一袋元寶": "$490.00",
+            "一大袋元寶": "$990.00",
+            "一箱元寶": "$1,490.00",
+            "一大箱元寶": "$2,990.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6504192378": {
+    "name": "B.ROLL - 青春濾鏡相機",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]

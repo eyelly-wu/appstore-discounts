@@ -63,6 +63,34 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 384363262,
+    name: {
+      tw: '13:20:Sync',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1561136737,
+    name: {
+      hk: 'Word Puzzle-Cambridge (NoAds)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6451224796,
+    name: {
+      hk: '藏武',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6504192378,
+    name: {
+      tw: 'B.ROLL - 青春濾鏡相機',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1462324486,
     name: {
       us: "Papa's Donuteria To Go!",

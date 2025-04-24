@@ -1454,6 +1454,23 @@
     "history": [
       [
         {
+          "timestamp": 1745503347397,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "连续包月": "$3.99",
+            "6香蕉贝": "$0.99",
+            "30香蕉贝": "$3.99",
+            "连续包年": "$39.99",
+            "免广告会员十二个月": "$1.99",
+            "68香蕉贝": "$9.99",
+            "6随手贝": "$0.99",
+            "233香蕉贝": "$34.99",
+            "128香蕉贝": "$19.99",
+            "通用型套餐-25元": "$3.99"
+          }
+        },
+        {
           "timestamp": 1745500208771,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -2087,6 +2104,40 @@
           "price": 24.99,
           "formattedPrice": "$24.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "384363262": {
+    "name": "13:20:Sync",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Notes - Tzolkin/13Moon Cycles": "$2.99",
+      "Tip Jar: Medium Coffee": "$4.99",
+      "Tip Jar: Small Coffee": "$1.99",
+      "Tip Jar: Large Coffee": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Notes - Tzolkin/13Moon Cycles": "$2.99",
+      "Tip Jar: Medium Coffee": "$4.99",
+      "Tip Jar: Small Coffee": "$1.99",
+      "Tip Jar: Large Coffee": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "$2.99",
+            "Tip Jar: Medium Coffee": "$4.99",
+            "Tip Jar: Small Coffee": "$1.99",
+            "Tip Jar: Large Coffee": "$9.99"
+          }
         }
       ]
     ]
@@ -33323,6 +33374,27 @@
       ]
     ]
   },
+  "1561136737": {
+    "name": "Word Puzzle-Cambridge (NoAds)",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1562560561": {
     "name": "Tevekkülvakti Pro",
     "maxPriceInfo": {
@@ -45712,6 +45784,67 @@
           "timestamp": 1745492532710,
           "price": 9.99,
           "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6451224796": {
+    "name": "藏武",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29",
+      "一大堆元寶": "$3.99",
+      "一箱元寶": "$49.99",
+      "一大袋元寶": "$29.99",
+      "一堆元寶": "$0.99",
+      "一袋元寶": "$14.99",
+      "一大箱元寶": "$99.99"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29",
+      "一大堆元寶": "$3.99",
+      "一箱元寶": "$49.99",
+      "一大袋元寶": "$29.99",
+      "一堆元寶": "$0.99",
+      "一袋元寶": "$14.99",
+      "一大箱元寶": "$99.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "一大堆元寶": "$3.99",
+            "一箱元寶": "$49.99",
+            "一大袋元寶": "$29.99",
+            "一堆元寶": "$0.99",
+            "一袋元寶": "$14.99",
+            "一大箱元寶": "$99.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6504192378": {
+    "name": "B.ROLL - Youth Filter Camera",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]
