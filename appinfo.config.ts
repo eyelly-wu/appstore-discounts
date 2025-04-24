@@ -63,6 +63,217 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 295462558,
+    name: {
+      hk: 'Toobz',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 329233299,
+    name: {
+      hk: 'Universe Splitter',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 329981776,
+    name: {
+      hk: 'Sudoku ″',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 363738376,
+    name: {
+      tw: 'forScore',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 479431697,
+    name: {
+      tw: 'CHRONO TRIGGER (Upgrade Ver.)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 525176875,
+    name: {
+      tw: 'Sun Surveyor (太陽測量師)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 922155038,
+    name: {
+      tr: 'aprs.fi',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 989630809,
+    name: {
+      tw: 'Malody',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1001613037,
+    name: {
+      hk: 'ABRSM Aural Trainer Grades 6-8',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1029588869,
+    name: {
+      tr: 'Brothers: A Tale of Two Sons',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1043963852,
+    name: {
+      tw: 'Pipefitter',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1086617993,
+    name: {
+      tw: '時間塊 - 快速記錄時間規劃日程安排',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1104795347,
+    name: {
+      hk: 'iFiles 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1184336299,
+    name: {
+      hk: 'NAS Detector',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1270659758,
+    name: {
+      tw: '如果可以回家早一點',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1308038634,
+    name: {
+      tw: '修真风云录',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1486110292,
+    name: {
+      tw: 'Minitube for Youtube',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1531068181,
+    name: {
+      hk: 'TimeGlance - 複雜功能',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1551539091,
+    name: {
+      hk: 'NFC Business Card - Read Write',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1552157188,
+    name: {
+      hk: '轉換字幕格式',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1577762239,
+    name: {
+      hk: 'Invading Horde - TD',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1613920866,
+    name: {
+      tw: '金價即時通',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1617006551,
+    name: {
+      hk: '南國度假島物語',
+      tw: '南國度假島物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6447693393,
+    name: {
+      cn: '灵感卡片 - 笔记',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6446021269,
+    name: {
+      hk: 'ROCKMAN X DiVE Offline',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6446337236,
+    name: {
+      hk: '新概念英語--新概念英語全四册單詞聽力口語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6475892753,
+    name: {
+      hk: 'Listenify',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6739755879,
+    name: {
+      hk: 'Oishii Map - Tabelog Top 100',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6443849085,
+    name: {
+      hk: 'Terminal Madness - Awakening',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744893097,
+    name: {
+      hk: 'Easy Snap Finger',
+    },
+    addType: 'auto',
+  },
+  {
     id: 463295925,
     name: {
       hk: 'Official DVSA Theory Test Kit',
