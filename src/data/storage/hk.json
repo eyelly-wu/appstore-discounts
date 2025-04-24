@@ -19909,6 +19909,22 @@
     "history": [
       [
         {
+          "timestamp": 1745521317554,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Power Builder (weekly)": "HK$ 8.00",
+            "Power Builder (monthly)": "HK$ 23.00",
+            "Micro Tip": "HK$ 8.00",
+            "Power Builder (yearly)": "HK$ 203.00",
+            "Mega Tip": "HK$ 48.00",
+            "Medium Tip": "HK$ 18.00",
+            "Small Tip": "HK$ 8.00",
+            "Super Mega Smashing Tip": "HK$ 228.00",
+            "Super Mega Tip": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1745517753203,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -21222,6 +21238,25 @@
       "肥宅快樂包 Vol.20": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745521317554,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_0": "HK$ 218.00",
+            "unlockall_29": "HK$ 268.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "新手上路包": "HK$ 8.00",
+            "喵斯快跑·傳奇": "HK$ 28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745470938782,
@@ -43237,6 +43272,25 @@
     "history": [
       [
         {
+          "timestamp": 1745521317554,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 32.00",
+            "戰國七雄": "HK$ 32.00",
+            "楚漢爭霸": "HK$ 32.00",
+            "群雄爭霸": "HK$ 18.00",
+            "無雙戰神": "HK$ 18.00",
+            "自創武將朝代特色兵種補丁": "HK$ 32.00",
+            "自創地圖": "HK$ 32.00",
+            "巾幗綻芳華": "HK$ 18.00",
+            "北境狂人": "HK$ 18.00",
+            "公路霸業": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745445733132,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -45767,11 +45821,21 @@
       "高級功能": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "高級功能": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745521317554,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,

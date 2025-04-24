@@ -34801,11 +34801,21 @@
       "高级功能": "¥8.00"
     },
     "minPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "高级功能": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745521317554,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "高级功能": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
