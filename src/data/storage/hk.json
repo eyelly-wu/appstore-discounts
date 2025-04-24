@@ -6036,6 +6036,27 @@
       ]
     ]
   },
+  "497880658": {
+    "name": "J23 - Release Dates & Restocks",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "498732510": {
     "name": "Blitzer.de PRO",
     "maxPriceInfo": {
@@ -15985,6 +16006,27 @@
       ]
     ]
   },
+  "1108935309": {
+    "name": "20 Watch Games - Classic Pack",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1111420122": {
     "name": "Hear My Baby Heartbeat App",
     "maxPriceInfo": {
@@ -25272,6 +25314,27 @@
       ]
     ]
   },
+  "1410053842": {
+    "name": "小漁輪班",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1422480068": {
     "name": "Notes Writer Pro 2025",
     "maxPriceInfo": {
@@ -31795,6 +31858,31 @@
           "price": 18,
           "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1519508653": {
+    "name": "Nomad Sculpt - 3D雕刻建模",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "HK$ 148.00",
+      "Quad Remesher": "HK$ 128.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "HK$ 148.00",
+      "Quad Remesher": "HK$ 128.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "Quad Remesher": "HK$ 128.00"
+          }
         }
       ]
     ]
@@ -42948,7 +43036,8 @@
       "Nordic Map": "HK$ 58.00",
       "Switzerland Expansion Bundle": "HK$ 58.00",
       "India Expansion Bundle": "HK$ 58.00",
-      "Japan Expansion Bundle": "HK$ 58.00"
+      "Japan Expansion Bundle": "HK$ 58.00",
+      "Heart of Africa Expansion": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 38,
@@ -42962,9 +43051,29 @@
       "Nordic Map": "HK$ 58.00",
       "Switzerland Expansion Bundle": "HK$ 58.00",
       "India Expansion Bundle": "HK$ 58.00",
-      "Japan Expansion Bundle": "HK$ 58.00"
+      "Japan Expansion Bundle": "HK$ 58.00",
+      "Heart of Africa Expansion": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "HK$ 228.00",
+            "Europe Expansion": "HK$ 88.00",
+            "Europe Map": "HK$ 68.00",
+            "LegendaryAsia Expansion Bundle": "HK$ 58.00",
+            "Nordic Bundle": "HK$ 58.00",
+            "1910 Ticket Pack": "HK$ 32.00",
+            "Nordic Map": "HK$ 58.00",
+            "Switzerland Expansion Bundle": "HK$ 58.00",
+            "India Expansion Bundle": "HK$ 58.00",
+            "Heart of Africa Expansion": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44173,6 +44282,27 @@
             "Gems 3": "HK$ 388.00",
             "Gems 2": "HK$ 88.00"
           }
+        }
+      ]
+    ]
+  },
+  "6446826650": {
+    "name": "創造都市島物語",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
         }
       ]
     ]

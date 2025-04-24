@@ -4985,6 +4985,27 @@
       ]
     ]
   },
+  "497880658": {
+    "name": "J23 - 发布日期和补货",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "501695715": {
     "name": "儿歌童谣 - 国语+粤语(广东话)儿歌连歌词",
     "maxPriceInfo": {
@@ -20659,6 +20680,27 @@
       ]
     ]
   },
+  "1410053842": {
+    "name": "小渔排班 - 倒班工作者的专属日历",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1422480068": {
     "name": "Notes Writer Pro: 笔记和 PDF 标注",
     "maxPriceInfo": {
@@ -25312,6 +25354,31 @@
           "price": 22,
           "formattedPrice": "¥22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1519508653": {
+    "name": "Nomad Sculpt - 3D雕刻建模",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00",
+      "Quad Remesher": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00",
+      "Quad Remesher": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {
+            "Quad Remesher": "¥98.00"
+          }
         }
       ]
     ]

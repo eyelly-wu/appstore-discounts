@@ -5886,6 +5886,27 @@
       ]
     ]
   },
+  "497880658": {
+    "name": "J23 - Release Dates & Restocks",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "501695715": {
     "name": "兒歌童謠 - 國語+粵語(廣東話)兒歌連歌詞",
     "maxPriceInfo": {
@@ -13821,6 +13842,27 @@
       ]
     ]
   },
+  "1108935309": {
+    "name": "20 Watch Games - Classic Pack",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1111420122": {
     "name": "Hear My Baby Heartbeat App",
     "maxPriceInfo": {
@@ -18769,6 +18811,27 @@
           "timestamp": 1745328692670,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1410053842": {
+    "name": "小漁輪班",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]
@@ -25583,6 +25646,31 @@
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1519508653": {
+    "name": "Nomad Sculpt - 3D雕刻建模",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99",
+      "Quad Remesher": "USD 15.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99",
+      "Quad Remesher": "USD 15.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "Quad Remesher": "USD 15.99"
+          }
         }
       ]
     ]
@@ -35176,7 +35264,8 @@
       "Japan Character Bundle": "USD 2.99",
       "Nakanishi Kimiko": "USD 1.99",
       "Moriyama Isamu": "USD 1.99",
-      "Ticket to Ride ChristmasBundle": "USD 3.99"
+      "Ticket to Ride ChristmasBundle": "USD 3.99",
+      "Heart of Africa Expansion": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -35190,9 +35279,29 @@
       "Japan Character Bundle": "USD 2.99",
       "Nakanishi Kimiko": "USD 1.99",
       "Moriyama Isamu": "USD 1.99",
-      "Ticket to Ride ChristmasBundle": "USD 3.99"
+      "Ticket to Ride ChristmasBundle": "USD 3.99",
+      "Heart of Africa Expansion": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Heart of Africa Expansion": "USD 6.99",
+            "Japan Expansion Bundle": "USD 6.99",
+            "Japan Map": "USD 5.99",
+            "Hayai Carriage": "USD 1.99",
+            "Isogaba Maware": "USD 1.99",
+            "Ichi Eki Saki": "USD 1.99",
+            "Tsuki Sleeper": "USD 1.99",
+            "Japan Character Bundle": "USD 2.99",
+            "Nakanishi Kimiko": "USD 1.99",
+            "Moriyama Isamu": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -36349,6 +36458,27 @@
             "Gems 1": "USD 4.99",
             "Unicorn Knight": "USD 2.99"
           }
+        }
+      ]
+    ]
+  },
+  "6446826650": {
+    "name": "創造都市島物語",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745453324134,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
         }
       ]
     ]

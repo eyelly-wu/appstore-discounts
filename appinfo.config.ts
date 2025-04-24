@@ -63,6 +63,41 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 497880658,
+    name: {
+      us: 'J23 - Release Dates & Restocks',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1108935309,
+    name: {
+      hk: '20 Watch Games - Classic Pack',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1410053842,
+    name: {
+      tw: '小漁輪班',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1519508653,
+    name: {
+      hk: 'Nomad Sculpt - 3D雕刻建模',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6446826650,
+    name: {
+      tw: '創造都市島物語',
+    },
+    addType: 'auto',
+  },
+  {
     id: 998437590,
     name: {
       cn: '西语背单词',
