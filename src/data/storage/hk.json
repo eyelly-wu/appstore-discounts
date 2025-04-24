@@ -845,6 +845,23 @@
     "history": [
       [
         {
+          "timestamp": 1745496209838,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "HK$ 8.00",
+            "Shibuya HipstaPak": "HK$ 8.00",
+            "Portland HipstaPak": "HK$ 8.00",
+            "Camden HipstaPak": "HK$ 8.00",
+            "Mission Hipstapak": "HK$ 8.00",
+            "Soho HipstaPak": "HK$ 8.00",
+            "Bondi HipstaPak": "HK$ 8.00",
+            "Foodie SnapPak": "HK$ 8.00",
+            "Dali GoodPak": "HK$ 8.00",
+            "RetroPak One": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1745492532710,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -10668,6 +10685,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745496209838,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Just For Kids": "HK$ 0.00",
+            "Happy Holidays": "HK$ 18.00",
+            "Mix It Up": "HK$ 0.00",
+            "The Ellen Show": "HK$ 0.00",
+            "Build Your Own Deck": "HK$ 22.00",
+            "Adult Supervision": "HK$ 18.00",
+            "Super Heroes": "HK$ 18.00",
+            "Food Fight": "HK$ 18.00",
+            "Wish You Were Here": "HK$ 18.00",
+            "Branded": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1745492532710,
           "price": 18,
@@ -30694,6 +30728,46 @@
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1462324486": {
+    "name": "Papa's Donuteria To Go!",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "2500 Tips": "HK$ 38.00",
+      "500 Tips": "HK$ 18.00",
+      "100 Mini-Game Tickets": "HK$ 38.00",
+      "10 Mini-Game Tickets": "HK$ 8.00",
+      "200 Tips": "HK$ 8.00",
+      "30 Mini-Game Tickets": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "2500 Tips": "HK$ 38.00",
+      "500 Tips": "HK$ 18.00",
+      "100 Mini-Game Tickets": "HK$ 38.00",
+      "10 Mini-Game Tickets": "HK$ 8.00",
+      "200 Tips": "HK$ 8.00",
+      "30 Mini-Game Tickets": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745496209838,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "2500 Tips": "HK$ 38.00",
+            "500 Tips": "HK$ 18.00",
+            "100 Mini-Game Tickets": "HK$ 38.00",
+            "10 Mini-Game Tickets": "HK$ 8.00",
+            "200 Tips": "HK$ 8.00",
+            "30 Mini-Game Tickets": "HK$ 18.00"
+          }
         }
       ]
     ]

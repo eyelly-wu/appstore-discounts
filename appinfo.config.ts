@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1462324486,
+    name: {
+      us: "Papa's Donuteria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
     id: 344844888,
     name: {
       hk: '天元烏兔萬年曆 - 十三行作品',
