@@ -15673,6 +15673,27 @@
       ]
     ]
   },
+  "1041260001": {
+    "name": "FINAL FANTASY Ⅸ",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1043963852": {
     "name": "Pipefitter",
     "maxPriceInfo": {
@@ -15956,6 +15977,48 @@
           "timestamp": 1745419646428,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1059218666": {
+    "name": "Litchi for DJI Drones",
+    "maxPriceInfo": {
+      "price": 790,
+      "formattedPrice": "$790.00"
+    },
+    "minPriceInfo": {
+      "price": 790,
+      "formattedPrice": "$790.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1059911569": {
+    "name": "Rusty Lake Hotel",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]
@@ -19101,6 +19164,34 @@
       ]
     ]
   },
+  "1202650514": {
+    "name": "HealthFit",
+    "maxPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00",
+      "Fanatical Supporter": "$320.00",
+      "Awesome Supporter": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00",
+      "Fanatical Supporter": "$320.00",
+      "Awesome Supporter": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "Fanatical Supporter": "$320.00",
+            "Awesome Supporter": "$150.00"
+          }
+        }
+      ]
+    ]
+  },
   "1205486761": {
     "name": "Beholder",
     "maxPriceInfo": {
@@ -19216,6 +19307,27 @@
           "timestamp": 1721960142187,
           "price": 60,
           "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1230231705": {
+    "name": "The Witness",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 150,
+          "formattedPrice": "$150.00",
           "inAppPurchases": {}
         }
       ]
@@ -21329,7 +21441,8 @@
       "宇宙電台 2024": "$130.00",
       "喵斯快跑·傳奇": "$130.00",
       "unlockall_12": "$790.00",
-      "肥宅快樂包 Vol.20": "$130.00"
+      "肥宅快樂包 Vol.20": "$130.00",
+      "古亞星兜風指南": "$130.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -21373,9 +21486,29 @@
       "宇宙電台 2024": "$100.00",
       "喵斯快跑·傳奇": "$100.00",
       "unlockall_12": "$790.00",
-      "肥宅快樂包 Vol.20": "$130.00"
+      "肥宅快樂包 Vol.20": "$100.00",
+      "古亞星兜風指南": "$130.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "古亞星兜風指南": "$130.00",
+            "肥宅快樂包 Vol.20": "$100.00",
+            "喵斯快跑·傳奇": "$130.00",
+            "宇宙電台 2024": "$130.00",
+            "MSR特選曲目組合包_Vol.02": "$190.00",
+            "MD 級戰術教育BD": "$100.00",
+            "東方暮樂團 -肆-": "$130.00",
+            "東方暮樂團  組合包100": "$530.00",
+            "東方暮樂團  組合包88": "$430.00",
+            "東方暮樂團  組合包78": "$390.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745467358775,
@@ -27171,6 +27304,27 @@
       ]
     ]
   },
+  "1441522083": {
+    "name": "Morphing LED Banner",
+    "maxPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00"
+    },
+    "minPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1441532941": {
     "name": "神界：原罪2",
     "maxPriceInfo": {
@@ -32345,6 +32499,27 @@
       ]
     ]
   },
+  "1492041539": {
+    "name": "FINAL FANTASY VI",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1492395549": {
     "name": "爱美剧-人人美剧天堂社区",
     "maxPriceInfo": {
@@ -32456,6 +32631,27 @@
           "timestamp": 1745375383677,
           "price": 490,
           "formattedPrice": "$490.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1498778559": {
+    "name": "MindPage",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]
@@ -33888,6 +34084,27 @@
       ]
     ]
   },
+  "1533709428": {
+    "name": "Pocket City 2",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1536419933": {
     "name": "Break Pile - Brick Breaker",
     "maxPriceInfo": {
@@ -34891,6 +35108,48 @@
           "timestamp": 1745328692670,
           "price": 530,
           "formattedPrice": "$530.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1559871386": {
+    "name": "ehliyet Sınav Sorular 2022 PRO",
+    "maxPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "minPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1560779038": {
+    "name": "伤寒论条阅",
+    "maxPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00"
+    },
+    "minPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 10,
+          "formattedPrice": "$10.00",
           "inAppPurchases": {}
         }
       ]
@@ -48573,6 +48832,100 @@
           "price": 190,
           "formattedPrice": "$190.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6450680262": {
+    "name": "CMSPlayer",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6443750571": {
+    "name": "EmoGuard - 關鍵字攔截器",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6466976437": {
+    "name": "OOTP Baseball 26 Go!",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "1M PP + Pack 2 for OOTP Go 26!": "$15,000.00",
+      "1M PP + Pack 3 for OOTP Go 26!": "$15,000.00",
+      "1M PP + Pack 1 for OOTP Go 26!": "$15,000.00",
+      "75,000 PP for OOTP Go 26!": "$1,490.00",
+      "1,000,000 PP for OOTP Go 26!": "$15,000.00",
+      "175,000 PP for OOTP Go 26!": "$2,990.00",
+      "12,000 PP for OOTP Go 26!": "$320.00",
+      "1M PP + Pack 4 for OOTP Go 26!": "$15,000.00",
+      "25,000 PP for OOTP Go 26!": "$690.00",
+      "5,500 PP for OOTP Go 26!": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "1M PP + Pack 2 for OOTP Go 26!": "$15,000.00",
+      "1M PP + Pack 3 for OOTP Go 26!": "$15,000.00",
+      "1M PP + Pack 1 for OOTP Go 26!": "$15,000.00",
+      "75,000 PP for OOTP Go 26!": "$1,490.00",
+      "1,000,000 PP for OOTP Go 26!": "$15,000.00",
+      "175,000 PP for OOTP Go 26!": "$2,990.00",
+      "12,000 PP for OOTP Go 26!": "$320.00",
+      "1M PP + Pack 4 for OOTP Go 26!": "$15,000.00",
+      "25,000 PP for OOTP Go 26!": "$690.00",
+      "5,500 PP for OOTP Go 26!": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745568184983,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "1M PP + Pack 2 for OOTP Go 26!": "$15,000.00",
+            "1M PP + Pack 3 for OOTP Go 26!": "$15,000.00",
+            "1M PP + Pack 1 for OOTP Go 26!": "$15,000.00",
+            "75,000 PP for OOTP Go 26!": "$1,490.00",
+            "1,000,000 PP for OOTP Go 26!": "$15,000.00",
+            "175,000 PP for OOTP Go 26!": "$2,990.00",
+            "12,000 PP for OOTP Go 26!": "$320.00",
+            "1M PP + Pack 4 for OOTP Go 26!": "$15,000.00",
+            "25,000 PP for OOTP Go 26!": "$690.00",
+            "5,500 PP for OOTP Go 26!": "$150.00"
+          }
         }
       ]
     ]

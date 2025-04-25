@@ -63,6 +63,104 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1041260001,
+    name: {
+      hk: 'FINAL FANTASY Ⅸ',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1059218666,
+    name: {
+      tw: 'Litchi for DJI Drones',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1059911569,
+    name: {
+      hk: 'Rusty Lake Hotel',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1202650514,
+    name: {
+      hk: 'HealthFit',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1230231705,
+    name: {
+      tw: 'The Witness',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1441522083,
+    name: {
+      tw: 'Morphing LED Banner',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1492041539,
+    name: {
+      tw: 'FINAL FANTASY VI',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1498778559,
+    name: {
+      hk: 'MindPage',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1533709428,
+    name: {
+      tr: 'Pocket City 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1559871386,
+    name: {
+      tr: 'ehliyet Sınav Sorular 2022 PRO',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1560779038,
+    name: {
+      hk: '伤寒论条阅',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6450680262,
+    name: {
+      hk: 'CMSPlayer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6443750571,
+    name: {
+      hk: 'EmoGuard - 關鍵字攔截器',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6466976437,
+    name: {
+      tw: 'OOTP Baseball 26 Go!',
+    },
+    addType: 'auto',
+  },
+  {
     id: 424591347,
     name: {
       hk: 'FINAL FANTASY III (3D REMAKE)',
