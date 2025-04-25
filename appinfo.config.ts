@@ -63,6 +63,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1115520522,
+    name: {
+      cn: '姬魔恋战纪-单机剧情手游戏',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1322877018,
+    name: {
+      tr: 'DataX Earthquake',
+    },
+    addType: 'auto',
+  },
+  {
     id: 379485721,
     name: {
       us: 'Blood Type Diet®',

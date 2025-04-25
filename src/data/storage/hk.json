@@ -20826,6 +20826,27 @@
       ]
     ]
   },
+  "1322877018": {
+    "name": "地震 - DataX Earthquake",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745548218542,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1326740784": {
     "name": "FINAL FANTASY VIII Remastered",
     "maxPriceInfo": {
@@ -45338,7 +45359,8 @@
       "Switzerland Expansion Bundle": "HK$ 58.00",
       "India Expansion Bundle": "HK$ 58.00",
       "Japan Expansion Bundle": "HK$ 58.00",
-      "Heart of Africa Expansion": "HK$ 58.00"
+      "Heart of Africa Expansion": "HK$ 58.00",
+      "Pennsylvania Carriage B": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 38,
@@ -45353,9 +45375,29 @@
       "Switzerland Expansion Bundle": "HK$ 58.00",
       "India Expansion Bundle": "HK$ 58.00",
       "Japan Expansion Bundle": "HK$ 58.00",
-      "Heart of Africa Expansion": "HK$ 58.00"
+      "Heart of Africa Expansion": "HK$ 58.00",
+      "Pennsylvania Carriage B": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745548218542,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "HK$ 228.00",
+            "Europe Expansion": "HK$ 88.00",
+            "Europe Map": "HK$ 68.00",
+            "LegendaryAsia Expansion Bundle": "HK$ 58.00",
+            "Nordic Bundle": "HK$ 58.00",
+            "1910 Ticket Pack": "HK$ 32.00",
+            "Nordic Map": "HK$ 58.00",
+            "Switzerland Expansion Bundle": "HK$ 58.00",
+            "India Expansion Bundle": "HK$ 58.00",
+            "Pennsylvania Carriage B": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745453324134,

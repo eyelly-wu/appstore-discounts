@@ -2558,7 +2558,12 @@
       "Pack of 100 Credits": "$3.99",
       "Badoo Premium": "$5.99",
       "Super Powers": "$2.99",
-      "pack of 550 Badoo credits": "$7.99"
+      "pack of 550 Badoo credits": "$7.99",
+      "1350 Badoo Credits": "$24.99",
+      "3050 Badoo Credits": "$49.99",
+      "450 Badoo Credits": "$9.99",
+      "250 Badoo Credits": "$4.99",
+      "Lifetime Badoo Premium": "$159.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -2567,9 +2572,28 @@
       "Pack of 100 Credits": "$3.99",
       "Badoo Premium": "$5.99",
       "Super Powers": "$2.99",
-      "pack of 550 Badoo credits": "$7.99"
+      "pack of 550 Badoo credits": "$7.99",
+      "1350 Badoo Credits": "$24.99",
+      "3050 Badoo Credits": "$49.99",
+      "450 Badoo Credits": "$9.99",
+      "250 Badoo Credits": "$4.99",
+      "Lifetime Badoo Premium": "$159.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745548218542,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "1350 Badoo Credits": "$24.99",
+            "3050 Badoo Credits": "$49.99",
+            "450 Badoo Credits": "$9.99",
+            "250 Badoo Credits": "$4.99",
+            "Lifetime Badoo Premium": "$159.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -16867,6 +16891,58 @@
       ]
     ]
   },
+  "1115520522": {
+    "name": "姬魔恋战纪-单机剧情手游戏",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "6480钻石": "$99.99",
+      "3280钻石": "$49.99",
+      "高级商会签约": "$34.99",
+      "每日特惠礼包一": "$2.99",
+      "60钻石": "$0.99",
+      "每日特权礼包": "$0.99",
+      "980钻石": "$14.99",
+      "每日招财礼包": "$1.99",
+      "商会支援计划五": "$3.99",
+      "1980钻石": "$29.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "6480钻石": "$99.99",
+      "3280钻石": "$49.99",
+      "高级商会签约": "$34.99",
+      "每日特惠礼包一": "$2.99",
+      "60钻石": "$0.99",
+      "每日特权礼包": "$0.99",
+      "980钻石": "$14.99",
+      "每日招财礼包": "$1.99",
+      "商会支援计划五": "$3.99",
+      "1980钻石": "$29.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745548218542,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "6480钻石": "$99.99",
+            "3280钻石": "$49.99",
+            "高级商会签约": "$34.99",
+            "每日特惠礼包一": "$2.99",
+            "60钻石": "$0.99",
+            "每日特权礼包": "$0.99",
+            "980钻石": "$14.99",
+            "每日招财礼包": "$1.99",
+            "商会支援计划五": "$3.99",
+            "1980钻石": "$29.99"
+          }
+        }
+      ]
+    ]
+  },
   "1117998129": {
     "name": "Human Anatomy Atlas 2025",
     "maxPriceInfo": {
@@ -20057,6 +20133,27 @@
           "timestamp": 1745461818532,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1322877018": {
+    "name": "DataX Earthquake",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745548218542,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
           "inAppPurchases": {}
         }
       ]
