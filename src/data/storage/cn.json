@@ -7906,6 +7906,27 @@
       ]
     ]
   },
+  "635644097": {
+    "name": "调音器 by Piascore",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745593334191,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "646256209": {
     "name": "Photo Eraser",
     "maxPriceInfo": {
@@ -13513,6 +13534,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745593334191,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "获得火箭2楼箱子的打开方式": "¥1.00",
+            "灯塔大门入口密码": "¥1.00",
+            "道具提示【一些秘密】金字塔": "¥1.00",
+            "获得打开棺材门的密码": "¥1.00",
+            "道具提示【一些秘密】神庙角落": "¥1.00",
+            "道具提示【一些秘密】一朵花": "¥1.00",
+            "获得金字塔表盘指针的摆放方式": "¥1.00",
+            "获得火箭大门的解锁方式": "¥1.00",
+            "灯塔大门出口密码": "¥1.00",
+            "获得工厂大门1的解锁方式": "¥1.00"
+          }
+        },
         {
           "timestamp": 1745589738232,
           "price": 1,
@@ -28859,6 +28897,27 @@
       ]
     ]
   },
+  "1562555975": {
+    "name": "D2助手(专业版) for 暗黑破坏神2重制版",
+    "maxPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "minPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745593334191,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1562560561": {
     "name": "Tevekkülvakti Pro",
     "maxPriceInfo": {
@@ -28942,6 +29001,43 @@
           "price": 3,
           "formattedPrice": "¥3.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1567658979": {
+    "name": "SkySafari 7 Pro",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00",
+      "SkySafari Premium Monthly": "¥25.00",
+      "SkySafari Premium": "¥198.00",
+      "GAIA Star Database": "¥0.00",
+      "PGC Galaxy Database": "¥0.00",
+      "Apollo Lunar Missions": "¥0.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00",
+      "SkySafari Premium Monthly": "¥25.00",
+      "SkySafari Premium": "¥198.00",
+      "GAIA Star Database": "¥0.00",
+      "PGC Galaxy Database": "¥0.00",
+      "Apollo Lunar Missions": "¥0.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745593334191,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "¥25.00",
+            "SkySafari Premium": "¥198.00",
+            "GAIA Star Database": "¥0.00",
+            "PGC Galaxy Database": "¥0.00",
+            "Apollo Lunar Missions": "¥0.00"
+          }
         }
       ]
     ]

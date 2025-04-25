@@ -63,6 +63,69 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 537280156,
+    name: {
+      tw: 'Raiden Legacy',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 635644097,
+    name: {
+      tw: 'Tuner by Piascore',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 727544019,
+    name: {
+      hk: 'Street Kart #1 Go Kart Game',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 950812012,
+    name: {
+      tr: "Alto's Adventure",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1001096601,
+    name: {
+      tr: '1941 Frozen Front Premium',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1439889483,
+    name: {
+      tr: 'Construction Simulator 3',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1562555975,
+    name: {
+      tw: 'D2助手(專業版) for 暗黑破壞神2重製版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1567658979,
+    name: {
+      hk: 'SkySafari 7 Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6467822375,
+    name: {
+      hk: 'Auto Redial App',
+    },
+    addType: 'auto',
+  },
+  {
     id: 329772936,
     name: {
       tr: 'iDeco Pro',
