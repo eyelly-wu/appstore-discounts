@@ -488,6 +488,25 @@
     "history": [
       [
         {
+          "timestamp": 1745575358432,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "1000 coins": "$0.99",
+            "10,000 coins": "$1.99",
+            "30,000 coins": "$2.99",
+            "1000 candies": "$0.99",
+            "500 eggs": "$0.99",
+            "10000 candies": "$2.99",
+            "5000 eggs": "$1.99",
+            "10,000 gold": "$0.99",
+            "100,000 gold": "$1.99",
+            "100,000 coins": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745470938782,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -39908,6 +39927,25 @@
     "history": [
       [
         {
+          "timestamp": 1745575358432,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Monster Pack": "$19.99",
+            "Unlock Temperament": "$6.99",
+            "Nurse Pack": "$4.99",
+            "Corrupted Pack": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745384546601,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -44992,7 +45030,8 @@
       "Christmas night": "$1.79",
       "Moonlight and Lanterns": "$1.19",
       "Sunset beach": "$1.19",
-      "Summer holiday": "$1.19"
+      "Summer holiday": "$1.19",
+      "Wagashi Whispers": "$1.19"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -45007,10 +45046,28 @@
       "Christmas night": "$1.79",
       "Moonlight and Lanterns": "$1.19",
       "Sunset beach": "$1.19",
-      "Summer holiday": "$1.19"
+      "Summer holiday": "$1.19",
+      "Wagashi Whispers": "$1.19"
     },
     "history": [
       [
+        {
+          "timestamp": 1745575358432,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "2025春ネモフィラスキン": "$0.49",
+            "2025春イースタースキン": "$0.99",
+            "Halloween Party": "$1.79",
+            "New Year's Sunrise": "$1.79",
+            "Moonlight and Lanterns": "$1.19",
+            "Wagashi Whispers": "$1.19",
+            "Christmas night": "$1.79",
+            "Summer holiday": "$1.19"
+          }
+        },
         {
           "timestamp": 1745564540396,
           "price": 2.99,
