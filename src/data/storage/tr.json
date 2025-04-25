@@ -27925,6 +27925,23 @@
     "history": [
       [
         {
+          "timestamp": 1745622140109,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺449,99",
+            "Content Bundle 2": "₺349,99",
+            "Getaway Car Pack": "₺129,99",
+            "Modified Monsters Car Pack": "₺129,99",
+            "Steel & Wheels Pack": "₺99,99",
+            "Off-Road Car Pack": "₺129,99",
+            "Racing Heroes Car Pack": "₺129,99",
+            "American All-Stars Car Pack": "₺129,99",
+            "Rusty Rats Car Pack": "₺129,99",
+            "Goofy Roofs Pack": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1745618531969,
           "price": 69.99,
           "formattedPrice": "₺69,99",
@@ -33175,8 +33192,8 @@
       "自創武將朝代服裝發飾素材補丁": "₺179,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
       "道法自然": "₺99,99",
       "自創武將朝代特色兵種補丁": "₺179,99",
       "自創武將": "₺179,99",
@@ -33189,6 +33206,25 @@
       "自創武將朝代服裝發飾素材補丁": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745622140109,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "道法自然": "₺99,99",
+            "自創武將朝代特色兵種補丁": "₺179,99",
+            "自創武將": "₺179,99",
+            "重振漢室": "₺99,99",
+            "虎嘯鳳鳴": "₺99,99",
+            "鎮海神威": "₺99,99",
+            "自創地圖": "₺179,99",
+            "北境狂人": "₺99,99",
+            "巾幗綻芳華": "₺99,99",
+            "自創武將朝代服裝發飾素材補丁": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -35109,10 +35145,18 @@
       "formattedPrice": "₺4,99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745622140109,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
