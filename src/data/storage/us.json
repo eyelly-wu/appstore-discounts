@@ -20817,6 +20817,24 @@
     "history": [
       [
         {
+          "timestamp": 1745564540396,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Valentine Stage": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745262133741,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -44653,7 +44671,8 @@
       "New Year's Sunrise": "$1.79",
       "Christmas night": "$1.79",
       "Moonlight and Lanterns": "$1.19",
-      "Sunset beach": "$1.19"
+      "Sunset beach": "$1.19",
+      "Summer holiday": "$1.19"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -44667,9 +44686,29 @@
       "New Year's Sunrise": "$1.79",
       "Christmas night": "$1.79",
       "Moonlight and Lanterns": "$1.19",
-      "Sunset beach": "$1.19"
+      "Sunset beach": "$1.19",
+      "Summer holiday": "$1.19"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745564540396,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "2025春ネモフィラスキン": "$0.49",
+            "2025春イースタースキン": "$0.99",
+            "Halloween Party": "$1.79",
+            "New Year's Sunrise": "$1.79",
+            "Moonlight and Lanterns": "$1.19",
+            "Christmas night": "$1.79",
+            "Summer holiday": "$1.19",
+            "Fireworks display": "$1.79"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
