@@ -2582,6 +2582,18 @@
     "history": [
       [
         {
+          "timestamp": 1745551034698,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "pack of 100 Badoo credits": "$1.99",
+            "Pack of 100 Credits": "$3.99",
+            "Badoo Premium": "$5.99",
+            "Super Powers": "$2.99",
+            "pack of 550 Badoo credits": "$7.99"
+          }
+        },
+        {
           "timestamp": 1745548218542,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -18097,8 +18109,8 @@
       "Element Package": "$15.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Feature Package": "$3.99",
       "300 Rubies": "$3.99",
       "Automatic Package": "$15.99",
@@ -18111,6 +18123,25 @@
       "Element Package": "$15.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745551034698,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "300 Rubies": "$3.99",
+            "Automatic Package": "$15.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "180 Rubies": "$2.99",
+            "Ring Package": "$24.99",
+            "1100 Rebirth Stones": "$3.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Element Package": "$15.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -46280,10 +46311,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745551034698,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745419646428,
