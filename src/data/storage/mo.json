@@ -17316,7 +17316,8 @@
       "Special Offer 21": "USD 7.99",
       "Special Offer 20": "USD 7.99",
       "Special Offer 19": "USD 7.99",
-      "Special Offer 18": "USD 6.99"
+      "Special Offer 18": "USD 6.99",
+      "Tower Wicked Sisters": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -17339,9 +17340,29 @@
       "Special Offer 21": "USD 7.99",
       "Special Offer 20": "USD 7.99",
       "Special Offer 19": "USD 7.99",
-      "Special Offer 18": "USD 6.99"
+      "Special Offer 18": "USD 6.99",
+      "Tower Wicked Sisters": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745596945684,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Tower Wicked Sisters": "USD 4.99",
+            "Tower Ignis Altar": "USD 2.99",
+            "Mega Tower Bundle": "USD 15.99",
+            "Mega Heroe Bundle": "USD 17.99",
+            "Hero Beresad": "USD 6.99",
+            "Hammerhold Campaign!": "USD 7.99",
+            "Tower Grim Cemetery": "USD 2.99",
+            "Tower Blazing Gem": "USD 4.99",
+            "Hero Mortemis": "USD 2.99",
+            "Hero Tank": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745586546148,
@@ -39273,7 +39294,7 @@
     "maxPriceInfo": {
       "price": 0.49,
       "formattedPrice": "USD 0.49",
-      "高級功能": "USD 0.99"
+      "高級功能": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -39281,6 +39302,16 @@
       "高級功能": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745596945684,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745521317554,
