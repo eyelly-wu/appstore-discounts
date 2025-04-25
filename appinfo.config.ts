@@ -63,6 +63,83 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 329772936,
+    name: {
+      tr: 'iDeco Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 394057299,
+    name: {
+      hk: 'Battleheart',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 499470113,
+    name: {
+      hk: 'FE File Explorer Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 666508823,
+    name: {
+      hk: 'Battleheart Legacy',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 792638268,
+    name: {
+      hk: '合戰忍者村物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1095883970,
+    name: {
+      tw: '芳香樂活',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1232791258,
+    name: {
+      hk: 'Battleheart 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1600925588,
+    name: {
+      hk: 'GR Linker - Image Sync',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6474479684,
+    name: {
+      cn: "Spark - Ren'Py 小说们",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6466296603,
+    name: {
+      hk: 'The Last Game',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6670402289,
+    name: {
+      hk: 'Looking for Aliens',
+    },
+    addType: 'auto',
+  },
+  {
     id: 459947180,
     name: {
       mo: 'LectroRM',
