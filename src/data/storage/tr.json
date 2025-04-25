@@ -21682,10 +21682,21 @@
       "RFS Pro (1 month)": "₺99,99",
       "RFS Pro (6 month)": "₺139,99",
       "RFS Pro (1 year)": "₺189,99",
-      "RFS Pro (6 months)": "₺899,90"
+      "RFS Pro (6 months)": "₺399,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745607723305,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "₺99,99",
+            "RFS Pro (6 month)": "₺139,99",
+            "RFS Pro (1 year)": "₺1.199,99",
+            "RFS Pro (6 months)": "₺399,99"
+          }
+        },
         {
           "timestamp": 1745532132606,
           "price": 39.99,
