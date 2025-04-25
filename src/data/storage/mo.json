@@ -30483,7 +30483,12 @@
       "Yellow menu color": "USD 0.99",
       "James character": "USD 0.99",
       "Lisa character": "USD 0.00",
-      "Elsa character": "USD 0.99"
+      "Elsa character": "USD 0.99",
+      "Founders Pack": "USD 0.99",
+      "Marco character": "USD 0.99",
+      "Manuel character": "USD 0.99",
+      "Stephan character": "USD 0.99",
+      "Jack character": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -30497,9 +30502,33 @@
       "Yellow menu color": "USD 0.99",
       "James character": "USD 0.99",
       "Lisa character": "USD 0.00",
-      "Elsa character": "USD 0.99"
+      "Elsa character": "USD 0.99",
+      "Founders Pack": "USD 0.99",
+      "Marco character": "USD 0.99",
+      "Manuel character": "USD 0.99",
+      "Stephan character": "USD 0.99",
+      "Jack character": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745611341062,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Founders Pack": "USD 0.99",
+            "Marco character": "USD 0.99",
+            "Manuel character": "USD 0.99",
+            "Stephan character": "USD 0.99",
+            "Jack character": "USD 0.99",
+            "Elsa character": "USD 0.99",
+            "Lisa character": "USD 0.00",
+            "James character": "USD 0.99",
+            "Yellow menu color": "USD 0.99",
+            "Red menu color": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
