@@ -19726,7 +19726,17 @@
       "Kizuna AI": "$9.99",
       "Nora": "$9.99",
       "Neko": "$9.99",
-      "Marvelous Mix vol. 1": "$4.99"
+      "Marvelous Mix vol. 1": "$4.99",
+      "HARDCORE TANO*C VOL.II": "$4.99",
+      "HARDCORE TANO*C": "$4.99",
+      "Cosmic Radio 2024": "$4.99",
+      "Miku Extend 2025": "$4.99",
+      "Paradigm: Reboot pt. 2": "$4.99",
+      "Paradigm: Reboot pt. 1": "$4.99",
+      "RAVON": "$4.99",
+      "NEKO_II": "$9.99",
+      "Rhythm Games Party 2024": "$4.99",
+      "B.B.K.K.B.K.K. 2023 Remake SLC": "$4.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -19740,9 +19750,38 @@
       "Kizuna AI": "$9.99",
       "Nora": "$9.99",
       "Neko": "$9.99",
-      "Marvelous Mix vol. 1": "$4.99"
+      "Marvelous Mix vol. 1": "$4.99",
+      "HARDCORE TANO*C VOL.II": "$4.99",
+      "HARDCORE TANO*C": "$4.99",
+      "Cosmic Radio 2024": "$4.99",
+      "Miku Extend 2025": "$4.99",
+      "Paradigm: Reboot pt. 2": "$4.99",
+      "Paradigm: Reboot pt. 1": "$4.99",
+      "RAVON": "$4.99",
+      "NEKO_II": "$9.99",
+      "Rhythm Games Party 2024": "$4.99",
+      "B.B.K.K.B.K.K. 2023 Remake SLC": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745582600664,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "HARDCORE TANO*C VOL.II": "$4.99",
+            "HARDCORE TANO*C": "$4.99",
+            "Cosmic Radio 2024": "$4.99",
+            "Miku Extend 2025": "$4.99",
+            "Paradigm: Reboot pt. 2": "$4.99",
+            "Paradigm: Reboot pt. 1": "$4.99",
+            "RAVON": "$4.99",
+            "NEKO_II": "$9.99",
+            "Rhythm Games Party 2024": "$4.99",
+            "B.B.K.K.B.K.K. 2023 Remake SLC": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44450,14 +44489,22 @@
   "6744837914": {
     "name": "Block Jam Blast For Watch",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745582600664,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44805,6 +44852,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745582600664,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,

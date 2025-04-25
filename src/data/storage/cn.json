@@ -34082,14 +34082,22 @@
   "6744837914": {
     "name": "块块爱消除-手表游戏经典快乐休闲益智",
     "maxPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00"
+      "price": 6,
+      "formattedPrice": "¥6.00"
     },
     "minPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745582600664,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -34843,6 +34851,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745582600664,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,

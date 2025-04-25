@@ -44614,14 +44614,22 @@
   "6744837914": {
     "name": "塊塊愛消除-手錶遊戲經典快樂休閒益智",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745582600664,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44974,6 +44982,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745582600664,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,

@@ -32733,14 +32733,22 @@
   "6744837914": {
     "name": "Block Jam Blast For Watch",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745582600664,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -33064,6 +33072,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745582600664,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
