@@ -4593,6 +4593,27 @@
       ]
     ]
   },
+  "459947180": {
+    "name": "LectroRM",
+    "maxPriceInfo": {
+      "price": 24.99,
+      "formattedPrice": "$24.99"
+    },
+    "minPriceInfo": {
+      "price": 24.99,
+      "formattedPrice": "$24.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "460661291": {
     "name": "Safety Note+ Pro",
     "maxPriceInfo": {
@@ -32211,6 +32232,46 @@
       ]
     ]
   },
+  "1491196899": {
+    "name": "Papa's Bakeria To Go!",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "2500 Tips": "$4.99",
+      "500 Tips": "$1.99",
+      "200 Tips": "$0.99",
+      "100 Mini-Game Tickets": "$4.99",
+      "30 Mini-Game Tickets": "$1.99",
+      "10 Mini-Game Tickets": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "2500 Tips": "$4.99",
+      "500 Tips": "$1.99",
+      "200 Tips": "$0.99",
+      "100 Mini-Game Tickets": "$4.99",
+      "30 Mini-Game Tickets": "$1.99",
+      "10 Mini-Game Tickets": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "2500 Tips": "$4.99",
+            "500 Tips": "$1.99",
+            "200 Tips": "$0.99",
+            "100 Mini-Game Tickets": "$4.99",
+            "30 Mini-Game Tickets": "$1.99",
+            "10 Mini-Game Tickets": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
   "1491530147": {
     "name": "Slay the Spire",
     "maxPriceInfo": {
@@ -34672,6 +34733,27 @@
           "inAppPurchases": {
             "Fileball Pro Lifetime": "$9.99"
           }
+        }
+      ]
+    ]
+  },
+  "1559183447": {
+    "name": "PoPo日记 - 心情日记本,记录情绪手账和记事本",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
         }
       ]
     ]

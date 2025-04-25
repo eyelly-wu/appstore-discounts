@@ -63,6 +63,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 459947180,
+    name: {
+      mo: 'LectroRM',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1491196899,
+    name: {
+      us: "Papa's Bakeria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1559183447,
+    name: {
+      mo: 'PoPo日记 - 心情日记本,记录情绪手账和记事本',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1041260001,
     name: {
       hk: 'FINAL FANTASY Ⅸ',

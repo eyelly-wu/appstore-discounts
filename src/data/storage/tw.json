@@ -4537,6 +4537,27 @@
       ]
     ]
   },
+  "459947180": {
+    "name": "LectroRM",
+    "maxPriceInfo": {
+      "price": 790,
+      "formattedPrice": "$790.00"
+    },
+    "minPriceInfo": {
+      "price": 790,
+      "formattedPrice": "$790.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "460661291": {
     "name": "Safety Note+ Pro",
     "maxPriceInfo": {
@@ -21492,6 +21513,23 @@
     "history": [
       [
         {
+          "timestamp": 1745571749645,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "unlockall_29": "$1,120.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "cyTus": "$190.00",
+            "MSR特選曲目組合包": "$190.00",
+            "MSR特選曲目組合包_Vol.02": "$190.00",
+            "新手上路包": "$33.00",
+            "放棄治療 Vol.3": "$130.00",
+            "Miku in Museland": "$290.00",
+            "Let's GROOVE": "$130.00"
+          }
+        },
+        {
           "timestamp": 1745568184983,
           "price": 100,
           "formattedPrice": "$100.00",
@@ -32478,6 +32516,46 @@
       ]
     ]
   },
+  "1491196899": {
+    "name": "Papa's Bakeria To Go!",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "2500 Tips": "$150.00",
+      "500 Tips": "$60.00",
+      "200 Tips": "$30.00",
+      "100 Mini-Game Tickets": "$150.00",
+      "30 Mini-Game Tickets": "$60.00",
+      "10 Mini-Game Tickets": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "2500 Tips": "$150.00",
+      "500 Tips": "$60.00",
+      "200 Tips": "$30.00",
+      "100 Mini-Game Tickets": "$150.00",
+      "30 Mini-Game Tickets": "$60.00",
+      "10 Mini-Game Tickets": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "2500 Tips": "$150.00",
+            "500 Tips": "$60.00",
+            "200 Tips": "$30.00",
+            "100 Mini-Game Tickets": "$150.00",
+            "30 Mini-Game Tickets": "$60.00",
+            "10 Mini-Game Tickets": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "1491530147": {
     "name": "Slay the Spire",
     "maxPriceInfo": {
@@ -35088,6 +35166,27 @@
           "inAppPurchases": {
             "Fileball Pro Lifetime": "$320.00"
           }
+        }
+      ]
+    ]
+  },
+  "1559183447": {
+    "name": "PoPo日记 - 心情日记本,记录情绪手账和记事本",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
         }
       ]
     ]

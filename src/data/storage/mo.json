@@ -4208,6 +4208,27 @@
       ]
     ]
   },
+  "459947180": {
+    "name": "LectroRM",
+    "maxPriceInfo": {
+      "price": 24.99,
+      "formattedPrice": "USD 24.99"
+    },
+    "minPriceInfo": {
+      "price": 24.99,
+      "formattedPrice": "USD 24.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "460661291": {
     "name": "Safety Note+ Pro",
     "maxPriceInfo": {
@@ -12456,6 +12477,23 @@
     "history": [
       [
         {
+          "timestamp": 1745571749645,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "USD 0.99",
+            "问财专业版连续包月": "USD 24.99",
+            "问财进阶版连续包月": "USD 9.99",
+            "598花币": "USD 89.99",
+            "299花币": "USD 39.99",
+            "早盘选股宝连续包月": "USD 39.99",
+            "机构探测器连续包月": "USD 17.49",
+            "金牛情报连续包月": "USD 10.99",
+            "分时顶底连续包季": "USD 18.99",
+            "波段雷达连续包季": "USD 41.99"
+          }
+        },
+        {
           "timestamp": 1745568184983,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -16946,6 +16984,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745571749645,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Mega Tower Bundle": "USD 15.99",
+            "Mega Heroe Bundle": "USD 17.99",
+            "Hero Beresad": "USD 6.99",
+            "Hammerhold Campaign!": "USD 7.99",
+            "Tower Grim Cemetery": "USD 2.99",
+            "Tower Blazing Gem": "USD 4.99",
+            "Hero Mortemis": "USD 2.99",
+            "Hero Tank": "USD 5.99",
+            "Hero Eiskalt": "USD 5.99",
+            "Tower Deep Devil's Reef": "USD 2.99"
+          }
+        },
         {
           "timestamp": 1745568184983,
           "price": 4.99,
@@ -26949,6 +27004,46 @@
       ]
     ]
   },
+  "1491196899": {
+    "name": "Papa's Bakeria To Go!",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "100 Mini-Game Tickets": "USD 4.99",
+      "30 Mini-Game Tickets": "USD 1.99",
+      "10 Mini-Game Tickets": "USD 0.99",
+      "200 Tips": "USD 0.99",
+      "2500 Tips": "USD 4.99",
+      "500 Tips": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "100 Mini-Game Tickets": "USD 4.99",
+      "30 Mini-Game Tickets": "USD 1.99",
+      "10 Mini-Game Tickets": "USD 0.99",
+      "200 Tips": "USD 0.99",
+      "2500 Tips": "USD 4.99",
+      "500 Tips": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "100 Mini-Game Tickets": "USD 4.99",
+            "30 Mini-Game Tickets": "USD 1.99",
+            "10 Mini-Game Tickets": "USD 0.99",
+            "200 Tips": "USD 0.99",
+            "2500 Tips": "USD 4.99",
+            "500 Tips": "USD 1.99"
+          }
+        }
+      ]
+    ]
+  },
   "1492041539": {
     "name": "FINAL FANTASY VI",
     "maxPriceInfo": {
@@ -29433,6 +29528,27 @@
           "inAppPurchases": {
             "Fileball Pro Lifetime": "USD 9.99"
           }
+        }
+      ]
+    ]
+  },
+  "1559183447": {
+    "name": "PoPo日记 - 心情日记本,记录情绪手账和记事本",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
         }
       ]
     ]

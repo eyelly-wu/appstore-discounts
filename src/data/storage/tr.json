@@ -3761,6 +3761,27 @@
       ]
     ]
   },
+  "459947180": {
+    "name": "LectroRM",
+    "maxPriceInfo": {
+      "price": 999.99,
+      "formattedPrice": "₺999,99"
+    },
+    "minPriceInfo": {
+      "price": 999.99,
+      "formattedPrice": "₺999,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "460661291": {
     "name": "Safety Note+ Pro",
     "maxPriceInfo": {
@@ -23645,6 +23666,46 @@
       ]
     ]
   },
+  "1491196899": {
+    "name": "Papa's Bakeria To Go!",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "500 Tips": "₺99,99",
+      "100 Mini-Game Tickets": "₺229,99",
+      "30 Mini-Game Tickets": "₺99,99",
+      "10 Mini-Game Tickets": "₺39,99",
+      "200 Tips": "₺39,99",
+      "2500 Tips": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "500 Tips": "₺99,99",
+      "100 Mini-Game Tickets": "₺229,99",
+      "30 Mini-Game Tickets": "₺99,99",
+      "10 Mini-Game Tickets": "₺39,99",
+      "200 Tips": "₺39,99",
+      "2500 Tips": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "500 Tips": "₺99,99",
+            "100 Mini-Game Tickets": "₺229,99",
+            "30 Mini-Game Tickets": "₺99,99",
+            "10 Mini-Game Tickets": "₺39,99",
+            "200 Tips": "₺39,99",
+            "2500 Tips": "₺229,99"
+          }
+        }
+      ]
+    ]
+  },
   "1491530147": {
     "name": "Slay the Spire",
     "maxPriceInfo": {
@@ -26003,6 +26064,27 @@
           "inAppPurchases": {
             "Fileball Pro Lifetime": "₺249,99"
           }
+        }
+      ]
+    ]
+  },
+  "1559183447": {
+    "name": "PoPo日记 - 心情日记本,记录情绪手账和记事本",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745571749645,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
         }
       ]
     ]
