@@ -63,6 +63,132 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 424591347,
+    name: {
+      hk: 'FINAL FANTASY III (3D REMAKE)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 563082328,
+    name: {
+      us: 'Military Retirement',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 962291530,
+    name: {
+      tw: 'Analog Beijing',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1003660287,
+    name: {
+      hk: 'Dwarf Fortress Remote',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1035220162,
+    name: {
+      tw: 'Analog Budapest',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1055650930,
+    name: {
+      us: 'Codenames',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1073576068,
+    name: {
+      hk: '電波表對時',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1106831630,
+    name: {
+      tr: 'ROME: Total War',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1138248035,
+    name: {
+      tw: 'Analog Seoul',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1373057849,
+    name: {
+      tw: '三國志漢末霸業',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1458977921,
+    name: {
+      hk: '照片保險箱Pro - 密碼鎖加密隱藏隱私相片',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1509252675,
+    name: {
+      tr: 'Lapse: A Forgotten Future',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1554691584,
+    name: {
+      hk: 'Naturalisation en France',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1574339556,
+    name: {
+      tr: 'Game Booster 4x',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6453763474,
+    name: {
+      hk: 'Hidden Through Time 2: Magic',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6477535804,
+    name: {
+      tw: '虛空穹牢',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6730126160,
+    name: {
+      tw: '戲曲鑼鼓 - 傳統樂器新體驗',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6449986941,
+    name: {
+      tw: '常春藤108課綱核心單字',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1115520522,
     name: {
       cn: '姬魔恋战纪-单机剧情手游戏',
