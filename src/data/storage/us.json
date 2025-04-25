@@ -12933,6 +12933,27 @@
       ]
     ]
   },
+  "840811083": {
+    "name": "Rules!",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745604174662,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "860809977": {
     "name": "Fongo World Edition",
     "maxPriceInfo": {
@@ -31216,6 +31237,27 @@
       ]
     ]
   },
+  "1473749002": {
+    "name": "Vergi Akademisi Pro",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745604174662,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1473785373": {
     "name": "Qianji - Ad-Free Bookkeeping",
     "maxPriceInfo": {
@@ -39598,6 +39640,25 @@
     "history": [
       [
         {
+          "timestamp": 1745604174662,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "自建武将皮肤4": "$3.99",
+            "自建武将皮肤3": "$9.99",
+            "自建武将皮肤2": "$3.99",
+            "自创武将皮肤1": "$9.99",
+            "一袋碎片": "$49.99",
+            "一堆碎片": "$3.99",
+            "自定义武将席位6": "$3.99",
+            "自定义武将席位4": "$3.99",
+            "自定义武将席位5": "$3.99",
+            "自定义武将席位3": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745510557666,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -40402,7 +40463,14 @@
       "Uniform Pack": "$3.99",
       "Smelting Pack": "$6.99",
       "Corrupted Pack": "$6.99",
-      "Unlock Temperament": "$6.99"
+      "Unlock Temperament": "$6.99",
+      "Unlock Beholder": "$2.99",
+      "Unlock Gumiho": "$2.99",
+      "Season 3 Battle Pass": "$1.99",
+      "Unlock Baphomet": "$2.99",
+      "Season 2 Battle Pass": "$1.99",
+      "Monster Pack 2": "$29.99",
+      "Info Pack": "$12.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -40418,10 +40486,34 @@
       "Uniform Pack": "$3.99",
       "Smelting Pack": "$6.99",
       "Corrupted Pack": "$6.99",
-      "Unlock Temperament": "$6.99"
+      "Unlock Temperament": "$6.99",
+      "Unlock Beholder": "$2.99",
+      "Unlock Gumiho": "$2.99",
+      "Season 3 Battle Pass": "$1.99",
+      "Unlock Baphomet": "$2.99",
+      "Season 2 Battle Pass": "$1.99",
+      "Monster Pack 2": "$29.99",
+      "Info Pack": "$12.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745604174662,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Nurse Pack": "$4.99",
+            "Unlock Beholder": "$2.99",
+            "Unlock Gumiho": "$2.99",
+            "Season 3 Battle Pass": "$1.99",
+            "Uniform Pack": "$3.99",
+            "Unlock Baphomet": "$2.99",
+            "Season 2 Battle Pass": "$1.99",
+            "Monster Pack 2": "$29.99",
+            "Info Pack": "$12.99",
+            "Smelting Pack": "$6.99"
+          }
+        },
         {
           "timestamp": 1745575358432,
           "price": 4.99,
@@ -48418,6 +48510,27 @@
           "timestamp": 1745593334191,
           "price": 2.49,
           "formattedPrice": "$2.49",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6508165149": {
+    "name": "Dungeon Clawler",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745604174662,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]

@@ -63,6 +63,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 840811083,
+    name: {
+      tr: 'Rules!',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1473749002,
+    name: {
+      tr: 'Vergi Akademisi Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6508165149,
+    name: {
+      tr: 'Dungeon Clawler',
+    },
+    addType: 'auto',
+  },
+  {
     id: 537280156,
     name: {
       tw: 'Raiden Legacy',
