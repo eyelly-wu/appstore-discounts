@@ -4618,10 +4618,18 @@
       "formattedPrice": "$130.00"
     },
     "minPriceInfo": {
-      "price": 130,
-      "formattedPrice": "$130.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745690547280,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -14066,6 +14074,24 @@
       "極慢板狙擊步槍": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745690547280,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "新手包": "$150.00",
+            "Aria Gold Sniper Rifle": "$790.00",
+            "Dragun": "$490.00",
+            "The Merry Maker Rifle": "$490.00",
+            "Exorcist": "$490.00",
+            "Jaeger Sniper Rifle": "$790.00",
+            "Aria Sniper Rifle": "$320.00",
+            "超大型金錢包": "$320.00",
+            "極慢板狙擊步槍": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -28330,6 +28356,20 @@
       "10 Mini-Game Tickets": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745690547280,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "500 Tips": "$60.00",
+            "200 Tips": "$30.00",
+            "2500 Tips": "$150.00",
+            "100 Mini-Game Tickets": "$150.00",
+            "30 Mini-Game Tickets": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -49067,6 +49107,20 @@
     "history": [
       [
         {
+          "timestamp": 1745690547280,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "2500 Tips": "$150.00",
+            "500 Tips": "$60.00",
+            "10 Mini-Game Tickets": "$30.00",
+            "30 Mini-Game Tickets": "$60.00",
+            "100 Mini-Game Tickets": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745328692670,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -50209,6 +50263,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745690547280,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "一大堆鑽石": "$60.00",
+            "一大袋鑽石": "$320.00",
+            "一大箱鑽石": "$990.00",
+            "一袋鑽石": "$150.00",
+            "一堆鑽石": "$30.00",
+            "一箱鑽石": "$490.00"
+          }
+        },
         {
           "timestamp": 1745686918541,
           "price": 10,
