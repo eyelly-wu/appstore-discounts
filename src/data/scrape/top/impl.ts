@@ -1,6 +1,6 @@
 import nodeFetch from 'node-fetch'
 
-const limit = 200
+const limit = 10
 
 function getUrl(region: Region) {
   const url = `https://itunes.apple.com/${region}/rss/toppaidapplications/limit=${limit}/json`
