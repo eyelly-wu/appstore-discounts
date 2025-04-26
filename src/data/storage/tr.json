@@ -16907,6 +16907,20 @@
     "history": [
       [
         {
+          "timestamp": 1745650928929,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Pile of Gems": "₺129,99",
+            "Pile of Coins": "₺39,99",
+            "Casket of Gems": "₺449,99",
+            "Bag of Coins": "₺229,99",
+            "Bag of Gems": "₺899,99",
+            "Chest of Coins": "₺899,99",
+            "Chest of Gems": "₺2.299,99"
+          }
+        },
+        {
           "timestamp": 1745647369157,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -23521,7 +23535,8 @@
       "L.A. Monstropolis Dice": "₺229,99",
       "Bald Eagle Token": "₺129,99",
       "Cherry Blossom Tokyo Board": "₺249,99",
-      "Transylvania Board": "₺249,99"
+      "Transylvania Board": "₺249,99",
+      "Theme Collection": "₺899,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -23540,10 +23555,28 @@
       "L.A. Monstropolis Dice": "₺229,99",
       "Bald Eagle Token": "₺129,99",
       "Cherry Blossom Tokyo Board": "₺249,99",
-      "Transylvania Board": "₺249,99"
+      "Transylvania Board": "₺249,99",
+      "Theme Collection": "₺899,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745650928929,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "Orient Express": "₺129,99",
+            "New York 2121 Board": "₺249,99",
+            "Welcome Offer": "₺899,99",
+            "The Complete Collection": "₺1.499,99",
+            "Victorian London Board": "₺249,99",
+            "Transylvania Board": "₺249,99",
+            "Theme Collection": "₺899,99",
+            "New York 2121": "₺349,99",
+            "Monstropolis Board": "₺249,99"
+          }
+        },
         {
           "timestamp": 1745640142195,
           "price": 229.99,
