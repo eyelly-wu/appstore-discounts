@@ -1278,7 +1278,16 @@
       "Burgmüller: The Mutopia Collection": "HK$ 0.00",
       "Satie: The Mutopia Collection": "HK$ 0.00",
       "Händel: The Mutopia Collection": "HK$ 0.00",
-      "Chopin: The Mutopia Collection": "HK$ 8.00"
+      "Chopin: The Mutopia Collection": "HK$ 8.00",
+      "forScore Pro + 家人共享": "HK$ 188.00",
+      "forScore Pro 30-Day Pass": "HK$ 22.00",
+      "Haydn: String Quartets": "HK$ 18.00",
+      "Christmas Carol Collection": "HK$ 18.00",
+      "Bach: Cello Suites": "HK$ 18.00",
+      "Vivaldi: The Four Seasons": "HK$ 18.00",
+      "Mozart: Twelve Duets": "HK$ 18.00",
+      "The Mutopia Piano Collection": "HK$ 38.00",
+      "Voluntary Upgrade": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 188,
@@ -1292,9 +1301,37 @@
       "Burgmüller: The Mutopia Collection": "HK$ 0.00",
       "Satie: The Mutopia Collection": "HK$ 0.00",
       "Händel: The Mutopia Collection": "HK$ 0.00",
-      "Chopin: The Mutopia Collection": "HK$ 8.00"
+      "Chopin: The Mutopia Collection": "HK$ 8.00",
+      "forScore Pro + 家人共享": "HK$ 188.00",
+      "forScore Pro 30-Day Pass": "HK$ 22.00",
+      "Haydn: String Quartets": "HK$ 18.00",
+      "Christmas Carol Collection": "HK$ 18.00",
+      "Bach: Cello Suites": "HK$ 18.00",
+      "Vivaldi: The Four Seasons": "HK$ 18.00",
+      "Mozart: Twelve Duets": "HK$ 18.00",
+      "The Mutopia Piano Collection": "HK$ 38.00",
+      "Voluntary Upgrade": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro + 家人共享": "HK$ 188.00",
+            "forScore Pro 30-Day Pass": "HK$ 22.00",
+            "Haydn: String Quartets": "HK$ 18.00",
+            "Christmas Carol Collection": "HK$ 18.00",
+            "Bach: Cello Suites": "HK$ 18.00",
+            "Vivaldi: The Four Seasons": "HK$ 18.00",
+            "Mozart: Twelve Duets": "HK$ 18.00",
+            "The Mutopia Piano Collection": "HK$ 38.00",
+            "forScore Pro": "HK$ 118.00",
+            "Voluntary Upgrade": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,
@@ -8246,6 +8283,27 @@
       ]
     ]
   },
+  "557168861": {
+    "name": "香港法例 Legislation HK",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "561396899": {
     "name": "皇帝養成計畫 - 經典歷史模擬遊戲",
     "maxPriceInfo": {
@@ -8761,6 +8819,27 @@
           "timestamp": 1745328692670,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "586604476": {
+    "name": "易爻(實用)",
+    "maxPriceInfo": {
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
+    },
+    "minPriceInfo": {
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
           "inAppPurchases": {}
         }
       ]
@@ -11359,6 +11438,27 @@
       ]
     ]
   },
+  "625740630": {
+    "name": "Hairtechapp - Cutting Diagrams",
+    "maxPriceInfo": {
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
+    },
+    "minPriceInfo": {
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "633600716": {
     "name": "432 Player",
     "maxPriceInfo": {
@@ -12926,6 +13026,27 @@
           "timestamp": 1745328692670,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "808296431": {
+    "name": "Crashlands",
+    "maxPriceInfo": {
+      "price": 46,
+      "formattedPrice": "HK$ 46.00"
+    },
+    "minPriceInfo": {
+      "price": 46,
+      "formattedPrice": "HK$ 46.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 46,
+          "formattedPrice": "HK$ 46.00",
           "inAppPurchases": {}
         }
       ]
@@ -18325,6 +18446,27 @@
       ]
     ]
   },
+  "1116905928": {
+    "name": "nPlayer",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1117998129": {
     "name": "Human Anatomy Atlas 2025",
     "maxPriceInfo": {
@@ -21266,6 +21408,27 @@
             "Gold Pack 5": "HK$ 188.00",
             "Gold Pack 2": "HK$ 22.00"
           }
+        }
+      ]
+    ]
+  },
+  "1292311498": {
+    "name": "International One Night",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -37779,6 +37942,25 @@
     "history": [
       [
         {
+          "timestamp": 1745665323137,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Daniel skin": "HK$ 8.00",
+            "Reyna skin": "HK$ 8.00",
+            "Jorge skin": "HK$ 8.00",
+            "Gloria skin": "HK$ 8.00",
+            "Purple menu color": "HK$ 32.00",
+            "Red menu color": "HK$ 18.00",
+            "Yellow menu color": "HK$ 8.00",
+            "James character": "HK$ 8.00",
+            "Lisa character": "HK$ 0.00",
+            "Elsa character": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745375383677,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -38371,6 +38553,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745665323137,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "60鑽石": "HK$ 8.00",
+            "300鑽石": "HK$ 38.00",
+            "180鑽石": "HK$ 23.00",
+            "680鑽石": "HK$ 88.00",
+            "1280鑽石": "HK$ 158.00",
+            "10鑽石": "HK$ 8.00",
+            "1980鑽石": "HK$ 238.00",
+            "3280鑽石": "HK$ 398.00",
+            "120鑽石": "HK$ 18.00",
+            "980鑽石": "HK$ 118.00"
+          }
+        },
         {
           "timestamp": 1745661727084,
           "price": 2,
@@ -50002,6 +50201,48 @@
           "timestamp": 1745658131479,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742526717": {
+    "name": "WatchTube for YouTube",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6478398981": {
+    "name": "IPTV Smart Pro - Live TV",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]

@@ -6569,6 +6569,27 @@
       ]
     ]
   },
+  "557168861": {
+    "name": "香港法例 Legislation HK",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "563082328": {
     "name": "Military Retirement",
     "maxPriceInfo": {
@@ -6879,6 +6900,27 @@
           "timestamp": 1745328692670,
           "price": 58,
           "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "586604476": {
+    "name": "易爻(實用)",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 98,
+          "formattedPrice": "¥98.00",
           "inAppPurchases": {}
         }
       ]
@@ -7989,6 +8031,27 @@
           "timestamp": 1745442137026,
           "price": 22,
           "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "625740630": {
+    "name": "Hairtechapp - Cutting Diagrams",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 98,
+          "formattedPrice": "¥98.00",
           "inAppPurchases": {}
         }
       ]
@@ -10899,12 +10962,26 @@
       "price": 0,
       "formattedPrice": "免费",
       "生辰-年度会员": "¥68.00",
-      "生辰-季度会员": "¥68.00",
+      "生辰-季度会员": "¥22.00",
       "生辰年度会员": "¥58.00",
       "月度会员": "¥15.00",
       "永久会员": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "生辰年度会员": "¥78.00",
+            "月度会员": "¥15.00",
+            "生辰-季度会员": "¥22.00",
+            "永久会员": "¥88.00",
+            "生辰-年度会员": "¥88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745143340307,
@@ -13429,6 +13506,23 @@
     "history": [
       [
         {
+          "timestamp": 1745665323137,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "60根火柴": "¥6.00",
+            "月度礼包": "¥25.00",
+            "180根火柴": "¥18.00",
+            "限时礼包-2": "¥6.00",
+            "980根火柴": "¥98.00",
+            "1元礼包": "¥1.00",
+            "1元火柴礼包": "¥1.00",
+            "500根火柴": "¥50.00",
+            "超值礼包-1": "¥18.00",
+            "成长基金": "¥30.00"
+          }
+        },
+        {
           "timestamp": 1745661727084,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -13697,6 +13791,27 @@
             "高级商会签约": "¥243.00",
             "每日特惠礼包一": "¥18.00"
           }
+        }
+      ]
+    ]
+  },
+  "1116905928": {
+    "name": "nPlayer",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -16032,6 +16147,27 @@
           "timestamp": 1745334141417,
           "price": 8,
           "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1292311498": {
+    "name": "International One Night",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 22,
+          "formattedPrice": "¥22.00",
           "inAppPurchases": {}
         }
       ]
@@ -35395,6 +35531,23 @@
     "history": [
       [
         {
+          "timestamp": 1745665323137,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "奇境森林": "¥13.00",
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：龙之神庙": "¥9.00",
+            "DLC：异界": "¥8.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：邪恶之心": "¥12.00",
+            "新世界启程礼": "¥68.00"
+          }
+        },
+        {
           "timestamp": 1745640142195,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -36838,6 +36991,100 @@
           "timestamp": 1745578938597,
           "price": 48,
           "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6473332700": {
+    "name": "逐鹿 - 历史沙盘战棋",
+    "maxPriceInfo": {
+      "price": 25,
+      "formattedPrice": "¥25.00",
+      "自创武将": "¥24.00",
+      "战国七雄": "¥28.00",
+      "楚汉争霸": "¥28.00",
+      "群雄争霸": "¥14.00",
+      "自创武将朝代特色兵种补丁": "¥28.00",
+      "自创地图": "¥24.00",
+      "无双战神": "¥14.00",
+      "重振汉室": "¥14.00",
+      "镇海神威": "¥14.00",
+      "虎啸凤鸣": "¥14.00"
+    },
+    "minPriceInfo": {
+      "price": 25,
+      "formattedPrice": "¥25.00",
+      "自创武将": "¥24.00",
+      "战国七雄": "¥28.00",
+      "楚汉争霸": "¥28.00",
+      "群雄争霸": "¥14.00",
+      "自创武将朝代特色兵种补丁": "¥28.00",
+      "自创地图": "¥24.00",
+      "无双战神": "¥14.00",
+      "重振汉室": "¥14.00",
+      "镇海神威": "¥14.00",
+      "虎啸凤鸣": "¥14.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "自创武将": "¥24.00",
+            "战国七雄": "¥28.00",
+            "楚汉争霸": "¥28.00",
+            "群雄争霸": "¥14.00",
+            "自创武将朝代特色兵种补丁": "¥28.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥14.00",
+            "重振汉室": "¥14.00",
+            "镇海神威": "¥14.00",
+            "虎啸凤鸣": "¥14.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6742526717": {
+    "name": "WatchTube for YouTube",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6478398981": {
+    "name": "IPTV Smart Pro - Live TV",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745665323137,
+          "price": 22,
+          "formattedPrice": "¥22.00",
           "inAppPurchases": {}
         }
       ]

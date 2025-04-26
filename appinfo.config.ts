@@ -63,6 +63,76 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 557168861,
+    name: {
+      hk: '香港法例 Legislation HK',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 586604476,
+    name: {
+      hk: '易爻(實用)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 597758149,
+    name: {
+      tw: '聽寫五十音專業版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 625740630,
+    name: {
+      tw: 'Hairtechapp - Cutting Diagrams',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 808296431,
+    name: {
+      hk: 'Crashlands',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1116905928,
+    name: {
+      tw: 'nPlayer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1292311498,
+    name: {
+      hk: 'International One Night',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6473332700,
+    name: {
+      cn: '逐鹿 - 历史沙盘战棋',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742526717,
+    name: {
+      mo: 'WatchTube for YouTube',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6478398981,
+    name: {
+      tr: 'IPTV Smart Pro - 4K Live TV',
+    },
+    addType: 'auto',
+  },
+  {
     id: 528181527,
     name: {
       tw: '行車記錄儀「TripREC」',
