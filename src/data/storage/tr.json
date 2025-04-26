@@ -10517,6 +10517,25 @@
     "history": [
       [
         {
+          "timestamp": 1745661727084,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "12 Mo. Fongo Ultimate": "₺4.499,99",
+            "3 Mo. Fongo Ultimate": "₺1.299,99",
+            "6 Mo. Fongo Ultimate": "₺2.499,99",
+            "1 Mo. Fongo Ultimate": "₺599,99",
+            "12 Mo. Remove Ads": "₺799,99",
+            "6 Mo. Remove Ads": "₺449,99",
+            "3 Mo. Remove Ads": "₺249,99",
+            "1 Mo. Remove Ads": "₺119,99",
+            "12 Mo. Fongo Plus": "₺3.999,99",
+            "12 Mo. Global Texting": "₺1.199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745488957273,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -13366,6 +13385,21 @@
     "history": [
       [
         {
+          "timestamp": 1745661727084,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "[A heap of crystals]": "₺39,99",
+            "[A box of crystals]": "₺129,99",
+            "[A package of crystals]": "₺179,99",
+            "[A big package of crystals]": "₺449,99",
+            "Coupon of the Greedy Cave": "₺179,99",
+            "[A big chest of crystals]": "₺2.299,99",
+            "[A chest of crystals]": "₺899,99",
+            "Package1": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1745658131479,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -14718,8 +14752,8 @@
       "特效1": "₺179,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99",
+      "price": 19.99,
+      "formattedPrice": "₺19,99",
       "980个Y币": "₺699,99",
       "150个Y币": "₺179,99",
       "特效7": "₺179,99",
@@ -14732,6 +14766,25 @@
       "特效1": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745661727084,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "980个Y币": "₺699,99",
+            "150个Y币": "₺179,99",
+            "特效7": "₺179,99",
+            "100 sheets": "₺4,99",
+            "特效6": "₺179,99",
+            "特效5": "₺179,99",
+            "特效4": "₺179,99",
+            "特效3": "₺179,99",
+            "特效2": "₺179,99",
+            "特效1": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -17326,6 +17379,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745661727084,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {
+            "20,000 coins": "₺19,99",
+            "90,000 coins": "₺99,99",
+            "220,000 coins": "₺179,99",
+            "550,000 coins": "₺449,99",
+            "1,300,000 coins": "₺999,99",
+            "2,000,000 coins": "₺1.299,99",
+            "3,000,000 coins": "₺1.999,99"
+          }
+        },
         {
           "timestamp": 1745658131479,
           "price": 29.99,
@@ -27152,7 +27219,8 @@
       "Death of Divinity": "₺229,99",
       "Tribes of Twilight": "₺229,99",
       "Eclypse Supporter Pack": "₺179,99",
-      "Infinitum Support Banner": "₺179,99"
+      "Infinitum Support Banner": "₺179,99",
+      "Catalyst Support Pack": "₺229,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -27166,10 +27234,28 @@
       "Death of Divinity": "₺229,99",
       "Tribes of Twilight": "₺229,99",
       "Eclypse Supporter Pack": "₺179,99",
-      "Infinitum Support Banner": "₺179,99"
+      "Infinitum Support Banner": "₺179,99",
+      "Catalyst Support Pack": "₺229,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745661727084,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Infernal Invasions": "₺249,99",
+            "Vaul of the Void Promo Pack": "₺0,00",
+            "Eclypse Supporter Pack": "₺179,99",
+            "Dawncaster Origins Bundle": "₺229,99",
+            "Dawncaster Mega Bundle": "₺599,99",
+            "Siege of Shadows": "₺229,99",
+            "Catalyst Support Pack": "₺229,99",
+            "Masks of Misery": "₺229,99",
+            "Infinitum Support Banner": "₺179,99",
+            "Death of Divinity": "₺229,99"
+          }
+        },
         {
           "timestamp": 1745618531969,
           "price": 229.99,
