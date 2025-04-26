@@ -19291,7 +19291,8 @@
       "1100 Rebirth Stones": "$3.99",
       "2400 Rebirth Stones": "$8.99",
       "Ring Package": "$24.99",
-      "Element Package": "$15.99"
+      "Element Package": "$15.99",
+      "660 Rebirth stones": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -19305,9 +19306,29 @@
       "1100 Rebirth Stones": "$3.99",
       "2400 Rebirth Stones": "$8.99",
       "Ring Package": "$24.99",
-      "Element Package": "$15.99"
+      "Element Package": "$15.99",
+      "660 Rebirth stones": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745672784535,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "180 Rubies": "$2.99",
+            "Ring Package": "$24.99",
+            "660 Rebirth stones": "$2.99",
+            "1100 Rebirth Stones": "$3.99",
+            "2400 Rebirth Stones": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745551034698,
@@ -22137,6 +22158,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745672784535,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Valentine Stage": "$3.99"
+          }
+        },
         {
           "timestamp": 1745643740114,
           "price": 2.99,
@@ -36519,6 +36556,24 @@
     "history": [
       [
         {
+          "timestamp": 1745672784535,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$4.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$9.99",
+            "Ready to Roast": "$2.99",
+            "Midnight Night Out Pack": "$1.99",
+            "Sports and Games Pack": "$2.99",
+            "Generations Gen Z Pack": "$0.99",
+            "Midnight Bedroom Pack": "$1.99",
+            "Surprise Pack 1": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745427749750,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -41644,6 +41699,25 @@
       "Info Pack": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745672784535,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Uniform Pack": "$3.99",
+            "Monster Pack": "$19.99",
+            "Nurse Pack": "$4.99",
+            "Unlock Temperament": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745607723305,
@@ -49724,7 +49798,10 @@
       "1M PP + Pack 3 for OOTP Go 26!": "$499.99",
       "1M PP + Pack 1 for OOTP Go 26!": "$499.99",
       "1,000,000 PP for OOTP Go 26!": "$499.99",
-      "1M PP + Pack 4 for OOTP Go 26!": "$499.99"
+      "1M PP + Pack 4 for OOTP Go 26!": "$499.99",
+      "Bundle MLB 1990s": "$4.99",
+      "Bundle MLB 2010s": "$4.99",
+      "Bundle MLB 1980s": "$4.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -49743,10 +49820,30 @@
       "1M PP + Pack 3 for OOTP Go 26!": "$499.99",
       "1M PP + Pack 1 for OOTP Go 26!": "$499.99",
       "1,000,000 PP for OOTP Go 26!": "$499.99",
-      "1M PP + Pack 4 for OOTP Go 26!": "$499.99"
+      "1M PP + Pack 4 for OOTP Go 26!": "$499.99",
+      "Bundle MLB 1990s": "$4.99",
+      "Bundle MLB 2010s": "$4.99",
+      "Bundle MLB 1980s": "$4.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745672784535,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 2024": "$0.99",
+            "Bundle MLB 1990s": "$4.99",
+            "Bundle MLB 2010s": "$4.99",
+            "Bundle MLB 1980s": "$4.99"
+          }
+        },
         {
           "timestamp": 1745668987623,
           "price": 9.99,
