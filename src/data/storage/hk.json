@@ -2577,6 +2577,18 @@
     "history": [
       [
         {
+          "timestamp": 1745678822112,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Premium": "HK$ 133.00",
+            "Pack of 100 Credits": "HK$ 22.00",
+            "Super Powers": "HK$ 88.00",
+            "Pack of 550 Credits": "HK$ 118.00",
+            "Pack of 1250 Credits": "HK$ 228.00"
+          }
+        },
+        {
           "timestamp": 1745676122075,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
