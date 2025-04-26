@@ -63,6 +63,139 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 528181527,
+    name: {
+      tw: '行車記錄儀「TripREC」',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 545625741,
+    name: {
+      tr: 'King of Maths: Full Game',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 592398757,
+    name: {
+      hk: 'Perfect Tempo',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 669835030,
+    name: {
+      hk: 'WinZip完整版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 672649451,
+    name: {
+      mo: 'Panecal Plus 科學計算器',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 682046579,
+    name: {
+      tw: 'Tinybop 人體探秘',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 787148904,
+    name: {
+      hk: 'R-TYPE II',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 933113994,
+    name: {
+      tw: 'DRAGON QUEST V',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1056920931,
+    name: {
+      hk: 'Iron Marines',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1082806154,
+    name: {
+      hk: 'Age of Rivals',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1354857517,
+    name: {
+      hk: 'NotePad++ - Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1463331841,
+    name: {
+      us: 'Oolimo Guitar Chords',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1476509317,
+    name: {
+      cn: '每日英语 听力学习版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1599005073,
+    name: {
+      tw: 'KOF 2002 ACA NEOGEO',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1623111026,
+    name: {
+      tw: '口袋學院物語3',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1671475521,
+    name: {
+      tw: 'DNA Transform!',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6479295005,
+    name: {
+      tw: '住宅夢物語 DX',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744569015,
+    name: {
+      us: 'Neon Labyrinth',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6502905107,
+    name: {
+      tr: 'AListServer',
+    },
+    addType: 'auto',
+  },
+  {
     id: 400259071,
     name: {
       tw: '降雨警報器 Pro',
