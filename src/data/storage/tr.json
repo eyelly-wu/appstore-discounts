@@ -9724,6 +9724,23 @@
     "history": [
       [
         {
+          "timestamp": 1745708536984,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "4K Ultra HD Video": "₺229,99",
+            "The Master Collection": "₺99,99",
+            "ZERO: Direct Sensor Capture": "₺0,00",
+            "4K Ultra HD Time Lapse": "₺129,99",
+            "The Elemental Collection": "₺39,99",
+            "Batch Photo Actions": "₺0,00",
+            "AI Spatial": "₺229,99",
+            "8K Max Time Lapse": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1742392942591,
           "price": 449.99,
           "formattedPrice": "₺449,99",
@@ -13107,8 +13124,8 @@
   "982175678": {
     "name": "This War of Mine",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 599.99,
+      "formattedPrice": "₺599,99",
       "The Little Ones": "₺99,99"
     },
     "minPriceInfo": {
@@ -13117,6 +13134,16 @@
       "The Little Ones": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745708536984,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {
+            "The Little Ones": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -27561,6 +27588,25 @@
     "history": [
       [
         {
+          "timestamp": 1745708536984,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Infernal Invasions": "₺249,99",
+            "Vaul of the Void Promo Pack": "₺0,00",
+            "Eclypse Supporter Pack": "₺179,99",
+            "Dawncaster Origins Bundle": "₺229,99",
+            "Dawncaster Mega Bundle": "₺599,99",
+            "Siege of Shadows": "₺229,99",
+            "Catalyst Support Pack": "₺229,99",
+            "Masks of Misery": "₺229,99",
+            "Infinitum Support Banner": "₺179,99",
+            "Death of Divinity": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745665323137,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -28692,14 +28738,22 @@
   "1580067723": {
     "name": "Wall of insanity",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
       "price": 19.99,
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745708536984,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745614934030,

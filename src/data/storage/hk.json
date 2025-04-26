@@ -14636,6 +14636,21 @@
     "history": [
       [
         {
+          "timestamp": 1745708536984,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Font Access": "HK$ 388.00",
+            "Ultimate Access": "HK$ 1,188.00",
+            "Gradient Rainbow": "HK$ 8.00",
+            "Pro Access": "HK$ 788.00",
+            "Abstract Theme 5": "HK$ 8.00",
+            "Abstract Theme 4": "HK$ 8.00",
+            "Abstract Theme 2": "HK$ 8.00",
+            "Abstract Theme 3": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1745704937545,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -19054,7 +19069,14 @@
       "Props Tip: flower": "HK$ 8.00",
       "Get inside the temple door password": "HK$ 8.00",
       "Rockets get the door unlocking": "HK$ 8.00",
-      "Get the factory door unlock": "HK$ 8.00"
+      "Get the factory door unlock": "HK$ 8.00",
+      "Purchase game": "HK$ 8.00",
+      "Get tips on holographic camera": "HK$ 8.00",
+      "Get tips about two weeks mesh box factory eye": "HK$ 8.00",
+      "Get tips about the triangle blocks (1-6)": "HK$ 8.00",
+      "Get tips on the bucket": "HK$ 8.00",
+      "Get tips on stone-eyed": "HK$ 8.00",
+      "Get tips about this mysterious stone": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -19068,9 +19090,35 @@
       "Props Tip: flower": "HK$ 8.00",
       "Get inside the temple door password": "HK$ 8.00",
       "Rockets get the door unlocking": "HK$ 8.00",
-      "Get the factory door unlock": "HK$ 8.00"
+      "Get the factory door unlock": "HK$ 8.00",
+      "Purchase game": "HK$ 8.00",
+      "Get tips on holographic camera": "HK$ 8.00",
+      "Get tips about two weeks mesh box factory eye": "HK$ 8.00",
+      "Get tips about the triangle blocks (1-6)": "HK$ 8.00",
+      "Get tips on the bucket": "HK$ 8.00",
+      "Get tips on stone-eyed": "HK$ 8.00",
+      "Get tips about this mysterious stone": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745708536984,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Purchase game": "HK$ 8.00",
+            "Props Tip: Temple corner": "HK$ 8.00",
+            "Props Tip: Pyramid": "HK$ 8.00",
+            "Props Tip: flower": "HK$ 8.00",
+            "Get tips on holographic camera": "HK$ 8.00",
+            "Get tips about two weeks mesh box factory eye": "HK$ 8.00",
+            "Get tips about the triangle blocks (1-6)": "HK$ 8.00",
+            "Get tips on the bucket": "HK$ 8.00",
+            "Get tips on stone-eyed": "HK$ 8.00",
+            "Get tips about this mysterious stone": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
