@@ -2441,7 +2441,8 @@
       "Super Powers": "$360.00",
       "Pack of 100 Credits": "$90.00",
       "Pack of 550 Credits": "$390.00",
-      "Pack of 450 Credits": "$499.00"
+      "Pack of 450 Credits": "$499.00",
+      "100 Badoo Credits": "$149.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -2450,9 +2451,24 @@
       "Super Powers": "$90.00",
       "Pack of 100 Credits": "$90.00",
       "Pack of 550 Credits": "$390.00",
-      "Pack of 450 Credits": "$499.00"
+      "Pack of 450 Credits": "$499.00",
+      "100 Badoo Credits": "$149.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745683328870,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Premium": "$360.00",
+            "Super Powers": "$90.00",
+            "Pack of 100 Credits": "$90.00",
+            "100 Badoo Credits": "$149.00",
+            "Pack of 550 Credits": "$390.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745575358432,
@@ -31251,7 +31267,8 @@
       "尊享月俸": "$170.00",
       "328金玉": "$1,690.00",
       "戰姬": "$2,990.00",
-      "月俸": "$90.00"
+      "月俸": "$90.00",
+      "禮包2": "$33.00"
     },
     "minPriceInfo": {
       "price": 10,
@@ -31275,9 +31292,29 @@
       "尊享月俸": "$170.00",
       "328金玉": "$1,690.00",
       "戰姬": "$2,990.00",
-      "月俸": "$90.00"
+      "月俸": "$90.00",
+      "禮包2": "$33.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745683328870,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "一鍵買斷禮包": "$150.00",
+            "648金玉": "$3,290.00",
+            "尊享月俸": "$170.00",
+            "328金玉": "$1,690.00",
+            "戰姬": "$2,990.00",
+            "禮包2": "$33.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745589738232,
@@ -49775,6 +49812,25 @@
       "Airbus A380": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745683328870,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "Airbus A350-1000": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "The Aircraft Bundle": "$590.00",
+            "Boeing 777-300ER": "$60.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A380": "$60.00",
+            "UH-60": "$30.00",
+            "Boeing 777F": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745672784535,
