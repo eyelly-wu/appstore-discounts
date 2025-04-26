@@ -63,6 +63,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1403183441,
+    name: {
+      tr: 'Ala Mobile GP',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1538900393,
+    name: {
+      tw: '風雲拳擊物語',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6476442028,
+    name: {
+      tr: 'Zelzele Türkiye',
+    },
+    addType: 'auto',
+  },
+  {
     id: 461659980,
     name: {
       hk: 'Phonics Genius',
