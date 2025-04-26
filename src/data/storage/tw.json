@@ -15986,7 +15986,8 @@
       "Useful pack": "$90.00",
       "Handful of caps": "$30.00",
       "Seasonal event item": "$2,990.00",
-      "Legendary pack": "$2,990.00"
+      "Legendary pack": "$2,990.00",
+      "Pile of caps": "$150.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -16000,9 +16001,29 @@
       "Useful pack": "$90.00",
       "Handful of caps": "$30.00",
       "Seasonal event item": "$2,990.00",
-      "Legendary pack": "$2,990.00"
+      "Legendary pack": "$2,990.00",
+      "Pile of caps": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745640142195,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Special pack": "$150.00",
+            "Great pack": "$320.00",
+            "Small pack": "$30.00",
+            "Big pack": "$690.00",
+            "Case with caps": "$690.00",
+            "Huge pack": "$1,490.00",
+            "Handful of caps": "$30.00",
+            "Seasonal event item": "$2,990.00",
+            "Legendary pack": "$2,990.00",
+            "Pile of caps": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745431369334,
@@ -30177,9 +30198,21 @@
       "formattedPrice": "$30.00",
       "RFS Pro (1個月)": "$150.00",
       "RFS Pro (1年)": "$950.00",
-      "RFS Pro (6個月)": "$990.00"
+      "RFS Pro (6個月)": "$640.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745640142195,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "RFS Pro (1個月)": "$150.00",
+            "RFS Pro (1年)": "$990.00",
+            "RFS Pro (6個月)": "$640.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745553751957,
@@ -45839,6 +45872,25 @@
       "鎮海神威": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745640142195,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "戰國七雄": "$120.00",
+            "自創武將": "$120.00",
+            "群雄爭霸": "$60.00",
+            "楚漢爭霸": "$120.00",
+            "自創武將朝代特色兵種補丁": "$120.00",
+            "公路霸業": "$60.00",
+            "北境狂人": "$60.00",
+            "自創武將朝代服裝發飾素材補丁": "$120.00",
+            "無雙戰神": "$60.00",
+            "重振漢室": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745589738232,
