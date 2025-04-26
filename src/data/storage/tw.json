@@ -14076,6 +14076,23 @@
     "history": [
       [
         {
+          "timestamp": 1745694124895,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "新手包": "$150.00",
+            "Aria Gold Sniper Rifle": "$790.00",
+            "Dragun": "$490.00",
+            "The Merry Maker Rifle": "$490.00",
+            "Exorcist": "$490.00",
+            "Largo Sniper Rifle": "$30.00",
+            "Jaeger Sniper Rifle": "$790.00",
+            "Aria Sniper Rifle": "$320.00",
+            "超大型金錢包": "$320.00",
+            "極慢板狙擊步槍": "$30.00"
+          }
+        },
+        {
           "timestamp": 1745690547280,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -16468,10 +16485,16 @@
       "Case with caps": "$690.00",
       "Huge pack": "$1,490.00",
       "Useful pack": "$90.00",
-      "Handful of caps": "$30.00",
+      "Handful of caps": "$60.00",
       "Seasonal event item": "$2,990.00",
       "Legendary pack": "$2,990.00",
-      "Pile of caps": "$150.00"
+      "Pile of caps": "$150.00",
+      "Crazy sale pack": "$30.00",
+      "Data Disk pack 2": "$690.00",
+      "Data Disk pack 1": "$150.00",
+      "Standart pack": "$60.00",
+      "Nickname change": "$60.00",
+      "Repair kit": "$30.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -16484,11 +16507,35 @@
       "Huge pack": "$1,490.00",
       "Useful pack": "$90.00",
       "Handful of caps": "$30.00",
-      "Seasonal event item": "$2,990.00",
+      "Seasonal event item": "$690.00",
       "Legendary pack": "$2,990.00",
-      "Pile of caps": "$150.00"
+      "Pile of caps": "$150.00",
+      "Crazy sale pack": "$30.00",
+      "Data Disk pack 2": "$690.00",
+      "Data Disk pack 1": "$150.00",
+      "Standart pack": "$60.00",
+      "Nickname change": "$60.00",
+      "Repair kit": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745694124895,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Crazy sale pack": "$30.00",
+            "Data Disk pack 2": "$690.00",
+            "Data Disk pack 1": "$150.00",
+            "Useful pack": "$90.00",
+            "Standart pack": "$60.00",
+            "Handful of caps": "$60.00",
+            "Seasonal event item": "$690.00",
+            "Nickname change": "$60.00",
+            "Repair kit": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745640142195,
@@ -28357,6 +28404,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745694124895,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "500 Tips": "$60.00",
+            "200 Tips": "$30.00",
+            "2500 Tips": "$150.00",
+            "100 Mini-Game Tickets": "$150.00",
+            "30 Mini-Game Tickets": "$60.00",
+            "10 Mini-Game Tickets": "$30.00"
+          }
+        },
         {
           "timestamp": 1745690547280,
           "price": 60,
@@ -49107,6 +49167,19 @@
     "history": [
       [
         {
+          "timestamp": 1745694124895,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "2500 Tips": "$150.00",
+            "200 Tips": "$30.00",
+            "500 Tips": "$60.00",
+            "10 Mini-Game Tickets": "$30.00",
+            "30 Mini-Game Tickets": "$60.00",
+            "100 Mini-Game Tickets": "$150.00"
+          }
+        },
+        {
           "timestamp": 1745690547280,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -49845,7 +49918,8 @@
       "Airbus A321": "$60.00",
       "CRJ900": "$30.00",
       "Global scenery - 3 months": "$220.00",
-      "Airbus A380": "$60.00"
+      "Airbus A380": "$60.00",
+      "Boeing 737 MAX 9": "$60.00"
     },
     "minPriceInfo": {
       "price": 120,
@@ -49863,10 +49937,28 @@
       "Airbus A321": "$60.00",
       "CRJ900": "$30.00",
       "Global scenery - 3 months": "$220.00",
-      "Airbus A380": "$60.00"
+      "Airbus A380": "$60.00",
+      "Boeing 737 MAX 9": "$60.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1745694124895,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "Airbus A350-1000": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "The Aircraft Bundle": "$590.00",
+            "Boeing 777-300ER": "$60.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A380": "$60.00",
+            "UH-60": "$30.00",
+            "Boeing 737 MAX 9": "$60.00"
+          }
+        },
         {
           "timestamp": 1745683328870,
           "price": 120,
