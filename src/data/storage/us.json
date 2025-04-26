@@ -2232,6 +2232,31 @@
       ]
     ]
   },
+  "378503081": {
+    "name": "Groundwire: VoIP SIP Softphone",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "ZRTP For Outgoing Calls": "$24.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "ZRTP For Outgoing Calls": "$24.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "ZRTP For Outgoing Calls": "$24.99"
+          }
+        }
+      ]
+    ]
+  },
   "379485721": {
     "name": "Blood Type Diet®",
     "maxPriceInfo": {
@@ -8243,6 +8268,27 @@
       ]
     ]
   },
+  "535176909": {
+    "name": "BADLAND",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "537280156": {
     "name": "Raiden Legacy",
     "maxPriceInfo": {
@@ -11036,6 +11082,27 @@
           "timestamp": 1745328692670,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "601831815": {
+    "name": "Ridiculous Fishing - A Tale of Redemption",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]
@@ -36556,6 +36623,23 @@
     "history": [
       [
         {
+          "timestamp": 1745676122075,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$4.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$9.99",
+            "Ready to Roast": "$2.99",
+            "Midnight Night Out Pack": "$1.99",
+            "Celebrity Deck": "$2.99",
+            "Sports and Games Pack": "$2.99",
+            "Generations Gen Z Pack": "$0.99",
+            "Midnight Bedroom Pack": "$1.99",
+            "Surprise Pack 1": "$2.99"
+          }
+        },
+        {
           "timestamp": 1745672784535,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -40132,6 +40216,27 @@
             "2080 Stellar Gems": "$19.99",
             "300 Stellar Gems": "$2.95"
           }
+        }
+      ]
+    ]
+  },
+  "1614795077": {
+    "name": "Otaku's Adventure",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -50127,6 +50232,58 @@
           "price": 2.99,
           "formattedPrice": "$2.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6744998205": {
+    "name": "猜病猜盐-猜病小测验程序",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6477745183": {
+    "name": "Echo Ways",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29",
+      "Pack III": "$1.99",
+      "Pack II": "$0.99",
+      "Pack I": "$0.49"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29",
+      "Pack III": "$1.99",
+      "Pack II": "$0.99",
+      "Pack I": "$0.49"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Pack III": "$1.99",
+            "Pack II": "$0.99",
+            "Pack I": "$0.49"
+          }
         }
       ]
     ]

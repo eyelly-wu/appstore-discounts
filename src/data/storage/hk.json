@@ -2552,7 +2552,12 @@
       "Super Powers": "HK$ 98.00",
       "Pack of 550 Credits": "HK$ 118.00",
       "Pack of 1250 Credits": "HK$ 228.00",
-      "Pack of 3050 Credits": "HK$ 250.00"
+      "Pack of 3050 Credits": "HK$ 250.00",
+      "rise up to first place": "HK$ 18.00",
+      "Contacts limit increase": "HK$ 18.00",
+      "Voting limit increase": "HK$ 18.00",
+      "Activate Super Powers - 1 month": "HK$ 68.00",
+      "Activate Super Powers - 3 months": "HK$ 148.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -2562,10 +2567,27 @@
       "Super Powers": "HK$ 88.00",
       "Pack of 550 Credits": "HK$ 118.00",
       "Pack of 1250 Credits": "HK$ 228.00",
-      "Pack of 3050 Credits": "HK$ 250.00"
+      "Pack of 3050 Credits": "HK$ 250.00",
+      "rise up to first place": "HK$ 18.00",
+      "Contacts limit increase": "HK$ 18.00",
+      "Voting limit increase": "HK$ 18.00",
+      "Activate Super Powers - 1 month": "HK$ 68.00",
+      "Activate Super Powers - 3 months": "HK$ 148.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1745676122075,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "rise up to first place": "HK$ 18.00",
+            "Contacts limit increase": "HK$ 18.00",
+            "Voting limit increase": "HK$ 18.00",
+            "Activate Super Powers - 1 month": "HK$ 68.00",
+            "Activate Super Powers - 3 months": "HK$ 148.00"
+          }
+        },
         {
           "timestamp": 1745640142195,
           "price": 22,
@@ -8107,6 +8129,27 @@
       ]
     ]
   },
+  "535176909": {
+    "name": "BADLAND",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "537280156": {
     "name": "Raiden Legacy",
     "maxPriceInfo": {
@@ -11211,6 +11254,27 @@
           "timestamp": 1745328692670,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "601831815": {
+    "name": "Ridiculous Fishing - A Tale of Redemption",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]
@@ -15897,8 +15961,8 @@
   "982175678": {
     "name": "This War of Mine",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00",
+      "price": 118,
+      "formattedPrice": "HK$ 118.00",
       "The Little Ones": "HK$ 18.00"
     },
     "minPriceInfo": {
@@ -15907,6 +15971,16 @@
       "The Little Ones": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "The Little Ones": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -38435,8 +38509,8 @@
   "1580067723": {
     "name": "Wall of insanity",
     "maxPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 2,
@@ -38444,6 +38518,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745676122075,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1745614934030,
           "price": 2,
@@ -41219,6 +41299,27 @@
             "300 星鑽": "HK$ 24.00",
             "2080 星鑽": "HK$ 150.00"
           }
+        }
+      ]
+    ]
+  },
+  "1614795077": {
+    "name": "Otaku's Adventure",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -50372,6 +50473,58 @@
           "price": 22,
           "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6744998205": {
+    "name": "猜病猜盐-猜病小测验程序",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6477745183": {
+    "name": "Echo Ways",
+    "maxPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "Pack III": "HK$ 18.00",
+      "Pack II": "HK$ 8.00",
+      "Pack I": "HK$ 4.00"
+    },
+    "minPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "Pack III": "HK$ 18.00",
+      "Pack II": "HK$ 8.00",
+      "Pack I": "HK$ 4.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745676122075,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Pack III": "HK$ 18.00",
+            "Pack II": "HK$ 8.00",
+            "Pack I": "HK$ 4.00"
+          }
         }
       ]
     ]

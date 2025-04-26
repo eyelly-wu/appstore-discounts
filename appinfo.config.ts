@@ -63,6 +63,48 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 378503081,
+    name: {
+      tr: 'Groundwire: VoIP SIP Softphone',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 535176909,
+    name: {
+      tw: 'BADLAND',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 601831815,
+    name: {
+      hk: 'Ridiculous Fishing - A Tale of Redemption',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1614795077,
+    name: {
+      hk: "Otaku's Adventure",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744998205,
+    name: {
+      cn: '猜病猜盐-猜病小测验程序',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6477745183,
+    name: {
+      tw: 'Echo Ways',
+    },
+    addType: 'auto',
+  },
+  {
     id: 557168861,
     name: {
       hk: '香港法例 Legislation HK',
