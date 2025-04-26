@@ -1315,6 +1315,23 @@
     "history": [
       [
         {
+          "timestamp": 1745668987623,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro": "HK$ 118.00",
+            "Brahms: The Mutopia Collection": "HK$ 0.00",
+            "Liszt: The Mutopia Collection": "HK$ 0.00",
+            "Tchaikovsky: The Mutopia Collection": "HK$ 0.00",
+            "Schumann: The Mutopia Collection": "HK$ 0.00",
+            "Haydn: The Mutopia Collection": "HK$ 0.00",
+            "Burgmüller: The Mutopia Collection": "HK$ 0.00",
+            "Satie: The Mutopia Collection": "HK$ 0.00",
+            "Händel: The Mutopia Collection": "HK$ 0.00",
+            "Chopin: The Mutopia Collection": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1745665323137,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -3009,7 +3026,11 @@
       "Predictive Report - No Background": "HK$ 22.00",
       "Child Report - Full": "HK$ 32.00",
       "Birth Chart Report - Untimed": "HK$ 22.00",
-      "Predictive Report - Untimed": "HK$ 22.00"
+      "Predictive Report - Untimed": "HK$ 22.00",
+      "Lunar Return Report": "HK$ 32.00",
+      "The Big Three Report": "HK$ 32.00",
+      "My Pet Report": "HK$ 18.00",
+      "Child Report - Untimed": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 288,
@@ -3023,9 +3044,32 @@
       "Predictive Report - No Background": "HK$ 22.00",
       "Child Report - Full": "HK$ 32.00",
       "Birth Chart Report - Untimed": "HK$ 22.00",
-      "Predictive Report - Untimed": "HK$ 22.00"
+      "Predictive Report - Untimed": "HK$ 22.00",
+      "Lunar Return Report": "HK$ 32.00",
+      "The Big Three Report": "HK$ 32.00",
+      "My Pet Report": "HK$ 18.00",
+      "Child Report - Untimed": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745668987623,
+          "price": 288,
+          "formattedPrice": "HK$ 288.00",
+          "inAppPurchases": {
+            "Lunar Return Report": "HK$ 32.00",
+            "7-day Trial Astrolocality": "HK$ 0.00",
+            "Astrolocality Maps": "HK$ 188.00",
+            "The Big Three Report": "HK$ 32.00",
+            "Relationship Report": "HK$ 32.00",
+            "Predictive Report - Untimed": "HK$ 22.00",
+            "Predictive Report - No Background": "HK$ 22.00",
+            "Predictive Report - Full": "HK$ 32.00",
+            "My Pet Report": "HK$ 18.00",
+            "Child Report - Untimed": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
@@ -37942,6 +37986,23 @@
     "history": [
       [
         {
+          "timestamp": 1745668987623,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Lisa character": "HK$ 0.00",
+            "Founders Pack": "HK$ 8.00",
+            "Gloria skin": "HK$ 8.00",
+            "Elsa character": "HK$ 8.00",
+            "Yellow menu color": "HK$ 8.00",
+            "Purple menu color": "HK$ 32.00",
+            "Red menu color": "HK$ 18.00",
+            "Stephan character": "HK$ 8.00",
+            "Daniel skin": "HK$ 8.00",
+            "Reyna skin": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1745665323137,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -46900,8 +46961,8 @@
   "6452276410": {
     "name": "遊戲開發者：全能製作人",
     "maxPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00",
+      "price": 4,
+      "formattedPrice": "HK$ 4.00",
       "去廣告": "HK$ 22.00",
       "超值禮包": "HK$ 18.00",
       "資源禮包（小）": "HK$ 38.00",
@@ -46918,6 +46979,20 @@
       "資源禮包（中）": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745668987623,
+          "price": 4,
+          "formattedPrice": "HK$ 4.00",
+          "inAppPurchases": {
+            "去廣告": "HK$ 22.00",
+            "超值禮包": "HK$ 18.00",
+            "資源禮包（小）": "HK$ 38.00",
+            "資源禮包（大）": "HK$ 148.00",
+            "資源禮包（中）": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -48681,8 +48756,8 @@
       "月度專屬會員": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "半年度超級會員": "HK$ 88.00",
       "年度超級會員": "HK$ 148.00",
       "Quarterly Ultra Membership": "HK$ 38.00",
@@ -48695,6 +48770,25 @@
       "月度專屬會員": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745668987623,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "半年度超級會員": "HK$ 88.00",
+            "年度超級會員": "HK$ 148.00",
+            "Quarterly Ultra Membership": "HK$ 38.00",
+            "月度超級會員": "HK$ 22.00",
+            "80根蠟燭": "HK$ 58.00",
+            "30根蠟燭": "HK$ 22.00",
+            "20根蠟燭": "HK$ 18.00",
+            "10根蠟燭": "HK$ 8.00",
+            "季度專屬會員": "HK$ 32.00",
+            "月度專屬會員": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
