@@ -9040,6 +9040,23 @@
     "history": [
       [
         {
+          "timestamp": 1745630977573,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        },
+        {
           "timestamp": 1745553751957,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -26864,6 +26881,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745630977573,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Early Unlock Cheats": "$9.99",
+            "Command Pack": "$6.99",
+            "All Advisors Unlock": "$9.99",
+            "Campaign + Challenge": "$4.99",
+            "Region Tour": "$3.99",
+            "The Black Caves Expansion": "$1.99",
+            "Early Unlock Cheats (discount)": "$4.99",
+            "The Azure Dam Expansion": "$1.99"
+          }
+        },
         {
           "timestamp": 1745626119758,
           "price": 1.99,
@@ -47485,7 +47517,8 @@
       "Airbus A319": "$1.99",
       "Antares 21E": "$0.99",
       "ASK 21": "$0.99",
-      "Airbus A321": "$1.99"
+      "Airbus A321": "$1.99",
+      "Concorde": "$1.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -47505,9 +47538,29 @@
       "Airbus A319": "$1.99",
       "Antares 21E": "$0.99",
       "ASK 21": "$0.99",
-      "Airbus A321": "$1.99"
+      "Airbus A321": "$1.99",
+      "Concorde": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745630977573,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Airbus A350-1000": "$3.99",
+            "Global scenery - 12 months": "$12.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 737-900": "$1.99",
+            "Concorde": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745461818532,
