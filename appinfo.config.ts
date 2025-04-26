@@ -63,6 +63,48 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 400259071,
+    name: {
+      tw: '降雨警報器 Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1139986977,
+    name: {
+      tw: '軒轅劍參 雲和山的彼端 加強版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1197552569,
+    name: {
+      tw: 'Poly Bridge',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1313164055,
+    name: {
+      tw: 'EE35 Film Camera',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1553774029,
+    name: {
+      us: 'Taskmaster The App',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6449433291,
+    name: {
+      tw: '常春藤108課綱基礎單字',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1403183441,
     name: {
       tr: 'Ala Mobile GP',

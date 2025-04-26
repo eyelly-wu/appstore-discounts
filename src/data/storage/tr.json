@@ -6550,7 +6550,17 @@
       "Skatepark: Double Infinity": "₺39,99",
       "Skatepark: The Warehouse": "₺39,99",
       "Skatepark: The Valley": "₺39,99",
-      "SLS 2013: Kansas City": "₺39,99"
+      "SLS 2013: Kansas City": "₺39,99",
+      "SLS 2023: Chicago": "₺39,99",
+      "SLS 2022: Jacksonville": "₺39,99",
+      "SLS 2021: World Championship": "₺39,99",
+      "SLS 2019: Sao Paulo": "₺39,99",
+      "SLS 2019: London": "₺39,99",
+      "Sandbox 1 Year": "₺439,99",
+      "Sandbox 3 Months": "₺174,99",
+      "Sandbox Monthly": "₺87,99",
+      "SLS 2018: World Championship": "₺39,99",
+      "Mountain of Bolts": "₺4.499,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -6564,9 +6574,38 @@
       "Skatepark: Double Infinity": "₺39,99",
       "Skatepark: The Warehouse": "₺39,99",
       "Skatepark: The Valley": "₺39,99",
-      "SLS 2013: Kansas City": "₺39,99"
+      "SLS 2013: Kansas City": "₺39,99",
+      "SLS 2023: Chicago": "₺39,99",
+      "SLS 2022: Jacksonville": "₺39,99",
+      "SLS 2021: World Championship": "₺39,99",
+      "SLS 2019: Sao Paulo": "₺39,99",
+      "SLS 2019: London": "₺39,99",
+      "Sandbox 1 Year": "₺439,99",
+      "Sandbox 3 Months": "₺174,99",
+      "Sandbox Monthly": "₺87,99",
+      "SLS 2018: World Championship": "₺39,99",
+      "Mountain of Bolts": "₺4.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745643740114,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "₺39,99",
+            "SLS 2022: Jacksonville": "₺39,99",
+            "SLS 2021: World Championship": "₺39,99",
+            "SLS 2019: Sao Paulo": "₺39,99",
+            "SLS 2019: London": "₺39,99",
+            "Sandbox 1 Year": "₺439,99",
+            "Sandbox 3 Months": "₺174,99",
+            "Sandbox Monthly": "₺87,99",
+            "SLS 2018: World Championship": "₺39,99",
+            "Mountain of Bolts": "₺4.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -15201,6 +15240,27 @@
       ]
     ]
   },
+  "1139986977": {
+    "name": "軒轅劍參 雲和山的彼端 加強版",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745643740114,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1142016085": {
     "name": "Rusty Lake: Roots",
     "maxPriceInfo": {
@@ -15963,6 +16023,27 @@
             "VIP会员  3个月": "₺5.999,99",
             "VIP会员  1个月": "₺2.299,99"
           }
+        }
+      ]
+    ]
+  },
+  "1197552569": {
+    "name": "Poly Bridge",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745643740114,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -17802,6 +17883,27 @@
           "timestamp": 1745328692670,
           "price": 19.99,
           "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1313164055": {
+    "name": "EE35 Film Camera",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745643740114,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]
@@ -26489,6 +26591,49 @@
           "price": 499.99,
           "formattedPrice": "₺499,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1553774029": {
+    "name": "Taskmaster The App",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Academy Module (Series 5)": "₺19,99",
+      "Academy Module (Series 2)": "₺19,99",
+      "Academy Module (Series 3)": "₺19,99",
+      "Bonus Task Pack 2": "₺99,99",
+      "Academy Module (Series 4)": "₺19,99",
+      "Jukebox Full Access": "₺99,99",
+      "Bonus Task Pack 1": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Academy Module (Series 5)": "₺19,99",
+      "Academy Module (Series 2)": "₺19,99",
+      "Academy Module (Series 3)": "₺19,99",
+      "Bonus Task Pack 2": "₺99,99",
+      "Academy Module (Series 4)": "₺19,99",
+      "Jukebox Full Access": "₺99,99",
+      "Bonus Task Pack 1": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745643740114,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Academy Module (Series 5)": "₺19,99",
+            "Academy Module (Series 2)": "₺19,99",
+            "Academy Module (Series 3)": "₺19,99",
+            "Bonus Task Pack 2": "₺99,99",
+            "Academy Module (Series 4)": "₺19,99",
+            "Jukebox Full Access": "₺99,99",
+            "Bonus Task Pack 1": "₺99,99"
+          }
         }
       ]
     ]
@@ -36945,6 +37090,27 @@
           "timestamp": 1745634497549,
           "price": 39.99,
           "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449433291": {
+    "name": "常春藤108課綱基礎單字",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745643740114,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
           "inAppPurchases": {}
         }
       ]
