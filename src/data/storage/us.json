@@ -5270,6 +5270,27 @@
       ]
     ]
   },
+  "461659980": {
+    "name": "Phonics Genius",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745626119758,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "463295925": {
     "name": "Official DVSA Theory Test Kit",
     "maxPriceInfo": {
@@ -26807,7 +26828,17 @@
       "Region Tour": "$3.99",
       "The Black Caves Expansion": "$1.99",
       "Early Unlock Cheats (discount)": "$4.99",
-      "The Azure Dam Expansion": "$1.99"
+      "The Azure Dam Expansion": "$1.99",
+      "The Genie's Curse": "$0.99",
+      "The Plague": "$0.99",
+      "The Great Droughts": "$0.99",
+      "Before The Storm": "$0.99",
+      "Orbital Uplink": "$0.99",
+      "The Airlift": "$0.99",
+      "Devil's Peak": "$1.99",
+      "Defence Minister": "$0.99",
+      "Military Recruiter": "$0.99",
+      "Drone Programmer": "$0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -26819,9 +26850,38 @@
       "Region Tour": "$3.99",
       "The Black Caves Expansion": "$1.99",
       "Early Unlock Cheats (discount)": "$4.99",
-      "The Azure Dam Expansion": "$1.99"
+      "The Azure Dam Expansion": "$1.99",
+      "The Genie's Curse": "$0.99",
+      "The Plague": "$0.99",
+      "The Great Droughts": "$0.99",
+      "Before The Storm": "$0.99",
+      "Orbital Uplink": "$0.99",
+      "The Airlift": "$0.99",
+      "Devil's Peak": "$1.99",
+      "Defence Minister": "$0.99",
+      "Military Recruiter": "$0.99",
+      "Drone Programmer": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745626119758,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "The Genie's Curse": "$0.99",
+            "The Plague": "$0.99",
+            "The Great Droughts": "$0.99",
+            "Before The Storm": "$0.99",
+            "Orbital Uplink": "$0.99",
+            "The Airlift": "$0.99",
+            "Devil's Peak": "$1.99",
+            "Defence Minister": "$0.99",
+            "Military Recruiter": "$0.99",
+            "Drone Programmer": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -48635,6 +48695,27 @@
           "timestamp": 1745604174662,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6458144503": {
+    "name": "Skul: The Hero Slayer",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745626119758,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
           "inAppPurchases": {}
         }
       ]

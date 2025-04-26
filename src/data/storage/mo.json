@@ -4866,6 +4866,27 @@
       ]
     ]
   },
+  "461659980": {
+    "name": "Phonics Genius",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745626119758,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "463295925": {
     "name": "Official DVSA Theory Test Kit",
     "maxPriceInfo": {
@@ -26439,6 +26460,22 @@
     "history": [
       [
         {
+          "timestamp": 1745626119758,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Explorer Pack": "USD 10.99",
+            "The Complete Collection": "USD 34.99",
+            "City Break": "USD 1.99",
+            "Victorian London Board": "USD 5.99",
+            "Welcome Offer": "USD 19.99",
+            "New York 2121 Board": "USD 5.99",
+            "Theme Collection": "USD 19.99",
+            "Orient Express": "USD 2.99",
+            "Cherry Blossom Tokyo Board": "USD 5.99"
+          }
+        },
+        {
           "timestamp": 1745622140109,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -40728,6 +40765,27 @@
           "timestamp": 1745604174662,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6458144503": {
+    "name": "Skul: The Hero Slayer",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745626119758,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
           "inAppPurchases": {}
         }
       ]

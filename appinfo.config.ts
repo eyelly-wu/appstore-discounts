@@ -63,6 +63,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 461659980,
+    name: {
+      hk: 'Phonics Genius',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6458144503,
+    name: {
+      hk: 'Skul: The Hero Slayer',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1552176109,
     name: {
       hk: 'Trials of Mana',
