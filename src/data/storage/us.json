@@ -15019,7 +15019,12 @@
       "Large Coin Pack": "$2.99",
       "Emo": "$0.99",
       "Mia": "$0.99",
-      "Small Coin Pack": "$0.99"
+      "Small Coin Pack": "$0.99",
+      "Shaw": "$0.99",
+      "Kid": "$0.99",
+      "Rob-o": "$0.99",
+      "Joshua": "$0.99",
+      "Lucy": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -15034,10 +15039,32 @@
       "Large Coin Pack": "$2.99",
       "Emo": "$0.99",
       "Mia": "$0.99",
-      "Small Coin Pack": "$0.99"
+      "Small Coin Pack": "$0.99",
+      "Shaw": "$0.99",
+      "Kid": "$0.99",
+      "Rob-o": "$0.99",
+      "Joshua": "$0.99",
+      "Lucy": "$0.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745737327137,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Unlock all stages": "$0.99",
+            "Chloe": "$0.99",
+            "Shaw": "$0.99",
+            "Kid": "$0.99",
+            "Rob-o": "$0.99",
+            "Emo": "$0.99",
+            "Joshua": "$0.99",
+            "Lucy": "$0.99",
+            "Atom": "$0.99",
+            "Mia": "$0.99"
+          }
+        },
         {
           "timestamp": 1745726553834,
           "price": 0.99,
@@ -20139,6 +20166,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745737327137,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Hero Tank": "$5.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Tower Goblin War Zeppelin": "$6.99",
+            "Pirate Kings Campaign!": "$7.99"
+          }
+        },
         {
           "timestamp": 1745726553834,
           "price": 4.99,
