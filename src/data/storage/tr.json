@@ -9905,6 +9905,27 @@
       ]
     ]
   },
+  "729067952": {
+    "name": "Purgatory",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745773328187,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "730712409": {
     "name": "ProCam - Pro Camera",
     "maxPriceInfo": {
@@ -12771,6 +12792,27 @@
           "timestamp": 1745328692670,
           "price": 39.99,
           "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "950012304": {
+    "name": "Cellular Info",
+    "maxPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745773328187,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
           "inAppPurchases": {}
         }
       ]

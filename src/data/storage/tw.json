@@ -8324,6 +8324,23 @@
     "history": [
       [
         {
+          "timestamp": 1745773328187,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "$30.00",
+            "Skatepark: The Berrics": "$60.00",
+            "Skatepark: The Factory": "$30.00",
+            "Skatepark: The Valley": "$30.00",
+            "Skatepark of Tampa": "$30.00",
+            "Skatepark 6 Pack": "$150.00",
+            "Skatepark: Havasu": "$60.00",
+            "Skatepark: Schoolyard": "$30.00",
+            "Skatepark: Macba": "$60.00",
+            "The Alley": "$30.00"
+          }
+        },
+        {
           "timestamp": 1745769736857,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -12308,6 +12325,27 @@
       ]
     ]
   },
+  "729067952": {
+    "name": "Purgatory",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745773328187,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "730712409": {
     "name": "ProCam - 專業相機",
     "maxPriceInfo": {
@@ -15241,6 +15279,27 @@
           "timestamp": 1745328692670,
           "price": 20,
           "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "950012304": {
+    "name": "Cellular Info",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745773328187,
+          "price": 120,
+          "formattedPrice": "$120.00",
           "inAppPurchases": {}
         }
       ]
@@ -51283,6 +51342,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745773328187,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "一大堆鑽石": "$60.00",
+            "一大袋鑽石": "$320.00",
+            "一大箱鑽石": "$990.00",
+            "一箱鑽石": "$490.00",
+            "一袋鑽石": "$150.00",
+            "一堆鑽石": "$30.00"
+          }
+        },
         {
           "timestamp": 1745769736857,
           "price": 10,

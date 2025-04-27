@@ -12728,6 +12728,27 @@
       ]
     ]
   },
+  "729067952": {
+    "name": "Purgatory",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745773328187,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "730712409": {
     "name": "ProCam - 專業相機",
     "maxPriceInfo": {
@@ -15660,6 +15681,27 @@
           "timestamp": 1745328692670,
           "price": 3,
           "formattedPrice": "HK$ 3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "950012304": {
+    "name": "Cellular Info",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745773328187,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
           "inAppPurchases": {}
         }
       ]
@@ -36319,7 +36361,16 @@
       "Lumber-sports Vehicle": "HK$ 8.00",
       "Frozen Lands": "HK$ 38.00",
       "Haunted Hills World": "HK$ 38.00",
-      "Frozen Lands Bundle": "HK$ 58.00"
+      "Frozen Lands Bundle": "HK$ 58.00",
+      "Mothgirl Outfit": "HK$ 8.00",
+      "Tunneler Ship": "HK$ 8.00",
+      "Foxman Bike": "HK$ 8.00",
+      "Action Car Avatar": "HK$ 8.00",
+      "Super Pet Avatar": "HK$ 8.00",
+      "Magical Girl Outfit": "HK$ 8.00",
+      "Skyscraper Avatar": "HK$ 8.00",
+      "Foxman Outfit": "HK$ 8.00",
+      "Super Hero World Bundle": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 28,
@@ -36333,9 +36384,37 @@
       "Lumber-sports Vehicle": "HK$ 8.00",
       "Frozen Lands": "HK$ 38.00",
       "Haunted Hills World": "HK$ 38.00",
-      "Frozen Lands Bundle": "HK$ 58.00"
+      "Frozen Lands Bundle": "HK$ 58.00",
+      "Mothgirl Outfit": "HK$ 8.00",
+      "Tunneler Ship": "HK$ 8.00",
+      "Foxman Bike": "HK$ 8.00",
+      "Action Car Avatar": "HK$ 8.00",
+      "Super Pet Avatar": "HK$ 8.00",
+      "Magical Girl Outfit": "HK$ 8.00",
+      "Skyscraper Avatar": "HK$ 8.00",
+      "Foxman Outfit": "HK$ 8.00",
+      "Super Hero World Bundle": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745773328187,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "The Ultimate Life Collection": "HK$ 148.00",
+            "Mothgirl Outfit": "HK$ 8.00",
+            "Tunneler Ship": "HK$ 8.00",
+            "Foxman Bike": "HK$ 8.00",
+            "Action Car Avatar": "HK$ 8.00",
+            "Super Pet Avatar": "HK$ 8.00",
+            "Magical Girl Outfit": "HK$ 8.00",
+            "Skyscraper Avatar": "HK$ 8.00",
+            "Foxman Outfit": "HK$ 8.00",
+            "Super Hero World Bundle": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745557346725,
@@ -50486,6 +50565,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745773328187,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "一大堆鑽石": "HK$ 18.00",
+            "一大袋鑽石": "HK$ 88.00",
+            "一大箱鑽石": "HK$ 228.00",
+            "一箱鑽石": "HK$ 118.00",
+            "一堆鑽石": "HK$ 8.00",
+            "一袋鑽石": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1745769736857,
           "price": 2,
