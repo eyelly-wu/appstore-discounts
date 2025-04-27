@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 728401013,
+    name: {
+      mo: 'NoteWorks for iPhone',
+    },
+    addType: 'auto',
+  },
+  {
     id: 729067952,
     name: {
       mo: 'Purgatory',
