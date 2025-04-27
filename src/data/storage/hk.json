@@ -5744,7 +5744,9 @@
       "Chapter S": "HK$ 38.00",
       "Chapter T": "HK$ 38.00",
       "Chapter 8": "HK$ 38.00",
-      "Chapter 6": "HK$ 38.00"
+      "Chapter 6": "HK$ 38.00",
+      "Chapter 10": "HK$ 38.00",
+      "Chapter 9": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -5758,9 +5760,30 @@
       "Chapter S": "HK$ 38.00",
       "Chapter T": "HK$ 38.00",
       "Chapter 8": "HK$ 38.00",
-      "Chapter 6": "HK$ 38.00"
+      "Chapter 6": "HK$ 38.00",
+      "Chapter 10": "HK$ 38.00",
+      "Chapter 9": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745794940542,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Chapter N": "HK$ 32.00",
+            "Chapter D": "HK$ 38.00",
+            "Chapter L": "HK$ 88.00",
+            "Chapter T": "HK$ 38.00",
+            "Chapter R": "HK$ 38.00",
+            "Chapter 0": "HK$ 38.00",
+            "Chapter K": "HK$ 38.00",
+            "Chapter 10": "HK$ 38.00",
+            "Chapter 9": "HK$ 38.00",
+            "Chapter S": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -29405,7 +29428,7 @@
       "formattedPrice": "HK$ 32.00",
       "UPGRADE PRO VERSION": "HK$ 488.00",
       "KODAK SERIES FILM": "HK$ 48.00",
-      "UPGRADE PRO": "HK$ 288.00",
+      "UPGRADE PRO": "HK$ 53.00",
       "FUJI SERIES FILM": "HK$ 38.00",
       "RETRO SERIES FILM": "HK$ 38.00",
       "LOMO SERIES": "HK$ 38.00",
@@ -29413,6 +29436,23 @@
       "WEDDING SERIES FILM": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745794940542,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "UPGRADE PRO": "HK$ 53.00",
+            "FUJI SERIES FILM": "HK$ 38.00",
+            "KODAK SERIES FILM": "HK$ 48.00",
+            "WEDDING SERIES FILM": "HK$ 38.00",
+            "RETRO SERIES FILM": "HK$ 38.00",
+            "IU SERIES FILM": "HK$ 38.00",
+            "LOMO SERIES": "HK$ 38.00",
+            "UPGRADE PRO VERSION": "HK$ 488.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -49641,6 +49681,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745794940542,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "HK$ 22.00",
+            "Amazone CITAN 15001-C": "HK$ 8.00",
+            "KINZE 3665 Blue Drive": "HK$ 8.00",
+            "ClaasLexion8900+ConvioFlex1380": "HK$ 22.00",
+            "200'000 Coins": "HK$ 8.00",
+            "Claas Xerion 5000": "HK$ 18.00",
+            "Case IH Speed-Tiller": "HK$ 8.00",
+            "Mack Trucks Black Anthem 6x4": "HK$ 18.00",
+            "Versatile 4WD 620": "HK$ 18.00",
+            "Krone BiG Pack 1290 HDP VC": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1745791326967,
           "price": 58,

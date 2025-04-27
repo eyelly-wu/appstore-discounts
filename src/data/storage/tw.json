@@ -22218,6 +22218,25 @@
     "history": [
       [
         {
+          "timestamp": 1745794940542,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Design Frame Package": "$30.00",
+            "Social Frame Package": "$30.00",
+            "Magazine Frame Package": "$30.00",
+            "Black Frame Pack": "$30.00",
+            "Geometric Frame Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Retro Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Upgrade Deluxe Edition": "$190.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1738249337483,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -51000,7 +51019,11 @@
       "CRJ900": "$30.00",
       "Global scenery - 3 months": "$220.00",
       "Airbus A380": "$60.00",
-      "Boeing 737 MAX 9": "$60.00"
+      "Boeing 737 MAX 9": "$60.00",
+      "Robin DR400": "$30.00",
+      "Airbus A319": "$60.00",
+      "Antares 21E": "$30.00",
+      "ASK 21": "$30.00"
     },
     "minPriceInfo": {
       "price": 120,
@@ -51019,9 +51042,32 @@
       "CRJ900": "$30.00",
       "Global scenery - 3 months": "$220.00",
       "Airbus A380": "$60.00",
-      "Boeing 737 MAX 9": "$60.00"
+      "Boeing 737 MAX 9": "$60.00",
+      "Robin DR400": "$30.00",
+      "Airbus A319": "$60.00",
+      "Antares 21E": "$30.00",
+      "ASK 21": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745794940542,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Airbus A350-1000": "$120.00",
+            "Robin DR400": "$30.00",
+            "Boeing 777F": "$60.00",
+            "Airbus A319": "$60.00",
+            "Antares 21E": "$30.00",
+            "ASK 21": "$30.00",
+            "Airbus A321": "$60.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Global scenery - 1 month": "$120.00",
+            "Global scenery - 3 months": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745759192952,
