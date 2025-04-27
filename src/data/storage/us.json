@@ -8377,7 +8377,17 @@
       "Skatepark: Double Infinity": "$0.99",
       "Unlock Missions": "$0.99",
       "SLS 2013: Kansas City": "$0.99",
-      "Wheel Color Pack": "$0.99"
+      "Wheel Color Pack": "$0.99",
+      "SLS 2023: Chicago": "$0.99",
+      "SLS 2022: Jacksonville": "$0.99",
+      "SLS 2021: World Championship": "$0.99",
+      "SLS 2019: Sao Paulo": "$0.99",
+      "SLS 2019: London": "$0.99",
+      "Sandbox 1 Year": "$24.99",
+      "Sandbox 3 Months": "$9.99",
+      "Sandbox Monthly": "$4.99",
+      "SLS 2018: World Championship": "$0.99",
+      "Mountain of Bolts": "$99.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -8394,9 +8404,38 @@
       "Skatepark: Double Infinity": "$0.99",
       "Unlock Missions": "$0.99",
       "SLS 2013: Kansas City": "$0.99",
-      "Wheel Color Pack": "$0.99"
+      "Wheel Color Pack": "$0.99",
+      "SLS 2023: Chicago": "$0.99",
+      "SLS 2022: Jacksonville": "$0.99",
+      "SLS 2021: World Championship": "$0.99",
+      "SLS 2019: Sao Paulo": "$0.99",
+      "SLS 2019: London": "$0.99",
+      "Sandbox 1 Year": "$24.99",
+      "Sandbox 3 Months": "$9.99",
+      "Sandbox Monthly": "$4.99",
+      "SLS 2018: World Championship": "$0.99",
+      "Mountain of Bolts": "$99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745762514833,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "$0.99",
+            "SLS 2022: Jacksonville": "$0.99",
+            "SLS 2021: World Championship": "$0.99",
+            "SLS 2019: Sao Paulo": "$0.99",
+            "SLS 2019: London": "$0.99",
+            "Sandbox 1 Year": "$24.99",
+            "Sandbox 3 Months": "$9.99",
+            "Sandbox Monthly": "$4.99",
+            "SLS 2018: World Championship": "$0.99",
+            "Mountain of Bolts": "$99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745683328870,
@@ -19710,10 +19749,23 @@
       "formattedPrice": "Free",
       "PRO yearly subscription": "$29.99",
       "Yearly Subscription": "$19.99",
-      "Lifetime license": "$99.99",
+      "Lifetime license": "$49.99",
       "Monthly Subscription": "$5.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745762514833,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$29.99",
+            "Yearly Subscription": "$19.99",
+            "Lifetime license": "$49.99",
+            "Monthly Subscription": "$5.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725237485711,

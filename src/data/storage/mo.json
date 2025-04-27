@@ -13214,14 +13214,22 @@
   "946477821": {
     "name": "Evoland",
     "maxPriceInfo": {
-      "price": 0.59,
-      "formattedPrice": "USD 0.59"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0.59,
       "formattedPrice": "USD 0.59"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745762514833,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -17561,6 +17569,25 @@
     "history": [
       [
         {
+          "timestamp": 1745762514833,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "功能禮包": "USD 3.99",
+            "綜合禮包": "USD 15.99",
+            "寶石180個": "USD 2.99",
+            "喚生石2400個": "USD 8.99",
+            "魔法禮包": "USD 8.99",
+            "魅魔禮包": "USD 41.99",
+            "寶石300個": "USD 3.99",
+            "戒指禮包": "USD 24.99",
+            "自動禮包": "USD 15.99",
+            "地獄石240個": "USD 24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745503347397,
           "price": 0,
           "formattedPrice": "免費",
@@ -19000,14 +19027,22 @@
   "1291427111": {
     "name": "Evoland 2",
     "maxPriceInfo": {
-      "price": 1.49,
-      "formattedPrice": "USD 1.49"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 1.49,
       "formattedPrice": "USD 1.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745762514833,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745406133842,
@@ -39766,14 +39801,22 @@
   "6450724928": {
     "name": "租戶賭財運",
     "maxPriceInfo": {
-      "price": 3.49,
-      "formattedPrice": "USD 3.49"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 3.49,
       "formattedPrice": "USD 3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745762514833,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -40029,8 +40072,8 @@
       "Tuxedo Theme": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29",
+      "price": 0,
+      "formattedPrice": "免費",
       "2025 Spring Forest Theme": "USD 0.99",
       "2025 Spring Lawn Theme": "USD 1.49",
       "2025 Spring Flower Theme": "USD 0.99",
@@ -40043,6 +40086,25 @@
       "Tuxedo Theme": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745762514833,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "2025 Spring Forest Theme": "USD 0.99",
+            "2025 Spring Lawn Theme": "USD 1.49",
+            "2025 Spring Flower Theme": "USD 0.99",
+            "Lawn Theme": "USD 0.99",
+            "小灰": "USD 0.99",
+            "軟軟": "USD 0.99",
+            "招財": "USD 0.99",
+            "點點": "USD 0.99",
+            "Civet Theme": "USD 0.99",
+            "Tuxedo Theme": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -40567,6 +40629,14 @@
     "history": [
       [
         {
+          "timestamp": 1745762514833,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745589738232,
           "price": 0,
           "formattedPrice": "免費",
@@ -41007,7 +41077,11 @@
       "Airbus A321": "USD 1.99",
       "Boeing 787-10": "USD 1.99",
       "Robin DR400": "USD 0.99",
-      "Boeing 777F": "USD 1.99"
+      "Boeing 777F": "USD 1.99",
+      "Airbus A319": "USD 1.99",
+      "Antares 21E": "USD 0.99",
+      "ASK 21": "USD 0.99",
+      "Global scenery - 3 months": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -41021,9 +41095,32 @@
       "Airbus A321": "USD 1.99",
       "Boeing 787-10": "USD 1.99",
       "Robin DR400": "USD 0.99",
-      "Boeing 777F": "USD 1.99"
+      "Boeing 777F": "USD 1.99",
+      "Airbus A319": "USD 1.99",
+      "Antares 21E": "USD 0.99",
+      "ASK 21": "USD 0.99",
+      "Global scenery - 3 months": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745762514833,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Airbus A350-1000": "USD 3.99",
+            "Robin DR400": "USD 0.99",
+            "Boeing 777F": "USD 1.99",
+            "Airbus A319": "USD 1.99",
+            "Antares 21E": "USD 0.99",
+            "ASK 21": "USD 0.99",
+            "Airbus A321": "USD 1.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Global scenery - 1 month": "USD 3.99",
+            "Global scenery - 3 months": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
@@ -41159,8 +41256,8 @@
       "小灰": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29",
+      "price": 0,
+      "formattedPrice": "免費",
       "每年": "USD 11.99",
       "每月": "USD 1.99",
       "月夜": "USD 1.99",
@@ -41173,6 +41270,25 @@
       "小灰": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745762514833,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "每年": "USD 11.99",
+            "每月": "USD 1.99",
+            "月夜": "USD 1.99",
+            "天空": "USD 1.99",
+            "森林": "USD 1.99",
+            "點點": "USD 0.99",
+            "可可": "USD 0.99",
+            "招財": "USD 0.99",
+            "辛巴": "USD 0.99",
+            "小灰": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745398953972,
