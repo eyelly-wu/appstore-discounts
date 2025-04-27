@@ -15860,8 +15860,8 @@
   "982175678": {
     "name": "This War of Mine",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 13.99,
+      "formattedPrice": "$13.99",
       "The Little Ones": "$1.99"
     },
     "minPriceInfo": {
@@ -15870,6 +15870,16 @@
       "The Little Ones": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745723856718,
+          "price": 13.99,
+          "formattedPrice": "$13.99",
+          "inAppPurchases": {
+            "The Little Ones": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -37464,14 +37474,22 @@
   "1580067723": {
     "name": "Wall of insanity",
     "maxPriceInfo": {
-      "price": 0.49,
-      "formattedPrice": "$0.49"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
       "price": 0.49,
       "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745723856718,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745614934030,
