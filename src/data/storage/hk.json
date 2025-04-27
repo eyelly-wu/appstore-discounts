@@ -915,6 +915,23 @@
     "history": [
       [
         {
+          "timestamp": 1745733774086,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "HK$ 8.00",
+            "Shibuya HipstaPak": "HK$ 8.00",
+            "Portland HipstaPak": "HK$ 8.00",
+            "Camden HipstaPak": "HK$ 8.00",
+            "Mission Hipstapak": "HK$ 8.00",
+            "Soho HipstaPak": "HK$ 8.00",
+            "Bondi HipstaPak": "HK$ 8.00",
+            "Foodie SnapPak": "HK$ 8.00",
+            "Dali GoodPak": "HK$ 8.00",
+            "RetroPak One": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1745730140413,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -8499,6 +8516,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745733774086,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "25,000 Coins": "HK$ 38.00",
+            "5,000 Coins": "HK$ 8.00",
+            "15,000 Coins": "HK$ 22.00",
+            "10,000 Coins": "HK$ 18.00",
+            "85,000 Coins": "HK$ 118.00",
+            "55,000 Coins": "HK$ 88.00",
+            "120.000 coins": "HK$ 388.00",
+            "45.000 coins": "HK$ 148.00",
+            "22.000 coins": "HK$ 88.00",
+            "10.000 coins": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1745730140413,
           "price": 8,
@@ -16768,10 +16802,27 @@
       "[大袋水晶]": "HK$ 88.00",
       "[大箱水晶]": "HK$ 388.00",
       "[小箱水晶]": "HK$ 148.00",
-      "貪婪洞窟點券": "HK$ 32.00",
+      "貪婪洞窟點券": "HK$ 22.00",
       "Package4": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745733774086,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "[小堆水晶]": "HK$ 8.00",
+            "[小盒水晶]": "HK$ 22.00",
+            "[小袋水晶]": "HK$ 32.00",
+            "[大袋水晶]": "HK$ 88.00",
+            "[大箱水晶]": "HK$ 388.00",
+            "[小箱水晶]": "HK$ 148.00",
+            "貪婪洞窟點券": "HK$ 22.00",
+            "Package4": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

@@ -1019,7 +1019,9 @@
       "Pilsen HipstaPak": "₺39,99",
       "Tiong Bahru HipstaPak": "₺39,99",
       "Impressionist SnapPak": "₺39,99",
-      "Fitzroy HipstaPak": "₺39,99"
+      "Fitzroy HipstaPak": "₺39,99",
+      "Dali GoodPak": "₺39,99",
+      "Levi's Photo Workshop Holiday GoodPak": "₺39,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -1043,9 +1045,30 @@
       "Pilsen HipstaPak": "₺39,99",
       "Tiong Bahru HipstaPak": "₺39,99",
       "Impressionist SnapPak": "₺39,99",
-      "Fitzroy HipstaPak": "₺39,99"
+      "Fitzroy HipstaPak": "₺39,99",
+      "Dali GoodPak": "₺39,99",
+      "Levi's Photo Workshop Holiday GoodPak": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745733774086,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "₺39,99",
+            "Portland HipstaPak": "₺39,99",
+            "Shibuya HipstaPak": "₺39,99",
+            "Camden HipstaPak": "₺39,99",
+            "Mission Hipstapak": "₺39,99",
+            "Dali GoodPak": "₺39,99",
+            "Levi's Photo Workshop Holiday GoodPak": "₺39,99",
+            "Soho HipstaPak": "₺39,99",
+            "Bondi HipstaPak": "₺39,99",
+            "RetroPak One": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745445733132,
@@ -1417,6 +1440,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745733774086,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "forScore Pro": "₺699,99",
+            "forScore Pro 30-Day Pass": "₺129,99",
+            "Liszt: The Mutopia Collection": "₺0,00",
+            "Brahms: The Mutopia Collection": "₺0,00",
+            "Satie: The Mutopia Collection": "₺0,00",
+            "Tchaikovsky: The Mutopia Collection": "₺0,00",
+            "Haydn: The Mutopia Collection": "₺0,00",
+            "Beethoven: The Mutopia Collection": "₺39,99",
+            "Verdi: The Mutopia Collection": "₺0,00",
+            "Händel: The Mutopia Collection": "₺0,00"
+          }
+        },
         {
           "timestamp": 1745726553834,
           "price": 999.99,
@@ -7050,6 +7090,23 @@
     "history": [
       [
         {
+          "timestamp": 1745733774086,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Bundle O' Monkey Money": "₺129,99",
+            "Tower Unlock All Upgrades": "₺39,99",
+            "500 Monkey Money": "₺39,99",
+            "Vault O' Tokens": "₺449,99",
+            "Vault O' Monkey Money": "₺899,99",
+            "Rank Up": "₺39,99",
+            "Bigger Beacons": "₺39,99",
+            "Pile O' Monkey Money": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745658131479,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -12413,6 +12470,25 @@
       "ThemeA2B1C0": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745733774086,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "₺0,00",
+            "ThemeA0B1C0": "₺0,00",
+            "ThemeA1B0C0": "₺0,00",
+            "ThemeA0B1C1": "₺0,00",
+            "ThemeA1B0C1": "₺0,00",
+            "ThemeA1B1C0": "₺0,00",
+            "ThemeA2B0C0": "₺0,00",
+            "主题大礼包": "₺179,99",
+            "ThemeA2B0C1": "₺179,99",
+            "ThemeA2B1C0": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745514137067,

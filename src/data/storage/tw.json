@@ -920,6 +920,23 @@
     "history": [
       [
         {
+          "timestamp": 1745733774086,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$30.00",
+            "Shibuya HipstaPak": "$30.00",
+            "Portland HipstaPak": "$30.00",
+            "Mission Hipstapak": "$30.00",
+            "Camden HipstaPak": "$30.00",
+            "Soho HipstaPak": "$30.00",
+            "Foodie SnapPak": "$30.00",
+            "Bondi HipstaPak": "$30.00",
+            "RetroPak One": "$60.00",
+            "Multi-Exposure Kit": "$30.00"
+          }
+        },
+        {
           "timestamp": 1745730140413,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -8473,6 +8490,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745733774086,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "25,000 Coins": "$150.00",
+            "5,000 Coins": "$30.00",
+            "15,000 Coins": "$90.00",
+            "10,000 Coins": "$60.00",
+            "85,000 Coins": "$490.00",
+            "55,000 Coins": "$320.00",
+            "120.000 coins": "$1,490.00",
+            "45.000 coins": "$690.00",
+            "22.000 coins": "$320.00",
+            "10.000 coins": "$150.00"
+          }
+        },
         {
           "timestamp": 1745730140413,
           "price": 30,
@@ -16395,10 +16429,27 @@
       "[小袋水晶]": "$120.00",
       "[大箱水晶]": "$1,490.00",
       "[小箱水晶]": "$690.00",
-      "貪婪洞窟點券": "$120.00",
+      "貪婪洞窟點券": "$90.00",
       "Package4": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745733774086,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "[小堆水晶]": "$30.00",
+            "[小盒水晶]": "$90.00",
+            "[大袋水晶]": "$320.00",
+            "[小袋水晶]": "$120.00",
+            "[大箱水晶]": "$1,490.00",
+            "[小箱水晶]": "$690.00",
+            "貪婪洞窟點券": "$90.00",
+            "Package4": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
