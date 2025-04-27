@@ -8419,6 +8419,23 @@
     "history": [
       [
         {
+          "timestamp": 1745766132501,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "$0.99",
+            "Skatepark: The Factory": "$0.99",
+            "Skatepark: The Valley": "$0.99",
+            "Skatepark: Schoolyard": "$0.99",
+            "Unlimited Custom Images": "$4.99",
+            "Skatepark 6 Pack": "$4.99",
+            "Skatepark: The Warehouse": "$0.99",
+            "Skatepark: Inbound": "$0.99",
+            "Slow Motion Mode": "$0.99",
+            "Skatepark: Double Infinity": "$0.99"
+          }
+        },
+        {
           "timestamp": 1745762514833,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -19754,6 +19771,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745766132501,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$29.99",
+            "Yearly Subscription": "$19.99",
+            "Lifetime license": "$99.99",
+            "Monthly Subscription": "$5.49"
+          }
+        },
         {
           "timestamp": 1745762514833,
           "price": 0,
