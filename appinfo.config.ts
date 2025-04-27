@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1448241295,
+    name: {
+      mo: '小管家 - 短信拦截手机助手',
+    },
+    addType: 'auto',
+  },
+  {
     id: 378503081,
     name: {
       tr: 'Groundwire: VoIP SIP Softphone',

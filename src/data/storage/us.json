@@ -28121,6 +28121,18 @@
     "history": [
       [
         {
+          "timestamp": 1745751731989,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "$9.99",
+            "Root: The Underworld Expansion": "$9.99",
+            "Exiles & Partisans & Vagabonds": "$7.99",
+            "The Clockwork Expansion": "$5.99",
+            "Root: The Marauder Expansion": "$9.99"
+          }
+        },
+        {
           "timestamp": 1745748131285,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -31117,6 +31129,27 @@
           "timestamp": 1745398953972,
           "price": 5.99,
           "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1448241295": {
+    "name": "Armor - SMS Spam Filter",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745751731989,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]
@@ -37574,6 +37607,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745751731989,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Starter pack": "$4.99",
+            "Gems pack 3": "$2.99",
+            "Gems pack 2": "$1.99",
+            "Gems pack 1": "$0.99",
+            "Stars pack 3": "$2.99",
+            "Stars Pack 1": "$0.99",
+            "Stars Pack 2": "$1.99"
+          }
+        },
         {
           "timestamp": 1745748131285,
           "price": 0.99,

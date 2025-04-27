@@ -22618,6 +22618,18 @@
     "history": [
       [
         {
+          "timestamp": 1745751731989,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "USD 9.99",
+            "Root: The Underworld Expansion": "USD 9.99",
+            "Exiles & Partisans & Vagabonds": "USD 7.99",
+            "The Clockwork Expansion": "USD 5.99",
+            "Root: The Marauder Expansion": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1745748131285,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -25798,6 +25810,27 @@
           "timestamp": 1745398953972,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1448241295": {
+    "name": "小管家 - 短信拦截手机助手",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745751731989,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]
