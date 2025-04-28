@@ -15472,14 +15472,22 @@
   "946477821": {
     "name": "Evoland",
     "maxPriceInfo": {
-      "price": 0.59,
-      "formattedPrice": "$0.59"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
       "price": 0.59,
       "formattedPrice": "$0.59"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745810336961,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -19761,6 +19769,25 @@
     "history": [
       [
         {
+          "timestamp": 1745810336961,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "180 Rubies": "$2.99",
+            "Ring Package": "$24.99",
+            "1100 Rebirth Stones": "$3.99",
+            "660 Rebirth stones": "$2.99",
+            "2400 Rebirth Stones": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745672784535,
           "price": 0,
           "formattedPrice": "Free",
@@ -21273,14 +21300,22 @@
   "1291427111": {
     "name": "Evoland 2",
     "maxPriceInfo": {
-      "price": 1.49,
-      "formattedPrice": "$1.49"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 1.49,
       "formattedPrice": "$1.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745810336961,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745406133842,
@@ -48401,14 +48436,22 @@
   "6450724928": {
     "name": "Luck be a Landlord",
     "maxPriceInfo": {
-      "price": 3.49,
-      "formattedPrice": "$3.49"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 3.49,
       "formattedPrice": "$3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745810336961,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -49297,6 +49340,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745810336961,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745637249260,
