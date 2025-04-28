@@ -2502,6 +2502,19 @@
     "history": [
       [
         {
+          "timestamp": 1745877742391,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Premium": "$360.00",
+            "Super Powers": "$90.00",
+            "Pack of 100 Credits": "$90.00",
+            "100 Badoo Credits": "$149.00",
+            "Pack of 450 Credits": "$499.00",
+            "Pack of 550 Credits": "$390.00"
+          }
+        },
+        {
           "timestamp": 1745874133431,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -3514,7 +3527,8 @@
       "Sliced Beats": "$30.00",
       "Chill-Lo-Fi Mobile": "$60.00",
       "Groove Machine Synth": "$0.00",
-      "Synth Plucks": "$60.00"
+      "Synth Plucks": "$60.00",
+      "Chip-Tune Mobile": "$90.00"
     },
     "minPriceInfo": {
       "price": 490,
@@ -3528,9 +3542,29 @@
       "Sliced Beats": "$30.00",
       "Chill-Lo-Fi Mobile": "$60.00",
       "Groove Machine Synth": "$0.00",
-      "Synth Plucks": "$60.00"
+      "Synth Plucks": "$60.00",
+      "Chip-Tune Mobile": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745877742391,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {
+            "Chip-Tune Mobile": "$90.00",
+            "Varazdin Orchestral Mobile": "$120.00",
+            "Tuned 808 Bass": "$30.00",
+            "Amped Guitar & Bass": "$90.00",
+            "Acoustic Guitars": "$30.00",
+            "Voices": "$30.00",
+            "Synth Lead": "$60.00",
+            "Sliced Beats": "$30.00",
+            "Chill-Lo-Fi Mobile": "$60.00",
+            "Groove Machine Synth": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -8740,7 +8774,8 @@
       "Vault O' Tokens": "$320.00",
       "Double Cash Mode": "$320.00",
       "Bigger Beacons": "$30.00",
-      "Pile O' Tokens": "$150.00"
+      "Pile O' Tokens": "$150.00",
+      "Mountain O' Monkey Money": "$1,490.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -8753,9 +8788,28 @@
       "Vault O' Tokens": "$320.00",
       "Double Cash Mode": "$320.00",
       "Bigger Beacons": "$30.00",
-      "Pile O' Tokens": "$150.00"
+      "Pile O' Tokens": "$150.00",
+      "Mountain O' Monkey Money": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745877742391,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Tower Unlock All Upgrades": "$30.00",
+            "Bundle O' Monkey Money": "$90.00",
+            "Vault O' Tokens": "$320.00",
+            "Pile O' Monkey Money": "$90.00",
+            "Mountain O' Monkey Money": "$1,490.00",
+            "500 Monkey Money": "$30.00",
+            "Double Cash Mode": "$320.00",
+            "Vault O' Monkey Money": "$690.00",
+            "Bigger Beacons": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745665323137,
