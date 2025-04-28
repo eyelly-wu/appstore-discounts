@@ -19263,8 +19263,8 @@
       "Game Disc vol.1": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Miku": "USD 9.99",
       "ConneR": "USD 9.99",
       "Xenon": "USD 9.99",
@@ -19272,12 +19272,29 @@
       "CAPSO": "USD 9.99",
       "Cherry": "USD 9.99",
       "Nora": "USD 9.99",
-      "Emotion Samples 01": "USD 4.99",
+      "Emotion Samples 01": "USD 1.99",
       "JOE": "USD 9.99",
       "Game Disc vol.1": "USD 1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1745859736318,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Miku": "USD 9.99",
+            "ConneR": "USD 9.99",
+            "Xenon": "USD 9.99",
+            "9 Characters": "USD 34.99",
+            "CAPSO": "USD 9.99",
+            "Cherry": "USD 9.99",
+            "Nora": "USD 9.99",
+            "Emotion Samples 01": "USD 1.99",
+            "JOE": "USD 9.99",
+            "Game Disc vol.1": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1745856148969,
           "price": 1.99,
@@ -26422,11 +26439,23 @@
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "USD 4.99",
-      "Samurai Edition": "USD 3.99",
+      "Samurai Edition": "USD 2.99",
       "Mixer": "USD 4.99",
       "Koala AUv3 Plugin": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745859736318,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Samurai Edition": "USD 2.99",
+            "Mixer": "USD 4.99",
+            "Koala AUv3 Plugin": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
@@ -26705,6 +26734,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745859736318,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1742738516360,
@@ -29332,14 +29369,22 @@
   "1497120981": {
     "name": "LUCH — Filters & Bokeh Effect",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29"
+      "price": 0.59,
+      "formattedPrice": "USD 0.59"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745859736318,
+          "price": 0.59,
+          "formattedPrice": "USD 0.59",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

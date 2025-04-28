@@ -22029,8 +22029,8 @@
       "Neko": "$320.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Miku": "$320.00",
       "CAPSO": "$320.00",
       "ConneR": "$320.00",
@@ -22038,11 +22038,30 @@
       "9 Characters": "$1,190.00",
       "Cherry": "$320.00",
       "Kizuna AI": "$320.00",
-      "Battle CHAOS 2019": "$150.00",
+      "Battle CHAOS 2019": "$60.00",
       "Alice": "$320.00",
       "Neko": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745859736318,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Miku": "$320.00",
+            "CAPSO": "$320.00",
+            "ConneR": "$320.00",
+            "Xenon": "$320.00",
+            "9 Characters": "$1,190.00",
+            "Cherry": "$320.00",
+            "Kizuna AI": "$320.00",
+            "Battle CHAOS 2019": "$60.00",
+            "Alice": "$320.00",
+            "Neko": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -32575,6 +32594,14 @@
     "history": [
       [
         {
+          "timestamp": 1745859736318,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742738516360,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -35278,14 +35305,22 @@
   "1497120981": {
     "name": "LUCH — Filters & Bokeh Effect",
     "maxPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00"
+      "price": 20,
+      "formattedPrice": "$20.00"
     },
     "minPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745859736318,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
