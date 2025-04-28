@@ -7124,7 +7124,8 @@
       "2.000 coins": "₺39,99",
       "120.000 coins": "₺2.299,99",
       "45.000 coins": "₺899,99",
-      "22.000 coins": "₺449,99"
+      "22.000 coins": "₺449,99",
+      "10.000 coins": "₺229,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -7138,9 +7139,29 @@
       "2.000 coins": "₺39,99",
       "120.000 coins": "₺2.299,99",
       "45.000 coins": "₺899,99",
-      "22.000 coins": "₺449,99"
+      "22.000 coins": "₺449,99",
+      "10.000 coins": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745841806202,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "85,000 Coins": "₺699,99",
+            "55,000 Coins": "₺449,99",
+            "25,000 Coins": "₺229,99",
+            "15,000 Coins": "₺129,99",
+            "10,000 Coins": "₺99,99",
+            "5,000 Coins": "₺39,99",
+            "120.000 coins": "₺2.299,99",
+            "45.000 coins": "₺899,99",
+            "22.000 coins": "₺449,99",
+            "10.000 coins": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745406133842,
@@ -16049,6 +16070,23 @@
     "history": [
       [
         {
+          "timestamp": 1745841806202,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "She-Ra Prestige Pack Sale": "₺299,99",
+            "She-Ra Sword Booster Sale": "₺99,99",
+            "She-Ra Sword Power Booster": "₺179,99",
+            "She-Ra Prestige Pack": "₺599,99",
+            "Battle Cat Booster Pack": "₺179,99",
+            "Battle Cat Prestige Pack": "₺179,99",
+            "Rogue Legends": "₺449,99",
+            "Heroes and Skins Complete 2024": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745593334191,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -16946,6 +16984,25 @@
       "Touring HD Textures": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745841806202,
+          "price": 289,
+          "formattedPrice": "₺289,00",
+          "inAppPurchases": {
+            "HD Textures": "₺0,00",
+            "Party Mode HD Textures": "₺0,00",
+            "Street HD Textures": "₺0,00",
+            "Tuner HD Textures": "₺0,00",
+            "Open Wheel HD Textures": "₺0,00",
+            "Endurance HD Textures": "₺0,00",
+            "Touring HD Textures": "₺0,00",
+            "All DLC": "₺0,00",
+            "Black Edition Pack": "₺0,00",
+            "Best of British Pack": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745766132501,
