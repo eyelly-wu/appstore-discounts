@@ -2648,6 +2648,21 @@
     "history": [
       [
         {
+          "timestamp": 1745812990001,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Premium": "HK$ 133.00",
+            "Pack of 100 Credits": "HK$ 22.00",
+            "Super Powers": "HK$ 98.00",
+            "Pack of 550 Credits": "HK$ 118.00",
+            "Pack of 3050 Credits": "HK$ 250.00",
+            "Pack of 1250 Credits": "HK$ 228.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745678822112,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -8631,6 +8646,24 @@
     "history": [
       [
         {
+          "timestamp": 1745812990001,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "25,000 Coins": "HK$ 38.00",
+            "5,000 Coins": "HK$ 8.00",
+            "10,000 Coins": "HK$ 18.00",
+            "15,000 Coins": "HK$ 22.00",
+            "85,000 Coins": "HK$ 118.00",
+            "120.000 coins": "HK$ 388.00",
+            "45.000 coins": "HK$ 148.00",
+            "22.000 coins": "HK$ 88.00",
+            "10.000 coins": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745733774086,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -9397,6 +9430,25 @@
       "英雄包 4": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745812990001,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "骷心巫龍": "HK$ 58.00",
+            "黑龍灰霸齒": "HK$ 58.00",
+            "大型英雄包 2": "HK$ 98.00",
+            "倪浮世": "HK$ 8.00",
+            "剎陀羅": "HK$ 22.00",
+            "但丁": "HK$ 38.00",
+            "帝娥翠": "HK$ 8.00",
+            "庫紹": "HK$ 22.00",
+            "一箱寶石": "HK$ 88.00",
+            "黑棘船長": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745730140413,
@@ -21480,6 +21532,25 @@
     "history": [
       [
         {
+          "timestamp": 1745812990001,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Mega Tower Bundle": "HK$ 128.00",
+            "Mega Heroe Bundle": "HK$ 148.00",
+            "Hero Beresad": "HK$ 58.00",
+            "Hammerhold Campaign!": "HK$ 58.00",
+            "Pirate Kings Campaign!": "HK$ 58.00",
+            "Tower Blazing Gem": "HK$ 38.00",
+            "Hero Eiskalt": "HK$ 48.00",
+            "Tower Grim Cemetery": "HK$ 22.00",
+            "Tower Shaolin Temple": "HK$ 22.00",
+            "Tower Deep Devil's Reef": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745730140413,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -23724,6 +23795,25 @@
       "肥宅快樂包 Vol.20": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745812990001,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "Miku in Museland": "HK$ 68.00",
+            "肥宅快樂包 SP": "HK$ 28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745730140413,
@@ -33211,6 +33301,25 @@
     "history": [
       [
         {
+          "timestamp": 1745812990001,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "月俸": "HK$ 22.00",
+            "戰姬": "HK$ 788.00",
+            "300玉符": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745759192952,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -40095,7 +40204,8 @@
       "Modified Monsters Car Pack": "HK$ 22.00",
       "Off-Road Car Pack": "HK$ 22.00",
       "Reckless Car Pack": "HK$ 22.00",
-      "Steel & Wheels Pack": "HK$ 18.00"
+      "Steel & Wheels Pack": "HK$ 18.00",
+      "Goofy Roofs Pack": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 68,
@@ -40109,9 +40219,29 @@
       "Modified Monsters Car Pack": "HK$ 22.00",
       "Off-Road Car Pack": "HK$ 22.00",
       "Reckless Car Pack": "HK$ 22.00",
-      "Steel & Wheels Pack": "HK$ 18.00"
+      "Steel & Wheels Pack": "HK$ 18.00",
+      "Goofy Roofs Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745812990001,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "Racing Heroes Car Pack": "HK$ 22.00",
+            "Content Bundle 1": "HK$ 88.00",
+            "Content Bundle 2": "HK$ 58.00",
+            "Getaway Car Pack": "HK$ 22.00",
+            "Banger Racing Car Pack": "HK$ 22.00",
+            "Modified Monsters Car Pack": "HK$ 22.00",
+            "Off-Road Car Pack": "HK$ 22.00",
+            "Reckless Car Pack": "HK$ 22.00",
+            "Steel & Wheels Pack": "HK$ 18.00",
+            "Goofy Roofs Pack": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -42813,7 +42943,8 @@
       "織珠": "HK$ 38.00",
       "死靈法師": "HK$ 38.00",
       "希瓦菈": "HK$ 58.00",
-      "精靈星象儀": "HK$ 38.00"
+      "精靈星象儀": "HK$ 38.00",
+      "幽冥戰魂": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 58,
@@ -42831,9 +42962,27 @@
       "織珠": "HK$ 38.00",
       "死靈法師": "HK$ 38.00",
       "希瓦菈": "HK$ 58.00",
-      "精靈星象儀": "HK$ 38.00"
+      "精靈星象儀": "HK$ 38.00",
+      "幽冥戰魂": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745812990001,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "巨大的威脅": "HK$ 58.00",
+            "所有英雄": "HK$ 228.00",
+            "所有塔": "HK$ 148.00",
+            "科斯米爾": "HK$ 58.00",
+            "Hero Lumenir": "HK$ 58.00",
+            "蜘蛛優惠": "HK$ 58.00",
+            "骷心巫龍": "HK$ 58.00",
+            "幽冥戰魂": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745759192952,
@@ -45293,6 +45442,25 @@
       "武器專屬強化券 x1 (E)": "HK$ 17.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745812990001,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 428.00",
+            "逆命殊途": "HK$ 68.00",
+            "額外內容擴充包": "HK$ 138.00",
+            "武器專屬強化券 x5 (A)": "HK$ 68.00",
+            "武器專屬強化券 x1 (A)": "HK$ 21.00",
+            "金色公事包": "HK$ 7.00",
+            "武器專屬強化券 x3 (A)": "HK$ 49.00",
+            "武器專屬強化券 x1 (B)": "HK$ 21.00",
+            "手槍彈藥吊飾": "HK$ 7.00",
+            "綠色藥草吊飾": "HK$ 7.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745730140413,
