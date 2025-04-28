@@ -18715,12 +18715,25 @@
     "minPriceInfo": {
       "price": 2,
       "formattedPrice": "HK$ 2.00",
-      "DLC \"Time\"": "HK$ 8.00",
-      "Donation III": "HK$ 788.00",
-      "Donation II": "HK$ 188.00",
-      "Donation I": "HK$ 38.00"
+      "DLC \"Time\"": "HK$ 2.00",
+      "Donation III": "HK$ 88.00",
+      "Donation II": "HK$ 38.00",
+      "Donation I": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745836547210,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "DLC \"Time\"": "HK$ 2.00",
+            "Donation III": "HK$ 88.00",
+            "Donation II": "HK$ 38.00",
+            "Donation I": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -45492,7 +45505,7 @@
       "逆命殊途": "HK$ 68.00",
       "遊戲本體": "HK$ 149.00",
       "額外內容擴充包": "HK$ 118.00",
-      "經典公事包": "HK$ 8.00",
+      "經典公事包": "HK$ 7.00",
       "武器專屬強化券 x5 (A)": "HK$ 58.00",
       "武器專屬強化券 x1 (A)": "HK$ 17.00",
       "武器專屬強化券 x3 (A)": "HK$ 41.00",
@@ -45510,6 +45523,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745836547210,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 428.00",
+            "逆命殊途": "HK$ 68.00",
+            "額外內容擴充包": "HK$ 138.00",
+            "金色公事包": "HK$ 7.00",
+            "武器專屬強化券 x5 (A)": "HK$ 68.00",
+            "經典公事包": "HK$ 7.00",
+            "武器專屬強化券 x1 (A)": "HK$ 21.00",
+            "武器專屬強化券 x3 (A)": "HK$ 49.00",
+            "武器專屬強化券 x1 (B)": "HK$ 21.00",
+            "手槍彈藥吊飾": "HK$ 7.00"
+          }
+        },
         {
           "timestamp": 1745812990001,
           "price": 0,

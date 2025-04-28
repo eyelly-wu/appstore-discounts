@@ -15378,12 +15378,25 @@
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99",
-      "DLC \"Time\"": "₺39,99",
-      "Donation III": "₺4.499,99",
-      "Donation II": "₺999,99",
-      "Donation I": "₺229,99"
+      "DLC \"Time\"": "₺19,99",
+      "Donation III": "₺449,99",
+      "Donation II": "₺229,99",
+      "Donation I": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745836547210,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "DLC \"Time\"": "₺19,99",
+            "Donation III": "₺449,99",
+            "Donation II": "₺229,99",
+            "Donation I": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -30552,6 +30565,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745836547210,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "Opposing Fronts": "₺0,00",
+            "All Content": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "4 vs 4 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00"
+          }
+        },
         {
           "timestamp": 1745832749035,
           "price": 549,

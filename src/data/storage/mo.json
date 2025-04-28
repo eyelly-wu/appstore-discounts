@@ -16127,12 +16127,25 @@
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29",
-      "Donation III": "USD 99.99",
-      "Donation II": "USD 24.99",
-      "Donation I": "USD 4.99",
-      "DLC \"Time\"": "USD 0.99"
+      "Donation III": "USD 9.99",
+      "Donation II": "USD 4.99",
+      "Donation I": "USD 1.99",
+      "DLC \"Time\"": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745836547210,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Donation III": "USD 9.99",
+            "Donation II": "USD 4.99",
+            "Donation I": "USD 1.99",
+            "DLC \"Time\"": "USD 0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -32229,6 +32242,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745836547210,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Daniel skin": "USD 0.99",
+            "Reyna skin": "USD 0.99",
+            "Jorge skin": "USD 0.99",
+            "Gloria skin": "USD 0.99",
+            "Purple menu color": "USD 3.99",
+            "Red menu color": "USD 1.99",
+            "Yellow menu color": "USD 0.99",
+            "James character": "USD 0.99",
+            "Lisa character": "USD 0.00",
+            "Elsa character": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1745832749035,
           "price": 0.99,
