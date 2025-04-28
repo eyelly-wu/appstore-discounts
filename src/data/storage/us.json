@@ -22307,6 +22307,23 @@
     "history": [
       [
         {
+          "timestamp": 1745807483744,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Crop": "$0.00",
+            "Splice": "$0.00",
+            "Magnifier": "$0.00",
+            "Distortion": "$0.00",
+            "Paint": "$0.00",
+            "Rotate": "$0.00",
+            "Sticker": "$0.00",
+            "Rate": "$0.00",
+            "Chromakey": "$0.00",
+            "Info": "$0.00"
+          }
+        },
+        {
           "timestamp": 1745803803776,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -36811,6 +36828,16 @@
       "Filebar Pro Lifetime": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745807483744,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743563675880,
