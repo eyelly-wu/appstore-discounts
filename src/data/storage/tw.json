@@ -14236,6 +14236,18 @@
     "history": [
       [
         {
+          "timestamp": 1745848958088,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "3D Model (A Month)": "$30.00",
+            "3D Model (A Year)": "$180.00",
+            "Location Explorer (A Year)": "$980.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -50280,11 +50292,23 @@
     "minPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00",
-      "故事模式+自由模式合集": "$290.00",
-      "劇情模式": "$150.00",
-      "自由模式": "$150.00"
+      "故事模式+自由模式合集": "$250.00",
+      "劇情模式": "$120.00",
+      "自由模式": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745848958088,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "故事模式+自由模式合集": "$250.00",
+            "劇情模式": "$120.00",
+            "自由模式": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
