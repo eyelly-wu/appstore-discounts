@@ -15563,7 +15563,17 @@
       "Subscription Ticket 1~5": "$8.99",
       "和风主题": "$3.99",
       "Music Collection 03": "$2.99",
-      "HOUSE风格主题包B": "$3.99"
+      "HOUSE风格主题包B": "$3.99",
+      "ThemeA0B0C1": "$0.00",
+      "ThemeA0B1C0": "$0.00",
+      "ThemeA1B0C0": "$0.00",
+      "ThemeA0B1C1": "$0.00",
+      "ThemeA1B0C1": "$0.00",
+      "ThemeA1B1C0": "$0.00",
+      "ThemeA2B0C0": "$0.00",
+      "主题大礼包": "$3.99",
+      "ThemeA2B0C1": "$3.99",
+      "ThemeA2B1C0": "$3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -15577,9 +15587,38 @@
       "Subscription Ticket 1~5": "$8.99",
       "和风主题": "$3.99",
       "Music Collection 03": "$2.99",
-      "HOUSE风格主题包B": "$3.99"
+      "HOUSE风格主题包B": "$3.99",
+      "ThemeA0B0C1": "$0.00",
+      "ThemeA0B1C0": "$0.00",
+      "ThemeA1B0C0": "$0.00",
+      "ThemeA0B1C1": "$0.00",
+      "ThemeA1B0C1": "$0.00",
+      "ThemeA1B1C0": "$0.00",
+      "ThemeA2B0C0": "$0.00",
+      "主题大礼包": "$3.99",
+      "ThemeA2B0C1": "$3.99",
+      "ThemeA2B1C0": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745863392218,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "$0.00",
+            "ThemeA0B1C0": "$0.00",
+            "ThemeA1B0C0": "$0.00",
+            "ThemeA0B1C1": "$0.00",
+            "ThemeA1B0C1": "$0.00",
+            "ThemeA1B1C0": "$0.00",
+            "ThemeA2B0C0": "$0.00",
+            "主题大礼包": "$3.99",
+            "ThemeA2B0C1": "$3.99",
+            "ThemeA2B1C0": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -51559,6 +51598,25 @@
       "Season MLB 2019": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745863392218,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "1M PP + Pack 2 for OOTP Go 26!": "$499.99",
+            "1M PP + Pack 3 for OOTP Go 26!": "$499.99",
+            "1M PP + Pack 1 for OOTP Go 26!": "$499.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "1,000,000 PP for OOTP Go 26!": "$499.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "1M PP + Pack 4 for OOTP Go 26!": "$499.99",
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745791326967,
