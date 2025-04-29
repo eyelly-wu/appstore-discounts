@@ -13821,6 +13821,25 @@
     "history": [
       [
         {
+          "timestamp": 1745964133022,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "$90.00",
+            "$5 Credit": "$190.00",
+            "1 Mo. Global Texting": "$120.00",
+            "1 Mo. Fongo Ultimate": "$390.00",
+            "3 Mo. CAN Texting": "$190.00",
+            "6 Mo. Global Texting": "$490.00",
+            "6 Mo. CAN Texting": "$320.00",
+            "$10 Credit": "$320.00",
+            "$20 Credit": "$690.00",
+            "12 Mo. CAN Texting": "$590.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745470938782,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -17522,7 +17541,8 @@
       "Colorful Meteor Shower 限時挑戰書": "$90.00",
       "Halv Selection 限時挑戰書": "$90.00",
       "限時挑戰書": "$120.00",
-      "擴充章節 Y": "$120.00"
+      "擴充章節 Y": "$120.00",
+      "支線第二章": "$120.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -17543,9 +17563,29 @@
       "Colorful Meteor Shower 限時挑戰書": "$90.00",
       "Halv Selection 限時挑戰書": "$90.00",
       "限時挑戰書": "$120.00",
-      "擴充章節 Y": "$120.00"
+      "擴充章節 Y": "$120.00",
+      "支線第二章": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745964133022,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "白金方案（每三個月續訂）": "$360.00",
+            "白金方案（每月續訂）": "$150.00",
+            "Radiant Star Trail 限時挑戰書": "$120.00",
+            "支線第一章": "$120.00",
+            "基本方案（每月續訂）": "$30.00",
+            "主線第八章": "$300.00",
+            "擴充章節 U": "$120.00",
+            "擴充章節 R": "$120.00",
+            "擴充章節B": "$120.00",
+            "支線第二章": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745730140413,
@@ -34168,7 +34208,7 @@
     ]
   },
   "1473785373": {
-    "name": "錢跡記帳 - 無廣告超快捷 & 資產管理 & 預算",
+    "name": "錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
@@ -49923,6 +49963,25 @@
     "history": [
       [
         {
+          "timestamp": 1745964133022,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "戰鬥獎勵雙倍": "$60.00",
+            "300金磚": "$150.00",
+            "980金磚": "$490.00",
+            "60金磚": "$30.00",
+            "120金磚": "$60.00",
+            "月卡": "$150.00",
+            "680金磚": "$320.00",
+            "深度高級特訓": "$490.00",
+            "高級特訓": "$320.00",
+            "6480金磚": "$2,990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745769736857,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -51665,6 +51724,25 @@
       "New Holland T8.435 Genesis": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745964133022,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$90.00",
+            "New Holland T8.435 Genesis": "$60.00",
+            "ClaasLexion8900+ConvioFlex1380": "$90.00",
+            "Amazone CITAN 15001-C": "$30.00",
+            "200'000 Coins": "$30.00",
+            "Versatile 4WD 620": "$60.00",
+            "Mack Trucks Black Anthem 6x4": "$60.00",
+            "500'000 Coins": "$60.00",
+            "KINZE 3665 Blue Drive": "$30.00",
+            "Case IH Speed-Tiller": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745899367258,

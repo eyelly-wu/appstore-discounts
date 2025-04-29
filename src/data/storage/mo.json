@@ -12071,6 +12071,23 @@
     "history": [
       [
         {
+          "timestamp": 1745964133022,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "超值進階寶石包": "USD 6.99",
+            "一盒陽光菁華": "USD 1.99",
+            "一瓶陽光菁華": "USD 0.99",
+            "一小盆寶石": "USD 4.99",
+            "一推車寶石": "USD 21.99",
+            "一大袋寶石": "USD 10.99",
+            "一鏟子寶石": "USD 0.99",
+            "2025 Birthday Package": "USD 14.99",
+            "2025 Birthday Package (Basic)": "USD 9.99",
+            "Elite Package": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1745953326469,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -23977,6 +23994,22 @@
     "history": [
       [
         {
+          "timestamp": 1745964133022,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "USD 9.99",
+            "GoodNotes 5完整版解鎖": "USD 9.99",
+            "Goodnotes 6 免費試用": "USD 0.00",
+            "Goodnotes 6 一次性付款": "USD 21.99",
+            "虛線方格：草稿紙張": "USD 0.99",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "USD 0.00",
+            "好心智雜誌": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745816597351,
           "price": 0,
           "formattedPrice": "免費",
@@ -28136,7 +28169,7 @@
     ]
   },
   "1473785373": {
-    "name": "錢跡記帳 - 無廣告超快捷 & 資產管理 & 預算",
+    "name": "錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
