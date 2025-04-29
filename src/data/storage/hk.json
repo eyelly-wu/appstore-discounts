@@ -8581,8 +8581,8 @@
   "549432607": {
     "name": "Townsmen Premium",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "無限的快進 !": "HK$ 32.00",
       "小型聲望包": "HK$ 18.00",
       "無限的雙倍 XP 值！": "HK$ 32.00",
@@ -8603,6 +8603,22 @@
       "終極尊貴包": "HK$ 288.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "無限的快進 !": "HK$ 32.00",
+            "無限的雙倍 XP 值！": "HK$ 32.00",
+            "小型聲望包": "HK$ 18.00",
+            "中聲望包": "HK$ 68.00",
+            "很棒的聲望包": "HK$ 188.00",
+            "瘋狂的尊貴套餐": "HK$ 588.00",
+            "終極尊貴包": "HK$ 288.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -17012,8 +17028,8 @@
   "998834675": {
     "name": "Clouds & Sheep 2 Premium",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "1400 顆寶石": "HK$ 588.00",
       "650 顆寶石": "HK$ 328.00",
       "250 顆寶石": "HK$ 128.00",
@@ -17030,6 +17046,20 @@
       "50 顆寶石": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "1400 顆寶石": "HK$ 588.00",
+            "650 顆寶石": "HK$ 328.00",
+            "250 顆寶石": "HK$ 128.00",
+            "120 顆寶石": "HK$ 58.00",
+            "50 顆寶石": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745442137026,
@@ -17049,8 +17079,8 @@
   "1001096601": {
     "name": "1941 Frozen Front Premium",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "25,000資金": "HK$ 38.00",
       "60,000資金": "HK$ 88.00",
       "700,000資金": "HK$ 688.00",
@@ -17067,6 +17097,20 @@
       "125,000資金": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "25,000資金": "HK$ 38.00",
+            "60,000資金": "HK$ 88.00",
+            "700,000資金": "HK$ 688.00",
+            "325,000資金": "HK$ 368.00",
+            "125,000資金": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
@@ -17975,10 +18019,18 @@
       "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -20036,10 +20088,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -21509,14 +21569,22 @@
   "1230231705": {
     "name": "The Witness",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -21983,10 +22051,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -35125,10 +35201,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
@@ -37580,14 +37664,22 @@
   "1523633394": {
     "name": "SpongeBob SquarePants",
     "maxPriceInfo": {
-      "price": 28,
-      "formattedPrice": "HK$ 28.00"
+      "price": 68,
+      "formattedPrice": "HK$ 68.00"
     },
     "minPriceInfo": {
       "price": 28,
       "formattedPrice": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44484,10 +44576,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44540,14 +44640,22 @@
   "1642715290": {
     "name": "Little Big Workshop",
     "maxPriceInfo": {
-      "price": 12,
-      "formattedPrice": "HK$ 12.00"
+      "price": 68,
+      "formattedPrice": "HK$ 68.00"
     },
     "minPriceInfo": {
       "price": 12,
       "formattedPrice": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
@@ -44755,6 +44863,17 @@
       "Hello World!": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745330541207,
@@ -45125,10 +45244,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -45205,8 +45332,8 @@
       "元氣貓咪套裝": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "清涼假日套裝": "HK$ 8.00",
       "青花禮服套裝": "HK$ 8.00",
       "青春魅力套裝": "HK$ 8.00",
@@ -45218,6 +45345,24 @@
       "元氣貓咪套裝": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "清涼假日套裝": "HK$ 8.00",
+            "青花禮服套裝": "HK$ 8.00",
+            "青春魅力套裝": "HK$ 8.00",
+            "活力四射套裝": "HK$ 8.00",
+            "休閒牛仔套裝": "HK$ 8.00",
+            "新年禮服套裝": "HK$ 8.00",
+            "賽博兔皮膚": "HK$ 8.00",
+            "學院兔皮膚": "HK$ 8.00",
+            "元氣貓咪套裝": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -49955,10 +50100,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -50662,6 +50815,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745935349811,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "HK$ 22.00",
+            "Amazone CITAN 15001-C": "HK$ 8.00",
+            "KINZE 3665 Blue Drive": "HK$ 8.00",
+            "ClaasLexion8900+ConvioFlex1380": "HK$ 22.00",
+            "200'000 Coins": "HK$ 8.00",
+            "Claas Xerion 5000": "HK$ 18.00",
+            "Case IH Speed-Tiller": "HK$ 8.00",
+            "Mack Trucks Black Anthem 6x4": "HK$ 18.00",
+            "Versatile 4WD 620": "HK$ 18.00",
+            "Krone BiG Pack 1290 HDP VC": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1745932310705,
           "price": 58,
@@ -51898,6 +52068,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745503347397,

@@ -8538,8 +8538,8 @@
   "549432607": {
     "name": "Townsmen Premium",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 85,
+      "formattedPrice": "$85.00",
       "無限的快進 !": "$120.00",
       "小型聲望包": "$60.00",
       "無限的雙倍 XP 值！": "$120.00",
@@ -8560,6 +8560,22 @@
       "終極尊貴包": "$1,290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 85,
+          "formattedPrice": "$85.00",
+          "inAppPurchases": {
+            "無限的快進 !": "$120.00",
+            "小型聲望包": "$60.00",
+            "無限的雙倍 XP 值！": "$120.00",
+            "中聲望包": "$290.00",
+            "很棒的聲望包": "$690.00",
+            "瘋狂的尊貴套餐": "$2,490.00",
+            "終極尊貴包": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -16616,8 +16632,8 @@
   "998834675": {
     "name": "Clouds & Sheep 2 Premium",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 85,
+      "formattedPrice": "$85.00",
       "120 顆寶石": "$290.00",
       "50 顆寶石": "$120.00",
       "1400 顆寶石": "$2,490.00",
@@ -16634,6 +16650,20 @@
       "250 顆寶石": "$490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 85,
+          "formattedPrice": "$85.00",
+          "inAppPurchases": {
+            "120 顆寶石": "$290.00",
+            "50 顆寶石": "$120.00",
+            "1400 顆寶石": "$2,490.00",
+            "650 顆寶石": "$1,290.00",
+            "250 顆寶石": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745442137026,
@@ -16653,8 +16683,8 @@
   "1001096601": {
     "name": "1941 Frozen Front Premium",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 85,
+      "formattedPrice": "$85.00",
       "125,000資金": "$590.00",
       "25,000資金": "$150.00",
       "60,000資金": "$320.00",
@@ -16671,6 +16701,20 @@
       "325,000資金": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 85,
+          "formattedPrice": "$85.00",
+          "inAppPurchases": {
+            "125,000資金": "$590.00",
+            "25,000資金": "$150.00",
+            "60,000資金": "$320.00",
+            "700,000資金": "$2,990.00",
+            "325,000資金": "$1,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
@@ -17849,10 +17893,18 @@
       "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -20058,10 +20110,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -21481,14 +21541,22 @@
   "1230231705": {
     "name": "The Witness",
     "maxPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00"
+      "price": 320,
+      "formattedPrice": "$320.00"
     },
     "minPriceInfo": {
       "price": 150,
       "formattedPrice": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -21810,10 +21878,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -33978,10 +34054,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
@@ -36674,14 +36758,22 @@
   "1523633394": {
     "name": "SpongeBob SquarePants",
     "maxPriceInfo": {
-      "price": 110,
-      "formattedPrice": "$110.00"
+      "price": 290,
+      "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
       "price": 110,
       "formattedPrice": "$110.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -43468,10 +43560,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -43524,14 +43624,22 @@
   "1642715290": {
     "name": "Little Big Workshop",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 290,
+      "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
@@ -43723,6 +43831,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Hello World!": "$30.00",
+            "甜蜜之家": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745330541207,
@@ -44115,10 +44234,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44195,8 +44322,8 @@
       "學院兔皮膚": "$30.00"
     },
     "minPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00",
+      "price": 90,
+      "formattedPrice": "$90.00",
       "活力四射套裝": "$30.00",
       "元氣貓咪套裝": "$30.00",
       "清涼假日套裝": "$30.00",
@@ -44208,6 +44335,24 @@
       "學院兔皮膚": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "活力四射套裝": "$30.00",
+            "元氣貓咪套裝": "$30.00",
+            "清涼假日套裝": "$30.00",
+            "青花禮服套裝": "$30.00",
+            "賽博兔皮膚": "$30.00",
+            "休閒牛仔套裝": "$30.00",
+            "新年禮服套裝": "$30.00",
+            "青春魅力套裝": "$30.00",
+            "學院兔皮膚": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -50736,10 +50881,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -52759,6 +52912,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745503347397,
