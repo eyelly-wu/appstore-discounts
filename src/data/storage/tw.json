@@ -3047,7 +3047,11 @@
       "Birth Chart Report - Untimed": "$90.00",
       "The Big Three Report": "$120.00",
       "Birthday Report": "$120.00",
-      "Child Report - Full": "$120.00"
+      "Child Report - Full": "$120.00",
+      "Lunar Return Report": "$120.00",
+      "Predictive Report - Untimed": "$90.00",
+      "My Pet Report": "$60.00",
+      "Child Report - Untimed": "$90.00"
     },
     "minPriceInfo": {
       "price": 1290,
@@ -3061,9 +3065,32 @@
       "Birth Chart Report - Untimed": "$90.00",
       "The Big Three Report": "$120.00",
       "Birthday Report": "$120.00",
-      "Child Report - Full": "$120.00"
+      "Child Report - Full": "$120.00",
+      "Lunar Return Report": "$120.00",
+      "Predictive Report - Untimed": "$90.00",
+      "My Pet Report": "$60.00",
+      "Child Report - Untimed": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745924530980,
+          "price": 1290,
+          "formattedPrice": "$1,290.00",
+          "inAppPurchases": {
+            "Lunar Return Report": "$120.00",
+            "7-day Trial Astrolocality": "$0.00",
+            "Astrolocality Maps": "$790.00",
+            "The Big Three Report": "$120.00",
+            "Relationship Report": "$120.00",
+            "Predictive Report - Untimed": "$90.00",
+            "Predictive Report - No Background": "$90.00",
+            "Predictive Report - Full": "$120.00",
+            "My Pet Report": "$60.00",
+            "Child Report - Untimed": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
