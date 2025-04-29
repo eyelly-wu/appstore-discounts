@@ -20494,8 +20494,8 @@
   "1202650514": {
     "name": "HealthFit",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99",
+      "price": 6.99,
+      "formattedPrice": "$6.99",
       "Fanatical Supporter": "$9.99",
       "Awesome Supporter": "$4.99"
     },
@@ -20506,6 +20506,17 @@
       "Awesome Supporter": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745956943974,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Fanatical Supporter": "$9.99",
+            "Awesome Supporter": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,

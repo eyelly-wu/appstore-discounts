@@ -14212,6 +14212,19 @@
     "history": [
       [
         {
+          "timestamp": 1745956943974,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Learn to Drive UK - 12 months": "HK$ 118.00",
+            "Learn to Drive UK - 1 month": "HK$ 32.00",
+            "Learn to Drive UK - 3 months": "HK$ 88.00",
+            "Learn to Drive Unlimited": "HK$ 188.00",
+            "Learn to Drive UK - Unlimited": "HK$ 88.00",
+            "Learn to Drive UK - 3 month": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1745953326469,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -21513,8 +21526,8 @@
   "1202650514": {
     "name": "HealthFit",
     "maxPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00",
+      "price": 58,
+      "formattedPrice": "HK$ 58.00",
       "Fanatical Supporter": "HK$ 88.00",
       "Awesome Supporter": "HK$ 38.00"
     },
@@ -21525,6 +21538,17 @@
       "Awesome Supporter": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745956943974,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Fanatical Supporter": "HK$ 88.00",
+            "Awesome Supporter": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,

@@ -16342,8 +16342,8 @@
   "1202650514": {
     "name": "HealthFit",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00",
+      "price": 48,
+      "formattedPrice": "¥48.00",
       "Fanatical Supporter": "¥68.00",
       "Awesome Supporter": "¥38.00"
     },
@@ -16354,6 +16354,17 @@
       "Awesome Supporter": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745956943974,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Fanatical Supporter": "¥68.00",
+            "Awesome Supporter": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
