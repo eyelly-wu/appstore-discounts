@@ -23244,12 +23244,29 @@
       "KODAK SERIES FILM": "¥38.00",
       "FUJI SERIES FILM": "¥38.00",
       "RETRO SERIES FILM": "¥38.00",
-      "UPGRADE PRO": "¥298.00",
+      "UPGRADE PRO": "¥45.00",
       "WEDDING SERIES FILM": "¥38.00",
       "IU SERIES FILM": "¥38.00",
       "LOMO SERIES": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745932310705,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "UPGRADE PRO": "¥45.00",
+            "FUJI SERIES FILM": "¥38.00",
+            "KODAK SERIES FILM": "¥38.00",
+            "WEDDING SERIES FILM": "¥38.00",
+            "RETRO SERIES FILM": "¥38.00",
+            "IU SERIES FILM": "¥38.00",
+            "LOMO SERIES": "¥38.00",
+            "UPGRADE PRO VERSION": "¥398.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -32705,6 +32722,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745932310705,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "心愿礼包": "¥45.00",
+            "聚财盆": "¥18.00",
+            "超值月卡": "¥30.00",
+            "豪华月卡": "¥68.00",
+            "一碟包子": "¥6.00",
+            "SP武将碎片": "¥298.00",
+            "新手成长礼包": "¥6.00",
+            "竞赛VIP赛季卡": "¥30.00",
+            "犒赏令": "¥68.00"
+          }
+        },
         {
           "timestamp": 1745899367258,
           "price": 1,

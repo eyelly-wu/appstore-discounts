@@ -6577,6 +6577,25 @@
     "history": [
       [
         {
+          "timestamp": 1745932310705,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Procurement Director": "₺39,99",
+            "Disaster Manager": "₺39,99",
+            "Medical Coordinator": "₺39,99",
+            "Ethics Watchdog": "₺39,99",
+            "Chaos Engineer": "₺39,99",
+            "Economic Forecaster": "₺39,99",
+            "Situation Director": "₺39,99",
+            "Outreach Coordinator": "₺39,99",
+            "Fast Response EMTs": "₺39,99",
+            "Strategic Fundraiser": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745449345686,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -9453,10 +9472,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 29.99,
+      "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745932310705,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745384546601,
@@ -12247,6 +12274,25 @@
       "Great Art Bundle": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745932310705,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Font Access": "₺1.799,99",
+            "Pro Access": "₺2.999,99",
+            "Ultimate Access": "₺4.499,99",
+            "Abstract Theme 5": "₺39,99",
+            "Abstract Theme 4": "₺39,99",
+            "Abstract Theme 2": "₺39,99",
+            "Abstract Theme 3": "₺39,99",
+            "Abstract Theme 1": "₺39,99",
+            "Abstract Theme Bundle": "₺129,99",
+            "Great Art Bundle": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
@@ -22670,7 +22716,17 @@
       "Drill Sergeant Unlock": "₺39,99",
       "Southern Desert Early Unlock": "₺39,99",
       "Private Donor Unlock": "₺39,99",
-      "Celebrity Unlock": "₺39,99"
+      "Celebrity Unlock": "₺39,99",
+      "The Genie's Curse": "₺39,99",
+      "The Plague": "₺39,99",
+      "The Great Droughts": "₺39,99",
+      "Before The Storm": "₺39,99",
+      "Orbital Uplink": "₺39,99",
+      "The Airlift": "₺39,99",
+      "Devil's Peak": "₺99,99",
+      "Defence Minister": "₺39,99",
+      "Military Recruiter": "₺39,99",
+      "Drone Programmer": "₺39,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -22685,9 +22741,38 @@
       "Drill Sergeant Unlock": "₺39,99",
       "Southern Desert Early Unlock": "₺39,99",
       "Private Donor Unlock": "₺39,99",
-      "Celebrity Unlock": "₺39,99"
+      "Celebrity Unlock": "₺39,99",
+      "The Genie's Curse": "₺39,99",
+      "The Plague": "₺39,99",
+      "The Great Droughts": "₺39,99",
+      "Before The Storm": "₺39,99",
+      "Orbital Uplink": "₺39,99",
+      "The Airlift": "₺39,99",
+      "Devil's Peak": "₺99,99",
+      "Defence Minister": "₺39,99",
+      "Military Recruiter": "₺39,99",
+      "Drone Programmer": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745932310705,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "The Genie's Curse": "₺39,99",
+            "The Plague": "₺39,99",
+            "The Great Droughts": "₺39,99",
+            "Before The Storm": "₺39,99",
+            "Orbital Uplink": "₺39,99",
+            "The Airlift": "₺39,99",
+            "Devil's Peak": "₺99,99",
+            "Defence Minister": "₺39,99",
+            "Military Recruiter": "₺39,99",
+            "Drone Programmer": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745812990001,
