@@ -17349,7 +17349,9 @@
       "50000 Rebirth Stones": "₺3.999,99",
       "Element Package": "₺699,99",
       "250 Hell Stones": "₺1.999,99",
-      "120 Hell Stones": "₺999,99"
+      "120 Hell Stones": "₺999,99",
+      "30 Hell Stones": "₺399,99",
+      "500 Hell Stones": "₺1.999,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -17363,9 +17365,30 @@
       "50000 Rebirth Stones": "₺3.999,99",
       "Element Package": "₺699,99",
       "250 Hell Stones": "₺1.999,99",
-      "120 Hell Stones": "₺999,99"
+      "120 Hell Stones": "₺999,99",
+      "30 Hell Stones": "₺399,99",
+      "500 Hell Stones": "₺1.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745885359440,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Element EXP increase": "₺399,99",
+            "Rebirth EXP increase": "₺399,99",
+            "Rebirth Package": "₺1.999,99",
+            "12000 Rubies": "₺3.999,99",
+            "50000 Rebirth Stones": "₺3.999,99",
+            "Element Package": "₺699,99",
+            "250 Hell Stones": "₺1.999,99",
+            "120 Hell Stones": "₺999,99",
+            "30 Hell Stones": "₺399,99",
+            "500 Hell Stones": "₺1.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745794940542,

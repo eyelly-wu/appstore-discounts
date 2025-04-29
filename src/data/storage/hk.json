@@ -15774,7 +15774,17 @@
       "普通的音樂合集10": "HK$ 22.00",
       "星尘节拍器": "HK$ 18.00",
       "小酒仙节拍器": "HK$ 8.00",
-      "音樂合集 03": "HK$ 22.00"
+      "音樂合集 03": "HK$ 22.00",
+      "ThemeA0B0C1": "HK$ 0.00",
+      "ThemeA0B1C0": "HK$ 0.00",
+      "ThemeA1B0C0": "HK$ 0.00",
+      "ThemeA0B1C1": "HK$ 0.00",
+      "ThemeA1B0C1": "HK$ 0.00",
+      "ThemeA1B1C0": "HK$ 0.00",
+      "ThemeA2B0C0": "HK$ 0.00",
+      "主题大礼包": "HK$ 32.00",
+      "ThemeA2B0C1": "HK$ 32.00",
+      "ThemeA2B1C0": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -15788,9 +15798,38 @@
       "普通的音樂合集10": "HK$ 22.00",
       "星尘节拍器": "HK$ 18.00",
       "小酒仙节拍器": "HK$ 8.00",
-      "音樂合集 03": "HK$ 22.00"
+      "音樂合集 03": "HK$ 22.00",
+      "ThemeA0B0C1": "HK$ 0.00",
+      "ThemeA0B1C0": "HK$ 0.00",
+      "ThemeA1B0C0": "HK$ 0.00",
+      "ThemeA0B1C1": "HK$ 0.00",
+      "ThemeA1B0C1": "HK$ 0.00",
+      "ThemeA1B1C0": "HK$ 0.00",
+      "ThemeA2B0C0": "HK$ 0.00",
+      "主题大礼包": "HK$ 32.00",
+      "ThemeA2B0C1": "HK$ 32.00",
+      "ThemeA2B1C0": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745885359440,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "HK$ 0.00",
+            "ThemeA0B1C0": "HK$ 0.00",
+            "ThemeA1B0C0": "HK$ 0.00",
+            "ThemeA0B1C1": "HK$ 0.00",
+            "ThemeA1B0C1": "HK$ 0.00",
+            "ThemeA1B1C0": "HK$ 0.00",
+            "ThemeA2B0C0": "HK$ 0.00",
+            "主题大礼包": "HK$ 32.00",
+            "ThemeA2B0C1": "HK$ 32.00",
+            "ThemeA2B1C0": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745654543154,
@@ -44342,6 +44381,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745885359440,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "護士禮包": "HK$ 38.00",
+            "解鎖旁觀者": "HK$ 22.00",
+            "解鎖九尾狐": "HK$ 22.00",
+            "賽季3戰鬥通行證": "HK$ 18.00",
+            "制服禮包": "HK$ 32.00",
+            "解鎖巴弗滅": "HK$ 22.00",
+            "賽季2戰鬥通行證": "HK$ 18.00",
+            "怪物禮包2": "HK$ 228.00",
+            "信息禮包": "HK$ 98.00",
+            "鍛造禮包": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1745877742391,
           "price": 38,
