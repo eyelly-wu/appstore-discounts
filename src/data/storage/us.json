@@ -17530,10 +17530,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745896628504,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745560983791,
@@ -21509,8 +21517,8 @@
       "B.B.K.K.B.K.K. 2023 Remake SLC": "$4.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Miku": "$9.99",
       "CAPSO": "$9.99",
       "ConneR": "$9.99",
@@ -21534,6 +21542,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745896628504,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99",
+            "Marvelous Mix vol. 1": "$1.99"
+          }
+        },
         {
           "timestamp": 1745856148969,
           "price": 1.99,
@@ -35067,14 +35092,22 @@
   "1497120981": {
     "name": "LUCH: Photo Effects & Filters",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "$0.29"
+      "price": 0.59,
+      "formattedPrice": "$0.59"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745896628504,
+          "price": 0.59,
+          "formattedPrice": "$0.59",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -49334,11 +49367,23 @@
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "$0.29",
-      "故事模式+自由模式合集": "$8.99",
-      "劇情模式": "$4.99",
-      "自由模式": "$4.99"
+      "故事模式+自由模式合集": "$7.19",
+      "劇情模式": "$3.99",
+      "自由模式": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745896628504,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "故事模式+自由模式合集": "$7.19",
+            "劇情模式": "$3.99",
+            "自由模式": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
