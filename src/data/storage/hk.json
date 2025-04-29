@@ -3877,7 +3877,10 @@
       "Magnetic Stars Tiny Pack": "HK$ 32.00",
       "Superpower Unlimited": "HK$ 188.00",
       "Unlock \"Rocket Science\" level pack": "HK$ 18.00",
-      "Unlock \"Bath Time\" level pack": "HK$ 18.00"
+      "Unlock \"Bath Time\" level pack": "HK$ 18.00",
+      "Unlock \"Sticky Steps\" level pack": "HK$ 18.00",
+      "Unlock \"Shooting the candy\" level pack": "HK$ 18.00",
+      "Unlock \"Handy сandy\" level pack": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -3891,9 +3894,31 @@
       "Magnetic Stars Tiny Pack": "HK$ 32.00",
       "Superpower Unlimited": "HK$ 188.00",
       "Unlock \"Rocket Science\" level pack": "HK$ 18.00",
-      "Unlock \"Bath Time\" level pack": "HK$ 18.00"
+      "Unlock \"Bath Time\" level pack": "HK$ 18.00",
+      "Unlock \"Sticky Steps\" level pack": "HK$ 18.00",
+      "Unlock \"Shooting the candy\" level pack": "HK$ 18.00",
+      "Unlock \"Handy сandy\" level pack": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745902947645,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Superpower 10": "HK$ 18.00",
+            "Superpower 20": "HK$ 32.00",
+            "Superpower 50": "HK$ 58.00",
+            "Superpower 500": "HK$ 148.00",
+            "Unlock all level packs including future updates": "HK$ 32.00",
+            "Superpower Unlimited": "HK$ 188.00",
+            "Unlock \"Sticky Steps\" level pack": "HK$ 18.00",
+            "Unlock \"Shooting the candy\" level pack": "HK$ 18.00",
+            "Unlock \"Rocket Science\" level pack": "HK$ 18.00",
+            "Unlock \"Handy сandy\" level pack": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -29720,6 +29745,46 @@
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1419928720": {
+    "name": "起點小說（專業版）",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "600點券": "HK$ 8.00",
+      "6000點券": "HK$ 88.00",
+      "30000點券": "HK$ 388.00",
+      "18000點券": "HK$ 228.00",
+      "60000點券": "HK$ 788.00",
+      "1800點券": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "600點券": "HK$ 8.00",
+      "6000點券": "HK$ 88.00",
+      "30000點券": "HK$ 388.00",
+      "18000點券": "HK$ 228.00",
+      "60000點券": "HK$ 788.00",
+      "1800點券": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745902947645,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "600點券": "HK$ 8.00",
+            "6000點券": "HK$ 88.00",
+            "30000點券": "HK$ 388.00",
+            "18000點券": "HK$ 228.00",
+            "60000點券": "HK$ 788.00",
+            "1800點券": "HK$ 22.00"
+          }
         }
       ]
     ]
