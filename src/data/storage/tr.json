@@ -7056,8 +7056,8 @@
   "549432607": {
     "name": "Townsmen Premium",
     "maxPriceInfo": {
-      "price": 5,
-      "formattedPrice": "₺5,00",
+      "price": 17.99,
+      "formattedPrice": "₺17,99",
       "Fast forward": "₺179,99",
       "Medium Prestige Pack": "₺399,99",
       "Small Prestige Pack": "₺99,99",
@@ -7078,6 +7078,22 @@
       "Ultimate Prestige Package": "₺1.799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 17.99,
+          "formattedPrice": "₺17,99",
+          "inAppPurchases": {
+            "Fast forward": "₺179,99",
+            "Medium Prestige Pack": "₺399,99",
+            "Small Prestige Pack": "₺99,99",
+            "XP Buff x2": "₺179,99",
+            "Awesome Prestige Pack": "₺999,99",
+            "Insane Prestige Package": "₺3.499,99",
+            "Ultimate Prestige Package": "₺1.799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -14038,8 +14054,8 @@
   "998834675": {
     "name": "Clouds & Sheep 2 Premium",
     "maxPriceInfo": {
-      "price": 5,
-      "formattedPrice": "₺5,00",
+      "price": 17.99,
+      "formattedPrice": "₺17,99",
       "50 Gems": "₺179,99",
       "1400 Gems": "₺3.499,99",
       "650 Gems": "₺1.999,99",
@@ -14056,6 +14072,20 @@
       "120 Gems": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 17.99,
+          "formattedPrice": "₺17,99",
+          "inAppPurchases": {
+            "50 Gems": "₺179,99",
+            "1400 Gems": "₺3.499,99",
+            "650 Gems": "₺1.999,99",
+            "250 Gems": "₺699,99",
+            "120 Gems": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745442137026,
@@ -14075,8 +14105,8 @@
   "1001096601": {
     "name": "1941 Frozen Front Premium",
     "maxPriceInfo": {
-      "price": 5,
-      "formattedPrice": "₺5,00",
+      "price": 17.99,
+      "formattedPrice": "₺17,99",
       "25,000 Gold": "₺229,99",
       "700,000 Gold": "₺3.999,99",
       "325,000 Gold": "₺1.999,99",
@@ -14093,6 +14123,20 @@
       "60,000 Gold": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 17.99,
+          "formattedPrice": "₺17,99",
+          "inAppPurchases": {
+            "25,000 Gold": "₺229,99",
+            "700,000 Gold": "₺3.999,99",
+            "325,000 Gold": "₺1.999,99",
+            "125,000 Gold": "₺799,99",
+            "60,000 Gold": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
@@ -14996,10 +15040,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -16787,10 +16839,18 @@
       "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -18034,14 +18094,22 @@
   "1230231705": {
     "name": "The Witness",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -18436,10 +18504,18 @@
       "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -25346,10 +25422,18 @@
       "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
@@ -27899,14 +27983,22 @@
   "1523633394": {
     "name": "SpongeBob SquarePants: BfBB",
     "maxPriceInfo": {
-      "price": 22.99,
-      "formattedPrice": "₺22,99"
+      "price": 69.99,
+      "formattedPrice": "₺69,99"
     },
     "minPriceInfo": {
       "price": 22.99,
       "formattedPrice": "₺22,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -33840,10 +33932,18 @@
       "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -33885,14 +33985,22 @@
   "1642715290": {
     "name": "Little Big Workshop",
     "maxPriceInfo": {
-      "price": 11.99,
-      "formattedPrice": "₺11,99"
+      "price": 69.99,
+      "formattedPrice": "₺69,99"
     },
     "minPriceInfo": {
       "price": 11.99,
       "formattedPrice": "₺11,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
@@ -33991,6 +34099,17 @@
       "Home Sweet Home": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -34302,10 +34421,18 @@
       "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -34382,8 +34509,8 @@
       "Black Kitten Pack": "₺19,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99",
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
       "Cheongsam (New Year) Pack": "₺19,99",
       "Skinny Jeans Pack": "₺4,99",
       "Bikini Pack": "₺19,99",
@@ -34395,6 +34522,24 @@
       "Black Kitten Pack": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Cheongsam (New Year) Pack": "₺19,99",
+            "Skinny Jeans Pack": "₺4,99",
+            "Bikini Pack": "₺19,99",
+            "Cheongsam (Blue Flowers)": "₺19,99",
+            "Youthful Days Pack": "₺4,99",
+            "Energetic Pack": "₺4,99",
+            "Cyber Rabbit": "₺29,99",
+            "学院兔皮肤": "₺29,99",
+            "Black Kitten Pack": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -37443,10 +37588,18 @@
       "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -39135,6 +39288,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745967728488,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745535728686,
