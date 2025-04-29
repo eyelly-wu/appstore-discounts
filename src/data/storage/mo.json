@@ -12042,7 +12042,9 @@
       "Elite Package": "USD 9.99",
       "Supreme Package": "USD 4.99",
       "Advanced Package": "USD 2.99",
-      "Starter Package": "USD 0.99"
+      "Starter Package": "USD 0.99",
+      "2025 Birthday Package": "USD 14.99",
+      "2025 Birthday Package (Basic)": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -12062,9 +12064,30 @@
       "Elite Package": "USD 9.99",
       "Supreme Package": "USD 4.99",
       "Advanced Package": "USD 2.99",
-      "Starter Package": "USD 0.99"
+      "Starter Package": "USD 0.99",
+      "2025 Birthday Package": "USD 14.99",
+      "2025 Birthday Package (Basic)": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745953326469,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "一盒陽光菁華": "USD 1.99",
+            "一瓶陽光菁華": "USD 0.99",
+            "一小盆寶石": "USD 4.99",
+            "一推車寶石": "USD 21.99",
+            "一大袋寶石": "USD 10.99",
+            "一鏟子寶石": "USD 0.99",
+            "2025 Birthday Package": "USD 14.99",
+            "2025 Birthday Package (Basic)": "USD 9.99",
+            "Elite Package": "USD 9.99",
+            "Supreme Package": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744059739231,

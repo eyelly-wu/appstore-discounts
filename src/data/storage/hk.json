@@ -3749,6 +3749,23 @@
     "history": [
       [
         {
+          "timestamp": 1745953326469,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "HK$ 8.00",
+            "Voices": "HK$ 8.00",
+            "Amped Guitar & Bass": "HK$ 22.00",
+            "Acoustic Guitars": "HK$ 8.00",
+            "Varazdin Orchestral Mobile": "HK$ 32.00",
+            "Synth Lead": "HK$ 18.00",
+            "Sliced Beats": "HK$ 8.00",
+            "Chill-Lo-Fi Mobile": "HK$ 18.00",
+            "Synth Plucks": "HK$ 18.00",
+            "Groove Machine Synth": "HK$ 0.00"
+          }
+        },
+        {
           "timestamp": 1745949781693,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
@@ -14188,11 +14205,26 @@
       "Learn to Drive UK - 1 month": "HK$ 32.00",
       "Learn to Drive UK - 12 months": "HK$ 118.00",
       "Learn to Drive UK - 3 months": "HK$ 88.00",
-      "Learn to Drive Unlimited": "HK$ 188.00",
+      "Learn to Drive Unlimited": "HK$ 148.00",
       "Learn to Drive UK - Unlimited": "HK$ 88.00",
       "Learn to Drive UK - 3 month": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745953326469,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Learn to Drive UK - 1 month": "HK$ 32.00",
+            "Learn to Drive UK - 3 months": "HK$ 88.00",
+            "Learn to Drive UK - 12 months": "HK$ 118.00",
+            "Learn to Drive Unlimited": "HK$ 148.00",
+            "Learn to Drive UK - 3 month": "HK$ 88.00",
+            "Learn to Drive UK - Unlimited": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -14420,7 +14452,9 @@
       "超值進階寶石包": "HK$ 58.00",
       "Elite Package": "HK$ 88.00",
       "Supreme Package": "HK$ 38.00",
-      "Advanced Package": "HK$ 22.00"
+      "Advanced Package": "HK$ 22.00",
+      "2025 Birthday Package": "HK$ 118.00",
+      "2025 Birthday Package (Basic)": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 28,
@@ -14439,9 +14473,30 @@
       "超值進階寶石包": "HK$ 58.00",
       "Elite Package": "HK$ 88.00",
       "Supreme Package": "HK$ 38.00",
-      "Advanced Package": "HK$ 22.00"
+      "Advanced Package": "HK$ 22.00",
+      "2025 Birthday Package": "HK$ 118.00",
+      "2025 Birthday Package (Basic)": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745953326469,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "一盒陽光菁華": "HK$ 18.00",
+            "一瓶陽光菁華": "HK$ 8.00",
+            "一鏟子寶石": "HK$ 8.00",
+            "一小盆寶石": "HK$ 38.00",
+            "一大袋寶石": "HK$ 88.00",
+            "超值進階寶石包": "HK$ 58.00",
+            "一推車寶石": "HK$ 188.00",
+            "2025 Birthday Package": "HK$ 118.00",
+            "2025 Birthday Package (Basic)": "HK$ 88.00",
+            "Elite Package": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744059739231,
@@ -22582,7 +22637,8 @@
       "Neko": "HK$ 88.00",
       "Alice": "HK$ 88.00",
       "Emotion Samples 01": "HK$ 38.00",
-      "Nora": "HK$ 88.00"
+      "Nora": "HK$ 88.00",
+      "Game Disc vol.1": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -22598,9 +22654,29 @@
       "Neko": "HK$ 88.00",
       "Alice": "HK$ 88.00",
       "Emotion Samples 01": "HK$ 18.00",
-      "Nora": "HK$ 88.00"
+      "Nora": "HK$ 88.00",
+      "Game Disc vol.1": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745953326469,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Miku": "HK$ 88.00",
+            "ConneR": "HK$ 88.00",
+            "CAPSO": "HK$ 88.00",
+            "Xenon": "HK$ 88.00",
+            "9 Characters": "HK$ 288.00",
+            "Cherry": "HK$ 88.00",
+            "Kizuna AI": "HK$ 88.00",
+            "Battle CHAOS 2019": "HK$ 18.00",
+            "Game Disc vol.1": "HK$ 18.00",
+            "Neko": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745899367258,
@@ -24253,6 +24329,25 @@
       "肥宅快樂包 Vol.20": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745953326469,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "新手上路包": "HK$ 8.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "Miku in Museland": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745812990001,
@@ -43598,7 +43693,7 @@
       "骷心巫龍": "HK$ 58.00",
       "沙丘哨兵": "HK$ 22.00",
       "一箱宝石_出售": "HK$ 148.00",
-      "電湧石魔": "HK$ 22.00",
+      "電湧石魔": "HK$ 38.00",
       "織珠": "HK$ 38.00",
       "死靈法師": "HK$ 38.00",
       "希瓦菈": "HK$ 58.00",
@@ -43625,6 +43720,23 @@
       "幽冥戰魂": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745953326469,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "巨大的威脅": "HK$ 58.00",
+            "所有英雄": "HK$ 228.00",
+            "所有塔": "HK$ 148.00",
+            "科斯米爾": "HK$ 58.00",
+            "蜘蛛優惠": "HK$ 58.00",
+            "Hero Lumenir": "HK$ 58.00",
+            "骷心巫龍": "HK$ 58.00",
+            "電湧石魔": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745812990001,
@@ -50574,6 +50686,25 @@
       "Pennsylvania Carriage B": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745953326469,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "HK$ 228.00",
+            "Japan Expansion Bundle": "HK$ 58.00",
+            "1910 Ticket Pack": "HK$ 32.00",
+            "Europe Expansion": "HK$ 88.00",
+            "Europe Map": "HK$ 68.00",
+            "LegendaryAsia Expansion Bundle": "HK$ 58.00",
+            "Nordic Bundle": "HK$ 58.00",
+            "Nordic Map": "HK$ 58.00",
+            "Switzerland Expansion Bundle": "HK$ 58.00",
+            "India Expansion Bundle": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745548218542,
