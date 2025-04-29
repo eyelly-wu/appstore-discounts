@@ -720,6 +720,27 @@
       ]
     ]
   },
+  "332636983": {
+    "name": "Cry Translator",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745913790657,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "333212604": {
     "name": "蒙恬名片王Mobile",
     "maxPriceInfo": {
@@ -1485,6 +1506,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745913790657,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "连续包年": "USD 39.99",
+            "连续包季": "USD 9.99",
+            "通用型套餐-25元": "USD 3.99",
+            "通用型套餐-159元": "USD 22.99",
+            "通用型套餐-318元": "USD 49.99",
+            "通用型套餐-718元": "USD 99.99",
+            "通用型套餐-468元": "USD 69.99",
+            "通用型套餐-408元": "USD 59.99",
+            "通用型套餐-329元": "USD 49.99",
+            "免广告会员十二个月15元": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1745910143132,
           "price": 0.99,
@@ -15142,6 +15180,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745913790657,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "支線第一章": "USD 3.99",
+            "白金方案（每月續訂）": "USD 4.49",
+            "擴充章節 U": "USD 3.99",
+            "白金方案（每三個月續訂）": "USD 12.49",
+            "擴充章節D": "USD 3.99",
+            "擴充章節B": "USD 3.99",
+            "擴充章節C": "USD 3.99",
+            "支線第二章": "USD 3.99",
+            "擴充章節 J": "USD 3.99",
+            "擴充章節H": "USD 3.99"
+          }
+        },
         {
           "timestamp": 1745910143132,
           "price": 1.99,
@@ -40622,10 +40677,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745913790657,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

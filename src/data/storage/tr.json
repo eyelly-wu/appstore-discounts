@@ -853,6 +853,27 @@
       ]
     ]
   },
+  "332636983": {
+    "name": "Cry Translator",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745913790657,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "333212604": {
     "name": "蒙恬名片王Mobile",
     "maxPriceInfo": {
@@ -17407,6 +17428,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745913790657,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Feature Package": "₺179,99",
+            "Automatic Package": "₺699,99",
+            "Element EXP increase": "₺399,99",
+            "Rebirth EXP increase": "₺399,99",
+            "Rebirth Package": "₺1.999,99",
+            "12000 Rubies": "₺3.999,99",
+            "50000 Rebirth Stones": "₺3.999,99",
+            "Element Package": "₺699,99",
+            "250 Hell Stones": "₺1.999,99",
+            "120 Hell Stones": "₺999,99"
+          }
+        },
         {
           "timestamp": 1745910143132,
           "price": 39.99,
@@ -37235,10 +37273,18 @@
       "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745913790657,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
