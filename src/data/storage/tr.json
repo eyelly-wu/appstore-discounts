@@ -15789,8 +15789,8 @@
   "1094038347": {
     "name": "Only You Are Here",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99",
+      "price": 19.99,
+      "formattedPrice": "₺19,99",
       "DLC \"Time\"": "₺39,99",
       "Donation III": "₺4.499,99",
       "Donation II": "₺999,99",
@@ -15805,6 +15805,19 @@
       "Donation I": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745992984163,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "DLC \"Time\"": "₺19,99",
+            "Donation III": "₺449,99",
+            "Donation II": "₺229,99",
+            "Donation I": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745836547210,

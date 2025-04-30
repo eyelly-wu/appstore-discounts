@@ -19132,8 +19132,8 @@
   "1094038347": {
     "name": "Only You Are Here",
     "maxPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00",
+      "price": 20,
+      "formattedPrice": "$20.00",
       "DLC \"Time\"": "$30.00",
       "Donation III": "$2,990.00",
       "Donation II": "$790.00",
@@ -19148,6 +19148,19 @@
       "Donation I": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745992984163,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "DLC \"Time\"": "$20.00",
+            "Donation III": "$320.00",
+            "Donation II": "$150.00",
+            "Donation I": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745836547210,
