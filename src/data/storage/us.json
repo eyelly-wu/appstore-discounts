@@ -8753,8 +8753,8 @@
   "549432607": {
     "name": "Townsmen Premium",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "Small Prestige Pack": "$1.99",
       "Medium Prestige Pack": "$8.99",
       "Fast forward": "$3.99",
@@ -8775,6 +8775,22 @@
       "Insane Prestige Package": "$79.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Small Prestige Pack": "$1.99",
+            "Medium Prestige Pack": "$8.99",
+            "Fast forward": "$3.99",
+            "XP Buff x2": "$3.99",
+            "Awesome Prestige Pack": "$21.99",
+            "Ultimate Prestige Package": "$39.99",
+            "Insane Prestige Package": "$79.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -15086,6 +15102,15 @@
     "history": [
       [
         {
+          "timestamp": 1745983031540,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "PLUS": "$19.99",
+            "GOLD": "$39.99"
+          }
+        },
+        {
           "timestamp": 1745980211186,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -16790,8 +16815,8 @@
   "998834675": {
     "name": "Clouds & Sheep 2 Premium",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "120 Gems": "$7.99",
       "50 Gems": "$3.99",
       "250 Gems": "$15.99",
@@ -16808,6 +16833,20 @@
       "650 Gems": "$40.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "120 Gems": "$7.99",
+            "50 Gems": "$3.99",
+            "250 Gems": "$15.99",
+            "1400 Gems": "$79.99",
+            "650 Gems": "$40.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745442137026,
@@ -16827,8 +16866,8 @@
   "1001096601": {
     "name": "1941 Frozen Front Premium",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "60,000 Gold": "$9.99",
       "25,000 Gold": "$4.99",
       "125,000 Gold": "$18.99",
@@ -16845,6 +16884,20 @@
       "325,000 Gold": "$45.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "60,000 Gold": "$9.99",
+            "25,000 Gold": "$4.99",
+            "125,000 Gold": "$18.99",
+            "700,000 Gold": "$89.99",
+            "325,000 Gold": "$45.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
@@ -17826,10 +17879,18 @@
       "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -19422,10 +19483,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -20685,14 +20754,22 @@
   "1230231705": {
     "name": "The Witness",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 9.99,
+      "formattedPrice": "$9.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -21176,10 +21253,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -23329,7 +23414,8 @@
       "Touhou Collection Bundle50": "$7.99",
       "Muse Dash・Legend": "$3.99",
       "unlockall_12": "$23.99",
-      "Happy Otaku Pack Vol.20": "$3.99"
+      "Happy Otaku Pack Vol.20": "$3.99",
+      "Aquaria Cruising Guide": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -23368,9 +23454,29 @@
       "Touhou Collection Bundle50": "$7.99",
       "Muse Dash・Legend": "$2.99",
       "unlockall_12": "$23.99",
-      "Happy Otaku Pack Vol.20": "$3.99"
+      "Happy Otaku Pack Vol.20": "$2.99",
+      "Aquaria Cruising Guide": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Aquaria Cruising Guide": "$3.99",
+            "Happy Otaku Pack Vol.20": "$2.99",
+            "Muse Dash・Legend": "$3.99",
+            "Cosmic Radio 2024": "$3.99",
+            "MSR Anthology_Vol.02": "$5.99",
+            "MDlevelTacticalTrainingBlu-ray": "$2.99",
+            "Touhou Mugakudan -IV-": "$3.99",
+            "Touhou Collection Bundle100": "$15.99",
+            "Touhou Collection Bundle88": "$12.99",
+            "Touhou Collection Bundle78": "$11.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745748131285,
@@ -33479,6 +33585,22 @@
     "history": [
       [
         {
+          "timestamp": 1745983031540,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "每日外刊": "$8.49",
+            "2年联合VIP会员": "$29.99",
+            "VIP连续包季": "$7.99",
+            "一年联合VIP会员": "$19.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$29.99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "$29.99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "$29.99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "$29.99",
+            "林小鹿英语精读（1-7季合集升级版）": "$69.99"
+          }
+        },
+        {
           "timestamp": 1745980211186,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -33639,10 +33761,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
@@ -36308,14 +36438,22 @@
   "1523633394": {
     "name": "SpongeBob SquarePants",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 9.99,
+      "formattedPrice": "$9.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -43605,10 +43743,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -43661,14 +43807,22 @@
   "1642715290": {
     "name": "Little Big Workshop",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 9.99,
+      "formattedPrice": "$9.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
@@ -43729,6 +43883,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745983031540,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Wedding Pack": "$4.99",
+            "Uniform Pack": "$3.99",
+            "Corrupted Pack": "$6.99",
+            "Monster Pack": "$19.99",
+            "Nurse Pack": "$4.99"
+          }
+        },
         {
           "timestamp": 1745980211186,
           "price": 4.99,
@@ -43931,6 +44102,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745378203223,
@@ -44301,10 +44483,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44381,8 +44571,8 @@
       "Cheongsam (New Year) Pack": "$0.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "Cyber Rabbit": "$0.99",
       "Bikini Pack": "$0.99",
       "Black Kitten Pack": "$0.99",
@@ -44394,6 +44584,24 @@
       "Cheongsam (New Year) Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Cyber Rabbit": "$0.99",
+            "Skinny Jeans Pack": "$0.99",
+            "Bikini Pack": "$0.99",
+            "Youthful Days Pack": "$0.99",
+            "Cheongsam (Blue Flowers)": "$0.99",
+            "Energetic Pack": "$0.99",
+            "Black Kitten Pack": "$0.99",
+            "学院兔皮肤": "$0.99",
+            "Cheongsam (New Year) Pack": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -49566,10 +49774,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -51450,6 +51666,14 @@
     "history": [
       [
         {
+          "timestamp": 1745983031540,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745551034698,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -52627,6 +52851,27 @@
             "Pack II": "$0.99",
             "Pack I": "$0.49"
           }
+        }
+      ]
+    ]
+  },
+  "6502905107": {
+    "name": "AListServer",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
         }
       ]
     ]

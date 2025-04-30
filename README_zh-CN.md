@@ -113,7 +113,7 @@
 |39|1671475521|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|
 |40|6479295005|❌|住宅夢物語 DX|住宅夢物語 DX|住宅夢物語 DX|Dream House Days DX|Dream House Days DX|
 |41|6744569015|❌|❌|❌|❌|Neon Labyrinth|❌|
-|42|6502905107|❌|❌|❌|❌|❌|AListServer|
+|42|6502905107|❌|AListServer|AListServer|AListServer|AListServer|AListServer|
 |43|400259071|❌|降雨警報器 Pro|降雨警報器 Pro|降雨警報器 Pro|Rain Alarm Pro Weather Radar|❌|
 |44|1139986977|❌|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|
 |45|1197552569|❌|Poly Bridge|Poly Bridge|Poly Bridge|Poly Bridge|Poly Bridge|

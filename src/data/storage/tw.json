@@ -54073,5 +54073,26 @@
         }
       ]
     ]
+  },
+  "6502905107": {
+    "name": "AListServer",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1745983031540,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
   }
 }
