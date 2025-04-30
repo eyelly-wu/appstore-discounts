@@ -14944,7 +14944,15 @@
       "Special Offer Faustus": "$4.99",
       "Prince Denas": "$2.99",
       "Wilbur": "$6.99",
-      "Xin": "$4.99"
+      "Xin": "$4.99",
+      "Big Hero Pack 3": "$14.99",
+      "Vault Of Gems": "$49.99",
+      "Wagon Of Gems": "$19.99",
+      "Chest Of Gems": "$9.99",
+      "Barrel Of Gems": "$4.99",
+      "Bag Of Gems": "$2.99",
+      "Lynn": "$4.99",
+      "Hero Pack 9": "$7.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -14958,9 +14966,36 @@
       "Special Offer Faustus": "$4.99",
       "Prince Denas": "$2.99",
       "Wilbur": "$6.99",
-      "Xin": "$4.99"
+      "Xin": "$4.99",
+      "Big Hero Pack 3": "$14.99",
+      "Vault Of Gems": "$49.99",
+      "Wagon Of Gems": "$19.99",
+      "Chest Of Gems": "$9.99",
+      "Barrel Of Gems": "$4.99",
+      "Bag Of Gems": "$2.99",
+      "Lynn": "$4.99",
+      "Hero Pack 9": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746028957031,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Big Hero Pack 3": "$14.99",
+            "Vault Of Gems": "$49.99",
+            "Wagon Of Gems": "$19.99",
+            "Chest Of Gems": "$9.99",
+            "Barrel Of Gems": "$4.99",
+            "Bag Of Gems": "$2.99",
+            "Wilbur": "$6.99",
+            "Bruce": "$4.99",
+            "Lynn": "$4.99",
+            "Hero Pack 9": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
@@ -28948,11 +28983,21 @@
       "Notes Writer Pro AI Assistant": "$3.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Notes Writer Pro AI Assistant": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746028957031,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1735444953134,
@@ -32911,7 +32956,17 @@
       "Flash Sale Crystal 3": "$1.99",
       "LegendaryPackage": "$19.99",
       "Flash Sale Star Rune 1": "$2.99",
-      "BundleSupporter Crystal 2": "$19.99"
+      "BundleSupporter Crystal 2": "$19.99",
+      "Dynasty Hero Set": "$19.99",
+      "Dynasty Pet": "$14.99",
+      "Ultimate Amulet": "$5.99",
+      "Ultimate Ring": "$5.99",
+      "Ultimate Pet": "$5.99",
+      "Ultimate Ancient": "$12.99",
+      "Royal Rune": "$2.99",
+      "Norths Warden Pet Pack": "$14.99",
+      "Norths Warden Set": "$19.99",
+      "Black Friday Combo Items": "$29.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -32927,10 +32982,37 @@
       "Flash Sale Crystal 3": "$1.99",
       "LegendaryPackage": "$19.99",
       "Flash Sale Star Rune 1": "$2.99",
-      "BundleSupporter Crystal 2": "$19.99"
+      "BundleSupporter Crystal 2": "$19.99",
+      "Dynasty Hero Set": "$19.99",
+      "Dynasty Pet": "$14.99",
+      "Ultimate Amulet": "$5.99",
+      "Ultimate Ring": "$5.99",
+      "Ultimate Pet": "$5.99",
+      "Ultimate Ancient": "$12.99",
+      "Royal Rune": "$2.99",
+      "Norths Warden Pet Pack": "$14.99",
+      "Norths Warden Set": "$19.99",
+      "Black Friday Combo Items": "$29.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746028957031,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "$19.99",
+            "Dynasty Pet": "$14.99",
+            "Ultimate Amulet": "$5.99",
+            "Ultimate Ring": "$5.99",
+            "Ultimate Pet": "$5.99",
+            "Ultimate Ancient": "$12.99",
+            "Royal Rune": "$2.99",
+            "Norths Warden Pet Pack": "$14.99",
+            "Norths Warden Set": "$19.99",
+            "Black Friday Combo Items": "$29.99"
+          }
+        },
         {
           "timestamp": 1745985748755,
           "price": 0.99,
@@ -49428,13 +49510,25 @@
       "《The Great Conquest》": "$1.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99",
+      "price": 5.99,
+      "formattedPrice": "$5.99",
       "《Her Vanishing Silhouette》": "$2.99",
       "《Canvas of Heroes》": "$0.99",
       "《The Great Conquest》": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746028957031,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "《Her Vanishing Silhouette》": "$2.99",
+            "《Canvas of Heroes》": "$0.99",
+            "《The Great Conquest》": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

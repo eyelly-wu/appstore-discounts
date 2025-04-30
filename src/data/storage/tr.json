@@ -6654,6 +6654,23 @@
     "history": [
       [
         {
+          "timestamp": 1746028957031,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Necroa Virus Expansion Pack": "₺99,99",
+            "Unlock 7 Standard Plagues": "₺129,99",
+            "Unlock Virus": "₺39,99",
+            "Neurax Worm Expansion Pack": "₺99,99",
+            "Unlock All Genes": "₺349,99",
+            "Scenario Pack": "₺129,99",
+            "Simian Flu Expansion Pack": "₺99,99",
+            "Unlock Cheats": "₺449,99",
+            "Plague Pack": "₺599,99",
+            "Shadow Plague Expansion Pack": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1746025355466,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -37354,13 +37371,25 @@
       "《Her Vanishing Silhouette》": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 249.99,
+      "formattedPrice": "₺249,99",
       "《The Great Conquest》": "₺99,99",
       "《Canvas of Heroes》": "₺39,99",
       "《Her Vanishing Silhouette》": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746028957031,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "《The Great Conquest》": "₺99,99",
+            "《Canvas of Heroes》": "₺39,99",
+            "《Her Vanishing Silhouette》": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

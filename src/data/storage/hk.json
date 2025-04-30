@@ -4137,6 +4137,25 @@
     "history": [
       [
         {
+          "timestamp": 1746028957031,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Called Shot 50": "HK$ 88.00",
+            "Called Shot 4": "HK$ 8.00",
+            "GOLD BAT": "HK$ 118.00",
+            "AllLevel_5up": "HK$ 88.00",
+            "AllLevel_1up": "HK$ 22.00",
+            "EyeLevel_5up": "HK$ 32.00",
+            "EyeLevel_1up": "HK$ 8.00",
+            "ContactLevel_5up": "HK$ 32.00",
+            "ContactLevel_1up": "HK$ 8.00",
+            "PowerLevel_5up": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745759192952,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -49798,13 +49817,25 @@
       "擴展內容《一統江湖》": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00",
+      "price": 48,
+      "formattedPrice": "HK$ 48.00",
       "擴展內容《倩影萍蹤》": "HK$ 22.00",
       "擴展內容《新顏繪夢》": "HK$ 8.00",
       "擴展內容《一統江湖》": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746028957031,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "擴展內容《倩影萍蹤》": "HK$ 22.00",
+            "擴展內容《新顏繪夢》": "HK$ 8.00",
+            "擴展內容《一統江湖》": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
