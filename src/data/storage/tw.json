@@ -17349,6 +17349,25 @@
     "history": [
       [
         {
+          "timestamp": 1745985748755,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Special pack": "$150.00",
+            "Small pack": "$30.00",
+            "Great pack": "$320.00",
+            "Big pack": "$690.00",
+            "Handful of caps": "$30.00",
+            "Seasonal event item": "$2,990.00",
+            "Legendary pack": "$2,990.00",
+            "Pile of caps": "$150.00",
+            "Huge pack": "$1,490.00",
+            "Standart pack": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745913790657,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -20045,6 +20064,24 @@
       "Get the factory door unlock": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745985748755,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "$30.00",
+            "Get coffin password": "$30.00",
+            "Get the main entrance lighthouse passcode": "$30.00",
+            "Pyramid obtain dial pointer display mode": "$30.00",
+            "Props Tip: Pyramid": "$30.00",
+            "Props Tip: Temple corner": "$30.00",
+            "Props Tip: flower": "$30.00",
+            "Get inside the temple door password": "$30.00",
+            "Rockets get the door unlocking": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -42662,7 +42699,8 @@
       "電湧石魔": "$90.00",
       "織珠": "$150.00",
       "塔和英雄提供3": "$290.00",
-      "精靈星象儀": "$150.00"
+      "精靈星象儀": "$150.00",
+      "幽冥戰魂": "$220.00"
     },
     "minPriceInfo": {
       "price": 220,
@@ -42681,9 +42719,27 @@
       "電湧石魔": "$90.00",
       "織珠": "$150.00",
       "塔和英雄提供3": "$290.00",
-      "精靈星象儀": "$150.00"
+      "精靈星象儀": "$150.00",
+      "幽冥戰魂": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745985748755,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "巨大的威脅": "$290.00",
+            "所有塔": "$690.00",
+            "所有英雄": "$990.00",
+            "Hero Lumenir": "$220.00",
+            "科斯米爾": "$220.00",
+            "骷心巫龍": "$220.00",
+            "沙丘哨兵": "$90.00",
+            "幽冥戰魂": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745913790657,
@@ -44626,6 +44682,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745985748755,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744268532709,
@@ -52401,6 +52465,25 @@
       "ASK 21": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745985748755,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "Airbus A350-1000": "$120.00",
+            "The Aircraft Bundle": "$590.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 777-300ER": "$60.00",
+            "Concorde": "$60.00",
+            "Airbus A380": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Boeing 737 MAX 9": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745798968722,
