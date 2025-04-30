@@ -16419,7 +16419,14 @@
       "345,000 points": "₺699,99",
       "50 kilometers": "₺99,99",
       "300,000 points": "₺349,99",
-      "600,000 points": "₺999,99"
+      "600,000 points": "₺999,99",
+      "7,000,000 points": "₺3.499,99",
+      "500,000 points": "₺449,99",
+      "2,100,000 points": "₺1.499,99",
+      "1,500,000 points": "₺999,99",
+      "850,000 points": "₺699,99",
+      "10,000,000 points": "₺4.499,99",
+      "3,750,000 points": "₺2.299,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -16433,9 +16440,35 @@
       "345,000 points": "₺699,99",
       "50 kilometers": "₺99,99",
       "300,000 points": "₺349,99",
-      "600,000 points": "₺999,99"
+      "600,000 points": "₺999,99",
+      "7,000,000 points": "₺3.499,99",
+      "500,000 points": "₺449,99",
+      "2,100,000 points": "₺1.499,99",
+      "1,500,000 points": "₺999,99",
+      "850,000 points": "₺699,99",
+      "10,000,000 points": "₺4.499,99",
+      "3,750,000 points": "₺2.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746054146112,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "7,000,000 points": "₺3.499,99",
+            "500,000 points": "₺449,99",
+            "2,100,000 points": "₺1.499,99",
+            "100,000 points": "₺129,99",
+            "25,000 points": "₺39,99",
+            "1,500,000 points": "₺999,99",
+            "850,000 points": "₺699,99",
+            "10,000,000 points": "₺4.499,99",
+            "3,750,000 points": "₺2.299,99",
+            "300,000 points": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -17394,6 +17427,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746054146112,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744326144366,
@@ -19335,6 +19376,14 @@
     "history": [
       [
         {
+          "timestamp": 1746054146112,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744930945442,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -20892,6 +20941,25 @@
     "history": [
       [
         {
+          "timestamp": 1746054146112,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Endless Pirouette": "₺249,99",
+            "Novice Rider Pack": "₺39,99",
+            "MSR Anthology_Vol.02": "₺179,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "MDlevelTacticalTrainingBlu-ray": "₺129,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99",
+            "Valentine Stage": "₺179,99",
+            "Let's GROOVE": "₺179,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745989342321,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -22277,15 +22345,29 @@
       "Treasures Editor": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 599.99,
-      "formattedPrice": "₺599,99",
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
       "Dawn of Heroes": "₺179,99",
-      "Feature DLC": "₺179,99",
-      "Art Upgrade Pack": "₺179,99",
-      "Heroes Assemble": "₺179,99",
+      "Feature DLC": "₺129,99",
+      "Art Upgrade Pack": "₺129,99",
+      "Heroes Assemble": "₺129,99",
       "Treasures Editor": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746054146112,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Dawn of Heroes": "₺179,99",
+            "Feature DLC": "₺129,99",
+            "Art Upgrade Pack": "₺129,99",
+            "Heroes Assemble": "₺129,99",
+            "Treasures Editor": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745560983791,
@@ -22379,6 +22461,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746054146112,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744930945442,
@@ -25093,6 +25183,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746054146112,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744326144366,
@@ -28260,10 +28358,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746054146112,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -30811,8 +30917,8 @@
       "Gems pack 1": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99",
+      "price": 19.99,
+      "formattedPrice": "₺19,99",
       "Starter pack": "₺229,99",
       "Stars pack 3": "₺129,99",
       "Stars Pack 2": "₺99,99",
@@ -30822,6 +30928,22 @@
       "Gems pack 1": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746054146112,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Starter pack": "₺229,99",
+            "Stars pack 3": "₺129,99",
+            "Stars Pack 2": "₺99,99",
+            "Stars Pack 1": "₺39,99",
+            "Gems pack 3": "₺129,99",
+            "Gems pack 2": "₺99,99",
+            "Gems pack 1": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,
@@ -30876,6 +30998,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746054146112,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745708536984,
@@ -31052,6 +31182,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746054146112,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744239726946,
@@ -33075,10 +33213,18 @@
       "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746054146112,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,
