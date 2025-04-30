@@ -18036,7 +18036,8 @@
       "擴充章節 U": "HK$ 32.00",
       "擴充章節B": "HK$ 32.00",
       "支線第一章": "HK$ 32.00",
-      "擴充章節 I": "HK$ 32.00"
+      "擴充章節 I": "HK$ 32.00",
+      "一小瓶迴響之核": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -18050,9 +18051,29 @@
       "擴充章節 U": "HK$ 32.00",
       "擴充章節B": "HK$ 32.00",
       "支線第一章": "HK$ 32.00",
-      "擴充章節 I": "HK$ 32.00"
+      "擴充章節 I": "HK$ 32.00",
+      "一小瓶迴響之核": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746050536563,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "白金方案（每月續訂）": "HK$ 48.00",
+            "基本方案（每月續訂）": "HK$ 8.00",
+            "白金方案（每三個月續訂）": "HK$ 118.00",
+            "Radiant Star Trail 限時挑戰書": "HK$ 32.00",
+            "擴充章節 U": "HK$ 32.00",
+            "一小瓶迴響之核": "HK$ 8.00",
+            "支線第一章": "HK$ 32.00",
+            "擴充章節H": "HK$ 32.00",
+            "主線第八章": "HK$ 88.00",
+            "擴充章節B": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745517753203,
@@ -21609,6 +21630,19 @@
       "Monthly Subscription": "HK$ 43.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746050536563,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "HK$ 198.00",
+            "Yearly Subscription": "HK$ 158.00",
+            "Lifetime license": "HK$ 388.00",
+            "Monthly Subscription": "HK$ 43.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743310937729,
@@ -44195,6 +44229,23 @@
     "history": [
       [
         {
+          "timestamp": 1746050536563,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "巨大的威脅": "HK$ 58.00",
+            "所有英雄": "HK$ 228.00",
+            "所有塔": "HK$ 148.00",
+            "Hero Lumenir": "HK$ 58.00",
+            "科斯米爾": "HK$ 58.00",
+            "骷心巫龍": "HK$ 58.00",
+            "蜘蛛優惠": "HK$ 58.00",
+            "希瓦菈": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745953326469,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -52233,6 +52284,25 @@
       "Boeing 737": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746050536563,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 32.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "The Aircraft Bundle": "HK$ 148.00",
+            "Global scenery - 12 months": "HK$ 98.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Boeing 737-900": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 737 MAX 9": "HK$ 18.00",
+            "Concorde": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745964133022,

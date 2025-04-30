@@ -1986,8 +1986,8 @@
   "384363262": {
     "name": "13:20:Sync",
     "maxPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00",
+      "price": 150,
+      "formattedPrice": "$150.00",
       "Notes - Tzolkin/13Moon Cycles": "$90.00",
       "Tip Jar: Small Coffee": "$60.00",
       "Tip Jar: Large Coffee": "$320.00",
@@ -2002,6 +2002,19 @@
       "Tip Jar: Medium Coffee": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746050536563,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "$90.00",
+            "Tip Jar: Small Coffee": "$60.00",
+            "Tip Jar: Large Coffee": "$320.00",
+            "Tip Jar: Medium Coffee": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745503347397,
