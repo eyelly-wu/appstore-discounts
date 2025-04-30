@@ -20616,6 +20616,14 @@
     "history": [
       [
         {
+          "timestamp": 1746021743211,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744293741935,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -22575,6 +22583,14 @@
     "history": [
       [
         {
+          "timestamp": 1746021743211,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744898539585,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -24256,6 +24272,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746021743211,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "unlockall_29": "$1,120.00",
+            "cyTus": "$190.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "MSR特選曲目組合包": "$130.00",
+            "新手上路包": "$33.00",
+            "放棄治療 Vol.3": "$130.00",
+            "Miku in Museland": "$290.00",
+            "MSR特選曲目組合包_Vol.02": "$130.00",
+            "Let's GROOVE": "$130.00"
+          }
+        },
         {
           "timestamp": 1745949781693,
           "price": 100,
@@ -28749,15 +28782,29 @@
       "出類拔萃": "$120.00"
     },
     "minPriceInfo": {
-      "price": 390,
-      "formattedPrice": "$390.00",
+      "price": 120,
+      "formattedPrice": "$120.00",
       "寶物編輯器": "$30.00",
       "蒼天之志": "$120.00",
-      "美術升級包": "$120.00",
-      "群英薈": "$120.00",
-      "出類拔萃": "$120.00"
+      "美術升級包": "$90.00",
+      "群英薈": "$90.00",
+      "出類拔萃": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "寶物編輯器": "$30.00",
+            "蒼天之志": "$120.00",
+            "美術升級包": "$90.00",
+            "群英薈": "$90.00",
+            "出類拔萃": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745560983791,
@@ -28835,6 +28882,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744898539585,
@@ -33508,6 +33563,14 @@
     "history": [
       [
         {
+          "timestamp": 1746021743211,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744293741935,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -36380,8 +36443,8 @@
   "1505636751": {
     "name": "TeleGuard",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免費",
+      "price": 30,
+      "formattedPrice": "$30.00",
       "Advanced calls": "$120.00",
       "Advanced calls promo": "$90.00",
       "Channel": "$220.00",
@@ -36408,6 +36471,25 @@
       "Small coffee": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Advanced calls": "$120.00",
+            "Advanced calls promo": "$90.00",
+            "Channel": "$220.00",
+            "100$": "$2,990.00",
+            "20$": "$690.00",
+            "5$": "$150.00",
+            "TeleGuard ID": "$90.00",
+            "Big coffee": "$150.00",
+            "Medium coffee": "$90.00",
+            "Small coffee": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -36887,10 +36969,18 @@
       "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 20,
+      "formattedPrice": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -39568,8 +39658,8 @@
       "Stars Pack 1": "$30.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 20,
+      "formattedPrice": "$20.00",
       "Gems pack 3": "$90.00",
       "Gems pack 2": "$60.00",
       "Gems pack 1": "$30.00",
@@ -39579,6 +39669,22 @@
       "Stars Pack 1": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "Gems pack 3": "$90.00",
+            "Gems pack 2": "$60.00",
+            "Gems pack 1": "$30.00",
+            "Starter pack": "$150.00",
+            "Stars pack 3": "$90.00",
+            "Stars Pack 2": "$60.00",
+            "Stars Pack 1": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,
@@ -39633,6 +39739,14 @@
       "formattedPrice": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,
@@ -39838,6 +39952,14 @@
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744207375612,
@@ -42449,10 +42571,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,
@@ -49670,6 +49800,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745582600664,

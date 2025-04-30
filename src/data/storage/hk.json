@@ -20612,6 +20612,14 @@
     "history": [
       [
         {
+          "timestamp": 1746021743211,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744293741935,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -22645,6 +22653,14 @@
     "history": [
       [
         {
+          "timestamp": 1746021743211,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744898539585,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -24511,6 +24527,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746021743211,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 28.00",
+            "新手上路包": "HK$ 8.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 28.00",
+            "Miku in Museland": "HK$ 68.00"
+          }
+        },
         {
           "timestamp": 1745953326469,
           "price": 23,
@@ -29438,15 +29471,29 @@
       "出類拔萃": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 98,
-      "formattedPrice": "HK$ 98.00",
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
       "蒼天之志": "HK$ 32.00",
       "寶物編輯器": "HK$ 8.00",
-      "美術升級包": "HK$ 32.00",
-      "群英薈": "HK$ 32.00",
-      "出類拔萃": "HK$ 32.00"
+      "美術升級包": "HK$ 22.00",
+      "群英薈": "HK$ 22.00",
+      "出類拔萃": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "寶物編輯器": "HK$ 8.00",
+            "蒼天之志": "HK$ 32.00",
+            "美術升級包": "HK$ 22.00",
+            "群英薈": "HK$ 22.00",
+            "出類拔萃": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745560983791,
@@ -29524,6 +29571,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744898539585,
@@ -34661,6 +34716,14 @@
     "history": [
       [
         {
+          "timestamp": 1746021743211,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744293741935,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -37779,10 +37842,18 @@
       "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 2,
+      "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -40535,8 +40606,8 @@
       "Gems pack 1": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
       "Stars pack 3": "HK$ 22.00",
       "Starter pack": "HK$ 38.00",
       "Stars Pack 2": "HK$ 18.00",
@@ -40546,6 +40617,22 @@
       "Gems pack 1": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Stars pack 3": "HK$ 22.00",
+            "Starter pack": "HK$ 38.00",
+            "Stars Pack 2": "HK$ 18.00",
+            "Stars Pack 1": "HK$ 8.00",
+            "Gems pack 3": "HK$ 22.00",
+            "Gems pack 2": "HK$ 18.00",
+            "Gems pack 1": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,
@@ -40600,6 +40687,14 @@
       "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,
@@ -40897,6 +40992,14 @@
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744207375612,
@@ -43449,10 +43552,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,
@@ -48930,6 +49041,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746021743211,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745582600664,
