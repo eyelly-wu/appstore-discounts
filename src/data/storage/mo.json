@@ -344,7 +344,10 @@
       "30,000 coins": "USD 2.99",
       "Soccer coins": "USD 0.99",
       "300,000 gold": "USD 2.99",
-      "100,000 gold": "USD 1.99"
+      "100,000 gold": "USD 1.99",
+      "500 eggs": "USD 0.99",
+      "5000 eggs": "USD 1.99",
+      "10,000 gold": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -358,9 +361,31 @@
       "30,000 coins": "USD 2.99",
       "Soccer coins": "USD 0.99",
       "300,000 gold": "USD 2.99",
-      "100,000 gold": "USD 1.99"
+      "100,000 gold": "USD 1.99",
+      "500 eggs": "USD 0.99",
+      "5000 eggs": "USD 1.99",
+      "10,000 gold": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746039726275,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "10,000 coins": "USD 1.99",
+            "1000 coins": "USD 0.99",
+            "30,000 coins": "USD 2.99",
+            "1000 candies": "USD 0.99",
+            "10000 candies": "USD 2.99",
+            "500 eggs": "USD 0.99",
+            "5000 eggs": "USD 1.99",
+            "15000 eggs": "USD 2.99",
+            "100,000 coins": "USD 3.99",
+            "10,000 gold": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -3428,7 +3453,16 @@
       "DubTechno": "USD 1.99",
       "Chill-Lo-Fi Mobile": "USD 1.99",
       "Technocraft": "USD 1.99",
-      "Brazil Bass": "USD 1.99"
+      "Brazil Bass": "USD 1.99",
+      "Varazdin Orchestral Mobile": "USD 3.99",
+      "Sliced Beats": "USD 0.99",
+      "SFX": "USD 0.00",
+      "Amped Guitar & Bass": "USD 2.99",
+      "Synth Lead": "USD 1.99",
+      "Transistor Bass": "USD 0.00",
+      "Groove Machine Synth": "USD 0.00",
+      "Voices": "USD 0.99",
+      "Acoustic Guitars": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 14.99,
@@ -3442,9 +3476,37 @@
       "DubTechno": "USD 1.99",
       "Chill-Lo-Fi Mobile": "USD 1.99",
       "Technocraft": "USD 1.99",
-      "Brazil Bass": "USD 1.99"
+      "Brazil Bass": "USD 1.99",
+      "Varazdin Orchestral Mobile": "USD 3.99",
+      "Sliced Beats": "USD 0.99",
+      "SFX": "USD 0.00",
+      "Amped Guitar & Bass": "USD 2.99",
+      "Synth Lead": "USD 1.99",
+      "Transistor Bass": "USD 0.00",
+      "Groove Machine Synth": "USD 0.00",
+      "Voices": "USD 0.99",
+      "Acoustic Guitars": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746039726275,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "Varazdin Orchestral Mobile": "USD 3.99",
+            "Drumaxx": "USD 1.99",
+            "Sliced Beats": "USD 0.99",
+            "SFX": "USD 0.00",
+            "Amped Guitar & Bass": "USD 2.99",
+            "Synth Lead": "USD 1.99",
+            "Transistor Bass": "USD 0.00",
+            "Groove Machine Synth": "USD 0.00",
+            "Voices": "USD 0.99",
+            "Acoustic Guitars": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
