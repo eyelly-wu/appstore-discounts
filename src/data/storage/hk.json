@@ -29781,6 +29781,27 @@
       ]
     ]
   },
+  "1387331406": {
+    "name": "Flamelet",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746025355466,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1389752090": {
     "name": "Dead Cells",
     "maxPriceInfo": {
@@ -37363,12 +37384,31 @@
       "100$": "HK$ 788.00",
       "20$": "HK$ 148.00",
       "5$": "HK$ 38.00",
-      "TeleGuard ID": "HK$ 22.00",
+      "TeleGuard ID": "HK$ 18.00",
       "Big coffee": "HK$ 38.00",
       "Medium coffee": "HK$ 22.00",
       "Small coffee": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746025355466,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Advanced calls": "HK$ 28.00",
+            "Advanced calls promo": "HK$ 18.00",
+            "Channel": "HK$ 58.00",
+            "100$": "HK$ 788.00",
+            "20$": "HK$ 148.00",
+            "5$": "HK$ 38.00",
+            "TeleGuard ID": "HK$ 18.00",
+            "Big coffee": "HK$ 38.00",
+            "Medium coffee": "HK$ 22.00",
+            "Small coffee": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

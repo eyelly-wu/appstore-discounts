@@ -6654,6 +6654,25 @@
     "history": [
       [
         {
+          "timestamp": 1746025355466,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Procurement Director": "₺39,99",
+            "Disaster Manager": "₺39,99",
+            "Medical Coordinator": "₺39,99",
+            "Ethics Watchdog": "₺39,99",
+            "Chaos Engineer": "₺39,99",
+            "Economic Forecaster": "₺39,99",
+            "Situation Director": "₺39,99",
+            "Outreach Coordinator": "₺39,99",
+            "Fast Response EMTs": "₺39,99",
+            "Strategic Fundraiser": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745935349811,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -22366,6 +22385,27 @@
       ]
     ]
   },
+  "1387331406": {
+    "name": "Flamelet",
+    "maxPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746025355466,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1389752090": {
     "name": "Dead Cells",
     "maxPriceInfo": {
@@ -27533,7 +27573,7 @@
       "price": 35,
       "formattedPrice": "₺35,00",
       "5$": "₺229,99",
-      "TeleGuard ID": "₺129,99",
+      "TeleGuard ID": "₺99,99",
       "Advanced calls": "₺149,99",
       "Advanced calls promo": "₺99,99",
       "Channel": "₺299,99",
@@ -27544,6 +27584,25 @@
       "Small coffee": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746025355466,
+          "price": 35,
+          "formattedPrice": "₺35,00",
+          "inAppPurchases": {
+            "5$": "₺229,99",
+            "TeleGuard ID": "₺99,99",
+            "Advanced calls": "₺149,99",
+            "Advanced calls promo": "₺99,99",
+            "Channel": "₺299,99",
+            "100$": "₺4.499,99",
+            "20$": "₺899,99",
+            "Big coffee": "₺229,99",
+            "Medium coffee": "₺129,99",
+            "Small coffee": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

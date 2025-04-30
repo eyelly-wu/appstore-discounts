@@ -22532,6 +22532,27 @@
       ]
     ]
   },
+  "1387331406": {
+    "name": "Flamelet",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746025355466,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1389752090": {
     "name": "Dead Cells",
     "maxPriceInfo": {
@@ -30304,12 +30325,31 @@
       "100$": "USD 99.99",
       "20$": "USD 19.99",
       "5$": "USD 4.99",
-      "TeleGuard ID": "USD 2.99",
+      "TeleGuard ID": "USD 2.09",
       "Big coffee": "USD 4.99",
       "Medium coffee": "USD 2.99",
       "Small coffee": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746025355466,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Advanced calls": "USD 3.49",
+            "Advanced calls promo": "USD 2.49",
+            "Channel": "USD 7.00",
+            "100$": "USD 99.99",
+            "20$": "USD 19.99",
+            "5$": "USD 4.99",
+            "TeleGuard ID": "USD 2.09",
+            "Big coffee": "USD 4.99",
+            "Medium coffee": "USD 2.99",
+            "Small coffee": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

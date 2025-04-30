@@ -12448,6 +12448,25 @@
     "history": [
       [
         {
+          "timestamp": 1746025355466,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "$120.00",
+            "Ayatsugu_Otowa Collection": "$120.00",
+            "Sherwin Collection": "$120.00",
+            "Capchii Collection": "$120.00",
+            "VII Bundle 06": "$390.00",
+            "VII Bundle 05": "$390.00",
+            "VII Bundle 03": "$220.00",
+            "VII Bundle 02": "$150.00",
+            "VII Bundle 04": "$290.00",
+            "VII Bundle 01": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745913790657,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -29092,6 +29111,27 @@
       ]
     ]
   },
+  "1387331406": {
+    "name": "Flamelet",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746025355466,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1389752090": {
     "name": "Dead Cells",
     "maxPriceInfo": {
@@ -36465,13 +36505,30 @@
       "100$": "$2,990.00",
       "20$": "$690.00",
       "5$": "$150.00",
-      "TeleGuard ID": "$90.00",
+      "TeleGuard ID": "$60.00",
       "Big coffee": "$150.00",
       "Medium coffee": "$90.00",
       "Small coffee": "$30.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1746025355466,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Advanced calls": "$120.00",
+            "Advanced calls promo": "$90.00",
+            "Channel": "$220.00",
+            "100$": "$2,990.00",
+            "20$": "$690.00",
+            "5$": "$150.00",
+            "TeleGuard ID": "$60.00",
+            "Big coffee": "$150.00",
+            "Medium coffee": "$90.00",
+            "Small coffee": "$30.00"
+          }
+        },
         {
           "timestamp": 1746021743211,
           "price": 30,
