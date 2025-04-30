@@ -20047,7 +20047,8 @@
       "Props Tip: flower": "$30.00",
       "Get inside the temple door password": "$30.00",
       "Rockets get the door unlocking": "$30.00",
-      "Get the factory door unlock": "$30.00"
+      "Get the factory door unlock": "$30.00",
+      "Open the box to the sea": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -20061,10 +20062,27 @@
       "Props Tip: flower": "$30.00",
       "Get inside the temple door password": "$30.00",
       "Rockets get the door unlocking": "$30.00",
-      "Get the factory door unlock": "$30.00"
+      "Get the factory door unlock": "$30.00",
+      "Open the box to the sea": "$30.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1745989342321,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "$30.00",
+            "Get coffin password": "$30.00",
+            "Get the main entrance lighthouse passcode": "$30.00",
+            "Pyramid obtain dial pointer display mode": "$30.00",
+            "Props Tip: Pyramid": "$30.00",
+            "Props Tip: Temple corner": "$30.00",
+            "Props Tip: flower": "$30.00",
+            "Open the box to the sea": "$30.00",
+            "Get inside the temple door password": "$30.00"
+          }
+        },
         {
           "timestamp": 1745985748755,
           "price": 30,
@@ -20257,13 +20275,25 @@
     "name": "Bully: Anniversary Edition",
     "maxPriceInfo": {
       "price": 220,
-      "formattedPrice": "$220.00"
+      "formattedPrice": "$220.00",
+      "完整版遊戲": "$220.00"
     },
     "minPriceInfo": {
       "price": 220,
-      "formattedPrice": "$220.00"
+      "formattedPrice": "$220.00",
+      "完整版遊戲": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745989342321,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "完整版遊戲": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
@@ -42725,6 +42755,21 @@
     "history": [
       [
         {
+          "timestamp": 1745989342321,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "巨大的威脅": "$290.00",
+            "所有塔": "$690.00",
+            "所有英雄": "$990.00",
+            "Hero Lumenir": "$220.00",
+            "科斯米爾": "$220.00",
+            "骷心巫龍": "$220.00",
+            "沙丘哨兵": "$90.00",
+            "精靈星象儀": "$150.00"
+          }
+        },
+        {
           "timestamp": 1745985748755,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -43849,6 +43894,25 @@
       "墮落禮包": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745989342321,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Autonomy": "$90.00",
+            "Time Flow": "$90.00",
+            "賽季通行證": "$220.00",
+            "角色通行證": "$390.00",
+            "勇者研究": "$190.00",
+            "尼奧禮包": "$150.00",
+            "婚禮禮包": "$150.00",
+            "解鎖性質": "$220.00",
+            "鍛造禮包": "$220.00",
+            "賽季０戰鬥通行證": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745899367258,
@@ -49469,6 +49533,21 @@
     "history": [
       [
         {
+          "timestamp": 1745989342321,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品": "$120.00",
+            "12.99美元商品": "$390.00",
+            "9.99美元商品": "$320.00",
+            "0.99美元商品": "$30.00",
+            "19.99美元商品": "$690.00",
+            "39.99美元商品": "$1,290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745661727084,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -50461,6 +50540,25 @@
       "2025春いちごスキン": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745989342321,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "2025春イースタースキン": "$30.00",
+            "花火大會": "$30.00",
+            "2025春さくらスキン": "$20.00",
+            "2025春いちごスキン": "$20.00",
+            "萬聖派對": "$30.00",
+            "新年日出": "$30.00",
+            "聖誕夜": "$30.00",
+            "紅葉漫步": "$30.00",
+            "賞燈月夜": "$20.00",
+            "夏日庭院": "$20.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745890187029,
@@ -52466,6 +52564,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745989342321,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "Airbus A350-1000": "$120.00",
+            "The Aircraft Bundle": "$590.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 777-300ER": "$60.00",
+            "Concorde": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A380": "$60.00",
+            "Airbus A321": "$60.00"
+          }
+        },
         {
           "timestamp": 1745985748755,
           "price": 120,

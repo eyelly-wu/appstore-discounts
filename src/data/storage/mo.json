@@ -17456,13 +17456,25 @@
     "name": "Bully: Anniversary Edition",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "formattedPrice": "USD 6.99",
+      "完整版遊戲": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "formattedPrice": "USD 6.99",
+      "完整版遊戲": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745989342321,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "完整版遊戲": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,

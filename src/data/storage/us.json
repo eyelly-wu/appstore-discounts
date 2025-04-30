@@ -3784,6 +3784,25 @@
     "history": [
       [
         {
+          "timestamp": 1745989342321,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$1.99",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745920958661,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -9662,6 +9681,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745989342321,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        },
         {
           "timestamp": 1745985748755,
           "price": 1.99,
@@ -17612,7 +17648,8 @@
       "Small bottle of Chiming Core": "$0.99",
       "Expansion Ch. U": "$3.99",
       "Side Story Chapter 2": "$3.99",
-      "Expansion Chapter I": "$3.99"
+      "Expansion Chapter I": "$3.99",
+      "Expansion Chapter E": "$3.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -17628,9 +17665,29 @@
       "Small bottle of Chiming Core": "$0.99",
       "Expansion Ch. U": "$3.99",
       "Side Story Chapter 2": "$3.99",
-      "Expansion Chapter I": "$3.99"
+      "Expansion Chapter I": "$3.99",
+      "Expansion Chapter E": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745989342321,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "$7.99",
+            "Platinum Plan - Trimonthly": "$19.99",
+            "Side Story Chapter 1": "$3.99",
+            "Basic Plan - Monthly": "$1.49",
+            "Radiant Star Trail Pass": "$3.99",
+            "Expansion Chapter B": "$3.99",
+            "Expansion Chapter H": "$3.99",
+            "Main Story Ch. VIII": "$9.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Chapter E": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745899367258,
@@ -19570,13 +19627,25 @@
     "name": "Bully: Anniversary Edition",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "$6.99"
+      "formattedPrice": "$6.99",
+      "Anniversary Edition Full Game": "$6.99"
     },
     "minPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "$6.99"
+      "formattedPrice": "$6.99",
+      "Anniversary Edition Full Game": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745989342321,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Anniversary Edition Full Game": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
@@ -21079,6 +21148,25 @@
       "Hero Mortemis": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745989342321,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Hero Tank": "$5.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Tower Goblin War Zeppelin": "$6.99",
+            "Hero Mortemis": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745910143132,
@@ -23499,6 +23587,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745989342321,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        },
         {
           "timestamp": 1745985748755,
           "price": 2.99,
@@ -42644,6 +42748,25 @@
     "history": [
       [
         {
+          "timestamp": 1745989342321,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Mega Tower Bundle": "$14.99",
+            "All Towers": "$19.99",
+            "Tower Necromancer": "$4.99",
+            "All Heroes": "$19.99",
+            "Tower Dune Sentinels": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745910143132,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -49323,6 +49446,23 @@
     "history": [
       [
         {
+          "timestamp": 1745989342321,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Moonlight and Lanterns": "$1.19",
+            "2025春ネモフィラスキン": "$0.49",
+            "2025春イースタースキン": "$0.99",
+            "Christmas night": "$1.79",
+            "New Year's Sunrise": "$1.79",
+            "Wagashi Whispers": "$1.19",
+            "Halloween Party": "$1.79",
+            "Fireworks display": "$1.79"
+          }
+        },
+        {
           "timestamp": 1745985748755,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -50316,6 +50456,25 @@
       "Germany Locomotive A": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745989342321,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$29.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$9.99",
+            "Europe Map": "$8.99",
+            "Ticket to Ride ChristmasBundle": "$4.99",
+            "Japan Expansion Bundle": "$7.99",
+            "Nordic Bundle": "$7.99",
+            "LegendaryAsia Expansion Bundle": "$7.99",
+            "San Francisco Expansion Bundle": "$7.99",
+            "Nordic Map": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745910143132,
@@ -51325,6 +51484,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745989342321,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Airbus A350-1000": "$3.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 737-900": "$1.99",
+            "Global scenery - 3 months": "$6.99"
+          }
+        },
         {
           "timestamp": 1745985748755,
           "price": 3.99,
@@ -52486,7 +52662,8 @@
       "Bundle MLB 2010s": "$4.99",
       "Bundle MLB 1980s": "$4.99",
       "Season MLB 1901": "$0.99",
-      "Season MLB 2019": "$0.99"
+      "Season MLB 2019": "$0.99",
+      "Season MLB 2016": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -52510,9 +52687,29 @@
       "Bundle MLB 2010s": "$4.99",
       "Bundle MLB 1980s": "$4.99",
       "Season MLB 1901": "$0.99",
-      "Season MLB 2019": "$0.99"
+      "Season MLB 2019": "$0.99",
+      "Season MLB 2016": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745989342321,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "Bundle MLB 1990s": "$4.99",
+            "Season MLB 2019": "$0.99",
+            "Season MLB 2016": "$0.99",
+            "Season MLB 2024": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745899367258,
