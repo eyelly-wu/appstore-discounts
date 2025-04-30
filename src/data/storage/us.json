@@ -733,6 +733,55 @@
       ]
     ]
   },
+  "316491616": {
+    "name": "TowerMadness",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Flamethrower": "$1.99",
+      "Proximity Mine": "$1.99",
+      "Flash Bait": "$1.99",
+      "Marsh Madness Map Pack": "$1.99",
+      "Moon Map Pack": "$1.99",
+      "Lava Map Pack": "$1.99",
+      "Spooky Map Pack": "$1.99",
+      "Coast Map Pack": "$1.99",
+      "Amazing Voyage Map Pack": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Flamethrower": "$1.99",
+      "Proximity Mine": "$1.99",
+      "Flash Bait": "$1.99",
+      "Marsh Madness Map Pack": "$1.99",
+      "Moon Map Pack": "$1.99",
+      "Lava Map Pack": "$1.99",
+      "Spooky Map Pack": "$1.99",
+      "Coast Map Pack": "$1.99",
+      "Amazing Voyage Map Pack": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746000184492,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Flamethrower": "$1.99",
+            "Proximity Mine": "$1.99",
+            "Flash Bait": "$1.99",
+            "Marsh Madness Map Pack": "$1.99",
+            "Moon Map Pack": "$1.99",
+            "Lava Map Pack": "$1.99",
+            "Spooky Map Pack": "$1.99",
+            "Coast Map Pack": "$1.99",
+            "Amazing Voyage Map Pack": "$5.99"
+          }
+        }
+      ]
+    ]
+  },
   "317809458": {
     "name": "LiveATC Air Radio",
     "maxPriceInfo": {
