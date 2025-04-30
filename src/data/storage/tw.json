@@ -8493,7 +8493,17 @@
       "Skatepark: Schoolyard": "$30.00",
       "Skatepark: Macba": "$60.00",
       "The Alley": "$30.00",
-      "2017 Skatepark of Tampa": "$60.00"
+      "2017 Skatepark of Tampa": "$60.00",
+      "SLS 2023: Chicago": "$30.00",
+      "SLS 2022: Jacksonville": "$30.00",
+      "SLS 2021: World Championship": "$30.00",
+      "SLS 2019: Sao Paulo": "$30.00",
+      "SLS 2019: London": "$30.00",
+      "Sandbox 1 Year": "$760.00",
+      "Sandbox 3 Months": "$300.00",
+      "Sandbox Monthly": "$150.00",
+      "SLS 2018: World Championship": "$30.00",
+      "Mountain of Bolts": "$2,990.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -8508,9 +8518,38 @@
       "Skatepark: Schoolyard": "$30.00",
       "Skatepark: Macba": "$60.00",
       "The Alley": "$30.00",
-      "2017 Skatepark of Tampa": "$60.00"
+      "2017 Skatepark of Tampa": "$60.00",
+      "SLS 2023: Chicago": "$30.00",
+      "SLS 2022: Jacksonville": "$30.00",
+      "SLS 2021: World Championship": "$30.00",
+      "SLS 2019: Sao Paulo": "$30.00",
+      "SLS 2019: London": "$30.00",
+      "Sandbox 1 Year": "$760.00",
+      "Sandbox 3 Months": "$300.00",
+      "Sandbox Monthly": "$150.00",
+      "SLS 2018: World Championship": "$30.00",
+      "Mountain of Bolts": "$2,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746010927809,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "$30.00",
+            "SLS 2022: Jacksonville": "$30.00",
+            "SLS 2021: World Championship": "$30.00",
+            "SLS 2019: Sao Paulo": "$30.00",
+            "SLS 2019: London": "$30.00",
+            "Sandbox 1 Year": "$760.00",
+            "Sandbox 3 Months": "$300.00",
+            "Sandbox Monthly": "$150.00",
+            "SLS 2018: World Championship": "$30.00",
+            "Mountain of Bolts": "$2,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745780526886,
@@ -20255,6 +20294,27 @@
       [
         {
           "timestamp": 1745560983791,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1139588979": {
+    "name": "位置偽裝器 - 模擬地圖目前位置,模擬GPS坐標",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746010927809,
           "price": 30,
           "formattedPrice": "$30.00",
           "inAppPurchases": {}
@@ -45493,6 +45553,25 @@
       "綠色藥草吊飾": "$29.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746010927809,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "$1,700.00",
+            "額外內容擴充包": "$560.00",
+            "武器專屬強化券 x5 (A)": "$280.00",
+            "武器專屬強化券 x3 (A)": "$199.00",
+            "武器專屬強化券 x3 (D)": "$199.00",
+            "武器專屬強化券 x3 (C)": "$199.00",
+            "武器專屬強化券 x1 (F)": "$85.00",
+            "武器專屬強化券 x1 (E)": "$85.00",
+            "武器專屬強化券 x1 (A)": "$85.00",
+            "武器專屬強化券 x1 (C)": "$85.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744952547527,

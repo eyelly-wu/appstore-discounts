@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1139588979,
+    name: {
+      mo: '位置偽裝器 - 模擬地圖目前位置,模擬GPS坐標',
+    },
+    addType: 'auto',
+  },
+  {
     id: 316491616,
     name: {
       mo: 'TowerMadness',

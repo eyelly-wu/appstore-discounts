@@ -19614,6 +19614,27 @@
       ]
     ]
   },
+  "1139588979": {
+    "name": "LocFaker - Change Current Location on the Map",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746010927809,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1139986977": {
     "name": "軒轅劍參 雲和山的彼端 加強版",
     "maxPriceInfo": {
@@ -20538,6 +20559,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746010927809,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "Magic Package": "$8.99",
+            "180 Rubies": "$2.99",
+            "1100 Rebirth Stones": "$3.99",
+            "Ring Package": "$24.99",
+            "2400 Rebirth Stones": "$8.99"
+          }
+        },
         {
           "timestamp": 1746007347624,
           "price": 0.99,

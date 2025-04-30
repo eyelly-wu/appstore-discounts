@@ -1878,6 +1878,19 @@
     "history": [
       [
         {
+          "timestamp": 1746010927809,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "CamScanner Premium": "₺329,99",
+            "One-page Fax": "₺39,99",
+            "Ten-page Fax": "₺399,99",
+            "3000 C-Points": "₺229,99",
+            "600 cp + One chance to Draw": "₺39,99",
+            "3000 cp + Six chance to Draw": "₺229,99"
+          }
+        },
+        {
           "timestamp": 1746007347624,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -16985,6 +16998,27 @@
       [
         {
           "timestamp": 1745560983791,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1139588979": {
+    "name": "LocFaker - Change Current Location on the Map",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746010927809,
           "price": 39.99,
           "formattedPrice": "₺39,99",
           "inAppPurchases": {}

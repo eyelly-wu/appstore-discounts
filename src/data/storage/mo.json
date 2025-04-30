@@ -15358,6 +15358,23 @@
     "history": [
       [
         {
+          "timestamp": 1746010927809,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "支線第一章": "USD 3.99",
+            "白金方案（每月續訂）": "USD 4.49",
+            "擴充章節 U": "USD 3.99",
+            "白金方案（每三個月續訂）": "USD 12.49",
+            "擴充章節D": "USD 3.99",
+            "擴充章節B": "USD 3.99",
+            "擴充章節C": "USD 3.99",
+            "支線第二章": "USD 3.99",
+            "擴充章節 J": "USD 3.99",
+            "擴充章節H": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1746007347624,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -17454,6 +17471,27 @@
       [
         {
           "timestamp": 1745560983791,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1139588979": {
+    "name": "位置偽裝器 - 模擬地圖目前位置,模擬GPS坐標",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746010927809,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
