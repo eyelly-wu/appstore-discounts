@@ -18774,6 +18774,17 @@
     "history": [
       [
         {
+          "timestamp": 1746018554643,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "DLC \"Time\"": "$0.49",
+            "Donation III": "$9.99",
+            "Donation I": "$1.99",
+            "Donation II": "$4.99"
+          }
+        },
+        {
           "timestamp": 1745992984163,
           "price": 0.49,
           "formattedPrice": "$0.49",
@@ -48773,6 +48784,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746018554643,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745582600664,
