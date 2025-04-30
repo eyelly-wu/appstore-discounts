@@ -36208,14 +36208,22 @@
   "6472380172": {
     "name": "Kino - Pro Video Camera",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
       "price": 18,
       "formattedPrice": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745976593526,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
