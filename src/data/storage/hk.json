@@ -8466,6 +8466,27 @@
       ]
     ]
   },
+  "531727127": {
+    "name": "CovertCam",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746046937488,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "533055404": {
     "name": "夜星 (Night Stars)",
     "maxPriceInfo": {
@@ -19497,6 +19518,46 @@
           "price": 118,
           "formattedPrice": "HK$ 118.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1102750714": {
+    "name": "地牢求生 - 無盡的迷宮",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "一大桶鑽石": "HK$ 38.00",
+      "國王的饋贈": "HK$ 118.00",
+      "一小袋鑽石": "HK$ 8.00",
+      "紅龍女王的寶藏": "HK$ 228.00",
+      "红龙女王的遗产": "HK$ 288.00",
+      "一大袋宝石": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "一大桶鑽石": "HK$ 38.00",
+      "國王的饋贈": "HK$ 118.00",
+      "一小袋鑽石": "HK$ 8.00",
+      "紅龍女王的寶藏": "HK$ 228.00",
+      "红龙女王的遗产": "HK$ 288.00",
+      "一大袋宝石": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746046937488,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "一大桶鑽石": "HK$ 38.00",
+            "國王的饋贈": "HK$ 118.00",
+            "一小袋鑽石": "HK$ 8.00",
+            "紅龍女王的寶藏": "HK$ 228.00",
+            "红龙女王的遗产": "HK$ 288.00",
+            "一大袋宝石": "HK$ 8.00"
+          }
         }
       ]
     ]
@@ -52487,6 +52548,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746046937488,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "每年": "HK$ 88.00",
+            "每月": "HK$ 18.00",
+            "月夜": "HK$ 18.00",
+            "天空": "HK$ 18.00",
+            "森林": "HK$ 18.00",
+            "點點": "HK$ 8.00",
+            "可可": "HK$ 8.00",
+            "招財": "HK$ 8.00",
+            "辛巴": "HK$ 8.00",
+            "小灰": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1746043355381,
           "price": 0,

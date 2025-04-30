@@ -6848,6 +6848,27 @@
       ]
     ]
   },
+  "531727127": {
+    "name": "CovertCam",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746046937488,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "533055404": {
     "name": "Night Stars",
     "maxPriceInfo": {
@@ -12466,6 +12487,23 @@
     "history": [
       [
         {
+          "timestamp": 1746046937488,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ultimate Access": "₺4.499,99",
+            "Font Access": "₺1.799,99",
+            "Pro Access": "₺2.999,99",
+            "Abstract Theme 5": "₺39,99",
+            "Abstract Theme 4": "₺39,99",
+            "Abstract Theme 2": "₺39,99",
+            "Abstract Theme 3": "₺39,99",
+            "Abstract Theme 1": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746043355381,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -16231,6 +16269,46 @@
           "price": 699.99,
           "formattedPrice": "₺699,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1102750714": {
+    "name": "Dungeon Survival",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "Sack of Gems": "₺39,99",
+      "Barrel of Gems": "₺229,99",
+      "Gift of the King": "₺699,99",
+      "The Dragon Queen's treasure": "₺1.299,99",
+      "红龙女王的遗产": "₺1.799,99",
+      "一大袋宝石": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "Sack of Gems": "₺39,99",
+      "Barrel of Gems": "₺229,99",
+      "Gift of the King": "₺699,99",
+      "The Dragon Queen's treasure": "₺1.299,99",
+      "红龙女王的遗产": "₺1.799,99",
+      "一大袋宝石": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746046937488,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Sack of Gems": "₺39,99",
+            "Barrel of Gems": "₺229,99",
+            "Gift of the King": "₺699,99",
+            "The Dragon Queen's treasure": "₺1.299,99",
+            "红龙女王的遗产": "₺1.799,99",
+            "一大袋宝石": "₺39,99"
+          }
         }
       ]
     ]
