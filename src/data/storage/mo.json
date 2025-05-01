@@ -17904,11 +17904,21 @@
       "完整版遊戲": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "USD 6.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "完整版遊戲": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "完整版遊戲": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745989342321,
@@ -19216,7 +19226,7 @@
       "formattedPrice": "USD 6.99",
       "Snowy Peaks Theme": "USD 6.99",
       "Ultimate Detective's Package": "USD 34.99",
-      "Ultimate Detective Collection": "USD 14.99"
+      "Ultimate Detective Collection": "USD 19.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -19226,6 +19236,16 @@
       "Ultimate Detective Collection": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Ultimate Detective Collection": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745384546601,

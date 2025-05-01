@@ -13014,6 +13014,25 @@
     "history": [
       [
         {
+          "timestamp": 1746093740744,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "活动特惠季度 SVIP": "¥18.80",
+            "元旦特惠 1 年 SVIP 联合礼包 3": "¥88.00",
+            "元旦特惠 1 年 SVIP 联合礼包 2": "¥88.00",
+            "元旦特惠 1 年 SVIP 联合礼包 1": "¥88.00",
+            "SVIP特惠 (买一年送半年)": "¥88.00",
+            "SVIP特惠 (买两年送一年)": "¥168.00",
+            "雨季特惠 100 天 SVIP": "¥19.90",
+            "季度SVIP": "¥18.80",
+            "1年SVIP": "¥88.00",
+            "连续包年 SVIP": "¥90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745672784535,
           "price": 98,
           "formattedPrice": "¥98.00",
@@ -30209,7 +30228,16 @@
       "Bill Evans Repertoire": "¥58.00",
       "Rhythm Change 12key": "¥38.00",
       "Bossa Nova Blues 12key": "¥22.00",
-      "Antonio Carlos Jobim Book Ⅰ.": "¥38.00"
+      "Antonio Carlos Jobim Book Ⅰ.": "¥38.00",
+      "Minor Swing Ⅱ-Ⅴ-Ⅰ-Ⅵ 12key(L)": "¥38.00",
+      "Antonio Carlos Jobim SongBookⅡ": "¥38.00",
+      "Sing like Chet": "¥48.00",
+      "Latin Jazz Song Book (Cuban)": "¥38.00",
+      "Film Music Repertoire": "¥38.00",
+      "Art Blakey&The Jazz Messengers": "¥38.00",
+      "Benny Green Songbook": "¥38.00",
+      "One Chord Funk (Dominant7th)": "¥38.00",
+      "Essential Wayne Shorter": "¥38.00"
     },
     "minPriceInfo": {
       "price": 98,
@@ -30223,9 +30251,37 @@
       "Bill Evans Repertoire": "¥58.00",
       "Rhythm Change 12key": "¥38.00",
       "Bossa Nova Blues 12key": "¥22.00",
-      "Antonio Carlos Jobim Book Ⅰ.": "¥38.00"
+      "Antonio Carlos Jobim Book Ⅰ.": "¥38.00",
+      "Minor Swing Ⅱ-Ⅴ-Ⅰ-Ⅵ 12key(L)": "¥38.00",
+      "Antonio Carlos Jobim SongBookⅡ": "¥38.00",
+      "Sing like Chet": "¥48.00",
+      "Latin Jazz Song Book (Cuban)": "¥38.00",
+      "Film Music Repertoire": "¥38.00",
+      "Art Blakey&The Jazz Messengers": "¥38.00",
+      "Benny Green Songbook": "¥38.00",
+      "One Chord Funk (Dominant7th)": "¥38.00",
+      "Essential Wayne Shorter": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "Minor Swing Ⅱ-Ⅴ-Ⅰ-Ⅵ 12key(L)": "¥38.00",
+            "Antonio Carlos Jobim SongBookⅡ": "¥38.00",
+            "Sing like Chet": "¥48.00",
+            "Antonio Carlos Jobim Book Ⅰ.": "¥38.00",
+            "Latin Jazz Song Book (Cuban)": "¥38.00",
+            "Film Music Repertoire": "¥38.00",
+            "Art Blakey&The Jazz Messengers": "¥38.00",
+            "Benny Green Songbook": "¥38.00",
+            "One Chord Funk (Dominant7th)": "¥38.00",
+            "Essential Wayne Shorter": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745384546601,

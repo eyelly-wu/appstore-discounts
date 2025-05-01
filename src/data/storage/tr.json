@@ -17478,11 +17478,21 @@
       "Anniversary Edition Full Game": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Anniversary Edition Full Game": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Anniversary Edition Full Game": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745989342321,
@@ -19705,13 +19715,32 @@
       "Miku Extend 2025": "₺229,99",
       "Paradigm: Reboot pt. 2": "₺229,99",
       "Paradigm: Reboot pt. 1": "₺229,99",
-      "RAVON": "₺229,99",
+      "RAVON": "₺99,99",
       "NEKO_II": "₺449,99",
-      "Rhythm Games Party 2024": "₺229,99",
-      "B.B.K.K.B.K.K. 2023 Remake SLC": "₺229,99",
+      "Rhythm Games Party 2024": "₺99,99",
+      "B.B.K.K.B.K.K. 2023 Remake SLC": "₺99,99",
       "8 Characters": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "RAVON": "₺99,99",
+            "Rhythm Games Party 2024": "₺99,99",
+            "B.B.K.K.B.K.K. 2023 Remake SLC": "₺99,99",
+            "Miku": "₺449,99",
+            "8 Characters": "₺1.499,99",
+            "Xenon": "₺449,99",
+            "ConneR": "₺449,99",
+            "CAPSO": "₺449,99",
+            "9 Characters": "₺1.499,99",
+            "Cherry": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746039726275,
@@ -26364,6 +26393,25 @@
       "顾悦：20天脱口而出地道英语口语": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "肖维青英文原著精读课-纳尼亚传奇篇": "₺1.299,99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "₺1.299,99",
+            "Albert：不走弯路学英语": "₺249,99",
+            "聆听诺奖背后的时代之音": "₺699,99",
+            "顾悦：如何成为英语学习高手": "₺699,99",
+            "林小鹿英语精读（1-7季合集升级版）": "₺2.999,99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "₺1.299,99",
+            "林小鹿经济学人精读": "₺899,99",
+            "地道美式发音课": "₺1.799,99",
+            "顾悦：20天脱口而出地道英语口语": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745866919363,

@@ -3874,7 +3874,16 @@
       "Groove Machine Synth": "$0.00",
       "Synth Plucks": "$1.99",
       "Transistor Bass": "$0.00",
-      "Chill-Lo-Fi Mobile": "$1.99"
+      "Chill-Lo-Fi Mobile": "$1.99",
+      "Ferrous Mobile": "$2.99",
+      "Hyper-Pop Mobile": "$2.99",
+      "Chip-Tune Mobile": "$2.99",
+      "Essential Winds": "$1.99",
+      "Essential Strings": "$1.99",
+      "DubTechno": "$1.99",
+      "Technocraft": "$1.99",
+      "Brazil Bass": "$1.99",
+      "PsyTrance": "$2.99"
     },
     "minPriceInfo": {
       "price": 14.99,
@@ -3889,9 +3898,37 @@
       "Groove Machine Synth": "$0.00",
       "Synth Plucks": "$1.99",
       "Transistor Bass": "$0.00",
-      "Chill-Lo-Fi Mobile": "$1.99"
+      "Chill-Lo-Fi Mobile": "$1.99",
+      "Ferrous Mobile": "$2.99",
+      "Hyper-Pop Mobile": "$2.99",
+      "Chip-Tune Mobile": "$2.99",
+      "Essential Winds": "$1.99",
+      "Essential Strings": "$1.99",
+      "DubTechno": "$1.99",
+      "Technocraft": "$1.99",
+      "Brazil Bass": "$1.99",
+      "PsyTrance": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Ferrous Mobile": "$2.99",
+            "Hyper-Pop Mobile": "$2.99",
+            "Chip-Tune Mobile": "$2.99",
+            "Essential Winds": "$1.99",
+            "Essential Strings": "$1.99",
+            "DubTechno": "$1.99",
+            "Chill-Lo-Fi Mobile": "$1.99",
+            "Technocraft": "$1.99",
+            "Brazil Bass": "$1.99",
+            "PsyTrance": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746043355381,
@@ -20113,11 +20150,21 @@
       "Anniversary Edition Full Game": "$6.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Anniversary Edition Full Game": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Anniversary Edition Full Game": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745989342321,
@@ -24272,6 +24319,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746093740744,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Valentine Stage": "$3.99"
+          }
+        },
         {
           "timestamp": 1746072334351,
           "price": 2.99,
@@ -34598,6 +34661,25 @@
       "英语时文精读（新冠专题）": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$29.99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "$29.99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "$29.99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "$29.99",
+            "林小鹿英语精读（1-7季合集升级版）": "$69.99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "$29.99",
+            "林小鹿经济学人精读": "$19.99",
+            "精听党 | 英语六级真题精品课": "$7.99",
+            "精听党 | 英语四级真题精品课": "$8.99",
+            "英语时文精读（新冠专题）": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745983031540,
@@ -51473,7 +51555,8 @@
       "Germany Carriage B": "$1.99",
       "Germany Carriage A": "$1.99",
       "Germany Locomotive B": "$1.99",
-      "Germany Locomotive A": "$1.99"
+      "Germany Locomotive A": "$1.99",
+      "India Expansion Bundle": "$7.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -51499,10 +51582,28 @@
       "Germany Carriage B": "$1.99",
       "Germany Carriage A": "$1.99",
       "Germany Locomotive B": "$1.99",
-      "Germany Locomotive A": "$1.99"
+      "Germany Locomotive A": "$1.99",
+      "India Expansion Bundle": "$7.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746093740744,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$29.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$9.99",
+            "Europe Map": "$8.99",
+            "Ticket to Ride ChristmasBundle": "$4.99",
+            "Nordic Bundle": "$7.99",
+            "Japan Expansion Bundle": "$7.99",
+            "LegendaryAsia Expansion Bundle": "$7.99",
+            "Nordic Map": "$6.99",
+            "India Expansion Bundle": "$7.99"
+          }
+        },
         {
           "timestamp": 1746082932612,
           "price": 4.99,

@@ -2698,7 +2698,12 @@
       "Contacts limit increase": "HK$ 18.00",
       "Voting limit increase": "HK$ 18.00",
       "Activate Super Powers - 1 month": "HK$ 68.00",
-      "Activate Super Powers - 3 months": "HK$ 148.00"
+      "Activate Super Powers - 3 months": "HK$ 148.00",
+      "1350 Badoo Credits": "HK$ 188.00",
+      "3050 Badoo Credits": "HK$ 388.00",
+      "450 Badoo Credits": "HK$ 88.00",
+      "250 Badoo Credits": "HK$ 38.00",
+      "Lifetime Badoo Premium": "HK$ 588.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -2713,10 +2718,27 @@
       "Contacts limit increase": "HK$ 18.00",
       "Voting limit increase": "HK$ 18.00",
       "Activate Super Powers - 1 month": "HK$ 68.00",
-      "Activate Super Powers - 3 months": "HK$ 148.00"
+      "Activate Super Powers - 3 months": "HK$ 148.00",
+      "1350 Badoo Credits": "HK$ 188.00",
+      "3050 Badoo Credits": "HK$ 388.00",
+      "450 Badoo Credits": "HK$ 88.00",
+      "250 Badoo Credits": "HK$ 38.00",
+      "Lifetime Badoo Premium": "HK$ 588.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1746093740744,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "1350 Badoo Credits": "HK$ 188.00",
+            "3050 Badoo Credits": "HK$ 388.00",
+            "450 Badoo Credits": "HK$ 88.00",
+            "250 Badoo Credits": "HK$ 38.00",
+            "Lifetime Badoo Premium": "HK$ 588.00"
+          }
+        },
         {
           "timestamp": 1746072334351,
           "price": 22,
@@ -17927,7 +17949,7 @@
       "price": 22,
       "formattedPrice": "HK$ 22.00",
       "Pile of caps": "HK$ 38.00",
-      "Handful of caps": "HK$ 8.00",
+      "Handful of caps": "HK$ 18.00",
       "Special pack": "HK$ 38.00",
       "Small pack": "HK$ 8.00",
       "Case with caps": "HK$ 148.00",
@@ -17935,7 +17957,13 @@
       "Sausepan of caps": "HK$ 88.00",
       "Useful pack": "HK$ 22.00",
       "Standart pack": "HK$ 18.00",
-      "Survival kit": "HK$ 8.00"
+      "Survival kit": "HK$ 8.00",
+      "Crazy sale pack": "HK$ 8.00",
+      "Data Disk pack 2": "HK$ 148.00",
+      "Data Disk pack 1": "HK$ 38.00",
+      "Seasonal event item": "HK$ 148.00",
+      "Nickname change": "HK$ 18.00",
+      "Repair kit": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -17949,9 +17977,33 @@
       "Sausepan of caps": "HK$ 88.00",
       "Useful pack": "HK$ 22.00",
       "Standart pack": "HK$ 18.00",
-      "Survival kit": "HK$ 8.00"
+      "Survival kit": "HK$ 8.00",
+      "Crazy sale pack": "HK$ 8.00",
+      "Data Disk pack 2": "HK$ 148.00",
+      "Data Disk pack 1": "HK$ 38.00",
+      "Seasonal event item": "HK$ 148.00",
+      "Nickname change": "HK$ 18.00",
+      "Repair kit": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Crazy sale pack": "HK$ 8.00",
+            "Data Disk pack 2": "HK$ 148.00",
+            "Data Disk pack 1": "HK$ 38.00",
+            "Useful pack": "HK$ 22.00",
+            "Standart pack": "HK$ 18.00",
+            "Handful of caps": "HK$ 18.00",
+            "Seasonal event item": "HK$ 148.00",
+            "Nickname change": "HK$ 18.00",
+            "Repair kit": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745431369334,
@@ -20561,11 +20613,21 @@
       "完整版遊戲": "HK$ 58.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "完整版遊戲": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746093740744,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "完整版遊戲": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745989342321,
@@ -52468,6 +52530,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746093740744,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 32.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "The Aircraft Bundle": "HK$ 148.00",
+            "Global scenery - 12 months": "HK$ 98.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 737-900": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Boeing 737 MAX 9": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1746050536563,
           "price": 32,
