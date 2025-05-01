@@ -1010,6 +1010,23 @@
     "history": [
       [
         {
+          "timestamp": 1746129742544,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$30.00",
+            "Shibuya HipstaPak": "$30.00",
+            "Portland HipstaPak": "$30.00",
+            "Mission Hipstapak": "$30.00",
+            "Camden HipstaPak": "$30.00",
+            "Soho HipstaPak": "$30.00",
+            "Foodie SnapPak": "$30.00",
+            "Bondi HipstaPak": "$30.00",
+            "RetroPak One": "$60.00",
+            "Multi-Exposure Kit": "$30.00"
+          }
+        },
+        {
           "timestamp": 1746126135599,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -54382,7 +54399,7 @@
     ]
   },
   "6447090616": {
-    "name": "Whisper Notes - 離線 AI 語音輸入轉錄文字",
+    "name": "Whisper Notes - 離線AI語音輸入轉錄文字辨識",
     "maxPriceInfo": {
       "price": 150,
       "formattedPrice": "$150.00"
