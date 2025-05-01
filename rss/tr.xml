@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-01T04:24:08.677Z</updated>
+    <updated>2025-05-01T05:21:08.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,58 +21,66 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-01T04:24:08.677Z</updated>
+        <updated>2025-05-01T05:21:08.475Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LMP]]></title>
-        <id>LMP-1746072334351</id>
-        <link href="https://apps.apple.com/tr/app/lmp/id6451009326?uo=4"/>
-        <updated>2025-05-01T04:05:34.351Z</updated>
-        <summary type="html"><![CDATA[Price: ₺129,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/lmp/id6451009326?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/9c/e6/ee9ce633-82a2-a235-73d8-5c7fb2cf6c6a/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺129,99</span> → <b>
-  <strong>₺39,99</strong>
-</b><span>(₺39,99 ~ ₺129,99)</span>）
-</h2><h2>Application Description</h2><p>
-  Play local music or stream from a file/media server with LMP. 
+        <title type="html"><![CDATA[彩云天气Pro]]></title>
+        <id>彩云天气Pro-1746075753726</id>
+        <link href="https://apps.apple.com/tr/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688?uo=4"/>
+        <updated>2025-05-01T05:02:33.726Z</updated>
+        <summary type="html"><![CDATA[SVIP auto-renew annually: ₺299,99 → ₺29,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/6f/b1/036fb1de-fc45-3b7b-567c-86cae6e7d69f/AppIcon-pro-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>SVIP auto-renew annually：</strong><span>₺299,99</span> → <b>
+  <strong>₺29,99</strong>
+</b><span>(₺29,99 ~ ₺299,99)</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Differences from the free version:
+- exclusive rain notification
+- no Ads
 
-Apple TV version included, with support for Emby, Navidrome and Plex.
+Expect the Unexpected with this Beautiful and Easy-to-use Weather App
 
-▣ Familiar, clean interface
+Accurate Minute to Minute Rainfall Forecast - When will the rain start and when is it going to stop? Know about the weather in advance and plan your day out properly!
 
-LMP has a design reminisent of a music app on your device, providing a cohesive experience across your apps. While keeping a layout that most people are familiar with, the UI provides numerous optimizations that makes it better for offline music, like reducing the number of taps to start playing music. Parts of the interface are also customizable, and you can edit them in the app's settings.
 
-▣ Import via iTunes or folder and play local tracks
+Street-level accuracy: No more imprecise forecasts based on a national or city level! Your exclusive weather forecast for every block in the neighborhood is here!
 
-LMP was designed from scratch with offline music in mind. You can store music on your device in two forms: iTunes music or audio file. The first would require syncing with iTunes on Windows, or Finder on Mac. To import as audio files, simply transfer them to the LMP Music folder on your device via any means. If you choose the latter, you will be able to enjoy additional features, such as editing of metadata via the LMP browser assistant.
+Multiple Location Selections: Street-level accurate forecasts to keep an eye on your loved ones!
 
-▣ Connect to a cloud server and stream music from the server
 
-If you have insufficient storage on your device, you can also store your tracks on a server and stream from the server. File servers using SMB and WebDAV are supported. However, we recommend hosting a media server instead, via Plex, Emby, Navidrome or Subsonic due to faster import speeds. All tracks come together seamlessly no matter how they are imported, providing a unified experience. To hide repeated tracks across servers, you can enable the option in the settings.
+China Rainfall Map - We use the National Meteorological Radar to produce our accurate forecast. Just take a glimpse to know exactly where and how heavy the rain will be!
 
-▣ Manage playlists with ease
 
-LMP has its own playlist system that allows you to not only add tracks from all sources, but also artists. All tracks belonging to the artist would automatically be added to the playlist everytime you open the app or rescan, even newly added ones. With flexible artist splitting, you will be able to ensure that tracks get allocated to the right artist.
+China Air Pollution Map - Is the pollution growing stronger or fading away? Where is it heading to? Just take a look at this map and get the answer to all of your questions!
 
-When the AI playlist is enabled, LMP will also be able to generate a playlist for you based on your listening preferences. Usage data is only recorded if this feature is enabled, and all data recorded for this are stored locally, so you do not have to worry about data privacy.
+Real-time satellite imagery
+From the astronaut's point of view, tracing the flowing cloud and glittering days, and Help yourself judge the weather
 
-▣ Supports CarPlay & Siri
+Omni-directional weather map
+Look at the evolution trend of precipitation, temperature, dew point temperature, humidity and visibility in the next two days.
 
-With support for CarPlay, you can start playing a playlist or control what's playing from your car's CarPlay console. Alternatively, you can also tell Siri to start playing a track or all tracks belonging to a particular artist, or use it to control the playback state of the current track.
+Weather Feedback - If you feel that our forecast is not completely accurate, please tap the feedback button to help us improve!
 
-▣ Support LRC lyrics
 
-LMP supports both embedded lyrics and .lrc files. Use the LRC or Enhanced LRC format and the app will be able to autoscroll lyrics as the music plays. If you do not have time to add your own lyrics, you can specify the lyrics API to use, and the app will attempt to fetch lyrics of any track that is playing.
+------
+A big thank you to the "Swarma Club" and our partners for their long-term and unfailing support!
 
-▣ Browser Assistant
 
-Manage local files on the app using the LMP browser assistant, which you can open on your computer's browser. Import new files or move/delete existing files using the Folders tool, edit music metadata using the Metadata tool or even manage your playlists using the playlists tool.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/ac/47/b1ac475d-23bc-38a4-2513-7e68031bf194/2ffddeb0-d4b4-4c4b-88dc-6d8d8851ff53_Main.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/4a/7d/d04a7dbc-7a94-f5ae-b035-acdf7f9150bc/0f92d25c-d4fa-43a7-9640-59f7f6db5868_Imports.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/2c/8a/2d2c8aa3-0018-17f9-d9b5-e7399d08a2ed/13413303-72c4-4e69-94a8-c2b5d3561462_CarPlay.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/63/96/b26396af-2851-8350-3ffa-268f6b971072/fdb232fa-cae9-41c4-a467-013780ec8d18_Lyrics.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/75/98/02759808-4352-3025-fa7e-8e188632a90f/55646a04-6d00-4605-8278-3e19070dd6e9_Playlist.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/af/92/abaf92ac-1f0f-b488-cc51-f5c5abd6dc2a/dd7287cb-47ff-4199-a52c-9863d97a0d15_Artist_Split.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/d9/5b/e1d95bb4-6528-b49e-df4c-b85ac262f459/b110a9b3-bd15-4e67-bde8-c9a5eb78feee_LMP_Assistant.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/8d/45/358d4551-ed2c-f48c-0dd9-bcd94bbc2f36/f88f631a-854e-492e-b491-21c48821a075_Chinese_Optimization.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/f7/e0/32f7e0c1-67e2-fb1c-debb-511f1225cad7/4188a5f8-8d24-4da6-8463-73ad24056345_Widgets.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/5f/a5/9e5fa59a-fde0-e6e9-83b7-28fbfb2269a9/188118bc-684c-4a5a-8040-4f0dc7e82c8d_Main.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/37/f5/dc37f5b4-108f-2d50-5182-e4a06d195375/04427514-1754-4c8e-9e77-8a040fcb48c6_Imports.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/9a/e8/f69ae870-f200-b73f-f902-bc06f45b3bca/4f3508e0-1404-4050-9471-a16ff0ac4229_Lyrics.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/53/45/ed53454e-c148-384b-bb7a-70369dde18da/d52b5533-e545-4d6b-9d07-53da6d7238eb_Playlists.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/2b/f1/852bf166-ad74-f044-0602-29f34f0e7887/d6b49f22-102e-40b1-8f48-b03b3738fe57_Assistant.png/552x414bb.png" />]]></content>
+Automatic renewal service:
+1. Service name：svip auto-renew monthly, svip auto-renew annually.
+2. Price：9 RMB / Month, 90 RMB / Year.
+3. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+4. You can manually open the Apple mobile phone 'Settings' - > enter 'iTunes Store and App Store - > click 'Apple ID', select 'view Apple ID', enter the 'account settings' page, click 'subscription', select 'ColorfulClouds Pro continuous subscription', and cancel subscriptions to end it. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+5. Term of use: https://caiyunapp.com/h5/agreement/vipprotocal.html?ostype=ios_pro&lang=en_US
+6. Privacy policy: https://caiyunapp.com/h5/agreement/privacy.html?ostype=ios_pro&lang=en_US
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/bb/f8/4ebbf80b-01a2-96f9-dd5d-987371ad317c/1659a64f-378e-4750-8a10-963e28c4d4d3_5.5_U5bf8_U82f1_U6587-_U5206_U949f_U7ea7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/a1/8f/29a18fb1-d7b4-ea47-fa21-f4e1f8839bc9/2277d8a0-2859-491e-8402-4e09ee5719f9_5.5_U5bf8_U82f1_U6587-_U96f7_U8fbe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/c5/bf/d1c5bfb4-330c-16e5-e484-11eb98f77904/4545a43b-b050-43f4-b333-d01194f927a6_5.5_U5bf8_U82f1_U6587-_U536b_U661f.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/89/d0/2f89d014-49df-024a-cccf-d178cfa8cb02/ea7ec244-1185-43c3-bc3a-cdb7cad1562c_5.5_U5bf8_U82f1_U6587-48_U5c0f_U65f6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/cb/4e/a2cb4ef9-c0e6-face-6bc6-5cba461b4a0c/567de3fd-b0a4-4cbf-a67b-90440dd6141d_5.5_U5bf8_U82f1_U6587-_U7a7a_U6c14_U8d28_U91cf.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/fb/87/effb878e-9f79-1a90-46b0-b8a23c854942/3b642941-3478-48e3-bdb0-fc32ea14f19f_en1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/72/a2/a672a2ff-495e-f794-9e56-2dd1f803a58e/bbd39543-e933-4d13-985a-6ef08a986e0f_en2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d4/01/a3d4012c-2b98-e37a-ddaf-c433fdec934e/11efc89f-4a59-43f2-ab1b-14a53cd85d2e_en3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/7c/df/947cdf01-171c-8029-fdfd-5d00f5001003/75501396-501e-4ff0-bd9e-1ef3063a30e5_en4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/bf/c3/0dbfc3a0-4499-8231-1a3d-d73922253b73/6961b9e5-1ae4-40b5-934e-d67c6a58925e_en5.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
