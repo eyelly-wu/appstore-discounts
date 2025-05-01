@@ -15194,6 +15194,14 @@
     "history": [
       [
         {
+          "timestamp": 1746118928892,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium": "₺389,99"
+          }
+        },
+        {
           "timestamp": 1746115361795,
           "price": 0,
           "formattedPrice": "Free",
@@ -37995,6 +38003,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746118928892,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "60 Gold": "₺39,99",
+            "Double Combat Rewards": "₺99,99",
+            "Monthly Card": "₺229,99",
+            "120 Gold": "₺99,99",
+            "Backpack Expansion": "₺99,99",
+            "3280 Gold": "₺2.299,99",
+            "1280 Gold": "₺899,99",
+            "300 Gold": "₺229,99",
+            "980 Gold": "₺699,99",
+            "6480 Gold": "₺4.499,99"
+          }
+        },
         {
           "timestamp": 1746115361795,
           "price": 9.99,
