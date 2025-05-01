@@ -2908,6 +2908,23 @@
     "history": [
       [
         {
+          "timestamp": 1746101000173,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "¥8.00",
+            "Acoustic Guitars": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Voices": "¥8.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Synth Lead": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Sliced Beats": "¥8.00",
+            "Synth Plucks": "¥15.00",
+            "Transistor Bass": "¥0.00"
+          }
+        },
+        {
           "timestamp": 1746097327375,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -23279,10 +23296,18 @@
       "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 8,
+      "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746101000173,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745398953972,
@@ -27255,6 +27280,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746101000173,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "每日英语听力VIP订阅": "¥88.00",
+            "《每日外刊》订阅": "¥63.00",
+            "长期VIP权限": "¥298.00",
+            "一年VIP权限": "¥128.00",
+            "《小王子》": "¥40.00",
+            "《了不起的盖茨比》": "¥40.00",
+            "推倒一切，重学英语": "¥98.00",
+            "《英语四级真题精品课》": "¥60.00",
+            "《老人与海》": "¥40.00"
+          }
+        },
         {
           "timestamp": 1746097327375,
           "price": 1,
