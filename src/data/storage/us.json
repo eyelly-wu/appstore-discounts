@@ -3298,6 +3298,23 @@
     "history": [
       [
         {
+          "timestamp": 1746069756189,
+          "price": 39.99,
+          "formattedPrice": "$39.99",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "$3.99",
+            "Predictive Report - Full": "$3.99",
+            "Relationship Report": "$3.99",
+            "Birthday Report": "$3.99",
+            "Child Report - Full": "$3.99",
+            "7-day Trial Astrolocality": "$0.00",
+            "Predictive Report - No Background": "$2.99",
+            "Astrolocality Maps": "$24.99",
+            "Birth Chart Report - Untimed": "$2.99",
+            "The Big Three Report": "$3.99"
+          }
+        },
+        {
           "timestamp": 1746066791203,
           "price": 39.99,
           "formattedPrice": "$39.99",
@@ -9166,7 +9183,17 @@
       "Vault O' Tokens": "$9.99",
       "Double Cash Mode": "$9.99",
       "Vault O' Monkey Money": "$19.99",
-      "Pile O' Tokens": "$4.99"
+      "Pile O' Tokens": "$4.99",
+      "Classic Tack Tower Skin Sale": "$0.99",
+      "Classic Tack Tower Skin": "$1.99",
+      "Classic Super Monkey Skin Sale": "$0.99",
+      "Classic Super Monkey Skin": "$1.99",
+      "Classic Ice Tower Skin Sale": "$0.99",
+      "Classic Ice Tower Skin": "$1.99",
+      "Classic Bomb Tower Skin Sale": "$0.99",
+      "Classic Bomb Tower Skin": "$1.99",
+      "Classic Dart Monkey Skin Sale": "$0.99",
+      "Classic Dart Monkey Skin": "$1.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -9179,9 +9206,38 @@
       "Vault O' Tokens": "$9.99",
       "Double Cash Mode": "$9.99",
       "Vault O' Monkey Money": "$19.99",
-      "Pile O' Tokens": "$4.99"
+      "Pile O' Tokens": "$4.99",
+      "Classic Tack Tower Skin Sale": "$0.99",
+      "Classic Tack Tower Skin": "$1.99",
+      "Classic Super Monkey Skin Sale": "$0.99",
+      "Classic Super Monkey Skin": "$1.99",
+      "Classic Ice Tower Skin Sale": "$0.99",
+      "Classic Ice Tower Skin": "$1.99",
+      "Classic Bomb Tower Skin Sale": "$0.99",
+      "Classic Bomb Tower Skin": "$1.99",
+      "Classic Dart Monkey Skin Sale": "$0.99",
+      "Classic Dart Monkey Skin": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746069756189,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "$0.99",
+            "Classic Tack Tower Skin": "$1.99",
+            "Classic Super Monkey Skin Sale": "$0.99",
+            "Classic Super Monkey Skin": "$1.99",
+            "Classic Ice Tower Skin Sale": "$0.99",
+            "Classic Ice Tower Skin": "$1.99",
+            "Classic Bomb Tower Skin Sale": "$0.99",
+            "Classic Bomb Tower Skin": "$1.99",
+            "Classic Dart Monkey Skin Sale": "$0.99",
+            "Classic Dart Monkey Skin": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745658131479,
@@ -19565,6 +19621,23 @@
     "history": [
       [
         {
+          "timestamp": 1746069756189,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "$2.99",
+            "Monkey Money": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Pile O Monkey Money": "$4.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Vault O Monkey Money Sale": "$11.99",
+            "Tier 4 Insta Monkeys Pack Sale": "$3.99",
+            "Knowledge Point": "$0.99",
+            "10 Knowledge Points": "$7.99",
+            "Paragon Unlock": "$4.99"
+          }
+        },
+        {
           "timestamp": 1746066791203,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -20075,6 +20148,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746069756189,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744341320883,
@@ -22174,6 +22255,14 @@
     "history": [
       [
         {
+          "timestamp": 1746069756189,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744946082897,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -22654,7 +22743,10 @@
       "Power Builder (yearly)": "$25.49",
       "Super Mega Tip": "$9.99",
       "Small Tip": "$0.99",
-      "Super Tip": "$4.99"
+      "Super Tip": "$4.99",
+      "The Ultimate Tip": "$54.99",
+      "Super Mega Smashing Tip": "$30.99",
+      "Super Smashing Tip": "$16.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -22667,9 +22759,30 @@
       "Power Builder (yearly)": "$25.49",
       "Super Mega Tip": "$9.99",
       "Small Tip": "$0.99",
-      "Super Tip": "$4.99"
+      "Super Tip": "$4.99",
+      "The Ultimate Tip": "$54.99",
+      "Super Mega Smashing Tip": "$30.99",
+      "Super Smashing Tip": "$16.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746069756189,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "$2.99",
+            "Power Builder (yearly)": "$25.49",
+            "Power Builder (weekly)": "$0.99",
+            "The Ultimate Tip": "$54.99",
+            "Super Mega Smashing Tip": "$30.99",
+            "Super Smashing Tip": "$16.99",
+            "Super Mega Tip": "$9.99",
+            "Mega Tip": "$5.99",
+            "Super Tip": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -28415,15 +28528,29 @@
       "Feature DLC": "$3.99"
     },
     "minPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "$12.99",
+      "price": 3.99,
+      "formattedPrice": "$3.99",
       "Treasures Editor": "$0.99",
       "Dawn of Heroes": "$3.99",
-      "Art Upgrade Pack": "$3.99",
-      "Heroes Assemble": "$3.99",
-      "Feature DLC": "$3.99"
+      "Art Upgrade Pack": "$2.99",
+      "Heroes Assemble": "$2.99",
+      "Feature DLC": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746069756189,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Treasures Editor": "$0.99",
+            "Art Upgrade Pack": "$2.99",
+            "Heroes Assemble": "$2.99",
+            "Dawn of Heroes": "$3.99",
+            "Feature DLC": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745560983791,
@@ -28501,6 +28628,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746069756189,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744946082897,
@@ -33561,6 +33696,14 @@
     "history": [
       [
         {
+          "timestamp": 1746069756189,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744341320883,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -36933,10 +37076,18 @@
       "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 0.49,
+      "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746069756189,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -39632,8 +39783,8 @@
       "Stars Pack 2": "$1.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0.49,
+      "formattedPrice": "$0.49",
       "Starter pack": "$4.99",
       "Gems pack 3": "$2.99",
       "Gems pack 2": "$1.99",
@@ -39643,6 +39794,22 @@
       "Stars Pack 2": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746069756189,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "Starter pack": "$4.99",
+            "Gems pack 3": "$2.99",
+            "Gems pack 2": "$1.99",
+            "Gems pack 1": "$0.99",
+            "Stars pack 3": "$2.99",
+            "Stars Pack 1": "$0.99",
+            "Stars Pack 2": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745836547210,
@@ -39784,6 +39951,14 @@
       "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746069756189,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745723856718,
@@ -39939,6 +40114,14 @@
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746069756189,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744254919304,
@@ -42817,10 +43000,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746069756189,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,
@@ -49256,6 +49447,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746069756189,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "39.99美元商品": "$39.99",
+            "3.99美元商品": "$3.99",
+            "12.99美元商品": "$12.99",
+            "9.99美元商品": "$9.99",
+            "89.99美元商品": "$89.99",
+            "99.99美元商品": "$99.99"
+          }
+        },
         {
           "timestamp": 1746066791203,
           "price": 0.29,
