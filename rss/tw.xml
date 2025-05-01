@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-04-30T16:21:09.243Z</updated>
+    <updated>2025-05-01T04:24:08.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,83 +21,58 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-30T16:21:09.243Z</updated>
+        <updated>2025-05-01T04:24:08.676Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TeleGuard]]></title>
-        <id>TeleGuard-1746028957031</id>
-        <link href="https://apps.apple.com/tw/app/teleguard/id1505636751?uo=4"/>
-        <updated>2025-04-30T16:02:37.031Z</updated>
-        <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/teleguard/id1505636751?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/dd/e6/d5dde69c-aaca-3cda-214a-2c838d2d5e76/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[LMP]]></title>
+        <id>LMP-1746072334351</id>
+        <link href="https://apps.apple.com/tw/app/lmp/id6451009326?uo=4"/>
+        <updated>2025-05-01T04:05:34.351Z</updated>
+        <summary type="html"><![CDATA[价格: $90.00 → $30.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/lmp/id6451009326?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/9c/e6/ee9ce633-82a2-a235-73d8-5c7fb2cf6c6a/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>$30.00</span> → <b>
-  <strong>免費</strong>
-</b><span>(免費 ~ $30.00)</span>）
+  优惠信息（价格：<span>$90.00</span> → <b>
+  <strong>$30.00</strong>
+</b><span>($30.00 ~ $90.00)</span>）
 </h2><h2>应用描述</h2><p>
-  Anonymity guaranteed - no registration
+  Play local music or stream from a file/media server with LMP. 
 
-There is no connection to a telephone number and no collection of user identification data. The TeleGuard-ID is your very personal identification number that you need in order to connect with your friends. Every TeleGuard user receives an ID number and a QR code, which can be sent out to get in touch with others. 
+Apple TV version included, with support for Emby, Navidrome and Plex.
 
+▣ Familiar, clean interface
 
-Designed to be the most secure messenger in the world
+LMP has a design reminisent of a music app on your device, providing a cohesive experience across your apps. While keeping a layout that most people are familiar with, the UI provides numerous optimizations that makes it better for offline music, like reducing the number of taps to start playing music. Parts of the interface are also customizable, and you can edit them in the app's settings.
 
-TeleGuard's focus is on protecting privacy and confidential communication. TeleGuard is the secure messenger from Swisscows. Swisscows has set itself the task of protecting its users from data misuse in every situation. As the smartphone is the most widely used medium in the world nowadays, a secure messenger is indispensable.
+▣ Import via iTunes or folder and play local tracks
 
-Highly secure and modern server
+LMP was designed from scratch with offline music in mind. You can store music on your device in two forms: iTunes music or audio file. The first would require syncing with iTunes on Windows, or Finder on Mac. To import as audio files, simply transfer them to the LMP Music folder on your device via any means. If you choose the latter, you will be able to enjoy additional features, such as editing of metadata via the LMP browser assistant.
 
-All servers are located in the data centers in Switzerland. A complex encryption system is used for all transmitted data and absolutely no user data is stored on the servers. Everything is absolutely anonymous.
+▣ Connect to a cloud server and stream music from the server
 
-That's why TeleGuard is better than the others
+If you have insufficient storage on your device, you can also store your tracks on a server and stream from the server. File servers using SMB and WebDAV are supported. However, we recommend hosting a media server instead, via Plex, Emby, Navidrome or Subsonic due to faster import speeds. All tracks come together seamlessly no matter how they are imported, providing a unified experience. To hide repeated tracks across servers, you can enable the option in the settings.
 
-TeleGuard encrypts every message and voice call with the one of the best encryption algorithm currently available: SALSA 20. Since our servers are in Switzerland, we are not subject to the data protection laws of the EU / USA and do not have to pass on any data.
+▣ Manage playlists with ease
 
-How is my privacy secured?
+LMP has its own playlist system that allows you to not only add tracks from all sources, but also artists. All tracks belonging to the artist would automatically be added to the playlist everytime you open the app or rescan, even newly added ones. With flexible artist splitting, you will be able to ensure that tracks get allocated to the right artist.
 
-HTTPS, end-to-end encryption, deletion of messages from the server after reading. No user data, neither IP address nor other, is recorded or stored.
+When the AI playlist is enabled, LMP will also be able to generate a playlist for you based on your listening preferences. Usage data is only recorded if this feature is enabled, and all data recorded for this are stored locally, so you do not have to worry about data privacy.
 
-Functions
+▣ Supports CarPlay & Siri
 
-•	Send text and voice messages
-•	Share pictures and videos
-•	Video and voice telephony
-•	Send files
-•	Create groups
-•	The identity of contacts can be verified by scanning the QR code.
+With support for CarPlay, you can start playing a playlist or control what's playing from your car's CarPlay console. Alternatively, you can also tell Siri to start playing a track or all tracks belonging to a particular artist, or use it to control the playback state of the current track.
 
-Support
+▣ Support LRC lyrics
 
-If you have further questions, you will find our FAQs here: teleguard.com/en#faq
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/ae/cb/b2aecb76-8fcc-7ecc-2590-91c7dacb9068/b8a44c4e-f050-42dd-90c2-213a3e3a4f74_Frame_787.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/42/77/7b4277d0-8f83-2e9d-375d-e79665605856/8ef5a50a-dd68-4576-b583-55d8062947a5_Frame_783.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/61/11/ea61114a-1f6b-561e-9197-3182e1d35737/a97e9f3d-3107-425e-b24e-d663660adc32_Frame_785.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/d5/5c/b9d55c70-222c-6ec5-3e37-864b203b759b/c220458c-e42b-4860-9551-767bcde21f70_Frame_791.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/03/e1/3003e1d5-bd85-8ec8-9897-2474995184cb/7d21a8a0-8ff4-4324-8e89-ab8b7149a212_Frame_789.jpg/392x696bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大俠立志傳]]></title>
-        <id>大俠立志傳-1746028957031</id>
-        <link href="https://apps.apple.com/tw/app/%E5%A4%A7%E4%BF%A0%E7%AB%8B%E5%BF%97%E5%82%B3/id6711347049?uo=4"/>
-        <updated>2025-04-30T16:02:37.031Z</updated>
-        <summary type="html"><![CDATA[价格: $220.00 → $190.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E5%A4%A7%E4%BF%A0%E7%AB%8B%E5%BF%97%E5%82%B3/id6711347049?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/40/ca/8d40ca27-bab9-da59-670a-86064b73d1ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$220.00</span> → <b>
-  <strong>$190.00</strong>
-</b><span>($190.00 ~ $220.00)</span>）
-</h2><h2>应用描述</h2><p>
-  《大俠立志傳》是半瓶神仙醋開發的開放世界武俠RPG新作，遊戲更像是一款像素版江湖生存模擬器。你將扮演一個初出茅廬的江湖新人，體驗多樣身份，在江湖中摸爬滾打，最終脫穎而出。
+LMP supports both embedded lyrics and .lrc files. Use the LRC or Enhanced LRC format and the app will be able to autoscroll lyrics as the music plays. If you do not have time to add your own lyrics, you can specify the lyrics API to use, and the app will attempt to fetch lyrics of any track that is playing.
 
-【遊戲特色】
--百餘種武學功法，拳掌刀劍，槍棍音律，內外兼修，皆可自行搭配。成為十字坡劍聖，亦可精通百家所長。
--多分支走向。遊戲中沒有真正意義上的主線，在充滿抉擇的江湖中從心選擇吧。
--豐富的NPC互動玩法，結交五都俠客（侶），遊走於盤雜的人際勢力，經營你的江湖關係網。
--奇遇與危險並存的真實武林。江湖並非非黑即白，遇事不一定要用拳頭解決，可採取多種方式應對，並坦然接受不一樣的結局。
--充滿煙火氣息的像素武俠世界。遊戲中有著自然流逝的時間，各色NPC都有自己獨立的行為AI。
+▣ Browser Assistant
 
-Discord: https://discord.gg/bcX8pry8ZV
-</p>]]></content>
+Manage local files on the app using the LMP browser assistant, which you can open on your computer's browser. Import new files or move/delete existing files using the Folders tool, edit music metadata using the Metadata tool or even manage your playlists using the playlists tool.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/ac/47/b1ac475d-23bc-38a4-2513-7e68031bf194/2ffddeb0-d4b4-4c4b-88dc-6d8d8851ff53_Main.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/4a/7d/d04a7dbc-7a94-f5ae-b035-acdf7f9150bc/0f92d25c-d4fa-43a7-9640-59f7f6db5868_Imports.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/2c/8a/2d2c8aa3-0018-17f9-d9b5-e7399d08a2ed/13413303-72c4-4e69-94a8-c2b5d3561462_CarPlay.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/63/96/b26396af-2851-8350-3ffa-268f6b971072/fdb232fa-cae9-41c4-a467-013780ec8d18_Lyrics.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/75/98/02759808-4352-3025-fa7e-8e188632a90f/55646a04-6d00-4605-8278-3e19070dd6e9_Playlist.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/af/92/abaf92ac-1f0f-b488-cc51-f5c5abd6dc2a/dd7287cb-47ff-4199-a52c-9863d97a0d15_Artist_Split.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/d9/5b/e1d95bb4-6528-b49e-df4c-b85ac262f459/b110a9b3-bd15-4e67-bde8-c9a5eb78feee_LMP_Assistant.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/8d/45/358d4551-ed2c-f48c-0dd9-bcd94bbc2f36/f88f631a-854e-492e-b491-21c48821a075_Chinese_Optimization.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/f7/e0/32f7e0c1-67e2-fb1c-debb-511f1225cad7/4188a5f8-8d24-4da6-8463-73ad24056345_Widgets.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/5f/a5/9e5fa59a-fde0-e6e9-83b7-28fbfb2269a9/188118bc-684c-4a5a-8040-4f0dc7e82c8d_Main.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/37/f5/dc37f5b4-108f-2d50-5182-e4a06d195375/04427514-1754-4c8e-9e77-8a040fcb48c6_Imports.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/9a/e8/f69ae870-f200-b73f-f902-bc06f45b3bca/4f3508e0-1404-4050-9471-a16ff0ac4229_Lyrics.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/53/45/ed53454e-c148-384b-bb7a-70369dde18da/d52b5533-e545-4d6b-9d07-53da6d7238eb_Playlists.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/2b/f1/852bf166-ad74-f044-0602-29f34f0e7887/d6b49f22-102e-40b1-8f48-b03b3738fe57_Assistant.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

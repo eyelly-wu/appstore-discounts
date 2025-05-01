@@ -2216,6 +2216,22 @@
     "history": [
       [
         {
+          "timestamp": 1746072334351,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Pack of 100 Credits": "₺99,99",
+            "Pack of 550 Credits": "₺229,99",
+            "Badoo Premium": "₺15,99",
+            "Super Powers": "₺23,99",
+            "Premium": "₺19,99",
+            "Pack of 1250 Credits": "₺449,99",
+            "Pack of 2750 Credits": "₺599,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745866919363,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -3194,7 +3210,9 @@
       "Drumaxx": "₺99,99",
       "Groove Machine Synth": "₺0,00",
       "Brazil Bass": "₺99,99",
-      "Essential Strings": "₺99,99"
+      "Essential Strings": "₺99,99",
+      "PsyTrance": "₺129,99",
+      "Chill-Lo-Fi Mobile": "₺99,99"
     },
     "minPriceInfo": {
       "price": 399.99,
@@ -3210,9 +3228,30 @@
       "Drumaxx": "₺99,99",
       "Groove Machine Synth": "₺0,00",
       "Brazil Bass": "₺99,99",
-      "Essential Strings": "₺99,99"
+      "Essential Strings": "₺99,99",
+      "PsyTrance": "₺129,99",
+      "Chill-Lo-Fi Mobile": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746072334351,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Voices": "₺39,99",
+            "Tuned 808 Bass": "₺39,99",
+            "Amped Guitar & Bass": "₺129,99",
+            "Synth Lead": "₺99,99",
+            "Varazdin Orchestral Mobile": "₺179,99",
+            "Sliced Beats": "₺39,99",
+            "Synth Plucks": "₺99,99",
+            "PsyTrance": "₺129,99",
+            "Chill-Lo-Fi Mobile": "₺99,99",
+            "Essential Strings": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746039726275,
@@ -15201,7 +15240,8 @@
       "Hero Ajax": "₺129,99",
       "Hero Dr.Graff": "₺229,99",
       "Starter Pack": "₺229,99",
-      "Special Pack 5": "₺229,99"
+      "Special Pack 5": "₺229,99",
+      "Special Pack 1": "₺229,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -15215,9 +15255,29 @@
       "Hero Ajax": "₺129,99",
       "Hero Dr.Graff": "₺229,99",
       "Starter Pack": "₺229,99",
-      "Special Pack 5": "₺229,99"
+      "Special Pack 5": "₺229,99",
+      "Special Pack 1": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746072334351,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Hero Mark X": "₺299,99",
+            "Special Pack 2": "₺179,99",
+            "Hero Blue Dragon": "₺299,99",
+            "Special Pack 4": "₺699,99",
+            "Special Pack 3": "₺229,99",
+            "Hero Fate": "₺129,99",
+            "Hero Ajax": "₺129,99",
+            "Starter Pack": "₺229,99",
+            "Special Pack 5": "₺229,99",
+            "Special Pack 1": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745658131479,
@@ -15538,6 +15598,23 @@
       "90 Days SVIP": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746072334351,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "90 Days SVIP": "₺129,99",
+            "Annual Special SVIP": "₺599,99",
+            "545 Days SVIP": "₺599,99",
+            "3-Year SVIP": "₺999,99",
+            "100 Days SVIP": "₺129,99",
+            "Quarterly SVIP": "₺129,99",
+            "1-Year SVIP": "₺599,99",
+            "SVIP auto-renew annually": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745985748755,
@@ -24119,6 +24196,21 @@
     "history": [
       [
         {
+          "timestamp": 1746072334351,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺379,00",
+            "GoodNotes 5 Unlock": "₺449,99",
+            "Goodnotes 6 One-Time Payment": "₺919,00",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Goodnotes 6 (1 Year)": "₺379,00",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1746069756189,
           "price": 0,
           "formattedPrice": "Free",
@@ -24564,6 +24656,19 @@
       "RFS Pro (6 months)": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746072334351,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "₺99,99",
+            "RFS Pro (6 month)": "₺139,99",
+            "RFS Pro (1 year)": "₺1.199,99",
+            "RFS Pro (6 months)": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745824242395,
@@ -39912,10 +40017,18 @@
       "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746072334351,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745398953972,
