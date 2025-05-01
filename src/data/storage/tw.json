@@ -50298,6 +50298,20 @@
     "history": [
       [
         {
+          "timestamp": 1746082932612,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品": "$120.00",
+            "12.99美元商品": "$390.00",
+            "9.99美元商品": "$320.00",
+            "0.99美元商品": "$30.00",
+            "39.99美元商品": "$1,290.00",
+            "19.99美元商品": "$690.00",
+            "89.99美元商品": "$2,990.00"
+          }
+        },
+        {
           "timestamp": 1746072334351,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -52696,7 +52710,8 @@
       "Case IH Speed-Tiller": "$30.00",
       "Kotte PQ 32000": "$30.00",
       "John Deere 8R 410": "$60.00",
-      "New Holland T8.435 Genesis": "$60.00"
+      "New Holland T8.435 Genesis": "$60.00",
+      "Claas Xerion 5000": "$60.00"
     },
     "minPriceInfo": {
       "price": 220,
@@ -52712,9 +52727,29 @@
       "Case IH Speed-Tiller": "$30.00",
       "Kotte PQ 32000": "$30.00",
       "John Deere 8R 410": "$60.00",
-      "New Holland T8.435 Genesis": "$60.00"
+      "New Holland T8.435 Genesis": "$60.00",
+      "Claas Xerion 5000": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746082932612,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$90.00",
+            "ClaasLexion8900+ConvioFlex1380": "$90.00",
+            "Case IH Speed-Tiller": "$30.00",
+            "Claas Xerion 5000": "$60.00",
+            "Amazone CITAN 15001-C": "$30.00",
+            "200'000 Coins": "$30.00",
+            "New Holland T8.435 Genesis": "$60.00",
+            "Mack Trucks Black Anthem 6x4": "$60.00",
+            "Versatile 4WD 620": "$60.00",
+            "500'000 Coins": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745964133022,
