@@ -1498,7 +1498,15 @@
       "Schumann: The Mutopia Collection": "$0.00",
       "Haydn: The Mutopia Collection": "$0.00",
       "Bach: The Mutopia Collection": "$0.99",
-      "Händel: The Mutopia Collection": "$0.00"
+      "Händel: The Mutopia Collection": "$0.00",
+      "forScore Pro + Family Sharing": "$24.99",
+      "Haydn: String Quartets": "$1.99",
+      "Christmas Carol Collection": "$1.99",
+      "Bach: Cello Suites": "$1.99",
+      "Vivaldi: The Four Seasons": "$1.99",
+      "Mozart: Twelve Duets": "$1.99",
+      "The Mutopia Piano Collection": "$4.99",
+      "Voluntary Upgrade": "$7.99"
     },
     "minPriceInfo": {
       "price": 24.99,
@@ -1513,10 +1521,35 @@
       "Schumann: The Mutopia Collection": "$0.00",
       "Haydn: The Mutopia Collection": "$0.00",
       "Bach: The Mutopia Collection": "$0.99",
-      "Händel: The Mutopia Collection": "$0.00"
+      "Händel: The Mutopia Collection": "$0.00",
+      "forScore Pro + Family Sharing": "$24.99",
+      "Haydn: String Quartets": "$1.99",
+      "Christmas Carol Collection": "$1.99",
+      "Bach: Cello Suites": "$1.99",
+      "Vivaldi: The Four Seasons": "$1.99",
+      "Mozart: Twelve Duets": "$1.99",
+      "The Mutopia Piano Collection": "$4.99",
+      "Voluntary Upgrade": "$7.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746136938760,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro + Family Sharing": "$24.99",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Haydn: String Quartets": "$1.99",
+            "Christmas Carol Collection": "$1.99",
+            "Bach: Cello Suites": "$1.99",
+            "Vivaldi: The Four Seasons": "$1.99",
+            "Mozart: Twelve Duets": "$1.99",
+            "The Mutopia Piano Collection": "$4.99",
+            "forScore Pro": "$14.99",
+            "Voluntary Upgrade": "$7.99"
+          }
+        },
         {
           "timestamp": 1746082932612,
           "price": 24.99,
