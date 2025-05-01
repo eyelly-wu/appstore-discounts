@@ -3272,7 +3272,10 @@
       "Astrolocality Maps": "$24.99",
       "Birth Chart Report - Untimed": "$2.99",
       "The Big Three Report": "$3.99",
-      "My Pet Report": "$1.99"
+      "My Pet Report": "$1.99",
+      "Lunar Return Report": "$3.99",
+      "Predictive Report - Untimed": "$2.99",
+      "Child Report - Untimed": "$2.99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -3287,9 +3290,31 @@
       "Astrolocality Maps": "$24.99",
       "Birth Chart Report - Untimed": "$2.99",
       "The Big Three Report": "$3.99",
-      "My Pet Report": "$1.99"
+      "My Pet Report": "$1.99",
+      "Lunar Return Report": "$3.99",
+      "Predictive Report - Untimed": "$2.99",
+      "Child Report - Untimed": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746066791203,
+          "price": 39.99,
+          "formattedPrice": "$39.99",
+          "inAppPurchases": {
+            "Lunar Return Report": "$3.99",
+            "7-day Trial Astrolocality": "$0.00",
+            "Astrolocality Maps": "$24.99",
+            "The Big Three Report": "$3.99",
+            "Relationship Report": "$3.99",
+            "Predictive Report - Untimed": "$2.99",
+            "Predictive Report - No Background": "$2.99",
+            "Predictive Report - Full": "$3.99",
+            "My Pet Report": "$1.99",
+            "Child Report - Untimed": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745932310705,
@@ -19505,7 +19530,15 @@
       "Tier 4 Insta Monkeys Pack Sale": "$3.99",
       "Knowledge Point": "$0.99",
       "10 Knowledge Points": "$7.99",
-      "Paragon Unlock": "$4.99"
+      "Paragon Unlock": "$4.99",
+      "She-Ra Prestige Pack Sale": "$6.99",
+      "She-Ra Sword Booster Sale": "$1.99",
+      "She-Ra Sword Power Booster": "$3.99",
+      "She-Ra Prestige Pack": "$12.99",
+      "Battle Cat Booster Pack": "$3.99",
+      "Battle Cat Prestige Pack": "$3.99",
+      "Rogue Legends": "$9.99",
+      "Heroes and Skins Complete 2024": "$24.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -19519,9 +19552,34 @@
       "Tier 4 Insta Monkeys Pack Sale": "$3.99",
       "Knowledge Point": "$0.99",
       "10 Knowledge Points": "$7.99",
-      "Paragon Unlock": "$4.99"
+      "Paragon Unlock": "$4.99",
+      "She-Ra Prestige Pack Sale": "$6.99",
+      "She-Ra Sword Booster Sale": "$1.99",
+      "She-Ra Sword Power Booster": "$3.99",
+      "She-Ra Prestige Pack": "$12.99",
+      "Battle Cat Booster Pack": "$3.99",
+      "Battle Cat Prestige Pack": "$3.99",
+      "Rogue Legends": "$9.99",
+      "Heroes and Skins Complete 2024": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746066791203,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "She-Ra Prestige Pack Sale": "$6.99",
+            "She-Ra Sword Booster Sale": "$1.99",
+            "She-Ra Sword Power Booster": "$3.99",
+            "She-Ra Prestige Pack": "$12.99",
+            "Battle Cat Booster Pack": "$3.99",
+            "Battle Cat Prestige Pack": "$3.99",
+            "Rogue Legends": "$9.99",
+            "Heroes and Skins Complete 2024": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -49197,6 +49255,22 @@
       "99.99美元商品": "$99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746066791203,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "39.99美元商品": "$39.99",
+            "12.99美元商品": "$12.99",
+            "89.99美元商品": "$89.99",
+            "3.99美元商品": "$3.99",
+            "99.99美元商品": "$99.99",
+            "49.99美元商品": "$49.99",
+            "19.99美元商品": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745730140413,

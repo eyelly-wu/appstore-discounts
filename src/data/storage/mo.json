@@ -1598,6 +1598,25 @@
     "history": [
       [
         {
+          "timestamp": 1746066791203,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "通用型套餐-25元": "USD 3.99",
+            "通用型套餐-159元": "USD 22.99",
+            "通用型套餐-318元": "USD 49.99",
+            "通用型套餐-718元": "USD 99.99",
+            "通用型套餐-468元": "USD 69.99",
+            "通用型套餐-408元": "USD 59.99",
+            "通用型套餐-329元": "USD 49.99",
+            "免广告会员十二个月15元": "USD 1.99",
+            "免广告会员三个月": "USD 0.99",
+            "免广告会员十二个月": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745913790657,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -8413,6 +8432,25 @@
       "Mountain of Bolts": "USD 99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746066791203,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "USD 0.99",
+            "SLS 2022: Jacksonville": "USD 0.99",
+            "SLS 2021: World Championship": "USD 0.99",
+            "SLS 2019: Sao Paulo": "USD 0.99",
+            "SLS 2019: London": "USD 0.99",
+            "Sandbox 1 Year": "USD 24.99",
+            "Sandbox 3 Months": "USD 9.99",
+            "Sandbox Monthly": "USD 4.99",
+            "SLS 2018: World Championship": "USD 0.99",
+            "Mountain of Bolts": "USD 99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745461818532,
