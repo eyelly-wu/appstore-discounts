@@ -15194,6 +15194,16 @@
     "history": [
       [
         {
+          "timestamp": 1746115361795,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium": "₺122,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745553751957,
           "price": 0,
           "formattedPrice": "Free",
@@ -19102,6 +19112,25 @@
       "Tower Goblin War Zeppelin": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746115361795,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hero Beresad": "₺299,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Mega Tower Bundle": "₺699,99",
+            "Mega Heroe Bundle": "₺799,99",
+            "Tower Blazing Gem": "₺229,99",
+            "Hero Mortemis": "₺129,99",
+            "Tower Grim Cemetery": "₺129,99",
+            "Pirate Kings Campaign!": "₺349,99",
+            "Tower Deep Devil's Reef": "₺129,99",
+            "Hero Jack'O Lantern": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745380960880,
@@ -27188,14 +27217,22 @@
   "1481006495": {
     "name": "Countdown App",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746115361795,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -33999,6 +34036,25 @@
     "history": [
       [
         {
+          "timestamp": 1746115361795,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "₺349,99",
+            "All Towers": "₺899,99",
+            "Sylvara": "₺299,99",
+            "Stregi": "₺229,99",
+            "Kosmyr": "₺299,99",
+            "Hero Lumenir": "₺299,99",
+            "Towers and Heroes offer 3": "₺399,99",
+            "Grim Wraiths": "₺299,99",
+            "Spider Offer": "₺349,99",
+            "Bonehart": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745985748755,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -37919,7 +37975,8 @@
       "1280 Gold": "₺899,99",
       "300 Gold": "₺229,99",
       "980 Gold": "₺699,99",
-      "6480 Gold": "₺4.499,99"
+      "6480 Gold": "₺4.499,99",
+      "1980 Gold": "₺1.299,99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -37933,9 +37990,29 @@
       "1280 Gold": "₺899,99",
       "300 Gold": "₺229,99",
       "980 Gold": "₺699,99",
-      "6480 Gold": "₺4.499,99"
+      "6480 Gold": "₺4.499,99",
+      "1980 Gold": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746115361795,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "120 Gold": "₺99,99",
+            "Backpack Expansion": "₺99,99",
+            "Double Combat Rewards": "₺99,99",
+            "3280 Gold": "₺2.299,99",
+            "1280 Gold": "₺899,99",
+            "300 Gold": "₺229,99",
+            "980 Gold": "₺699,99",
+            "6480 Gold": "₺4.499,99",
+            "1980 Gold": "₺1.299,99",
+            "60 Gold": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

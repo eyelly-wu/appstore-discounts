@@ -16246,6 +16246,25 @@
     "history": [
       [
         {
+          "timestamp": 1746115361795,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "$0.00",
+            "ThemeA0B1C0": "$0.00",
+            "ThemeA1B0C0": "$0.00",
+            "ThemeA0B1C1": "$0.00",
+            "ThemeA1B0C1": "$0.00",
+            "ThemeA1B1C0": "$0.00",
+            "ThemeA2B0C0": "$0.00",
+            "主题大礼包": "$3.99",
+            "ThemeA2B0C1": "$3.99",
+            "ThemeA2B1C0": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745866919363,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -19453,7 +19472,13 @@
       "25,000 points": "$0.99",
       "500,000 points": "$9.99",
       "600,000 points": "$24.99",
-      "300,000 points": "$7.99"
+      "300,000 points": "$7.99",
+      "7,000,000 points": "$79.99",
+      "2,100,000 points": "$32.99",
+      "1,500,000 points": "$24.99",
+      "850,000 points": "$14.99",
+      "10,000,000 points": "$99.99",
+      "3,750,000 points": "$49.99"
     },
     "minPriceInfo": {
       "price": 0.49,
@@ -19467,9 +19492,34 @@
       "25,000 points": "$0.99",
       "500,000 points": "$9.99",
       "600,000 points": "$24.99",
-      "300,000 points": "$7.99"
+      "300,000 points": "$7.99",
+      "7,000,000 points": "$79.99",
+      "2,100,000 points": "$32.99",
+      "1,500,000 points": "$24.99",
+      "850,000 points": "$14.99",
+      "10,000,000 points": "$99.99",
+      "3,750,000 points": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746115361795,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "7,000,000 points": "$79.99",
+            "500,000 points": "$9.99",
+            "2,100,000 points": "$32.99",
+            "100,000 points": "$2.99",
+            "25,000 points": "$0.99",
+            "1,500,000 points": "$24.99",
+            "850,000 points": "$14.99",
+            "10,000,000 points": "$99.99",
+            "3,750,000 points": "$49.99",
+            "300,000 points": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -35601,14 +35651,22 @@
   "1481006495": {
     "name": "Countdown App",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746115361795,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

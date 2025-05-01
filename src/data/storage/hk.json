@@ -34643,6 +34643,25 @@
     "history": [
       [
         {
+          "timestamp": 1746115361795,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "月俸": "HK$ 22.00",
+            "戰姬": "HK$ 788.00",
+            "尊享月俸": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746072334351,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -36570,14 +36589,22 @@
   "1481006495": {
     "name": "倒計時應用 Countdown App",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746115361795,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44585,6 +44612,23 @@
       "幽冥戰魂": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746115361795,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "巨大的威脅": "HK$ 58.00",
+            "所有英雄": "HK$ 228.00",
+            "所有塔": "HK$ 148.00",
+            "Hero Lumenir": "HK$ 58.00",
+            "科斯米爾": "HK$ 58.00",
+            "骷心巫龍": "HK$ 58.00",
+            "沙丘哨兵": "HK$ 22.00",
+            "蜘蛛優惠": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746050536563,

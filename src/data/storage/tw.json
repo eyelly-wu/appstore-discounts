@@ -35560,14 +35560,22 @@
   "1481006495": {
     "name": "倒計時應用 Countdown App",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746115361795,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
