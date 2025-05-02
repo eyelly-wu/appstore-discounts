@@ -14804,8 +14804,8 @@
       "Elite Package": "HK$ 88.00",
       "Supreme Package": "HK$ 38.00",
       "Advanced Package": "HK$ 22.00",
-      "2025 Birthday Package": "HK$ 118.00",
-      "2025 Birthday Package (Basic)": "HK$ 88.00"
+      "2025 Birthday Package": "HK$ 148.00",
+      "2025 Birthday Package (Basic)": "HK$ 98.00"
     },
     "minPriceInfo": {
       "price": 28,
@@ -14829,6 +14829,25 @@
       "2025 Birthday Package (Basic)": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746169341945,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "一盒陽光菁華": "HK$ 18.00",
+            "一瓶陽光菁華": "HK$ 8.00",
+            "一小盆寶石": "HK$ 38.00",
+            "一鏟子寶石": "HK$ 8.00",
+            "一大袋寶石": "HK$ 88.00",
+            "超值進階寶石包": "HK$ 58.00",
+            "一推車寶石": "HK$ 188.00",
+            "2025 Birthday Package": "HK$ 148.00",
+            "2025 Birthday Package (Basic)": "HK$ 98.00",
+            "Elite Package": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745953326469,
@@ -34626,16 +34645,36 @@
       "formattedPrice": "HK$ 38.00",
       "Samurai Edition": "HK$ 32.00",
       "Mixer": "HK$ 38.00",
-      "Koala AUv3 Plugin": "HK$ 18.00"
+      "Koala AUv3 Plugin": "HK$ 18.00",
+      "Cirrus Cuts Sample Pack": "HK$ 22.00",
+      "Analog Astronaut Samplepack": "HK$ 22.00",
+      "Soon Come Dub Sample Pack": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "HK$ 38.00",
       "Samurai Edition": "HK$ 22.00",
       "Mixer": "HK$ 38.00",
-      "Koala AUv3 Plugin": "HK$ 18.00"
+      "Koala AUv3 Plugin": "HK$ 18.00",
+      "Cirrus Cuts Sample Pack": "HK$ 22.00",
+      "Analog Astronaut Samplepack": "HK$ 22.00",
+      "Soon Come Dub Sample Pack": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746169341945,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Samurai Edition": "HK$ 32.00",
+            "Mixer": "HK$ 38.00",
+            "Cirrus Cuts Sample Pack": "HK$ 22.00",
+            "Analog Astronaut Samplepack": "HK$ 22.00",
+            "Soon Come Dub Sample Pack": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746097327375,
@@ -34809,6 +34848,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746169341945,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "月俸": "HK$ 22.00",
+            "戰姬": "HK$ 788.00",
+            "尊享月俸": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1746158574062,
           "price": 2,
