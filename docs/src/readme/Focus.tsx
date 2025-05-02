@@ -21,12 +21,13 @@ export default function Focus() {
   const appText = getAppText()
   const regionStorageAppInfo = getStorageAppInfo(regions)
   const data = appConfig.reduce(
-    (res, { id: appId, allowNotification }, index) => {
+    (res, { id: appId, allowNotification, addType }, index) => {
       const showDelete = allowNotification === false
 
       const item: any = {
-        index: index + 1,
+        index: appConfig.length - index,
         appId: getDeleteContent(appId + '', showDelete),
+        addType: addType === 'auto' ? t('自动') : t('手动'),
       }
       regions.forEach((region) => {
         const storageAppInfoObj = regionStorageAppInfo[region] || {}
@@ -89,6 +90,10 @@ export default function Focus() {
           {
             fieldName: 'appId',
             title: 'App ID',
+          },
+          {
+            fieldName: 'addType',
+            title: t('添加方式'),
           },
           ...Object.entries(getRegionNameMap()).reduce(
             (res, [region, name]) => {
