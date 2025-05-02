@@ -9230,7 +9230,7 @@
       "formattedPrice": "$90.00",
       "Tower Unlock All Upgrades": "$30.00",
       "Bundle O' Monkey Money": "$90.00",
-      "Pile O' Monkey Money": "$90.00",
+      "Pile O' Monkey Money": "$150.00",
       "Vault O' Monkey Money": "$690.00",
       "500 Monkey Money": "$30.00",
       "Vault O' Tokens": "$320.00",
@@ -9247,7 +9247,10 @@
       "Classic Bomb Tower Skin Sale": "$30.00",
       "Classic Bomb Tower Skin": "$60.00",
       "Classic Dart Monkey Skin Sale": "$30.00",
-      "Classic Dart Monkey Skin": "$60.00"
+      "Classic Dart Monkey Skin": "$60.00",
+      "Healthy Bananas": "$30.00",
+      "Handful O' Tokens": "$30.00",
+      "Rank Up": "$30.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -9271,9 +9274,31 @@
       "Classic Bomb Tower Skin Sale": "$30.00",
       "Classic Bomb Tower Skin": "$60.00",
       "Classic Dart Monkey Skin Sale": "$30.00",
-      "Classic Dart Monkey Skin": "$60.00"
+      "Classic Dart Monkey Skin": "$60.00",
+      "Healthy Bananas": "$30.00",
+      "Handful O' Tokens": "$30.00",
+      "Rank Up": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746205346469,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Bigger Beacons": "$30.00",
+            "Healthy Bananas": "$30.00",
+            "Tower Unlock All Upgrades": "$30.00",
+            "Handful O' Tokens": "$30.00",
+            "Pile O' Tokens": "$150.00",
+            "Vault O' Tokens": "$320.00",
+            "Rank Up": "$30.00",
+            "500 Monkey Money": "$30.00",
+            "Pile O' Monkey Money": "$150.00",
+            "Vault O' Monkey Money": "$690.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746069756189,
