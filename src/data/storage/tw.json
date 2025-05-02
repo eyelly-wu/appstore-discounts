@@ -12063,7 +12063,17 @@
       "Panda Express": "$60.00",
       "Ocean Vacation": "$0.00",
       "Good News!": "$90.00",
-      "Food Fight": "$60.00"
+      "Food Fight": "$60.00",
+      "Kids Family Bundle BYOD": "$220.00",
+      "Kids Bundle with BYOD": "$150.00",
+      "Kids Family Bundle BYOD Sale": "$190.00",
+      "Build Your Own Deck - Kids": "$90.00",
+      "Kids Bundle with BYOD Sale": "$120.00",
+      "50 Decks, More Laughs": "$690.00",
+      "Kids Bundle": "$150.00",
+      "Kids Family Bundle": "$220.00",
+      "AAPI Month Bundle": "$190.00",
+      "Chinese Cuisine Deck": "$60.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -12077,9 +12087,38 @@
       "Panda Express": "$60.00",
       "Ocean Vacation": "$0.00",
       "Good News!": "$90.00",
-      "Food Fight": "$60.00"
+      "Food Fight": "$60.00",
+      "Kids Family Bundle BYOD": "$220.00",
+      "Kids Bundle with BYOD": "$150.00",
+      "Kids Family Bundle BYOD Sale": "$190.00",
+      "Build Your Own Deck - Kids": "$90.00",
+      "Kids Bundle with BYOD Sale": "$120.00",
+      "50 Decks, More Laughs": "$690.00",
+      "Kids Bundle": "$150.00",
+      "Kids Family Bundle": "$220.00",
+      "AAPI Month Bundle": "$190.00",
+      "Chinese Cuisine Deck": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746180150402,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Kids Family Bundle BYOD": "$220.00",
+            "Kids Bundle with BYOD": "$150.00",
+            "Kids Family Bundle BYOD Sale": "$190.00",
+            "Build Your Own Deck - Kids": "$90.00",
+            "Kids Bundle with BYOD Sale": "$120.00",
+            "50 Decks, More Laughs": "$690.00",
+            "Kids Bundle": "$150.00",
+            "Kids Family Bundle": "$220.00",
+            "AAPI Month Bundle": "$190.00",
+            "Chinese Cuisine Deck": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -23590,6 +23629,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746180150402,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Miku": "$320.00",
+            "CAPSO": "$320.00",
+            "ConneR": "$320.00",
+            "Xenon": "$320.00",
+            "9 Characters": "$1,190.00",
+            "Cherry": "$320.00",
+            "Kizuna AI": "$320.00",
+            "Battle CHAOS 2019": "$60.00",
+            "Alice": "$320.00",
+            "maimai DX+": "$60.00"
+          }
+        },
         {
           "timestamp": 1746158574062,
           "price": 0,

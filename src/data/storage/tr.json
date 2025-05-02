@@ -6880,6 +6880,23 @@
     "history": [
       [
         {
+          "timestamp": 1746180150402,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Procurement Director": "₺39,99",
+            "Disaster Manager": "₺39,99",
+            "Medical Coordinator": "₺39,99",
+            "Ethics Watchdog": "₺39,99",
+            "Chaos Engineer": "₺39,99",
+            "Economic Forecaster": "₺39,99",
+            "Situation Director": "₺39,99",
+            "Outreach Coordinator": "₺39,99",
+            "Fast Response EMTs": "₺39,99",
+            "Strategic Fundraiser": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1746172979393,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -19223,7 +19240,8 @@
       "Super Yacht": "₺179,99",
       "Hollywood Theme Bundle": "₺299,99",
       "Murder Express train station": "₺179,99",
-      "Classic Mansion": "₺179,99"
+      "Classic Mansion": "₺179,99",
+      "Ultimate Detective Collection": "₺899,99"
     },
     "minPriceInfo": {
       "price": 299.99,
@@ -19237,9 +19255,20 @@
       "Super Yacht": "₺179,99",
       "Hollywood Theme Bundle": "₺299,99",
       "Murder Express train station": "₺179,99",
-      "Classic Mansion": "₺179,99"
+      "Classic Mansion": "₺179,99",
+      "Ultimate Detective Collection": "₺899,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746180150402,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Ultimate Detective Collection": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745384546601,
@@ -25198,6 +25227,17 @@
     "history": [
       [
         {
+          "timestamp": 1746180150402,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "₺99,99",
+            "RFS Pro (6 month)": "₺139,99",
+            "RFS Pro (1 year)": "₺599,99",
+            "RFS Pro (6 months)": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1746158574062,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -27180,6 +27220,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746180150402,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "New York 2121 Board": "₺249,99",
+            "Orient Express": "₺129,99",
+            "The Complete Collection": "₺1.499,99",
+            "The Atlantis Board": "₺249,99",
+            "Victorian London Board": "₺249,99",
+            "Golden Dice": "₺229,99",
+            "The Hyda Token": "₺129,99",
+            "Lava Dice": "₺229,99",
+            "Transylvania Board": "₺249,99"
+          }
+        },
         {
           "timestamp": 1746178362718,
           "price": 229.99,
@@ -39885,7 +39942,13 @@
       "Krone BiG Pack 1290 HDP VC": "₺39,99",
       "KINZE 3665 Blue Drive": "₺39,99",
       "Case IH Speed-Tiller": "₺39,99",
-      "Versatile 4WD 620": "₺99,99"
+      "Versatile 4WD 620": "₺99,99",
+      "JD 9000 Series + 390 Plus": "₺99,99",
+      "Vervaet Hydro Trike 5x5": "₺99,99",
+      "Kubota RTV-XG850 SIDEKICK": "₺99,99",
+      "Case IH Austoft 8800 Multi-Row": "₺99,99",
+      "Kotte PQ 32000": "₺39,99",
+      "Claas Xerion 5000": "₺99,99"
     },
     "minPriceInfo": {
       "price": 299.99,
@@ -39899,9 +39962,34 @@
       "Krone BiG Pack 1290 HDP VC": "₺39,99",
       "KINZE 3665 Blue Drive": "₺39,99",
       "Case IH Speed-Tiller": "₺39,99",
-      "Versatile 4WD 620": "₺99,99"
+      "Versatile 4WD 620": "₺99,99",
+      "JD 9000 Series + 390 Plus": "₺99,99",
+      "Vervaet Hydro Trike 5x5": "₺99,99",
+      "Kubota RTV-XG850 SIDEKICK": "₺99,99",
+      "Case IH Austoft 8800 Multi-Row": "₺99,99",
+      "Kotte PQ 32000": "₺39,99",
+      "Claas Xerion 5000": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746180150402,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "₺99,99",
+            "Vervaet Hydro Trike 5x5": "₺99,99",
+            "Kubota RTV-XG850 SIDEKICK": "₺99,99",
+            "Case IH Austoft 8800 Multi-Row": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺39,99",
+            "Kotte PQ 32000": "₺39,99",
+            "KINZE 3665 Blue Drive": "₺39,99",
+            "Versatile 4WD 620": "₺99,99",
+            "Amazone CITAN 15001-C": "₺39,99",
+            "Claas Xerion 5000": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
