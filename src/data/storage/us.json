@@ -15937,6 +15937,14 @@
     "history": [
       [
         {
+          "timestamp": 1746155902443,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741575743217,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -24615,7 +24623,7 @@
       "unlockall_29": "$20.99",
       "Rin·Len's Mirrorland": "$4.99",
       "cyTus": "$3.99",
-      "Let's GROOVE": "$3.99",
+      "Let's GROOVE": "$2.99",
       "Give Up TREATMENT Vol.3": "$2.99",
       "Let's Rhythm Jam!": "$2.99",
       "MUSE RADIO FM105": "$2.99",
@@ -24647,6 +24655,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746155902443,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$2.99",
+            "MSR Anthology": "$3.99"
+          }
+        },
         {
           "timestamp": 1746149390914,
           "price": 2.99,
