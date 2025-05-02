@@ -25573,7 +25573,7 @@
       "Koala AUv3 Plugin": "₺99,99",
       "Cirrus Cuts Sample Pack": "₺129,99",
       "Analog Astronaut Samplepack": "₺129,99",
-      "Soon Come Dub Sample Pack": "₺99,99"
+      "Soon Come Dub Sample Pack": "₺129,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -25587,6 +25587,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746198143480,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Samurai Edition": "₺179,99",
+            "Mixer": "₺229,99",
+            "Cirrus Cuts Sample Pack": "₺129,99",
+            "Analog Astronaut Samplepack": "₺129,99",
+            "Soon Come Dub Sample Pack": "₺129,99"
+          }
+        },
         {
           "timestamp": 1746169341945,
           "price": 229.99,

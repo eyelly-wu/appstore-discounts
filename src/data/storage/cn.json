@@ -1150,6 +1150,25 @@
     "history": [
       [
         {
+          "timestamp": 1746198143480,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "通用型套餐-25元": "¥25.00",
+            "通用型套餐-159元": "¥159.00",
+            "通用型套餐-318元": "¥318.00",
+            "通用型套餐-718元": "¥718.00",
+            "通用型套餐-468元": "¥468.00",
+            "通用型套餐-408元": "¥408.00",
+            "通用型套餐-329元": "¥329.00",
+            "免广告会员十二个月15元": "¥15.00",
+            "免广告会员三个月": "¥8.00",
+            "免广告会员十二个月": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1744812157775,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -26526,7 +26545,7 @@
       "Koala AUv3 Plugin": "¥15.00",
       "Cirrus Cuts Sample Pack": "¥22.00",
       "Analog Astronaut Samplepack": "¥22.00",
-      "Soon Come Dub Sample Pack": "¥18.00"
+      "Soon Come Dub Sample Pack": "¥22.00"
     },
     "minPriceInfo": {
       "price": 38,
@@ -26540,6 +26559,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746198143480,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Samurai Edition": "¥28.00",
+            "Mixer": "¥38.00",
+            "Cirrus Cuts Sample Pack": "¥22.00",
+            "Analog Astronaut Samplepack": "¥22.00",
+            "Soon Come Dub Sample Pack": "¥22.00"
+          }
+        },
         {
           "timestamp": 1746169341945,
           "price": 38,
@@ -35382,6 +35413,25 @@
       "212枚鸡蛋": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746198143480,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {
+            "212枝鲜花": "¥128.00",
+            "99枝鲜花": "¥68.00",
+            "7枝鲜花": "¥6.00",
+            "7枚鸡蛋": "¥6.00",
+            "15枝鲜花": "¥12.00",
+            "396枝鲜花": "¥198.00",
+            "41枝鲜花": "¥30.00",
+            "41枚鸡蛋": "¥30.00",
+            "212枚鸡蛋": "¥128.00",
+            "15枚鸡蛋": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1742252540459,

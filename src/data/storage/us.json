@@ -9493,7 +9493,7 @@
       "500 Monkey Money": "$0.99",
       "Tower Unlock All Upgrades": "$0.99",
       "Bundle O' Monkey Money": "$2.99",
-      "Pile O' Monkey Money": "$2.99",
+      "Pile O' Monkey Money": "$4.99",
       "Rank Up": "$0.99",
       "Vault O' Tokens": "$9.99",
       "Double Cash Mode": "$9.99",
@@ -9508,7 +9508,10 @@
       "Classic Bomb Tower Skin Sale": "$0.99",
       "Classic Bomb Tower Skin": "$1.99",
       "Classic Dart Monkey Skin Sale": "$0.99",
-      "Classic Dart Monkey Skin": "$1.99"
+      "Classic Dart Monkey Skin": "$1.99",
+      "Bigger Beacons": "$0.99",
+      "Healthy Bananas": "$0.99",
+      "Handful O' Tokens": "$0.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -9531,9 +9534,31 @@
       "Classic Bomb Tower Skin Sale": "$0.99",
       "Classic Bomb Tower Skin": "$1.99",
       "Classic Dart Monkey Skin Sale": "$0.99",
-      "Classic Dart Monkey Skin": "$1.99"
+      "Classic Dart Monkey Skin": "$1.99",
+      "Bigger Beacons": "$0.99",
+      "Healthy Bananas": "$0.99",
+      "Handful O' Tokens": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746198143480,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Bigger Beacons": "$0.99",
+            "Healthy Bananas": "$0.99",
+            "Tower Unlock All Upgrades": "$0.99",
+            "Handful O' Tokens": "$0.99",
+            "Pile O' Tokens": "$4.99",
+            "Vault O' Tokens": "$9.99",
+            "Rank Up": "$0.99",
+            "500 Monkey Money": "$0.99",
+            "Pile O' Monkey Money": "$4.99",
+            "Vault O' Monkey Money": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746072334351,
@@ -23203,14 +23228,31 @@
       "Miku Extend 2025": "$4.99",
       "Paradigm: Reboot pt. 2": "$4.99",
       "Paradigm: Reboot pt. 1": "$4.99",
-      "RAVON": "$4.99",
+      "RAVON": "$1.99",
       "NEKO_II": "$9.99",
-      "Rhythm Games Party 2024": "$4.99",
-      "B.B.K.K.B.K.K. 2023 Remake SLC": "$4.99",
+      "Rhythm Games Party 2024": "$1.99",
+      "B.B.K.K.B.K.K. 2023 Remake SLC": "$1.99",
       "Battle CHAOS 2019": "$1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746198143480,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "HARDCORE TANO*C VOL.II": "$4.99",
+            "HARDCORE TANO*C": "$4.99",
+            "Cosmic Radio 2024": "$4.99",
+            "Miku Extend 2025": "$4.99",
+            "Paradigm: Reboot pt. 2": "$4.99",
+            "Paradigm: Reboot pt. 1": "$4.99",
+            "RAVON": "$1.99",
+            "NEKO_II": "$9.99",
+            "Rhythm Games Party 2024": "$1.99",
+            "B.B.K.K.B.K.K. 2023 Remake SLC": "$1.99"
+          }
+        },
         {
           "timestamp": 1746169341945,
           "price": 0,
@@ -33813,16 +33855,31 @@
       "formattedPrice": "$0.99",
       "RFS Pro (1 month)": "$4.99",
       "RFS Pro (1 year)": "$39.99",
-      "RFS Pro (6 month)": "$19.99"
+      "RFS Pro (6 month)": "$19.99",
+      "RFS Pro (6 months)": "$19.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
       "RFS Pro (1 month)": "$4.99",
-      "RFS Pro (1 year)": "$39.99",
-      "RFS Pro (6 month)": "$19.99"
+      "RFS Pro (1 year)": "$29.99",
+      "RFS Pro (6 month)": "$19.99",
+      "RFS Pro (6 months)": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746198143480,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "RFS Pro (1 year)": "$29.99",
+            "RFS Pro (6 months)": "$19.99",
+            "RFS Pro (1 month)": "$4.99",
+            "RFS Pro (6 month)": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -34008,7 +34065,7 @@
       "Koala AUv3 Plugin": "$1.99",
       "Cirrus Cuts Sample Pack": "$2.99",
       "Analog Astronaut Samplepack": "$2.99",
-      "Soon Come Dub Sample Pack": "$2.49"
+      "Soon Come Dub Sample Pack": "$2.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -34022,6 +34079,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746198143480,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Samurai Edition": "$3.99",
+            "Mixer": "$4.99",
+            "Analog Astronaut Samplepack": "$2.99",
+            "Cirrus Cuts Sample Pack": "$2.99",
+            "Soon Come Dub Sample Pack": "$2.99"
+          }
+        },
         {
           "timestamp": 1746169341945,
           "price": 4.99,
