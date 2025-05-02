@@ -9542,6 +9542,22 @@
     "history": [
       [
         {
+          "timestamp": 1746201754856,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "500 Monkey Money": "$0.99",
+            "Tower Unlock All Upgrades": "$0.99",
+            "Bundle O' Monkey Money": "$2.99",
+            "Pile O' Monkey Money": "$2.99",
+            "Rank Up": "$0.99",
+            "Vault O' Tokens": "$9.99",
+            "Double Cash Mode": "$9.99",
+            "Vault O' Monkey Money": "$19.99",
+            "Pile O' Tokens": "$4.99"
+          }
+        },
+        {
           "timestamp": 1746198143480,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -23237,6 +23253,23 @@
     "history": [
       [
         {
+          "timestamp": 1746201754856,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Marvelous Mix vol. 1": "$1.99",
+            "Battle CHAOS 2019": "$1.99"
+          }
+        },
+        {
           "timestamp": 1746198143480,
           "price": 0,
           "formattedPrice": "Free",
@@ -30294,6 +30327,16 @@
     "history": [
       [
         {
+          "timestamp": 1746201754856,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746028957031,
           "price": 0,
           "formattedPrice": "Free",
@@ -33869,6 +33912,16 @@
     "history": [
       [
         {
+          "timestamp": 1746201754856,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "$4.99",
+            "RFS Pro (1 year)": "$39.99",
+            "RFS Pro (6 month)": "$19.99"
+          }
+        },
+        {
           "timestamp": 1746198143480,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -34329,7 +34382,8 @@
       "Royal Rune": "$2.99",
       "Norths Warden Pet Pack": "$14.99",
       "Norths Warden Set": "$19.99",
-      "Black Friday Combo Items": "$29.99"
+      "Black Friday Combo Items": "$29.99",
+      "Double Exp Package 2": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -34355,9 +34409,29 @@
       "Royal Rune": "$2.99",
       "Norths Warden Pet Pack": "$14.99",
       "Norths Warden Set": "$19.99",
-      "Black Friday Combo Items": "$29.99"
+      "Black Friday Combo Items": "$29.99",
+      "Double Exp Package 2": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746201754856,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Double Exp Package 2": "$1.99",
+            "Flash Sale Crystal 3": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746032532729,
