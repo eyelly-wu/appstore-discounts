@@ -3981,7 +3981,13 @@
       "Magnetic Stars Tiny Pack": "$120.00",
       "Unlock \"Rocket Science\" level pack": "$60.00",
       "Unlock \"Bath Time\" level pack": "$60.00",
-      "Unlock \"Handy сandy\" level pack": "$60.00"
+      "Unlock \"Handy сandy\" level pack": "$60.00",
+      "Magnetic Stars Superior Pack": "$790.00",
+      "Superpower 50 Sale": "$150.00",
+      "Magnetic Stars Grand Pack Sale": "$290.00",
+      "Magnetic Stars Grand Pack": "$490.00",
+      "Magnetic Stars Large Pack": "$220.00",
+      "Unlock \"Ant Hill\" level pack": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -3995,9 +4001,33 @@
       "Magnetic Stars Tiny Pack": "$120.00",
       "Unlock \"Rocket Science\" level pack": "$60.00",
       "Unlock \"Bath Time\" level pack": "$60.00",
-      "Unlock \"Handy сandy\" level pack": "$60.00"
+      "Unlock \"Handy сandy\" level pack": "$60.00",
+      "Magnetic Stars Superior Pack": "$790.00",
+      "Superpower 50 Sale": "$150.00",
+      "Magnetic Stars Grand Pack Sale": "$290.00",
+      "Magnetic Stars Grand Pack": "$490.00",
+      "Magnetic Stars Large Pack": "$220.00",
+      "Unlock \"Ant Hill\" level pack": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746144557554,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Magnetic Stars Superior Pack": "$790.00",
+            "Superpower 50 Sale": "$150.00",
+            "Magnetic Stars Grand Pack Sale": "$290.00",
+            "Magnetic Stars Grand Pack": "$490.00",
+            "Magnetic Stars Large Pack": "$220.00",
+            "Magnetic Stars Tiny Pack": "$120.00",
+            "Unlock \"Bath Time\" level pack": "$60.00",
+            "Unlock \"Bamboo Chutes\" level pack": "$60.00",
+            "Unlock \"Ant Hill\" level pack": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -23036,6 +23066,27 @@
             "2,000,000 coins": "$990.00",
             "1,300,000 coins": "$790.00"
           }
+        }
+      ]
+    ]
+  },
+  "1269488509": {
+    "name": "饥荒语音助手",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746144557554,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
         }
       ]
     ]
