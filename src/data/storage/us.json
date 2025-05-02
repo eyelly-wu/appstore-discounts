@@ -40348,6 +40348,23 @@
     "history": [
       [
         {
+          "timestamp": 1746208990616,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$4.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$9.99",
+            "Midnight Night Out Pack": "$1.99",
+            "Ready to Roast": "$2.99",
+            "Celebrity Deck": "$2.99",
+            "Sports and Games Pack": "$2.99",
+            "Generations Gen Z Pack": "$0.99",
+            "Midnight Bedroom Pack": "$1.99",
+            "Surprise Pack 1": "$2.99"
+          }
+        },
+        {
           "timestamp": 1746205346469,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -46663,14 +46680,22 @@
   "1659271912": {
     "name": "Train Dispatcher!2",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "$0.29"
+      "price": 0.39,
+      "formattedPrice": "$0.39"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746208990616,
+          "price": 0.39,
+          "formattedPrice": "$0.39",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
