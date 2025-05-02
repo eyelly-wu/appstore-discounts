@@ -2641,6 +2641,20 @@
     "history": [
       [
         {
+          "timestamp": 1746158574062,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Premium": "$360.00",
+            "Super Powers": "$90.00",
+            "Pack of 100 Credits": "$90.00",
+            "Pack of 550 Credits": "$390.00",
+            "100 Badoo Credits": "$149.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745877742391,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -15134,6 +15148,25 @@
     "history": [
       [
         {
+          "timestamp": 1746158574062,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "新手包": "$150.00",
+            "Aria Gold Sniper Rifle": "$790.00",
+            "Dragun": "$490.00",
+            "The Merry Maker Rifle": "$490.00",
+            "Exorcist": "$490.00",
+            "Largo Sniper Rifle": "$30.00",
+            "Jaeger Sniper Rifle": "$790.00",
+            "Aria Sniper Rifle": "$320.00",
+            "超大型金錢包": "$320.00",
+            "極慢板狙擊步槍": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746043355381,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -17833,6 +17866,25 @@
     "history": [
       [
         {
+          "timestamp": 1746158574062,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Special pack": "$150.00",
+            "Great pack": "$320.00",
+            "Small pack": "$30.00",
+            "Handful of caps": "$30.00",
+            "Seasonal event item": "$2,990.00",
+            "Legendary pack": "$2,990.00",
+            "Big pack": "$690.00",
+            "Pile of caps": "$150.00",
+            "Standart pack": "$60.00",
+            "Case with caps": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745985748755,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -20138,7 +20190,13 @@
       "600,000 points": "$790.00",
       "500,000 points": "$320.00",
       "25,000 points": "$30.00",
-      "300,000 points": "$290.00"
+      "300,000 points": "$290.00",
+      "7,000,000 points": "$2,490.00",
+      "2,100,000 points": "$990.00",
+      "1,500,000 points": "$790.00",
+      "850,000 points": "$490.00",
+      "10,000,000 points": "$2,990.00",
+      "3,750,000 points": "$1,490.00"
     },
     "minPriceInfo": {
       "price": 20,
@@ -20152,9 +20210,34 @@
       "600,000 points": "$790.00",
       "500,000 points": "$320.00",
       "25,000 points": "$30.00",
-      "300,000 points": "$290.00"
+      "300,000 points": "$290.00",
+      "7,000,000 points": "$2,490.00",
+      "2,100,000 points": "$990.00",
+      "1,500,000 points": "$790.00",
+      "850,000 points": "$490.00",
+      "10,000,000 points": "$2,990.00",
+      "3,750,000 points": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746158574062,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "7,000,000 points": "$2,490.00",
+            "500,000 points": "$320.00",
+            "2,100,000 points": "$990.00",
+            "100,000 points": "$90.00",
+            "25,000 points": "$30.00",
+            "1,500,000 points": "$790.00",
+            "850,000 points": "$490.00",
+            "10,000,000 points": "$2,990.00",
+            "3,750,000 points": "$1,490.00",
+            "300,000 points": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -20633,6 +20716,25 @@
       "Open the box to the sea": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746158574062,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "$30.00",
+            "Get coffin password": "$30.00",
+            "Get the main entrance lighthouse passcode": "$30.00",
+            "Pyramid obtain dial pointer display mode": "$30.00",
+            "Props Tip: Pyramid": "$30.00",
+            "Props Tip: Temple corner": "$30.00",
+            "Props Tip: flower": "$30.00",
+            "Open the box to the sea": "$30.00",
+            "Get inside the temple door password": "$30.00",
+            "Rockets get the door unlocking": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745989342321,
@@ -23341,6 +23443,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746158574062,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Miku": "$320.00",
+            "CAPSO": "$320.00",
+            "ConneR": "$320.00",
+            "Xenon": "$320.00",
+            "9 Characters": "$1,190.00",
+            "Cherry": "$320.00",
+            "Kizuna AI": "$320.00",
+            "Battle CHAOS 2019": "$60.00",
+            "Alice": "$320.00",
+            "Neko": "$320.00"
+          }
+        },
         {
           "timestamp": 1746136938760,
           "price": 0,
@@ -39970,8 +40089,8 @@
   "1567658979": {
     "name": "SkySafari 7 Pro",
     "maxPriceInfo": {
-      "price": 690,
-      "formattedPrice": "$690.00",
+      "price": 990,
+      "formattedPrice": "$990.00",
       "SkySafari Premium Monthly": "$120.00",
       "PGC Galaxy Database": "$0.00",
       "GAIA Star Database": "$0.00",
@@ -39988,6 +40107,20 @@
       "SkySafari Premium": "$990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746158574062,
+          "price": 990,
+          "formattedPrice": "$990.00",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "$120.00",
+            "PGC Galaxy Database": "$0.00",
+            "GAIA Star Database": "$0.00",
+            "Apollo Lunar Missions": "$0.00",
+            "SkySafari Premium": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
@@ -41567,6 +41700,25 @@
       "法語音頻": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746158574062,
+          "price": 549,
+          "formattedPrice": "$549.00",
+          "inAppPurchases": {
+            "德語音頻": "$0.00",
+            "Tales of Valor - Russian": "$0.00",
+            "《Tales of Valor》": "$0.00",
+            "Tales of Valor - Spanish": "$0.00",
+            "Opposing Fronts - French": "$0.00",
+            "Opposing Fronts - Spanish": "$0.00",
+            "Tales of Valor - French": "$0.00",
+            "戰役任務 6-10": "$0.00",
+            "高畫質模型": "$0.00",
+            "法語音頻": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745885359440,
@@ -53071,6 +53223,25 @@
       "Case IH Austoft 8800 Multi-Row": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746158574062,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$90.00",
+            "ClaasLexion8900+ConvioFlex1380": "$90.00",
+            "Amazone CITAN 15001-C": "$30.00",
+            "500'000 Coins": "$60.00",
+            "Case IH Speed-Tiller": "$30.00",
+            "Claas Xerion 5000": "$60.00",
+            "200'000 Coins": "$30.00",
+            "Mack Trucks Black Anthem 6x4": "$60.00",
+            "New Holland T8.435 Genesis": "$60.00",
+            "Versatile 4WD 620": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746104924727,

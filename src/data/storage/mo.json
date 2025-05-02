@@ -33757,8 +33757,8 @@
   "1567658979": {
     "name": "SkySafari 7 Pro",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "USD 19.99",
+      "price": 29.99,
+      "formattedPrice": "USD 29.99",
       "SkySafari Premium Monthly": "USD 3.99",
       "SkySafari Premium": "USD 29.99",
       "Apollo Lunar Missions": "USD 0.00",
@@ -33775,6 +33775,20 @@
       "PGC Galaxy Database": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746158574062,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "USD 3.99",
+            "SkySafari Premium": "USD 29.99",
+            "Apollo Lunar Missions": "USD 0.00",
+            "GAIA Star Database": "USD 0.00",
+            "PGC Galaxy Database": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
