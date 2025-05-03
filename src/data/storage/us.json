@@ -488,6 +488,23 @@
     "history": [
       [
         {
+          "timestamp": 1746266529761,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "1000 coins": "$0.99",
+            "10,000 coins": "$1.99",
+            "30,000 coins": "$2.99",
+            "1000 candies": "$0.99",
+            "500 eggs": "$0.99",
+            "10000 candies": "$2.99",
+            "5000 eggs": "$1.99",
+            "100,000 gold": "$1.99",
+            "10,000 gold": "$0.99",
+            "100,000 coins": "$3.99"
+          }
+        },
+        {
           "timestamp": 1746244942439,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -25146,6 +25163,22 @@
     "history": [
       [
         {
+          "timestamp": 1746266529761,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$2.99",
+            "Valentine Stage": "$3.99"
+          }
+        },
+        {
           "timestamp": 1746244942439,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -34570,7 +34603,9 @@
       "Norths Warden Pet Pack": "$14.99",
       "Norths Warden Set": "$19.99",
       "Black Friday Combo Items": "$29.99",
-      "Double Exp Package 2": "$1.99"
+      "Double Exp Package 2": "$1.99",
+      "Flash Sale Ultimate Essence 2": "$9.99",
+      "Flash Sale Soul 2": "$2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -34597,10 +34632,29 @@
       "Norths Warden Pet Pack": "$14.99",
       "Norths Warden Set": "$19.99",
       "Black Friday Combo Items": "$29.99",
-      "Double Exp Package 2": "$1.99"
+      "Double Exp Package 2": "$1.99",
+      "Flash Sale Ultimate Essence 2": "$9.99",
+      "Flash Sale Soul 2": "$2.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746266529761,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Flash Sale Ultimate Essence 2": "$9.99",
+            "Flash Sale Soul 2": "$2.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99"
+          }
+        },
         {
           "timestamp": 1746244942439,
           "price": 0.99,
@@ -48048,6 +48102,25 @@
     "history": [
       [
         {
+          "timestamp": 1746266529761,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Attaché Case: 'Classic'": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745218947489,
           "price": 0,
           "formattedPrice": "Free",
@@ -55240,6 +55313,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746266529761,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "1M PP + Pack 2 for OOTP Go 26!": "$499.99",
+            "1M PP + Pack 3 for OOTP Go 26!": "$499.99",
+            "1M PP + Pack 1 for OOTP Go 26!": "$499.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "1,000,000 PP for OOTP Go 26!": "$499.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "1M PP + Pack 4 for OOTP Go 26!": "$499.99",
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99"
+          }
+        },
         {
           "timestamp": 1746244942439,
           "price": 9.99,
