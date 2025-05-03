@@ -13136,7 +13136,11 @@
       "10 Pack Qualifying Tyres": "$30.00",
       "RP Value Tyre Pack - Mediums": "$150.00",
       "Racing Prodigy X30 La Conca L4": "$490.00",
-      "Racing Prodigy X30 Atlanta": "$490.00"
+      "Racing Prodigy X30 Atlanta": "$490.00",
+      "300 Aces Limited Time Offer": "$30.00",
+      "1000 Aces Limited Time Offer": "$320.00",
+      "1500 Aces Limited Time Offer": "$320.00",
+      "5000 Aces Limited Time Offer": "$990.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -13150,9 +13154,32 @@
       "10 Pack Qualifying Tyres": "$30.00",
       "RP Value Tyre Pack - Mediums": "$150.00",
       "Racing Prodigy X30 La Conca L4": "$490.00",
-      "Racing Prodigy X30 Atlanta": "$490.00"
+      "Racing Prodigy X30 Atlanta": "$490.00",
+      "300 Aces Limited Time Offer": "$30.00",
+      "1000 Aces Limited Time Offer": "$320.00",
+      "1500 Aces Limited Time Offer": "$320.00",
+      "5000 Aces Limited Time Offer": "$990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746255733914,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "300 Aces Limited Time Offer": "$30.00",
+            "300 Aces": "$190.00",
+            "700 Aces": "$320.00",
+            "5000 Aces": "$1,290.00",
+            "15000 Aces": "$2,990.00",
+            "Race Pass": "$160.00",
+            "700 Aces Limited Time Offer": "$150.00",
+            "1000 Aces Limited Time Offer": "$320.00",
+            "1500 Aces Limited Time Offer": "$320.00",
+            "5000 Aces Limited Time Offer": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
