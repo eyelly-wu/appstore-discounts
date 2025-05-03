@@ -22288,6 +22288,23 @@
     "history": [
       [
         {
+          "timestamp": 1746235779716,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Hero Tank": "$5.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Tower Goblin War Zeppelin": "$6.99",
+            "Pirate Kings Campaign!": "$7.99"
+          }
+        },
+        {
           "timestamp": 1746191337517,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -51314,7 +51331,8 @@
       "Professional Training": "$14.99",
       "Backpack Expansion": "$1.99",
       "120 Gold": "$1.99",
-      "1280 Gold": "$19.99"
+      "1280 Gold": "$19.99",
+      "Special Training": "$9.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -51328,9 +51346,29 @@
       "Professional Training": "$14.99",
       "Backpack Expansion": "$1.99",
       "120 Gold": "$1.99",
-      "1280 Gold": "$19.99"
+      "1280 Gold": "$19.99",
+      "Special Training": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746235779716,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Double Combat Rewards": "$1.99",
+            "300 Gold": "$4.99",
+            "60 Gold": "$0.99",
+            "Monthly Card": "$4.99",
+            "680 Gold": "$9.99",
+            "Professional Training": "$14.99",
+            "980 Gold": "$14.99",
+            "120 Gold": "$1.99",
+            "Special Training": "$9.99",
+            "Backpack Expansion": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -55005,6 +55043,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746235779716,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 2004": "$0.99",
+            "Season MLB 1901": "$0.99",
+            "Bundle MLB 1980s": "$4.99",
+            "Season MLB 2000": "$0.99"
+          }
+        },
         {
           "timestamp": 1746223337216,
           "price": 9.99,
