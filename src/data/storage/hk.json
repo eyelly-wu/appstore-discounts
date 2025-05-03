@@ -2800,6 +2800,19 @@
     "history": [
       [
         {
+          "timestamp": 1746280935252,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Premium": "HK$ 133.00",
+            "Pack of 100 Credits": "HK$ 22.00",
+            "Super Powers": "HK$ 98.00",
+            "Pack of 550 Credits": "HK$ 118.00",
+            "Pack of 3050 Credits": "HK$ 250.00",
+            "Pack of 1250 Credits": "HK$ 228.00"
+          }
+        },
+        {
           "timestamp": 1746277616289,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -35292,6 +35305,25 @@
     "history": [
       [
         {
+          "timestamp": 1746280935252,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "648金玉": "HK$ 788.00",
+            "328金玉": "HK$ 398.00",
+            "月俸": "HK$ 22.00",
+            "戰姬": "HK$ 788.00",
+            "尊享月俸": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746169341945,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -49890,6 +49922,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746280935252,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,
