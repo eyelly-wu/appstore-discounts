@@ -36821,7 +36821,10 @@
       "Five Dice Bundle": "$14.99",
       "Camille the Chameleon Token": "$9.99",
       "Atlantis Marine Bundle": "$11.99",
-      "The Fire and Ice Bundle": "$4.99"
+      "The Fire and Ice Bundle": "$4.99",
+      "Victorian London Marine Bundle": "$11.99",
+      "The Slam Dunk Bundle": "$4.99",
+      "Blazin' Blue the Monster Truck": "$9.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -36838,12 +36841,30 @@
       "New York 2121": "$7.99",
       "Transylvania Marine Bundle": "$11.99",
       "Paris Marine Bundle": "$11.99",
-      "Five Dice Bundle": "$14.99",
+      "Five Dice Bundle": "$12.99",
       "Camille the Chameleon Token": "$9.99",
       "Atlantis Marine Bundle": "$11.99",
-      "The Fire and Ice Bundle": "$4.99"
+      "The Fire and Ice Bundle": "$4.99",
+      "Victorian London Marine Bundle": "$11.99",
+      "The Slam Dunk Bundle": "$4.99",
+      "Blazin' Blue the Monster Truck": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746370936943,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Victorian London Marine Bundle": "$11.99",
+            "The Slam Dunk Bundle": "$4.99",
+            "Blazin' Blue the Monster Truck": "$9.99",
+            "Transylvania Marine Bundle": "$11.99",
+            "Paris Marine Bundle": "$11.99",
+            "Five Dice Bundle": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
@@ -53530,6 +53551,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746370936943,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pennsylvania Carriage B": "$1.99",
+            "Pennsylvania Locomotive B": "$1.99",
+            "Pennsylvania Locomotive A": "$1.99",
+            "Pennsylvania Carriage A": "$1.99",
+            "Pennsylvania Character A": "$1.99",
+            "Pennsylvania Character B": "$1.99",
+            "Germany Carriage B": "$1.99",
+            "Germany Carriage A": "$1.99",
+            "Germany Locomotive B": "$1.99",
+            "Germany Locomotive A": "$1.99"
+          }
+        },
         {
           "timestamp": 1746331470214,
           "price": 4.99,

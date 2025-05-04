@@ -35000,7 +35000,7 @@
       "formattedPrice": "HK$ 8.00",
       "RFS Pro (1個月)": "HK$ 43.00",
       "RFS Pro (1年)": "HK$ 268.00",
-      "RFS Pro (6個月)": "HK$ 148.00"
+      "RFS Pro (6個月)": "HK$ 178.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -35010,6 +35010,18 @@
       "RFS Pro (6個月)": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746370936943,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "RFS Pro (1個月)": "HK$ 43.00",
+            "RFS Pro (6個月)": "HK$ 178.00",
+            "RFS Pro (1年)": "HK$ 228.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746072334351,
