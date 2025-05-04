@@ -94,7 +94,7 @@
 |1001|535176909|自动|❌|BADLAND|BADLAND|BADLAND|BADLAND|BADLAND|
 |1000|601831815|自动|❌|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|
 |999|1614795077|自动|❌|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|
-|998|6744998205|自动|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|
+|998|6744998205|自动|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|
 |997|6477745183|自动|❌|Echo Ways|Echo Ways|Echo Ways|Echo Ways|Echo Ways|
 |996|557168861|自动|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|
 |995|586604476|自动|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|

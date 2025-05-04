@@ -91,7 +91,7 @@ So far, we've covered `6` `Countries or Regions` and  `1020` `Apps` <br />Push n
 |1001|535176909|Automatic|❌|BADLAND|BADLAND|BADLAND|BADLAND|BADLAND|
 |1000|601831815|Automatic|❌|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|
 |999|1614795077|Automatic|❌|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|
-|998|6744998205|Automatic|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|
+|998|6744998205|Automatic|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|
 |997|6477745183|Automatic|❌|Echo Ways|Echo Ways|Echo Ways|Echo Ways|Echo Ways|
 |996|557168861|Automatic|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|
 |995|586604476|Automatic|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|
