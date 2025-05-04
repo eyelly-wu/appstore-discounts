@@ -8521,6 +8521,25 @@
     "history": [
       [
         {
+          "timestamp": 1746396132292,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Captain Blackthorne": "₺39,99",
+            "Nivus": "₺39,99",
+            "Dierdre": "₺39,99",
+            "Grawl": "₺129,99",
+            "Sha'tra": "₺129,99",
+            "Ashbite": "₺299,99",
+            "Handfull of gems": "₺129,99",
+            "Bag of gems": "₺229,99",
+            "Chest of gems": "₺449,99",
+            "Karkinos": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745298140588,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -24361,7 +24380,8 @@
       "Devil's Peak": "₺99,99",
       "Defence Minister": "₺39,99",
       "Military Recruiter": "₺39,99",
-      "Drone Programmer": "₺39,99"
+      "Drone Programmer": "₺39,99",
+      "Instructor Unlock": "₺39,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -24386,9 +24406,28 @@
       "Devil's Peak": "₺99,99",
       "Defence Minister": "₺39,99",
       "Military Recruiter": "₺39,99",
-      "Drone Programmer": "₺39,99"
+      "Drone Programmer": "₺39,99",
+      "Instructor Unlock": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746396132292,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Early Unlock Cheats": "₺449,99",
+            "Command Pack": "₺399,99",
+            "Early Unlock Cheats (discount)": "₺229,99",
+            "Private Donor Unlock": "₺39,99",
+            "Campaign + Challenge": "₺229,99",
+            "All Advisors Unlock": "₺449,99",
+            "Instructor Unlock": "₺39,99",
+            "Region Tour": "₺179,99",
+            "Armchair Architect Unlock": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746345769493,
@@ -31607,7 +31646,8 @@
       "Celebrity Musicians Pack": "₺39,99",
       "Midnight Mix Pack 2": "₺99,99",
       "Double Mystery Bundle": "₺229,99",
-      "Holiday Christmas Pack 2": "₺39,99"
+      "Holiday Christmas Pack 2": "₺39,99",
+      "Fun & Games Sports Mix Pack 2": "₺39,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -31625,9 +31665,29 @@
       "Celebrity Musicians Pack": "₺39,99",
       "Midnight Mix Pack 2": "₺99,99",
       "Double Mystery Bundle": "₺229,99",
-      "Holiday Christmas Pack 2": "₺39,99"
+      "Holiday Christmas Pack 2": "₺39,99",
+      "Fun & Games Sports Mix Pack 2": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746396132292,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Midnight Deck": "₺229,99",
+            "Midnight Night Out Pack": "₺99,99",
+            "Holiday Christmas Pack": "₺39,99",
+            "Word Bonanza Bundle": "₺449,99",
+            "Fun & Games Sports Mix Pack 1": "₺39,99",
+            "Celebrity Musicians Pack": "₺39,99",
+            "Mystery Mix Pack 1": "₺39,99",
+            "Midnight Bedroom Pack": "₺99,99",
+            "Fun & Games Sports Mix Pack 2": "₺39,99",
+            "Surprise Pack 1": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746244942439,
