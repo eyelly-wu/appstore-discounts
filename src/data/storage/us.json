@@ -10349,6 +10349,25 @@
     "history": [
       [
         {
+          "timestamp": 1746322210621,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746223337216,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -21732,7 +21751,8 @@
       "250 Hell Stones": "$41.99",
       "120 Hell Stones": "$24.99",
       "30 Hell Stones": "$8.99",
-      "500 Hell Stones": "$41.99"
+      "500 Hell Stones": "$41.99",
+      "Hell Package": "$24.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -21757,9 +21777,29 @@
       "250 Hell Stones": "$41.99",
       "120 Hell Stones": "$24.99",
       "30 Hell Stones": "$8.99",
-      "500 Hell Stones": "$41.99"
+      "500 Hell Stones": "$41.99",
+      "Hell Package": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746322210621,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Element EXP increase": "$8.99",
+            "180 Rubies": "$2.99",
+            "Magic Package": "$8.99",
+            "Hell Package": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746010927809,
@@ -22488,6 +22528,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746322210621,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Hero Tank": "$5.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Tower Goblin War Zeppelin": "$6.99",
+            "Pirate Kings Campaign!": "$7.99"
+          }
+        },
         {
           "timestamp": 1746244942439,
           "price": 4.99,
@@ -25251,6 +25308,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746322210621,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Valentine Stage": "$3.99",
+            "Let's GROOVE": "$2.99"
+          }
+        },
         {
           "timestamp": 1746288131453,
           "price": 2.99,
