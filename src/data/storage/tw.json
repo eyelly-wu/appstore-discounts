@@ -5120,6 +5120,14 @@
     "history": [
       [
         {
+          "timestamp": 1746367332061,
+          "price": 130,
+          "formattedPrice": "$130.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745690547280,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -16204,6 +16212,14 @@
     "history": [
       [
         {
+          "timestamp": 1746367332061,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746108137941,
           "price": 0,
           "formattedPrice": "免費",
@@ -18807,6 +18823,14 @@
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746367332061,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745874133431,
@@ -24637,6 +24661,25 @@
       "Geometric Frame Pack": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746367332061,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Design Frame Package": "$30.00",
+            "Social Frame Package": "$30.00",
+            "Magazine Frame Package": "$30.00",
+            "Black Frame Pack": "$30.00",
+            "Geometric Frame Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Retro Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Upgrade Deluxe Edition": "$190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745798968722,
@@ -35167,6 +35210,14 @@
     "history": [
       [
         {
+          "timestamp": 1746367332061,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745859736318,
           "price": 20,
           "formattedPrice": "$20.00",
@@ -35501,10 +35552,18 @@
       "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746367332061,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745470938782,
@@ -41786,7 +41845,17 @@
       "1980鑽石": "$990.00",
       "980鑽石": "$490.00",
       "3280鑽石": "$1,690.00",
-      "120鑽石": "$70.00"
+      "120鑽石": "$70.00",
+      "女神祈禱好禮272": "$320.00",
+      "特權禮包271": "$320.00",
+      "女神幸運禮包270": "$490.00",
+      "女神祈禱好禮269": "$220.00",
+      "鑽石優惠禮包268": "$390.00",
+      "命運神殿禮包267": "$90.00",
+      "命運神殿禮包266": "$590.00",
+      "女神幸運禮包265": "$390.00",
+      "鑽石優惠禮包264": "$190.00",
+      "命運神殿禮包263": "$90.00"
     },
     "minPriceInfo": {
       "price": 10,
@@ -41800,9 +41869,38 @@
       "1980鑽石": "$990.00",
       "980鑽石": "$490.00",
       "3280鑽石": "$1,690.00",
-      "120鑽石": "$70.00"
+      "120鑽石": "$70.00",
+      "女神祈禱好禮272": "$320.00",
+      "特權禮包271": "$320.00",
+      "女神幸運禮包270": "$490.00",
+      "女神祈禱好禮269": "$220.00",
+      "鑽石優惠禮包268": "$390.00",
+      "命運神殿禮包267": "$90.00",
+      "命運神殿禮包266": "$590.00",
+      "女神幸運禮包265": "$390.00",
+      "鑽石優惠禮包264": "$190.00",
+      "命運神殿禮包263": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746367332061,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "女神祈禱好禮272": "$320.00",
+            "特權禮包271": "$320.00",
+            "女神幸運禮包270": "$490.00",
+            "女神祈禱好禮269": "$220.00",
+            "鑽石優惠禮包268": "$390.00",
+            "命運神殿禮包267": "$90.00",
+            "命運神殿禮包266": "$590.00",
+            "女神幸運禮包265": "$390.00",
+            "鑽石優惠禮包264": "$190.00",
+            "命運神殿禮包263": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -53988,6 +54086,25 @@
     "history": [
       [
         {
+          "timestamp": 1746367332061,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "每月": "$60.00",
+            "每年": "$390.00",
+            "招財": "$30.00",
+            "Calico Theme": "$30.00",
+            "City Night Theme": "$30.00",
+            "2025 Spring Forest Theme": "$30.00",
+            "2025 Spring Lawn Theme": "$50.00",
+            "2025 Spring Flower Theme": "$30.00",
+            "Lawn Theme": "$30.00",
+            "小灰": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745762514833,
           "price": 0,
           "formattedPrice": "免費",
@@ -54690,6 +54807,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746367332061,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746194533386,
@@ -55692,6 +55817,25 @@
     "history": [
       [
         {
+          "timestamp": 1746367332061,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "每年": "$390.00",
+            "每月": "$60.00",
+            "月夜": "$60.00",
+            "天空": "$60.00",
+            "森林": "$60.00",
+            "點點": "$30.00",
+            "可可": "$30.00",
+            "招財": "$30.00",
+            "辛巴": "$30.00",
+            "小灰": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745762514833,
           "price": 0,
           "formattedPrice": "免費",
@@ -55762,6 +55906,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746367332061,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746072334351,
