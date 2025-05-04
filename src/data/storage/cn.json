@@ -39204,14 +39204,22 @@
   "6740246950": {
     "name": "花皮 - 无面具素颜社区/解压/释放/正念",
     "maxPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00"
+      "price": 8,
+      "formattedPrice": "¥8.00"
     },
     "minPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746356524165,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -41295,7 +41303,7 @@
     ]
   },
   "6744998205": {
-    "name": "猜病猜盐-猜病小测验程序",
+    "name": "赛博神医-猜病每日挑战小测验",
     "maxPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00"

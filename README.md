@@ -64,11 +64,12 @@ Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=fla
 ## DingTalk
 Click  [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk")  to Subscribe
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1020` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1021` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The application currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |Serial Number|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1021|1611723264|Automatic|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|
 |1020|409818349|Automatic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|
 |1019|1141282192|Automatic|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|
 |1018|6737434503|Automatic|❌|將星三國|將星三國|將星三國|將星三國|將星三國|
@@ -91,7 +92,7 @@ So far, we've covered `6` `Countries or Regions` and  `1020` `Apps` <br />Push n
 |1001|535176909|Automatic|❌|BADLAND|BADLAND|BADLAND|BADLAND|BADLAND|
 |1000|601831815|Automatic|❌|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|
 |999|1614795077|Automatic|❌|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|
-|998|6744998205|Automatic|猜病猜盐-猜病小测验程序|猜病猜盐-猜病小测验程序|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|
+|998|6744998205|Automatic|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|
 |997|6477745183|Automatic|❌|Echo Ways|Echo Ways|Echo Ways|Echo Ways|Echo Ways|
 |996|557168861|Automatic|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|
 |995|586604476|Automatic|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|
