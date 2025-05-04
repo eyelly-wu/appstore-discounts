@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 409818349,
+    name: {
+      mo: 'Real Piano™ Classic',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1141282192,
     name: {
       mo: 'Advanced Comprehension Therapy',

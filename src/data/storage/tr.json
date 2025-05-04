@@ -2597,6 +2597,27 @@
       ]
     ]
   },
+  "409818349": {
+    "name": "Real Piano™ Classic",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746345769493,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "413943804": {
     "name": "Real Piano™",
     "maxPriceInfo": {
@@ -24369,6 +24390,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746345769493,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Early Unlock Cheats": "₺449,99",
+            "Command Pack": "₺399,99",
+            "Campaign + Challenge": "₺229,99",
+            "All Advisors Unlock": "₺449,99",
+            "Early Unlock Cheats (discount)": "₺229,99",
+            "Region Tour": "₺179,99",
+            "Armchair Architect Unlock": "₺39,99",
+            "Drill Sergeant Unlock": "₺39,99",
+            "Private Donor Unlock": "₺39,99"
+          }
+        },
         {
           "timestamp": 1746342148764,
           "price": 99.99,
