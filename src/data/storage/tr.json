@@ -8521,6 +8521,23 @@
     "history": [
       [
         {
+          "timestamp": 1746399731721,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺229,99",
+            "Sha'tra": "₺129,99",
+            "Grawl": "₺129,99",
+            "Kutsao": "₺129,99",
+            "Captain Blackthorne": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1746396132292,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -13341,6 +13358,14 @@
     "history": [
       [
         {
+          "timestamp": 1746399731721,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746140534883,
           "price": 0,
           "formattedPrice": "Free",
@@ -15637,6 +15662,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746399731721,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745881340255,
@@ -26220,6 +26253,14 @@
     "history": [
       [
         {
+          "timestamp": 1746399731721,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745859736318,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -26458,10 +26499,18 @@
       "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746399731721,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745470938782,
@@ -40087,8 +40136,8 @@
   "6480501528": {
     "name": "Cat Todo：To do list & Reminder",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free",
+      "price": 9.99,
+      "formattedPrice": "₺9,99",
       "2025 Forest Theme": "₺39,99",
       "2025 Lawn Theme": "₺69,99",
       "2025 Flower Theme": "₺39,99",
@@ -40115,6 +40164,25 @@
       "Tuxedo Theme": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746399731721,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "2025 Forest Theme": "₺39,99",
+            "2025 Lawn Theme": "₺69,99",
+            "2025 Flower Theme": "₺39,99",
+            "Lawn Theme": "₺39,99",
+            "Toby": "₺39,99",
+            "Gizmo": "₺39,99",
+            "Lucky": "₺39,99",
+            "Loki": "₺39,99",
+            "Civet Theme": "₺39,99",
+            "Tuxedo Theme": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -40673,6 +40741,14 @@
     "history": [
       [
         {
+          "timestamp": 1746399731721,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746226925940,
           "price": 0,
           "formattedPrice": "Free",
@@ -41031,6 +41107,16 @@
       "Premium Features": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746399731721,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745596945684,
@@ -41441,8 +41527,8 @@
   "6702013134": {
     "name": "Cat Flow - Kitty Focus Timer",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free",
+      "price": 9.99,
+      "formattedPrice": "₺9,99",
       "Yearly": "₺499,99",
       "Monthly": "₺79,99",
       "Moonnight": "₺99,99",
@@ -41469,6 +41555,25 @@
       "Toby": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746399731721,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Yearly": "₺499,99",
+            "Monthly": "₺79,99",
+            "Moonnight": "₺99,99",
+            "Sky": "₺99,99",
+            "Forest": "₺99,99",
+            "Loki": "₺39,99",
+            "Coco": "₺39,99",
+            "Lucky": "₺39,99",
+            "Simba": "₺39,99",
+            "Toby": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745398953972,
@@ -41522,6 +41627,14 @@
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746399731721,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746072334351,
