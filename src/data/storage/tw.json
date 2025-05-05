@@ -35322,6 +35322,25 @@
     "history": [
       [
         {
+          "timestamp": 1746464533958,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "$690.00",
+            "Dynasty Pet": "$490.00",
+            "Ultimate Amulet": "$190.00",
+            "Ultimate Ring": "$190.00",
+            "Ultimate Pet": "$190.00",
+            "Ultimate Ancient": "$390.00",
+            "Royal Rune": "$90.00",
+            "Norths Warden Pet Pack": "$490.00",
+            "Norths Warden Set": "$690.00",
+            "Black Friday Combo Items": "$990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745564540396,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -51909,7 +51928,7 @@
     ]
   },
   "6742396803": {
-    "name": "DaDaDaDa - AirGun",
+    "name": "DaDaDaDa - Air Gun Simulator",
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
