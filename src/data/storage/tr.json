@@ -18600,6 +18600,25 @@
     "history": [
       [
         {
+          "timestamp": 1746468150380,
+          "price": 289,
+          "formattedPrice": "₺289,00",
+          "inAppPurchases": {
+            "HD Textures": "₺0,00",
+            "Party Mode HD Textures": "₺0,00",
+            "Street HD Textures": "₺0,00",
+            "Tuner HD Textures": "₺0,00",
+            "Open Wheel HD Textures": "₺0,00",
+            "Endurance HD Textures": "₺0,00",
+            "Touring HD Textures": "₺0,00",
+            "All DLC": "₺0,00",
+            "Black Edition Pack": "₺0,00",
+            "Best of British Pack": "₺0,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745846213825,
           "price": 289,
           "formattedPrice": "₺289,00",
@@ -36057,6 +36076,27 @@
           "timestamp": 1745328692670,
           "price": 4.99,
           "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1636439801": {
+    "name": "Railbound",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746468150380,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
           "inAppPurchases": {}
         }
       ]

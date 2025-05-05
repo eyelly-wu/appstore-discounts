@@ -30167,7 +30167,13 @@
       "New York 2121 Board": "USD 5.99",
       "Theme Collection": "USD 19.99",
       "Orient Express": "USD 2.99",
-      "Cherry Blossom Tokyo Board": "USD 5.99"
+      "Cherry Blossom Tokyo Board": "USD 5.99",
+      "Victorian London Marine Bundle": "USD 11.99",
+      "The Slam Dunk Bundle": "USD 4.99",
+      "Blazin' Blue the Monster Truck": "USD 9.99",
+      "Transylvania Marine Bundle": "USD 11.99",
+      "Paris Marine Bundle": "USD 11.99",
+      "Five Dice Bundle": "USD 12.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -30180,9 +30186,30 @@
       "New York 2121 Board": "USD 5.99",
       "Theme Collection": "USD 19.99",
       "Orient Express": "USD 2.99",
-      "Cherry Blossom Tokyo Board": "USD 5.99"
+      "Cherry Blossom Tokyo Board": "USD 5.99",
+      "Victorian London Marine Bundle": "USD 11.99",
+      "The Slam Dunk Bundle": "USD 4.99",
+      "Blazin' Blue the Monster Truck": "USD 9.99",
+      "Transylvania Marine Bundle": "USD 11.99",
+      "Paris Marine Bundle": "USD 11.99",
+      "Five Dice Bundle": "USD 12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746468150380,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Victorian London Marine Bundle": "USD 11.99",
+            "The Slam Dunk Bundle": "USD 4.99",
+            "Blazin' Blue the Monster Truck": "USD 9.99",
+            "Transylvania Marine Bundle": "USD 11.99",
+            "Paris Marine Bundle": "USD 11.99",
+            "Five Dice Bundle": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746374532628,
@@ -38743,6 +38770,27 @@
           "timestamp": 1745328692670,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1636439801": {
+    "name": "軌道連結:Railbound",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746468150380,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
         }
       ]
