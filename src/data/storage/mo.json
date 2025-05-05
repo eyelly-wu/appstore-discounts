@@ -14332,6 +14332,23 @@
     "history": [
       [
         {
+          "timestamp": 1746475353066,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Unlock all stages": "USD 0.99",
+            "Free Checkpoints": "USD 0.99",
+            "Goat": "USD 0.99",
+            "Atom": "USD 0.99",
+            "Joshua": "USD 0.99",
+            "Large Coin Pack": "USD 2.99",
+            "Medium Coin Pack": "USD 1.99",
+            "Small Coin Pack": "USD 0.99",
+            "Pig": "USD 0.99",
+            "Dog": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1746471736244,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -16200,7 +16217,8 @@
       "Handful of caps": "USD 1.99",
       "Seasonal event item": "USD 19.99",
       "Nickname change": "USD 1.99",
-      "Repair kit": "USD 0.99"
+      "Repair kit": "USD 0.99",
+      "Battlepass": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -16213,9 +16231,28 @@
       "Handful of caps": "USD 1.99",
       "Seasonal event item": "USD 19.99",
       "Nickname change": "USD 1.99",
-      "Repair kit": "USD 0.99"
+      "Repair kit": "USD 0.99",
+      "Battlepass": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746475353066,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Battlepass": "USD 9.99",
+            "Crazy sale pack": "USD 0.99",
+            "Data Disk pack 2": "USD 19.99",
+            "Data Disk pack 1": "USD 4.99",
+            "Useful pack": "USD 2.99",
+            "Standart pack": "USD 1.99",
+            "Handful of caps": "USD 1.99",
+            "Seasonal event item": "USD 19.99",
+            "Nickname change": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745431369334,
