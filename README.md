@@ -364,7 +364,7 @@ So far, we've covered `6` `Countries or Regions` and  `1024` `Apps` <br />Push n
 |732|1609059358|Automatic|eVario2  - Variometer Pro|eVario2  - Variometer Pro|eVario2  - Variometer Pro|eVario2  - Variometer Pro|eVario2  - Variometer Pro|eVario2  - Variometer Pro|
 |731|6702013134|Automatic|FOCUS - 猫猫专注计时器和学习番茄钟|Cat Flow - 貓計時器 & 專注番茄鐘|Cat Flow - 貓計時器 & 專注番茄鐘|Cat Flow - 貓計時器 & 專注番茄鐘|Cat Flow - Kitty Focus Timer|Cat Flow - Kitty Focus Timer|
 |730|6740487579|Automatic|❌|Songs of Conquest Mobile|Songs of Conquest Mobile|Songs of Conquest Mobile|Songs of Conquest Mobile|Songs of Conquest Mobile|
-|729|6451009326|Automatic|❌|LMP|LMP|LMP|LMP|LMP|
+|729|6451009326|Automatic|❌|LMP - Music Hub|LMP - Music Hub|LMP - Music Hub|LMP - Music Hub|LMP - Music Hub|
 |728|6473789128|Automatic|❌|星落湖傳說-魔法騎士團|星落湖傳說-魔法騎士團|星落湖傳說-魔法騎士團|❌|❌|
 |727|299021909|Automatic|圣经工具(新标点和合本)|聖經工具(新標點和合本)|聖經工具(新標點和合本)|聖經工具(新標點和合本)|聖經工具(新標點和合本)|聖經工具(新標點和合本)|
 |726|407078169|Automatic|❌|⋆數獨+|⋆數獨+|⋆數獨+|⋆Sudoku+|⋆Sudoku+|

@@ -31847,6 +31847,23 @@
     "history": [
       [
         {
+          "timestamp": 1746460951400,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Midnight Deck": "₺229,99",
+            "Midnight Night Out Pack": "₺99,99",
+            "Holiday Christmas Pack": "₺39,99",
+            "Word Bonanza Bundle": "₺449,99",
+            "Fun & Games Sports Mix Pack 1": "₺39,99",
+            "Celebrity Musicians Pack": "₺39,99",
+            "Mystery Mix Pack 1": "₺39,99",
+            "Midnight Bedroom Pack": "₺99,99",
+            "Surprise Pack 1": "₺129,99",
+            "Sports and Games Pack": "₺129,99"
+          }
+        },
+        {
           "timestamp": 1746457348888,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -41813,7 +41830,7 @@
     ]
   },
   "6451009326": {
-    "name": "LMP",
+    "name": "LMP - Music Hub",
     "maxPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
@@ -42722,14 +42739,22 @@
   "6467822375": {
     "name": "Auto Redial App",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746460951400,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
