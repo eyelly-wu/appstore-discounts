@@ -20429,6 +20429,25 @@
     "history": [
       [
         {
+          "timestamp": 1746417819615,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Emotion Samples 02": "₺99,99",
+            "Marvelous Mix vol. 3": "₺99,99",
+            "Marvelous Mix vol. 12": "₺99,99",
+            "Miku": "₺449,99",
+            "Xenon": "₺449,99",
+            "RAVON": "₺99,99",
+            "Rhythm Games Party 2024": "₺99,99",
+            "B.B.K.K.B.K.K. 2023 Remake SLC": "₺99,99",
+            "ConneR": "₺449,99",
+            "CAPSO": "₺449,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746244942439,
           "price": 0,
           "formattedPrice": "Free",
@@ -27602,7 +27621,8 @@
       "Transylvania Marine Bundle": "₺499,99",
       "Paris Marine Bundle": "₺499,99",
       "Five Dice Bundle": "₺599,99",
-      "Enchanted Forest Dice": "₺229,99"
+      "Enchanted Forest Dice": "₺229,99",
+      "Enchanted Forest Board": "₺249,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -27631,9 +27651,29 @@
       "Transylvania Marine Bundle": "₺499,99",
       "Paris Marine Bundle": "₺499,99",
       "Five Dice Bundle": "₺599,99",
-      "Enchanted Forest Dice": "₺229,99"
+      "Enchanted Forest Dice": "₺229,99",
+      "Enchanted Forest Board": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746417819615,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "New York 2121 Board": "₺249,99",
+            "Orient Express": "₺129,99",
+            "The Complete Collection": "₺1.499,99",
+            "Golden Dice": "₺229,99",
+            "Welcome Offer": "₺899,99",
+            "Victorian London Board": "₺249,99",
+            "Enchanted Forest Board": "₺249,99",
+            "The Atlantis Board": "₺249,99",
+            "Theme Collection": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746374532628,
@@ -31746,6 +31786,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746417819615,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Midnight Deck": "₺229,99",
+            "Midnight Night Out Pack": "₺99,99",
+            "Holiday Christmas Pack": "₺39,99",
+            "Word Bonanza Bundle": "₺449,99",
+            "Fun & Games Sports Mix Pack 1": "₺39,99",
+            "Celebrity Musicians Pack": "₺39,99",
+            "Mystery Mix Pack 1": "₺39,99",
+            "Midnight Bedroom Pack": "₺99,99",
+            "Surprise Pack 1": "₺129,99",
+            "Sports and Games Pack": "₺129,99"
+          }
+        },
         {
           "timestamp": 1746396132292,
           "price": 19.99,
