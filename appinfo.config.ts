@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 6446912063,
+    name: {
+      mo: 'Disney Iwájú: Rising Chef',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1611723264,
     name: {
       mo: '人類跌落夢境',
