@@ -1335,9 +1335,19 @@
     "minPriceInfo": {
       "price": 32,
       "formattedPrice": "HK$ 32.00",
-      "MyNetDiary Premium": "HK$ 548.00"
+      "MyNetDiary Premium": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746457348888,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "MyNetDiary Premium": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -35414,7 +35424,10 @@
       "Bronze Decree": "HK$ 188.00",
       "Heroic Package#3": "HK$ 388.00",
       "7200 gems": "HK$ 788.00",
-      "Teammate Package#2": "HK$ 38.00"
+      "Teammate Package#2": "HK$ 38.00",
+      "Suit Package": "HK$ 228.00",
+      "Role Package": "HK$ 22.00",
+      "英雄礼包II": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -35428,9 +35441,31 @@
       "Bronze Decree": "HK$ 188.00",
       "Heroic Package#3": "HK$ 388.00",
       "7200 gems": "HK$ 788.00",
-      "Teammate Package#2": "HK$ 38.00"
+      "Teammate Package#2": "HK$ 38.00",
+      "Suit Package": "HK$ 228.00",
+      "Role Package": "HK$ 22.00",
+      "英雄礼包II": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746457348888,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Teammate Package#2": "HK$ 38.00",
+            "Bronze Decree": "HK$ 188.00",
+            "Heroic Package#3": "HK$ 388.00",
+            "Role Package III": "HK$ 88.00",
+            "Suit Package": "HK$ 228.00",
+            "Teammate Package": "HK$ 38.00",
+            "Role Package": "HK$ 22.00",
+            "英雄礼包II": "HK$ 88.00",
+            "Heroic Package#1": "HK$ 88.00",
+            "Resource Package": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745528534252,
@@ -37798,6 +37833,27 @@
           "timestamp": 1745328692670,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1479808939": {
+    "name": "孙美琪",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746457348888,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]
@@ -40277,6 +40333,25 @@
     "history": [
       [
         {
+          "timestamp": 1746457348888,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "心岛日记心礼会员VIP（3个月）": "HK$ 58.00",
+            "心岛日记心礼会员VIP（12个月）": "HK$ 228.00",
+            "心岛日记心礼会员VIP（1个月）": "HK$ 22.00",
+            "购买12个海星": "HK$ 18.00",
+            "购买128个海星": "HK$ 148.00",
+            "购买68个海星": "HK$ 88.00",
+            "购买30个海星": "HK$ 32.00",
+            "购买6个海星": "HK$ 8.00",
+            "6800贝壳购买": "HK$ 88.00",
+            "1200贝壳购买": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746219738211,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -41274,6 +41349,25 @@
     "history": [
       [
         {
+          "timestamp": 1746457348888,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Infernal Invasions": "HK$ 48.00",
+            "Vaul of the Void Promo Pack": "HK$ 0.00",
+            "Eclypse Supporter Pack": "HK$ 32.00",
+            "Dawncaster Origins Bundle": "HK$ 38.00",
+            "Dawncaster Mega Bundle": "HK$ 98.00",
+            "Siege of Shadows": "HK$ 38.00",
+            "Catalyst Support Pack": "HK$ 38.00",
+            "Masks of Misery": "HK$ 38.00",
+            "Infinitum Support Banner": "HK$ 32.00",
+            "Death of Divinity": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745877742391,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -42131,6 +42225,25 @@
       "James character": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746457348888,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Daniel skin": "HK$ 8.00",
+            "Reyna skin": "HK$ 8.00",
+            "Jorge skin": "HK$ 8.00",
+            "Gloria skin": "HK$ 8.00",
+            "Purple menu color": "HK$ 32.00",
+            "Red menu color": "HK$ 18.00",
+            "Yellow menu color": "HK$ 8.00",
+            "James character": "HK$ 8.00",
+            "Lisa character": "HK$ 0.00",
+            "Elsa character": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745668987623,
@@ -56339,6 +56452,27 @@
           "timestamp": 1746415220673,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6451376191": {
+    "name": "DumbPhone: 簡約主畫面",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746457348888,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]

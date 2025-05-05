@@ -33197,6 +33197,22 @@
     "history": [
       [
         {
+          "timestamp": 1746457348888,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "等级礼包979": "¥28.00",
+            "元宝大礼包": "¥58.00",
+            "铜币礼包": "¥128.00",
+            "钻石大礼包": "¥168.00",
+            "至尊特权": "¥68.00",
+            "特权礼包": "¥328.00",
+            "养成礼包": "¥598.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746075753726,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -42100,6 +42116,27 @@
           "timestamp": 1745676122075,
           "price": 1,
           "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6451376191": {
+    "name": "DumbPhone: 简约主屏幕",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746457348888,
+          "price": 22,
+          "formattedPrice": "¥22.00",
           "inAppPurchases": {}
         }
       ]

@@ -28252,6 +28252,27 @@
       ]
     ]
   },
+  "1479808939": {
+    "name": "孙美琪",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746457348888,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1480844881": {
     "name": "Mini Chess on Watch",
     "maxPriceInfo": {
@@ -31784,7 +31805,16 @@
       "Midnight Mix Pack 2": "₺99,99",
       "Double Mystery Bundle": "₺229,99",
       "Holiday Christmas Pack 2": "₺39,99",
-      "Fun & Games Sports Mix Pack 2": "₺39,99"
+      "Fun & Games Sports Mix Pack 2": "₺39,99",
+      "Fun & Games Sports Mix 3 Pack": "₺39,99",
+      "Holiday Thanksgiving Pack": "₺39,99",
+      "Generations Gen Z Pack": "₺39,99",
+      "Holiday Hannukah Pack": "₺39,99",
+      "Mystery Mix Pack 16": "₺39,99",
+      "Mystery Mix Pack 15": "₺39,99",
+      "Mystery Mix Pack 14": "₺39,99",
+      "Mystery Mix Pack 13": "₺39,99",
+      "Mystery Mix Pack 12": "₺39,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -31803,10 +31833,36 @@
       "Midnight Mix Pack 2": "₺99,99",
       "Double Mystery Bundle": "₺229,99",
       "Holiday Christmas Pack 2": "₺39,99",
-      "Fun & Games Sports Mix Pack 2": "₺39,99"
+      "Fun & Games Sports Mix Pack 2": "₺39,99",
+      "Fun & Games Sports Mix 3 Pack": "₺39,99",
+      "Holiday Thanksgiving Pack": "₺39,99",
+      "Generations Gen Z Pack": "₺39,99",
+      "Holiday Hannukah Pack": "₺39,99",
+      "Mystery Mix Pack 16": "₺39,99",
+      "Mystery Mix Pack 15": "₺39,99",
+      "Mystery Mix Pack 14": "₺39,99",
+      "Mystery Mix Pack 13": "₺39,99",
+      "Mystery Mix Pack 12": "₺39,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746457348888,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Fun & Games Sports Mix 3 Pack": "₺39,99",
+            "Holiday Thanksgiving Pack": "₺39,99",
+            "Holiday Christmas Pack 2": "₺39,99",
+            "Generations Gen Z Pack": "₺39,99",
+            "Holiday Hannukah Pack": "₺39,99",
+            "Mystery Mix Pack 16": "₺39,99",
+            "Mystery Mix Pack 15": "₺39,99",
+            "Mystery Mix Pack 14": "₺39,99",
+            "Mystery Mix Pack 13": "₺39,99",
+            "Mystery Mix Pack 12": "₺39,99"
+          }
+        },
         {
           "timestamp": 1746417819615,
           "price": 19.99,
@@ -42972,6 +43028,27 @@
           "timestamp": 1746415220673,
           "price": 39.99,
           "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6451376191": {
+    "name": "DumbPhone: Minimal Home Screen",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746457348888,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
           "inAppPurchases": {}
         }
       ]

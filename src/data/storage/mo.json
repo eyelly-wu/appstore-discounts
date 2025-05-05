@@ -10560,6 +10560,25 @@
     "history": [
       [
         {
+          "timestamp": 1746457348888,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Kids Family Bundle BYOD": "USD 6.99",
+            "Kids Bundle with BYOD": "USD 4.99",
+            "Kids Family Bundle BYOD Sale": "USD 5.99",
+            "Build Your Own Deck - Kids": "USD 2.99",
+            "Kids Bundle with BYOD Sale": "USD 3.99",
+            "50 Decks, More Laughs": "USD 19.99",
+            "Kids Bundle": "USD 4.99",
+            "Kids Family Bundle": "USD 6.99",
+            "AAPI Month Bundle": "USD 5.99",
+            "Chinese Cuisine Deck": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746212533795,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -30326,6 +30345,27 @@
       ]
     ]
   },
+  "1479808939": {
+    "name": "孙美琪",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746457348888,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1480844881": {
     "name": "Mini Chess on Watch",
     "maxPriceInfo": {
@@ -45737,6 +45777,27 @@
           "timestamp": 1746415220673,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6451376191": {
+    "name": "DumbPhone: 簡約主畫面",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746457348888,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]
