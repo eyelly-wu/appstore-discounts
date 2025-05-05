@@ -13633,7 +13633,10 @@
       "Jaeger Sniper Rifle": "USD 24.99",
       "Brutus Sniper Rifle": "USD 5.99",
       "Large Blood Money Pack": "USD 9.99",
-      "超大型金錢包": "USD 9.99"
+      "超大型金錢包": "USD 9.99",
+      "超大型代幣包": "USD 11.99",
+      "促銷包": "USD 24.99",
+      "中型金錢包": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -13642,14 +13645,31 @@
       "Exorcist": "USD 14.99",
       "Aria Sniper Rifle": "USD 9.99",
       "Largo Sniper Rifle": "USD 0.99",
-      "新手包": "USD 4.99",
+      "新手包": "USD 2.99",
       "Dragun": "USD 14.99",
       "Jaeger Sniper Rifle": "USD 24.99",
       "Brutus Sniper Rifle": "USD 5.99",
       "Large Blood Money Pack": "USD 9.99",
-      "超大型金錢包": "USD 9.99"
+      "超大型金錢包": "USD 7.99",
+      "超大型代幣包": "USD 11.99",
+      "促銷包": "USD 24.99",
+      "中型金錢包": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746478937629,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "超大型代幣包": "USD 11.99",
+            "超大型金錢包": "USD 7.99",
+            "促銷包": "USD 24.99",
+            "新手包": "USD 2.99",
+            "中型金錢包": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

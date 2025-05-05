@@ -31343,7 +31343,7 @@
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99",
-      "UPGRADE PRO": "$39.99",
+      "UPGRADE PRO": "$6.99",
       "UPGRADE PRO VERSION": "$59.99",
       "KODAK SERIES FILM": "$5.99",
       "RETRO SERIES FILM": "$4.99",
@@ -31353,6 +31353,23 @@
       "WEDDING SERIES FILM": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746478937629,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "UPGRADE PRO": "$6.99",
+            "FUJI SERIES FILM": "$4.99",
+            "KODAK SERIES FILM": "$5.99",
+            "WEDDING SERIES FILM": "$4.99",
+            "RETRO SERIES FILM": "$4.99",
+            "IU SERIES FILM": "$4.99",
+            "LOMO SERIES": "$4.99",
+            "UPGRADE PRO VERSION": "$59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
