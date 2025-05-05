@@ -272,6 +272,25 @@
     "history": [
       [
         {
+          "timestamp": 1746408611881,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "$0.99",
+            "Grimm Skin Pack": "$0.99",
+            "Zombie Skin Pack": "$0.99",
+            "Monster Pack": "$0.99",
+            "Dance Pack Three": "$0.99",
+            "Mondo Pack": "$0.99",
+            "Superbowl Skin Pack": "$0.99",
+            "Candy Land Pack": "$0.99",
+            "Underwater World Pack": "$0.99",
+            "Mafia Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745510557666,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -13382,7 +13401,8 @@
       "Racing Prodigy Small Tyre Pack": "$2.99",
       "Figo 100 Octane Fuel Pack - 20": "$3.99",
       "Racing Prodigy 50 Quali Tyres": "$4.99",
-      "RP Small Tyre Pack - Mediums": "$2.99"
+      "RP Small Tyre Pack - Mediums": "$2.99",
+      "Le Cont Softs - 40 Tyres Pack": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -13397,9 +13417,29 @@
       "Racing Prodigy Small Tyre Pack": "$2.99",
       "Figo 100 Octane Fuel Pack - 20": "$3.99",
       "Racing Prodigy 50 Quali Tyres": "$4.99",
-      "RP Small Tyre Pack - Mediums": "$2.99"
+      "RP Small Tyre Pack - Mediums": "$2.99",
+      "Le Cont Softs - 40 Tyres Pack": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746408611881,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "700 Aces": "$9.99",
+            "Race Pass": "$4.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "15000 Aces": "$99.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Le Cont Softs - 40 Tyres Pack": "$3.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745812990001,
