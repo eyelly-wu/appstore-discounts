@@ -16651,7 +16651,7 @@
     ]
   },
   "1055511498": {
-    "name": "Day One",
+    "name": "Day One Journal",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
@@ -22373,7 +22373,11 @@
       "Info": "USD 0.00",
       "Paint": "USD 0.00",
       "Rotate": "USD 0.00",
-      "Chromakey": "USD 0.00"
+      "Chromakey": "USD 0.00",
+      "Tuner": "USD 0.00",
+      "Unlock All": "USD 7.99",
+      "Erase": "USD 0.99",
+      "Blend": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -22387,9 +22391,32 @@
       "Info": "USD 0.00",
       "Paint": "USD 0.00",
       "Rotate": "USD 0.00",
-      "Chromakey": "USD 0.00"
+      "Chromakey": "USD 0.00",
+      "Tuner": "USD 0.00",
+      "Unlock All": "USD 7.99",
+      "Erase": "USD 0.99",
+      "Blend": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746554584985,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Rate": "USD 0.00",
+            "Info": "USD 0.00",
+            "Tuner": "USD 0.00",
+            "Chromakey": "USD 0.00",
+            "Unlock All": "USD 7.99",
+            "Paint": "USD 0.00",
+            "Erase": "USD 0.99",
+            "Blend": "USD 0.99",
+            "Distortion": "USD 0.00",
+            "Magnifier": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

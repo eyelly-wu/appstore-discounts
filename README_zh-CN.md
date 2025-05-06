@@ -912,7 +912,7 @@
 |189|6475002485|手动|❌|Reeder.|Reeder.|Reeder.|Reeder.|Reeder.|
 |188|1198176727|手动|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|
 |187|904280696|手动|Things 3|Things 3|Things 3|Things 3|Things 3|Things 3|
-|186|1055511498|手动|Day One 日記：私人日記|Day One|Day One|Day One|Day One|Day One|
+|186|1055511498|手动|Day One 日記：私人日記|Day One Journal|Day One Journal|Day One Journal|Day One|Day One|
 |185|1208145167|手动|Picsew - 滚动截图 & 长图拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - Scrollshot & Collage|Picsew - Scrollshot & Collage|
 |184|1444636541|手动|Photomator|Photomator|Photomator|Photomator|Photomator – Photo Editor|Photomator|
 |183|1444383602|手动|Goodnotes 6：笔记，PDF，AI|Goodnotes 6：筆記，PDF，AI|Goodnotes 6：筆記，PDF，AI|Goodnotes 6：筆記，PDF，AI|Goodnotes 6: AI Notes & Docs|Goodnotes 6: AI Notes & Docs|
