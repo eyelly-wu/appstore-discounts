@@ -18574,6 +18574,23 @@
     "history": [
       [
         {
+          "timestamp": 1746525755623,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1746522147578,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -25044,14 +25061,22 @@
   "1400652313": {
     "name": "冰钓大师",
     "maxPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00"
+      "price": 12,
+      "formattedPrice": "¥12.00"
     },
     "minPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746525755623,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746453743410,
