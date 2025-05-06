@@ -25843,7 +25843,8 @@
       "Awakening Viper Package": "$4.99",
       "Torture Master Package": "$22.99",
       "Original Dungeon Package": "$17.99",
-      "Original Facility Package": "$8.99"
+      "Original Facility Package": "$8.99",
+      "Adventure Master Package": "$44.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -25858,9 +25859,29 @@
       "Awakening Viper Package": "$4.99",
       "Torture Master Package": "$22.99",
       "Original Dungeon Package": "$17.99",
-      "Original Facility Package": "$8.99"
+      "Original Facility Package": "$8.99",
+      "Adventure Master Package": "$44.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746514942252,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Monster Succession": "$4.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Awakened Irea Package": "$4.99",
+            "Original Lord Complete Package": "$26.99",
+            "Awakening Viper Package": "$4.99",
+            "Torture Master Package": "$22.99",
+            "Adventure Master Package": "$44.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746162152577,
@@ -42984,6 +43005,25 @@
       "Reckless Car Pack": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746514942252,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$9.99",
+            "Content Bundle 2": "$7.99",
+            "Getaway Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "Banger Racing Car Pack": "$2.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746331470214,
