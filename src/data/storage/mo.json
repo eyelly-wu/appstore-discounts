@@ -6050,6 +6050,23 @@
     "history": [
       [
         {
+          "timestamp": 1746498642266,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Chapter D": "USD 4.99",
+            "Chapter 6": "USD 4.99",
+            "Chapter N": "USD 3.99",
+            "Chapter 5": "USD 4.99",
+            "Chapter 0": "USD 4.99",
+            "Chapter 10": "USD 4.99",
+            "Chapter 8": "USD 4.99",
+            "Chapter L": "USD 9.99",
+            "Chapter K": "USD 4.99",
+            "Chapter S": "USD 4.99"
+          }
+        },
+        {
           "timestamp": 1746494994188,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -18191,6 +18208,27 @@
             "Expansion Pack - Time Twister": "USD 1.99",
             "Toolkit: Edit, Design and Share": "USD 5.99"
           }
+        }
+      ]
+    ]
+  },
+  "1114127463": {
+    "name": "王權 (Reigns)",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746498642266,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -42770,10 +42808,18 @@
       "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746498642266,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

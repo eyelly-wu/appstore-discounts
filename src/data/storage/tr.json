@@ -16723,6 +16723,23 @@
     "history": [
       [
         {
+          "timestamp": 1746498642266,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "980个Y币": "₺699,99",
+            "150个Y币": "₺179,99",
+            "特效7": "₺19,99",
+            "100 sheets": "₺4,99",
+            "特效6": "₺19,99",
+            "特效5": "₺19,99",
+            "特效4": "₺19,99",
+            "特效3": "₺19,99",
+            "特效2": "₺19,99",
+            "特效1": "₺19,99"
+          }
+        },
+        {
           "timestamp": 1746486134687,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -17336,6 +17353,27 @@
             "Expansion Pack - Wacky Worlds": "₺99,99",
             "Expansion Pack - Time Twister": "₺99,99"
           }
+        }
+      ]
+    ]
+  },
+  "1114127463": {
+    "name": "Reigns",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746498642266,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -40042,10 +40080,18 @@
       "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746498642266,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

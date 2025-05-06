@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1114127463,
+    name: {
+      mo: '王權 (Reigns)',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1636439801,
     name: {
       mo: '軌道連結:Railbound',

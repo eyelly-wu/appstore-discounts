@@ -272,6 +272,22 @@
     "history": [
       [
         {
+          "timestamp": 1746498642266,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Dance Pack Too": "$0.99",
+            "Tyrannosaurus Rex Skin Pack": "$0.99",
+            "Alien Pack": "$0.99",
+            "Retro Games SkinPack": "$0.99",
+            "Halloween Skin Pack": "$0.99",
+            "Holiday Skin Pack": "$0.99",
+            "Medieval Pack": "$0.99",
+            "Japanese Skin Pack": "$0.99",
+            "Ice Monster Skin Pack": "$0.99"
+          }
+        },
+        {
           "timestamp": 1746494994188,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -20651,6 +20667,27 @@
             "Expansion Pack - Wacky Worlds": "$1.99",
             "Expansion Pack - Time Twister": "$1.99"
           }
+        }
+      ]
+    ]
+  },
+  "1114127463": {
+    "name": "Reigns",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746498642266,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -53305,10 +53342,18 @@
       "formattedPrice": "$6.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746498642266,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
