@@ -17239,10 +17239,18 @@
       "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746504153854,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745453324134,
@@ -24656,6 +24664,22 @@
     "history": [
       [
         {
+          "timestamp": 1746504153854,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Command Pack": "₺399,99",
+            "Early Unlock Cheats": "₺449,99",
+            "Campaign + Challenge": "₺229,99",
+            "Early Unlock Cheats (discount)": "₺229,99",
+            "All Advisors Unlock": "₺449,99",
+            "Private Donor Unlock": "₺39,99",
+            "Region Tour": "₺179,99",
+            "Armchair Architect Unlock": "₺39,99",
+            "Drill Sergeant Unlock": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1746482536593,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -27851,6 +27875,25 @@
       "Enchanted Forest Board": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746504153854,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "New York 2121 Board": "₺249,99",
+            "Orient Express": "₺129,99",
+            "The Complete Collection": "₺1.499,99",
+            "Golden Dice": "₺229,99",
+            "Victorian London Board": "₺249,99",
+            "Welcome Offer": "₺899,99",
+            "Lava Dice": "₺229,99",
+            "The Atlantis Board": "₺249,99",
+            "Enchanted Forest Board": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746475353066,
@@ -35511,6 +35554,23 @@
     "history": [
       [
         {
+          "timestamp": 1746504153854,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "₺349,99",
+            "Hero Lumenir": "₺299,99",
+            "Kosmyr": "₺299,99",
+            "Twilight Longbows": "₺229,99",
+            "Dune Sentinels": "₺129,99",
+            "Sylvara": "₺299,99",
+            "Grim Wraiths": "₺299,99",
+            "All Towers": "₺899,99",
+            "Bonehart": "₺299,99",
+            "Handful of Gems": "₺129,99"
+          }
+        },
+        {
           "timestamp": 1746482536593,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -41113,6 +41173,23 @@
     "history": [
       [
         {
+          "timestamp": 1746504153854,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺129,99",
+            "200'000 Coins": "₺39,99",
+            "500'000 Coins": "₺99,99",
+            "Amazone CITAN 15001-C": "₺39,99",
+            "New Holland T8.435 Genesis": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺39,99",
+            "ClaasLexion8900+ConvioFlex1380": "₺129,99",
+            "Case IH Speed-Tiller": "₺39,99",
+            "KINZE 3665 Blue Drive": "₺39,99",
+            "Versatile 4WD 620": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1746482536593,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -41823,6 +41900,25 @@
       "Boeing 737": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746504153854,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Airbus A350-1000": "₺179,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Airbus A321": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Global scenery - 12 months": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746374532628,

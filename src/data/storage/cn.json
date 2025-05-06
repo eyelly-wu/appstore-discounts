@@ -15395,6 +15395,27 @@
       ]
     ]
   },
+  "1108935309": {
+    "name": "20 Watch Games - Classic Pack",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746504153854,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1110646984": {
     "name": "地下城堡2: 黑暗觉醒",
     "maxPriceInfo": {
@@ -25334,8 +25355,8 @@
   "1437479513": {
     "name": "逃脱者：困境突围",
     "maxPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00",
+      "price": 30,
+      "formattedPrice": "¥30.00",
       "伟大的统治": "¥18.00",
       "邪恶病房": "¥18.00",
       "异象号": "¥12.00"
@@ -25348,6 +25369,18 @@
       "异象号": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746504153854,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "伟大的统治": "¥12.00",
+            "邪恶病房": "¥18.00",
+            "异象号": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746453743410,
@@ -35626,6 +35659,24 @@
       "节日大礼包": "¥188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746504153854,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "心愿礼包": "¥45.00",
+            "聚财盆": "¥18.00",
+            "超值月卡": "¥30.00",
+            "豪华月卡": "¥68.00",
+            "一碟包子": "¥6.00",
+            "SP武将碎片": "¥298.00",
+            "新手成长礼包": "¥6.00",
+            "竞赛VIP赛季卡": "¥30.00",
+            "节日大礼包": "¥188.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746439349985,

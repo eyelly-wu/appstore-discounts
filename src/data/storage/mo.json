@@ -18094,10 +18094,18 @@
       "formattedPrice": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746504153854,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745453324134,
@@ -24741,8 +24749,8 @@
   "1437479513": {
     "name": "逃脱者：困境突围",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99",
+      "price": 3.99,
+      "formattedPrice": "USD 3.99",
       "異象號": "USD 1.99",
       "邪惡病房": "USD 2.99",
       "偉大的統治": "USD 2.99"
@@ -24755,6 +24763,18 @@
       "偉大的統治": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746504153854,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "異象號": "USD 1.99",
+            "邪惡病房": "USD 2.99",
+            "偉大的統治": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737532955262,
