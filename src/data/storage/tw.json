@@ -18486,6 +18486,25 @@
     "history": [
       [
         {
+          "timestamp": 1746568929295,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Special pack": "$150.00",
+            "Case with caps": "$690.00",
+            "Great pack": "$320.00",
+            "Small pack": "$30.00",
+            "Handful of caps": "$30.00",
+            "Seasonal event item": "$2,990.00",
+            "Legendary pack": "$2,990.00",
+            "Big pack": "$690.00",
+            "Pile of caps": "$150.00",
+            "Standart pack": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746244942439,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -22858,6 +22877,25 @@
       "地獄石500個": "$1,290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746568929295,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "自動禮包": "$490.00",
+            "綜合禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "魔法禮包": "$290.00",
+            "寶石300個": "$120.00",
+            "魅魔禮包": "$1,290.00",
+            "寶石180個": "$90.00",
+            "寶石660個": "$290.00",
+            "重生經驗值增加": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746345769493,
@@ -58362,6 +58400,27 @@
       [
         {
           "timestamp": 1746457348888,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6505058041": {
+    "name": "QUAKELINE",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746568929295,
           "price": 90,
           "formattedPrice": "$90.00",
           "inAppPurchases": {}
