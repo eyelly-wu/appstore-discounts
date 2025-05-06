@@ -6050,6 +6050,25 @@
     "history": [
       [
         {
+          "timestamp": 1746494994188,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Chapter N": "USD 3.99",
+            "Chapter D": "USD 4.99",
+            "Chapter L": "USD 9.99",
+            "Chapter T": "USD 4.99",
+            "Chapter R": "USD 4.99",
+            "Chapter 0": "USD 4.99",
+            "Chapter K": "USD 4.99",
+            "Chapter 10": "USD 4.99",
+            "Chapter 9": "USD 4.99",
+            "Chapter S": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745704937545,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -24119,6 +24138,16 @@
       "Card.Note Premiun": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746494994188,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Card.Note Premiun": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739150954029,
