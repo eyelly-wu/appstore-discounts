@@ -14790,7 +14790,9 @@
       "Advanced Package": "$90.00",
       "Starter Package": "$30.00",
       "2025 Birthday Package": "$590.00",
-      "2025 Birthday Package (Basic)": "$390.00"
+      "2025 Birthday Package (Basic)": "$390.00",
+      "森日豪華禮包": "$590.00",
+      "森日精選禮包": "$390.00"
     },
     "minPriceInfo": {
       "price": 130,
@@ -14812,9 +14814,30 @@
       "Advanced Package": "$90.00",
       "Starter Package": "$30.00",
       "2025 Birthday Package": "$490.00",
-      "2025 Birthday Package (Basic)": "$320.00"
+      "2025 Birthday Package (Basic)": "$320.00",
+      "森日豪華禮包": "$590.00",
+      "森日精選禮包": "$390.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746576553910,
+          "price": 130,
+          "formattedPrice": "$130.00",
+          "inAppPurchases": {
+            "一盒陽光菁華": "$60.00",
+            "一瓶陽光菁華": "$30.00",
+            "超值進階寶石包": "$210.00",
+            "一鏟子寶石": "$30.00",
+            "一小盆寶石": "$150.00",
+            "一大袋寶石": "$330.00",
+            "一推車寶石": "$670.00",
+            "森日豪華禮包": "$590.00",
+            "森日精選禮包": "$390.00",
+            "Elite Package": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746169341945,

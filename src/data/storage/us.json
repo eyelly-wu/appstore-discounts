@@ -15230,7 +15230,9 @@
       "Advanced Package": "$2.99",
       "Starter Package": "$0.99",
       "2025 Birthday Package": "$18.99",
-      "2025 Birthday Package (Basic)": "$12.99"
+      "2025 Birthday Package (Basic)": "$12.99",
+      "Deluxe Pack": "$18.99",
+      "Select Pack": "$12.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -15252,9 +15254,30 @@
       "Advanced Package": "$2.99",
       "Starter Package": "$0.99",
       "2025 Birthday Package": "$14.99",
-      "2025 Birthday Package (Basic)": "$9.99"
+      "2025 Birthday Package (Basic)": "$9.99",
+      "Deluxe Pack": "$18.99",
+      "Select Pack": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746576553910,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Box of Sunshine Elixir": "$1.99",
+            "Bottle of Sunshine Elixir": "$0.99",
+            "Small pot of Crystal": "$4.99",
+            "Advanced Bonus Pack": "$6.99",
+            "Large bag of Crystal": "$10.99",
+            "Shovelful of Crystal": "$0.99",
+            "Cartful of Crystal": "$21.99",
+            "Deluxe Pack": "$18.99",
+            "Select Pack": "$12.99",
+            "Elite Package": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746169341945,

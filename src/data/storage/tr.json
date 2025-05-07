@@ -12096,7 +12096,9 @@
       "Advanced Package": "₺129,99",
       "Starter Package": "₺39,99",
       "2025 Birthday Package": "₺799,99",
-      "2025 Birthday Package (Basic)": "₺599,99"
+      "2025 Birthday Package (Basic)": "₺599,99",
+      "Deluxe Pack": "₺799,99",
+      "Select Pack": "₺599,99"
     },
     "minPriceInfo": {
       "price": 149.99,
@@ -12115,9 +12117,30 @@
       "Advanced Package": "₺129,99",
       "Starter Package": "₺39,99",
       "2025 Birthday Package": "₺699,99",
-      "2025 Birthday Package (Basic)": "₺449,99"
+      "2025 Birthday Package (Basic)": "₺449,99",
+      "Deluxe Pack": "₺799,99",
+      "Select Pack": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746576553910,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Bottle of Sunshine Elixir": "₺39,99",
+            "Box of Sunshine Elixir": "₺99,99",
+            "Shovelful of Crystal": "₺39,99",
+            "Advanced Bonus Pack": "₺299,99",
+            "Small pot of Crystal": "₺229,99",
+            "Large bag of Crystal": "₺499,99",
+            "Cartful of Crystal": "₺999,99",
+            "Deluxe Pack": "₺799,99",
+            "Select Pack": "₺599,99",
+            "Elite Package": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746169341945,
@@ -16758,6 +16781,25 @@
       "特效1": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746576553910,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "980个Y币": "₺699,99",
+            "150个Y币": "₺179,99",
+            "特效7": "₺19,99",
+            "100 sheets": "₺4,99",
+            "特效6": "₺19,99",
+            "特效5": "₺19,99",
+            "特效4": "₺19,99",
+            "特效3": "₺19,99",
+            "特效2": "₺19,99",
+            "特效1": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746498642266,
