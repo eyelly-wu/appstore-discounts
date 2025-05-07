@@ -23206,14 +23206,22 @@
   "1239299402": {
     "name": "Street Fighter IV CE",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -46366,14 +46374,22 @@
   "1621065119": {
     "name": "Ace Attorney Trilogy",
     "maxPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "$14.99"
+      "price": 24.99,
+      "formattedPrice": "$24.99"
     },
     "minPriceInfo": {
       "price": 14.99,
       "formattedPrice": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -46538,6 +46554,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746601351240,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Tower Necromancer": "$4.99",
+            "Mega Tower Bundle": "$14.99",
+            "Tower Dune Sentinels": "$2.99",
+            "Hero Anya": "$2.99",
+            "Tower Grim Wraiths": "$6.99"
+          }
+        },
         {
           "timestamp": 1746594139913,
           "price": 6.99,
@@ -56780,14 +56813,22 @@
   "6446021269": {
     "name": "MEGA MAN X DiVE Offline",
     "maxPriceInfo": {
-      "price": 9.89,
-      "formattedPrice": "$9.89"
+      "price": 29.99,
+      "formattedPrice": "$29.99"
     },
     "minPriceInfo": {
       "price": 9.89,
       "formattedPrice": "$9.89"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,

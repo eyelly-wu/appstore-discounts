@@ -5569,8 +5569,8 @@
   "469343554": {
     "name": "洛克人X",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99",
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
       "Complete Set": "USD 3.99",
       "Full Armor": "USD 1.99",
       "All Health Boosts": "USD 0.99",
@@ -5589,6 +5589,21 @@
       "All Subtanks": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Complete Set": "USD 3.99",
+            "Full Armor": "USD 1.99",
+            "All Health Boosts": "USD 0.99",
+            "Arranged BGMs": "USD 2.99",
+            "All Weapons": "USD 1.99",
+            "All Subtanks": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -20323,14 +20338,22 @@
   "1239299402": {
     "name": "Street Fighter IV CE",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -25667,14 +25690,22 @@
   "1443988620": {
     "name": "Quantumult X",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "USD 7.99"
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 7.99,
       "formattedPrice": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -38519,14 +38550,22 @@
   "1621065119": {
     "name": "逆轉裁判123成步堂精選集",
     "maxPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "USD 14.99"
+      "price": 24.99,
+      "formattedPrice": "USD 24.99"
     },
     "minPriceInfo": {
       "price": 14.99,
       "formattedPrice": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -45536,14 +45575,22 @@
   "6446021269": {
     "name": "ROCKMAN X DiVE Offline",
     "maxPriceInfo": {
-      "price": 9.89,
-      "formattedPrice": "USD 9.89"
+      "price": 29.99,
+      "formattedPrice": "USD 29.99"
     },
     "minPriceInfo": {
       "price": 9.89,
       "formattedPrice": "USD 9.89"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,

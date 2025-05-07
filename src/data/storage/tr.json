@@ -19808,14 +19808,22 @@
   "1239299402": {
     "name": "Street Fighter IV CE",
     "maxPriceInfo": {
-      "price": 87.99,
-      "formattedPrice": "₺87,99"
+      "price": 109.99,
+      "formattedPrice": "₺109,99"
     },
     "minPriceInfo": {
       "price": 87.99,
       "formattedPrice": "₺87,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 109.99,
+          "formattedPrice": "₺109,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -25976,6 +25984,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746601351240,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "₺99,99",
+            "RFS Pro (6 month)": "₺139,99",
+            "RFS Pro (1 year)": "₺599,99",
+            "RFS Pro (6 months)": "₺399,99"
+          }
+        },
         {
           "timestamp": 1746590581540,
           "price": 39.99,
@@ -35572,14 +35591,22 @@
   "1621065119": {
     "name": "Ace Attorney Trilogy",
     "maxPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99"
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
     },
     "minPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -42911,14 +42938,22 @@
   "6446021269": {
     "name": "MEGA MAN X DiVE Offline",
     "maxPriceInfo": {
-      "price": 204.99,
-      "formattedPrice": "₺204,99"
+      "price": 629,
+      "formattedPrice": "₺629,00"
     },
     "minPriceInfo": {
       "price": 204.99,
       "formattedPrice": "₺204,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 629,
+          "formattedPrice": "₺629,00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,

@@ -5961,8 +5961,8 @@
   "469343554": {
     "name": "洛克人X",
     "maxPriceInfo": {
-      "price": 135,
-      "formattedPrice": "$135.00",
+      "price": 170,
+      "formattedPrice": "$170.00",
       "Complete Set": "$130.00",
       "Full Armor": "$70.00",
       "All Health Boosts": "$33.00",
@@ -5981,6 +5981,21 @@
       "Arranged BGMs": "$100.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 170,
+          "formattedPrice": "$170.00",
+          "inAppPurchases": {
+            "Complete Set": "$130.00",
+            "Full Armor": "$70.00",
+            "All Health Boosts": "$33.00",
+            "All Subtanks": "$33.00",
+            "All Weapons": "$70.00",
+            "Arranged BGMs": "$100.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -23680,14 +23695,22 @@
   "1239299402": {
     "name": "Street Fighter IV CE",
     "maxPriceInfo": {
-      "price": 135,
-      "formattedPrice": "$135.00"
+      "price": 170,
+      "formattedPrice": "$170.00"
     },
     "minPriceInfo": {
       "price": 135,
       "formattedPrice": "$135.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 170,
+          "formattedPrice": "$170.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -45677,14 +45700,22 @@
   "1621065119": {
     "name": "逆轉裁判123成步堂精選集",
     "maxPriceInfo": {
-      "price": 395,
-      "formattedPrice": "$395.00"
+      "price": 790,
+      "formattedPrice": "$790.00"
     },
     "minPriceInfo": {
       "price": 395,
       "formattedPrice": "$395.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -57609,14 +57640,22 @@
   "6446021269": {
     "name": "ROCKMAN X DiVE Offline",
     "maxPriceInfo": {
-      "price": 310,
-      "formattedPrice": "$310.00"
+      "price": 940,
+      "formattedPrice": "$940.00"
     },
     "minPriceInfo": {
       "price": 310,
       "formattedPrice": "$310.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746601351240,
+          "price": 940,
+          "formattedPrice": "$940.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,
