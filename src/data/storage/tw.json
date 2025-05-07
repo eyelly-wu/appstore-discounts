@@ -17596,6 +17596,27 @@
       ]
     ]
   },
+  "968820626": {
+    "name": "Watch Tuner Lite",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746630148619,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "973482987": {
     "name": "Five Nights at Freddy's 3",
     "maxPriceInfo": {
@@ -22860,6 +22881,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746630148619,
+          "price": 299,
+          "formattedPrice": "$299.00",
+          "inAppPurchases": {
+            "全部 DLC": "$0.00",
+            "高清材質": "$0.00",
+            "All DLC": "$0.00",
+            "HD Textures": "$0.00",
+            "道路與賽道套件": "$0.00",
+            "房車傳奇套件": "$0.00",
+            "衝刺套件": "$0.00",
+            "直線競速賽套件": "$0.00",
+            "英式精粹套件": "$0.00",
+            "黑色版本套件": "$0.00"
+          }
+        },
         {
           "timestamp": 1746626555033,
           "price": 299,
