@@ -1,5 +1,5 @@
 import { Feed } from 'feed'
-import { writeFileSync } from 'fs'
+import { writeFileSync, readFileSync, existsSync } from 'fs'
 import { resolve } from 'path'
 import React, { render } from 'jsx-to-md'
 import { getTranslate } from './i18n'
@@ -17,6 +17,77 @@ const followRegionFeedMap: Record<Region, string> = {
   tw: '73536236398899200',
   us: '49753370488353792',
   tr: '99063474310237184',
+}
+
+const rssFilePath = resolve(__dirname, './storage/rss.json')
+
+function readRegionDiscountInfo(): RegionDiscountInfo {
+  const defaultRegionDiscountInfo: RegionDiscountInfo = {
+    cn: [],
+    hk: [],
+    mo: [],
+    tw: [],
+    us: [],
+    tr: [],
+  }
+
+  if (!existsSync(rssFilePath)) return defaultRegionDiscountInfo
+
+  try {
+    const data = JSON.parse(readFileSync(rssFilePath, 'utf-8'))
+    const threeDaysAgo = Date.now() - 3 * 24 * 60 * 60 * 1000
+
+    return Object.entries(defaultRegionDiscountInfo).reduce(
+      (filtered, [region, _]) => {
+        const discounts = Array.isArray(data[region]) ? data[region] : []
+        const validDiscounts = discounts.filter((discount) => {
+          return (
+            typeof discount === 'object' &&
+            discount !== null &&
+            typeof discount.timestamp === 'number' &&
+            discount.timestamp >= threeDaysAgo &&
+            typeof discount.trackName === 'string' &&
+            typeof discount.trackViewUrl === 'string' &&
+            Array.isArray(discount.discounts)
+          )
+        })
+        filtered[region as Region] = validDiscounts
+        return filtered
+      },
+      { ...defaultRegionDiscountInfo },
+    )
+  } catch {
+    return defaultRegionDiscountInfo
+  }
+}
+
+function saveRegionDiscountInfo(regionDiscountInfo: RegionDiscountInfo) {
+  writeFileSync(
+    rssFilePath,
+    JSON.stringify(regionDiscountInfo, null, 2),
+    'utf-8',
+  )
+}
+
+function mergeRegionDiscountInfo(
+  newInfo: RegionDiscountInfo,
+  existingInfo: RegionDiscountInfo,
+): RegionDiscountInfo {
+  const merged = { ...existingInfo }
+
+  Object.entries(newInfo).forEach(([region, discounts]) => {
+    if (!merged[region]) {
+      merged[region] = discounts
+    } else {
+      // 合并新旧数组项
+      merged[region] = [...merged[region], ...discounts].sort(
+        (a, b) => b.timestamp - a.timestamp,
+      )
+    }
+  })
+
+  saveRegionDiscountInfo(merged)
+  return merged
 }
 
 function getShowDescription(discountInfo: DiscountInfo) {
@@ -262,8 +333,11 @@ function saveRegionFeed(feeds: RegionFeed) {
 
 export default function updateFeeds(regionDiscountInfo: RegionDiscountInfo) {
   start('updateFeeds')
-  const feed = generateRegionFeed(regionDiscountInfo)
-  // TODO feed 需要保留最近30天的
+
+  const existingInfo = readRegionDiscountInfo()
+  const mergedInfo = mergeRegionDiscountInfo(regionDiscountInfo, existingInfo)
+  const feed = generateRegionFeed(mergedInfo)
+
   saveRegionFeed(feed)
   end('updateFeeds')
 }
