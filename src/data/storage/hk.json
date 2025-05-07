@@ -31410,6 +31410,27 @@
       ]
     ]
   },
+  "1369253556": {
+    "name": "長時間曝光",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1371965583": {
     "name": "The Gardens Between",
     "maxPriceInfo": {
@@ -37735,7 +37756,8 @@
       "大洋洲篇": "HK$ 78.00",
       "季節性裝飾包": "HK$ 38.00",
       "林地奇觀裝飾包": "HK$ 38.00",
-      "季節性裝飾包2": "HK$ 38.00"
+      "季節性裝飾包2": "HK$ 38.00",
+      "《亞洲擴展》": "HK$ 78.00"
     },
     "minPriceInfo": {
       "price": 66,
@@ -37744,9 +37766,25 @@
       "大洋洲篇": "HK$ 78.00",
       "季節性裝飾包": "HK$ 38.00",
       "林地奇觀裝飾包": "HK$ 38.00",
-      "季節性裝飾包2": "HK$ 38.00"
+      "季節性裝飾包2": "HK$ 38.00",
+      "《亞洲擴展》": "HK$ 78.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 66,
+          "formattedPrice": "HK$ 66.00",
+          "inAppPurchases": {
+            "欧洲篇": "HK$ 66.00",
+            "大洋洲篇": "HK$ 78.00",
+            "林地奇觀裝飾包": "HK$ 38.00",
+            "季節性裝飾包": "HK$ 38.00",
+            "季節性裝飾包2": "HK$ 38.00",
+            "《亞洲擴展》": "HK$ 78.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745398953972,
@@ -57887,6 +57925,55 @@
           "price": 22,
           "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449251957": {
+    "name": "Motorsport Manager 4",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "Huge Investment": "HK$ 38.00",
+      "Game Editor": "HK$ 48.00",
+      "Bundle": "HK$ 88.00",
+      "Premium livery bundle": "HK$ 48.00",
+      "Very Large Investment": "HK$ 22.00",
+      "Chairman's Payment": "HK$ 48.00",
+      "Investment": "HK$ 18.00",
+      "Pre registration bundle": "HK$ 48.00",
+      "Large Investment": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "Huge Investment": "HK$ 38.00",
+      "Game Editor": "HK$ 48.00",
+      "Bundle": "HK$ 88.00",
+      "Premium livery bundle": "HK$ 48.00",
+      "Very Large Investment": "HK$ 22.00",
+      "Chairman's Payment": "HK$ 48.00",
+      "Investment": "HK$ 18.00",
+      "Pre registration bundle": "HK$ 48.00",
+      "Large Investment": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Huge Investment": "HK$ 38.00",
+            "Game Editor": "HK$ 48.00",
+            "Bundle": "HK$ 88.00",
+            "Premium livery bundle": "HK$ 48.00",
+            "Very Large Investment": "HK$ 22.00",
+            "Chairman's Payment": "HK$ 48.00",
+            "Investment": "HK$ 18.00",
+            "Pre registration bundle": "HK$ 48.00",
+            "Large Investment": "HK$ 22.00"
+          }
         }
       ]
     ]

@@ -63,6 +63,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1369253556,
+    name: {
+      tr: 'Light | Long Exposure',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6449251957,
+    name: {
+      mo: 'Motorsport Manager 4',
+    },
+    addType: 'auto',
+  },
+  {
     id: 968820626,
     name: {
       mo: 'Watch Tuner Lite',

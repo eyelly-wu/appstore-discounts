@@ -30991,6 +30991,27 @@
       ]
     ]
   },
+  "1369253556": {
+    "name": "長時間曝光",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1371965583": {
     "name": "The Gardens Between",
     "maxPriceInfo": {
@@ -36606,7 +36627,8 @@
       "大洋洲篇": "$249.00",
       "季節性裝飾包2": "$150.00",
       "季節性裝飾包": "$150.00",
-      "林地奇觀裝飾包": "$150.00"
+      "林地奇觀裝飾包": "$150.00",
+      "《亞洲擴展》": "$249.00"
     },
     "minPriceInfo": {
       "price": 225,
@@ -36615,9 +36637,25 @@
       "大洋洲篇": "$249.00",
       "季節性裝飾包2": "$150.00",
       "季節性裝飾包": "$150.00",
-      "林地奇觀裝飾包": "$150.00"
+      "林地奇觀裝飾包": "$150.00",
+      "《亞洲擴展》": "$249.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 225,
+          "formattedPrice": "$225.00",
+          "inAppPurchases": {
+            "欧洲篇": "$225.00",
+            "大洋洲篇": "$249.00",
+            "季節性裝飾包": "$150.00",
+            "林地奇觀裝飾包": "$150.00",
+            "季節性裝飾包2": "$150.00",
+            "《亞洲擴展》": "$249.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745398953972,
@@ -47031,6 +47069,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746641007488,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1746633756123,
           "price": 30,
@@ -58964,6 +59008,55 @@
           "price": 90,
           "formattedPrice": "$90.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449251957": {
+    "name": "Motorsport Manager 4",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00",
+      "Huge Investment": "$150.00",
+      "Bundle": "$320.00",
+      "Premium livery bundle": "$190.00",
+      "Game Editor": "$190.00",
+      "Very Large Investment": "$90.00",
+      "Chairman's Payment": "$190.00",
+      "Large Investment": "$90.00",
+      "Investment": "$60.00",
+      "Pre registration bundle": "$190.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00",
+      "Huge Investment": "$150.00",
+      "Bundle": "$320.00",
+      "Premium livery bundle": "$190.00",
+      "Game Editor": "$190.00",
+      "Very Large Investment": "$90.00",
+      "Chairman's Payment": "$190.00",
+      "Large Investment": "$90.00",
+      "Investment": "$60.00",
+      "Pre registration bundle": "$190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Huge Investment": "$150.00",
+            "Bundle": "$320.00",
+            "Premium livery bundle": "$190.00",
+            "Game Editor": "$190.00",
+            "Very Large Investment": "$90.00",
+            "Chairman's Payment": "$190.00",
+            "Large Investment": "$90.00",
+            "Investment": "$60.00",
+            "Pre registration bundle": "$190.00"
+          }
         }
       ]
     ]

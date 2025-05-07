@@ -23675,6 +23675,27 @@
       ]
     ]
   },
+  "1369253556": {
+    "name": "Light | Long Exposure",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1371965583": {
     "name": "The Gardens Between",
     "maxPriceInfo": {
@@ -27189,7 +27210,8 @@
       "Oceania Expansion": "₺129,99",
       "Seasonal Decorative Pack": "₺229,99",
       "Seasonal Decorative Pack 2": "₺229,99",
-      "Woodland Wonders Pack": "₺229,99"
+      "Woodland Wonders Pack": "₺229,99",
+      "Asia Expansion": "₺129,99"
     },
     "minPriceInfo": {
       "price": 109.99,
@@ -27198,9 +27220,25 @@
       "Oceania Expansion": "₺129,99",
       "Seasonal Decorative Pack": "₺229,99",
       "Seasonal Decorative Pack 2": "₺229,99",
-      "Woodland Wonders Pack": "₺229,99"
+      "Woodland Wonders Pack": "₺229,99",
+      "Asia Expansion": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 109.99,
+          "formattedPrice": "₺109,99",
+          "inAppPurchases": {
+            "European Expansion": "₺114,99",
+            "Oceania Expansion": "₺129,99",
+            "Seasonal Decorative Pack": "₺229,99",
+            "Asia Expansion": "₺129,99",
+            "Seasonal Decorative Pack 2": "₺229,99",
+            "Woodland Wonders Pack": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745398953972,
@@ -36731,6 +36769,12 @@
     "history": [
       [
         {
+          "timestamp": 1746641007488,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1746633756123,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -43992,6 +44036,55 @@
           "price": 129.99,
           "formattedPrice": "₺129,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449251957": {
+    "name": "Motorsport Manager 4",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
+      "Huge Investment": "₺229,99",
+      "Investment": "₺99,99",
+      "Bundle": "₺449,99",
+      "Large Investment": "₺129,99",
+      "Very Large Investment": "₺129,99",
+      "Game Editor": "₺249,99",
+      "Premium livery bundle": "₺249,99",
+      "Chairman's Payment": "₺249,99",
+      "Pre registration bundle": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
+      "Huge Investment": "₺229,99",
+      "Investment": "₺99,99",
+      "Bundle": "₺449,99",
+      "Large Investment": "₺129,99",
+      "Very Large Investment": "₺129,99",
+      "Game Editor": "₺249,99",
+      "Premium livery bundle": "₺249,99",
+      "Chairman's Payment": "₺249,99",
+      "Pre registration bundle": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Huge Investment": "₺229,99",
+            "Investment": "₺99,99",
+            "Bundle": "₺449,99",
+            "Large Investment": "₺129,99",
+            "Very Large Investment": "₺129,99",
+            "Game Editor": "₺249,99",
+            "Premium livery bundle": "₺249,99",
+            "Chairman's Payment": "₺249,99",
+            "Pre registration bundle": "₺249,99"
+          }
         }
       ]
     ]

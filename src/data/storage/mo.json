@@ -23900,6 +23900,27 @@
       ]
     ]
   },
+  "1369253556": {
+    "name": "長時間曝光",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1371965583": {
     "name": "The Gardens Between",
     "maxPriceInfo": {
@@ -29874,7 +29895,8 @@
       "大洋洲篇": "USD 11.99",
       "季節性裝飾包2": "USD 4.99",
       "林地奇觀裝飾包": "USD 4.99",
-      "季節性裝飾包": "USD 4.99"
+      "季節性裝飾包": "USD 4.99",
+      "《亞洲擴展》": "USD 11.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -29883,9 +29905,25 @@
       "大洋洲篇": "USD 11.99",
       "季節性裝飾包2": "USD 4.99",
       "林地奇觀裝飾包": "USD 4.99",
-      "季節性裝飾包": "USD 4.99"
+      "季節性裝飾包": "USD 4.99",
+      "《亞洲擴展》": "USD 11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "欧洲篇": "USD 9.99",
+            "大洋洲篇": "USD 11.99",
+            "《亞洲擴展》": "USD 11.99",
+            "季節性裝飾包2": "USD 4.99",
+            "林地奇觀裝飾包": "USD 4.99",
+            "季節性裝飾包": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745398953972,
@@ -46631,6 +46669,55 @@
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449251957": {
+    "name": "Motorsport Manager 4",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "Huge Investment": "USD 4.99",
+      "Bundle": "USD 4.99",
+      "Pre registration bundle": "USD 5.99",
+      "Premium livery bundle": "USD 5.99",
+      "Game Editor": "USD 5.99",
+      "Very Large Investment": "USD 2.99",
+      "Large Investment": "USD 2.99",
+      "Investment": "USD 1.99",
+      "Chairman's Payment": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "Huge Investment": "USD 4.99",
+      "Bundle": "USD 4.99",
+      "Pre registration bundle": "USD 5.99",
+      "Premium livery bundle": "USD 5.99",
+      "Game Editor": "USD 5.99",
+      "Very Large Investment": "USD 2.99",
+      "Large Investment": "USD 2.99",
+      "Investment": "USD 1.99",
+      "Chairman's Payment": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Huge Investment": "USD 4.99",
+            "Bundle": "USD 4.99",
+            "Pre registration bundle": "USD 5.99",
+            "Premium livery bundle": "USD 5.99",
+            "Game Editor": "USD 5.99",
+            "Very Large Investment": "USD 2.99",
+            "Large Investment": "USD 2.99",
+            "Investment": "USD 1.99",
+            "Chairman's Payment": "USD 5.99"
+          }
         }
       ]
     ]

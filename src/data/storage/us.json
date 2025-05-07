@@ -30950,6 +30950,27 @@
       ]
     ]
   },
+  "1369253556": {
+    "name": "Light | Long Exposure",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1371965583": {
     "name": "The Gardens Between",
     "maxPriceInfo": {
@@ -36911,7 +36932,8 @@
       "Oceania Expansion": "$11.99",
       "Seasonal Decorative Pack": "$4.99",
       "Woodland Wonders Pack": "$4.99",
-      "Seasonal Decorative Pack 2": "$4.99"
+      "Seasonal Decorative Pack 2": "$4.99",
+      "Asia Expansion": "$11.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -36920,9 +36942,25 @@
       "Oceania Expansion": "$11.99",
       "Seasonal Decorative Pack": "$4.99",
       "Woodland Wonders Pack": "$4.99",
-      "Seasonal Decorative Pack 2": "$4.99"
+      "Seasonal Decorative Pack 2": "$4.99",
+      "Asia Expansion": "$11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "European Expansion": "$9.99",
+            "Oceania Expansion": "$11.99",
+            "Seasonal Decorative Pack": "$4.99",
+            "Woodland Wonders Pack": "$4.99",
+            "Seasonal Decorative Pack 2": "$4.99",
+            "Asia Expansion": "$11.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745398953972,
@@ -47882,6 +47920,12 @@
     "history": [
       [
         {
+          "timestamp": 1746641007488,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1746633756123,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -58441,6 +58485,55 @@
           "price": 2.99,
           "formattedPrice": "$2.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449251957": {
+    "name": "Motorsport Manager 4",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Huge Investment": "$4.99",
+      "Bundle": "$9.99",
+      "Very Large Investment": "$2.99",
+      "Investment": "$1.99",
+      "Game Editor": "$5.99",
+      "Premium livery bundle": "$5.99",
+      "Chairman's Payment": "$5.99",
+      "Large Investment": "$2.99",
+      "Pre registration bundle": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Huge Investment": "$4.99",
+      "Bundle": "$9.99",
+      "Very Large Investment": "$2.99",
+      "Investment": "$1.99",
+      "Game Editor": "$5.99",
+      "Premium livery bundle": "$5.99",
+      "Chairman's Payment": "$5.99",
+      "Large Investment": "$2.99",
+      "Pre registration bundle": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746641007488,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Huge Investment": "$4.99",
+            "Bundle": "$9.99",
+            "Very Large Investment": "$2.99",
+            "Investment": "$1.99",
+            "Game Editor": "$5.99",
+            "Premium livery bundle": "$5.99",
+            "Chairman's Payment": "$5.99",
+            "Large Investment": "$2.99",
+            "Pre registration bundle": "$5.99"
+          }
         }
       ]
     ]
