@@ -43675,13 +43675,28 @@
     "name": "赛博神医-猜病每日挑战小测验",
     "maxPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "formattedPrice": "₺4,99",
+      "月度VIP": "₺39,99",
+      "1年VIP": "₺99,99"
     },
     "minPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "formattedPrice": "₺4,99",
+      "月度VIP": "₺39,99",
+      "1年VIP": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746604998447,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "月度VIP": "₺39,99",
+            "1年VIP": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,

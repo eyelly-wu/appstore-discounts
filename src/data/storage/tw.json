@@ -19643,6 +19643,25 @@
     "history": [
       [
         {
+          "timestamp": 1746604998447,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {
+            "活動特惠季度 SVIP": "$90.00",
+            "新年特惠 1 年 SVIP 聯合禮包 3": "$390.00",
+            "新年特惠 1 年 SVIP 聯合禮包 2": "$390.00",
+            "新年特惠 1 年 SVIP 聯合禮包 1": "$390.00",
+            "SVIP特惠 (買一年送半年)": "$390.00",
+            "SVIP特惠 (買兩年送一年)": "$790.00",
+            "雨季特惠 100 天 SVIP": "$90.00",
+            "季度SVIP": "$90.00",
+            "1年SVIP": "$390.00",
+            "連續包年 SVIP": "$390.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1744628532088,
           "price": 490,
           "formattedPrice": "$490.00",
@@ -58375,13 +58394,28 @@
     "name": "赛博神医-猜病每日挑战小测验",
     "maxPriceInfo": {
       "price": 30,
-      "formattedPrice": "$30.00"
+      "formattedPrice": "$30.00",
+      "月度VIP": "$30.00",
+      "1年VIP": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
-      "formattedPrice": "$30.00"
+      "formattedPrice": "$30.00",
+      "月度VIP": "$30.00",
+      "1年VIP": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746604998447,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "月度VIP": "$30.00",
+            "1年VIP": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,
