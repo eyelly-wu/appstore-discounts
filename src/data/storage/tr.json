@@ -7899,6 +7899,22 @@
     "history": [
       [
         {
+          "timestamp": 1746658943078,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Tower Unlock All Upgrades": "₺39,99",
+            "Pile O' Monkey Money": "₺129,99",
+            "Bundle O' Monkey Money": "₺129,99",
+            "500 Monkey Money": "₺39,99",
+            "Vault O' Tokens": "₺449,99",
+            "Double Cash Mode": "₺449,99",
+            "Vault O' Monkey Money": "₺899,99",
+            "Rank Up": "₺39,99",
+            "Bigger Beacons": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1746655342511,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -8567,6 +8583,25 @@
       "Karkinos": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746658943078,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺229,99",
+            "Ashbite": "₺229,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺129,99",
+            "Sha'tra": "₺39,99",
+            "Grawl": "₺39,99",
+            "Kutsao": "₺39,99",
+            "Captain Blackthorne": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746399731721,
@@ -10652,6 +10687,14 @@
     "history": [
       [
         {
+          "timestamp": 1746658943078,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743202933017,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -11365,6 +11408,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746658943078,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "238学币": "₺1.499,99",
+            "188学币": "₺1.299,99",
+            "698学币": "₺4.499,99",
+            "398学币": "₺2.499,99",
+            "998学币": "₺4.999,99",
+            "298学币": "₺1.799,99",
+            "128学币": "₺899,99",
+            "98学币": "₺699,99",
+            "68学币": "₺449,99",
+            "38学币": "₺229,99"
+          }
+        },
         {
           "timestamp": 1746655342511,
           "price": 4.99,
@@ -12945,20 +13005,39 @@
       "Wilbur": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99",
-      "Faustus": "₺299,99",
-      "Bruce": "₺229,99",
-      "Phoenix": "₺299,99",
-      "Reg'son": "₺99,99",
-      "Vez'nan": "₺229,99",
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Faustus": "₺229,99",
+      "Bruce": "₺129,99",
+      "Phoenix": "₺229,99",
+      "Reg'son": "₺39,99",
+      "Vez'nan": "₺129,99",
       "Special Offer Faustus": "₺229,99",
-      "Prince Denas": "₺129,99",
+      "Prince Denas": "₺39,99",
       "Chest of gems": "₺899,99",
-      "Bravebark": "₺229,99",
-      "Wilbur": "₺299,99"
+      "Bravebark": "₺129,99",
+      "Wilbur": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746658943078,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Faustus": "₺229,99",
+            "Bruce": "₺129,99",
+            "Phoenix": "₺229,99",
+            "Reg'son": "₺39,99",
+            "Wilbur": "₺229,99",
+            "Vez'nan": "₺129,99",
+            "Special Offer Faustus": "₺229,99",
+            "Prince Denas": "₺39,99",
+            "Chest of gems": "₺899,99",
+            "Bravebark": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
@@ -14276,6 +14355,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746658943078,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包年": "₺159,99",
+            "金牛会员尊享版连续包月": "₺12,99",
+            "问财专业版连续包月": "₺999,99",
+            "问财进阶版连续包月": "₺399,99",
+            "598花币": "₺3.999,99",
+            "299花币": "₺1.799,99",
+            "早盘选股宝连续包月": "₺1.299,99",
+            "机构探测器连续包月": "₺379,99",
+            "金牛情报连续包月": "₺219,99",
+            "分时顶底连续包季": "₺389,99"
+          }
+        },
         {
           "timestamp": 1746655342511,
           "price": 4.99,
@@ -19517,7 +19613,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "PRO yearly subscription": "₺579,99",
+      "PRO yearly subscription": "₺1.499,99",
       "Yearly Subscription": "₺459,99",
       "Monthly Subscription": "₺109,99",
       "Lifetime license": "₺4.499,99"
@@ -19531,6 +19627,19 @@
       "Lifetime license": "₺3.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746658943078,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "₺1.499,99",
+            "Yearly Subscription": "₺459,99",
+            "Lifetime license": "₺4.499,99",
+            "Monthly Subscription": "₺109,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -23895,6 +24004,20 @@
       "Treasures Editor": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746658943078,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {
+            "Dawn of Heroes": "₺179,99",
+            "Feature DLC": "₺179,99",
+            "Art Upgrade Pack": "₺179,99",
+            "Heroes Assemble": "₺179,99",
+            "Treasures Editor": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746054146112,
@@ -31261,10 +31384,18 @@
       "formattedPrice": "₺29,99"
     },
     "minPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 11.99,
+      "formattedPrice": "₺11,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746658943078,
+          "price": 11.99,
+          "formattedPrice": "₺11,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745539765557,
@@ -33834,8 +33965,8 @@
       "Goofy Roofs Pack": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 69.99,
-      "formattedPrice": "₺69,99",
+      "price": 29.99,
+      "formattedPrice": "₺29,99",
       "Content Bundle 1": "₺449,99",
       "Getaway Car Pack": "₺129,99",
       "Modified Monsters Car Pack": "₺129,99",
@@ -33848,6 +33979,25 @@
       "Goofy Roofs Pack": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746658943078,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺449,99",
+            "Getaway Car Pack": "₺129,99",
+            "Content Bundle 2": "₺349,99",
+            "Modified Monsters Car Pack": "₺129,99",
+            "Steel & Wheels Pack": "₺99,99",
+            "Off-Road Car Pack": "₺129,99",
+            "Racing Heroes Car Pack": "₺129,99",
+            "American All-Stars Car Pack": "₺129,99",
+            "Rusty Rats Car Pack": "₺129,99",
+            "Goofy Roofs Pack": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745622140109,

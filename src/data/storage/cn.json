@@ -2713,7 +2713,8 @@
       "Astrolocality Maps": "¥168.00",
       "Predictive Report - No Background": "¥22.00",
       "Birth Chart Report - Untimed": "¥22.00",
-      "Birthday Report": "¥28.00"
+      "Birthday Report": "¥28.00",
+      "Lunar Return Report": "¥28.00"
     },
     "minPriceInfo": {
       "price": 298,
@@ -2727,9 +2728,29 @@
       "Astrolocality Maps": "¥168.00",
       "Predictive Report - No Background": "¥22.00",
       "Birth Chart Report - Untimed": "¥22.00",
-      "Birthday Report": "¥28.00"
+      "Birthday Report": "¥28.00",
+      "Lunar Return Report": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746658943078,
+          "price": 298,
+          "formattedPrice": "¥298.00",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "¥28.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Full": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Lunar Return Report": "¥28.00",
+            "Astrolocality Maps": "¥168.00",
+            "Child Report - Full": "¥28.00",
+            "Predictive Report - No Background": "¥22.00",
+            "Birthday Report": "¥28.00",
+            "Birth Chart Report - Untimed": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
