@@ -16056,6 +16056,27 @@
       ]
     ]
   },
+  "1065791514": {
+    "name": "The Ramen Sensei",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746615740493,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1065802380": {
     "name": "Stream Music Player",
     "maxPriceInfo": {
@@ -35316,10 +35337,10 @@
     "maxPriceInfo": {
       "price": 59.99,
       "formattedPrice": "₺59,99",
-      "1030 Stellar Gems": "₺249,99",
-      "510 Stellar Gems": "₺124,99",
-      "100 Stellar Gems": "₺24,99",
-      "2080 Stellar Gems": "₺499,99",
+      "1030 Stellar Gems": "₺449,99",
+      "510 Stellar Gems": "₺229,99",
+      "100 Stellar Gems": "₺39,99",
+      "2080 Stellar Gems": "₺899,99",
       "300 Stellar Gems": "₺74,99"
     },
     "minPriceInfo": {
@@ -35332,6 +35353,20 @@
       "300 Stellar Gems": "₺74,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746615740493,
+          "price": 59.99,
+          "formattedPrice": "₺59,99",
+          "inAppPurchases": {
+            "1030 Stellar Gems": "₺449,99",
+            "510 Stellar Gems": "₺229,99",
+            "100 Stellar Gems": "₺39,99",
+            "2080 Stellar Gems": "₺899,99",
+            "300 Stellar Gems": "₺74,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

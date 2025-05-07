@@ -19845,6 +19845,27 @@
       ]
     ]
   },
+  "1065791514": {
+    "name": "The Ramen Sensei",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746615740493,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1065802380": {
     "name": "Stream Music Player",
     "maxPriceInfo": {
@@ -46565,7 +46586,14 @@
       "All Heroes": "$29.99",
       "Sylvara": "$6.99",
       "Hero Anya": "$2.99",
-      "Tower Grim Wraiths": "$6.99"
+      "Tower Grim Wraiths": "$6.99",
+      "Chest of Gems_ON SALE": "$17.99",
+      "Surge Colossus": "$2.99",
+      "Spydyr": "$2.99",
+      "Hero Spydyr": "$4.99",
+      "Spider Offer": "$6.99",
+      "All towers": "$14.99",
+      "All heroes": "$24.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -46584,10 +46612,34 @@
       "All Heroes": "$19.99",
       "Sylvara": "$6.99",
       "Hero Anya": "$2.99",
-      "Tower Grim Wraiths": "$6.99"
+      "Tower Grim Wraiths": "$6.99",
+      "Chest of Gems_ON SALE": "$17.99",
+      "Surge Colossus": "$2.99",
+      "Spydyr": "$2.99",
+      "Hero Spydyr": "$4.99",
+      "Spider Offer": "$6.99",
+      "All towers": "$14.99",
+      "All heroes": "$24.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746615740493,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Chest of Gems_ON SALE": "$17.99",
+            "Tower Surge Colossus": "$4.99",
+            "Surge Colossus": "$2.99",
+            "Spydyr": "$2.99",
+            "Hero Spydyr": "$4.99",
+            "Spider Offer": "$6.99",
+            "Spiders Offer": "$7.99",
+            "All towers": "$14.99",
+            "All Towers": "$19.99",
+            "All heroes": "$24.99"
+          }
+        },
         {
           "timestamp": 1746601351240,
           "price": 6.99,
