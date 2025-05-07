@@ -25346,14 +25346,22 @@
   "1443988620": {
     "name": "Quantumult X",
     "maxPriceInfo": {
-      "price": 349.99,
-      "formattedPrice": "₺349,99"
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
     },
     "minPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746597790232,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,

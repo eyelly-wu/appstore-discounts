@@ -18692,7 +18692,13 @@
       "Data Disk pack 1": "HK$ 38.00",
       "Seasonal event item": "HK$ 148.00",
       "Nickname change": "HK$ 18.00",
-      "Repair kit": "HK$ 8.00"
+      "Repair kit": "HK$ 8.00",
+      "Bag with caps": "HK$ 388.00",
+      "Safe with caps": "HK$ 788.00",
+      "Pile of caps (sale 20%)": "HK$ 32.00",
+      "Pile of caps (sale 40%)": "HK$ 22.00",
+      "Pile of caps (sale 60%)": "HK$ 18.00",
+      "Saucepan of caps (sale 30%)": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -18712,9 +18718,34 @@
       "Data Disk pack 1": "HK$ 38.00",
       "Seasonal event item": "HK$ 148.00",
       "Nickname change": "HK$ 18.00",
-      "Repair kit": "HK$ 8.00"
+      "Repair kit": "HK$ 8.00",
+      "Bag with caps": "HK$ 388.00",
+      "Safe with caps": "HK$ 788.00",
+      "Pile of caps (sale 20%)": "HK$ 32.00",
+      "Pile of caps (sale 40%)": "HK$ 22.00",
+      "Pile of caps (sale 60%)": "HK$ 18.00",
+      "Saucepan of caps (sale 30%)": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746597790232,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Handful of caps": "HK$ 8.00",
+            "Pile of caps": "HK$ 38.00",
+            "Sausepan of caps": "HK$ 88.00",
+            "Case with caps": "HK$ 148.00",
+            "Bag with caps": "HK$ 388.00",
+            "Safe with caps": "HK$ 788.00",
+            "Pile of caps (sale 20%)": "HK$ 32.00",
+            "Pile of caps (sale 40%)": "HK$ 22.00",
+            "Pile of caps (sale 60%)": "HK$ 18.00",
+            "Saucepan of caps (sale 30%)": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746097327375,
