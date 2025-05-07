@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 6742740688,
+    name: {
+      cn: '无声冲突',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1369253556,
     name: {
       tr: 'Light | Long Exposure',
