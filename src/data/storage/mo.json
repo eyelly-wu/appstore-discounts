@@ -11658,6 +11658,14 @@
     "history": [
       [
         {
+          "timestamp": 1746626555033,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743170537226,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -19974,7 +19982,7 @@
       "price": 0,
       "formattedPrice": "免費",
       "Yearly Subscription": "USD 19.99",
-      "PRO yearly subscription": "USD 24.99",
+      "PRO yearly subscription": "USD 34.99",
       "Lifetime license": "USD 99.99",
       "Monthly Subscription": "USD 5.49"
     },
@@ -19987,6 +19995,19 @@
       "Monthly Subscription": "USD 5.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "USD 34.99",
+            "Yearly Subscription": "USD 19.99",
+            "Lifetime license": "USD 49.99",
+            "Monthly Subscription": "USD 5.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737345750455,
@@ -23921,6 +23942,20 @@
       "蒼天之志": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {
+            "寶物編輯器": "USD 0.99",
+            "美術升級包": "USD 3.99",
+            "出類拔萃": "USD 3.99",
+            "群英薈": "USD 3.99",
+            "蒼天之志": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746021743211,
@@ -33622,10 +33657,18 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 1.39,
+      "formattedPrice": "USD 1.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 1.39,
+          "formattedPrice": "USD 1.39",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745539765557,
@@ -36321,8 +36364,8 @@
       "Rusty Rats Car Pack": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 7.79,
-      "formattedPrice": "USD 7.79",
+      "price": 3.99,
+      "formattedPrice": "USD 3.99",
       "Content Bundle 1": "USD 9.99",
       "Content Bundle 2": "USD 7.99",
       "Reckless Car Pack": "USD 2.99",
@@ -36335,6 +36378,25 @@
       "Rusty Rats Car Pack": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "USD 9.99",
+            "Content Bundle 2": "USD 7.99",
+            "Reckless Car Pack": "USD 2.99",
+            "Off-Road Car Pack": "USD 2.99",
+            "Racing Heroes Car Pack": "USD 2.99",
+            "Steel & Wheels Pack": "USD 1.99",
+            "Goofy Roofs Pack": "USD 0.99",
+            "Getaway Car Pack": "USD 2.99",
+            "American All-Stars Car Pack": "USD 2.99",
+            "Rusty Rats Car Pack": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -42852,6 +42914,18 @@
       "擴展內容《新顏繪夢》": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "擴展內容《倩影萍蹤》": "USD 2.99",
+            "擴展內容《新顏繪夢》": "USD 0.99",
+            "擴展內容《一統江湖》": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746028957031,

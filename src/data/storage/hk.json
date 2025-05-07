@@ -4249,6 +4249,25 @@
     "history": [
       [
         {
+          "timestamp": 1746626555033,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "Ferrous Mobile": "HK$ 22.00",
+            "Hyper-Pop Mobile": "HK$ 22.00",
+            "Chip-Tune Mobile": "HK$ 22.00",
+            "Essential Winds": "HK$ 18.00",
+            "Essential Strings": "HK$ 18.00",
+            "DubTechno": "HK$ 18.00",
+            "Chill-Lo-Fi Mobile": "HK$ 18.00",
+            "Technocraft": "HK$ 18.00",
+            "Brazil Bass": "HK$ 18.00",
+            "PsyTrance": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745953326469,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
@@ -13716,6 +13735,14 @@
     "history": [
       [
         {
+          "timestamp": 1746626555033,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743170537226,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -19013,7 +19040,14 @@
       "支線第一章": "HK$ 32.00",
       "擴充章節 I": "HK$ 32.00",
       "一小瓶迴響之核": "HK$ 8.00",
-      "擴充章節 R": "HK$ 32.00"
+      "擴充章節 R": "HK$ 32.00",
+      "KALPA Collaboration 限時挑戰書": "HK$ 22.00",
+      "Glorious Chorus 限時挑戰書": "HK$ 22.00",
+      "Neon Rhapsody 限時挑戰書": "HK$ 22.00",
+      "Colorful Meteor Shower 限時挑戰書": "HK$ 22.00",
+      "Halv Selection 限時挑戰書": "HK$ 22.00",
+      "限時挑戰書": "HK$ 32.00",
+      "擴充章節 Y": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -19029,9 +19063,34 @@
       "支線第一章": "HK$ 32.00",
       "擴充章節 I": "HK$ 32.00",
       "一小瓶迴響之核": "HK$ 8.00",
-      "擴充章節 R": "HK$ 32.00"
+      "擴充章節 R": "HK$ 32.00",
+      "KALPA Collaboration 限時挑戰書": "HK$ 22.00",
+      "Glorious Chorus 限時挑戰書": "HK$ 22.00",
+      "Neon Rhapsody 限時挑戰書": "HK$ 22.00",
+      "Colorful Meteor Shower 限時挑戰書": "HK$ 22.00",
+      "Halv Selection 限時挑戰書": "HK$ 22.00",
+      "限時挑戰書": "HK$ 32.00",
+      "擴充章節 Y": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Radiant Star Trail 限時挑戰書": "HK$ 32.00",
+            "KALPA Collaboration 限時挑戰書": "HK$ 22.00",
+            "主線第八章": "HK$ 88.00",
+            "Glorious Chorus 限時挑戰書": "HK$ 22.00",
+            "Neon Rhapsody 限時挑戰書": "HK$ 22.00",
+            "Colorful Meteor Shower 限時挑戰書": "HK$ 22.00",
+            "Halv Selection 限時挑戰書": "HK$ 22.00",
+            "限時挑戰書": "HK$ 32.00",
+            "擴充章節 Y": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746417819615,
@@ -23035,7 +23094,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "PRO yearly subscription": "HK$ 198.00",
+      "PRO yearly subscription": "HK$ 288.00",
       "Yearly Subscription": "HK$ 158.00",
       "Lifetime license": "HK$ 788.00",
       "Monthly Subscription": "HK$ 43.00"
@@ -23049,6 +23108,19 @@
       "Monthly Subscription": "HK$ 43.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "HK$ 288.00",
+            "Yearly Subscription": "HK$ 158.00",
+            "Lifetime license": "HK$ 788.00",
+            "Monthly Subscription": "HK$ 43.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746158574062,
@@ -31346,6 +31418,20 @@
       "出類拔萃": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {
+            "寶物編輯器": "HK$ 8.00",
+            "美術升級包": "HK$ 32.00",
+            "群英薈": "HK$ 32.00",
+            "蒼天之志": "HK$ 32.00",
+            "出類拔萃": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746021743211,
@@ -41283,10 +41369,18 @@
       "formattedPrice": "HK$ 36.00"
     },
     "minPriceInfo": {
-      "price": 36,
-      "formattedPrice": "HK$ 36.00"
+      "price": 12,
+      "formattedPrice": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 12,
+          "formattedPrice": "HK$ 12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745539765557,
@@ -42938,6 +43032,25 @@
     "history": [
       [
         {
+          "timestamp": 1746626555033,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Daniel skin": "HK$ 8.00",
+            "Reyna skin": "HK$ 8.00",
+            "Jorge skin": "HK$ 8.00",
+            "Gloria skin": "HK$ 8.00",
+            "Purple menu color": "HK$ 32.00",
+            "Red menu color": "HK$ 18.00",
+            "Yellow menu color": "HK$ 8.00",
+            "James character": "HK$ 8.00",
+            "Lisa character": "HK$ 0.00",
+            "Elsa character": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746460951400,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -44029,8 +44142,8 @@
       "Goofy Roofs Pack": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 68,
-      "formattedPrice": "HK$ 68.00",
+      "price": 36,
+      "formattedPrice": "HK$ 36.00",
       "Content Bundle 2": "HK$ 58.00",
       "Content Bundle 1": "HK$ 88.00",
       "Getaway Car Pack": "HK$ 22.00",
@@ -44044,6 +44157,25 @@
       "Goofy Roofs Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 36,
+          "formattedPrice": "HK$ 36.00",
+          "inAppPurchases": {
+            "Content Bundle 1": "HK$ 88.00",
+            "Content Bundle 2": "HK$ 58.00",
+            "Getaway Car Pack": "HK$ 22.00",
+            "Racing Heroes Car Pack": "HK$ 22.00",
+            "Modified Monsters Car Pack": "HK$ 22.00",
+            "Off-Road Car Pack": "HK$ 22.00",
+            "Banger Racing Car Pack": "HK$ 22.00",
+            "Reckless Car Pack": "HK$ 22.00",
+            "Steel & Wheels Pack": "HK$ 18.00",
+            "Goofy Roofs Pack": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745812990001,
@@ -53381,6 +53513,18 @@
     "history": [
       [
         {
+          "timestamp": 1746626555033,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "擴展內容《倩影萍蹤》": "HK$ 22.00",
+            "擴展內容《新顏繪夢》": "HK$ 8.00",
+            "擴展內容《一統江湖》": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746028957031,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -53711,14 +53855,22 @@
   "6621207768": {
     "name": "聖劍同盟",
     "maxPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -53732,14 +53884,22 @@
   "6743420230": {
     "name": "夢魘騎士團",
     "maxPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746626555033,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
