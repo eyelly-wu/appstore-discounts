@@ -19058,7 +19058,7 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99",
-      "Handful of caps": "$0.99",
+      "Handful of caps": "$1.99",
       "Pile of caps": "$4.99",
       "Case with caps": "$19.99",
       "Sausepan of caps": "$9.99",
@@ -19067,7 +19067,13 @@
       "Small pack": "$0.99",
       "Big pack": "$19.99",
       "Standart pack": "$1.99",
-      "Seasonal event item": "$19.99"
+      "Seasonal event item": "$19.99",
+      "Battlepass": "$9.99",
+      "Crazy sale pack": "$0.99",
+      "Data Disk pack 2": "$19.99",
+      "Data Disk pack 1": "$4.99",
+      "Useful pack": "$2.99",
+      "Nickname change": "$1.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -19081,9 +19087,33 @@
       "Small pack": "$0.99",
       "Big pack": "$19.99",
       "Standart pack": "$1.99",
-      "Seasonal event item": "$19.99"
+      "Seasonal event item": "$19.99",
+      "Battlepass": "$9.99",
+      "Crazy sale pack": "$0.99",
+      "Data Disk pack 2": "$19.99",
+      "Data Disk pack 1": "$4.99",
+      "Useful pack": "$2.99",
+      "Nickname change": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746644545583,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Battlepass": "$9.99",
+            "Crazy sale pack": "$0.99",
+            "Data Disk pack 2": "$19.99",
+            "Data Disk pack 1": "$4.99",
+            "Useful pack": "$2.99",
+            "Standart pack": "$1.99",
+            "Handful of caps": "$1.99",
+            "Seasonal event item": "$19.99",
+            "Nickname change": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745431369334,

@@ -15498,7 +15498,7 @@
     "maxPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99",
-      "Handful of caps": "₺39,99",
+      "Handful of caps": "₺99,99",
       "Pile of caps": "₺229,99",
       "Sausepan of caps": "₺449,99",
       "Special pack": "₺229,99",
@@ -15507,7 +15507,13 @@
       "Useful pack": "₺129,99",
       "Standart pack": "₺99,99",
       "Case with caps": "₺899,99",
-      "Survival kit": "₺39,99"
+      "Survival kit": "₺39,99",
+      "Battlepass": "₺449,99",
+      "Crazy sale pack": "₺39,99",
+      "Data Disk pack 2": "₺899,99",
+      "Data Disk pack 1": "₺229,99",
+      "Seasonal event item": "₺899,99",
+      "Nickname change": "₺99,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -15521,9 +15527,33 @@
       "Useful pack": "₺129,99",
       "Standart pack": "₺99,99",
       "Case with caps": "₺899,99",
-      "Survival kit": "₺39,99"
+      "Survival kit": "₺39,99",
+      "Battlepass": "₺449,99",
+      "Crazy sale pack": "₺39,99",
+      "Data Disk pack 2": "₺899,99",
+      "Data Disk pack 1": "₺229,99",
+      "Seasonal event item": "₺899,99",
+      "Nickname change": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746644545583,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Battlepass": "₺449,99",
+            "Crazy sale pack": "₺39,99",
+            "Data Disk pack 2": "₺899,99",
+            "Data Disk pack 1": "₺229,99",
+            "Useful pack": "₺129,99",
+            "Standart pack": "₺99,99",
+            "Handful of caps": "₺99,99",
+            "Seasonal event item": "₺899,99",
+            "Nickname change": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745431369334,
@@ -27890,6 +27920,25 @@
       "顾悦：20天脱口而出地道英语口语": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746644545583,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "肖维青英文原著精读课-纳尼亚传奇篇": "₺1.299,99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "₺1.299,99",
+            "Albert：不走弯路学英语": "₺249,99",
+            "聆听诺奖背后的时代之音": "₺699,99",
+            "顾悦：如何成为英语学习高手": "₺699,99",
+            "林小鹿英语精读（1-7季合集升级版）": "₺2.999,99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "₺1.299,99",
+            "林小鹿经济学人精读": "₺899,99",
+            "地道美式发音课": "₺1.799,99",
+            "顾悦：20天脱口而出地道英语口语": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746097327375,

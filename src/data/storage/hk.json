@@ -10464,6 +10464,25 @@
     "history": [
       [
         {
+          "timestamp": 1746644545583,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "骷心巫龍": "HK$ 38.00",
+            "黑龍灰霸齒": "HK$ 38.00",
+            "大型英雄包 2": "HK$ 98.00",
+            "倪浮世": "HK$ 8.00",
+            "剎陀羅": "HK$ 8.00",
+            "但丁": "HK$ 22.00",
+            "帝娥翠": "HK$ 8.00",
+            "庫紹": "HK$ 8.00",
+            "一箱寶石": "HK$ 88.00",
+            "黑棘船長": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746158574062,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -16144,20 +16163,39 @@
       "特別優惠火鳳凰": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00",
-      "浮士德": "HK$ 58.00",
-      "火鳳凰": "HK$ 58.00",
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "浮士德": "HK$ 38.00",
+      "火鳳凰": "HK$ 38.00",
       "特別優惠浮士德": "HK$ 38.00",
-      "威之難": "HK$ 38.00",
-      "銳戈勝": "HK$ 18.00",
+      "威之難": "HK$ 22.00",
+      "銳戈勝": "HK$ 8.00",
       "Big Hero Pack 3": "HK$ 118.00",
-      "威爾伯": "HK$ 58.00",
-      "怖鹿獅": "HK$ 38.00",
-      "勇敢樹霸": "HK$ 38.00",
+      "威爾伯": "HK$ 38.00",
+      "怖鹿獅": "HK$ 22.00",
+      "勇敢樹霸": "HK$ 22.00",
       "特別優惠火鳳凰": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746644545583,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "浮士德": "HK$ 38.00",
+            "火鳳凰": "HK$ 38.00",
+            "特別優惠浮士德": "HK$ 38.00",
+            "威之難": "HK$ 22.00",
+            "銳戈勝": "HK$ 8.00",
+            "Big Hero Pack 3": "HK$ 118.00",
+            "怖鹿獅": "HK$ 22.00",
+            "威爾伯": "HK$ 38.00",
+            "勇敢樹霸": "HK$ 22.00",
+            "特別優惠火鳳凰": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
@@ -19403,7 +19441,8 @@
       "英雄超能博士": "HK$ 38.00",
       "英雄桂英": "HK$ 22.00",
       "英雄命運女俠": "HK$ 22.00",
-      "英雄風刃": "HK$ 22.00"
+      "英雄風刃": "HK$ 22.00",
+      "英雄司珀羅": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -19414,9 +19453,26 @@
       "英雄超能博士": "HK$ 38.00",
       "英雄桂英": "HK$ 22.00",
       "英雄命運女俠": "HK$ 22.00",
-      "英雄風刃": "HK$ 22.00"
+      "英雄風刃": "HK$ 22.00",
+      "英雄司珀羅": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746644545583,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "特別禮包": "HK$ 38.00",
+            "英雄鐵甲馬克": "HK$ 58.00",
+            "英雄藍色飛龍": "HK$ 58.00",
+            "英雄司珀羅": "HK$ 38.00",
+            "英雄超能博士": "HK$ 38.00",
+            "英雄桂英": "HK$ 22.00",
+            "英雄命運女俠": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745658131479,
@@ -48127,6 +48183,12 @@
     "history": [
       [
         {
+          "timestamp": 1746644545583,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1746633756123,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -54802,7 +54864,8 @@
       "乖乖": "HK$ 8.00",
       "2025 Spring Forest Theme": "HK$ 8.00",
       "2025 Spring Lawn Theme": "HK$ 12.00",
-      "2025 Spring Flower Theme": "HK$ 8.00"
+      "2025 Spring Flower Theme": "HK$ 8.00",
+      "Orange Theme": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -54816,9 +54879,29 @@
       "乖乖": "HK$ 8.00",
       "2025 Spring Forest Theme": "HK$ 8.00",
       "2025 Spring Lawn Theme": "HK$ 12.00",
-      "2025 Spring Flower Theme": "HK$ 8.00"
+      "2025 Spring Flower Theme": "HK$ 8.00",
+      "Orange Theme": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746644545583,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Orange Theme": "HK$ 8.00",
+            "Blue Sky Theme": "HK$ 8.00",
+            "Calico Theme": "HK$ 8.00",
+            "招財": "HK$ 8.00",
+            "City Night Theme": "HK$ 8.00",
+            "Siamese Theme": "HK$ 8.00",
+            "辛巴": "HK$ 8.00",
+            "乖乖": "HK$ 8.00",
+            "2025 Spring Forest Theme": "HK$ 8.00",
+            "2025 Spring Lawn Theme": "HK$ 12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746367332061,
