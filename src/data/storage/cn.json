@@ -14837,6 +14837,23 @@
     "history": [
       [
         {
+          "timestamp": 1746608551576,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "150个Y币": "¥30.00",
+            "980个Y币": "¥98.00",
+            "特效2": "¥3.00",
+            "特效7": "¥3.00",
+            "特效3": "¥3.00",
+            "100 sheets": "¥1.00",
+            "特效6": "¥3.00",
+            "特效5": "¥3.00",
+            "特效4": "¥3.00",
+            "特效1": "¥3.00"
+          }
+        },
+        {
           "timestamp": 1746590581540,
           "price": 5.8,
           "formattedPrice": "¥5.80",
@@ -42852,13 +42869,28 @@
     "name": "赛博神医-猜病每日挑战小测验",
     "maxPriceInfo": {
       "price": 1,
-      "formattedPrice": "¥1.00"
+      "formattedPrice": "¥1.00",
+      "月度VIP": "¥6.00",
+      "1年VIP": "¥12.00"
     },
     "minPriceInfo": {
       "price": 1,
-      "formattedPrice": "¥1.00"
+      "formattedPrice": "¥1.00",
+      "月度VIP": "¥6.00",
+      "1年VIP": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746608551576,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "月度VIP": "¥6.00",
+            "1年VIP": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,

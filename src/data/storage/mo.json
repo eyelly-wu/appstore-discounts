@@ -17963,6 +17963,23 @@
     "history": [
       [
         {
+          "timestamp": 1746608551576,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "6480根火柴": "USD 99.99",
+            "60根火柴": "USD 0.99",
+            "1元礼包": "USD 0.99",
+            "1680根火柴": "USD 24.99",
+            "1元首充礼包": "USD 0.99",
+            "王者礼包": "USD 29.99",
+            "黄金礼包": "USD 9.99",
+            "铂金礼包": "USD 14.99",
+            "钻石礼包": "USD 19.99"
+          }
+        },
+        {
           "timestamp": 1746604998447,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -46258,13 +46275,28 @@
     "name": "赛博神医-猜病每日挑战小测验",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "月度VIP": "USD 0.99",
+      "1年VIP": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "月度VIP": "USD 0.99",
+      "1年VIP": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746608551576,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度VIP": "USD 0.99",
+            "1年VIP": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,

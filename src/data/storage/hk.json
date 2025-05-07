@@ -57268,13 +57268,28 @@
     "name": "赛博神医-猜病每日挑战小测验",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "月度VIP": "HK$ 8.00",
+      "1年VIP": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "月度VIP": "HK$ 8.00",
+      "1年VIP": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746608551576,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "月度VIP": "HK$ 8.00",
+            "1年VIP": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745676122075,
