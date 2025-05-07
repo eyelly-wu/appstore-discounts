@@ -36731,6 +36731,12 @@
     "history": [
       [
         {
+          "timestamp": 1746633756123,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1746612142293,
           "price": 0,
           "formattedPrice": "Free",
@@ -40247,6 +40253,18 @@
       "《Her Vanishing Silhouette》": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746633756123,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "《The Great Conquest》": "₺99,99",
+            "《Canvas of Heroes》": "₺39,99",
+            "《Her Vanishing Silhouette》": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746028957031,
