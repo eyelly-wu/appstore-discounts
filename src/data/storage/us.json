@@ -1749,6 +1749,25 @@
     "history": [
       [
         {
+          "timestamp": 1746590581540,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro": "$14.99",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Beethoven: The Mutopia Collection": "$0.99",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Bach: The Mutopia Collection": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746169341945,
           "price": 24.99,
           "formattedPrice": "$24.99",
@@ -23335,6 +23354,25 @@
     "history": [
       [
         {
+          "timestamp": 1746590581540,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Hero Tank": "$5.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Tower Goblin War Zeppelin": "$6.99",
+            "Hero Mortemis": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746581397218,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -26127,6 +26165,25 @@
       "Adventure Master Package": "$44.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746590581540,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Monster Succession": "$4.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Awakened Irea Package": "$4.99",
+            "Original Lord Complete Package": "$26.99",
+            "Awakening Viper Package": "$4.99",
+            "Torture Master Package": "$22.99",
+            "Original Facility Package": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746514942252,
@@ -35462,6 +35519,25 @@
     "history": [
       [
         {
+          "timestamp": 1746590581540,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Resource Package": "$2.99",
+            "Teammate Package": "$4.99",
+            "Role Package III": "$9.99",
+            "60 gems": "$0.99",
+            "Role Package": "$2.99",
+            "Heroic Package#1": "$9.99",
+            "Teammate Package#2": "$4.99",
+            "Heroic Package#2": "$9.99",
+            "310 gems": "$4.99",
+            "Bronze Decree": "$25.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746417819615,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -35893,6 +35969,25 @@
       "Flash Sale Soul 2": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746590581540,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Crystal 3": "$1.99",
+            "Flash Sale Star Rune 1": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746504153854,
@@ -46411,7 +46506,8 @@
       "Tower Surge Colossus": "$4.99",
       "All Heroes": "$29.99",
       "Sylvara": "$6.99",
-      "Hero Anya": "$2.99"
+      "Hero Anya": "$2.99",
+      "Tower Grim Wraiths": "$6.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -46429,9 +46525,29 @@
       "Tower Surge Colossus": "$4.99",
       "All Heroes": "$19.99",
       "Sylvara": "$6.99",
-      "Hero Anya": "$2.99"
+      "Hero Anya": "$2.99",
+      "Tower Grim Wraiths": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746590581540,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "All Towers": "$19.99",
+            "Tower Necromancer": "$4.99",
+            "Mega Tower Bundle": "$14.99",
+            "Tower Dune Sentinels": "$2.99",
+            "Tower Grim Wraiths": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746352941634,
@@ -53574,7 +53690,8 @@
       "Moonlight and Lanterns": "$1.19",
       "Sunset beach": "$1.19",
       "Summer holiday": "$1.19",
-      "Wagashi Whispers": "$1.19"
+      "Wagashi Whispers": "$1.19",
+      "Sunflower farm": "$1.19"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -53590,9 +53707,29 @@
       "Moonlight and Lanterns": "$1.19",
       "Sunset beach": "$1.19",
       "Summer holiday": "$1.19",
-      "Wagashi Whispers": "$1.19"
+      "Wagashi Whispers": "$1.19",
+      "Sunflower farm": "$1.19"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746590581540,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "Fireworks display": "$1.79",
+            "Halloween Party": "$1.79",
+            "2025春イースタースキン": "$0.99",
+            "2025春いちごスキン": "$0.49",
+            "Moonlight and Lanterns": "$1.19",
+            "New Year's Sunrise": "$1.79",
+            "Sunset beach": "$1.19",
+            "Sunflower farm": "$1.19",
+            "Summer holiday": "$1.19"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746504153854,
@@ -57134,6 +57271,25 @@
       "Season MLB 1969": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746590581540,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Bundle MLB 1980s": "$4.99",
+            "Bundle MLB 1990s": "$4.99",
+            "Season MLB 2024": "$0.99",
+            "Season MLB 2019": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746581397218,

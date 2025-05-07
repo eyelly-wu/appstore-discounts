@@ -1372,7 +1372,8 @@
       "Tchaikovsky: The Mutopia Collection": "$0.00",
       "Satie: The Mutopia Collection": "$0.00",
       "Haydn: The Mutopia Collection": "$0.00",
-      "Rameau: The Mutopia Collection": "$0.00"
+      "Rameau: The Mutopia Collection": "$0.00",
+      "Händel: The Mutopia Collection": "$0.00"
     },
     "minPriceInfo": {
       "price": 790,
@@ -1386,9 +1387,29 @@
       "Tchaikovsky: The Mutopia Collection": "$0.00",
       "Satie: The Mutopia Collection": "$0.00",
       "Haydn: The Mutopia Collection": "$0.00",
-      "Rameau: The Mutopia Collection": "$0.00"
+      "Rameau: The Mutopia Collection": "$0.00",
+      "Händel: The Mutopia Collection": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746590581540,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {
+            "forScore Pro": "$490.00",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Burgmüller: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Rameau: The Mutopia Collection": "$0.00",
+            "Händel: The Mutopia Collection": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,
@@ -2667,6 +2688,19 @@
       "Lifetime Badoo Premium": "$2,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746590581540,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Premium": "$360.00",
+            "Super Powers": "$360.00",
+            "Pack of 100 Credits": "$90.00",
+            "Pack of 550 Credits": "$390.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746460951400,
@@ -22919,6 +22953,23 @@
     "history": [
       [
         {
+          "timestamp": 1746590581540,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "自動禮包": "$490.00",
+            "綜合禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "魔法禮包": "$290.00",
+            "寶石300個": "$120.00",
+            "魅魔禮包": "$1,290.00",
+            "寶石180個": "$90.00",
+            "寶石660個": "$290.00",
+            "覺醒禮包": "$1,290.00"
+          }
+        },
+        {
           "timestamp": 1746568929295,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -34737,6 +34788,18 @@
     "history": [
       [
         {
+          "timestamp": 1746590581540,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "RFS Pro (1個月)": "$150.00",
+            "RFS Pro (1年)": "$990.00",
+            "RFS Pro (6個月)": "$640.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746288131453,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -35160,6 +35223,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746590581540,
+          "price": 33,
+          "formattedPrice": "$33.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "禮包5": "$170.00",
+            "一鍵買斷禮包": "$150.00",
+            "648金玉": "$3,290.00",
+            "禮包6": "$330.00",
+            "尊享月俸": "$170.00",
+            "328金玉": "$1,690.00"
+          }
+        },
         {
           "timestamp": 1746558135087,
           "price": 33,
@@ -37207,7 +37287,8 @@
       "Transylvania Marine Bundle": "$390.00",
       "Paris Marine Bundle": "$390.00",
       "Five Dice Bundle": "$390.00",
-      "Cherry Blossom Tokyo": "$290.00"
+      "Cherry Blossom Tokyo": "$290.00",
+      "Snowdrop Valley": "$290.00"
     },
     "minPriceInfo": {
       "price": 150,
@@ -37229,9 +37310,29 @@
       "Transylvania Marine Bundle": "$390.00",
       "Paris Marine Bundle": "$390.00",
       "Five Dice Bundle": "$390.00",
-      "Cherry Blossom Tokyo": "$290.00"
+      "Cherry Blossom Tokyo": "$290.00",
+      "Snowdrop Valley": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746590581540,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "New York 2121 Board": "$190.00",
+            "Welcome Offer": "$690.00",
+            "Cherry Blossom Tokyo Board": "$190.00",
+            "Promotion": "$590.00",
+            "New York 2121": "$290.00",
+            "1935 Atlantic City Board": "$190.00",
+            "Cherry Blossom Tokyo": "$290.00",
+            "Snowdrop Valley": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746244942439,
