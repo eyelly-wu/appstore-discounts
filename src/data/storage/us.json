@@ -1346,7 +1346,17 @@
       "Bondi HipstaPak": "$0.99",
       "Wicker Park HipstaPak": "$0.99",
       "RetroPak One": "$1.99",
-      "Dali GoodPak": "$0.99"
+      "Dali GoodPak": "$0.99",
+      "Coyoacán HipstaPak": "$1.99",
+      "Ohara HipstaPak": "$1.99",
+      "RetroPak 2022": "$6.99",
+      "RetroPak 2023": "$9.99",
+      "RetroPak Twenty-One": "$4.99",
+      "Highland Park HipstaPak": "$0.99",
+      "Pilsen HipstaPak": "$0.99",
+      "Tiong Bahru HipstaPak": "$0.99",
+      "Impressionist SnapPak": "$0.99",
+      "Fitzroy HipstaPak": "$0.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -1360,9 +1370,38 @@
       "Bondi HipstaPak": "$0.99",
       "Wicker Park HipstaPak": "$0.99",
       "RetroPak One": "$1.99",
-      "Dali GoodPak": "$0.99"
+      "Dali GoodPak": "$0.99",
+      "Coyoacán HipstaPak": "$1.99",
+      "Ohara HipstaPak": "$1.99",
+      "RetroPak 2022": "$6.99",
+      "RetroPak 2023": "$9.99",
+      "RetroPak Twenty-One": "$4.99",
+      "Highland Park HipstaPak": "$0.99",
+      "Pilsen HipstaPak": "$0.99",
+      "Tiong Bahru HipstaPak": "$0.99",
+      "Impressionist SnapPak": "$0.99",
+      "Fitzroy HipstaPak": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746581397218,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Coyoacán HipstaPak": "$1.99",
+            "Ohara HipstaPak": "$1.99",
+            "RetroPak 2022": "$6.99",
+            "RetroPak 2023": "$9.99",
+            "RetroPak Twenty-One": "$4.99",
+            "Highland Park HipstaPak": "$0.99",
+            "Pilsen HipstaPak": "$0.99",
+            "Tiong Bahru HipstaPak": "$0.99",
+            "Impressionist SnapPak": "$0.99",
+            "Fitzroy HipstaPak": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -23254,6 +23293,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746581397218,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Hero Tank": "$5.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Tower Goblin War Zeppelin": "$6.99",
+            "Pirate Kings Campaign!": "$7.99"
+          }
+        },
         {
           "timestamp": 1746507748389,
           "price": 4.99,
@@ -56943,6 +56999,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746581397218,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 2024": "$0.99",
+            "Bundle MLB 1980s": "$4.99",
+            "Bundle MLB 1990s": "$4.99",
+            "Season MLB 1969": "$0.99"
+          }
+        },
         {
           "timestamp": 1746525755623,
           "price": 9.99,
