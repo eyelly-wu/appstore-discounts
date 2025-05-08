@@ -13192,7 +13192,10 @@
       "2025 Birthday Package": "USD 18.99",
       "2025 Birthday Package (Basic)": "USD 12.99",
       "森日豪華禮包": "USD 18.99",
-      "森日精選禮包": "USD 12.99"
+      "森日精選禮包": "USD 12.99",
+      "年訂閱": "USD 42.00",
+      "月訂閱（早鳥）": "USD 4.19",
+      "年訂閱（早鳥）": "USD 25.00"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -13216,9 +13219,30 @@
       "2025 Birthday Package": "USD 14.99",
       "2025 Birthday Package (Basic)": "USD 9.99",
       "森日豪華禮包": "USD 18.99",
-      "森日精選禮包": "USD 12.99"
+      "森日精選禮包": "USD 12.99",
+      "年訂閱": "USD 42.00",
+      "月訂閱（早鳥）": "USD 4.19",
+      "年訂閱（早鳥）": "USD 25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746674405575,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "森日豪華禮包": "USD 18.99",
+            "森日精選禮包": "USD 12.99",
+            "Elite Package": "USD 9.99",
+            "Supreme Package": "USD 4.99",
+            "Advanced Package": "USD 2.99",
+            "Starter Package": "USD 0.99",
+            "年訂閱": "USD 42.00",
+            "月訂閱（早鳥）": "USD 4.19",
+            "年訂閱（早鳥）": "USD 25.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746581397218,
@@ -40701,6 +40725,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746674405575,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1723536168900,

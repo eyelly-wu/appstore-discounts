@@ -10759,6 +10759,25 @@
     "history": [
       [
         {
+          "timestamp": 1746674405575,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bonehart": "$4.99",
+            "Ashbite": "$4.99",
+            "Sha'tra": "$0.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Dante": "$2.99",
+            "Grawl": "$0.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746525755623,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -13587,6 +13606,14 @@
     "history": [
       [
         {
+          "timestamp": 1746674405575,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743217899620,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -16216,18 +16243,18 @@
       "Hero Pack 9": "$7.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
-      "Faustus": "$6.99",
-      "Vez'nan": "$4.99",
-      "Bravebark": "$4.99",
-      "Phoenix": "$6.99",
-      "Reg'son": "$1.99",
-      "Bruce": "$4.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Faustus": "$4.99",
+      "Vez'nan": "$2.99",
+      "Bravebark": "$2.99",
+      "Phoenix": "$4.99",
+      "Reg'son": "$0.99",
+      "Bruce": "$2.99",
       "Special Offer Faustus": "$4.99",
-      "Prince Denas": "$2.99",
-      "Wilbur": "$6.99",
-      "Xin": "$4.99",
+      "Prince Denas": "$0.99",
+      "Wilbur": "$4.99",
+      "Xin": "$2.99",
       "Big Hero Pack 3": "$14.99",
       "Vault Of Gems": "$49.99",
       "Wagon Of Gems": "$19.99",
@@ -16238,6 +16265,25 @@
       "Hero Pack 9": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746674405575,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Faustus": "$4.99",
+            "Vez'nan": "$2.99",
+            "Bravebark": "$2.99",
+            "Phoenix": "$4.99",
+            "Reg'son": "$0.99",
+            "Bruce": "$2.99",
+            "Special Offer Faustus": "$4.99",
+            "Prince Denas": "$0.99",
+            "Wilbur": "$4.99",
+            "Xin": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746032532729,
@@ -22969,7 +23015,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "PRO yearly subscription": "$29.99",
+      "PRO yearly subscription": "$39.99",
       "Yearly Subscription": "$19.99",
       "Lifetime license": "$99.99",
       "Monthly Subscription": "$5.49"
@@ -22983,6 +23029,19 @@
       "Monthly Subscription": "$5.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746674405575,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$39.99",
+            "Yearly Subscription": "$19.99",
+            "Lifetime license": "$99.99",
+            "Monthly Subscription": "$5.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746392537270,
@@ -31102,6 +31161,20 @@
       "Feature DLC": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746674405575,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {
+            "Treasures Editor": "$0.99",
+            "Dawn of Heroes": "$3.99",
+            "Feature DLC": "$3.99",
+            "Art Upgrade Pack": "$3.99",
+            "Heroes Assemble": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746069756189,
@@ -40970,10 +41043,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746674405575,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745539765557,
@@ -43619,8 +43700,8 @@
       "Reckless Car Pack": "$2.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99",
+      "price": 4.99,
+      "formattedPrice": "$4.99",
       "Content Bundle 1": "$9.99",
       "Content Bundle 2": "$7.99",
       "Getaway Car Pack": "$2.99",
@@ -43634,6 +43715,25 @@
       "Reckless Car Pack": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746674405575,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$9.99",
+            "Content Bundle 2": "$7.99",
+            "Getaway Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "Banger Racing Car Pack": "$2.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746514942252,
