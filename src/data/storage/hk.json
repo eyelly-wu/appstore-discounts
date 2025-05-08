@@ -2977,7 +2977,8 @@
       "3050 Badoo Credits": "HK$ 388.00",
       "450 Badoo Credits": "HK$ 88.00",
       "250 Badoo Credits": "HK$ 38.00",
-      "Lifetime Badoo Premium": "HK$ 588.00"
+      "Lifetime Badoo Premium": "HK$ 588.00",
+      "Pack of 1350 Credits": "HK$ 150.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -2997,9 +2998,25 @@
       "3050 Badoo Credits": "HK$ 388.00",
       "450 Badoo Credits": "HK$ 88.00",
       "250 Badoo Credits": "HK$ 38.00",
-      "Lifetime Badoo Premium": "HK$ 588.00"
+      "Lifetime Badoo Premium": "HK$ 588.00",
+      "Pack of 1350 Credits": "HK$ 150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746667805786,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Premium": "HK$ 133.00",
+            "Pack of 100 Credits": "HK$ 22.00",
+            "Super Powers": "HK$ 98.00",
+            "Pack of 550 Credits": "HK$ 118.00",
+            "Pack of 1350 Credits": "HK$ 150.00",
+            "Pack of 1250 Credits": "HK$ 228.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746507748389,
@@ -20689,6 +20706,25 @@
       "首充1元": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746667805786,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6480根火柴": "HK$ 788.00",
+            "60根火柴": "HK$ 8.00",
+            "月度礼包": "HK$ 32.00",
+            "180根火柴": "HK$ 22.00",
+            "980根火柴": "HK$ 118.00",
+            "首充1元": "HK$ 8.00",
+            "1元礼包": "HK$ 8.00",
+            "500根火柴": "HK$ 58.00",
+            "1680根火柴": "HK$ 188.00",
+            "超值礼包-1": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746331470214,
