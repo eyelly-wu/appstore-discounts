@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 941671702,
+    name: {
+      mo: 'GR Remote Viewer for GR2 & GR3',
+    },
+    addType: 'auto',
+  },
+  {
     id: 744851208,
     name: {
       mo: '賽馬牧場物語',

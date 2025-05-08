@@ -10709,6 +10709,25 @@
     "history": [
       [
         {
+          "timestamp": 1746727392708,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "₺179,99",
+            "Ayatsugu_Otowa Collection": "₺179,99",
+            "Sherwin Collection": "₺179,99",
+            "Capchii Collection": "₺179,99",
+            "VII Bundle 06": "₺599,99",
+            "VII Bundle 05": "₺499,99",
+            "VII Bundle 03": "₺299,99",
+            "VII Bundle 02": "₺229,99",
+            "VII Bundle 04": "₺399,99",
+            "VII Bundle 01": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746172979393,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -14257,6 +14276,27 @@
       ]
     ]
   },
+  "941671702": {
+    "name": "GR Remote Viewer for GR2 & GR3",
+    "maxPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "minPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746727392708,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "945322477": {
     "name": "新仙劍奇俠傳(正版單機)",
     "maxPriceInfo": {
@@ -16652,6 +16692,23 @@
       "90 Days SVIP": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746727392708,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "90 Days SVIP": "₺129,99",
+            "Annual Special SVIP": "₺599,99",
+            "545 Days SVIP": "₺599,99",
+            "3-Year SVIP": "₺999,99",
+            "100 Days SVIP": "₺129,99",
+            "Quarterly SVIP": "₺129,99",
+            "1-Year SVIP": "₺599,99",
+            "SVIP auto-renew annually": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746075753726,
