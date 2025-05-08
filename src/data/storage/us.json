@@ -3610,14 +3610,22 @@
   "424591347": {
     "name": "FINAL FANTASY III (3D REMAKE)",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99"
+      "price": 14.99,
+      "formattedPrice": "$14.99"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746694953558,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745560983791,
@@ -16099,6 +16107,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746694953558,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Starter Pack": "$4.99",
+            "Largo Sniper Rifle": "$0.99",
+            "Aria Sniper Rifle": "$9.99",
+            "Brutus Sniper Rifle": "$5.99",
+            "The Merry Maker Rifle": "$14.99",
+            "Aria Gold Sniper Rifle": "$24.99",
+            "Small Money Pack": "$0.99",
+            "Dragun": "$14.99",
+            "Exorcist": "$14.99",
+            "Extra Large Money Pack": "$9.99"
+          }
+        },
         {
           "timestamp": 1746691388289,
           "price": 0.99,

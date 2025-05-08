@@ -3247,14 +3247,22 @@
   "424591347": {
     "name": "FINAL FANTASY III (3D REMAKE)",
     "maxPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 490,
+      "formattedPrice": "$490.00"
     },
     "minPriceInfo": {
       "price": 220,
       "formattedPrice": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746694953558,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745560983791,
