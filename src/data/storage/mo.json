@@ -16798,6 +16798,23 @@
     "history": [
       [
         {
+          "timestamp": 1746702129127,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "支線第一章": "USD 3.99",
+            "白金方案（每月續訂）": "USD 4.49",
+            "擴充章節 U": "USD 3.99",
+            "白金方案（每三個月續訂）": "USD 12.49",
+            "擴充章節D": "USD 3.99",
+            "擴充章節B": "USD 3.99",
+            "擴充章節C": "USD 3.99",
+            "支線第二章": "USD 3.99",
+            "擴充章節 J": "USD 3.99",
+            "擴充章節H": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1746698552946,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -32394,14 +32411,22 @@
   "1492041539": {
     "name": "FINAL FANTASY VI",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746702129127,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -34656,14 +34681,22 @@
   "1552176109": {
     "name": "Trials of Mana",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746702129127,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745614934030,
@@ -36335,6 +36368,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746702129127,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "60鑽石": "USD 0.99",
+            "180鑽石": "USD 2.99",
+            "300鑽石": "USD 4.99",
+            "680鑽石": "USD 9.99",
+            "1280鑽石": "USD 19.99",
+            "1980鑽石": "USD 29.99",
+            "980鑽石": "USD 14.99",
+            "10鑽石": "USD 0.99",
+            "120鑽石": "USD 1.99",
+            "3280鑽石": "USD 49.99"
+          }
+        },
         {
           "timestamp": 1746698552946,
           "price": 0.29,
