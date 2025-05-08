@@ -9783,6 +9783,25 @@
     "history": [
       [
         {
+          "timestamp": 1746716547249,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Kids Family Bundle BYOD": "₺299,99",
+            "Kids Bundle with BYOD": "₺229,99",
+            "Kids Family Bundle BYOD Sale": "₺249,99",
+            "Build Your Own Deck - Kids": "₺129,99",
+            "Kids Bundle with BYOD Sale": "₺179,99",
+            "50 Decks, More Laughs": "₺899,99",
+            "Kids Bundle": "₺229,99",
+            "Kids Family Bundle": "₺299,99",
+            "AAPI Month Bundle": "₺249,99",
+            "Chinese Cuisine Deck": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746270123905,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -11378,6 +11397,27 @@
           "timestamp": 1745328692670,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "744851208": {
+    "name": "Pocket Stables",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746716547249,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
           "inAppPurchases": {}
         }
       ]

@@ -64,11 +64,12 @@ Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=fla
 ## DingTalk
 Click  [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk")  to Subscribe
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1032` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1033` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The application currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |Serial Number|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1033|744851208|Automatic|❌|賽馬牧場物語|賽馬牧場物語|賽馬牧場物語|Pocket Stables|Pocket Stables|
 |1032|1123652342|Automatic|❌|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|Jurassic GO - Dinosaur Snap Adventures|Jurassic GO - Dinosaur Snap Adventures|
 |1031|6742740688|Automatic|无声冲突|❌|❌|❌|❌|❌|
 |1030|1369253556|Automatic|长时间曝光|長時間曝光|長時間曝光|長時間曝光|Light | Long Exposure|Light | Long Exposure|

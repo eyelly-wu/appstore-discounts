@@ -2016,6 +2016,25 @@
     "history": [
       [
         {
+          "timestamp": 1746716547249,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "通用型套餐-25元": "$3.99",
+            "通用型套餐-159元": "$22.99",
+            "通用型套餐-318元": "$49.99",
+            "通用型套餐-718元": "$99.99",
+            "通用型套餐-468元": "$69.99",
+            "通用型套餐-408元": "$59.99",
+            "通用型套餐-329元": "$49.99",
+            "免广告会员十二个月15元": "$1.99",
+            "免广告会员三个月": "$0.99",
+            "免广告会员十二个月": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745503347397,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -14515,6 +14534,27 @@
           "timestamp": 1745328692670,
           "price": 6.99,
           "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "744851208": {
+    "name": "Pocket Stables",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746716547249,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
           "inAppPurchases": {}
         }
       ]
@@ -36489,6 +36529,25 @@
       "Flash Sale Soul 2": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746716547249,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "$19.99",
+            "Dynasty Pet": "$14.99",
+            "Ultimate Amulet": "$5.99",
+            "Ultimate Ring": "$5.99",
+            "Ultimate Pet": "$5.99",
+            "Ultimate Ancient": "$12.99",
+            "Royal Rune": "$2.99",
+            "Norths Warden Pet Pack": "$14.99",
+            "Norths Warden Set": "$19.99",
+            "Black Friday Combo Items": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746590581540,

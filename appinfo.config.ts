@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 744851208,
+    name: {
+      mo: '賽馬牧場物語',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1123652342,
     name: {
       mo: '侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍',
