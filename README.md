@@ -81,7 +81,7 @@ So far, we've covered `6` `Countries or Regions` and  `1035` `Apps` <br />Push n
 |1026|1114127463|Automatic|❌|王權 (Reigns)|王權 (Reigns)|王權 (Reigns)|Reigns|Reigns|
 |1025|1636439801|Automatic|❌|軌道連結:Railbound|軌道連結:Railbound|軌道連結:Railbound|Railbound|Railbound|
 |1024|1479808939|Automatic|❌|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|
-|1023|6451376191|Automatic|DumbPhone: 简约主屏幕|DumbPhone: 簡約主畫面|DumbPhone: 簡約主畫面|DumbPhone: 簡約主畫面|DumbPhone: Minimal Home Screen|DumbPhone: Minimal Home Screen|
+|1023|6451376191|Automatic|Dumb Phone: 简约主屏幕|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: Minimalist Home|DumbPhone: Minimal Home Screen|
 |1022|6446912063|Automatic|❌|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|
 |1021|1611723264|Automatic|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|
 |1020|409818349|Automatic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|
