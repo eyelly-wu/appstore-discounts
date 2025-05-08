@@ -5980,6 +5980,23 @@
     "history": [
       [
         {
+          "timestamp": 1746720156360,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ruins Explorer Package": "₺39,99",
+            "Empire of Angels Package": "₺39,99",
+            "Richman 4 Fun Paid FI Package": "₺39,99",
+            "Richman4 Paid AC Package": "₺39,99",
+            "Richman4 Paid Monster Package": "₺39,99",
+            "Richman 4 Fun Undersea package": "₺39,99",
+            "Richman 4 Fun Treasure package": "₺39,99",
+            "Richman 4 Fun Water map package": "₺39,99",
+            "Richman 4 Fun  PARIS & LONDON": "₺39,99",
+            "Richman 4 Fun  Hawaii & South Pole Island": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1746712941022,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -9782,6 +9799,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746720156360,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Mix It Up": "₺0,00",
+            "Just For Kids": "₺0,00",
+            "The Ellen Show": "₺0,00",
+            "Super Heroes": "₺99,99",
+            "Friends": "₺129,99",
+            "Build Your Own Deck": "₺129,99",
+            "Wish You Were Here": "₺99,99",
+            "Happy Holidays": "₺99,99",
+            "Adult Supervision": "₺99,99",
+            "As Seen On TV": "₺99,99"
+          }
+        },
         {
           "timestamp": 1746716547249,
           "price": 99.99,
@@ -43039,7 +43073,8 @@
       "UH-60": "₺39,99",
       "Boeing 787-10": "₺99,99",
       "EC135": "₺39,99",
-      "Boeing 737": "₺39,99"
+      "Boeing 737": "₺39,99",
+      "Concorde": "₺99,99"
     },
     "minPriceInfo": {
       "price": 179.99,
@@ -43058,9 +43093,29 @@
       "UH-60": "₺39,99",
       "Boeing 787-10": "₺99,99",
       "EC135": "₺39,99",
-      "Boeing 737": "₺39,99"
+      "Boeing 737": "₺39,99",
+      "Concorde": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746720156360,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A350-1000": "₺179,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Airbus A321": "₺99,99",
+            "Concorde": "₺99,99",
+            "Boeing 787-10": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746504153854,

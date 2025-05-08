@@ -2016,6 +2016,23 @@
     "history": [
       [
         {
+          "timestamp": 1746720156360,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "连续包月": "$3.99",
+            "6香蕉贝": "$0.99",
+            "30香蕉贝": "$3.99",
+            "连续包年": "$39.99",
+            "免广告会员十二个月": "$1.99",
+            "68香蕉贝": "$9.99",
+            "6随手贝": "$0.99",
+            "233香蕉贝": "$34.99",
+            "128香蕉贝": "$19.99",
+            "通用型套餐-25元": "$3.99"
+          }
+        },
+        {
           "timestamp": 1746716547249,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -36531,6 +36548,23 @@
     "history": [
       [
         {
+          "timestamp": 1746720156360,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Crystal 3": "$1.99",
+            "Flash Sale Star Rune 1": "$2.99"
+          }
+        },
+        {
           "timestamp": 1746716547249,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -47180,7 +47214,8 @@
       "Hero Spydyr": "$4.99",
       "Spider Offer": "$6.99",
       "All towers": "$14.99",
-      "All heroes": "$24.99"
+      "All heroes": "$24.99",
+      "Tower Elven Stargazers": "$4.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -47206,10 +47241,28 @@
       "Hero Spydyr": "$4.99",
       "Spider Offer": "$6.99",
       "All towers": "$14.99",
-      "All heroes": "$24.99"
+      "All heroes": "$24.99",
+      "Tower Elven Stargazers": "$4.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746720156360,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Tower Necromancer": "$4.99",
+            "Mega Tower Bundle": "$14.99",
+            "Tower Dune Sentinels": "$2.99",
+            "Hero Anya": "$2.99",
+            "Tower Elven Stargazers": "$4.99"
+          }
+        },
         {
           "timestamp": 1746677006908,
           "price": 6.99,
@@ -56191,6 +56244,25 @@
       "Claas Xerion 5000": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746720156360,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "$1.99",
+            "Vervaet Hydro Trike 5x5": "$1.99",
+            "Kubota RTV-XG850 SIDEKICK": "$1.99",
+            "Case IH Austoft 8800 Multi-Row": "$1.99",
+            "Krone BiG Pack 1290 HDP VC": "$0.99",
+            "Kotte PQ 32000": "$0.99",
+            "KINZE 3665 Blue Drive": "$0.99",
+            "Versatile 4WD 620": "$1.99",
+            "Amazone CITAN 15001-C": "$0.99",
+            "Claas Xerion 5000": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745449345686,
