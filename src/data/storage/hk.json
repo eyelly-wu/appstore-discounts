@@ -22673,6 +22673,23 @@
     "history": [
       [
         {
+          "timestamp": 1746730938705,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "6财富币": "HK$ 8.00",
+            "128财富币": "HK$ 148.00",
+            "88财富币": "HK$ 98.00",
+            "198财富币": "HK$ 228.00",
+            "168财富币": "HK$ 188.00",
+            "1998财富币": "HK$ 2,288.00",
+            "1598财富币": "HK$ 1,888.00",
+            "898财富币": "HK$ 988.00",
+            "418财富币": "HK$ 488.00",
+            "98财富币": "HK$ 118.00"
+          }
+        },
+        {
           "timestamp": 1746727392708,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -25027,7 +25044,11 @@
       "Alice": "HK$ 88.00",
       "Emotion Samples 01": "HK$ 38.00",
       "Nora": "HK$ 88.00",
-      "Game Disc vol.1": "HK$ 18.00"
+      "Game Disc vol.1": "HK$ 18.00",
+      "Memory Unit [A1]": "HK$ 18.00",
+      "JOE": "HK$ 88.00",
+      "Marvelous Mix vol. 1": "HK$ 18.00",
+      "Aroma": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -25044,9 +25065,32 @@
       "Alice": "HK$ 88.00",
       "Emotion Samples 01": "HK$ 18.00",
       "Nora": "HK$ 88.00",
-      "Game Disc vol.1": "HK$ 18.00"
+      "Game Disc vol.1": "HK$ 18.00",
+      "Memory Unit [A1]": "HK$ 18.00",
+      "JOE": "HK$ 88.00",
+      "Marvelous Mix vol. 1": "HK$ 18.00",
+      "Aroma": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746730938705,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "ConneR": "HK$ 88.00",
+            "Xenon": "HK$ 88.00",
+            "Cherry": "HK$ 88.00",
+            "Game Disc vol.1": "HK$ 18.00",
+            "Memory Unit [A1]": "HK$ 18.00",
+            "JOE": "HK$ 88.00",
+            "Marvelous Mix vol. 1": "HK$ 18.00",
+            "Aroma": "HK$ 88.00",
+            "Nora": "HK$ 88.00",
+            "Neko": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746561748433,
@@ -26362,7 +26406,11 @@
       "Rotate": "HK$ 0.00",
       "Distortion": "HK$ 0.00",
       "Chromakey": "HK$ 0.00",
-      "Info": "HK$ 0.00"
+      "Info": "HK$ 0.00",
+      "Tuner": "HK$ 0.00",
+      "Unlock All": "HK$ 58.00",
+      "Erase": "HK$ 8.00",
+      "Blend": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -26376,9 +26424,32 @@
       "Rotate": "HK$ 0.00",
       "Distortion": "HK$ 0.00",
       "Chromakey": "HK$ 0.00",
-      "Info": "HK$ 0.00"
+      "Info": "HK$ 0.00",
+      "Tuner": "HK$ 0.00",
+      "Unlock All": "HK$ 58.00",
+      "Erase": "HK$ 8.00",
+      "Blend": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746730938705,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Rate": "HK$ 0.00",
+            "Info": "HK$ 0.00",
+            "Tuner": "HK$ 0.00",
+            "Chromakey": "HK$ 0.00",
+            "Unlock All": "HK$ 58.00",
+            "Paint": "HK$ 0.00",
+            "Erase": "HK$ 8.00",
+            "Blend": "HK$ 8.00",
+            "Distortion": "HK$ 0.00",
+            "Magnifier": "HK$ 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

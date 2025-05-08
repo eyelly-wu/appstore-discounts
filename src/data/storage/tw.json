@@ -1417,6 +1417,23 @@
     "history": [
       [
         {
+          "timestamp": 1746730938705,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {
+            "forScore Pro": "$490.00",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$90.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Burgmüller: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Rameau: The Mutopia Collection": "$0.00"
+          }
+        },
+        {
           "timestamp": 1746727392708,
           "price": 790,
           "formattedPrice": "$790.00",
@@ -8592,7 +8609,17 @@
       "解鎖真菌": "$30.00",
       "解鎖朊病毒": "$30.00",
       "解鎖納米病毒": "$30.00",
-      "解鎖生化武器": "$30.00"
+      "解鎖生化武器": "$30.00",
+      "Procurement Director": "$30.00",
+      "Disaster Manager": "$30.00",
+      "Medical Coordinator": "$30.00",
+      "Ethics Watchdog": "$30.00",
+      "Chaos Engineer": "$30.00",
+      "Economic Forecaster": "$30.00",
+      "Situation Director": "$30.00",
+      "Outreach Coordinator": "$30.00",
+      "Fast Response EMTs": "$30.00",
+      "Strategic Fundraiser": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -8611,9 +8638,38 @@
       "解鎖真菌": "$30.00",
       "解鎖朊病毒": "$30.00",
       "解鎖納米病毒": "$30.00",
-      "解鎖生化武器": "$30.00"
+      "解鎖生化武器": "$30.00",
+      "Procurement Director": "$30.00",
+      "Disaster Manager": "$30.00",
+      "Medical Coordinator": "$30.00",
+      "Ethics Watchdog": "$30.00",
+      "Chaos Engineer": "$30.00",
+      "Economic Forecaster": "$30.00",
+      "Situation Director": "$30.00",
+      "Outreach Coordinator": "$30.00",
+      "Fast Response EMTs": "$30.00",
+      "Strategic Fundraiser": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746730938705,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Procurement Director": "$30.00",
+            "Disaster Manager": "$30.00",
+            "Medical Coordinator": "$30.00",
+            "Ethics Watchdog": "$30.00",
+            "Chaos Engineer": "$30.00",
+            "Economic Forecaster": "$30.00",
+            "Situation Director": "$30.00",
+            "Outreach Coordinator": "$30.00",
+            "Fast Response EMTs": "$30.00",
+            "Strategic Fundraiser": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745740956270,
@@ -18839,6 +18895,24 @@
     "history": [
       [
         {
+          "timestamp": 1746730938705,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Special pack": "$150.00",
+            "Big pack": "$690.00",
+            "Great pack": "$320.00",
+            "Small pack": "$30.00",
+            "Huge pack": "$1,490.00",
+            "Seasonal event item": "$2,990.00",
+            "Case with caps": "$690.00",
+            "Handful of caps": "$30.00",
+            "Legendary pack": "$2,990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746581397218,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -26650,6 +26724,25 @@
       "神話完整卡牌包": "$1,290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746730938705,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "茶具魔王皮膚卡牌包 C": "$150.00",
+            "茶具魔王皮膚卡牌包 B": "$150.00",
+            "茶具魔王皮膚卡牌包 A": "$150.00",
+            "小墮落勇士造型卡牌包": "$890.00",
+            "小勇士造型卡牌包": "$890.00",
+            "黑暗的魔王皮膚卡牌包": "$290.00",
+            "光芒的魔王皮膚卡牌包": "$290.00",
+            "魔王覺醒蛇女卡牌包": "$150.00",
+            "神話完整卡牌包": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746408611881,
@@ -46632,6 +46725,24 @@
       "暮光長弓手": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746730938705,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "巨大的威脅": "$290.00",
+            "所有塔": "$490.00",
+            "所有英雄": "$990.00",
+            "Hero Lumenir": "$220.00",
+            "科斯米爾": "$220.00",
+            "希瓦菈": "$220.00",
+            "暮光長弓手": "$150.00",
+            "沙丘哨兵": "$90.00",
+            "蜘蛛優惠": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746677006908,
