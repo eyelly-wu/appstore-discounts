@@ -21471,6 +21471,27 @@
       ]
     ]
   },
+  "1123652342": {
+    "name": "Jurassic GO - Dinosaur Snap Adventures",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746671491179,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1126386264": {
     "name": "AdGuard Pro — adblock&privacy",
     "maxPriceInfo": {
@@ -49348,6 +49369,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746671491179,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1740715360316,
