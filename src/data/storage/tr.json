@@ -5956,7 +5956,9 @@
       "Empire of Angels Package": "₺39,99",
       "Richman 4 Fun Undersea package": "₺39,99",
       "Richman 4 Fun Treasure package": "₺39,99",
-      "Ruins Explorer Package": "₺39,99"
+      "Ruins Explorer Package": "₺39,99",
+      "Richman 4 Fun Water map package": "₺39,99",
+      "Richman 4 Fun  Hawaii & South Pole Island": "₺39,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -5971,9 +5973,30 @@
       "Empire of Angels Package": "₺39,99",
       "Richman 4 Fun Undersea package": "₺39,99",
       "Richman 4 Fun Treasure package": "₺39,99",
-      "Ruins Explorer Package": "₺39,99"
+      "Ruins Explorer Package": "₺39,99",
+      "Richman 4 Fun Water map package": "₺39,99",
+      "Richman 4 Fun  Hawaii & South Pole Island": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746709838821,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ruins Explorer Package": "₺39,99",
+            "Empire of Angels Package": "₺39,99",
+            "Richman 4 Fun Paid FI Package": "₺39,99",
+            "Richman4 Paid AC Package": "₺39,99",
+            "Richman4 Paid Monster Package": "₺39,99",
+            "Richman 4 Fun Undersea package": "₺39,99",
+            "Richman 4 Fun Treasure package": "₺39,99",
+            "Richman 4 Fun Water map package": "₺39,99",
+            "Richman 4 Fun  PARIS & LONDON": "₺39,99",
+            "Richman 4 Fun  Hawaii & South Pole Island": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746554584985,
@@ -24952,7 +24975,7 @@
       "formattedPrice": "₺179,99",
       "UPGRADE PRO VERSION": "₺2.499,99",
       "KODAK SERIES FILM": "₺249,99",
-      "UPGRADE PRO": "₺1.499,99",
+      "UPGRADE PRO": "₺119,99",
       "RETRO SERIES FILM": "₺229,99",
       "FUJI SERIES FILM": "₺229,99",
       "IU SERIES FILM": "₺229,99",
@@ -24960,6 +24983,23 @@
       "WEDDING SERIES FILM": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746709838821,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "UPGRADE PRO": "₺119,99",
+            "FUJI SERIES FILM": "₺229,99",
+            "KODAK SERIES FILM": "₺249,99",
+            "WEDDING SERIES FILM": "₺229,99",
+            "RETRO SERIES FILM": "₺229,99",
+            "IU SERIES FILM": "₺229,99",
+            "LOMO SERIES": "₺229,99",
+            "UPGRADE PRO VERSION": "₺2.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -26471,6 +26511,19 @@
       "RFS Pro (6 months)": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746709838821,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "₺99,99",
+            "RFS Pro (6 month)": "₺139,99",
+            "RFS Pro (1 year)": "₺599,99",
+            "RFS Pro (6 months)": "₺899,90"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746601351240,
