@@ -12471,6 +12471,27 @@
       ]
     ]
   },
+  "734464614": {
+    "name": "生命密碼",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746738141997,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "736683061": {
     "name": "A Dark Room",
     "maxPriceInfo": {
@@ -31395,6 +31416,21 @@
       "Five Dice Bundle": "USD 12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746738141997,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Victorian London Marine Bundle": "USD 11.99",
+            "The Slam Dunk Bundle": "USD 4.99",
+            "Blazin' Blue the Monster Truck": "USD 9.99",
+            "Transylvania Marine Bundle": "USD 11.99",
+            "Paris Marine Bundle": "USD 11.99",
+            "Five Dice Bundle": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746471736244,
