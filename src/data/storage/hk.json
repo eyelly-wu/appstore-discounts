@@ -12942,6 +12942,23 @@
     "history": [
       [
         {
+          "timestamp": 1746712941022,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Just For Kids": "HK$ 0.00",
+            "Happy Holidays": "HK$ 18.00",
+            "Mix It Up": "HK$ 0.00",
+            "The Ellen Show": "HK$ 0.00",
+            "Build Your Own Deck": "HK$ 22.00",
+            "Adult Supervision": "HK$ 18.00",
+            "Super Heroes": "HK$ 18.00",
+            "Food Fight": "HK$ 18.00",
+            "Wish You Were Here": "HK$ 18.00",
+            "Branded": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1746709838821,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -17576,6 +17593,23 @@
     "history": [
       [
         {
+          "timestamp": 1746712941022,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "HK$ 10.00",
+            "金牛会员连续包月": "HK$ 8.00",
+            "机构探测器连续包月": "HK$ 133.00",
+            "主力密码连续包月": "HK$ 138.00",
+            "神奇电波连续包季": "HK$ 218.00",
+            "手机超级Level-2连续包半年": "HK$ 53.00",
+            "手机Level-2包年服务": "HK$ 98.00",
+            "金牛会员月版": "HK$ 22.00",
+            "金牛会员尊享版连续包年": "HK$ 118.00",
+            "手机高级诊股连续包月": "HK$ 10.00"
+          }
+        },
+        {
           "timestamp": 1746709838821,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -21192,6 +21226,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746712941022,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746504153854,
@@ -36317,13 +36359,25 @@
       "RFS Pro (6個月)": "HK$ 178.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "RFS Pro (1個月)": "HK$ 43.00",
       "RFS Pro (1年)": "HK$ 218.00",
       "RFS Pro (6個月)": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746712941022,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "RFS Pro (1個月)": "HK$ 43.00",
+            "RFS Pro (1年)": "HK$ 218.00",
+            "RFS Pro (6個月)": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746374532628,
@@ -53306,6 +53360,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746712941022,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "3.99美元商品": "HK$ 32.00",
+            "12.99美元商品": "HK$ 98.00",
+            "9.99美元商品": "HK$ 88.00",
+            "0.99美元商品": "HK$ 8.00",
+            "19.99美元商品": "HK$ 148.00",
+            "89.99美元商品": "HK$ 688.00",
+            "39.99美元商品": "HK$ 288.00"
+          }
+        },
         {
           "timestamp": 1746709838821,
           "price": 2,

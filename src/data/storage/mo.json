@@ -18574,6 +18574,14 @@
     "history": [
       [
         {
+          "timestamp": 1746712941022,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746504153854,
           "price": 0,
           "formattedPrice": "免費",
@@ -29138,13 +29146,25 @@
       "RFS Pro (6個月)": "USD 19.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "RFS Pro (1個月)": "USD 4.99",
       "RFS Pro (1年)": "USD 39.99",
       "RFS Pro (6個月)": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746712941022,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "RFS Pro (1個月)": "USD 4.99",
+            "RFS Pro (1年)": "USD 39.99",
+            "RFS Pro (6個月)": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

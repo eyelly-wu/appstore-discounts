@@ -21346,6 +21346,14 @@
     "history": [
       [
         {
+          "timestamp": 1746712941022,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746504153854,
           "price": 0,
           "formattedPrice": "免費",
@@ -35265,14 +35273,24 @@
       "RFS Pro (6個月)": "$990.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "RFS Pro (1個月)": "$150.00",
       "RFS Pro (1年)": "$950.00",
       "RFS Pro (6個月)": "$640.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1746712941022,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "RFS Pro (1個月)": "$150.00",
+            "RFS Pro (1年)": "$950.00",
+            "RFS Pro (6個月)": "$990.00"
+          }
+        },
         {
           "timestamp": 1746655342511,
           "price": 30,
@@ -53318,6 +53336,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746712941022,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "戰國七雄": "$120.00",
+            "楚漢爭霸": "$120.00",
+            "重振漢室": "$60.00",
+            "自創武將朝代特色兵種補丁": "$120.00",
+            "自創武將": "$120.00",
+            "自創武將朝代服裝發飾素材補丁": "$120.00",
+            "自創地圖": "$120.00",
+            "北境狂人": "$60.00",
+            "巾幗綻芳華": "$60.00",
+            "群雄爭霸": "$60.00"
+          }
+        },
         {
           "timestamp": 1746709838821,
           "price": 220,
