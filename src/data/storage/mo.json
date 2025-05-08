@@ -9436,6 +9436,25 @@
     "history": [
       [
         {
+          "timestamp": 1746677006908,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "USD 0.99",
+            "Classic Tack Tower Skin": "USD 1.99",
+            "Classic Super Monkey Skin Sale": "USD 0.99",
+            "Classic Super Monkey Skin": "USD 1.99",
+            "Classic Ice Tower Skin Sale": "USD 0.99",
+            "Classic Ice Tower Skin": "USD 1.99",
+            "Classic Bomb Tower Skin Sale": "USD 0.99",
+            "Classic Bomb Tower Skin": "USD 1.99",
+            "Classic Dart Monkey Skin Sale": "USD 0.99",
+            "Classic Dart Monkey Skin": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746201754856,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -13227,6 +13246,23 @@
     "history": [
       [
         {
+          "timestamp": 1746677006908,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "超值進階寶石包": "USD 6.99",
+            "一盒陽光菁華": "USD 1.99",
+            "一瓶陽光菁華": "USD 0.99",
+            "一小盆寶石": "USD 4.99",
+            "一推車寶石": "USD 21.99",
+            "一大袋寶石": "USD 10.99",
+            "一鏟子寶石": "USD 0.99",
+            "森日豪華禮包": "USD 18.99",
+            "森日精選禮包": "USD 12.99",
+            "Elite Package": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1746674405575,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -14771,7 +14807,10 @@
       "ThemeA0B1C1": "USD 0.00",
       "ThemeA1B0C1": "USD 0.00",
       "ThemeA1B1C0": "USD 0.00",
-      "ThemeA2B0C0": "USD 0.00"
+      "ThemeA2B0C0": "USD 0.00",
+      "主题大礼包": "USD 3.99",
+      "ThemeA2B0C1": "USD 3.99",
+      "ThemeA2B1C0": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -14785,9 +14824,31 @@
       "ThemeA0B1C1": "USD 0.00",
       "ThemeA1B0C1": "USD 0.00",
       "ThemeA1B1C0": "USD 0.00",
-      "ThemeA2B0C0": "USD 0.00"
+      "ThemeA2B0C0": "USD 0.00",
+      "主题大礼包": "USD 3.99",
+      "ThemeA2B0C1": "USD 3.99",
+      "ThemeA2B1C0": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746677006908,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "USD 0.00",
+            "ThemeA0B1C0": "USD 0.00",
+            "ThemeA1B0C0": "USD 0.00",
+            "ThemeA0B1C1": "USD 0.00",
+            "ThemeA1B0C1": "USD 0.00",
+            "ThemeA1B1C0": "USD 0.00",
+            "ThemeA2B0C0": "USD 0.00",
+            "主题大礼包": "USD 3.99",
+            "ThemeA2B0C1": "USD 3.99",
+            "ThemeA2B1C0": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -17318,6 +17379,25 @@
       "活動特惠季度 SVIP": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746677006908,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "活動特惠季度 SVIP": "USD 2.99",
+            "新年特惠 1 年 SVIP 聯合禮包 3": "USD 12.99",
+            "新年特惠 1 年 SVIP 聯合禮包 2": "USD 12.99",
+            "新年特惠 1 年 SVIP 聯合禮包 1": "USD 12.99",
+            "SVIP特惠 (買一年送半年)": "USD 12.99",
+            "SVIP特惠 (買兩年送一年)": "USD 24.99",
+            "雨季特惠 100 天 SVIP": "USD 2.99",
+            "季度SVIP": "USD 2.99",
+            "1年SVIP": "USD 12.99",
+            "連續包年 SVIP": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743624147520,
