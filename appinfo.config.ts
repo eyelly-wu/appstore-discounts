@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 519561306,
+    name: {
+      mo: 'ATracker PRO - 每日時間管理',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1456212639,
     name: {
       mo: '返校',

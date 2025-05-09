@@ -7000,6 +7000,31 @@
       ]
     ]
   },
+  "519561306": {
+    "name": "ATracker PRO Time Tracker",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
+      "Web portal subscription": "₺92,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
+      "Web portal subscription": "₺92,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746766943792,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Web portal subscription": "₺92,99"
+          }
+        }
+      ]
+    ]
+  },
   "520231936": {
     "name": "eDrawings",
     "maxPriceInfo": {
@@ -13296,6 +13321,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746766943792,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Faustus": "₺229,99",
+            "Bruce": "₺129,99",
+            "Phoenix": "₺229,99",
+            "Reg'son": "₺39,99",
+            "Vez'nan": "₺129,99",
+            "Wilbur": "₺229,99",
+            "Special Offer Faustus": "₺229,99",
+            "Prince Denas": "₺39,99",
+            "Chest of gems": "₺899,99",
+            "Bravebark": "₺129,99"
+          }
+        },
         {
           "timestamp": 1746763400158,
           "price": 99.99,
