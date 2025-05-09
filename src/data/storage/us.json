@@ -33193,6 +33193,21 @@
     "history": [
       [
         {
+          "timestamp": 1746806549043,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Early Unlock Cheats": "$9.99",
+            "Command Pack": "$6.99",
+            "All Advisors Unlock": "$9.99",
+            "Campaign + Challenge": "$4.99",
+            "Region Tour": "$3.99",
+            "The Black Caves Expansion": "$1.99",
+            "Early Unlock Cheats (discount)": "$4.99",
+            "The Azure Dam Expansion": "$1.99"
+          }
+        },
+        {
           "timestamp": 1746802942895,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -58306,7 +58321,7 @@
     ]
   },
   "6447693393": {
-    "name": "灵感卡片 - 笔记",
+    "name": "灵感卡片 - 创意笔记",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"

@@ -277,7 +277,7 @@ So far, we've covered `6` `Countries or Regions` and  `1040` `Apps` <br />Push n
 |835|1577762239|Automatic|❌|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|
 |834|1613920866|Automatic|金價即時通|金價即時通|金價即時通|金價即時通|金價即時通|金價即時通|
 |833|1617006551|Automatic|❌|南國度假島物語|南國度假島物語|南國度假島物語|Tropical Resort Story|Tropical Resort Story|
-|832|6447693393|Automatic|灵感卡片 - 笔记|灵感卡片 - 笔记|灵感卡片 - 笔记|灵感卡片 - 笔记|灵感卡片 - 笔记|灵感卡片 - 笔记|
+|832|6447693393|Automatic|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|
 |831|6446021269|Automatic|❌|ROCKMAN X DiVE Offline|ROCKMAN X DiVE Offline|ROCKMAN X DiVE Offline|MEGA MAN X DiVE Offline|MEGA MAN X DiVE Offline|
 |830|6446337236|Automatic|新概念英语-新概念英语全四册单词听力口语|新概念英語--新概念英語全四册單詞聽力口語|新概念英語--新概念英語全四册單詞聽力口語|新概念英語--新概念英語全四册單詞聽力口語|New Concept English Study|New Concept English Study|
 |829|6475892753|Automatic|❌|Listenify|❌|Listenify|Listenify|Listenify|

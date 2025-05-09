@@ -18533,7 +18533,8 @@
       "Battle Cat Prestige Pack": "₺179,99",
       "Rogue Legends": "₺449,99",
       "Heroes and Skins Complete 2024": "₺999,99",
-      "Knowledge Point": "₺39,99"
+      "Knowledge Point": "₺39,99",
+      "10 Knowledge Points": "₺349,99"
     },
     "minPriceInfo": {
       "price": 299.99,
@@ -18556,9 +18557,29 @@
       "Battle Cat Prestige Pack": "₺179,99",
       "Rogue Legends": "₺449,99",
       "Heroes and Skins Complete 2024": "₺999,99",
-      "Knowledge Point": "₺39,99"
+      "Knowledge Point": "₺39,99",
+      "10 Knowledge Points": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746806549043,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺129,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺229,99",
+            "Pile O Monkey Money": "₺229,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Paragon Unlock": "₺229,99",
+            "Double Cash Mode": "₺399,99",
+            "10 Knowledge Points": "₺349,99",
+            "Tower and Paragon Unlock": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746331470214,
@@ -44477,7 +44498,7 @@
     ]
   },
   "6447693393": {
-    "name": "灵感卡片 - 笔记",
+    "name": "灵感卡片 - 创意笔记",
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
