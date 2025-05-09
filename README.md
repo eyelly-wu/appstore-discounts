@@ -64,11 +64,13 @@ Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=fla
 ## DingTalk
 Click  [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk")  to Subscribe
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1037` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1039` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The application currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |Serial Number|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1039|325307477|Automatic|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|
+|1038|929618748|Automatic|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|
 |1037|519561306|Automatic|ATracker PRO - 每日时间管理|ATracker PRO - 每日時間管理|ATracker PRO - 每日時間管理|ATracker PRO - 每日時間管理|ATracker PRO Time Tracker|ATracker PRO Time Tracker|
 |1036|1456212639|Automatic|❌|返校|返校|返校|Detention|Detention|
 |1035|734464614|Automatic|生命密码|生命密碼|生命密碼|生命密碼|Numberology|Numberology|
@@ -83,7 +85,7 @@ So far, we've covered `6` `Countries or Regions` and  `1037` `Apps` <br />Push n
 |1026|1114127463|Automatic|❌|王權 (Reigns)|王權 (Reigns)|王權 (Reigns)|Reigns|Reigns|
 |1025|1636439801|Automatic|❌|軌道連結:Railbound|軌道連結:Railbound|軌道連結:Railbound|Railbound|Railbound|
 |1024|1479808939|Automatic|❌|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|
-|1023|6451376191|Automatic|Dumb Phone: 简约主屏幕|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: Minimalist Home|DumbPhone: Minimal Home Screen|
+|1023|6451376191|Automatic|Dumb Phone: 简约主屏幕|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: Minimal Launcher|Dumb Phone: Minimal Launcher|
 |1022|6446912063|Automatic|❌|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|
 |1021|1611723264|Automatic|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|
 |1020|409818349|Automatic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|

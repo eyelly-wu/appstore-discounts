@@ -67,11 +67,13 @@
 ## 钉钉
 点击 [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk") 订阅
 # 关注焦点
-当前已收录 `6` 个 `国家或地区` 和 `1037` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `6` 个 `国家或地区` 和 `1039` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br />如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br />目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1039|325307477|自动|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|
+|1038|929618748|自动|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|
 |1037|519561306|自动|ATracker PRO - 每日时间管理|ATracker PRO - 每日時間管理|ATracker PRO - 每日時間管理|ATracker PRO - 每日時間管理|ATracker PRO Time Tracker|ATracker PRO Time Tracker|
 |1036|1456212639|自动|❌|返校|返校|返校|Detention|Detention|
 |1035|734464614|自动|生命密码|生命密碼|生命密碼|生命密碼|Numberology|Numberology|
@@ -86,7 +88,7 @@
 |1026|1114127463|自动|❌|王權 (Reigns)|王權 (Reigns)|王權 (Reigns)|Reigns|Reigns|
 |1025|1636439801|自动|❌|軌道連結:Railbound|軌道連結:Railbound|軌道連結:Railbound|Railbound|Railbound|
 |1024|1479808939|自动|❌|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|
-|1023|6451376191|自动|Dumb Phone: 简约主屏幕|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: Minimalist Home|DumbPhone: Minimal Home Screen|
+|1023|6451376191|自动|Dumb Phone: 简约主屏幕|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: Minimal Launcher|Dumb Phone: Minimal Launcher|
 |1022|6446912063|自动|❌|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|
 |1021|1611723264|自动|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|
 |1020|409818349|自动|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|

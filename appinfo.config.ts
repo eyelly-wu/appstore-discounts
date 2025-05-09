@@ -63,6 +63,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 325307477,
+    name: {
+      mo: 'AudioTools - dB, Sound & Audio',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 929618748,
+    name: {
+      mo: 'Squeezy Men',
+    },
+    addType: 'auto',
+  },
+  {
     id: 519561306,
     name: {
       mo: 'ATracker PRO - 每日時間管理',

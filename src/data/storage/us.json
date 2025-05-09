@@ -1004,6 +1004,58 @@
       ]
     ]
   },
+  "325307477": {
+    "name": "AudioTools - dB, Sound & Audio",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99",
+      "SPL Pro Module": "$7.99",
+      "SoundScope VR": "$24.99",
+      "SPL Graph Module": "$9.99",
+      "Polarity Test Module": "$3.99",
+      "ETC Module": "$5.99",
+      "SPL Traffic Light": "$9.99",
+      "VU Meter": "$2.99",
+      "Speaker Distortion": "$5.99",
+      "IR Module": "$49.99",
+      "LARSA": "$29.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99",
+      "SPL Pro Module": "$7.99",
+      "SoundScope VR": "$24.99",
+      "SPL Graph Module": "$9.99",
+      "Polarity Test Module": "$3.99",
+      "ETC Module": "$5.99",
+      "SPL Traffic Light": "$9.99",
+      "VU Meter": "$2.99",
+      "Speaker Distortion": "$5.99",
+      "IR Module": "$49.99",
+      "LARSA": "$29.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746788532840,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "SPL Pro Module": "$7.99",
+            "SoundScope VR": "$24.99",
+            "SPL Graph Module": "$9.99",
+            "Polarity Test Module": "$3.99",
+            "ETC Module": "$5.99",
+            "SPL Traffic Light": "$9.99",
+            "VU Meter": "$2.99",
+            "Speaker Distortion": "$5.99",
+            "IR Module": "$49.99",
+            "LARSA": "$29.99"
+          }
+        }
+      ]
+    ]
+  },
   "325915322": {
     "name": "BatteryFull + (Alarm)",
     "maxPriceInfo": {
@@ -17135,6 +17187,27 @@
             "Unlock Slow Shutter - Limited": "$2.99",
             "Unlock Time-lapse - Limited": "$2.99"
           }
+        }
+      ]
+    ]
+  },
+  "929618748": {
+    "name": "Squeezy Men",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746788532840,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -57164,6 +57237,25 @@
     "history": [
       [
         {
+          "timestamp": 1746788532840,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Semi-annual Pro Membership": "$9.99",
+            "Annual Ultra Membership": "$19.99",
+            "Quarterly Ultra Membership": "$4.99",
+            "Monthly Ultra Membership": "$2.99",
+            "80 Candles": "$6.99",
+            "30 Candles": "$2.99",
+            "20 Candles": "$1.99",
+            "10 Candles": "$0.99",
+            "Quarterly Pro Membership": "$3.99",
+            "Monthly Pro Membership": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745769736857,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -59533,7 +59625,7 @@
     ]
   },
   "6451376191": {
-    "name": "Dumb Phone: Minimalist Home",
+    "name": "Dumb Phone: Minimal Launcher",
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
