@@ -13997,6 +13997,14 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746626555033,
           "price": 0,
           "formattedPrice": "免費",
@@ -27184,6 +27192,23 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "新手上路包": "HK$ 8.00",
+            "Miku in Museland": "HK$ 68.00",
+            "肥宅快樂包 SP": "HK$ 28.00"
+          }
+        },
+        {
           "timestamp": 1746763400158,
           "price": 23,
           "formattedPrice": "HK$ 23.00",
@@ -38226,6 +38251,14 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746367332061,
           "price": 0,
           "formattedPrice": "免費",
@@ -40827,6 +40860,14 @@
       "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745859736318,
@@ -56238,8 +56279,8 @@
       "Pennsylvania Carriage B": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "Round the World Ticket": "HK$ 228.00",
       "Europe Expansion": "HK$ 88.00",
       "Europe Map": "HK$ 68.00",
@@ -56254,6 +56295,25 @@
       "Pennsylvania Carriage B": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "HK$ 228.00",
+            "Japan Expansion Bundle": "HK$ 58.00",
+            "Europe Expansion": "HK$ 88.00",
+            "Europe Map": "HK$ 68.00",
+            "LegendaryAsia Expansion Bundle": "HK$ 58.00",
+            "1910 Ticket Pack": "HK$ 32.00",
+            "Nordic Bundle": "HK$ 58.00",
+            "Nordic Map": "HK$ 58.00",
+            "Switzerland Expansion Bundle": "HK$ 58.00",
+            "India Expansion Bundle": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745953326469,
@@ -56778,6 +56838,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746367332061,
@@ -59383,6 +59451,27 @@
             "Pre registration bundle": "HK$ 48.00",
             "Large Investment": "HK$ 22.00"
           }
+        }
+      ]
+    ]
+  },
+  "6503932402": {
+    "name": "超声智学",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
         }
       ]
     ]

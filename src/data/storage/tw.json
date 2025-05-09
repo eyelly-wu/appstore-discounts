@@ -13606,6 +13606,14 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746626555033,
           "price": 0,
           "formattedPrice": "免費",
@@ -27182,6 +27190,25 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "cyTus": "$190.00",
+            "unlockall_29": "$1,120.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "MSR特選曲目組合包": "$190.00",
+            "MSR特選曲目組合包_Vol.02": "$190.00",
+            "放棄治療 Vol.3": "$130.00",
+            "Let's GROOVE": "$130.00",
+            "Miku in Museland": "$290.00",
+            "新手上路包": "$33.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746453743410,
           "price": 100,
           "formattedPrice": "$100.00",
@@ -36877,6 +36904,14 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746367332061,
           "price": 0,
           "formattedPrice": "免費",
@@ -39804,6 +39839,14 @@
       "formattedPrice": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745859736318,
@@ -56851,8 +56894,8 @@
       "Pennsylvania Carriage A": "$60.00"
     },
     "minPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00",
+      "price": 90,
+      "formattedPrice": "$90.00",
       "Round the World Ticket": "$990.00",
       "Europe Expansion": "$320.00",
       "Europe Map": "$290.00",
@@ -56870,6 +56913,25 @@
       "Pennsylvania Carriage A": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "$990.00",
+            "Europe Expansion": "$320.00",
+            "Europe Map": "$290.00",
+            "LegendaryAsia Expansion Bundle": "$220.00",
+            "1910 Ticket Pack": "$120.00",
+            "Nordic Bundle": "$290.00",
+            "Pennsylvania Carriage B": "$60.00",
+            "Pennsylvania Locomotive B": "$60.00",
+            "Pennsylvania Locomotive A": "$60.00",
+            "Pennsylvania Carriage A": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745548218542,
@@ -57430,6 +57492,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746367332061,
@@ -60176,6 +60246,27 @@
             "Investment": "$60.00",
             "Pre registration bundle": "$190.00"
           }
+        }
+      ]
+    ]
+  },
+  "6503932402": {
+    "name": "超声智学",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
         }
       ]
     ]

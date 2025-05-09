@@ -9458,6 +9458,14 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746626555033,
           "price": 0,
           "formattedPrice": "免费",
@@ -28960,6 +28968,14 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746367332061,
           "price": 0,
           "formattedPrice": "免费",
@@ -41002,6 +41018,18 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "扩展内容《倩影萍踪》": "¥8.00",
+            "扩展内容《一统江湖》": "¥6.00",
+            "扩展内容《新颜绘梦》": "¥9.90"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745503347397,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -42979,6 +43007,14 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746367332061,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -44459,6 +44495,27 @@
             "298元礼包": "¥298.00",
             "168元礼包": "¥168.00"
           }
+        }
+      ]
+    ]
+  },
+  "6503932402": {
+    "name": "超声智学",
+    "maxPriceInfo": {
+      "price": 78,
+      "formattedPrice": "¥78.00"
+    },
+    "minPriceInfo": {
+      "price": 78,
+      "formattedPrice": "¥78.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 78,
+          "formattedPrice": "¥78.00",
+          "inAppPurchases": {}
         }
       ]
     ]

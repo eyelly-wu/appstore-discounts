@@ -11943,6 +11943,14 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746626555033,
           "price": 0,
           "formattedPrice": "免費",
@@ -23868,6 +23876,25 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "unlockall_0": "USD 27.99",
+            "unlockall_29": "USD 33.99",
+            "東方暮樂團 -壹-": "USD 3.99",
+            "cyTus": "USD 5.99",
+            "Let's GROOVE": "USD 3.99",
+            "暮 色 電 台 FM101": "USD 3.99",
+            "MSR特選曲目組合包_Vol.02": "USD 5.99",
+            "Miku in Museland": "USD 5.99",
+            "肥宅快樂包 Vol.3": "USD 3.99",
+            "Rin·Len's Mirrorland": "USD 5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746453743410,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -30177,6 +30204,14 @@
     "history": [
       [
         {
+          "timestamp": 1746799336853,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746367332061,
           "price": 0,
           "formattedPrice": "免費",
@@ -33096,6 +33131,14 @@
       "formattedPrice": "USD 0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745859736318,
@@ -45338,8 +45381,8 @@
       "Germany Locomotive A": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99",
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
       "Japan Expansion Bundle": "USD 6.99",
       "Japan Map": "USD 5.99",
       "Hayai Carriage": "USD 1.99",
@@ -45363,6 +45406,25 @@
       "Germany Locomotive A": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Pennsylvania Carriage B": "USD 1.99",
+            "Pennsylvania Locomotive B": "USD 1.99",
+            "Pennsylvania Locomotive A": "USD 1.99",
+            "Pennsylvania Carriage A": "USD 1.99",
+            "Pennsylvania Character A": "USD 1.99",
+            "Pennsylvania Character B": "USD 1.99",
+            "Germany Carriage B": "USD 1.99",
+            "Germany Carriage A": "USD 1.99",
+            "Germany Locomotive B": "USD 1.99",
+            "Germany Locomotive A": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745548218542,
@@ -45729,6 +45791,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746367332061,
@@ -47901,6 +47971,27 @@
             "Investment": "USD 1.99",
             "Chairman's Payment": "USD 5.99"
           }
+        }
+      ]
+    ]
+  },
+  "6503932402": {
+    "name": "超声智学",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
         }
       ]
     ]
