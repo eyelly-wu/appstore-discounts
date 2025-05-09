@@ -29501,10 +29501,22 @@
       "price": 0,
       "formattedPrice": "免費",
       "RFS Pro (1個月)": "USD 4.99",
-      "RFS Pro (1年)": "USD 39.99",
+      "RFS Pro (1年)": "USD 27.99",
       "RFS Pro (6個月)": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746784943643,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "RFS Pro (1個月)": "USD 4.99",
+            "RFS Pro (1年)": "USD 27.99",
+            "RFS Pro (6個月)": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746712941022,
