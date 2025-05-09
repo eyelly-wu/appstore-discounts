@@ -17546,6 +17546,25 @@
     "history": [
       [
         {
+          "timestamp": 1746777796898,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "$0.00",
+            "ThemeA0B1C0": "$0.00",
+            "ThemeA1B0C0": "$0.00",
+            "ThemeA0B1C1": "$0.00",
+            "ThemeA1B0C1": "$0.00",
+            "ThemeA1B1C0": "$0.00",
+            "ThemeA2B0C0": "$0.00",
+            "主题大礼包": "$3.99",
+            "ThemeA2B0C1": "$3.99",
+            "ThemeA2B1C0": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746118928892,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -26832,7 +26851,15 @@
       "Torture Master Package": "$22.99",
       "Original Dungeon Package": "$17.99",
       "Original Facility Package": "$8.99",
-      "Adventure Master Package": "$44.99"
+      "Adventure Master Package": "$44.99",
+      "TeaSet DarkLord Skin Package C": "$4.99",
+      "Teaset Dark Lord Skin PackageB": "$4.99",
+      "Teaset DarkLord Skin Package A": "$4.99",
+      "Little Corr. Hero costume Pack": "$25.99",
+      "Little Hero Costume Package": "$25.99",
+      "Black Dark Lord Skin Package": "$7.99",
+      "White Dark Lord Skin Package": "$7.99",
+      "Myth full pack": "$39.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -26848,9 +26875,36 @@
       "Torture Master Package": "$22.99",
       "Original Dungeon Package": "$17.99",
       "Original Facility Package": "$8.99",
-      "Adventure Master Package": "$44.99"
+      "Adventure Master Package": "$44.99",
+      "TeaSet DarkLord Skin Package C": "$4.99",
+      "Teaset Dark Lord Skin PackageB": "$4.99",
+      "Teaset DarkLord Skin Package A": "$4.99",
+      "Little Corr. Hero costume Pack": "$25.99",
+      "Little Hero Costume Package": "$25.99",
+      "Black Dark Lord Skin Package": "$7.99",
+      "White Dark Lord Skin Package": "$7.99",
+      "Myth full pack": "$39.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746777796898,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "TeaSet DarkLord Skin Package C": "$4.99",
+            "Teaset Dark Lord Skin PackageB": "$4.99",
+            "Teaset DarkLord Skin Package A": "$4.99",
+            "Little Corr. Hero costume Pack": "$25.99",
+            "Little Hero Costume Package": "$25.99",
+            "Black Dark Lord Skin Package": "$7.99",
+            "White Dark Lord Skin Package": "$7.99",
+            "Awakening Viper Package": "$4.99",
+            "Myth full pack": "$39.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746590581540,
