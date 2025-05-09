@@ -47803,6 +47803,23 @@
     "history": [
       [
         {
+          "timestamp": 1746828137022,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Tower Necromancer": "$4.99",
+            "Mega Tower Bundle": "$14.99",
+            "Tower Dune Sentinels": "$2.99",
+            "Tower Grim Wraiths": "$6.99",
+            "Tower Elven Stargazers": "$4.99"
+          }
+        },
+        {
           "timestamp": 1746817328410,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -48913,7 +48930,8 @@
       "New Leaders": "$4.99",
       "Season 1 Pack (discount)": "$6.99",
       "Survival Guide": "$2.99",
-      "Ultimate Pack (big discount)": "$4.99"
+      "Ultimate Pack (big discount)": "$4.99",
+      "Season 1 Pack (full)": "$19.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -48927,9 +48945,29 @@
       "New Leaders": "$4.99",
       "Season 1 Pack (discount)": "$6.99",
       "Survival Guide": "$2.99",
-      "Ultimate Pack (big discount)": "$4.99"
+      "Ultimate Pack (big discount)": "$4.99",
+      "Season 1 Pack (full)": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746828137022,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Beyond the Bunkers": "$6.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "Critical Mass": "$6.99",
+            "Survival Guide": "$2.99",
+            "Ultimate Pack (big discount)": "$4.99",
+            "Ultimate Pack": "$14.99",
+            "Season 1 Pack": "$9.99",
+            "Season 1 Pack (full)": "$19.99",
+            "Cheats & Punishment": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745839136197,
@@ -56188,7 +56226,10 @@
       "2025 Spring Flower Theme": "$0.99",
       "Lawn Theme": "$0.99",
       "Toby": "$0.99",
-      "Gizmo": "$0.99"
+      "Gizmo": "$0.99",
+      "Loki": "$0.99",
+      "Civet Theme": "$0.99",
+      "Tuxedo Theme": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -56202,9 +56243,31 @@
       "2025 Spring Flower Theme": "$0.99",
       "Lawn Theme": "$0.99",
       "Toby": "$0.99",
-      "Gizmo": "$0.99"
+      "Gizmo": "$0.99",
+      "Loki": "$0.99",
+      "Civet Theme": "$0.99",
+      "Tuxedo Theme": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746828137022,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "2025 Spring Forest Theme": "$0.99",
+            "2025 Spring Lawn Theme": "$1.49",
+            "2025 Spring Flower Theme": "$0.99",
+            "Lawn Theme": "$0.99",
+            "Toby": "$0.99",
+            "Gizmo": "$0.99",
+            "Lucky": "$0.99",
+            "Loki": "$0.99",
+            "Civet Theme": "$0.99",
+            "Tuxedo Theme": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
