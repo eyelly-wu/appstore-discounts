@@ -32105,6 +32105,14 @@
     "history": [
       [
         {
+          "timestamp": 1746817328410,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743343327243,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -47796,15 +47804,29 @@
       "price": 0.99,
       "formattedPrice": "USD 0.99",
       "月度VIP": "USD 0.99",
-      "1年VIP": "USD 1.99"
+      "1年VIP": "USD 1.99",
+      "买断制VIP": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
       "月度VIP": "USD 0.99",
-      "1年VIP": "USD 1.99"
+      "1年VIP": "USD 1.99",
+      "买断制VIP": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746817328410,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "买断制VIP": "USD 9.99",
+            "月度VIP": "USD 0.99",
+            "1年VIP": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746608551576,

@@ -19702,6 +19702,23 @@
     "history": [
       [
         {
+          "timestamp": 1746817328410,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "$7.99",
+            "Platinum Plan - Trimonthly": "$19.99",
+            "Basic Plan - Monthly": "$1.49",
+            "Side Story Chapter 1": "$3.99",
+            "Expansion Chapter B": "$3.99",
+            "Expansion Chapter H": "$3.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Ch. U": "$3.99",
+            "Expansion Chapter E": "$3.99",
+            "Medium bottle of Chiming Core": "$4.99"
+          }
+        },
+        {
           "timestamp": 1746763400158,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -39187,6 +39204,14 @@
     "history": [
       [
         {
+          "timestamp": 1746817328410,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743391024000,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -40348,6 +40373,14 @@
       "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746817328410,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745896628504,
@@ -47769,6 +47802,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746817328410,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Tower Necromancer": "$4.99",
+            "Mega Tower Bundle": "$14.99",
+            "Tower Dune Sentinels": "$2.99",
+            "Tower Elven Stargazers": "$4.99",
+            "Hero Anya": "$2.99"
+          }
+        },
         {
           "timestamp": 1746796178937,
           "price": 6.99,
@@ -59575,15 +59625,29 @@
       "price": 0.99,
       "formattedPrice": "$0.99",
       "月度VIP": "$0.99",
-      "1年VIP": "$1.99"
+      "1年VIP": "$1.99",
+      "买断制VIP": "$9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
       "月度VIP": "$0.99",
-      "1年VIP": "$1.99"
+      "1年VIP": "$1.99",
+      "买断制VIP": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746817328410,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "买断制VIP": "$9.99",
+            "月度VIP": "$0.99",
+            "1年VIP": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746604998447,
