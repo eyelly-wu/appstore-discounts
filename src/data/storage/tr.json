@@ -17425,6 +17425,23 @@
     "history": [
       [
         {
+          "timestamp": 1746760759184,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "980个Y币": "₺699,99",
+            "150个Y币": "₺179,99",
+            "特效7": "₺19,99",
+            "100 sheets": "₺4,99",
+            "特效6": "₺19,99",
+            "特效5": "₺19,99",
+            "特效4": "₺19,99",
+            "特效3": "₺19,99",
+            "特效2": "₺19,99",
+            "特效1": "₺19,99"
+          }
+        },
+        {
           "timestamp": 1746745350049,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -33646,8 +33663,8 @@
       "SkySafari Premium Monthly": "₺68,99"
     },
     "minPriceInfo": {
-      "price": 899.99,
-      "formattedPrice": "₺899,99",
+      "price": 699.99,
+      "formattedPrice": "₺699,99",
       "SkySafari Premium": "₺1.299,99",
       "GAIA Star Database": "₺0,00",
       "PGC Galaxy Database": "₺0,00",
@@ -33655,6 +33672,20 @@
       "SkySafari Premium Monthly": "₺68,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746760759184,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "SkySafari Premium": "₺1.299,99",
+            "GAIA Star Database": "₺0,00",
+            "PGC Galaxy Database": "₺0,00",
+            "Apollo Lunar Missions": "₺0,00",
+            "SkySafari Premium Monthly": "₺68,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746158574062,
