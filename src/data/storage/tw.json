@@ -16511,10 +16511,29 @@
       "一箱寶石": "$320.00",
       "一桶寶石": "$150.00",
       "一袋寶石": "$90.00",
-      "凌 .": "$150.00",
+      "凌 .": "$90.00",
       "英雄包 9": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746918126591,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Big Hero Pack 3": "$490.00",
+            "一倉庫寶石": "$1,490.00",
+            "一車寶石": "$690.00",
+            "一箱寶石": "$320.00",
+            "一桶寶石": "$150.00",
+            "一袋寶石": "$90.00",
+            "威爾伯": "$150.00",
+            "怖鹿獅": "$90.00",
+            "凌 .": "$90.00",
+            "英雄包 9": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746644545583,
@@ -36525,7 +36544,10 @@
       "Teammate Package#2": "$150.00",
       "英雄礼包II": "$320.00",
       "Gold Decree": "$2,990.00",
-      "Silver Decree": "$1,490.00"
+      "Silver Decree": "$1,490.00",
+      "Bronze Decree": "$890.00",
+      "Heroic Package#3": "$1,490.00",
+      "Suit Package": "$990.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -36539,9 +36561,31 @@
       "Teammate Package#2": "$150.00",
       "英雄礼包II": "$320.00",
       "Gold Decree": "$2,990.00",
-      "Silver Decree": "$1,490.00"
+      "Silver Decree": "$1,490.00",
+      "Bronze Decree": "$890.00",
+      "Heroic Package#3": "$1,490.00",
+      "Suit Package": "$990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746918126591,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Teammate Package#2": "$150.00",
+            "Bronze Decree": "$890.00",
+            "Heroic Package#3": "$1,490.00",
+            "Role Package III": "$320.00",
+            "Suit Package": "$990.00",
+            "Teammate Package": "$150.00",
+            "Role Package": "$90.00",
+            "英雄礼包II": "$320.00",
+            "Heroic Package#1": "$320.00",
+            "Resource Package": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745528534252,
