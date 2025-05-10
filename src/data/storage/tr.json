@@ -45872,7 +45872,7 @@
       "formattedPrice": "₺229,99",
       "Huge Investment": "₺229,99",
       "Investment": "₺99,99",
-      "Bundle": "₺449,99",
+      "Bundle": "₺229,99",
       "Large Investment": "₺129,99",
       "Very Large Investment": "₺129,99",
       "Game Editor": "₺249,99",
@@ -45881,6 +45881,24 @@
       "Pre registration bundle": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746903714978,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Bundle": "₺229,99",
+            "Huge Investment": "₺229,99",
+            "Very Large Investment": "₺129,99",
+            "Investment": "₺99,99",
+            "Large Investment": "₺129,99",
+            "Game Editor": "₺249,99",
+            "Premium livery bundle": "₺249,99",
+            "Chairman's Payment": "₺249,99",
+            "Pre registration bundle": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746641007488,

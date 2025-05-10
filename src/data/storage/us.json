@@ -4975,7 +4975,12 @@
       "Magnetic Stars Tiny Pack": "$3.99",
       "Superpower Unlimited": "$24.99",
       "Superpower 50 Sale": "$4.99",
-      "Unlock \"Bath Time\" level pack": "$1.99"
+      "Unlock \"Bath Time\" level pack": "$1.99",
+      "Magnetic Stars Superior Pack": "$24.99",
+      "Magnetic Stars Grand Pack Sale": "$7.99",
+      "Magnetic Stars Grand Pack": "$14.99",
+      "Magnetic Stars Large Pack": "$6.99",
+      "Unlock \"Ant Hill\" level pack": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -4989,9 +4994,32 @@
       "Magnetic Stars Tiny Pack": "$3.99",
       "Superpower Unlimited": "$24.99",
       "Superpower 50 Sale": "$4.99",
-      "Unlock \"Bath Time\" level pack": "$1.99"
+      "Unlock \"Bath Time\" level pack": "$1.99",
+      "Magnetic Stars Superior Pack": "$24.99",
+      "Magnetic Stars Grand Pack Sale": "$7.99",
+      "Magnetic Stars Grand Pack": "$14.99",
+      "Magnetic Stars Large Pack": "$6.99",
+      "Unlock \"Ant Hill\" level pack": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746903714978,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Magnetic Stars Superior Pack": "$24.99",
+            "Superpower 50 Sale": "$4.99",
+            "Magnetic Stars Grand Pack Sale": "$7.99",
+            "Magnetic Stars Grand Pack": "$14.99",
+            "Magnetic Stars Large Pack": "$6.99",
+            "Magnetic Stars Tiny Pack": "$3.99",
+            "Unlock \"Bath Time\" level pack": "$1.99",
+            "Unlock \"Bamboo Chutes\" level pack": "$1.99",
+            "Unlock \"Ant Hill\" level pack": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -10301,6 +10329,25 @@
       "Handful O' Tokens": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746903714978,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "$0.99",
+            "Classic Tack Tower Skin": "$1.99",
+            "Classic Super Monkey Skin Sale": "$0.99",
+            "Classic Super Monkey Skin": "$1.99",
+            "Classic Ice Tower Skin Sale": "$0.99",
+            "Classic Ice Tower Skin": "$1.99",
+            "Classic Bomb Tower Skin Sale": "$0.99",
+            "Classic Bomb Tower Skin": "$1.99",
+            "Classic Dart Monkey Skin Sale": "$0.99",
+            "Classic Dart Monkey Skin": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746201754856,
@@ -19944,7 +19991,13 @@
       "Expansion Chapter D": "$3.99",
       "Expansion Chapter F": "$3.99",
       "Expansion Chapter G": "$3.99",
-      "Halv Selection Challenge Pass": "$2.99"
+      "Halv Selection Challenge Pass": "$2.99",
+      "KALPA Collaboration Pass": "$2.99",
+      "Glorious Chorus Challenge Pass": "$2.99",
+      "Neon Rhapsody Challenge Pass": "$2.99",
+      "Colorful Meteor Shower Pass": "$2.99",
+      "Challenge Pass": "$3.99",
+      "Expansion Ch. Y": "$3.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -19967,10 +20020,32 @@
       "Expansion Chapter D": "$3.99",
       "Expansion Chapter F": "$3.99",
       "Expansion Chapter G": "$3.99",
-      "Halv Selection Challenge Pass": "$2.99"
+      "Halv Selection Challenge Pass": "$2.99",
+      "KALPA Collaboration Pass": "$2.99",
+      "Glorious Chorus Challenge Pass": "$2.99",
+      "Neon Rhapsody Challenge Pass": "$2.99",
+      "Colorful Meteor Shower Pass": "$2.99",
+      "Challenge Pass": "$3.99",
+      "Expansion Ch. Y": "$3.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746903714978,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Radiant Star Trail Pass": "$3.99",
+            "KALPA Collaboration Pass": "$2.99",
+            "Main Story Ch. VIII": "$9.99",
+            "Glorious Chorus Challenge Pass": "$2.99",
+            "Neon Rhapsody Challenge Pass": "$2.99",
+            "Colorful Meteor Shower Pass": "$2.99",
+            "Halv Selection Challenge Pass": "$2.99",
+            "Challenge Pass": "$3.99",
+            "Expansion Ch. Y": "$3.99"
+          }
+        },
         {
           "timestamp": 1746856972162,
           "price": 1.99,
@@ -20971,6 +21046,23 @@
       "90 Days SVIP": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746903714978,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "90 Days SVIP": "$2.99",
+            "Annual Special SVIP": "$12.99",
+            "545 Days SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "SVIP auto-renew annually": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745510557666,
@@ -25709,7 +25801,8 @@
       "NEKO_II": "$9.99",
       "Rhythm Games Party 2024": "$4.99",
       "B.B.K.K.B.K.K. 2023 Remake SLC": "$4.99",
-      "Battle CHAOS 2019": "$1.99"
+      "Battle CHAOS 2019": "$1.99",
+      "Game Disc vol.1": "$1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -25734,10 +25827,28 @@
       "NEKO_II": "$9.99",
       "Rhythm Games Party 2024": "$1.99",
       "B.B.K.K.B.K.K. 2023 Remake SLC": "$1.99",
-      "Battle CHAOS 2019": "$1.99"
+      "Battle CHAOS 2019": "$1.99",
+      "Game Disc vol.1": "$1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746903714978,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Battle CHAOS 2019": "$1.99",
+            "Game Disc vol.1": "$1.99"
+          }
+        },
         {
           "timestamp": 1746896525509,
           "price": 1.99,
@@ -58533,6 +58644,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746903714978,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Airbus A350-1000": "$3.99",
+            "Boeing 737-900": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Global scenery - 3 months": "$6.99"
+          }
+        },
         {
           "timestamp": 1746871335303,
           "price": 3.99,
