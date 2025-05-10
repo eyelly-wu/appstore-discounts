@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1083801827,
+    name: {
+      mo: 'Note Rush: Music Reading Game',
+    },
+    addType: 'auto',
+  },
+  {
     id: 378272803,
     name: {
       mo: 'DaF Wörterbuch Deutsch-Deutsch',

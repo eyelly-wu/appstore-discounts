@@ -5004,6 +5004,23 @@
     "history": [
       [
         {
+          "timestamp": 1746907333477,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Superpower 10": "$1.99",
+            "Unlock all level packs including future updates": "$3.99",
+            "Superpower 20": "$3.99",
+            "Superpower 500": "$17.99",
+            "Superpower 50": "$7.99",
+            "Unlock \"Bamboo Chutes\" level pack": "$1.99",
+            "Magnetic Stars Tiny Pack": "$3.99",
+            "Superpower Unlimited": "$24.99",
+            "Superpower 50 Sale": "$4.99",
+            "Unlock \"Bath Time\" level pack": "$1.99"
+          }
+        },
+        {
           "timestamp": 1746903714978,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -10330,6 +10347,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746907333477,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "500 Monkey Money": "$0.99",
+            "Tower Unlock All Upgrades": "$0.99",
+            "Bundle O' Monkey Money": "$2.99",
+            "Pile O' Monkey Money": "$2.99",
+            "Rank Up": "$0.99",
+            "Vault O' Tokens": "$9.99",
+            "Double Cash Mode": "$9.99",
+            "Vault O' Monkey Money": "$19.99",
+            "Pile O' Tokens": "$4.99"
+          }
+        },
         {
           "timestamp": 1746903714978,
           "price": 2.99,
@@ -20031,6 +20064,23 @@
     "history": [
       [
         {
+          "timestamp": 1746907333477,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "$7.99",
+            "Platinum Plan - Trimonthly": "$19.99",
+            "Basic Plan - Monthly": "$1.49",
+            "Side Story Chapter 1": "$3.99",
+            "Expansion Chapter B": "$3.99",
+            "Halv Selection Challenge Pass": "$2.99",
+            "Expansion Chapter H": "$3.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Chapter E": "$3.99",
+            "Expansion Ch. U": "$3.99"
+          }
+        },
+        {
           "timestamp": 1746903714978,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -21048,6 +21098,20 @@
     "history": [
       [
         {
+          "timestamp": 1746907333477,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "Quarterly SVIP": "$2.99",
+            "100 Days SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "Annual Special SVIP": "$12.99",
+            "3-Year SVIP": "$24.99"
+          }
+        },
+        {
           "timestamp": 1746903714978,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -21285,6 +21349,27 @@
           "timestamp": 1745658131479,
           "price": 3.99,
           "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1083801827": {
+    "name": "Note Rush: Music Reading Game",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746907333477,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
           "inAppPurchases": {}
         }
       ]
