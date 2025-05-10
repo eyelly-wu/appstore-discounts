@@ -63,6 +63,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 378272803,
+    name: {
+      mo: 'DaF Wörterbuch Deutsch-Deutsch',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6503088710,
+    name: {
+      hk: 'World of Goo 2',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1659258538,
     name: {
       mo: 'Video Cacher',

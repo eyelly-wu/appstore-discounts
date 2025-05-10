@@ -2174,6 +2174,27 @@
       ]
     ]
   },
+  "378272803": {
+    "name": "DaF Wörterbuch Deutsch-Deutsch",
+    "maxPriceInfo": {
+      "price": 790,
+      "formattedPrice": "$790.00"
+    },
+    "minPriceInfo": {
+      "price": 790,
+      "formattedPrice": "$790.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746874928144,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "378503081": {
     "name": "Groundwire: VoIP SIP Softphone",
     "maxPriceInfo": {
@@ -21549,9 +21570,28 @@
       "特效4": "$30.00",
       "特效3": "$30.00",
       "特效2": "$30.00",
-      "特效1": "$30.00"
+      "特效1": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746874928144,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "980个Y币": "$490.00",
+            "150个Y币": "$120.00",
+            "特效7": "$30.00",
+            "100張": "$30.00",
+            "特效6": "$30.00",
+            "特效5": "$30.00",
+            "特效4": "$30.00",
+            "特效3": "$30.00",
+            "特效2": "$30.00",
+            "特效1": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745890187029,
@@ -60867,6 +60907,27 @@
       [
         {
           "timestamp": 1746799336853,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6503088710": {
+    "name": "World of Goo 2",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746874928144,
           "price": 320,
           "formattedPrice": "$320.00",
           "inAppPurchases": {}
