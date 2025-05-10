@@ -23814,6 +23814,25 @@
     "history": [
       [
         {
+          "timestamp": 1746885724305,
+          "price": 299,
+          "formattedPrice": "$299.00",
+          "inAppPurchases": {
+            "高清材質": "$0.00",
+            "高清材質 - 派對模式": "$0.00",
+            "高清材質 - 街道賽": "$0.00",
+            "高清材質 - 改車賽": "$0.00",
+            "高清材質 - 方程式賽車": "$0.00",
+            "高清材質 - 耐力賽": "$0.00",
+            "高清材質 - 房車賽": "$0.00",
+            "全部 DLC": "$0.00",
+            "黑色版本套件": "$0.00",
+            "英式精粹套件": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746630148619,
           "price": 299,
           "formattedPrice": "$299.00",
@@ -43632,7 +43651,9 @@
       "Manuel character": "$30.00",
       "Daniel skin": "$30.00",
       "Yellow menu color": "$30.00",
-      "Purple menu color": "$120.00"
+      "Purple menu color": "$120.00",
+      "Reyna skin": "$30.00",
+      "James character": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -43647,9 +43668,30 @@
       "Manuel character": "$30.00",
       "Daniel skin": "$30.00",
       "Yellow menu color": "$30.00",
-      "Purple menu color": "$120.00"
+      "Purple menu color": "$120.00",
+      "Reyna skin": "$30.00",
+      "James character": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746885724305,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Daniel skin": "$30.00",
+            "Reyna skin": "$30.00",
+            "Jorge skin": "$30.00",
+            "Gloria skin": "$30.00",
+            "Purple menu color": "$120.00",
+            "Red menu color": "$60.00",
+            "Yellow menu color": "$30.00",
+            "James character": "$30.00",
+            "Lisa character": "$0.00",
+            "Elsa character": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746191337517,
@@ -44055,6 +44097,14 @@
       "formattedPrice": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746885724305,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746021743211,
