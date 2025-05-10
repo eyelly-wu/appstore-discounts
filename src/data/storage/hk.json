@@ -23698,7 +23698,14 @@
       "屬性禮包": "HK$ 128.00",
       "喚生石9000個": "HK$ 328.00",
       "寶石2100個": "HK$ 328.00",
-      "地獄石250個": "HK$ 328.00"
+      "地獄石250個": "HK$ 328.00",
+      "屬性經驗值增加": "HK$ 68.00",
+      "重生禮包": "HK$ 328.00",
+      "寶石12000個": "HK$ 688.00",
+      "重生石50000個": "HK$ 688.00",
+      "地獄石120個": "HK$ 188.00",
+      "地獄石30個": "HK$ 68.00",
+      "地獄石500個": "HK$ 328.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -23718,9 +23725,35 @@
       "屬性禮包": "HK$ 128.00",
       "喚生石9000個": "HK$ 328.00",
       "寶石2100個": "HK$ 328.00",
-      "地獄石250個": "HK$ 328.00"
+      "地獄石250個": "HK$ 328.00",
+      "屬性經驗值增加": "HK$ 68.00",
+      "重生禮包": "HK$ 328.00",
+      "寶石12000個": "HK$ 688.00",
+      "重生石50000個": "HK$ 688.00",
+      "地獄石120個": "HK$ 188.00",
+      "地獄石30個": "HK$ 68.00",
+      "地獄石500個": "HK$ 328.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746860527957,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "屬性經驗值增加": "HK$ 68.00",
+            "重生經驗值增加": "HK$ 68.00",
+            "重生禮包": "HK$ 328.00",
+            "寶石12000個": "HK$ 688.00",
+            "重生石50000個": "HK$ 688.00",
+            "屬性禮包": "HK$ 128.00",
+            "地獄石250個": "HK$ 328.00",
+            "地獄石120個": "HK$ 188.00",
+            "地獄石30個": "HK$ 68.00",
+            "地獄石500個": "HK$ 328.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746763400158,
@@ -33915,7 +33948,17 @@
       "Early Unlock Cheats (discount)": "HK$ 38.00",
       "黑暗洞窟擴展": "HK$ 18.00",
       "場景包": "HK$ 38.00",
-      "Warlord governor Early Unlock": "HK$ 8.00"
+      "Warlord governor Early Unlock": "HK$ 8.00",
+      "精靈詛咒": "HK$ 8.00",
+      "神秘瘟疫": "HK$ 8.00",
+      "特大旱災": "HK$ 8.00",
+      "山雨欲來": "HK$ 8.00",
+      "軌道星鏈": "HK$ 8.00",
+      "加急空運": "HK$ 8.00",
+      "魔鬼山峰": "HK$ 18.00",
+      "國防部長": "HK$ 8.00",
+      "徵兵員": "HK$ 8.00",
+      "無人機程式員": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -33928,9 +33971,38 @@
       "Early Unlock Cheats (discount)": "HK$ 38.00",
       "黑暗洞窟擴展": "HK$ 18.00",
       "場景包": "HK$ 38.00",
-      "Warlord governor Early Unlock": "HK$ 8.00"
+      "Warlord governor Early Unlock": "HK$ 8.00",
+      "精靈詛咒": "HK$ 8.00",
+      "神秘瘟疫": "HK$ 8.00",
+      "特大旱災": "HK$ 8.00",
+      "山雨欲來": "HK$ 8.00",
+      "軌道星鏈": "HK$ 8.00",
+      "加急空運": "HK$ 8.00",
+      "魔鬼山峰": "HK$ 18.00",
+      "國防部長": "HK$ 8.00",
+      "徵兵員": "HK$ 8.00",
+      "無人機程式員": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746860527957,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "精靈詛咒": "HK$ 8.00",
+            "神秘瘟疫": "HK$ 8.00",
+            "特大旱災": "HK$ 8.00",
+            "山雨欲來": "HK$ 8.00",
+            "軌道星鏈": "HK$ 8.00",
+            "加急空運": "HK$ 8.00",
+            "魔鬼山峰": "HK$ 18.00",
+            "國防部長": "HK$ 8.00",
+            "徵兵員": "HK$ 8.00",
+            "無人機程式員": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746266529761,
@@ -56548,7 +56620,16 @@
       "India Expansion Bundle": "HK$ 58.00",
       "Japan Expansion Bundle": "HK$ 58.00",
       "Heart of Africa Expansion": "HK$ 58.00",
-      "Pennsylvania Carriage B": "HK$ 18.00"
+      "Pennsylvania Carriage B": "HK$ 18.00",
+      "Pennsylvania Locomotive B": "HK$ 18.00",
+      "Pennsylvania Locomotive A": "HK$ 18.00",
+      "Pennsylvania Carriage A": "HK$ 18.00",
+      "Pennsylvania Character A": "HK$ 18.00",
+      "Pennsylvania Character B": "HK$ 18.00",
+      "Germany Carriage B": "HK$ 18.00",
+      "Germany Carriage A": "HK$ 18.00",
+      "Germany Locomotive B": "HK$ 18.00",
+      "Germany Locomotive A": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -56564,9 +56645,37 @@
       "India Expansion Bundle": "HK$ 58.00",
       "Japan Expansion Bundle": "HK$ 58.00",
       "Heart of Africa Expansion": "HK$ 58.00",
-      "Pennsylvania Carriage B": "HK$ 18.00"
+      "Pennsylvania Carriage B": "HK$ 18.00",
+      "Pennsylvania Locomotive B": "HK$ 18.00",
+      "Pennsylvania Locomotive A": "HK$ 18.00",
+      "Pennsylvania Carriage A": "HK$ 18.00",
+      "Pennsylvania Character A": "HK$ 18.00",
+      "Pennsylvania Character B": "HK$ 18.00",
+      "Germany Carriage B": "HK$ 18.00",
+      "Germany Carriage A": "HK$ 18.00",
+      "Germany Locomotive B": "HK$ 18.00",
+      "Germany Locomotive A": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746860527957,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Pennsylvania Carriage B": "HK$ 18.00",
+            "Pennsylvania Locomotive B": "HK$ 18.00",
+            "Pennsylvania Locomotive A": "HK$ 18.00",
+            "Pennsylvania Carriage A": "HK$ 18.00",
+            "Pennsylvania Character A": "HK$ 18.00",
+            "Pennsylvania Character B": "HK$ 18.00",
+            "Germany Carriage B": "HK$ 18.00",
+            "Germany Carriage A": "HK$ 18.00",
+            "Germany Locomotive B": "HK$ 18.00",
+            "Germany Locomotive A": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746799336853,
