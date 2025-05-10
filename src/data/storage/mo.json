@@ -2462,6 +2462,19 @@
     "history": [
       [
         {
+          "timestamp": 1746835719930,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶": "USD 49.99",
+            "一頁傳真": "USD 0.99",
+            "3000 cp + Six chance to Draw": "USD 4.99",
+            "600 cp + One chance to Draw": "USD 0.99",
+            "3000 C-Points": "USD 4.99",
+            "十頁傳真": "USD 8.99"
+          }
+        },
+        {
           "timestamp": 1746831739705,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -12075,6 +12088,27 @@
           "timestamp": 1721960142187,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "708196645": {
+    "name": "Oceanhorn ™",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746835719930,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
           "inAppPurchases": {}
         }
       ]
@@ -23770,6 +23804,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746835719930,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "USD 3.99",
+            "原版怪獸繼承卡牌包": "USD 17.99",
+            "覺醒魔王完整卡牌包": "USD 26.99",
+            "原版魔王完整卡牌包": "USD 26.99",
+            "怪獸繼承": "USD 4.99",
+            "原版地宮卡牌包": "USD 17.99",
+            "覺醒魔王卡牌包": "USD 17.99",
+            "原版魔王權能卡牌包": "USD 17.99",
+            "覺醒技能卡牌包": "USD 17.99",
+            "原版魔王加速卡牌包": "USD 8.99"
+          }
+        },
         {
           "timestamp": 1746831739705,
           "price": 3.99,
