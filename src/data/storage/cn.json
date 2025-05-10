@@ -15333,6 +15333,23 @@
     "history": [
       [
         {
+          "timestamp": 1746867731970,
+          "price": 5.8,
+          "formattedPrice": "¥5.80",
+          "inAppPurchases": {
+            "150个Y币": "¥30.00",
+            "980个Y币": "¥98.00",
+            "特效2": "¥3.00",
+            "特效7": "¥3.00",
+            "特效3": "¥3.00",
+            "100 sheets": "¥1.00",
+            "特效6": "¥3.00",
+            "特效5": "¥3.00",
+            "特效4": "¥3.00",
+            "特效1": "¥3.00"
+          }
+        },
+        {
           "timestamp": 1746847016133,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -38588,6 +38605,27 @@
           "timestamp": 1721960142187,
           "price": 28,
           "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1659258538": {
+    "name": "视频缓存器",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746867731970,
+          "price": 18,
+          "formattedPrice": "¥18.00",
           "inAppPurchases": {}
         }
       ]

@@ -17779,6 +17779,25 @@
     "history": [
       [
         {
+          "timestamp": 1746867731970,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "$0.00",
+            "ThemeA0B1C0": "$0.00",
+            "ThemeA1B0C0": "$0.00",
+            "ThemeA0B1C1": "$0.00",
+            "ThemeA1B0C1": "$0.00",
+            "ThemeA1B1C0": "$0.00",
+            "ThemeA2B0C0": "$0.00",
+            "主题大礼包": "$3.99",
+            "ThemeA2B0C1": "$3.99",
+            "ThemeA2B1C0": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746781348615,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -34174,7 +34193,16 @@
       "Dotted Grids & Graphs Papers": "$0.99",
       "Slouchy Cat Stickers": "$1.99",
       "2025 Business Life (Sun.Start)": "$10.99",
-      "2025 Business Life (Mon.Start)": "$10.99"
+      "2025 Business Life (Mon.Start)": "$10.99",
+      "Organized Study Planner (Rainb": "$10.99",
+      "Business Lifestyle Planner (Br": "$10.99",
+      "2025-2026 Smart Study Planner": "$10.99",
+      "12 Tab Paper Texture Study Not": "$6.99",
+      "Study Notebook with 120 Templa": "$6.99",
+      "Ultimate 2700 + Sticker Pack b": "$3.99",
+      "Business Minutes Notebook (Mon": "$6.99",
+      "Study & Plan Organizer Noteboo": "$6.99",
+      "Pastel Study Notebook": "$6.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -34281,10 +34309,35 @@
       "Dotted Grids & Graphs Papers": "$0.99",
       "Slouchy Cat Stickers": "$1.99",
       "2025 Business Life (Sun.Start)": "$10.99",
-      "2025 Business Life (Mon.Start)": "$10.99"
+      "2025 Business Life (Mon.Start)": "$10.99",
+      "Organized Study Planner (Rainb": "$10.99",
+      "Business Lifestyle Planner (Br": "$10.99",
+      "2025-2026 Smart Study Planner": "$10.99",
+      "12 Tab Paper Texture Study Not": "$6.99",
+      "Study Notebook with 120 Templa": "$6.99",
+      "Ultimate 2700 + Sticker Pack b": "$3.99",
+      "Business Minutes Notebook (Mon": "$6.99",
+      "Study & Plan Organizer Noteboo": "$6.99",
+      "Pastel Study Notebook": "$6.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746867731970,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Organized Study Planner (Rainb": "$10.99",
+            "Business Lifestyle Planner (Br": "$10.99",
+            "2025-2026 Smart Study Planner": "$10.99",
+            "12 Tab Paper Texture Study Not": "$6.99",
+            "Study Notebook with 120 Templa": "$6.99",
+            "Ultimate 2700 + Sticker Pack b": "$3.99",
+            "Business Minutes Notebook (Mon": "$6.99",
+            "Study & Plan Organizer Noteboo": "$6.99",
+            "Pastel Study Notebook": "$6.99"
+          }
+        },
         {
           "timestamp": 1746853333553,
           "price": 0,
@@ -50621,6 +50674,27 @@
           "timestamp": 1721960142187,
           "price": 3.99,
           "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1659258538": {
+    "name": "Video Cacher",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746867731970,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]

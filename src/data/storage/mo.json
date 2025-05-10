@@ -41282,6 +41282,25 @@
     "history": [
       [
         {
+          "timestamp": 1746867731970,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "護士禮包": "USD 4.99",
+            "解鎖旁觀者": "USD 2.99",
+            "解鎖九尾狐": "USD 2.99",
+            "賽季3戰鬥通行證": "USD 1.99",
+            "制服禮包": "USD 3.99",
+            "解鎖巴弗滅": "USD 2.99",
+            "賽季2戰鬥通行證": "USD 1.99",
+            "怪物禮包2": "USD 29.99",
+            "信息禮包": "USD 12.99",
+            "鍛造禮包": "USD 6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746781348615,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -41613,6 +41632,27 @@
           "timestamp": 1721960142187,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1659258538": {
+    "name": "Video Cacher",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746867731970,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]

@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1659258538,
+    name: {
+      mo: 'Video Cacher',
+    },
+    addType: 'auto',
+  },
+  {
     id: 983143183,
     name: {
       mo: '夢幻怪獸',
