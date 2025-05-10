@@ -19701,7 +19701,9 @@
       "Promote Pack 4": "₺449,99",
       "Promote Pack 2": "₺229,99",
       "Promote Pack 1": "₺129,99",
-      "Double backpack slots": "₺99,99"
+      "Double backpack slots": "₺99,99",
+      "Double Bonus": "₺99,99",
+      "A Large Bag of Gems": "₺899,99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -19715,9 +19717,30 @@
       "Promote Pack 4": "₺449,99",
       "Promote Pack 2": "₺229,99",
       "Promote Pack 1": "₺129,99",
-      "Double backpack slots": "₺99,99"
+      "Double backpack slots": "₺99,99",
+      "Double Bonus": "₺99,99",
+      "A Large Bag of Gems": "₺899,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746849746854,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Promote Pack 5": "₺699,99",
+            "Promote Pack 4": "₺449,99",
+            "Promote Pack 3": "₺349,99",
+            "Promote Pack 2": "₺229,99",
+            "Promote Pack 1": "₺129,99",
+            "Double backpack slots": "₺99,99",
+            "Genius Big Deal Pack": "₺99,99",
+            "Boxer Big Deal Pack": "₺99,99",
+            "Double Bonus": "₺99,99",
+            "A Large Bag of Gems": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -23290,6 +23313,22 @@
     "history": [
       [
         {
+          "timestamp": 1746849746854,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "MSR Anthology_Vol.02": "₺249,99",
+            "Endless Pirouette": "₺249,99",
+            "Rin·Len's Mirrorland": "₺399,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99",
+            "Valentine Stage": "₺179,99",
+            "Let's GROOVE": "₺179,99"
+          }
+        },
+        {
           "timestamp": 1746831739705,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -25954,7 +25993,7 @@
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99",
-      "Command Pack": "₺399,99",
+      "Command Pack": "₺499,99",
       "Early Unlock Cheats": "₺449,99",
       "Region Tour": "₺179,99",
       "Early Unlock Cheats (discount)": "₺229,99",
@@ -26008,6 +26047,25 @@
       "The Black Caves Expansion": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746849746854,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Command Pack": "₺499,99",
+            "Early Unlock Cheats": "₺449,99",
+            "Early Unlock Cheats (discount)": "₺229,99",
+            "All Advisors Unlock": "₺449,99",
+            "Campaign + Challenge": "₺229,99",
+            "Region Tour": "₺179,99",
+            "Armchair Architect Unlock": "₺39,99",
+            "Private Donor Unlock": "₺39,99",
+            "The Black Caves Expansion": "₺99,99",
+            "Drill Sergeant Unlock": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746687740168,
@@ -43922,6 +43980,25 @@
       "Concorde": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746849746854,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Airbus A350-1000": "₺179,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Global scenery - 12 months": "₺399,99",
+            "Boeing 737": "₺39,99",
+            "Boeing 777-300ER": "₺99,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 787-10": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746817328410,
