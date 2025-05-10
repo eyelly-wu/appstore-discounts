@@ -34021,6 +34021,19 @@
     "history": [
       [
         {
+          "timestamp": 1746840575750,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$6.99"
+          }
+        },
+        {
           "timestamp": 1746763400158,
           "price": 0,
           "formattedPrice": "Free",
@@ -47824,6 +47837,23 @@
     "history": [
       [
         {
+          "timestamp": 1746840575750,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Tower Necromancer": "$4.99",
+            "Mega Tower Bundle": "$14.99",
+            "Tower Dune Sentinels": "$2.99",
+            "All Towers": "$19.99",
+            "Tower Grim Wraiths": "$6.99"
+          }
+        },
+        {
           "timestamp": 1746828137022,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -57726,7 +57756,8 @@
       "Antares 21E": "$0.99",
       "ASK 21": "$0.99",
       "Airbus A321": "$1.99",
-      "Concorde": "$1.99"
+      "Concorde": "$1.99",
+      "Boeing 747-400": "$1.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -57747,9 +57778,29 @@
       "Antares 21E": "$0.99",
       "ASK 21": "$0.99",
       "Airbus A321": "$1.99",
-      "Concorde": "$1.99"
+      "Concorde": "$1.99",
+      "Boeing 747-400": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746840575750,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Airbus A350-1000": "$3.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 737-900": "$1.99",
+            "Boeing 747-400": "$1.99",
+            "Boeing 787-10": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746162152577,

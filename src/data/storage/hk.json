@@ -6630,6 +6630,25 @@
     "history": [
       [
         {
+          "timestamp": 1746840575750,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Vehicles pack": "HK$ 88.00",
+            "Tools Pack": "HK$ 48.00",
+            "Scary Pack": "HK$ 88.00",
+            "Weapon Pack": "HK$ 48.00",
+            "Minecraft Pets Pack": "HK$ 88.00",
+            "Minecraft Morph Pack": "HK$ 48.00",
+            "Marketplace Pass Full": "HK$ 32.00",
+            "Marketplace Pass Trial": "HK$ 32.00",
+            "The Incredibles": "HK$ 58.00",
+            "Marketplace Pass w/trial": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746180150402,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -59458,7 +59477,8 @@
       "99.99美元商品": "HK$ 788.00",
       "29.99美元商品": "HK$ 228.00",
       "8.99美元商品": "HK$ 68.00",
-      "0.99美元商品": "HK$ 8.00"
+      "0.99美元商品": "HK$ 8.00",
+      "3.99美元商品": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 2,
@@ -59473,9 +59493,28 @@
       "99.99美元商品": "HK$ 788.00",
       "29.99美元商品": "HK$ 228.00",
       "8.99美元商品": "HK$ 68.00",
-      "0.99美元商品": "HK$ 8.00"
+      "0.99美元商品": "HK$ 8.00",
+      "3.99美元商品": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746840575750,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "99.99美元商品": "HK$ 788.00",
+            "49.99美元商品": "HK$ 388.00",
+            "0.99美元商品": "HK$ 8.00",
+            "3.99美元商品": "HK$ 32.00",
+            "12.99美元商品2": "HK$ 98.00",
+            "14.99美元商品": "HK$ 118.00",
+            "3.99美元商品2": "HK$ 32.00",
+            "19.99美元商品": "HK$ 148.00",
+            "12.99美元商品": "HK$ 98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746460951400,
