@@ -204,4 +204,22 @@ declare global {
   }
 
   type RegionAppTopInfo = Record<Region, AppTopInfo[]>
+
+  type DiscountStats = Record<
+    string,
+    {
+      /** 总共的次数 */
+      all: number
+      /** 价格的次数 */
+      price: number
+      /** app 内购购买项的次数 */
+      inAppPurchase: Record<string, number>
+    }
+  >
+
+  /** 月度榜数据 */
+  type RegionMonthlyDiscountStats = Record<Region, DiscountStats> & {
+    /** 格式为 YYYY-MM */
+    month: string
+  }
 }

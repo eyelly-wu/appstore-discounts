@@ -36,7 +36,7 @@ async function controller() {
 
   const regionStorageAppInfo = getStorageAppInfo(regions)
 
-  const regionDiscountInfos =
+  const regionDiscountInfo =
     calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo(
       timestamp,
       regions,
@@ -46,11 +46,15 @@ async function controller() {
 
   setStorageAppInfo(regions, regionStorageAppInfo)
 
-  updateFeeds(regionDiscountInfos)
+  updateFeeds({
+    regionDiscountInfo,
+    appConfig,
+    regionStorageAppInfo,
+  })
 
-  await pushTelegramNotification(regionDiscountInfos)
+  await pushTelegramNotification(regionDiscountInfo)
 
-  await pushDingTalkNotification(regionDiscountInfos)
+  await pushDingTalkNotification(regionDiscountInfo)
 
   end('controller')
   summarize()
