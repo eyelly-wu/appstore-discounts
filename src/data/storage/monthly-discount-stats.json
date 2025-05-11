@@ -8,6 +8,13 @@
     }
   },
   "hk": {
+    "1198176727": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime license": 1
+      }
+    },
     "6447693393": {
       "all": 1,
       "price": 1,
@@ -29,11 +36,27 @@
     }
   },
   "us": {
+    "904278510": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Extra Large Money Pack": 1,
+        "Starter Pack": 1
+      }
+    },
     "6447693393": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
     }
   },
-  "tr": {}
+  "tr": {
+    "1436429074": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "UPGRADE PRO": 1
+      }
+    }
+  }
 }

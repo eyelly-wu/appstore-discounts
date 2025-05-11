@@ -21112,7 +21112,17 @@
       "Hollywood Theme Bundle": "₺299,99",
       "Murder Express train station": "₺179,99",
       "Classic Mansion": "₺179,99",
-      "Ultimate Detective Collection": "₺899,99"
+      "Ultimate Detective Collection": "₺899,99",
+      "4 Hint Cards": "₺39,99",
+      "10 Hint Cards": "₺99,99",
+      "16 Hint Cards": "₺129,99",
+      "28 Hint Cards": "₺229,99",
+      "50 Hint Cards": "₺349,99",
+      "200 Hint Cards": "₺1.199,99",
+      "Warning": "₺99,99",
+      "Classic Miss Scarlett": "₺129,99",
+      "Classic Reverend Green": "₺129,99",
+      "Classic Professor Plum": "₺129,99"
     },
     "minPriceInfo": {
       "price": 299.99,
@@ -21127,9 +21137,38 @@
       "Hollywood Theme Bundle": "₺299,99",
       "Murder Express train station": "₺179,99",
       "Classic Mansion": "₺179,99",
-      "Ultimate Detective Collection": "₺899,99"
+      "Ultimate Detective Collection": "₺899,99",
+      "4 Hint Cards": "₺39,99",
+      "10 Hint Cards": "₺99,99",
+      "16 Hint Cards": "₺129,99",
+      "28 Hint Cards": "₺229,99",
+      "50 Hint Cards": "₺349,99",
+      "200 Hint Cards": "₺1.199,99",
+      "Warning": "₺99,99",
+      "Classic Miss Scarlett": "₺129,99",
+      "Classic Reverend Green": "₺129,99",
+      "Classic Professor Plum": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746968829407,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "4 Hint Cards": "₺39,99",
+            "10 Hint Cards": "₺99,99",
+            "16 Hint Cards": "₺129,99",
+            "28 Hint Cards": "₺229,99",
+            "50 Hint Cards": "₺349,99",
+            "200 Hint Cards": "₺1.199,99",
+            "Warning": "₺99,99",
+            "Classic Miss Scarlett": "₺129,99",
+            "Classic Reverend Green": "₺129,99",
+            "Classic Professor Plum": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746412324530,
@@ -26079,6 +26118,23 @@
       "WEDDING SERIES FILM": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746968829407,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "UPGRADE PRO": "₺119,99",
+            "FUJI SERIES FILM": "₺229,99",
+            "KODAK SERIES FILM": "₺249,99",
+            "WEDDING SERIES FILM": "₺229,99",
+            "RETRO SERIES FILM": "₺229,99",
+            "IU SERIES FILM": "₺229,99",
+            "LOMO SERIES": "₺229,99",
+            "UPGRADE PRO VERSION": "₺2.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746712941022,
@@ -38583,7 +38639,8 @@
       "New Leaders": "₺229,99",
       "Ultimate Pack (discount)": "₺499,99",
       "Survival Guide": "₺129,99",
-      "Ultimate Pack (big discount)": "₺229,99"
+      "Ultimate Pack (big discount)": "₺229,99",
+      "Season 1 Pack (full)": "₺899,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -38597,9 +38654,29 @@
       "New Leaders": "₺229,99",
       "Ultimate Pack (discount)": "₺499,99",
       "Survival Guide": "₺129,99",
-      "Ultimate Pack (big discount)": "₺229,99"
+      "Ultimate Pack (big discount)": "₺229,99",
+      "Season 1 Pack (full)": "₺899,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746968829407,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Beyond the Bunkers": "₺299,99",
+            "Season 1 Pack (discount)": "₺299,99",
+            "Ultimate Pack (discount)": "₺499,99",
+            "Critical Mass": "₺299,99",
+            "Survival Guide": "₺129,99",
+            "Ultimate Pack (big discount)": "₺229,99",
+            "Ultimate Pack": "₺699,99",
+            "Season 1 Pack": "₺449,99",
+            "Season 1 Pack (full)": "₺899,99",
+            "Cheats & Punishment": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
