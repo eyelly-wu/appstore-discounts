@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1060082362,
+    name: {
+      mo: 'OrthoFlow',
+    },
+    addType: 'auto',
+  },
+  {
     id: 486578707,
     name: {
       mo: 'Unofficial Minifigure Catalog',
