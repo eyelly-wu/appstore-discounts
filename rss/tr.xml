@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-11T10:21:16.341Z</updated>
+    <updated>2025-05-11T10:42:59.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -11,7 +11,6 @@
     </author>
     <link rel="alternate" href="https://apps.apple.com/tr/app"/>
     <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/eyelly-wu/appstore-discounts)
-This message is used to verify that this feed (feedId:99063474310237184) belongs to me (userId:73658201673997312). Join me in enjoying the next generation information browser https://follow.is.
 feedId:99063474310237184+userId:73658201673997312
 </subtitle>
     <logo>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</logo>
@@ -21,11 +20,77 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-11T10:21:16.341Z</updated>
+        <updated>2025-05-11T10:42:59.963Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical Data Report]]></title>
+        <id>rankingSun, 11 May 2025 10:42:59 GMT</id>
+        <link href="https://github.com/eyelly-wu/appstore-discounts"/>
+        <updated>2025-05-11T10:42:59.963Z</updated>
+        <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
+        <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
+  <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>中国台湾(TW)</li><li>美国(US)</li><li>土耳其(TR)</li>
+</ol><h2>Statistics of the Number of App Tracked</h2><table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Total Apps</th>
+      <th>Artificially Added</th>
+      <th>Automatically Added</th>
+      <th>Prohibit Push</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>All</td>
+      <td>
+        <b>1046</b>
+      </td>
+      <td>
+        <b>201</b>
+      </td>
+      <td>
+        <b>845</b>
+      </td>
+      <td>
+        <b>9</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>TR</b>
+      </td>
+      <td>
+        <b>946</b>
+      </td>
+      <td>
+        <b>172</b>
+      </td>
+      <td>
+        <b>774</b>
+      </td>
+      <td>
+        <b>9</b>
+      </td>
+    </tr>
+  </tbody>
+</table><h2>Ranking of App Discounts This Month(TR)</h2><blockquote>Since it supports applications that automatically add tracking based on paid application rankings, most applications are now automatically added, and the quality of the application is unknown and uncontrollable. The current ranking will be used as a reference for subsequent disabling push.</blockquote><table>
+  <thead>
+    <tr>
+      <th>Ranking</th>
+      <th>App ID</th>
+      <th>App Name</th>
+      <th>Total Times</th>
+      <th>Price</th>
+      <th>In-App Purchases</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[灵感卡片 - 创意笔记]]></title>

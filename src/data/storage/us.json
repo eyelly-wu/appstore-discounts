@@ -60002,10 +60002,18 @@
       "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746958982258,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745481777335,
