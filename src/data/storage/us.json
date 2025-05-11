@@ -16721,6 +16721,23 @@
     "history": [
       [
         {
+          "timestamp": 1746972131186,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Starter Pack": "$4.99",
+            "Largo Sniper Rifle": "$0.99",
+            "Aria Sniper Rifle": "$9.99",
+            "Brutus Sniper Rifle": "$5.99",
+            "The Merry Maker Rifle": "$14.99",
+            "Aria Gold Sniper Rifle": "$24.99",
+            "Small Money Pack": "$0.99",
+            "Dragun": "$14.99",
+            "Exorcist": "$14.99",
+            "Extra Large Money Pack": "$9.99"
+          }
+        },
+        {
           "timestamp": 1746968829407,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -22550,6 +22567,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746972131186,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "$2.99",
+            "Monkey Money": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Pile O Monkey Money": "$4.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Vault O Monkey Money Sale": "$11.99",
+            "Tier 4 Insta Monkeys Pack Sale": "$3.99",
+            "Knowledge Point": "$0.99",
+            "10 Knowledge Points": "$7.99",
+            "Paragon Unlock": "$4.99"
+          }
+        },
         {
           "timestamp": 1746968829407,
           "price": 6.99,
@@ -51937,6 +51971,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746972131186,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746933657417,
