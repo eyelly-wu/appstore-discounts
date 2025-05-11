@@ -13,12 +13,14 @@ export function saveRegionFeed(feeds: RegionFeed) {
 }
 
 export function generateRegionFeed(props: {
+  timestamp: number
   regionDiscountInfo: RegionDiscountInfo
   appConfig: AppConfig[]
   regionStorageAppInfo: RegionStorageAppInfo
   regionMonthlyDiscountStats: RegionMonthlyDiscountStats
 }) {
   const {
+    timestamp,
     regionDiscountInfo,
     appConfig,
     regionStorageAppInfo,
@@ -27,7 +29,11 @@ export function generateRegionFeed(props: {
 
   const regionFeed = Object.entries(regionDiscountInfo).reduce(
     (res, [key, discountInfos]) => {
-      if (discountInfos.length === 0) return res
+      const latestLength = discountInfos.filter(
+        (discountInfo) => discountInfo.timestamp === timestamp,
+      ).length
+
+      if (latestLength === 0) return res
 
       const region = key as Region
 

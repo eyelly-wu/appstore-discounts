@@ -47,6 +47,7 @@ async function controller() {
   setStorageAppInfo(regions, regionStorageAppInfo)
 
   updateFeeds({
+    timestamp,
     regionDiscountInfo,
     appConfig,
     regionStorageAppInfo,
