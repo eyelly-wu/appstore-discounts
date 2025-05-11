@@ -452,7 +452,8 @@
       "500 eggs": "₺39,99",
       "10,000 gold": "₺39,99",
       "100,000 gold": "₺99,99",
-      "15000 eggs": "₺129,99"
+      "15000 eggs": "₺129,99",
+      "100,000 coins": "₺179,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -466,9 +467,29 @@
       "500 eggs": "₺39,99",
       "10,000 gold": "₺39,99",
       "100,000 gold": "₺99,99",
-      "15000 eggs": "₺129,99"
+      "15000 eggs": "₺129,99",
+      "100,000 coins": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746927000767,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "10,000 coins": "₺99,99",
+            "1000 coins": "₺39,99",
+            "30,000 coins": "₺129,99",
+            "1000 candies": "₺39,99",
+            "100,000 coins": "₺179,99",
+            "10000 candies": "₺129,99",
+            "5000 eggs": "₺99,99",
+            "500 eggs": "₺39,99",
+            "10,000 gold": "₺39,99",
+            "100,000 gold": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -18829,6 +18850,25 @@
       "10 Knowledge Points": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746927000767,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺129,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺229,99",
+            "Pile O Monkey Money": "₺229,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Paragon Unlock": "₺229,99",
+            "Double Cash Mode": "₺399,99",
+            "Vault O Monkey Money": "₺899,99",
+            "10 Knowledge Points": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746806549043,
