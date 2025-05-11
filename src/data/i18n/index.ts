@@ -1,10 +1,14 @@
 import { initI18n } from 'i18n-pro'
+import docsEn from '../../../docs/src/i18n/en.json'
 import en from './en.json'
 
 const { t, withI18n } = initI18n({
   namespace: 'data',
   langs: {
-    en,
+    en: {
+      ...docsEn,
+      ...en,
+    },
   },
   formatPlural({ keyword, text, payload, locale }) {
     let res = text
