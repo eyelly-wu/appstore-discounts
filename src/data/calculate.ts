@@ -37,7 +37,7 @@ function getPriceRange(
     const maxPrice = getPrice(max, region)
 
     if (value !== minPrice || value !== maxPrice) {
-      return `[${min} ~ ${max})]`
+      return `[${min} ~ ${max}]`
     }
   }
 
