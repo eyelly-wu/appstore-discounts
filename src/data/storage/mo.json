@@ -32246,6 +32246,21 @@
     "history": [
       [
         {
+          "timestamp": 1746950548921,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Theme Collection": "USD 19.99",
+            "Explorer Pack": "USD 10.99",
+            "The Complete Collection": "USD 34.99",
+            "City Break": "USD 1.99",
+            "Victorian London Board": "USD 5.99",
+            "Welcome Offer": "USD 19.99",
+            "New York 2121 Board": "USD 5.99",
+            "Orient Express": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1746946931967,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -34458,6 +34473,14 @@
       "formattedPrice": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746950548921,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746021743211,
@@ -37383,6 +37406,22 @@
       "Gems pack 1": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746950548921,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Starter pack": "USD 4.99",
+            "Stars pack 3": "USD 2.99",
+            "Stars Pack 2": "USD 1.99",
+            "Stars Pack 1": "USD 0.99",
+            "Gems pack 3": "USD 2.99",
+            "Gems pack 2": "USD 1.99",
+            "Gems pack 1": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746021743211,
