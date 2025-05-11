@@ -7071,6 +7071,46 @@
       ]
     ]
   },
+  "486578707": {
+    "name": "Unofficial Minifigure Catalog",
+    "maxPriceInfo": {
+      "2011": "$0.99",
+      "2012": "$0.99",
+      "2013": "$0.99",
+      "2014": "$0.99",
+      "2015": "$0.99",
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Non-Standard Scale": "$1.99"
+    },
+    "minPriceInfo": {
+      "2011": "$0.99",
+      "2012": "$0.99",
+      "2013": "$0.99",
+      "2014": "$0.99",
+      "2015": "$0.99",
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Non-Standard Scale": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746982927984,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "2011": "$0.99",
+            "2012": "$0.99",
+            "2013": "$0.99",
+            "2014": "$0.99",
+            "2015": "$0.99",
+            "Non-Standard Scale": "$1.99"
+          }
+        }
+      ]
+    ]
+  },
   "488674899": {
     "name": "RAIN RADAR °- sky weather NOAA",
     "maxPriceInfo": {
@@ -34488,6 +34528,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746982927984,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "RadarOmega - Alpha Monthly": "$11.99",
+            "Data Level Gamma": "$49.99",
+            "Data Level Beta": "$89.99",
+            "RapidSweep": "$7.99",
+            "Data Level Alpha": "$119.99",
+            "Add-on RapidSweep": "$84.99"
+          }
+        },
         {
           "timestamp": 1746979334789,
           "price": 8.99,

@@ -6625,6 +6625,46 @@
       ]
     ]
   },
+  "486578707": {
+    "name": "Unofficial Minifigure Catalog",
+    "maxPriceInfo": {
+      "2011": "$30.00",
+      "2012": "$30.00",
+      "2013": "$30.00",
+      "2014": "$30.00",
+      "2015": "$30.00",
+      "price": 150,
+      "formattedPrice": "$150.00",
+      "Non-Standard Scale": "$60.00"
+    },
+    "minPriceInfo": {
+      "2011": "$30.00",
+      "2012": "$30.00",
+      "2013": "$30.00",
+      "2014": "$30.00",
+      "2015": "$30.00",
+      "price": 150,
+      "formattedPrice": "$150.00",
+      "Non-Standard Scale": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1746982927984,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "2011": "$30.00",
+            "2012": "$30.00",
+            "2013": "$30.00",
+            "2014": "$30.00",
+            "2015": "$30.00",
+            "Non-Standard Scale": "$60.00"
+          }
+        }
+      ]
+    ]
+  },
   "488674899": {
     "name": "雨雷達 ° -實時天氣圖",
     "maxPriceInfo": {
@@ -17152,6 +17192,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746982927984,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "PLUS": "$150.00",
+            "GOLD": "$1,290.00"
+          }
+        },
         {
           "timestamp": 1746979334789,
           "price": 30,
