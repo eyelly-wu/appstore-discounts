@@ -1865,6 +1865,25 @@
     "history": [
       [
         {
+          "timestamp": 1746957730592,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro": "$14.99",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Beethoven: The Mutopia Collection": "$0.99",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Händel: The Mutopia Collection": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746853333553,
           "price": 24.99,
           "formattedPrice": "$24.99",
@@ -14273,7 +14292,8 @@
       "Figo 100 Octane Fuel Pack - 20": "$3.99",
       "Racing Prodigy 50 Quali Tyres": "$4.99",
       "RP Small Tyre Pack - Mediums": "$2.99",
-      "Le Cont Softs - 40 Tyres Pack": "$3.99"
+      "Le Cont Softs - 40 Tyres Pack": "$3.99",
+      "Racing Prodigy X30 Atlanta": "$14.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -14289,9 +14309,29 @@
       "Figo 100 Octane Fuel Pack - 20": "$3.99",
       "Racing Prodigy 50 Quali Tyres": "$4.99",
       "RP Small Tyre Pack - Mediums": "$2.99",
-      "Le Cont Softs - 40 Tyres Pack": "$3.99"
+      "Le Cont Softs - 40 Tyres Pack": "$3.99",
+      "Racing Prodigy X30 Atlanta": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746957730592,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "700 Aces": "$9.99",
+            "Race Pass": "$4.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "15000 Aces": "$99.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Racing Prodigy X30 Atlanta": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746408611881,
@@ -44333,6 +44373,25 @@
       "Mystery Mix Pack 12": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746957730592,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$4.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$9.99",
+            "Midnight Bedroom Pack": "$1.99",
+            "Generations Gen Z Pack": "$0.99",
+            "Midnight Night Out Pack": "$1.99",
+            "Ready to Roast": "$2.99",
+            "Celebrity Deck": "$2.99",
+            "Sports and Games Pack": "$2.99",
+            "Mystery Mix Pack 1": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746677006908,
