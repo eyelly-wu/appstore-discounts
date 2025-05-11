@@ -30702,6 +30702,14 @@
     "history": [
       [
         {
+          "timestamp": 1746946931967,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746799336853,
           "price": 0.49,
           "formattedPrice": "USD 0.49",
@@ -32236,6 +32244,21 @@
       "Five Dice Bundle": "USD 12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746946931967,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Victorian London Marine Bundle": "USD 11.99",
+            "The Slam Dunk Bundle": "USD 4.99",
+            "Blazin' Blue the Monster Truck": "USD 9.99",
+            "Transylvania Marine Bundle": "USD 11.99",
+            "Paris Marine Bundle": "USD 11.99",
+            "Five Dice Bundle": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746766943792,

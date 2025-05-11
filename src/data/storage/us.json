@@ -18817,9 +18817,23 @@
       "生辰-季度会员": "$9.99",
       "生辰年度会员": "$7.99",
       "月度会员": "$1.99",
-      "永久会员": "$14.99"
+      "永久会员": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746946931967,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$12.99",
+            "生辰-年度会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "月度会员": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744773416426,
@@ -24729,6 +24743,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746946931967,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Hero Tank": "$5.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Tower Goblin War Zeppelin": "$6.99",
+            "Pirate Kings Campaign!": "$7.99"
+          }
+        },
         {
           "timestamp": 1746936224523,
           "price": 4.99,
@@ -38334,6 +38365,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746946931967,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746847016133,

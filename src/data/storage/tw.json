@@ -9320,7 +9320,8 @@
       "SLS 2018: World Championship": "$30.00",
       "Mountain of Bolts": "$2,990.00",
       "Skatepark: Love Park": "$30.00",
-      "SLS Hangar": "$90.00"
+      "SLS Hangar": "$90.00",
+      "SLS 2016 Course Pack": "$60.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -9347,9 +9348,29 @@
       "SLS 2018: World Championship": "$30.00",
       "Mountain of Bolts": "$2,990.00",
       "Skatepark: Love Park": "$30.00",
-      "SLS Hangar": "$90.00"
+      "SLS Hangar": "$90.00",
+      "SLS 2016 Course Pack": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746946931967,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Skatepark: The Berrics": "$60.00",
+            "Skatepark: Mondo Ramp": "$30.00",
+            "Skatepark: The Factory": "$30.00",
+            "Skatepark 6 Pack": "$150.00",
+            "Skatepark: The Valley": "$30.00",
+            "SLS 2016 Course Pack": "$60.00",
+            "Skatepark of Tampa": "$30.00",
+            "Skatepark: Love Park": "$30.00",
+            "SLS Hangar": "$90.00",
+            "Skatepark: Havasu": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746828137022,
@@ -19171,6 +19192,23 @@
       "超值禮包1": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746946931967,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "[小堆水晶]": "$30.00",
+            "[小盒水晶]": "$90.00",
+            "[大袋水晶]": "$320.00",
+            "[小袋水晶]": "$120.00",
+            "[大箱水晶]": "$1,490.00",
+            "[小箱水晶]": "$690.00",
+            "Package4": "$320.00",
+            "貪婪洞窟點券": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746417819615,
@@ -36748,6 +36786,23 @@
     "history": [
       [
         {
+          "timestamp": 1746946931967,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Teammate Package#2": "$150.00",
+            "Bronze Decree": "$890.00",
+            "Heroic Package#3": "$1,490.00",
+            "Role Package III": "$320.00",
+            "Suit Package": "$990.00",
+            "Teammate Package": "$150.00",
+            "Role Package": "$90.00",
+            "英雄礼包II": "$320.00",
+            "Heroic Package#1": "$320.00",
+            "Resource Package": "$90.00"
+          }
+        },
+        {
           "timestamp": 1746922194434,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -37757,6 +37812,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746946931967,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746799336853,
