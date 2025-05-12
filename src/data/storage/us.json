@@ -4984,6 +4984,27 @@
       ]
     ]
   },
+  "440666387": {
+    "name": "CHEMIST by THIX",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747083730281,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "449735650": {
     "name": "Where's My Water?",
     "maxPriceInfo": {
@@ -40284,6 +40305,23 @@
     "history": [
       [
         {
+          "timestamp": 1747083730281,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "长期VIP权限": "$39.99",
+            "每日英语听力VIP订阅": "$3.99",
+            "一年VIP权限": "$19.99",
+            "《每日外刊》订阅": "$8.99",
+            "看美剧《小谢尔顿》学英语 第一辑": "$19.99",
+            "《了不起的盖茨比》": "$5.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$29.99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "$29.99",
+            "Albert：不走弯路学英语": "$5.99",
+            "聆听诺奖背后的时代之音": "$14.99"
+          }
+        },
+        {
           "timestamp": 1747080151699,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -62496,6 +62534,27 @@
           "timestamp": 1747062149443,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6480058345": {
+    "name": "Kaiju Attack 2",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747083730281,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]
