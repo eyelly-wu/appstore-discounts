@@ -9793,6 +9793,23 @@
     "history": [
       [
         {
+          "timestamp": 1747055497515,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "HK$ 8.00",
+            "Skatepark: The Factory": "HK$ 8.00",
+            "Skatepark: The Berrics": "HK$ 18.00",
+            "Skatepark 6 Pack": "HK$ 38.00",
+            "Skatepark of Tampa": "HK$ 8.00",
+            "Sandbox Monthly": "HK$ 38.00",
+            "Skatepark: Inbound": "HK$ 8.00",
+            "Skatepark: The Valley": "HK$ 8.00",
+            "Skatepark: Havasu": "HK$ 18.00",
+            "SLS 2016 Course Pack": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1746979334789,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -18153,14 +18170,22 @@
   "953426154": {
     "name": "Be Focused Pro – 專工作學習番茄計時器",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747055497515,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746428543760,
@@ -58230,6 +58255,25 @@
       "John Deere 8R 410": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747055497515,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "HK$ 22.00",
+            "Krone BiG Pack 1290 HDP VC": "HK$ 8.00",
+            "Kotte PQ 32000": "HK$ 8.00",
+            "Mack Trucks Black Anthem 6x4": "HK$ 18.00",
+            "Claas Xerion 5000": "HK$ 18.00",
+            "John Deere 8R 410": "HK$ 18.00",
+            "Amazone CITAN 15001-C": "HK$ 8.00",
+            "KINZE 3665 Blue Drive": "HK$ 8.00",
+            "ClaasLexion8900+ConvioFlex1380": "HK$ 22.00",
+            "200'000 Coins": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746547354371,

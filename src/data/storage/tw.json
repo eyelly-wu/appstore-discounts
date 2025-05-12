@@ -18077,14 +18077,22 @@
   "953426154": {
     "name": "Be Focused Pro – 專工作學習番茄計時器",
     "maxPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 390,
+      "formattedPrice": "$390.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747055497515,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746424998695,
@@ -26344,7 +26352,8 @@
       "Battle CHAOS 2019": "$150.00",
       "Alice": "$320.00",
       "Neko": "$320.00",
-      "maimai DX+": "$60.00"
+      "maimai DX+": "$60.00",
+      "JOE": "$320.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -26359,9 +26368,29 @@
       "Battle CHAOS 2019": "$60.00",
       "Alice": "$320.00",
       "Neko": "$320.00",
-      "maimai DX+": "$60.00"
+      "maimai DX+": "$60.00",
+      "JOE": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747055497515,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Miku": "$320.00",
+            "CAPSO": "$320.00",
+            "ConneR": "$320.00",
+            "Xenon": "$320.00",
+            "9 Characters": "$1,190.00",
+            "Cherry": "$320.00",
+            "Kizuna AI": "$320.00",
+            "Battle CHAOS 2019": "$60.00",
+            "Alice": "$320.00",
+            "JOE": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746936224523,
@@ -48542,6 +48571,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747055497515,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "巨大的威脅": "$290.00",
+            "Hero Lumenir": "$220.00",
+            "所有塔": "$490.00",
+            "所有英雄": "$990.00",
+            "科斯米爾": "$220.00",
+            "骷心巫龍": "$220.00",
+            "希瓦菈": "$220.00",
+            "暮光長弓手": "$150.00",
+            "沙丘哨兵": "$90.00"
+          }
+        },
         {
           "timestamp": 1747013427423,
           "price": 220,
