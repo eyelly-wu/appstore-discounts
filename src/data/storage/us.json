@@ -38542,7 +38542,8 @@
       "Black Friday Combo Items": "$29.99",
       "Double Exp Package 2": "$1.99",
       "Flash Sale Ultimate Essence 2": "$9.99",
-      "Flash Sale Soul 2": "$2.99"
+      "Flash Sale Soul 2": "$2.99",
+      "BundleSupporter Crystal 1": "$9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -38571,9 +38572,29 @@
       "Black Friday Combo Items": "$29.99",
       "Double Exp Package 2": "$1.99",
       "Flash Sale Ultimate Essence 2": "$9.99",
-      "Flash Sale Soul 2": "$2.99"
+      "Flash Sale Soul 2": "$2.99",
+      "BundleSupporter Crystal 1": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747065756927,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Double Exp Package 1": "$0.99",
+            "BundleSupporter Crystal 1": "$9.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Crystal 3": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746720156360,
