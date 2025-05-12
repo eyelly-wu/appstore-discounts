@@ -45088,7 +45088,12 @@
       "Boeing 787-10": "₺99,99",
       "EC135": "₺39,99",
       "Boeing 737": "₺39,99",
-      "Concorde": "₺99,99"
+      "Concorde": "₺99,99",
+      "Robin DR400": "₺39,99",
+      "Boeing 777F": "₺99,99",
+      "Airbus A319": "₺99,99",
+      "Antares 21E": "₺39,99",
+      "ASK 21": "₺39,99"
     },
     "minPriceInfo": {
       "price": 179.99,
@@ -45108,10 +45113,32 @@
       "Boeing 787-10": "₺99,99",
       "EC135": "₺39,99",
       "Boeing 737": "₺39,99",
-      "Concorde": "₺99,99"
+      "Concorde": "₺99,99",
+      "Robin DR400": "₺39,99",
+      "Boeing 777F": "₺99,99",
+      "Airbus A319": "₺99,99",
+      "Antares 21E": "₺39,99",
+      "ASK 21": "₺39,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747040567155,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Airbus A350-1000": "₺179,99",
+            "Robin DR400": "₺39,99",
+            "Boeing 777F": "₺99,99",
+            "Airbus A319": "₺99,99",
+            "Antares 21E": "₺39,99",
+            "ASK 21": "₺39,99",
+            "Airbus A321": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 1 month": "₺129,99",
+            "Global scenery - 3 months": "₺229,99"
+          }
+        },
         {
           "timestamp": 1747000926453,
           "price": 179.99,
