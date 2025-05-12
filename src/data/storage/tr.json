@@ -45561,14 +45561,22 @@
   "6740014272": {
     "name": "Fruit Merge - Watch Game",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747017118963,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745419646428,
