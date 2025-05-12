@@ -59342,6 +59342,23 @@
     "history": [
       [
         {
+          "timestamp": 1747013427423,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Airbus A350-1000": "$3.99",
+            "Boeing 737-900": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A380": "$1.99",
+            "Concorde": "$1.99",
+            "UH-60": "$0.99"
+          }
+        },
+        {
           "timestamp": 1747000926453,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -60744,7 +60761,8 @@
       "Season MLB 2000": "$0.99",
       "Season MLB 2004": "$0.99",
       "Season MLB 1969": "$0.99",
-      "Season MLB 2003": "$0.99"
+      "Season MLB 2003": "$0.99",
+      "Season MLB 2013": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -60775,10 +60793,28 @@
       "Season MLB 2000": "$0.99",
       "Season MLB 2004": "$0.99",
       "Season MLB 1969": "$0.99",
-      "Season MLB 2003": "$0.99"
+      "Season MLB 2003": "$0.99",
+      "Season MLB 2013": "$0.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747013427423,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "Season MLB 2016": "$0.99",
+            "Season MLB 2013": "$0.99",
+            "Season MLB 2024": "$0.99",
+            "Season MLB 1901": "$0.99"
+          }
+        },
         {
           "timestamp": 1746939736800,
           "price": 9.99,

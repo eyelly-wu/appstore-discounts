@@ -19703,6 +19703,24 @@
     "history": [
       [
         {
+          "timestamp": 1747013427423,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Pile of caps": "$150.00",
+            "Special pack": "$150.00",
+            "Big pack": "$690.00",
+            "Seasonal event item": "$150.00",
+            "Great pack": "$320.00",
+            "Small pack": "$30.00",
+            "Huge pack": "$1,490.00",
+            "Standart pack": "$60.00",
+            "Case with caps": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746828137022,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -25425,7 +25443,8 @@
       "Mountain of gems": "$2,990.00",
       "Special Offer": "$190.00",
       "Chest of gems": "$690.00",
-      "Hero Dianyun": "$190.00"
+      "Hero Dianyun": "$190.00",
+      "Tower Blazing Gem": "$150.00"
     },
     "minPriceInfo": {
       "price": 150,
@@ -25456,9 +25475,29 @@
       "Mountain of gems": "$2,990.00",
       "Special Offer": "$190.00",
       "Chest of gems": "$690.00",
-      "Hero Dianyun": "$190.00"
+      "Hero Dianyun": "$190.00",
+      "Tower Blazing Gem": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747013427423,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Mega Tower Bundle": "$490.00",
+            "Mega Heroe Bundle": "$590.00",
+            "Hero Beresad": "$220.00",
+            "Hammerhold Campaign!": "$290.00",
+            "Pirate Kings Campaign!": "$290.00",
+            "Tower Deep Devil's Reef": "$90.00",
+            "Tower Grim Cemetery": "$90.00",
+            "Tower Shaolin Temple": "$90.00",
+            "Tower Blazing Gem": "$150.00",
+            "Hero Mortemis": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746936224523,
@@ -48388,6 +48427,23 @@
     "history": [
       [
         {
+          "timestamp": 1747013427423,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "巨大的威脅": "$290.00",
+            "Hero Lumenir": "$220.00",
+            "所有塔": "$490.00",
+            "所有英雄": "$690.00",
+            "科斯米爾": "$220.00",
+            "骷心巫龍": "$220.00",
+            "希瓦菈": "$220.00",
+            "暮光長弓手": "$150.00",
+            "沙丘哨兵": "$90.00",
+            "幽冥戰魂": "$220.00"
+          }
+        },
+        {
           "timestamp": 1746979334789,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -55376,6 +55432,25 @@
       "巾幗綻芳華": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747013427423,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "戰國七雄": "$120.00",
+            "楚漢爭霸": "$120.00",
+            "虎嘯鳳鳴": "$60.00",
+            "自創武將": "$120.00",
+            "重振漢室": "$60.00",
+            "自創武將朝代特色兵種補丁": "$120.00",
+            "自創武將朝代服裝發飾素材補丁": "$120.00",
+            "北境狂人": "$60.00",
+            "群雄爭霸": "$60.00",
+            "巾幗綻芳華": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746840575750,
