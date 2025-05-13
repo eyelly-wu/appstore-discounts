@@ -1057,6 +1057,25 @@
     "history": [
       [
         {
+          "timestamp": 1747148552586,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "HAA Link": "$9.99",
+            "HAA Pro Module": "$19.99",
+            "SPL Enhance": "$19.99",
+            "All-In Module Access": "$9.99",
+            "HAA Upgrade to Pro": "$399.99",
+            "HAA Pro Installer Calibration": "$499.99",
+            "HAA Home Theater": "$99.99",
+            "Unlock All Tier 5": "$249.99",
+            "Unlock All Tier 7": "$349.99",
+            "Unlock All Tier 4": "$199.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746933657417,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -10333,7 +10352,9 @@
       "2.000 coins": "$0.99",
       "6.000 coins": "$2.99",
       "10.000 coins": "$4.99",
-      "22.000 coins": "$9.99"
+      "22.000 coins": "$9.99",
+      "120.000 coins": "$49.99",
+      "45.000 coins": "$19.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -10347,9 +10368,30 @@
       "2.000 coins": "$0.99",
       "6.000 coins": "$2.99",
       "10.000 coins": "$4.99",
-      "22.000 coins": "$9.99"
+      "22.000 coins": "$9.99",
+      "120.000 coins": "$49.99",
+      "45.000 coins": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747148552586,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "85,000 Coins": "$14.99",
+            "55,000 Coins": "$9.99",
+            "25,000 Coins": "$4.99",
+            "15,000 Coins": "$2.99",
+            "10,000 Coins": "$1.99",
+            "5,000 Coins": "$0.99",
+            "120.000 coins": "$49.99",
+            "45.000 coins": "$19.99",
+            "22.000 coins": "$9.99",
+            "10.000 coins": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745816597351,
@@ -10482,6 +10524,25 @@
       "Handful O' Tokens": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747148552586,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "$0.99",
+            "Classic Tack Tower Skin": "$1.99",
+            "Classic Super Monkey Skin Sale": "$0.99",
+            "Classic Super Monkey Skin": "$1.99",
+            "Classic Ice Tower Skin Sale": "$0.99",
+            "Classic Ice Tower Skin": "$1.99",
+            "Classic Bomb Tower Skin Sale": "$0.99",
+            "Classic Bomb Tower Skin": "$1.99",
+            "Classic Dart Monkey Skin Sale": "$0.99",
+            "Classic Dart Monkey Skin": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746907333477,
@@ -22743,6 +22804,25 @@
       "连拆十个": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747148552586,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "休假证明": "$14.99",
+            "小憩十次": "$3.99",
+            "新春灯笼": "$14.99",
+            "购买十次": "$3.99",
+            "狂欢十次": "$3.99",
+            "圣诞派对": "$14.99",
+            "黄金通行证": "$14.99",
+            "劳动勋章": "$14.99",
+            "劳动十次": "$3.99",
+            "连拆十个": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746075753726,
