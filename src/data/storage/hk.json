@@ -20706,6 +20706,22 @@
     "history": [
       [
         {
+          "timestamp": 1747152155845,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "特別禮包": "HK$ 38.00",
+            "英雄鐵甲馬克": "HK$ 58.00",
+            "英雄藍色飛龍": "HK$ 58.00",
+            "英雄超能博士": "HK$ 38.00",
+            "英雄桂英": "HK$ 22.00",
+            "英雄命運女俠": "HK$ 22.00",
+            "英雄風刃": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747148552586,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -25867,7 +25883,8 @@
       "Tower Deep Devil's Reef": "HK$ 22.00",
       "Hero Dianyun": "HK$ 48.00",
       "Tower Grim Cemetery": "HK$ 22.00",
-      "Starter Pack": "HK$ 22.00"
+      "Starter Pack": "HK$ 22.00",
+      "Tower Goblin War Zeppelin": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 38,
@@ -25883,9 +25900,29 @@
       "Tower Deep Devil's Reef": "HK$ 22.00",
       "Hero Dianyun": "HK$ 48.00",
       "Tower Grim Cemetery": "HK$ 22.00",
-      "Starter Pack": "HK$ 22.00"
+      "Starter Pack": "HK$ 22.00",
+      "Tower Goblin War Zeppelin": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747152155845,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Mega Tower Bundle": "HK$ 128.00",
+            "Mega Heroe Bundle": "HK$ 148.00",
+            "Hero Beresad": "HK$ 58.00",
+            "Hammerhold Campaign!": "HK$ 58.00",
+            "Pirate Kings Campaign!": "HK$ 58.00",
+            "Tower Blazing Gem": "HK$ 38.00",
+            "Hero Eiskalt": "HK$ 48.00",
+            "Tower Grim Cemetery": "HK$ 22.00",
+            "Tower Goblin War Zeppelin": "HK$ 58.00",
+            "Tower Shaolin Temple": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745812990001,
@@ -46726,6 +46763,25 @@
       "命運神殿禮包263": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747152155845,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "60鑽石": "HK$ 8.00",
+            "300鑽石": "HK$ 38.00",
+            "180鑽石": "HK$ 23.00",
+            "680鑽石": "HK$ 88.00",
+            "1280鑽石": "HK$ 158.00",
+            "10鑽石": "HK$ 8.00",
+            "1980鑽石": "HK$ 238.00",
+            "3280鑽石": "HK$ 398.00",
+            "120鑽石": "HK$ 18.00",
+            "980鑽石": "HK$ 118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747148552586,
