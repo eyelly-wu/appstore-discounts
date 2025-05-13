@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1435752659,
+    name: {
+      mo: '駕考王-摩托車、汽車、客車、貨車駕駛實習考試',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6458733069,
     name: {
       mo: '養生鐘 - 解压小橙子 经络穴位图解',
