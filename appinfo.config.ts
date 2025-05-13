@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 6458733069,
+    name: {
+      mo: '養生鐘 - 解压小橙子 经络穴位图解',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1216484605,
     name: {
       mo: 'Viewfinder Preview',

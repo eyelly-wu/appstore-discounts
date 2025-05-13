@@ -20192,6 +20192,23 @@
     "history": [
       [
         {
+          "timestamp": 1747112545061,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "白金方案（每月續訂）": "HK$ 48.00",
+            "基本方案（每月續訂）": "HK$ 8.00",
+            "白金方案（每三個月續訂）": "HK$ 118.00",
+            "Halv Selection 限時挑戰書": "HK$ 22.00",
+            "擴充章節 U": "HK$ 32.00",
+            "擴充章節H": "HK$ 32.00",
+            "支線第一章": "HK$ 32.00",
+            "擴充章節B": "HK$ 32.00",
+            "擴充章節 I": "HK$ 32.00",
+            "擴充章節 R": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1747094970526,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -23086,7 +23103,10 @@
       "Get tips on the bucket": "HK$ 8.00",
       "Get tips on stone-eyed": "HK$ 8.00",
       "Get tips about this mysterious stone": "HK$ 8.00",
-      "Get tips about the Holy Grail": "HK$ 8.00"
+      "Get tips about the Holy Grail": "HK$ 8.00",
+      "Open the box to the sea": "HK$ 8.00",
+      "Get tips about the iron ball": "HK$ 8.00",
+      "Get tips about the starfish": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -23108,10 +23128,30 @@
       "Get tips on the bucket": "HK$ 8.00",
       "Get tips on stone-eyed": "HK$ 8.00",
       "Get tips about this mysterious stone": "HK$ 8.00",
-      "Get tips about the Holy Grail": "HK$ 8.00"
+      "Get tips about the Holy Grail": "HK$ 8.00",
+      "Open the box to the sea": "HK$ 8.00",
+      "Get tips about the iron ball": "HK$ 8.00",
+      "Get tips about the starfish": "HK$ 8.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1747112545061,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "HK$ 8.00",
+            "Props Tip: Pyramid": "HK$ 8.00",
+            "Get the main entrance lighthouse passcode": "HK$ 8.00",
+            "Props Tip: Temple corner": "HK$ 8.00",
+            "Props Tip: flower": "HK$ 8.00",
+            "Get the factory door unlock": "HK$ 8.00",
+            "Open the box to the sea": "HK$ 8.00",
+            "Get tips on the bucket": "HK$ 8.00",
+            "Get tips about the iron ball": "HK$ 8.00",
+            "Get tips about the starfish": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1747109016368,
           "price": 8,
@@ -61353,6 +61393,22 @@
     "history": [
       [
         {
+          "timestamp": 1747112545061,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "99.99美元商品": "HK$ 788.00",
+            "0.99美元商品": "HK$ 8.00",
+            "12.99美元商品2": "HK$ 98.00",
+            "49.99美元商品": "HK$ 388.00",
+            "3.99美元商品": "HK$ 32.00",
+            "14.99美元商品": "HK$ 118.00",
+            "19.99美元商品": "HK$ 148.00",
+            "29.99美元商品": "HK$ 228.00",
+            "8.99美元商品": "HK$ 68.00"
+          }
+        },
+        {
           "timestamp": 1747109016368,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -61686,6 +61742,34 @@
           "price": 22,
           "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6458733069": {
+    "name": "養生鐘 - 解压小橙子 经络穴位图解",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "月度会员": "HK$ 8.00",
+      "年度会员": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "月度会员": "HK$ 8.00",
+      "年度会员": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747112545061,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "月度会员": "HK$ 8.00",
+            "年度会员": "HK$ 38.00"
+          }
         }
       ]
     ]
