@@ -100,17 +100,17 @@ importers:
         specifier: ^5.0.9
         version: 5.0.9
       rollup:
-        specifier: ^2.79.1
-        version: 2.79.1
+        specifier: ^2.79.2
+        version: 2.79.2
       rollup-plugin-prettier:
         specifier: ^3.1.0
-        version: 3.1.0(prettier@2.8.8)(rollup@2.79.1)
+        version: 3.1.0(prettier@2.8.8)(rollup@2.79.2)
       rollup-plugin-terser:
         specifier: ^7.0.2
-        version: 7.0.2(rollup@2.79.1)
+        version: 7.0.2(rollup@2.79.2)
       rollup-plugin-typescript2:
         specifier: ^0.34.1
-        version: 0.34.1(rollup@2.79.1)(typescript@4.9.5)
+        version: 0.34.1(rollup@2.79.2)(typescript@4.9.5)
       tslib:
         specifier: ^2.6.3
         version: 2.6.3
@@ -1252,6 +1252,7 @@ packages:
   eslint@8.57.0:
     resolution: {integrity: sha512-dZ6+mexnaTIbSBZWgou51U6OmzIhYM2VcNdtiTtI7qPNZm35Akpr0f6vtw3w1Kmn5PYo+tZVfh13WrhpS6oLqQ==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+    deprecated: This version is no longer supported. Please see https://eslint.org/version-support for other options.
     hasBin: true
 
   espree@9.6.1:
@@ -1482,6 +1483,7 @@ packages:
   google-p12-pem@4.0.1:
     resolution: {integrity: sha512-WPkN4yGtz05WZ5EhtlxNDWPhC4JIic6G8ePitwUWy4l+XPVYec+a0j0Ts47PDtW59y3RwAhUd9/h9ZZ63px6RQ==}
     engines: {node: '>=12.0.0'}
+    deprecated: Package is no longer maintained
     hasBin: true
 
   google-translate-api-x@10.7.0:
@@ -2081,6 +2083,7 @@ packages:
   node-domexception@1.0.0:
     resolution: {integrity: sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==}
     engines: {node: '>=10.5.0'}
+    deprecated: Use your platform's native DOMException instead
 
   node-fetch@2.7.0:
     resolution: {integrity: sha512-c4FRfUm/dbcWZ7U+1Wq0AwCyFL+3nt2bEw05wfxSz+DWpWsitgmSgYmy2dQdWyKC1694ELPqMs/YzUSNozLt8A==}
@@ -2448,8 +2451,8 @@ packages:
       rollup: '>=1.26.3'
       typescript: '>=2.4.0'
 
-  rollup@2.79.1:
-    resolution: {integrity: sha512-uKxbd0IhMZOhjAiD5oAFp7BqvkA4Dv47qpOCtaNvng4HBwdbWtdOh8f5nZNuk2rp51PMGk3bzfWu5oayNEuYnw==}
+  rollup@2.79.2:
+    resolution: {integrity: sha512-fS6iqSPZDs3dr/y7Od6y5nha8dW1YnbgtsyotCVvoFGKbERG++CVRFv1meyGDE1SNItQA8BrnCw7ScdAhRJ3XQ==}
     engines: {node: '>=10.0.0'}
     hasBin: true
 
@@ -3225,12 +3228,12 @@ snapshots:
       '@types/node': 20.5.1
       chalk: 4.1.2
       cosmiconfig: 8.3.6(typescript@4.9.5)
-      cosmiconfig-typescript-loader: 4.4.0(@types/node@20.5.1)(cosmiconfig@8.3.6(typescript@4.9.5))(ts-node@10.9.2(@types/node@20.5.1)(typescript@4.9.5))(typescript@4.9.5)
+      cosmiconfig-typescript-loader: 4.4.0(@types/node@20.5.1)(cosmiconfig@8.3.6(typescript@4.9.5))(ts-node@10.9.2(@types/node@20.14.11)(typescript@4.9.5))(typescript@4.9.5)
       lodash.isplainobject: 4.0.6
       lodash.merge: 4.6.2
       lodash.uniq: 4.5.0
       resolve-from: 5.0.0
-      ts-node: 10.9.2(@types/node@20.14.11)(typescript@4.9.5)
+      ts-node: 10.9.2(@types/node@20.5.1)(typescript@4.9.5)
       typescript: 4.9.5
     transitivePeerDependencies:
       - '@swc/core'
@@ -3980,11 +3983,11 @@ snapshots:
       meow: 8.1.2
       split2: 3.2.2
 
-  cosmiconfig-typescript-loader@4.4.0(@types/node@20.5.1)(cosmiconfig@8.3.6(typescript@4.9.5))(ts-node@10.9.2(@types/node@20.5.1)(typescript@4.9.5))(typescript@4.9.5):
+  cosmiconfig-typescript-loader@4.4.0(@types/node@20.5.1)(cosmiconfig@8.3.6(typescript@4.9.5))(ts-node@10.9.2(@types/node@20.14.11)(typescript@4.9.5))(typescript@4.9.5):
     dependencies:
       '@types/node': 20.5.1
       cosmiconfig: 8.3.6(typescript@4.9.5)
-      ts-node: 10.9.2(@types/node@20.14.11)(typescript@4.9.5)
+      ts-node: 10.9.2(@types/node@20.5.1)(typescript@4.9.5)
       typescript: 4.9.5
 
   cosmiconfig@8.3.6(typescript@4.9.5):
@@ -5655,7 +5658,7 @@ snapshots:
     dependencies:
       glob: 10.4.5
 
-  rollup-plugin-prettier@3.1.0(prettier@2.8.8)(rollup@2.79.1):
+  rollup-plugin-prettier@3.1.0(prettier@2.8.8)(rollup@2.79.2):
     dependencies:
       '@types/prettier': 2.7.3
       diff: 5.1.0
@@ -5665,27 +5668,27 @@ snapshots:
       lodash.omitby: 4.6.0
       magic-string: 0.30.3
       prettier: 2.8.8
-      rollup: 2.79.1
+      rollup: 2.79.2
 
-  rollup-plugin-terser@7.0.2(rollup@2.79.1):
+  rollup-plugin-terser@7.0.2(rollup@2.79.2):
     dependencies:
       '@babel/code-frame': 7.24.7
       jest-worker: 26.6.2
-      rollup: 2.79.1
+      rollup: 2.79.2
       serialize-javascript: 4.0.0
       terser: 5.31.3
 
-  rollup-plugin-typescript2@0.34.1(rollup@2.79.1)(typescript@4.9.5):
+  rollup-plugin-typescript2@0.34.1(rollup@2.79.2)(typescript@4.9.5):
     dependencies:
       '@rollup/pluginutils': 4.2.1
       find-cache-dir: 3.3.2
       fs-extra: 10.1.0
-      rollup: 2.79.1
+      rollup: 2.79.2
       semver: 7.6.3
       tslib: 2.6.3
       typescript: 4.9.5
 
-  rollup@2.79.1:
+  rollup@2.79.2:
     optionalDependencies:
       fsevents: 2.3.3
 
@@ -5991,14 +5994,14 @@ snapshots:
       v8-compile-cache-lib: 3.0.1
       yn: 3.1.1
 
-  ts-node@10.9.2(@types/node@20.14.11)(typescript@4.9.5):
+  ts-node@10.9.2(@types/node@20.5.1)(typescript@4.9.5):
     dependencies:
       '@cspotcode/source-map-support': 0.8.1
       '@tsconfig/node10': 1.0.11
       '@tsconfig/node12': 1.0.11
       '@tsconfig/node14': 1.0.3
       '@tsconfig/node16': 1.0.4
-      '@types/node': 20.14.11
+      '@types/node': 20.5.1
       acorn: 8.14.1
       acorn-walk: 8.3.4
       arg: 4.1.3
