@@ -38621,7 +38621,8 @@
       "Double Exp Package 2": "$1.99",
       "Flash Sale Ultimate Essence 2": "$9.99",
       "Flash Sale Soul 2": "$2.99",
-      "BundleSupporter Crystal 1": "$9.99"
+      "BundleSupporter Crystal 1": "$9.99",
+      "Piggy Bank 10": "$9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -38651,10 +38652,28 @@
       "Double Exp Package 2": "$1.99",
       "Flash Sale Ultimate Essence 2": "$9.99",
       "Flash Sale Soul 2": "$2.99",
-      "BundleSupporter Crystal 1": "$9.99"
+      "BundleSupporter Crystal 1": "$9.99",
+      "Piggy Bank 10": "$9.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747099812508,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Double Exp Package 1": "$0.99",
+            "BundleSupporter Crystal 1": "$9.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Piggy Bank 10": "$9.99",
+            "Flash Sale Legendary Essence 1": "$4.99"
+          }
+        },
         {
           "timestamp": 1747065756927,
           "price": 0.99,
@@ -49686,6 +49705,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747099812508,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Tower Necromancer": "$4.99",
+            "Sylvara": "$6.99",
+            "Mega Tower Bundle": "$14.99",
+            "Tower Dune Sentinels": "$2.99",
+            "Tower Elven Stargazers": "$4.99"
+          }
+        },
         {
           "timestamp": 1747076528017,
           "price": 6.99,

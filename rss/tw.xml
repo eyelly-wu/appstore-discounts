@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-05-12T01:49:59.420Z</updated>
+    <updated>2025-05-13T01:50:04.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-12T01:49:59.421Z</updated>
+        <updated>2025-05-13T01:50:04.309Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:73536236398899200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingMon, 12 May 2025 01:49:59 GMT</id>
+        <id>rankingTue, 13 May 2025 01:50:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-12T01:49:59.422Z</updated>
+        <updated>2025-05-13T01:50:04.310Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>中国台湾(TW)</li><li>美国(US)</li><li>土耳其(TR)</li>
@@ -48,13 +48,13 @@ feedId:73536236398899200+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1048</b>
+        <b>1052</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>847</b>
+        <b>851</b>
       </td>
       <td>
         <b>9</b>
@@ -65,13 +65,13 @@ feedId:73536236398899200+userId:73658201673997312
         <b>TW</b>
       </td>
       <td>
-        <b>963</b>
+        <b>967</b>
       </td>
       <td>
         <b>177</b>
       </td>
       <td>
-        <b>786</b>
+        <b>790</b>
       </td>
       <td>
         <b>9</b>
@@ -94,6 +94,26 @@ feedId:73536236398899200+userId:73658201673997312
       <td>
         <b>1</b>
       </td>
+      <td>1444761746</td>
+      <td>RFS - Real Flight Simulator</td>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <b></b>
+      </td>
+      <td>
+        <ol>
+          <li>
+            <i>RFS Pro (6個月)</i>：<b>2</b>
+          </li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
       <td>918609651</td>
       <td>Money Pro: 個人財務</td>
       <td>
@@ -112,7 +132,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>1400032769</td>
       <td>Card.Note - 多彩卡片笔记</td>
@@ -124,26 +144,6 @@ feedId:73536236398899200+userId:73658201673997312
       </td>
       <td>
         <ol></ol>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>1444761746</td>
-      <td>RFS - Real Flight Simulator</td>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
-          <li>
-            <i>RFS Pro (6個月)</i>：<b>1</b>
-          </li>
-        </ol>
       </td>
     </tr>
     <tr>
@@ -184,6 +184,65 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFS - Real Flight Simulator]]></title>
+        <id>RFS - Real Flight Simulator-1747099812508</id>
+        <link href="https://apps.apple.com/tw/app/rfs-real-flight-simulator/id1444761746?uo=4"/>
+        <updated>2025-05-13T01:30:12.508Z</updated>
+        <summary type="html"><![CDATA[RFS Pro (6個月): $990.00 → $640.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/rfs-real-flight-simulator/id1444761746?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/0e/62/030e626c-13dd-f232-ed47-59a2aa725681/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>RFS Pro (6個月)：</strong><span>$990.00</span> → <b>
+  <strong>$640.00</strong>
+</b><span>[$640.00 ~ $990.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  在行動裝置上體驗飛行的快感！
+只要用行動裝置就能沉浸在引人入勝的航空世界中，運用最先進的科技輕鬆體驗駕駛飛機的刺激與挑戰。
+
+即刻在世界各地起飛！
+學習如何起飛、降落、完成航班。體驗3D的即時駕駛艙，造訪30個HD機場，並在500個SD機場起降。個人化各式工具、運用自動飛行計畫，在世界各地體驗最精湛的細節。試試教學，精進你的技巧！
+
+手冊／教學：wiki.realflightsimulator.org/wiki
+
+想解鎖《Real Flight Simulator》的所有功能嗎？歡迎根據自己的需求挑選月度、半年度或年度訂閱方案！
+
+繫好安全帶，化身真正的飛行員！遊戲中可以體驗：
+
+-超過50個飛機型號，包含精細的3D駕駛艙、完整運作的零件和燈光。感受現實的駕駛系統和工具。還有全新型號即將登場！
+-超過30個HD機場，包含3D建築、載具、跑道和流程。未來還將推出更多機場！
+-即時航班搭配即時氣象變化。大型國際機場每天吞吐四萬班即時航班和流量。
+-起降流程包含縝密的檢查清單，讓你身歷其境體驗飛行員的工作。
+-降落後可享用各式地勤系統，包含乘客載具、加油和緊急服務。
+-透過進階飛行計畫工具自訂航班的天氣、故障等豐富選項。和同事分享飛行計畫，一起共享自己的體驗。
+-可啟用自動駕駛，以便一心多用，長途航班也能使用自動降落系統。
+-配備寫實衛星地形圖和精準的等高線地圖，方便探索全世界。
+
+在多人模式中和全球社群互動
+-加入數百名其他飛行員，與世界各地一起飛行。
+-在多人模式中和其他飛行員聊天、參與每週社群活動，並加入虛擬航空公司，成為飛行點數最多的航空公司。
+
+航管模式：成為航空交通管制員
+-航空交通管制（航管）模式：安排飛機交通、給予指示，引導飛行員安全、有效地飛行。
+-體驗可互動的多語音航管流程和通訊，探索《RFS》的所有頻道。
+
+打造並分享你對航空的熱愛
+-設計自己的飛機塗裝，並和全球玩家分享。
+-建造你最愛的HD機場，並欣賞其他飛行員在其中起飛。
+-成為飛機攝影師，探索各類遊戲內相機，捕捉精采飛行畫面。在夜空中翱翔時體驗浪漫的都市夜景，欣賞日夜之際陽光在雲朵間交錯的縹緲美景。把你精美的航空作品分享到官方社群媒體頻道。
+-加入日益茁壯的《Real Flight Simulator》社群，探索新飛行路線，和不斷成長的飛行愛好團體互動。
+
+需有網際網路連線才能獲得完整的飛行體驗。
+
+準備好翱翔天際。
+繫好安全帶，做好準備，在《RFS》中成為真正的飛行員！
+
+使用条款： https://www.rortos.com/terms-of-use/
+ 客服：rfs@rortos.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/a5/83/dba58330-9c6a-2387-8d5f-c08e03c400af/d1199b51-af93-4460-9de4-c5d024983438_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/c1/f2/8ec1f20e-7130-9e38-55c4-02bda52c9b31/1d94f341-0945-4d9c-96cc-c0a26f7c66c4_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/5a/40/c05a4004-d909-eded-00a7-40cdd314a0af/ee2c5d44-32fb-4832-b6f5-0dc2ed08a416_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a5/94/e8/a594e858-a650-48a2-0eb1-7c61a4af9cc2/00afcce2-f516-4750-99e4-0c33ab0084a1_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/85/71/bf857180-0df9-735b-3536-458d9057bf05/b9a6bdd0-8a8e-4cec-a91c-e6f99e47e489_05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/0f/68/b60f68c1-5bec-7600-0e11-4a13e87ea792/fe0f168f-e236-440e-ade6-9528b012e04d_06.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/1a/81/1f1a81c8-2569-9a7d-8cf0-9e11aab942dc/453916bb-6e07-4f32-b0b3-916ff441e8f1_07.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/a2/0e/4ca20ea5-edde-7a6b-781e-e5e38a588655/2f45d99f-3372-49b3-9d81-66a423a5b997_08.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/99/eb/4099ebe5-65ed-867d-95a5-aede494b7d99/0d1b4b02-f501-4a64-817e-6b37fb5faecf_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/d4/03/05d4035b-a483-d89e-d938-9bd0e7ba3819/ac3fca42-88f1-40bf-9898-5ce4d317b6d1_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/99/a8/b299a85f-b6b7-da1d-86af-1001da0ac76e/432755df-1cf8-4aaa-a656-232f2b4dca61_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/66/4d/d9664d8d-ceda-c3aa-3b17-88a4e1b79ba5/0851b92f-5d1e-4456-a3c4-714b2a000f7d_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/e1/31/65e131d0-21c6-e987-f70a-e9df8ace559c/2f851c9d-893d-41b1-9ce4-003d53665141_05.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/76/cb/c676cbbc-4c6a-572c-86b5-36b005d1ca6c/afefc974-8024-478d-abc3-da1889b546d1_06.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/5f/ab/2e5fab8c-9454-11b0-b006-c2a8de4faf64/6008bcdf-ddaf-42b8-a36c-d97c14a2e5d9_07.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kingdom Rush 5: Alliance TD]]></title>
@@ -726,324 +785,5 @@ Ironhide隱私政策：https://www.ironhidegames.com/PrivacyPolicy
 如果您有任何问题，请及时在APP中砸向我们，我们喜欢被砸，您还可以通过邮件吐槽。
 吐槽邮箱：tw@yohoing.com
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/5c/9c/545c9c4a-971f-fc1d-5a9f-b35c03b803e9/80a31afc-7a1a-4b4c-94ce-535db36f5eb3_1-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/ec/16/3cec161f-9cb6-9b70-842c-6e8a07e4510f/34737da0-b6ea-4b26-9735-bfb1e4ec2ef8_2-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/c2/5c/83c25ce3-d97d-2714-f788-56c6718181d7/9bf8aa69-fd6d-4dd5-96e3-4486426c1504_3-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/fc/ac/edfcacf7-41d1-474a-f88f-5c85c26743a6/0d0c4331-aa20-4b39-9eb7-884c73000d57_4-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/b9/75/b0b97566-c02c-0633-36fe-00c1665679e8/c4339ed9-d83e-4cc3-ae08-1d0729fe0509_0-5.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day R Premium: last world war]]></title>
-        <id>Day R Premium: last world war-1746828137022</id>
-        <link href="https://apps.apple.com/tw/app/day-r-premium-last-world-war/id1038014543?uo=4"/>
-        <updated>2025-05-09T22:02:17.022Z</updated>
-        <summary type="html"><![CDATA[Seasonal event item: $2,990.00 → $150.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/day-r-premium-last-world-war/id1038014543?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/c1/f1/d7c1f19d-9b64-2958-7572-002041464d13/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Seasonal event item：</strong><span>$2,990.00</span> → <b>
-  <strong>$150.00</strong>
-</b><span>($150.00 ~ $2,990.00)</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  1985年，一場無法挽回的災難降臨——核戰爭和致命病毒的爆發導致了世界末日，將整個世界變成了一片巨大的放射性荒原，充斥著突變體、掠奪者和瘋子（他們比任何僵尸都可怕）。蘇聯在核打擊中崩潰，整個世界變成了一個每個人都在為生存而戰的競技場。
-
-在一個充滿輻射和怪物的世界中生存並不容易。如今，在昔日世界的廢墟上，暴力、飢餓和疾病統治著一切。作為一名幸存者，你必須在這個對生命充滿敵意的開放世界中適應環境，並尋找和拯救你的家人——也許他們在這場混亂中幸存了下來？……
-
-危險與冒險在每一個轉角等著你。作為一名潛行者，你需要在輻射水平比切爾諾貝利災難還要高數倍的廢棄城市中搜尋物資，並在充滿嗜血突變體和僵尸瘋子的森林中穿行。在這片混亂與廢墟中，你必須運用所有的生存技能，獨自為生命而戰！
-
-《Day R Survival》不僅僅是一款游戲，而是一款真實的核末日生存模擬游戲，背景設定在1985年蘇聯的廣闊而真實的地圖上。
-
-《Day R Survival》的RPG和任務系統是一款硬核的生存模擬RPG。核戰爭和致命病毒（比任何僵尸病毒都可怕）不僅會給你帶來強大而狡猾的敵人，還會讓你面臨艱難的選擇。游戲中的任務充滿了陰暗的氛圍和絕望，人們不得不在昔日世界的廢墟上掙扎求生。
-
-
-廣闊的開放世界
-在1985年蘇聯的逼真地圖上，探索超過2700個廢棄城市。這些城市充滿了資源、危險（如突變體、野生動物和瘋狂的僵尸）以及未解之謎。你可以在森林中狩獵，在河流中釣魚，或是掠奪資源——在這個世界裡，你的生存策略沒有任何限制！
-
-物品制作
-數百種真實的制作配方：從日常用品到頂級軍用交通工具和彈藥。你擁有機械、化學、物理或生存方面的知識嗎？現在是時候運用它們了！
-
-在殘酷世界中掙扎求生
-你隻是一個普通人，需要食物、水和休息。你會染上疾病，傷口也不會自行愈合。尋找食物，爭奪每一滴干淨的水，建造避難所，並時刻保持警惕——在這個世界上，哪怕是一隻老鼠，都可能要了你的命！
-
-
-單人模式與多人聯機
-你可以獨自挑戰任務，也可以與朋友並肩作戰——隨時在單人和多人模式之間切換，選擇最適合你的生存方式。打造獨特的生存策略，或與志同道合的玩家聯手，通過聊天交流、交易物資，並在末世荒原中共同完成任務，尋找生存的希望。
-
-
-游戲特色  
-在線與離線模式
-多人在線生存，與好友組隊挑戰末世危機
-難度選擇：簡單、普通、困難，適應不同生存策略
-技能成長與強化
-動態環境：四季更迭、晝夜交替、輻射水平不斷變化
-敵人與資源隨機刷新
-逼真廢土氛圍，沉浸式核戰后世界生存挑戰
-
-
-幸存者！體驗最真實的生存模擬游戲之一——Day R Survival。制定你的生存策略，揭開末日世界的重重謎團，努力活下去！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/43/f9/2043f909-0427-85fc-0380-c78d8c635a72/37839167-aa9a-4447-a81b-48596708c9e1_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/8b/64/d18b6436-dbab-aa76-cd34-fde6a0017f60/abaf8bc1-c87d-4066-9855-f110c7356137_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/46/62/5a4662b0-8daf-bb02-dcd7-88cdc881ac8c/56a1afb9-8d5a-457f-a9f3-f0fe0644cd6d_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/3b/28/7a3b2824-3ac2-85f4-b43e-ab46b5ade311/afa3f761-86f4-490c-9a8f-c6f7b1015cfa_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/13/37/6213373f-0cec-fcdc-5031-e64d0f731948/abde20fe-0528-417a-af2e-cdda1c652def_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/51/1f/cc511f3f-3f26-3240-6af2-60e6418c8cbc/4ab3a89a-de25-4365-b883-e4b25d5d4377_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/79/01/627901e8-e012-b090-c78b-3585b0e1ae16/10e16d1f-4f6d-414b-a1bc-02c0bac97de7_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/e5/31/08e53100-b2a7-bc39-e566-18c7620edcd4/70a632b4-7110-44a4-8f3c-b16630226a71_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/c0/02/91c002c9-9700-0466-f9cd-053e636af6f2/55b21187-aa05-4f77-822a-8fd16cae0632_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/f2/c7/3df2c73e-f7fc-3f6c-a191-ba6861c4cdad/149c588f-631e-4221-ac9a-71c5d60aae73_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/52/94/0e529456-2272-403e-b28c-9b314d5a2678/844a140a-b823-4849-aeab-841e1c22ad82_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/e3/31/f7e331ba-1dfe-5957-552f-199e1d483e56/65fcbeaf-0f41-4f84-80de-3687911f1afe_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/45/53/8f4553f6-790b-32ac-526f-ad768ac24913/c88343cd-bc58-42f6-b1e8-a9fa3539ade4_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/25/b3/c025b3f5-90cc-fc0c-6ae1-e8431823b5c2/c9de7bf8-fdc6-44dc-aaee-5661465f27cf_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/7f/6d/287f6d5d-0a21-ccf9-964a-35746ace6a48/bf611f0e-f026-4332-9de5-fe7e0cb877b3_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/90/0a/c0900a56-51c1-4683-dff0-6293b324521d/cb6b77fb-bdaa-4c67-83cd-930ee49974d2_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/5e/eb/465eeb5c-94d2-e859-b0f8-636a8ac5100c/f66d531d-e15c-439c-b597-23f7f2c1cf2a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/79/cb/dd79cbaf-ee24-588f-5a24-e79cbc7f1385/5ed0c035-585b-438e-8e19-22c60629632e_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/ec/65/b0ec6594-3912-6653-aa86-e41c9ff5db12/5f03263e-ebf9-4ec2-9136-5e48239b77af_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ed/f1/f0edf163-11d1-ab0f-ae20-97d71e75d7d7/f729dcc9-441d-445e-9ec7-ba8570ff3f1c_9.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BreatheIn: Calm Breathing]]></title>
-        <id>BreatheIn: Calm Breathing-1746817328410</id>
-        <link href="https://apps.apple.com/tw/app/breathein-calm-breathing/id1481100296?uo=4"/>
-        <updated>2025-05-09T19:02:08.410Z</updated>
-        <summary type="html"><![CDATA[价格: $60.00 → $10.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/breathein-calm-breathing/id1481100296?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$60.00</span> → <b>
-  <strong>$10.00</strong>
-</b><span>($10.00 ~ $60.00)</span>）
-</h2><h2>应用描述</h2><p>
-  Feeling overwhelmed by the chaos of life? Find your peace and vitality with BreatheIn, the app that helps you unlock the power of mindful breathing.
-
-Rediscover Calm and Energy
-
-Deep, mindful breathing is the key to a calm mind and a vibrant body. With BreatheIn, immerse yourself in guided exercises that harmonize your body and mind, leading to true balance and renewal.
-
-Expertly Curated Practices
-
-We've handpicked and tested each exercise to ensure you get the best. Start your journey toward a healthier, more fulfilled life today!
-
-Seamless Apple Health Integration
-
-Track your progress effortlessly—BreatheIn automatically syncs with Apple Health, making it easy to monitor your wellness journey.
-
-Explore a Range of Techniques
-
-- Square Breathing (4-4-4-4): Regain control and calm your mind.
-- Relax Breathing (4-7-8): Beat anxiety and fall asleep faster.
-- Bee Breathing: Soothe your mind with this relaxing technique.
-- Coherent Breathing: Improve your well-being through HRV enhancement.
-- Transform Your Life, One Breath at a Time
-
-Conquer stress, boost your resilience, and rediscover balance with every breath. Download BreatheIn now and take the first step toward a more vibrant, peaceful you!
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balatro]]></title>
-        <id>Balatro-1746806549043</id>
-        <link href="https://apps.apple.com/tw/app/balatro/id6502453075?uo=4"/>
-        <updated>2025-05-09T16:02:29.043Z</updated>
-        <summary type="html"><![CDATA[价格: $320.00 → $190.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/balatro/id6502453075?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/ef/c6/87efc64b-3711-df47-2230-0432918d027f/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$320.00</span> → <b>
-  <strong>$190.00</strong>
-</b><span>($190.00 ~ $320.00)</span>）
-</h2><h2>应用描述</h2><p>
-  歡迎遊玩Balatro官方遊戲！
-
-Balatro是一款混合接龍與撲克等紙牌遊戲的神奇混合體，讓您以前所未見的方式扭曲遊戲規則，令人愛不釋手、滿意無比！
-你的目標：打造強力的撲克手牌，擊敗Boss盲注。 
-找尋改變遊戲的新小丑，創造精彩絕倫的組合！贏得足量籌碼，擊敗詭譎頭目，在遊戲中尋覓隱藏獎勵出牌和牌組。 
-要擊敗大頭目，贏得最終挑戰並贏得遊戲，您需要聚集可以獲得的一切輔助手段。
-
-遊戲特性：
-
-每次遊玩都不一樣：每次抓牌、棄牌和小丑都能極大程度地變化您本次遊玩的進程。
-多種遊戲物品：發現超過150種小丑，每種小丑都有特別的能力。將它們與不同牌組相結合，升級牌和禮券提升得分。
-多樣遊戲模式：戰役模式與挑戰模式，供您隨心遊玩。
-美麗的畫素美術：在CRT風的模糊畫面中沉溺，享受手工繪製、細緻入微的畫素美術：
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/81/bf/7981bf59-aa90-15ea-d6a1-676cc937ce2c/d4e99497-2067-4a7f-bdfd-64a0315d6a67_1_Balatro_Screenshot_iOS_2208x1242_TCHI.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/ad/53/fbad53bd-535f-9e2a-5d49-58550a6de92d/9da8e7f9-819d-4628-8d64-d5321a10e87c_2_Balatro_Screenshot_iOS_2208x1242_TCHI.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/3e/35/633e3595-c135-d359-f410-89d41aa95501/b26e19fe-cc19-4988-94fb-cf653a2a0bab_3_Balatro_Screenshot_iOS_2208x1242_TCHI.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/57/d0/3c57d0e4-7778-1152-7058-7b54b356dfa1/0e2f2c94-c0d6-44d4-9a7f-111e64443ede_4_Balatro_Screenshot_iOS_2208x1242_TCHI.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/51/61/1051614e-d379-6661-50b6-788fc1f47a28/b1a56f16-bcc5-4a1b-981a-3223f04ebad3_5_Balatro_Screenshot_iOS_2208x1242_TCHI.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/86/b8/4786b8e1-29cd-54fc-e522-b098df4eb08a/1e8800fd-9e32-4362-9bf7-44977751e4b4_6_Balatro_Screenshot_iOS_2208x1242_TCHI.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/31/02/9e310206-ddc0-a6f9-1899-77f91a5d50ac/7e69adeb-2f41-4615-9e3d-55e4f921466c_1_Balatro_Screenshot_iOS_2732x2048_TCHI_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/6d/ca/e96dca45-a29c-0b7d-9e36-dd0f2dd65265/9a83ac14-af65-42de-8c93-5a007a8fd2ca_2_Balatro_Screenshot_iOS_2732x2048_TCHI_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/b3/6c/e7b36c3a-90c0-bafb-fdd9-8fdf0288fa6c/b7764754-3463-4a56-83cd-7608fad2144a_3_Balatro_Screenshot_iOS_2732x2048_TCHI_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/52/9b/f7529b91-053a-2e4a-b569-0b2ab97740da/44d3747e-9ddb-476a-bd3a-41fb3a933ab7_4_Balatro_Screenshot_iOS_2732x2048_TCHI_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/fa/78/24fa78d1-7a76-8944-d90d-125886b29447/44da187a-c816-44c4-bfe0-901f0edd43a2_5_Balatro_Screenshot_iOS_2732x2048_TCHI_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/b8/cf/deb8cf2e-67eb-eed7-a775-f9b3ff04717f/3c75475c-05ef-4bfd-a1e0-6a99da2747b6_6_Balatro_Screenshot_iOS_2732x2048_TCHI_01.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUCH — Filters & Bokeh Effect]]></title>
-        <id>LUCH — Filters &amp; Bokeh Effect-1746799336853</id>
-        <link href="https://apps.apple.com/tw/app/luch-filters-bokeh-effect/id1497120981?uo=4"/>
-        <updated>2025-05-09T14:02:16.853Z</updated>
-        <summary type="html"><![CDATA[价格: $20.00 → $10.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/luch-filters-bokeh-effect/id1497120981?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/8f/a7/768fa7de-6762-b739-351e-9d29dc513354/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$20.00</span> → <b>
-  <strong>$10.00</strong>
-</b><span>($10.00 ~ $20.00)</span>）
-</h2><h2>应用描述</h2><p>
-  LUCH Films是一款現代應用程序，用於為圖像賦予膠片攝影效果。嘗試獨特的散景效果，漏光，噪音和灰塵效果以及原始濾鏡。
-
-20多個手提濾網
-
-該應用程序有20多種由專業攝影師手工製作的濾鏡。它們是通用的，可模仿各種膠片和柯達和ILFORD製成，用於各種照片和色彩。
-
-內幕故事和進給的膠片框架
-
-我們已經將膠卷框架調整為適合現代屏幕格式，並將其添加到應用程序中，以使膠卷攝影的熱情永遠存在於我們的心靈中。
-
-除塵效果
-
-製作破舊的照片很容易。您不必等待20年，只需選擇35種效果之一。
-
-漏光
-
-您知道我們喜歡小時候看過的這些舊的漏光鏡頭。我們在LUCH FILMS中模擬了相同的閃光。
-
-效果
-
-如果您像我們一樣熱愛散景，那麼您絕對應該喜歡它。從35種散景和棱鏡效果中進行選擇。
-
-沒有廣告，沒有訂閱，沒有應用內購買
-
-完全控制您的圖像，應用與攝影師合作開發的獨特濾鏡。創建獨特的照片，包括新圖層。超過90種效果。可以對圖像應用噪點和灰塵效果，漏光，散景和棱鏡效果。
-
-您可以為信息流或故事選擇圖像的大小，這是Instagram或其他社交網絡的理想選擇。膠卷相框也包括在LUCH膠卷中。
-
-在Instagram上關注@luchfilmsapp，以從我們的用戶社區中汲取靈感。
-我們喜歡聽到您的想法和反饋。請給我發電子郵件hello@vostokapp.ru或在Instagram上通過DM @@ luchfilmsapp向我們發送問題或建議。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dd/4a/82/dd4a8296-5b8c-7ae8-18ac-70ec9300345d/d0e89f8b-e0bc-498e-9cd3-d00e1c344362_Group_1004.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/e9/6d/97e96d91-8718-5c9b-814e-1d2b251a1a39/9d9ed9a1-9dc6-498e-9019-4fe09435277d_Group_992.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/ea/41/dbea4104-d415-ed42-5d72-bfc68918ac03/27c9554f-2ffb-4116-9f7a-9423048642de_Group_1033.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/20/09/e6200980-8b20-ab1a-c07f-f1838d27ba09/fa381b19-edc3-4542-98a9-37134c4a3a85_Group_1032.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/94/37/bd9437e0-0488-26f2-25f3-b9957e62ddfe/f36dbd84-605b-4a28-81e0-1f511c9f314e_Group_1034.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/17/c3/d317c334-ad9f-a716-9204-832370b9b736/026954c8-11b9-4714-bd81-3b6c87c13908_Group_1030.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/3f/d3/3b3fd3dd-0d05-0f5f-2d5f-86bd361c9c20/7b938047-d866-44ad-8a01-b26447f0fd70_Group_1031.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/6b/91/2a6b91ff-cae9-f2d8-9012-1ecf8d343fb7/196b3455-4eed-4d2c-8374-c197652a8e38_Group_998.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/da/78/acda7899-5c13-e880-7283-a745440be7e4/86217d6c-6d55-48c3-bdfc-9c964ff2ff9b_Group_994.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f8/40/8f/f8408f24-9df9-4c85-c965-d27bf40fda09/b8d6eef1-6482-48ab-a052-9b42d18ec046_ipad-2-3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/a7/75/22a775a6-0f88-b05c-29f0-5fdc02c14df4/782c79ca-9d65-485e-9d2a-7433b8b8c810_ipad-2-2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/b7/8d/76b78d6a-32f8-2b2c-0510-30f6ddcdfd8e/02ad3071-384d-4431-af5b-551645b4e7c9_ipad-2-1.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ticket to Ride® The Board Game]]></title>
-        <id>Ticket to Ride® The Board Game-1746799336853</id>
-        <link href="https://apps.apple.com/tw/app/ticket-to-ride-the-board-game/id6463616555?uo=4"/>
-        <updated>2025-05-09T14:02:16.853Z</updated>
-        <summary type="html"><![CDATA[价格: $150.00 → $90.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/ticket-to-ride-the-board-game/id6463616555?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/86/1d/cf861d6e-ba08-c55d-81e6-f05f3faff1d6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$150.00</span> → <b>
-  <strong>$90.00</strong>
-</b><span>($90.00 ~ $150.00)</span>）
-</h2><h2>应用描述</h2><p>
-  Play the ultimate digital version of the multi-award-winning modern classic board game Ticket to Ride! 
-
-Journey across various countries, connecting their vibrant cities and exploring their unique gameplay mechanics and bonuses on the way. 
-
-Ticket to Ride offers a variety of game modes to suit you. Want to get competitive? Head online to challenge other players around the world and climb the leaderboards, or play with friends further afield in a private game. Got a packed schedule? Set up or join an asynchronous game and play across multiple days – we’ll notify you when it is your turn, so you can go at your own pace. 
-
-Test out new strategies or keep it casual in single-player mode against state-of-the-art AI opponents. You can even make a game night of it with friends and family in couch play!
-
-Get to know a cast of unforgettable characters, each bringing their own tales to the table. Add new locomotives and carriages to your fleet with every expansion, and cement your name in railway history on the leaderboard! 
-
-Become a railway legend in the iconic, fan-favourite modern classic!
-
-
-HOW TO PLAY TICKET TO RIDE®:
-
-Players are dealt a number of tickets and must pick a certain number to keep (depending on the map). 
-Players are also dealt four train cards of various colours. This number can also vary depending on the map you’re playing on, but don’t worry – the AI takes care of this!
-Each turn, players can draw two train cards from the face-up pile, draw two train cards from the face-down pile, draw another ticket to complete, or use their train cards to claim a route! A claimed route is shown by placing train pieces along the route.
-When a player has three or fewer train pieces left, the last round starts. Whoever has the most points at the end of the game is the winner! 
-
-
-FEATURES
-A TRULY SOCIAL TAKE ON MULTIPLAYER – Play online with friends or enjoy a seamless matchmaking experience when you challenge players from around the world. Alternatively, take on your friend sitting right next to you in couch play – use the free Ticket to Ride companion app to really boost your couch gaming session!
-PLAY AROUND YOUR BUSY DAY – Set up a game in async mode and play a game across multiple days.
-SINGLE-PLAYER MODE DRIVEN BY EXPERT AIs – Powered by an innovative adaptive AI system, single-player mode offers a challenge for new and experienced players alike. 
-AN IMMERSIVE EXPERIENCE – Every moment has been brought to life with beautiful graphics that will immerse you in the adventure. 
-STRATEGIC GAMEPLAY – Every game presents fresh challenges, and it’s your mission to work out the most efficient solutions. Collect points by completing tickets, linking destinations and building the longest route.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/f4/73/65f473d7-b2e0-121a-c69d-b3ac4eccdf46/72d9ae5e-e92f-4b73-9d1c-825929c76a46_TTR_mobile_screenshots_Aug24_2208x1242_02_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/31/fd/4f31fdc2-0c57-f51c-4a4a-854ba69958ed/8a9d12f2-c8fb-4480-8ac8-5ed43ef1f7a8_TTR_mobile_screenshots_Aug24_2208x1242_03_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/cd/bb/47cdbb49-12cd-9782-4b43-597a446c97ba/1641efb6-6498-425f-acad-3c28738b61f0_TTR_mobile_screenshots_Aug24_2208x1242_04_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/c5/6a/98c56a59-1a6f-2d88-ca1b-dae63e070b53/15d4c33c-3cab-4285-bfc9-f560d55940f8_TTR_mobile_screenshots_Aug24_2208x1242_05_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b0/c9/66b0c9c3-d9c7-df21-3a0b-1775f1ec1192/f15f5ca5-24ff-4fb4-ae4c-928439d39fd8_TTR_mobile_screenshots_Aug24_2208x1242_06_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/55/c8/3f55c8a7-0025-c295-1e43-aa57356296e2/4b0e7d4a-ce90-4839-b984-e2a27e81ddda_TTR_mobile_screenshots_Aug24_2208x1242_07_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/cd/6c/3dcd6c70-8539-ce23-7851-5bfb455c4802/cc94c7f5-859d-46ba-9a22-2301e5aed802_TTR_mobile_screenshots_Aug24_2208x1242_08_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/c1/9a/20c19a97-d9b8-d2a6-9101-5639b0158234/TTR_mobile_screenshots_oct24_2208x1242_08_eng.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/8b/80/7a8b8012-5565-1baa-e1b8-264950745af6/0b188bc0-6ddb-4d57-a1cb-ed57739c7fcc_TTR_mobile_screenshots_MainGame_March24_2732x2048_02_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/a8/26/59a82669-4e72-6015-18ca-6f0928ebf4f7/4ae17a6e-11a0-4da6-84e2-0f57827c169d_TTR_mobile_screenshots_Aug24_2732x2048_03_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/dd/e2/c9dde295-34cd-74da-b17b-be43e37a5f47/337c417c-12ef-4359-b486-9c59e307688f_TTR_mobile_screenshots_Aug24_2732x2048_04_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/df/5e/a6df5edf-aefc-0ae7-9fd3-0f2b2457827c/b8c44360-db2c-41b0-b17d-7253154da4c7_TTR_mobile_screenshots_MainGame_March24_2732x2048_05_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/f4/bd/94f4bdbf-1b28-8d10-e8f4-8f3754b45140/2dbb4ec2-7d77-4420-9c5c-50a58d01604b_TTR_mobile_screenshots_MainGame_March24_2732x2048_06_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/a3/d8/9da3d872-e83f-5dcd-886a-714955bb1282/0ec7329c-2d3c-4abc-abeb-14a78a9b2a1c_TTR_mobile_screenshots_MainGame_March24_2732x2048_07_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/3d/86/c13d864d-b59b-1402-f931-c6c411c53480/1241cf6c-1ebb-41b0-9184-d1ef692102dc_TTR_mobile_screenshots_MainGame_March24_2732x2048_08_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/11/d8/f811d8f7-7aaf-54c5-45ef-76f020d2671a/TTR_mobile_screenshots_out24_2732x2048_08_eng.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手錶經典迷宮遊戲]]></title>
-        <id>手錶經典迷宮遊戲-1746799336853</id>
-        <link href="https://apps.apple.com/tw/app/%E6%89%8B%E9%8C%B6%E7%B6%93%E5%85%B8%E8%BF%B7%E5%AE%AE%E9%81%8A%E6%88%B2/id6740471827?uo=4"/>
-        <updated>2025-05-09T14:02:16.853Z</updated>
-        <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E6%89%8B%E9%8C%B6%E7%B6%93%E5%85%B8%E8%BF%B7%E5%AE%AE%E9%81%8A%E6%88%B2/id6740471827?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/3b/ce9e3bbb-4f79-a61f-7e66-68d02617d17f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$30.00</span> → <b>
-  <strong>免費</strong>
-</b><span>(免費 ~ $30.00)</span>）
-</h2><h2>应用描述</h2><p>經典迷宮遊戲是一款經典的益智遊戲，非常適合在短暫休息時訓練您的大腦。它設計為一款非常簡單的單人遊戲，透過滑過有趣的復古迷宮來玩。快速玩一局，挑戰 500 個迷宮，成為迷宮之王。</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光遇樂隊]]></title>
-        <id>光遇樂隊-1746788532840</id>
-        <link href="https://apps.apple.com/tw/app/%E5%85%89%E9%81%87%E6%A8%82%E9%9A%8A/id6483862844?uo=4"/>
-        <updated>2025-05-09T11:02:12.840Z</updated>
-        <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E5%85%89%E9%81%87%E6%A8%82%E9%9A%8A/id6483862844?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/d0/9b/afd09b9f-9084-7fab-1ae5-748c584100e6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$30.00</span> → <b>
-  <strong>免費</strong>
-</b><span>(免費 ~ $30.00)</span>）
-</h2><h2>应用描述</h2><p>
-  《光遇樂隊》是一款為《光遇》遊戲玩家打造的，用於編寫和練習曲譜的工具類應用。
-
-【主要功能】
-1、用和《庫樂隊》相似的方式，快速創作曲譜
-2、使用不同樂器，以玩音遊的方式練習曲譜
-3、用戶間共享曲譜
-
-【創作曲譜】
-1、支持錄制與回放預覽效果
-2、支持磁力吸附和微調，最小單位為1/64音符
-3、支持節拍器、和弦、多聲部錄制等高級功能
-
-【練習曲譜】
-1、提供三種模式：引導模式、自由模式、記分模式
-2、支持縮放曲譜大小、預備拍、節拍器、速度調節等基礎功能
-3、支持主音模式、AB循環、粒子效果等高級功能
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkySafari 7 Pro]]></title>
-        <id>SkySafari 7 Pro-1746760759184</id>
-        <link href="https://apps.apple.com/tw/app/skysafari-7-pro/id1567658979?uo=4"/>
-        <updated>2025-05-09T03:19:19.184Z</updated>
-        <summary type="html"><![CDATA[价格: $990.00 → $490.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/skysafari-7-pro/id1567658979?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/d7/8e/dfd78eb6-7768-fddc-ab46-01a22f91dca7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$990.00</span> → <b>
-  <strong>$490.00</strong>
-</b><span>($490.00 ~ $990.00)</span>）
-</h2><h2>应用描述</h2><p>
-  SkySafari makes stargazing a simple pleasure. It has the largest database of any astronomy app, includes every comet, asteroid, satellite & solar system object ever discovered, offers unparalleled accuracy, advanced planning and logging tools, flawless telescope control, and provides the very best experience under the stars when you depend on it. Don’t postpone joy. Discover why SkySafari is the #1 recommended astronomy app for serious amateur astronomers since 2009.
-
-Here's what’s new in version 7:
-
-+ Complete support for iOS 18 and iPhone 16. Version 7 brings a new and immersive stargazing experience.
-
-+ Events Finder - go to the new Events section to unlock a powerful search engine that finds astronomical events visible tonight and far into the future. The finder dynamically generates a listing of moon phases, eclipses, planetary moon events, meteor showers and planetary phenomenon such as conjunctions, elongations and oppositions.
-
-+ Notifications - the notifications section has been completely revamped to allow you to customize and manage which events trigger an alert notification on your device.
-
-+ Telescope Support - telescope control is at the heart of SkySafari.  Version 7 takes a giant leap forward by supporting ASCOM Alpaca, INDI & StarSense Explorer.  These next generation control protocols allow you to effortlessly connect to hundreds of compatible astronomical devices.
-
-SkySafari 7 brings social stargazing to mobile devices with two new features to help you connect with other like minded people.
-
-OneSky - allows you to see what other users are observing, in real time.  This feature highlights objects in the sky chart and indicates with a number how many users are observing a particular object.
-
-SkyCast - allows you to guide a friend or group around the night sky through their own copy of SkySafari. After initiating SkyCast, you can generate a link and conveniently share it with other SkySafari users via text message, apps or social media accounts.
-
-+ Sky Tonight -  jump to the new Tonight section to see what’s visible in your sky tonight.  Expanded information has been designed to help plan your night and includes  Moon & Sun info, calendar curations, events and the best positioned deep sky and solar system objects.
-
-+ Improved Observation Tools - SkySafari is the perfect tool to help you plan, record and organize your observations.  New workflows make it easier to add, search, filter and sort data.
-
-+ Home Screen and Lock Screen Widgets  keep your favorite astro information at your fingertips.
-
-The Small Touches:
-
-+ You can now edit the Jupiter GRS Longitude Value in the Settings.
-+ Better Moon Age calculation.
-+ New grid & reference options allow you to display Solstice and Equinox markers, Orbit + Node markers for all solar system objects, and tick marks and labels for the Ecliptic, Meridian, and Equator reference lines.
-+ Previous In-app Purchases are Now Free -  this includes the H-R diagram, 3D Galaxy view, and the PGC galaxy and GAIA star catalogs. Enjoy.
-+ Many more.
-
-If you haven't used SkySafari 7 Pro before, here's what you can do with it:
-
-+ Hold your device up, and SkySafari 7 Pro will find stars, constellations, planets, and more!
-
-+ Simulate the night sky up to 5MM years in the past or future! Animate meteor showers, conjunctions, eclipses, and other celestial events.
-
-+ Control your telescope, log and plan your observations.
-
-+ Optionally backup all of your observing data in our secure cloud storage and make it easily accessible to multiple devices as well as from our new web interface, LiveSky.com.
-
-+ Augmented Reality (AR) mode
-
-+ Night Vision.
-
-+ Orbit Mode. Leave the Earth’s surface behind, and fly through our solar system.
-
-+ Galaxy View shows the position of deep sky objects in our Milky Way!
-
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-https://www.livesky.com/privacy.html
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/4b/66/ec4b6627-9e7a-4d7b-9e59-9dc3c22b2444/fc114c40-4a86-4151-acf1-135348f90def_01_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/41/c8/3441c8a2-9ddb-0ba4-54a2-7d9c33d55819/7d3c5a19-ce1e-493a-b97e-ac44bfe1e3e2_02_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3b/25/823b255b-d6de-2865-4001-54ae3b77ca74/9477ad0f-a87f-48fe-87df-b7d86cfddf29_03_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/3f/6f/973f6fc6-a487-a6d7-d84e-83bcd67eb617/f41d04a7-f92a-4bf8-8326-44a5624d4c52_04_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/33/a6/e733a6c5-9983-9cce-de47-91f52ce960f5/9b64ba56-4005-424b-9ac4-4adc03e276a6_10_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/29/a9/3729a943-c485-0530-a9fe-699afd5b40a1/0bcedd32-ad40-475d-8c85-564a3ca8994b_08_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/11/87/ee1187f7-9aa6-a26e-6044-d64a7d862df3/bb8fb1c7-f236-4a78-8eb8-8da51ea5170d_09_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/4a/46/754a46a6-9c84-cfd7-19bd-95f14a12c20f/6d960956-086f-4094-9879-148483841975_06_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/4f/e3/bb4fe39e-0ac2-3e00-a123-f53195ee038a/c3b22f39-5c7a-46cf-bd83-588d1912b4ea_05_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/47/dc/0547dc56-d76f-05e9-a76b-3d645d075327/b1f682b8-1c05-484a-a311-89c284bdbd28_07_SS7_Screenshot_iPhone.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/2a/01/0c2a01fe-e47e-4cc9-b47a-a110a57d01ea/4042e357-ab43-48ad-bb08-c52c04846921_01_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/cf/1d/fdcf1d78-831e-20e5-8bd5-8226e0de2a1d/a7a0b6ff-94fb-41f8-a3d4-3000abeb9896_02_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/3b/07/813b07ea-0be7-9738-35c5-1334ce61cd23/8a9e5258-db74-4b4e-96a5-b788f79dabe8_03_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c6/78/61c678e7-4d03-8256-6665-9f6cb4ef8fe1/377933b2-01c1-4478-bf01-cfb3687a0c19_04_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/59/e8/bb59e8b6-04aa-55ec-f994-f71e4418a0fa/a8a7bedb-8c9d-4b5e-ad17-4b2430958800_05_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/08/4a/99084abd-62bc-7ee8-584b-a050da479c70/d861049c-217c-49c1-9e9c-c44984660491_06_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/82/39/9e823931-4754-0559-429d-16d381d79ade/385be8d6-bd03-4f58-b9da-f4aba2986b18_07_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/ea/88/edea8817-3658-c7e7-de0c-5f6b7e5eb266/81645ccf-a042-4217-9666-a4d5cc811000_08_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/5d/54/cd5d546d-62e3-cf9c-6103-edb6dcd6ab94/edecb9b2-ea7b-43be-a335-28f63ab96a71_09_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ce/64/a3ce64f7-e854-18de-2bcf-32569ab49314/27ed81ef-4682-4c8b-8ade-92250d6dfbb4_10_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
