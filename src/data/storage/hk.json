@@ -18058,6 +18058,25 @@
     "history": [
       [
         {
+          "timestamp": 1747181355329,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "HK$ 0.00",
+            "ThemeA0B1C0": "HK$ 0.00",
+            "ThemeA1B0C0": "HK$ 0.00",
+            "ThemeA0B1C1": "HK$ 0.00",
+            "ThemeA1B0C1": "HK$ 0.00",
+            "ThemeA1B1C0": "HK$ 0.00",
+            "ThemeA2B0C0": "HK$ 0.00",
+            "主题大礼包": "HK$ 32.00",
+            "ThemeA2B0C1": "HK$ 32.00",
+            "ThemeA2B1C0": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745890187029,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -22185,6 +22204,25 @@
       "首充1元": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747181355329,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "1元首充礼包": "HK$ 8.00",
+            "王者礼包": "HK$ 228.00",
+            "黄金礼包": "HK$ 88.00",
+            "铂金礼包": "HK$ 118.00",
+            "钻石礼包": "HK$ 148.00",
+            "白银礼包": "HK$ 32.00",
+            "黑铁礼包": "HK$ 18.00",
+            "特权签到礼包": "HK$ 32.00",
+            "至尊等级基金XI": "HK$ 788.00",
+            "至尊闯关基金XI": "HK$ 788.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747022668235,
@@ -38535,6 +38573,18 @@
       "RFS Pro (6個月)": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747181355329,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "RFS Pro (1個月)": "HK$ 43.00",
+            "RFS Pro (6個月)": "HK$ 178.00",
+            "RFS Pro (1年)": "HK$ 228.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746763400158,
