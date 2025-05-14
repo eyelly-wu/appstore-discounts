@@ -1997,14 +1997,27 @@
       "Tip Jar: Medium Coffee": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 179.99,
-      "formattedPrice": "₺179,99",
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
       "Notes - Tzolkin/13Moon Cycles": "₺129,99",
       "Tip Jar: Large Coffee": "₺449,99",
       "Tip Jar: Small Coffee": "₺99,99",
       "Tip Jar: Medium Coffee": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747256537899,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "₺129,99",
+            "Tip Jar: Large Coffee": "₺449,99",
+            "Tip Jar: Small Coffee": "₺99,99",
+            "Tip Jar: Medium Coffee": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745503347397,

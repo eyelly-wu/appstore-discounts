@@ -2993,14 +2993,27 @@
       "Tip Jar: Large Coffee": "$9.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "Notes - Tzolkin/13Moon Cycles": "$2.99",
       "Tip Jar: Medium Coffee": "$4.99",
       "Tip Jar: Small Coffee": "$1.99",
       "Tip Jar: Large Coffee": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747256537899,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "$2.99",
+            "Tip Jar: Medium Coffee": "$4.99",
+            "Tip Jar: Large Coffee": "$9.99",
+            "Tip Jar: Small Coffee": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745503347397,
