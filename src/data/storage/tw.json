@@ -26673,7 +26673,17 @@
       "Alice": "$320.00",
       "Neko": "$320.00",
       "maimai DX+": "$150.00",
-      "JOE": "$320.00"
+      "JOE": "$320.00",
+      "HARDCORE TANO*C VOL.II": "$150.00",
+      "HARDCORE TANO*C": "$150.00",
+      "Cosmic Radio 2024": "$150.00",
+      "Miku Extend 2025": "$150.00",
+      "Paradigm: Reboot pt. 2": "$150.00",
+      "Paradigm: Reboot pt. 1": "$150.00",
+      "RAVON": "$150.00",
+      "NEKO_II": "$320.00",
+      "Rhythm Games Party 2024": "$150.00",
+      "B.B.K.K.B.K.K. 2023 Remake SLC": "$150.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -26689,9 +26699,38 @@
       "Alice": "$320.00",
       "Neko": "$320.00",
       "maimai DX+": "$60.00",
-      "JOE": "$320.00"
+      "JOE": "$320.00",
+      "HARDCORE TANO*C VOL.II": "$150.00",
+      "HARDCORE TANO*C": "$150.00",
+      "Cosmic Radio 2024": "$150.00",
+      "Miku Extend 2025": "$150.00",
+      "Paradigm: Reboot pt. 2": "$150.00",
+      "Paradigm: Reboot pt. 1": "$150.00",
+      "RAVON": "$150.00",
+      "NEKO_II": "$320.00",
+      "Rhythm Games Party 2024": "$150.00",
+      "B.B.K.K.B.K.K. 2023 Remake SLC": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747213351139,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "HARDCORE TANO*C VOL.II": "$150.00",
+            "HARDCORE TANO*C": "$150.00",
+            "Cosmic Radio 2024": "$150.00",
+            "Miku Extend 2025": "$150.00",
+            "Paradigm: Reboot pt. 2": "$150.00",
+            "Paradigm: Reboot pt. 1": "$150.00",
+            "RAVON": "$150.00",
+            "NEKO_II": "$320.00",
+            "Rhythm Games Party 2024": "$150.00",
+            "B.B.K.K.B.K.K. 2023 Remake SLC": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747144941913,
@@ -37359,6 +37398,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747213351139,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "RFS Pro (1年)": "$990.00",
+            "RFS Pro (6個月)": "$640.00",
+            "RFS Pro (1個月)": "$150.00"
+          }
+        },
         {
           "timestamp": 1747195400284,
           "price": 0,
