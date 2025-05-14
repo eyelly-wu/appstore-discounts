@@ -2648,14 +2648,27 @@
       "Tip Jar: Medium Coffee": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "Notes - Tzolkin/13Moon Cycles": "HK$ 22.00",
       "Tip Jar: Large Coffee": "HK$ 88.00",
       "Tip Jar: Small Coffee": "HK$ 18.00",
       "Tip Jar: Medium Coffee": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747260127593,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "HK$ 22.00",
+            "Tip Jar: Large Coffee": "HK$ 88.00",
+            "Tip Jar: Small Coffee": "HK$ 18.00",
+            "Tip Jar: Medium Coffee": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745503347397,
@@ -4546,6 +4559,25 @@
       "PsyTrance": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747260127593,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "Synth Lead": "HK$ 18.00",
+            "Sliced Beats": "HK$ 8.00",
+            "Chill-Lo-Fi Mobile": "HK$ 18.00",
+            "Synth Plucks": "HK$ 18.00",
+            "PsyTrance": "HK$ 22.00",
+            "Technocraft": "HK$ 18.00",
+            "Hyper-Pop Mobile": "HK$ 22.00",
+            "Chip-Tune Mobile": "HK$ 22.00",
+            "Tuned 808 Bass": "HK$ 8.00",
+            "Voices": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746630148619,

@@ -2450,14 +2450,27 @@
       "Tip Jar: Medium Coffee": "$150.00"
     },
     "minPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00",
+      "price": 90,
+      "formattedPrice": "$90.00",
       "Notes - Tzolkin/13Moon Cycles": "$90.00",
       "Tip Jar: Small Coffee": "$60.00",
       "Tip Jar: Large Coffee": "$320.00",
       "Tip Jar: Medium Coffee": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747260127593,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "$90.00",
+            "Tip Jar: Small Coffee": "$60.00",
+            "Tip Jar: Large Coffee": "$320.00",
+            "Tip Jar: Medium Coffee": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746050536563,
@@ -56489,6 +56502,25 @@
     "history": [
       [
         {
+          "timestamp": 1747260127593,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "自創武將": "$120.00",
+            "巾幗綻芳華": "$60.00",
+            "鎮海神威": "$60.00",
+            "戰國七雄": "$120.00",
+            "楚漢爭霸": "$120.00",
+            "虎嘯鳳鳴": "$60.00",
+            "自創武將朝代特色兵種補丁": "$120.00",
+            "重振漢室": "$60.00",
+            "自創武將朝代服裝發飾素材補丁": "$120.00",
+            "群雄爭霸": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747198948726,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -58309,6 +58341,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747260127593,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "紅葉漫步": "$30.00",
+            "花火大會": "$30.00",
+            "新年日出": "$30.00",
+            "2025春ネモフィラスキン": "$20.00",
+            "夏日庭院": "$20.00",
+            "悠閒和菓子": "$20.00",
+            "萬聖派對": "$30.00",
+            "2025春イースタースキン": "$30.00",
+            "2025春いちごスキン": "$20.00",
+            "聖誕夜": "$30.00"
+          }
+        },
         {
           "timestamp": 1747245784966,
           "price": 30,

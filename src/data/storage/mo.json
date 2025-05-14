@@ -2423,14 +2423,27 @@
       "Tip Jar: Medium Coffee": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99",
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
       "Notes - Tzolkin/13Moon Cycles": "USD 2.99",
       "Tip Jar: Large Coffee": "USD 9.99",
       "Tip Jar: Small Coffee": "USD 1.99",
       "Tip Jar: Medium Coffee": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747260127593,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "USD 2.99",
+            "Tip Jar: Large Coffee": "USD 9.99",
+            "Tip Jar: Small Coffee": "USD 1.99",
+            "Tip Jar: Medium Coffee": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745503347397,
@@ -12555,6 +12568,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747260127593,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Race Pass": "USD 4.99",
+            "Racing Prodigy X30 La Conca L4": "USD 14.99",
+            "Racing Prodigy X30 Atlanta": "USD 14.99",
+            "Racing Prodigy X30 Kart Dubai": "USD 14.99",
+            "Racing Prodigy X30 B. Vegas": "USD 14.99",
+            "Racing Prodigy 50 Quali Tyres": "USD 4.99",
+            "10 Pack Qualifying Tyres": "USD 0.99",
+            "Figo 100 Octane Fuel Pack - 20": "USD 3.99",
+            "Le Cont Hards - 40 Tyre Pack": "USD 3.99",
+            "Le Cont Mediums - 40 Tyre Pack": "USD 3.99"
+          }
+        },
         {
           "timestamp": 1747256537899,
           "price": 2.99,
@@ -35027,6 +35057,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747260127593,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "The Ultimate Life Collection": "USD 19.99",
+            "Fairytale Kingdom Bundle": "USD 7.99",
+            "Mothgirl Outfit": "USD 0.99",
+            "Tunneler Ship": "USD 0.99",
+            "Foxman Bike": "USD 0.99",
+            "Action Car Avatar": "USD 0.99",
+            "Super Pet Avatar": "USD 0.99",
+            "Magical Girl Outfit": "USD 0.99",
+            "Skyscraper Avatar": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1747256537899,
           "price": 4.99,
