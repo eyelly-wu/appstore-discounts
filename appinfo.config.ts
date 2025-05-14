@@ -63,6 +63,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 6502399166,
+    name: {
+      mo: '卡路狸 - 轻运动记录',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1435752659,
     name: {
       mo: '駕考王-摩托車、汽車、客車、貨車駕駛實習考試',

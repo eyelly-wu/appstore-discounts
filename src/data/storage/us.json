@@ -17489,14 +17489,20 @@
       "Abstract Theme 3": "$0.99",
       "Abstract Theme 1": "$0.99",
       "Abstract Theme Bundle": "$2.99",
-      "Great Art Bundle": "$2.99"
+      "Great Art Bundle": "$2.99",
+      "Tech Silicone Theme": "$0.99",
+      "Tech Gears Theme": "$0.99",
+      "Tech Bundle": "$1.99",
+      "Tech Wires Theme": "$0.99",
+      "Nature Aurora Theme": "$0.99",
+      "Nature Bundle": "$1.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99",
-      "Font Access": "$53.99",
-      "Ultimate Access": "$139.99",
-      "Pro Access": "$96.99",
+      "Font Access": "$4.99",
+      "Ultimate Access": "$12.99",
+      "Pro Access": "$8.99",
       "Phrase sharing": "$3.99",
       "Nature Beach Night Theme": "$0.99",
       "Abstract Theme 5": "$0.99",
@@ -17505,9 +17511,34 @@
       "Abstract Theme 3": "$0.99",
       "Abstract Theme 1": "$0.99",
       "Abstract Theme Bundle": "$2.99",
-      "Great Art Bundle": "$2.99"
+      "Great Art Bundle": "$2.99",
+      "Tech Silicone Theme": "$0.99",
+      "Tech Gears Theme": "$0.99",
+      "Tech Bundle": "$1.99",
+      "Tech Wires Theme": "$0.99",
+      "Nature Aurora Theme": "$0.99",
+      "Nature Bundle": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747189868019,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Phrase sharing": "$3.99",
+            "Font Access": "$4.99",
+            "Pro Access": "$8.99",
+            "Ultimate Access": "$12.99",
+            "Tech Silicone Theme": "$0.99",
+            "Tech Gears Theme": "$0.99",
+            "Tech Bundle": "$1.99",
+            "Tech Wires Theme": "$0.99",
+            "Nature Aurora Theme": "$0.99",
+            "Nature Bundle": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745528534252,
@@ -63228,6 +63259,27 @@
             "年度会员": "$4.99",
             "月度会员": "$0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6502399166": {
+    "name": "Calobara",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747189868019,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
         }
       ]
     ]
