@@ -455,6 +455,25 @@
     "history": [
       [
         {
+          "timestamp": 1747303352192,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "10,000 coins": "$60.00",
+            "1000 coins": "$30.00",
+            "30,000 coins": "$90.00",
+            "1000 candies": "$30.00",
+            "10000 candies": "$90.00",
+            "500 eggs": "$30.00",
+            "5000 eggs": "$60.00",
+            "15000 eggs": "$90.00",
+            "100,000 coins": "$120.00",
+            "10,000 gold": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747103489402,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -17523,12 +17542,17 @@
       "Abstract Theme 2": "$30.00",
       "Abstract Theme 3": "$30.00",
       "Abstract Theme Bundle": "$90.00",
-      "Great Art Bundle": "$90.00"
+      "Great Art Bundle": "$90.00",
+      "Tech Silicone Theme": "$30.00",
+      "Tech Gears Theme": "$30.00",
+      "Tech Wires Theme": "$30.00",
+      "Nature Aurora Theme": "$30.00",
+      "Nature Bundle": "$60.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00",
-      "Font Access": "$1,790.00",
+      "Font Access": "$170.00",
       "Ultimate Access": "$440.00",
       "Pro Access": "$300.00",
       "Phrase sharing": "$120.00",
@@ -17543,9 +17567,33 @@
       "Abstract Theme 2": "$30.00",
       "Abstract Theme 3": "$30.00",
       "Abstract Theme Bundle": "$90.00",
-      "Great Art Bundle": "$90.00"
+      "Great Art Bundle": "$90.00",
+      "Tech Silicone Theme": "$30.00",
+      "Tech Gears Theme": "$30.00",
+      "Tech Wires Theme": "$30.00",
+      "Nature Aurora Theme": "$30.00",
+      "Nature Bundle": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747303352192,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Phrase sharing": "$120.00",
+            "Font Access": "$170.00",
+            "Pro Access": "$300.00",
+            "Ultimate Access": "$440.00",
+            "Tech Silicone Theme": "$30.00",
+            "Tech Gears Theme": "$30.00",
+            "Tech Bundle": "$60.00",
+            "Tech Wires Theme": "$30.00",
+            "Nature Aurora Theme": "$30.00",
+            "Nature Bundle": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746345769493,
@@ -18044,7 +18092,15 @@
       "Monkey": "$30.00",
       "Goat": "$30.00",
       "Horse": "$30.00",
-      "B.I.G.": "$30.00"
+      "B.I.G.": "$30.00",
+      "Chloe": "$30.00",
+      "Shaw": "$30.00",
+      "Kid": "$30.00",
+      "Rob-o": "$30.00",
+      "Emo": "$30.00",
+      "Joshua": "$30.00",
+      "Lucy": "$30.00",
+      "Mia": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -18065,9 +18121,36 @@
       "Monkey": "$30.00",
       "Goat": "$30.00",
       "Horse": "$30.00",
-      "B.I.G.": "$30.00"
+      "B.I.G.": "$30.00",
+      "Chloe": "$30.00",
+      "Shaw": "$30.00",
+      "Kid": "$30.00",
+      "Rob-o": "$30.00",
+      "Emo": "$30.00",
+      "Joshua": "$30.00",
+      "Lucy": "$30.00",
+      "Mia": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747303352192,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Unlock all stages": "$30.00",
+            "Chloe": "$30.00",
+            "Shaw": "$30.00",
+            "Kid": "$30.00",
+            "Rob-o": "$30.00",
+            "Emo": "$30.00",
+            "Joshua": "$30.00",
+            "Lucy": "$30.00",
+            "Atom": "$30.00",
+            "Mia": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745380960880,
