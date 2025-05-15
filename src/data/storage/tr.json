@@ -18311,6 +18311,25 @@
     "history": [
       [
         {
+          "timestamp": 1747350143850,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "980个Y币": "₺699,99",
+            "150个Y币": "₺179,99",
+            "特效7": "₺0,00",
+            "100 sheets": "₺4,99",
+            "特效6": "₺0,00",
+            "特效5": "₺0,00",
+            "特效4": "₺0,00",
+            "特效3": "₺0,00",
+            "特效2": "₺0,00",
+            "特效1": "₺0,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747279179903,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -19521,8 +19540,8 @@
       "10 Knowledge Points": "₺349,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
       "Pile O Monkey Money Sale": "₺129,99",
       "Monkey Money": "₺99,99",
       "Full Tower Unlock": "₺229,99",
@@ -19546,6 +19565,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747350143850,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺129,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺229,99",
+            "Pile O Monkey Money": "₺229,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Paragon Unlock": "₺229,99",
+            "Double Cash Mode": "₺399,99",
+            "Vault O Monkey Money": "₺899,99",
+            "Tower and Paragon Unlock": "₺449,99"
+          }
+        },
         {
           "timestamp": 1747342931454,
           "price": 299.99,
@@ -21673,6 +21709,14 @@
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747350143850,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745967728488,
@@ -28757,6 +28801,19 @@
       "RFS Pro (6 months)": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747350143850,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "₺99,99",
+            "RFS Pro (6 month)": "₺139,99",
+            "RFS Pro (1 year)": "₺189,99",
+            "RFS Pro (6 months)": "₺899,90"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747281796322,
