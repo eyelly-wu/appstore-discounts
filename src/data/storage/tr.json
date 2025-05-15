@@ -30909,7 +30909,10 @@
       "Paris Dice": "₺229,99",
       "Atlantic City Dice": "₺229,99",
       "Enchanted Forest": "₺229,99",
-      "Monstropolis Token Bundle": "₺299,99"
+      "Monstropolis Token Bundle": "₺299,99",
+      "Enchanted Forest Marine Bundle": "₺499,99",
+      "LA Monstropolis Marine Bundle": "₺499,99",
+      "The Rainbow Bundle": "₺499,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -30948,10 +30951,27 @@
       "Paris Dice": "₺229,99",
       "Atlantic City Dice": "₺229,99",
       "Enchanted Forest": "₺229,99",
-      "Monstropolis Token Bundle": "₺299,99"
+      "Monstropolis Token Bundle": "₺299,99",
+      "Enchanted Forest Marine Bundle": "₺499,99",
+      "LA Monstropolis Marine Bundle": "₺499,99",
+      "The Rainbow Bundle": "₺499,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747314586633,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Enchanted Forest Marine Bundle": "₺499,99",
+            "LA Monstropolis Marine Bundle": "₺499,99",
+            "The Rainbow Bundle": "₺499,99",
+            "Victorian London Marine Bundle": "₺499,99",
+            "The Slam Dunk Bundle": "₺229,99",
+            "Blazin' Blue the Monster Truck": "₺449,99",
+            "Transylvania Marine Bundle": "₺499,99"
+          }
+        },
         {
           "timestamp": 1747281796322,
           "price": 229.99,
@@ -39445,6 +39465,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747314586633,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "₺349,99",
+            "Dune Sentinels": "₺129,99",
+            "Twilight Longbows": "₺229,99",
+            "Necromancer": "₺229,99",
+            "All Towers": "₺899,99",
+            "Hero Lumenir": "₺299,99",
+            "Kosmyr": "₺299,99",
+            "Torres": "₺129,99",
+            "Bonehart": "₺299,99",
+            "Sylvara": "₺299,99"
+          }
+        },
         {
           "timestamp": 1747281796322,
           "price": 299.99,
