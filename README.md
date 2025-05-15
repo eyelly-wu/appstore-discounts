@@ -64,11 +64,13 @@ Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=fla
 ## DingTalk
 Click  [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk")  to Subscribe
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1057` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1059` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The application currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |Serial Number|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1059|1609683141|Automatic|❌|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|
+|1058|1639509098|Automatic|❌|帕夏星球：重生|帕夏星球：重生|帕夏星球：重生|Pasha Planet: Reborn|Pasha Planet: Reborn|
 |1057|6738923299|Automatic|❌|Spin Hero|Spin Hero|Spin Hero|Spin Hero|Spin Hero|
 |1056|299342927|Automatic|❌|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|
 |1055|6502399166|Automatic|卡路狸 - 轻运动记录|卡路狸 - 轻运动记录|卡路狸 - 轻运动记录|卡路狸 - 轻运动记录|Calobara|❌|

@@ -19547,6 +19547,25 @@
     "history": [
       [
         {
+          "timestamp": 1747342931454,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺129,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺229,99",
+            "Pile O Monkey Money": "₺229,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Paragon Unlock": "₺229,99",
+            "Double Cash Mode": "₺399,99",
+            "Vault O Monkey Money": "₺899,99",
+            "Tower and Paragon Unlock": "₺449,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747339354313,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -38711,6 +38730,27 @@
       ]
     ]
   },
+  "1609683141": {
+    "name": "Dirt Trackin 3",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747342931454,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1610305853": {
     "name": "SunOnTrack: Sun Path & Shadows",
     "maxPriceInfo": {
@@ -40704,6 +40744,27 @@
             "Pro (Yearly)": "₺249,99",
             "Pro (Monthly)": "₺59,99"
           }
+        }
+      ]
+    ]
+  },
+  "1639509098": {
+    "name": "Pasha Planet: Reborn",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747342931454,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
         }
       ]
     ]
