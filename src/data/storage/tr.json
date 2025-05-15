@@ -3995,7 +3995,12 @@
       "Unlock \"Bath Time\" level pack": "₺99,99",
       "Unlock \"Rocket Science\" level pack": "₺99,99",
       "Unlock \"Ant Hill\" level pack": "₺99,99",
-      "Magnetic Stars Tiny Pack": "₺179,99"
+      "Magnetic Stars Tiny Pack": "₺179,99",
+      "Magnetic Stars Superior Pack": "₺999,99",
+      "Superpower 50 Sale": "₺229,99",
+      "Magnetic Stars Grand Pack Sale": "₺349,99",
+      "Magnetic Stars Grand Pack": "₺699,99",
+      "Magnetic Stars Large Pack": "₺299,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -4009,9 +4014,32 @@
       "Unlock \"Bath Time\" level pack": "₺99,99",
       "Unlock \"Rocket Science\" level pack": "₺99,99",
       "Unlock \"Ant Hill\" level pack": "₺99,99",
-      "Magnetic Stars Tiny Pack": "₺179,99"
+      "Magnetic Stars Tiny Pack": "₺179,99",
+      "Magnetic Stars Superior Pack": "₺999,99",
+      "Superpower 50 Sale": "₺229,99",
+      "Magnetic Stars Grand Pack Sale": "₺349,99",
+      "Magnetic Stars Grand Pack": "₺699,99",
+      "Magnetic Stars Large Pack": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747335730107,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Magnetic Stars Superior Pack": "₺999,99",
+            "Superpower 50 Sale": "₺229,99",
+            "Magnetic Stars Grand Pack Sale": "₺349,99",
+            "Magnetic Stars Grand Pack": "₺699,99",
+            "Magnetic Stars Large Pack": "₺299,99",
+            "Magnetic Stars Tiny Pack": "₺179,99",
+            "Unlock \"Bath Time\" level pack": "₺99,99",
+            "Unlock \"Bamboo Chutes\" level pack": "₺99,99",
+            "Unlock \"Ant Hill\" level pack": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -16676,6 +16704,23 @@
     "history": [
       [
         {
+          "timestamp": 1747335730107,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Handful of caps": "₺39,99",
+            "Pile of caps": "₺229,99",
+            "Sausepan of caps": "₺449,99",
+            "Special pack": "₺229,99",
+            "Small pack": "₺39,99",
+            "Great pack": "₺449,99",
+            "Useful pack": "₺129,99",
+            "Standart pack": "₺99,99",
+            "Case with caps": "₺899,99",
+            "Survival kit": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1747332187709,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -22001,7 +22046,8 @@
       "Special Offer 20": "₺349,99",
       "Special Offer 19": "₺349,99",
       "Special Offer 18": "₺299,99",
-      "Hero Tank": "₺249,99"
+      "Hero Tank": "₺249,99",
+      "Tower Rotten Forest": "₺39,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -22025,10 +22071,28 @@
       "Special Offer 20": "₺349,99",
       "Special Offer 19": "₺349,99",
       "Special Offer 18": "₺299,99",
-      "Hero Tank": "₺179,99"
+      "Hero Tank": "₺179,99",
+      "Tower Rotten Forest": "₺39,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747335730107,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Hero Beresad": "₺229,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Tower Rotten Forest": "₺39,99",
+            "Tower Blazing Gem": "₺129,99",
+            "Pirate Kings Campaign!": "₺349,99",
+            "Mega Tower Bundle": "₺699,99",
+            "Hero Mortemis": "₺39,99",
+            "Tower Grim Cemetery": "₺39,99",
+            "Tower Deep Devil's Reef": "₺39,99",
+            "Hero Jack'O Lantern": "₺39,99"
+          }
+        },
         {
           "timestamp": 1747292545325,
           "price": 129.99,
@@ -30930,7 +30994,8 @@
       "Monstropolis Token Bundle": "₺299,99",
       "Enchanted Forest Marine Bundle": "₺499,99",
       "LA Monstropolis Marine Bundle": "₺499,99",
-      "The Rainbow Bundle": "₺499,99"
+      "The Rainbow Bundle": "₺499,99",
+      "Golden Flames Bundle": "₺449,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -30972,10 +31037,28 @@
       "Monstropolis Token Bundle": "₺299,99",
       "Enchanted Forest Marine Bundle": "₺499,99",
       "LA Monstropolis Marine Bundle": "₺499,99",
-      "The Rainbow Bundle": "₺499,99"
+      "The Rainbow Bundle": "₺499,99",
+      "Golden Flames Bundle": "₺449,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747335730107,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "Orient Express": "₺129,99",
+            "New York 2121 Board": "₺249,99",
+            "The Complete Collection": "₺1.499,99",
+            "The Slam Dunk Bundle": "₺299,99",
+            "Transylvania Board": "₺249,99",
+            "Golden Flames Bundle": "₺449,99",
+            "Victorian London Board": "₺249,99",
+            "Lava Dice": "₺229,99",
+            "Monstropolis Token Bundle": "₺299,99"
+          }
+        },
         {
           "timestamp": 1747317741478,
           "price": 229.99,
