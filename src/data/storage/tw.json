@@ -16137,7 +16137,10 @@
       "2025 Birthday Package": "$590.00",
       "2025 Birthday Package (Basic)": "$390.00",
       "森日豪華禮包": "$590.00",
-      "森日精選禮包": "$390.00"
+      "森日精選禮包": "$390.00",
+      "年訂閱": "$1,099.00",
+      "月訂閱（早鳥）": "$110.00",
+      "年訂閱（早鳥）": "$660.00"
     },
     "minPriceInfo": {
       "price": 130,
@@ -16161,9 +16164,30 @@
       "2025 Birthday Package": "$490.00",
       "2025 Birthday Package (Basic)": "$320.00",
       "森日豪華禮包": "$590.00",
-      "森日精選禮包": "$390.00"
+      "森日精選禮包": "$390.00",
+      "年訂閱": "$1,099.00",
+      "月訂閱（早鳥）": "$110.00",
+      "年訂閱（早鳥）": "$660.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747296197782,
+          "price": 130,
+          "formattedPrice": "$130.00",
+          "inAppPurchases": {
+            "森日豪華禮包": "$590.00",
+            "森日精選禮包": "$390.00",
+            "Elite Package": "$320.00",
+            "Supreme Package": "$150.00",
+            "Advanced Package": "$90.00",
+            "Starter Package": "$30.00",
+            "年訂閱": "$1,099.00",
+            "月訂閱（早鳥）": "$110.00",
+            "年訂閱（早鳥）": "$660.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746576553910,
@@ -63651,6 +63675,27 @@
           "timestamp": 1747189868019,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6738923299": {
+    "name": "Spin Hero",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747296197782,
+          "price": 120,
+          "formattedPrice": "$120.00",
           "inAppPurchases": {}
         }
       ]
