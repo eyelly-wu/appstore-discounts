@@ -200,6 +200,37 @@
       ]
     ]
   },
+  "299342927": {
+    "name": "PocketPhonics (basic edition)",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99",
+      "Monthly subscription for books": "$1.49",
+      "Lifetime subscription - books": "$16.99",
+      "Annual subscription for books": "$14.49"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99",
+      "Monthly subscription for books": "$1.49",
+      "Lifetime subscription - books": "$16.99",
+      "Annual subscription for books": "$14.49"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747285347544,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Monthly subscription for books": "$1.49",
+            "Lifetime subscription - books": "$16.99",
+            "Annual subscription for books": "$14.49"
+          }
+        }
+      ]
+    ]
+  },
   "300132735": {
     "name": "專業萬年曆 - 十三行作品",
     "maxPriceInfo": {
