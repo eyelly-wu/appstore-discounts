@@ -252,9 +252,7 @@ export default function addRankingFeedItem(props: {
                   <td>
                     <a href={getAppStoreUrl(region, id)}>{name}</a>
                   </td>
-                  <td>
-                    {addType === 'manual' ? t('自动添加') : t('人为添加')}
-                  </td>
+                  <td>{addType === 'auto' ? t('自动添加') : t('人为添加')}</td>
                 </tr>
               )
             })}
