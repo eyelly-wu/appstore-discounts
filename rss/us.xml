@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-16T10:13:25.517Z</updated>
+    <updated>2025-05-16T20:15:36.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,9 +18,9 @@ feedId:49753370488353792+userId:73658201673997312
     <rights>Copyright (c) 2024-present Eyelly Wu</rights>
     <entry>
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
-        <id>welcome</id>
+        <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T10:13:25.519Z</updated>
+        <updated>2025-05-16T20:15:36.396Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,12 +28,14 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingFri, 16 May 2025 10:13:25 GMT</id>
+        <id>rankingusFri, 16 May 2025 20:15:36 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T10:13:25.519Z</updated>
+        <updated>2025-05-16T20:15:36.396Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
-  <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>中国台湾(TW)</li><li>美国(US)</li><li>土耳其(TR)</li>
+  <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
+    <b>United States(US)</b>
+  </li><li>Türkiye(TR)</li>
 </ol><h2>Statistics of the Number of App Tracked</h2><table>
   <thead>
     <tr>
@@ -48,16 +50,16 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1059</b>
+        <b>1060</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>858</b>
+        <b>859</b>
       </td>
       <td>
-        <b>9</b>
+        <b>11</b>
       </td>
     </tr>
     <tr>
@@ -65,16 +67,16 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>961</b>
+        <b>962</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>785</b>
+        <b>786</b>
       </td>
       <td>
-        <b>9</b>
+        <b>11</b>
       </td>
     </tr>
   </tbody>
@@ -82,11 +84,8 @@ feedId:49753370488353792+userId:73658201673997312
   <thead>
     <tr>
       <th>Ranking</th>
-      <th>App ID</th>
-      <th>App Name</th>
-      <th>Total Times</th>
-      <th>Price</th>
-      <th>In-App Purchases</th>
+      <th>App</th>
+      <th>Number of Discounts</th>
     </tr>
   </thead>
   <tbody>
@@ -94,284 +93,460 @@ feedId:49753370488353792+userId:73658201673997312
       <td>
         <b>1</b>
       </td>
-      <td>384363262</td>
-      <td>13:20:Sync</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id904278510">Hitman Sniper</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Extra Large Money Pack</i>：<b>2</b>
+              </li><li>
+                <i>Starter Pack</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>2</b>
       </td>
-      <td>904278510</td>
-      <td>Hitman Sniper</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id384363262">13:20:Sync</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Extra Large Money Pack</i>：<b>1</b>
+            <span>Total Times</span>：<b>1</b>
           </li><li>
-            <i>Starter Pack</i>：<b>1</b>
+            <span>Price</span>：<b>1</b>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>3</b>
       </td>
-      <td>916976066</td>
-      <td>Phraseboard Keyboard</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id916976066">Phraseboard Keyboard</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Font Access</i>：<b>1</b>
+            <span>Total Times</span>：<b>1</b>
           </li><li>
-            <i>Pro Access</i>：<b>1</b>
+            <span>Price</span>：<b>0</b>
           </li><li>
-            <i>Ultimate Access</i>：<b>1</b>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Font Access</i>：<b>1</b>
+              </li><li>
+                <i>Pro Access</i>：<b>1</b>
+              </li><li>
+                <i>Ultimate Access</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>4</b>
       </td>
-      <td>1038014543</td>
-      <td>Day R Premium: last world war</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id1038014543">Day R Premium: last world war</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Handful of caps</i>：<b>1</b>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Handful of caps</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>5</b>
       </td>
-      <td>1056920931</td>
-      <td>Iron Marines: RTS offline game</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id1056920931">Iron Marines: RTS offline game</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Hero Dr.Graff</i>：<b>1</b>
+            <span>Total Times</span>：<b>1</b>
           </li><li>
-            <i>Hero Blue Dragon</i>：<b>1</b>
+            <span>Price</span>：<b>0</b>
           </li><li>
-            <i>Hero Sha'Tra</i>：<b>1</b>
-          </li><li>
-            <i>Hero Ajax</i>：<b>1</b>
-          </li><li>
-            <i>Hero Mark X</i>：<b>1</b>
-          </li><li>
-            <i>Hero Fate</i>：<b>1</b>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Hero Dr.Graff</i>：<b>1</b>
+              </li><li>
+                <i>Hero Blue Dragon</i>：<b>1</b>
+              </li><li>
+                <i>Hero Sha'Tra</i>：<b>1</b>
+              </li><li>
+                <i>Hero Ajax</i>：<b>1</b>
+              </li><li>
+                <i>Hero Mark X</i>：<b>1</b>
+              </li><li>
+                <i>Hero Fate</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>6</b>
       </td>
-      <td>1118115766</td>
-      <td>Bloons TD 6</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id1118115766">Bloons TD 6</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>7</b>
       </td>
-      <td>1230231705</td>
-      <td>The Witness</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>8</b>
       </td>
-      <td>1248033433</td>
-      <td>Kingdom Rush Vengeance TD Game</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id1248033433">Kingdom Rush Vengeance TD Game</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Hero Beresad</i>：<b>1</b>
+            <span>Total Times</span>：<b>1</b>
           </li><li>
-            <i>Tower Blazing Gem</i>：<b>1</b>
+            <span>Price</span>：<b>1</b>
           </li><li>
-            <i>Hero Tank</i>：<b>1</b>
-          </li><li>
-            <i>Tower Deep Devil's Reef</i>：<b>1</b>
-          </li><li>
-            <i>Tower Grim Cemetery</i>：<b>1</b>
-          </li><li>
-            <i>Tower Goblin War Zeppelin</i>：<b>1</b>
-          </li><li>
-            <i>Hero Mortemis</i>：<b>1</b>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Hero Beresad</i>：<b>1</b>
+              </li><li>
+                <i>Tower Blazing Gem</i>：<b>1</b>
+              </li><li>
+                <i>Hero Tank</i>：<b>1</b>
+              </li><li>
+                <i>Tower Deep Devil's Reef</i>：<b>1</b>
+              </li><li>
+                <i>Tower Grim Cemetery</i>：<b>1</b>
+              </li><li>
+                <i>Tower Goblin War Zeppelin</i>：<b>1</b>
+              </li><li>
+                <i>Hero Mortemis</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>9</b>
       </td>
-      <td>1400032769</td>
-      <td>Card.Note - 多彩卡片笔记</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>10</b>
       </td>
-      <td>1439881811</td>
-      <td>RadarOmega</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id1439881811">RadarOmega</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Data Level Beta</i>：<b>1</b>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Data Level Beta</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>11</b>
       </td>
-      <td>1449020025</td>
-      <td>不玩手机-自律习惯养成记</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id1449020025">不玩手机-自律习惯养成记</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>12</b>
       </td>
-      <td>6447693393</td>
-      <td>灵感卡片 - 创意笔记</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>13</b>
       </td>
-      <td>6479307181</td>
-      <td>Ghostly Detector</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>14</b>
       </td>
-      <td>6737987084</td>
-      <td>CatLight Pro: Selfie Light Cam</td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table><h2>Disable Push Apps</h2><table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>App</th>
+      <th>Add Method</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td>
         <b>1</b>
       </td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/us/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+      </td>
+      <td>Automatically Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
       </td>
       <td>
-        <ol></ol>
+        <a href="https://apps.apple.com/us/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
+      <td>Automatically Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id533055404">Night Stars</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id460661291">Safety Note+ Pro</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id505904421">AirDisk Pro</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1527841661">Sandbox Planet</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id431033044">Phone Drive: File Storage Sync</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id456637671">Safety Photo+Video Pro</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id818394449">Timeline - World history</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1485101937">Juice Watch</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id488674899">RAIN RADAR °- sky weather NOAA</a>
+      </td>
+      <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hitman Sniper]]></title>
+        <id>Hitman Sniper-us-1747425750922</id>
+        <link href="https://apps.apple.com/us/app/hitman-sniper/id904278510?uo=4"/>
+        <updated>2025-05-16T20:02:30.922Z</updated>
+        <summary type="html"><![CDATA[Extra Large Money Pack: $9.99 → $7.99<br/>Starter Pack: $4.99 → $2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hitman-sniper/id904278510?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Extra Large Money Pack：</strong><span>$9.99</span> → <b>
+  <strong>$7.99</strong>
+</b><span>[$7.99 ~ $9.99]</span>
+  </li><li>
+    <strong>Starter Pack：</strong><span>$4.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $4.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  BECOME THE ULTIMATE SILENT ASSASSIN
+Step into the shoes of Agent 47 in Hitman: Sniper and discover the most compelling sniper experience on mobile.
+ 
+TACTICAL MISSIONS IN MONTENEGRO
+Hone your strategic skills and orchestrate the perfect assassination.
+ 
+ACTION ZOMBIE CHALLENGE IN DEATH VALLEY
+Prepare for non-stop action in a true test of your accuracy and speed of execution.
+ 
+MORE THAN 150 MISSIONS AND 11 DIFFERENT CONTRACTS
+Improve your strategy for the perfect assassination as you uncover secrets and subterfuges.
+
+17 UNIQUE WEAPONS
+Eliminate targets, collect weapon parts and complete blueprints to unlock the most powerful rifles.
+
+COMPETE AGAINST YOUR FRIENDS TO DOMINATE THE LEADERBOARD
+Boost your score and climb up the ranks to become the world's finest silent assassin.
+
+
+Hitman: Sniper is memory intensive. Devices such as iPad 2, iPad Mini, iPhone 4S and iPod Touch 5th Generation will suffer from occasional dips in performance and will not support Everyplay.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/87/f3/2787f3b3-5810-be84-c21a-74ed097a77d0/mzl.nauovexh.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/54/c5/b554c5fe-cc18-2693-7d0c-eae76adbc831/mzl.evoiphda.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/ed/5b/d5ed5bc0-a1f3-c07a-61e5-9cd833fe39d1/mzl.ofgbzjra.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/16/c4/dd16c443-1228-85bc-110a-d6c8bbc8b2f1/mzl.pkdhiule.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/4b/b6/e54bb6b2-0979-6b08-447b-2a4f0b51b1be/mzl.rpundwwp.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/ce/f7/24cef750-ee27-7445-1f15-39cbca9c68ee/mzl.hnvzqyej.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/ce/ec/95ceec8b-1688-b9f1-86f2-eef427fdaf37/mzl.wolwwxsr.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/55/1e/a4551ef4-af5d-c985-3567-3c436b71f1a1/mzl.xdlpcvwa.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/48/9c/09489c42-29bd-a16b-8f57-a59d8244a3e3/mzl.oqflcebw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/cd/20/1fcd20f0-e681-e967-fc44-a33db177e3e3/mzl.vrlntykj.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Day R Premium: last world war]]></title>
-        <id>Day R Premium: last world war-1747389749016</id>
+        <id>Day R Premium: last world war-us-1747389749016</id>
         <link href="https://apps.apple.com/us/app/day-r-premium-last-world-war/id1038014543?uo=4"/>
         <updated>2025-05-16T10:02:29.016Z</updated>
         <summary type="html"><![CDATA[Handful of caps: $1.99 → $0.99]]></summary>
@@ -432,7 +607,7 @@ User agreement: http://tltgames.ru/license-agreement-en
     </entry>
     <entry>
         <title type="html"><![CDATA[The Witness]]></title>
-        <id>The Witness-1747365637433</id>
+        <id>The Witness-us-1747365637433</id>
         <link href="https://apps.apple.com/us/app/the-witness/id1230231705?uo=4"/>
         <updated>2025-05-16T03:20:37.433Z</updated>
         <summary type="html"><![CDATA[Price: $9.99 → $4.99]]></summary>
@@ -452,7 +627,7 @@ The Witness is a single-player game in an open world with dozens of locations to
     </entry>
     <entry>
         <title type="html"><![CDATA[Bloons TD 6]]></title>
-        <id>Bloons TD 6-1747365637433</id>
+        <id>Bloons TD 6-us-1747365637433</id>
         <link href="https://apps.apple.com/us/app/bloons-td-6/id1118115766?uo=4"/>
         <updated>2025-05-16T03:20:37.433Z</updated>
         <summary type="html"><![CDATA[Price: $6.99 → $3.99]]></summary>
@@ -514,7 +689,7 @@ Ninja Kiwi is actively promoting channel creators on YouTube and Twitch! If you 
     </entry>
     <entry>
         <title type="html"><![CDATA[不玩手机-自律习惯养成记]]></title>
-        <id>不玩手机-自律习惯养成记-1747354157883</id>
+        <id>不玩手机-自律习惯养成记-us-1747354157883</id>
         <link href="https://apps.apple.com/us/app/%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA-%E8%87%AA%E5%BE%8B%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E8%AE%B0/id1449020025?uo=4"/>
         <updated>2025-05-16T00:09:17.883Z</updated>
         <summary type="html"><![CDATA[Price: $2.99 → Free]]></summary>
@@ -544,7 +719,7 @@ App使用方法：
     </entry>
     <entry>
         <title type="html"><![CDATA[Kingdom Rush Vengeance TD Game]]></title>
-        <id>Kingdom Rush Vengeance TD Game-1747279179903</id>
+        <id>Kingdom Rush Vengeance TD Game-us-1747279179903</id>
         <link href="https://apps.apple.com/us/app/kingdom-rush-vengeance-td-game/id1248033433?uo=4"/>
         <updated>2025-05-15T03:19:39.903Z</updated>
         <summary type="html"><![CDATA[Price: $4.99 → $2.99<br/>Hero Beresad: $6.99 → $4.99<br/>Tower Blazing Gem: $4.99 → $2.99<br/>Hero Tank: $5.99 → $3.99<br/>Tower Deep Devil's Reef: $2.99 → $0.99<br/>Tower Grim Cemetery: $2.99 → $0.99<br/>Tower Goblin War Zeppelin: $6.99 → $4.99<br/>Hero Mortemis: $2.99 → $0.99]]></summary>
@@ -663,7 +838,7 @@ We would love to see your content on Youtube and Twitch! We support and promote 
     </entry>
     <entry>
         <title type="html"><![CDATA[13:20:Sync]]></title>
-        <id>13:20:Sync-1747256537899</id>
+        <id>13:20:Sync-us-1747256537899</id>
         <link href="https://apps.apple.com/us/app/13-20-sync/id384363262?uo=4"/>
         <updated>2025-05-14T21:02:17.899Z</updated>
         <summary type="html"><![CDATA[Price: $3.99 → $2.99]]></summary>
@@ -743,7 +918,7 @@ On all the 3 main tabs you can share the current selected Galactic Signature usi
     </entry>
     <entry>
         <title type="html"><![CDATA[CatLight Pro: Selfie Light Cam]]></title>
-        <id>CatLight Pro: Selfie Light Cam-1747198948726</id>
+        <id>CatLight Pro: Selfie Light Cam-us-1747198948726</id>
         <link href="https://apps.apple.com/us/app/catlight-pro-selfie-light-cam/id6737987084?uo=4"/>
         <updated>2025-05-14T05:02:28.726Z</updated>
         <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
@@ -787,7 +962,7 @@ Whether you're a content creator, makeup enthusiast, or just want to take better
     </entry>
     <entry>
         <title type="html"><![CDATA[Phraseboard Keyboard]]></title>
-        <id>Phraseboard Keyboard-1747189868019</id>
+        <id>Phraseboard Keyboard-us-1747189868019</id>
         <link href="https://apps.apple.com/us/app/phraseboard-keyboard/id916976066?uo=4"/>
         <updated>2025-05-14T02:31:08.019Z</updated>
         <summary type="html"><![CDATA[Font Access: $53.99 → $4.99<br/>Pro Access: $96.99 → $8.99<br/>Ultimate Access: $139.99 → $12.99]]></summary>

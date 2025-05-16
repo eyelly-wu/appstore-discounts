@@ -17156,6 +17156,20 @@
     "history": [
       [
         {
+          "timestamp": 1747425750922,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Extra Large Tokens Pack": "$11.99",
+            "Extra Large Money Pack": "$7.99",
+            "Promo Bundle": "$24.99",
+            "Starter Pack": "$2.99",
+            "Medium Money Pack": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746972131186,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -41824,7 +41838,10 @@
       "The Fire and Ice Bundle": "$4.99",
       "Victorian London Marine Bundle": "$11.99",
       "The Slam Dunk Bundle": "$4.99",
-      "Blazin' Blue the Monster Truck": "$9.99"
+      "Blazin' Blue the Monster Truck": "$9.99",
+      "Enchanted Forest Marine Bundle": "$11.99",
+      "LA Monstropolis Marine Bundle": "$11.99",
+      "The Rainbow Bundle": "$11.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -41847,9 +41864,28 @@
       "The Fire and Ice Bundle": "$4.99",
       "Victorian London Marine Bundle": "$11.99",
       "The Slam Dunk Bundle": "$4.99",
-      "Blazin' Blue the Monster Truck": "$9.99"
+      "Blazin' Blue the Monster Truck": "$9.99",
+      "Enchanted Forest Marine Bundle": "$11.99",
+      "LA Monstropolis Marine Bundle": "$11.99",
+      "The Rainbow Bundle": "$11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747425750922,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Enchanted Forest Marine Bundle": "$11.99",
+            "LA Monstropolis Marine Bundle": "$11.99",
+            "The Rainbow Bundle": "$11.99",
+            "Victorian London Marine Bundle": "$11.99",
+            "The Slam Dunk Bundle": "$4.99",
+            "Blazin' Blue the Monster Truck": "$9.99",
+            "Transylvania Marine Bundle": "$11.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746374532628,
@@ -53370,6 +53406,25 @@
       "Mecha Pack": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747425750922,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Nurse Pack": "$4.99",
+            "Unlock Beholder": "$2.99",
+            "Unlock Gumiho": "$2.99",
+            "Season 3 Battle Pass": "$1.99",
+            "Uniform Pack": "$3.99",
+            "Unlock Baphomet": "$2.99",
+            "Season 2 Battle Pass": "$1.99",
+            "Monster Pack 2": "$29.99",
+            "Info Pack": "$12.99",
+            "Smelting Pack": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747044156409,
