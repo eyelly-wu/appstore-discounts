@@ -23339,8 +23339,8 @@
       "Heroes and Skins Complete 2024": "$24.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99",
+      "price": 3.99,
+      "formattedPrice": "$3.99",
       "Pile O Monkey Money Sale": "$2.99",
       "Monkey Money": "$1.99",
       "Full Tower Unlock": "$4.99",
@@ -23361,6 +23361,25 @@
       "Heroes and Skins Complete 2024": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747365637433,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "$2.99",
+            "Monkey Money": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Pile O Monkey Money": "$4.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Vault O Monkey Money Sale": "$11.99",
+            "Tier 4 Insta Monkeys Pack Sale": "$3.99",
+            "Knowledge Point": "$0.99",
+            "10 Knowledge Points": "$7.99",
+            "Paragon Unlock": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746972131186,
@@ -25496,6 +25515,14 @@
       "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747365637433,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745983031540,
@@ -38748,6 +38775,18 @@
       "RFS Pro (6 months)": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747365637433,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "$4.99",
+            "RFS Pro (1 year)": "$39.99",
+            "RFS Pro (6 month)": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746760759184,
