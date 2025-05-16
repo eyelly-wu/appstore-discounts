@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-05-16T14:22:05.516Z</updated>
+    <updated>2025-05-16T22:22:09.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,9 +18,9 @@ feedId:73536236398899200+userId:73658201673997312
     <rights>Copyright (c) 2024-present Eyelly Wu</rights>
     <entry>
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
-        <id>welcome</id>
+        <id>welcometw</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T14:22:05.517Z</updated>
+        <updated>2025-05-16T22:22:09.674Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:73536236398899200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingFri, 16 May 2025 14:22:05 GMT</id>
+        <id>rankingtwFri, 16 May 2025 22:22:09 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T14:22:05.517Z</updated>
+        <updated>2025-05-16T22:22:09.675Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -50,13 +50,13 @@ feedId:73536236398899200+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1059</b>
+        <b>1060</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>858</b>
+        <b>859</b>
       </td>
       <td>
         <b>11</b>
@@ -67,13 +67,13 @@ feedId:73536236398899200+userId:73658201673997312
         <b>TW</b>
       </td>
       <td>
-        <b>974</b>
+        <b>975</b>
       </td>
       <td>
         <b>177</b>
       </td>
       <td>
-        <b>797</b>
+        <b>798</b>
       </td>
       <td>
         <b>11</b>
@@ -119,6 +119,31 @@ feedId:73536236398899200+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tw/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>所有英雄</i>：<b>2</b>
+              </li><li>
+                <i>所有塔</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tw/app/id916976066">短語鍵盤</a>
       </td>
       <td>
@@ -139,7 +164,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1439881811">RadarOmega</a>
@@ -156,29 +181,6 @@ feedId:73536236398899200+userId:73658201673997312
                 <i>Data Level Gamma</i>：<b>1</b>
               </li><li>
                 <i>Data Level Beta</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tw/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買</span><ol>
-              <li>
-                <i>所有英雄</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -480,7 +482,7 @@ feedId:73536236398899200+userId:73658201673997312
       <td>
         <a href="https://apps.apple.com/tw/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
@@ -489,7 +491,7 @@ feedId:73536236398899200+userId:73658201673997312
       <td>
         <a href="https://apps.apple.com/tw/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
@@ -576,8 +578,70 @@ feedId:73536236398899200+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kingdom Rush 5: Alliance TD]]></title>
+        <id>Kingdom Rush 5: Alliance TD-tw-1747432926017</id>
+        <link href="https://apps.apple.com/tw/app/kingdom-rush-5-alliance-td/id1622869542?uo=4"/>
+        <updated>2025-05-16T22:02:06.017Z</updated>
+        <summary type="html"><![CDATA[所有塔: $690.00 → $490.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/kingdom-rush-5-alliance-td/id1622869542?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/df/d2/4ddfd2eb-2dbe-0cd0-022f-960064e02170/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>所有塔：</strong><span>$690.00</span> → <b>
+  <strong>$490.00</strong>
+</b><span>[$490.00 ~ $690.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  比以往任何時候都更具威脅和力量，Kingdom Rush 5：Alliance 帶來了一種全新、令人興奮的體驗，以其前作的快節奏和引人入勝的玩法為基礎，贏得了獎項的讚譽。
+
+當一種強大的邪惡浮現時，一個意想不到的聯盟正在形成！需要Linirea的最佳戰士和不屈不撓的黑暗軍團來阻止它。小心！儘管他們可能並肩旅行，命運的變幻莫測之風可能會迅速改變他們的方向。
+
+準備在戰場上發揮雙英雄的強大力量！
+是的，現在你不僅可以玩一個龍，還可以玩兩個龍！雙倍的噴火樂趣，雙倍的混亂——只要確保他們不會爭吵誰能囤積更多的金子！ 
+
+所有重量級角色如聖騎士、弓箭手、法師、死靈法師等等都聽你指揮。但要注意，他們可能會開始爭論誰是隊伍中的真正英雄，而敵人卻悄悄溜過去！ 
+你準備好迎接終極對決了嗎？和Linirea的勇敢戰士們以及不屈不撓的暗黑軍團一起，踏上征服一個巨大敵人的史詩旅程。 
+
+遊戲特色：
+招募34名獨特的英雄和塔樓！
+
+- 18個精英塔樓建造和升級
+沒有強大的防禦塔的策略遊戲算什麼？奪取它們，以對抗任何敵人！
+選擇精準的弓箭手、致命的聖騎士，甚至是狡猾的惡魔坑。
+
+- 16個史詩英雄 - 將塔防戰鬥提升到新的水平
+同時使用2位英雄玩！
+準備見證最不可能的雙英雄組合的強大威力。一個森林守護靈和一個強大的戰鬥機器人，或者是一個彎曲空間的法師和你的平均喬。
+
+- 6種地形，擁有迷人的戰場等你征服
+保衛Kingdom Rush的多彩景觀。穿越王國深林，甚至其危險的洞穴作戰。
+
+- 25個充滿快節奏td戰鬥的戰役階段
+在充滿驚喜挑戰和細節的異國地形中設定你的策略。
+面對成群的不可預測的敵人和史詩般的boss戰鬥，將你的防禦策略推向極限！
+
+- 3種不同的遊戲模式來測試你的實力
+在取得勝利後，嘗試以更具挑戰性的方式玩每個階段。誰不喜歡一個好的挑戰呢？
+
+- 58多個遊戲成就在戰鬥中征服
+沒有誘人的獎勵，史詩策略遊戲算什麼？展示你的技能，解鎖獎勵！
+
+- 45種以上不同的敵人來測試你的塔防智慧
+展現聯盟的td戰鬥技能，對抗4個不同的敵人氏族。用獨特的防禦策略擊敗他們每一個！
+
+- 當然…
+有很多復活節彩蛋和Ironhide Game Studio一貫的輕鬆幽默。
+因為沒有一些隱藏的驚喜，策略遊戲算什麼呢？
+
+
+--------
+Ironhide的服務條款：https://www.ironhidegames.com/TermsOfService
+Ironhide隱私政策：https://www.ironhidegames.com/PrivacyPolicy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/ed/33/6ded33fc-dea5-49c8-886b-d389466513d2/4601ff94-845f-42ae-a829-46b03abfa439_KR5-2024_screenshots_iphone-2208x1242_1-TD_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/ec/6c/0aec6c39-6e71-a20a-68d4-d7390bc2b94a/d2703a3c-2470-4540-bb17-e2851ac67229_KR5-2024_screenshots_iphone-2208x1242_2-HEROES_Traditional-TH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/c4/c2/a0c4c216-1372-152e-4c6a-80e4e66b7a63/19222394-c75f-447b-b43e-7b6911218a7a_KR5-2024_screenshots_iphone-2208x1242_2-HEROES_Traditional-TH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/ca/12/4fca1295-3814-baa2-e4ef-5f3500b1a12b/fdb82b7f-6d39-4146-bbaf-a4a5cca5efc7_KR5-2024_screenshots_iphone-2208x1242_3-LANDS_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/f1/04/7af10451-d0d0-a2ad-53b8-a9bad848d3d9/ba86a3e6-c024-450a-9dba-2e1d0c97a4c4_KR5-2024_screenshots_iphone-2208x1242_4-TOWERS_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/6a/ee/bf6aeedc-68ae-a8db-bc12-1dcb40612f6a/20e5ef86-568b-47e2-b604-26f8864447a6_KR5-2024_screenshots_iphone-2208x1242_5-ENEMIES_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/a4/ec/74a4ec8d-a124-56a1-54fb-cf9abc8b11af/KRA_Crocs_iphone5.5_2208x1242_UI.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/06/b1/1806b1ca-fa31-504b-bc88-b6a02b2554b1/KRA_Arachnophobia_iPhone5.5_2208x1242_ENG.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/2d/47/372d4750-1ec0-7189-4e17-10be316a98e3/3963fa7b-8db7-45ee-9ff5-35076a7b1b10_KR5-2024_screenshots_ipad-2732x2048_1-TD_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/b2/d1/87b2d134-db42-42b6-907e-b275cea4728e/17f4a675-88a9-4f41-9b9e-6114df136e5d_KR5-2024_screenshots_ipad-2732x2048_2-HEROES_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/52/55/75525543-883f-9280-1179-729beba31a03/53025c2a-9085-4f87-a86b-066fde5ebb22_KR5-2024_screenshots_ipad-2732x2048_3-LANDS_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7c/34/177c3421-1571-b831-c61a-36c41be237ff/03d3f80b-cdc8-4d32-8824-335ea6d16221_KR5-2024_screenshots_ipad-2732x2048_4-TOWERS_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/f4/6b/b0f46baf-448b-071c-b6f1-11dbeefc6e19/3f8051d0-ea16-46b2-81e3-df84241bdcdc_KR5-2024_screenshots_ipad-2732x2048_5-ENEMIES_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/7b/64/727b6470-9336-9cab-8968-f9af3886cf28/KRA_Crocs_ipad_2732x2048_UI.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/5f/e4/225fe431-43bc-9930-3475-b327ae7d83ae/KRA_Aracnophobia_iPad_2732x2048_ENG.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wall of insanity]]></title>
-        <id>Wall of insanity-1747404147142</id>
+        <id>Wall of insanity-tw-1747404147142</id>
         <link href="https://apps.apple.com/tw/app/wall-of-insanity/id1580067723?uo=4"/>
         <updated>2025-05-16T14:02:27.142Z</updated>
         <summary type="html"><![CDATA[价格: $90.00 → $30.00]]></summary>
@@ -614,7 +678,7 @@ Key Features:
     </entry>
     <entry>
         <title type="html"><![CDATA[手錶經典迷宮遊戲]]></title>
-        <id>手錶經典迷宮遊戲-1747404147142</id>
+        <id>手錶經典迷宮遊戲-tw-1747404147142</id>
         <link href="https://apps.apple.com/tw/app/%E6%89%8B%E9%8C%B6%E7%B6%93%E5%85%B8%E8%BF%B7%E5%AE%AE%E9%81%8A%E6%88%B2/id6740471827?uo=4"/>
         <updated>2025-05-16T14:02:27.142Z</updated>
         <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
@@ -628,7 +692,7 @@ Key Features:
     </entry>
     <entry>
         <title type="html"><![CDATA[RadarOmega]]></title>
-        <id>RadarOmega-1747382588836</id>
+        <id>RadarOmega-tw-1747382588836</id>
         <link href="https://apps.apple.com/tw/app/radaromega/id1439881811?uo=4"/>
         <updated>2025-05-16T08:03:08.836Z</updated>
         <summary type="html"><![CDATA[Data Level Beta: $2,990.00 → $300.00]]></summary>
@@ -740,7 +804,7 @@ https://www.radaromega.com/terms.php
     </entry>
     <entry>
         <title type="html"><![CDATA[RadarOmega]]></title>
-        <id>RadarOmega-1747378950513</id>
+        <id>RadarOmega-tw-1747378950513</id>
         <link href="https://apps.apple.com/tw/app/radaromega/id1439881811?uo=4"/>
         <updated>2025-05-16T07:02:30.513Z</updated>
         <summary type="html"><![CDATA[Data Level Gamma: $1,690.00 → $170.00]]></summary>
@@ -852,7 +916,7 @@ https://www.radaromega.com/terms.php
     </entry>
     <entry>
         <title type="html"><![CDATA[不玩手机-自律习惯养成记]]></title>
-        <id>不玩手机-自律习惯养成记-1747354157883</id>
+        <id>不玩手机-自律习惯养成记-tw-1747354157883</id>
         <link href="https://apps.apple.com/tw/app/%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA-%E8%87%AA%E5%BE%8B%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E8%AE%B0/id1449020025?uo=4"/>
         <updated>2025-05-16T00:09:17.883Z</updated>
         <summary type="html"><![CDATA[价格: $90.00 → 免費]]></summary>
@@ -882,7 +946,7 @@ App使用方法：
     </entry>
     <entry>
         <title type="html"><![CDATA[短語鍵盤]]></title>
-        <id>短語鍵盤-1747324955994</id>
+        <id>短語鍵盤-tw-1747324955994</id>
         <link href="https://apps.apple.com/tw/app/%E7%9F%AD%E8%AA%9E%E9%8D%B5%E7%9B%A4/id916976066?uo=4"/>
         <updated>2025-05-15T16:02:35.994Z</updated>
         <summary type="html"><![CDATA[Font Access: $1,790.00 → $170.00]]></summary>
@@ -957,7 +1021,7 @@ App使用方法：
     </entry>
     <entry>
         <title type="html"><![CDATA[The Witness]]></title>
-        <id>The Witness-1747317741478</id>
+        <id>The Witness-tw-1747317741478</id>
         <link href="https://apps.apple.com/tw/app/the-witness/id1230231705?uo=4"/>
         <updated>2025-05-15T14:02:21.478Z</updated>
         <summary type="html"><![CDATA[价格: $320.00 → $150.00]]></summary>
@@ -977,7 +1041,7 @@ The Witness 是一個單人遊戲，玩家在一個含有數十個地點的開�
     </entry>
     <entry>
         <title type="html"><![CDATA[Bloons TD 6]]></title>
-        <id>Bloons TD 6-1747317741478</id>
+        <id>Bloons TD 6-tw-1747317741478</id>
         <link href="https://apps.apple.com/tw/app/bloons-td-6/id1118115766?uo=4"/>
         <updated>2025-05-15T14:02:21.478Z</updated>
         <summary type="html"><![CDATA[价格: $220.00 → $120.00]]></summary>
@@ -1042,7 +1106,7 @@ Ninja Kiwi正在YouTube和Twitch上積極推廣頻道創作者。如果您尚未
     </entry>
     <entry>
         <title type="html"><![CDATA[短語鍵盤]]></title>
-        <id>短語鍵盤-1747303352192</id>
+        <id>短語鍵盤-tw-1747303352192</id>
         <link href="https://apps.apple.com/tw/app/%E7%9F%AD%E8%AA%9E%E9%8D%B5%E7%9B%A4/id916976066?uo=4"/>
         <updated>2025-05-15T10:02:32.192Z</updated>
         <summary type="html"><![CDATA[Font Access: $1,790.00 → $170.00]]></summary>
@@ -1117,7 +1181,7 @@ Ninja Kiwi正在YouTube和Twitch上積極推廣頻道創作者。如果您尚未
     </entry>
     <entry>
         <title type="html"><![CDATA[13:20:Sync]]></title>
-        <id>13:20:Sync-1747260127593</id>
+        <id>13:20:Sync-tw-1747260127593</id>
         <link href="https://apps.apple.com/tw/app/13-20-sync/id384363262?uo=4"/>
         <updated>2025-05-14T22:02:07.593Z</updated>
         <summary type="html"><![CDATA[价格: $150.00 → $90.00]]></summary>
@@ -1197,7 +1261,7 @@ On all the 3 main tabs you can share the current selected Galactic Signature usi
     </entry>
     <entry>
         <title type="html"><![CDATA[Iron Marines]]></title>
-        <id>Iron Marines-1747245784966</id>
+        <id>Iron Marines-tw-1747245784966</id>
         <link href="https://apps.apple.com/tw/app/iron-marines/id1056920931?uo=4"/>
         <updated>2025-05-14T18:03:04.966Z</updated>
         <summary type="html"><![CDATA[英雄超能博士: $150.00 → $90.00<br/>英雄藍色飛龍: $220.00 → $150.00<br/>英雄鐵甲馬克: $220.00 → $150.00<br/>英雄命運女俠: $90.00 → $30.00]]></summary>
@@ -1253,7 +1317,7 @@ On all the 3 main tabs you can share the current selected Galactic Signature usi
     </entry>
     <entry>
         <title type="html"><![CDATA[王國保衛戰：復仇]]></title>
-        <id>王國保衛戰：復仇-1747245784966</id>
+        <id>王國保衛戰：復仇-tw-1747245784966</id>
         <link href="https://apps.apple.com/tw/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E5%BE%A9%E4%BB%87/id1248033433?uo=4"/>
         <updated>2025-05-14T18:03:04.966Z</updated>
         <summary type="html"><![CDATA[价格: $150.00 → $90.00<br/>Hero Beresad: $220.00 → $150.00<br/>Tower Deep Devil's Reef: $90.00 → $30.00<br/>Tower Shaolin Temple: $90.00 → $30.00<br/>Tower Grim Cemetery: $90.00 → $30.00<br/>Hero Eiskalt: $190.00 → $120.00<br/>Hero Mortemis: $90.00 → $30.00]]></summary>
@@ -1317,7 +1381,7 @@ https://www.ironhidegames.com/PrivacyPolicy
     </entry>
     <entry>
         <title type="html"><![CDATA[FyTube -沒有廣告的 YouTube]]></title>
-        <id>FyTube -沒有廣告的 YouTube-1747231355788</id>
+        <id>FyTube -沒有廣告的 YouTube-tw-1747231355788</id>
         <link href="https://apps.apple.com/tw/app/fytube-%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4"/>
         <updated>2025-05-14T14:02:35.788Z</updated>
         <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
@@ -1384,7 +1448,7 @@ FyTube 與 YouTube 一起運作。YouTube 品牌和徽標是 Google, Inc. 的註
     </entry>
     <entry>
         <title type="html"><![CDATA[RFS - Real Flight Simulator]]></title>
-        <id>RFS - Real Flight Simulator-1747216950585</id>
+        <id>RFS - Real Flight Simulator-tw-1747216950585</id>
         <link href="https://apps.apple.com/tw/app/rfs-real-flight-simulator/id1444761746?uo=4"/>
         <updated>2025-05-14T10:02:30.585Z</updated>
         <summary type="html"><![CDATA[RFS Pro (1年): $990.00 → $950.00]]></summary>
@@ -1443,7 +1507,7 @@ FyTube 與 YouTube 一起運作。YouTube 品牌和徽標是 Google, Inc. 的註
     </entry>
     <entry>
         <title type="html"><![CDATA[RFS - Real Flight Simulator]]></title>
-        <id>RFS - Real Flight Simulator-1747213351139</id>
+        <id>RFS - Real Flight Simulator-tw-1747213351139</id>
         <link href="https://apps.apple.com/tw/app/rfs-real-flight-simulator/id1444761746?uo=4"/>
         <updated>2025-05-14T09:02:31.139Z</updated>
         <summary type="html"><![CDATA[RFS Pro (6個月): $990.00 → $640.00]]></summary>
@@ -1502,7 +1566,7 @@ FyTube 與 YouTube 一起運作。YouTube 品牌和徽標是 Google, Inc. 的註
     </entry>
     <entry>
         <title type="html"><![CDATA[小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者]]></title>
-        <id>小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者-1747198948726</id>
+        <id>小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者-tw-1747198948726</id>
         <link href="https://apps.apple.com/tw/app/%E5%B0%8F%E7%8C%AB%E8%A1%A5%E5%85%89%E7%81%AFpro-%E5%AE%98%E6%96%B9%E5%87%BA%E5%93%81-%E6%B0%9B%E5%9B%B4%E6%84%9F%E8%89%B2%E5%8D%A1%E8%A1%A5%E5%85%89%E8%87%AA%E6%8B%8D%E5%BC%80%E5%88%9B%E8%80%85/id6737987084?uo=4"/>
         <updated>2025-05-14T05:02:28.726Z</updated>
         <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
@@ -1553,7 +1617,7 @@ FyTube 與 YouTube 一起運作。YouTube 品牌和徽標是 Google, Inc. 的註
     </entry>
     <entry>
         <title type="html"><![CDATA[Kingdom Rush 5: Alliance TD]]></title>
-        <id>Kingdom Rush 5: Alliance TD-1747195400284</id>
+        <id>Kingdom Rush 5: Alliance TD-tw-1747195400284</id>
         <link href="https://apps.apple.com/tw/app/kingdom-rush-5-alliance-td/id1622869542?uo=4"/>
         <updated>2025-05-14T04:03:20.284Z</updated>
         <summary type="html"><![CDATA[所有英雄: $990.00 → $690.00]]></summary>
