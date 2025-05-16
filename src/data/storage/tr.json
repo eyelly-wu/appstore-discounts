@@ -22142,7 +22142,8 @@
       "Special Offer 19": "₺349,99",
       "Special Offer 18": "₺299,99",
       "Hero Tank": "₺249,99",
-      "Tower Rotten Forest": "₺39,99"
+      "Tower Rotten Forest": "₺39,99",
+      "Hero Murglun": "₺179,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -22167,9 +22168,29 @@
       "Special Offer 19": "₺349,99",
       "Special Offer 18": "₺299,99",
       "Hero Tank": "₺179,99",
-      "Tower Rotten Forest": "₺39,99"
+      "Tower Rotten Forest": "₺39,99",
+      "Hero Murglun": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747368259778,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Hero Beresad": "₺229,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Hero Jack'O Lantern": "₺39,99",
+            "Tower Rotten Forest": "₺39,99",
+            "Tower Blazing Gem": "₺129,99",
+            "Mega Tower Bundle": "₺699,99",
+            "Pirate Kings Campaign!": "₺349,99",
+            "Hero Mortemis": "₺39,99",
+            "Hero Murglun": "₺179,99",
+            "Tower Grim Cemetery": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747335730107,
@@ -23048,6 +23069,25 @@
       "Marvelous Mix vol. 12": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747368259778,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Xenon": "₺449,99",
+            "Miku": "₺449,99",
+            "ConneR": "₺449,99",
+            "CAPSO": "₺449,99",
+            "9 Characters": "₺1.499,99",
+            "Cherry": "₺449,99",
+            "Memory Unit [A1]": "₺229,99",
+            "JOE": "₺449,99",
+            "Ilka": "₺449,99",
+            "Nora": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747177348245,
@@ -28802,6 +28842,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747368259778,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "RFS Pro (1 month)": "₺99,99",
+            "RFS Pro (6 month)": "₺139,99",
+            "RFS Pro (1 year)": "₺189,99"
+          }
+        },
         {
           "timestamp": 1747350143850,
           "price": 39.99,
@@ -46537,6 +46587,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747368259778,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Boeing 737-900": "₺99,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Airbus A350-1000": "₺179,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "UH-60": "₺39,99",
+            "Boeing 787-10": "₺99,99",
+            "Airbus A321": "₺99,99",
+            "Global scenery - 12 months": "₺399,99"
+          }
+        },
         {
           "timestamp": 1747359004110,
           "price": 179.99,
