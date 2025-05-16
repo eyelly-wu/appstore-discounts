@@ -38390,11 +38390,21 @@
       "不玩手机永久会员": "$120.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "不玩手机永久会员": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747354157883,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "不玩手机永久会员": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,

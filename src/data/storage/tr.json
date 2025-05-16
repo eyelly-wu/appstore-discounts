@@ -29190,11 +29190,21 @@
       "不玩手机永久会员": "₺179,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "不玩手机永久会员": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747354157883,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "不玩手机永久会员": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
