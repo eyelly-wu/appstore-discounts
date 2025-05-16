@@ -37250,6 +37250,14 @@
     "history": [
       [
         {
+          "timestamp": 1747436543532,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746918126591,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -41147,14 +41155,22 @@
   "1639509098": {
     "name": "Pasha Planet: Reborn",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747436543532,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747342931454,
@@ -46427,6 +46443,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747436543532,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747004526223,
