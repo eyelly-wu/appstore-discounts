@@ -46677,6 +46677,25 @@
     "history": [
       [
         {
+          "timestamp": 1747375387089,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "女神祈禱好禮272": "$320.00",
+            "特權禮包271": "$320.00",
+            "女神幸運禮包270": "$490.00",
+            "女神祈禱好禮269": "$220.00",
+            "鑽石優惠禮包268": "$390.00",
+            "命運神殿禮包267": "$90.00",
+            "命運神殿禮包266": "$590.00",
+            "女神幸運禮包265": "$390.00",
+            "鑽石優惠禮包264": "$190.00",
+            "命運神殿禮包263": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747062149443,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -60526,7 +60545,13 @@
       "Pennsylvania Carriage B": "$60.00",
       "Pennsylvania Locomotive B": "$60.00",
       "Pennsylvania Locomotive A": "$60.00",
-      "Pennsylvania Carriage A": "$60.00"
+      "Pennsylvania Carriage A": "$60.00",
+      "Pennsylvania Character A": "$60.00",
+      "Pennsylvania Character B": "$60.00",
+      "Germany Carriage B": "$60.00",
+      "Germany Carriage A": "$60.00",
+      "Germany Locomotive B": "$60.00",
+      "Germany Locomotive A": "$60.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -60545,9 +60570,34 @@
       "Pennsylvania Carriage B": "$60.00",
       "Pennsylvania Locomotive B": "$60.00",
       "Pennsylvania Locomotive A": "$60.00",
-      "Pennsylvania Carriage A": "$60.00"
+      "Pennsylvania Carriage A": "$60.00",
+      "Pennsylvania Character A": "$60.00",
+      "Pennsylvania Character B": "$60.00",
+      "Germany Carriage B": "$60.00",
+      "Germany Carriage A": "$60.00",
+      "Germany Locomotive B": "$60.00",
+      "Germany Locomotive A": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747375387089,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Pennsylvania Carriage B": "$60.00",
+            "Pennsylvania Locomotive B": "$60.00",
+            "Pennsylvania Locomotive A": "$60.00",
+            "Pennsylvania Carriage A": "$60.00",
+            "Pennsylvania Character A": "$60.00",
+            "Pennsylvania Character B": "$60.00",
+            "Germany Carriage B": "$60.00",
+            "Germany Carriage A": "$60.00",
+            "Germany Locomotive B": "$60.00",
+            "Germany Locomotive A": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746799336853,
