@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-16T12:23:12.245Z</updated>
+    <updated>2025-05-16T14:22:05.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T12:23:12.247Z</updated>
+        <updated>2025-05-16T14:22:05.492Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,12 +28,14 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingFri, 16 May 2025 12:23:12 GMT</id>
+        <id>rankingFri, 16 May 2025 14:22:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T12:23:12.247Z</updated>
+        <updated>2025-05-16T14:22:05.493Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
-  <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>中国台湾(TW)</li><li>美国(US)</li><li>土耳其(TR)</li>
+  <li>
+    <b>中国大陆(CN)</b>
+  </li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>中国台湾(TW)</li><li>美国(US)</li><li>土耳其(TR)</li>
 </ol><h2>追踪的应用数量统计</h2><table>
   <thead>
     <tr>
@@ -57,7 +59,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>858</b>
       </td>
       <td>
-        <b>9</b>
+        <b>11</b>
       </td>
     </tr>
     <tr>
@@ -74,7 +76,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>421</b>
       </td>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
     </tr>
   </tbody>
@@ -82,11 +84,8 @@ feedId:49753297431966720+userId:73658201673997312
   <thead>
     <tr>
       <th>名次</th>
-      <th>应用ID</th>
-      <th>应用名称</th>
-      <th>总次数</th>
-      <th>价格</th>
-      <th>App 内购买项目</th>
+      <th>应用</th>
+      <th>优惠次数</th>
     </tr>
   </thead>
   <tbody>
@@ -94,156 +93,300 @@ feedId:49753297431966720+userId:73658201673997312
       <td>
         <b>1</b>
       </td>
-      <td>1095903651</td>
-      <td>【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件</td>
       <td>
-        <b>5</b>
+        <a href="https://apps.apple.com/cn/app/id1095903651">【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
       <td>
-        <b>5</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>5</b>
+          </li><li>
+            <span>价格</span>：<b>5</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>2</b>
       </td>
-      <td>1624326561</td>
-      <td>真武三国  英雄集结</td>
       <td>
-        <b>2</b>
+        <a href="https://apps.apple.com/cn/app/id1624326561">真武三国  英雄集结</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>SP武将碎片</i>：<b>2</b>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>SP武将碎片</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>3</b>
       </td>
-      <td>384363262</td>
-      <td>13:20:玛雅历</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/cn/app/id384363262">13:20:玛雅历</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>4</b>
       </td>
-      <td>829581836</td>
-      <td>Driving Theory Test 4 in 1 Kit</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/cn/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Learn to Drive Unlimited</i>：<b>1</b>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>Learn to Drive Unlimited</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>5</b>
       </td>
-      <td>1400032769</td>
-      <td>Card.Note - 多彩卡片笔记</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>6</b>
       </td>
-      <td>1449020025</td>
-      <td>不玩手机-自律习惯养成记</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/cn/app/id1449020025">不玩手机-自律习惯养成记</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>7</b>
       </td>
-      <td>6447693393</td>
-      <td>灵感卡片 - 创意笔记</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>8</b>
       </td>
-      <td>6737987084</td>
-      <td>小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>9</b>
       </td>
-      <td>6742129099</td>
-      <td>群英打三国-超休闲国风放置卡牌巅峰巨作</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
       </td>
       <td>
-        <b>1</b>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
       </td>
       <td>
-        <ol></ol>
+        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
+</table><h2>禁用推送应用列表</h2><table>
+  <thead>
+    <tr>
+      <th>序号</th>
+      <th>应用</th>
+      <th>添加方式</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>1</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1095903651">【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id488674899">雨雷達-實時天氣圖。 亞洲和中國。°</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+  </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手表经典迷宫游戏]]></title>
+        <id>手表经典迷宫游戏-1747404147142</id>
+        <link href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E7%BB%8F%E5%85%B8%E8%BF%B7%E5%AE%AB%E6%B8%B8%E6%88%8F/id6740471827?uo=4"/>
+        <updated>2025-05-16T14:02:27.142Z</updated>
+        <summary type="html"><![CDATA[价格: ¥1.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E7%BB%8F%E5%85%B8%E8%BF%B7%E5%AE%AB%E6%B8%B8%E6%88%8F/id6740471827?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/3b/ce9e3bbb-4f79-a61f-7e66-68d02617d17f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥1.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥1.00]</span>）
+</h2><h2>应用描述</h2><p>经典迷宫游戏是一款经典的益智游戏，非常适合在短暂休息时训练您的大脑。它设计为一​​款非常简单的单人游戏，通过滑过有趣的复古迷宫来玩。快速玩一局，挑战 500 个迷宫，成为迷宫之王。</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[群英打三国-超休闲国风放置卡牌巅峰巨作]]></title>

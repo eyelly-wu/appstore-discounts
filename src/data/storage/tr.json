@@ -28038,7 +28038,7 @@
       "Add-on RapidSweep": "₺2.999,99",
       "RapidSweep": "₺299,99",
       "Data Level Gamma": "₺329,99",
-      "Data Level Beta": "₺59,99",
+      "Data Level Beta": "₺599,99",
       "Data Level Alpha": "₺799,99"
     },
     "minPriceInfo": {
@@ -28047,11 +28047,26 @@
       "RadarOmega - Alpha Monthly": "₺79,99",
       "Add-on RapidSweep": "₺2.999,99",
       "RapidSweep": "₺299,99",
-      "Data Level Gamma": "₺329,99",
+      "Data Level Gamma": "₺32,99",
       "Data Level Beta": "₺59,99",
       "Data Level Alpha": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747404147142,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "RadarOmega - Alpha Monthly": "₺79,99",
+            "Data Level Alpha": "₺799,99",
+            "Data Level Beta": "₺599,99",
+            "Data Level Gamma": "₺32,99",
+            "RapidSweep": "₺299,99",
+            "Add-on RapidSweep": "₺2.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

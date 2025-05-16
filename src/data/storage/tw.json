@@ -46572,6 +46572,14 @@
     "history": [
       [
         {
+          "timestamp": 1747404147142,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746885724305,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -51598,8 +51606,8 @@
   "1639509098": {
     "name": "帕夏星球：重生",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -51607,6 +51615,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747404147142,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1747342931454,
           "price": 30,
@@ -58981,6 +58995,14 @@
     "history": [
       [
         {
+          "timestamp": 1747404147142,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746806549043,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -61072,6 +61094,23 @@
     "history": [
       [
         {
+          "timestamp": 1747404147142,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$90.00",
+            "500'000 Coins": "$60.00",
+            "Amazone CITAN 15001-C": "$30.00",
+            "200'000 Coins": "$30.00",
+            "KINZE 3665 Blue Drive": "$30.00",
+            "Mack Trucks Black Anthem 6x4": "$60.00",
+            "ClaasLexion8900+ConvioFlex1380": "$90.00",
+            "John Deere 8R 410": "$60.00",
+            "Versatile 4WD 620": "$60.00",
+            "Case IH Speed-Tiller": "$30.00"
+          }
+        },
+        {
           "timestamp": 1747402609881,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -61446,6 +61485,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747404147142,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746972131186,

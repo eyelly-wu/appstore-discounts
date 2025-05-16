@@ -38533,6 +38533,14 @@
     "history": [
       [
         {
+          "timestamp": 1747404147142,
+          "price": 0.89,
+          "formattedPrice": "USD 0.89",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746885724305,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -42456,8 +42464,8 @@
   "1639509098": {
     "name": "帕夏星球：重生",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -42465,6 +42473,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747404147142,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1747342931454,
           "price": 0.99,
@@ -47749,6 +47763,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747404147142,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746972131186,

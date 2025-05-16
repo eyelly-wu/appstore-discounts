@@ -47703,6 +47703,14 @@
     "history": [
       [
         {
+          "timestamp": 1747404147142,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746885724305,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -52765,8 +52773,8 @@
   "1639509098": {
     "name": "帕夏星球：重生",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -52774,6 +52782,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747404147142,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1747342931454,
           "price": 8,
@@ -60567,6 +60581,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747404147142,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746972131186,

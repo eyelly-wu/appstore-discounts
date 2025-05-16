@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-05-16T04:15:18.544Z</updated>
+    <updated>2025-05-16T14:22:05.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T04:15:18.546Z</updated>
+        <updated>2025-05-16T14:22:05.499Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,12 +28,14 @@ feedId:67474973430475776+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingFri, 16 May 2025 04:15:18 GMT</id>
+        <id>rankingFri, 16 May 2025 14:22:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T04:15:18.546Z</updated>
+        <updated>2025-05-16T14:22:05.499Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
-  <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>中国台湾(TW)</li><li>美国(US)</li><li>土耳其(TR)</li>
+  <li>中国大陆(CN)</li><li>
+    <b>中国香港(HK)</b>
+  </li><li>中国澳门(MO)</li><li>中国台湾(TW)</li><li>美国(US)</li><li>土耳其(TR)</li>
 </ol><h2>追踪的应用数量统计</h2><table>
   <thead>
     <tr>
@@ -57,7 +59,7 @@ feedId:67474973430475776+userId:73658201673997312
         <b>858</b>
       </td>
       <td>
-        <b>9</b>
+        <b>11</b>
       </td>
     </tr>
     <tr>
@@ -74,7 +76,7 @@ feedId:67474973430475776+userId:73658201673997312
         <b>789</b>
       </td>
       <td>
-        <b>9</b>
+        <b>11</b>
       </td>
     </tr>
   </tbody>
@@ -82,11 +84,8 @@ feedId:67474973430475776+userId:73658201673997312
   <thead>
     <tr>
       <th>名次</th>
-      <th>应用ID</th>
-      <th>应用名称</th>
-      <th>总次数</th>
-      <th>价格</th>
-      <th>App 內購買項目</th>
+      <th>应用</th>
+      <th>优惠次数</th>
     </tr>
   </thead>
   <tbody>
@@ -94,318 +93,544 @@ feedId:67474973430475776+userId:73658201673997312
       <td>
         <b>1</b>
       </td>
-      <td>1444761746</td>
-      <td>RFS - Real Flight Simulator</td>
       <td>
-        <b>5</b>
+        <a href="https://apps.apple.com/hk/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>RFS Pro (1年)</i>：<b>3</b>
+            <span>总次数</span>：<b>5</b>
           </li><li>
-            <i>RFS Pro (6個月)</i>：<b>2</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>RFS Pro (1年)</i>：<b>3</b>
+              </li><li>
+                <i>RFS Pro (6個月)</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>2</b>
       </td>
-      <td>1622869542</td>
-      <td>Kingdom Rush 5: Alliance TD</td>
       <td>
-        <b>4</b>
+        <a href="https://apps.apple.com/hk/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>所有英雄</i>：<b>4</b>
+            <span>总次数</span>：<b>4</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>所有英雄</i>：<b>4</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>3</b>
       </td>
-      <td>1248033433</td>
-      <td>王國保衛戰：復仇</td>
       <td>
-        <b>2</b>
+        <a href="https://apps.apple.com/hk/app/id1248033433">王國保衛戰：復仇</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Tower Blazing Gem</i>：<b>1</b>
+            <span>总次数</span>：<b>2</b>
           </li><li>
-            <i>Tower Grim Cemetery</i>：<b>1</b>
+            <span>价格</span>：<b>1</b>
           </li><li>
-            <i>Tower Goblin War Zeppelin</i>：<b>1</b>
-          </li><li>
-            <i>Tower Shaolin Temple</i>：<b>1</b>
-          </li><li>
-            <i>Hero Beresad</i>：<b>1</b>
-          </li><li>
-            <i>Hero Eiskalt</i>：<b>1</b>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Tower Blazing Gem</i>：<b>1</b>
+              </li><li>
+                <i>Tower Grim Cemetery</i>：<b>1</b>
+              </li><li>
+                <i>Tower Goblin War Zeppelin</i>：<b>1</b>
+              </li><li>
+                <i>Tower Shaolin Temple</i>：<b>1</b>
+              </li><li>
+                <i>Hero Beresad</i>：<b>1</b>
+              </li><li>
+                <i>Hero Eiskalt</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>4</b>
       </td>
-      <td>384363262</td>
-      <td>13:20:Sync</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id384363262">13:20:Sync</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>5</b>
       </td>
-      <td>916976066</td>
-      <td>短語鍵盤</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id916976066">短語鍵盤</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Font Access</i>：<b>1</b>
+            <span>总次数</span>：<b>1</b>
           </li><li>
-            <i>Pro Access</i>：<b>1</b>
+            <span>价格</span>：<b>0</b>
           </li><li>
-            <i>Ultimate Access</i>：<b>1</b>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Font Access</i>：<b>1</b>
+              </li><li>
+                <i>Pro Access</i>：<b>1</b>
+              </li><li>
+                <i>Ultimate Access</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>6</b>
       </td>
-      <td>1056920931</td>
-      <td>Iron Marines</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id1056920931">Iron Marines</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>英雄超能博士</i>：<b>1</b>
+            <span>总次数</span>：<b>1</b>
           </li><li>
-            <i>英雄藍色飛龍</i>：<b>1</b>
+            <span>价格</span>：<b>0</b>
           </li><li>
-            <i>英雄風刃</i>：<b>1</b>
-          </li><li>
-            <i>英雄鐵甲馬克</i>：<b>1</b>
-          </li><li>
-            <i>英雄命運女俠</i>：<b>1</b>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>英雄超能博士</i>：<b>1</b>
+              </li><li>
+                <i>英雄藍色飛龍</i>：<b>1</b>
+              </li><li>
+                <i>英雄風刃</i>：<b>1</b>
+              </li><li>
+                <i>英雄鐵甲馬克</i>：<b>1</b>
+              </li><li>
+                <i>英雄命運女俠</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>7</b>
       </td>
-      <td>1118115766</td>
-      <td>Bloons TD 6</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id1118115766">Bloons TD 6</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>8</b>
       </td>
-      <td>1198176727</td>
-      <td>Controller for HomeKit</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id1198176727">Controller for HomeKit</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Lifetime license</i>：<b>1</b>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Lifetime license</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>9</b>
       </td>
-      <td>1230231705</td>
-      <td>The Witness</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id1230231705">The Witness</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>10</b>
       </td>
-      <td>1238247658</td>
-      <td>Cluedo: Classic Edition</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id1238247658">Cluedo: Classic Edition</a>
       </td>
       <td>
-        <b></b>
-      </td>
-      <td>
-        <ol>
+        <ul>
           <li>
-            <i>Ultimate Detective Collection</i>：<b>1</b>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Ultimate Detective Collection</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>11</b>
       </td>
-      <td>1400032769</td>
-      <td>Card.Note - 多彩卡片笔记</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>12</b>
       </td>
-      <td>1449020025</td>
-      <td>不玩手机-自律习惯养成记</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id1449020025">不玩手机-自律习惯养成记</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>13</b>
       </td>
-      <td>1610668825</td>
-      <td>FyTube -沒有廣告的 YouTube</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>14</b>
       </td>
-      <td>6447693393</td>
-      <td>灵感卡片 - 创意笔记</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>15</b>
       </td>
-      <td>6737987084</td>
-      <td>小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</td>
       <td>
-        <b>1</b>
+        <a href="https://apps.apple.com/hk/app/id6447693393">灵感卡片 - 创意笔记</a>
       </td>
       <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ol></ol>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>
         <b>16</b>
       </td>
-      <td>6469114836</td>
-      <td>スイカゲーム-Aladdin X</td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id6469114836">スイカゲーム-Aladdin X</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>2025春いちごスキン</i>：<b>1</b>
+              </li><li>
+                <i>2025春さくらスキン</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>18</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id6740471827">手錶經典迷宮遊戲</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table><h2>禁用推送应用列表</h2><table>
+  <thead>
+    <tr>
+      <th>序号</th>
+      <th>应用</th>
+      <th>添加方式</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td>
         <b>1</b>
       </td>
       <td>
-        <b></b>
+        <a href="https://apps.apple.com/hk/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
       </td>
       <td>
-        <ol>
-          <li>
-            <i>2025春いちごスキン</i>：<b>1</b>
-          </li><li>
-            <i>2025春さくらスキン</i>：<b>1</b>
-          </li>
-        </ol>
+        <a href="https://apps.apple.com/hk/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id533055404">夜星 (Night Stars)</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id460661291">Safety Note+ Pro</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id505904421">AirDisk Pro</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id1527841661">沙盒星球</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id456637671">安全監控照片+視頻Pro</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id818394449">时间轴-全球历史</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id1485101937">Juice Watch</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id488674899">雨雷達 ° -實時天氣圖</a>
+      </td>
+      <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wall of insanity]]></title>
+        <id>Wall of insanity-1747404147142</id>
+        <link href="https://apps.apple.com/hk/app/wall-of-insanity/id1580067723?uo=4"/>
+        <updated>2025-05-16T14:02:27.142Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 22.00 → HK$ 8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/wall-of-insanity/id1580067723?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/19/70/ff197039-0e95-c3f5-b891-2528ca6b48b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 22.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 2.00 ~ HK$ 22.00]</span>）
+</h2><h2>应用描述</h2><p>
+  Wall of Insanity is a new project from the creators of the Slaughter game series.
+It features a dark storyline, intense action, and a mystical journey into a dead, smoldering world.
+You will face the unknown. A descent into a kingdom of anxiety and madness. The path through the abyss will be difficult, the trek extremely dangerous, and you will be left almost hopeless.
+
+
+Story:
+
+A police operation to detain a dangerous cult's sectarians leads to unexpectedly deadly consequences. That squad vanished under mysterious circumstances, and the Special Unit soldiers sent in to investigate their disappearance find just an empty, abandoned house. This is only where the story begins...
+
+
+
+Key Features:
+
+- Active battles with the use of firearms. Survival depends on caution, reaction speed, and weapon accuracy. Use elements of the environment itself to escape this horrific world.
+
+- A journey to another world where fear, sorrow, and madness rule. A diligently crafted, ominous environment, fraught with mystery and danger, lies ahead of you. How far will you dare to go?
+
+- A plethora of traps and enemies await around every corner. Investigate your surroundings carefully. Don't take unnecessary risks. Study your enemies. Carefully selected tactics will save your ammunition.  And your life.
+
+- Explore the world to replenish and expand your arsenal. Weapons and useful items will be needed.  Look for secrets, documents, and workarounds to prevail against all odds.
+
+- Wall of Insanity features simple controls, gamepad support, good optimization, and a wide graphics customization.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c4/db/72/c4db72ae-6966-3dea-6345-ebc631252eeb/c0eeb319-7ee6-4783-9165-c79de8b508dc_screenshot_2021_07_30_01_58_27FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/67/01/6d/67016dd5-3cfd-18b6-7ac7-a5da751bfe74/ecfede19-4b72-4112-9d83-2ad2318b031f_screenshot_2021_07_30_02_20_36FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0d/02/6d/0d026d86-277a-17a3-d423-659810be2a5b/5e69ff8c-5a9a-4df8-b9c1-9ee4845dbe09_screenshot_2021_08_02_01_21_14FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f7/1f/7e/f71f7e73-4005-c7f7-29fc-397e1d124e34/5c17abb4-1468-4eb4-bfb9-bfb63c8157a3_screenshot_2021_08_02_01_57_35FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/99/0b/09/990b09b5-dee2-a1e5-cb76-63f48caa0e34/391da31f-2564-4470-9e75-ce4cb5858488_screenshot_2021_08_02_02_04_44FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/04/18/06/04180699-34d8-08ae-339c-6e8b309ce534/09f8f0f7-87aa-47de-8da5-27ab16f72fe9_screenshot_2021_08_02_03_27_42FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/67/90/4e/67904e28-7359-e237-141c-6967590f42d6/502ced7d-ec6c-4621-8d6a-a8ec60acd029_screenshot_2021_08_02_11_18_56FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/41/46/48/414648ef-0bac-1055-9cf2-7dc7ed711430/98ececb8-8a8a-461c-9481-34766ec1dc05_screenshot_2021_08_02_11_29_51FullHD.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/94/81/2b/94812b39-1485-a7c3-ba54-e3288f7c560b/d870480f-17dc-4574-835c-ebc7357fb0a7_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/11/32/88/11328833-437b-28c7-922c-41cc64a3ad7b/224c3ae3-94c0-4414-89b7-5c2792a3f359_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a7/f7/a4/a7f7a4d9-6beb-84bc-c8e2-cb382d3ab639/b84dd720-ce42-482a-b207-45f0b7057f4b_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1b/b3/35/1bb33588-14f8-5756-5e48-fd917d09b4be/6d2e4143-66fa-4e88-a3e5-417e5cd167a4_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/b5/f4/7d/b5f47db8-10f6-10f2-79f4-e47e8e7c4bb0/938bc130-2009-43ea-a616-f39a600906f7_05.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c6/a4/24/c6a4241b-e4af-df76-d450-346278ea7604/3e19b5f5-ce83-41c6-91f2-0ab81277d7a0_06.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/7c/42/95/7c4295c0-1583-0636-1c03-cf7dc4cc34ae/0b5d4192-15bc-44a2-9cd7-1e44f7608845_07.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/49/2e/f8/492ef858-bd0e-3003-128d-c0b6cc34a676/7269390a-1257-4735-bd5b-b2feb6bf962a_08.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/5e/b0/46/5eb04605-848c-6aec-0464-49bc4779ef71/01687f51-cbac-48bb-ad28-07e96809e8f0_09.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e1/ab/89/e1ab894c-df85-92ab-18c4-d0c90ff86bc3/9890583e-a2dc-4ce3-b9e2-fd78201429c8_10.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手錶經典迷宮遊戲]]></title>
+        <id>手錶經典迷宮遊戲-1747404147142</id>
+        <link href="https://apps.apple.com/hk/app/%E6%89%8B%E9%8C%B6%E7%B6%93%E5%85%B8%E8%BF%B7%E5%AE%AE%E9%81%8A%E6%88%B2/id6740471827?uo=4"/>
+        <updated>2025-05-16T14:02:27.142Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 8.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E6%89%8B%E9%8C%B6%E7%B6%93%E5%85%B8%E8%BF%B7%E5%AE%AE%E9%81%8A%E6%88%B2/id6740471827?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/3b/ce9e3bbb-4f79-a61f-7e66-68d02617d17f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 8.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ HK$ 8.00]</span>）
+</h2><h2>应用描述</h2><p>經典迷宮遊戲是一款經典的益智遊戲，非常適合在短暫休息時訓練您的大腦。它設計為一款非常簡單的單人遊戲，透過滑過有趣的復古迷宮來玩。快速玩一局，挑戰 500 個迷宮，成為迷宮之王。</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RFS - Real Flight Simulator]]></title>
@@ -1415,67 +1640,5 @@ FyTube 與 YouTube 一起運作。YouTube 品牌和徽標是 Google, Inc. 的註
 
 選擇你的遊戲困難模式，找到屬於你的公平挑戰：休閒，普通或老兵別太狂妄了要么狂妄一點你自己決定！！
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/91/53/de9153dd-653c-e8dc-51bc-6018cc35b50b/822f0b37-135c-4b09-9398-ecfee027d5b1_2208x1242_5-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/0f/d0/dd0fd04e-8132-604b-b171-95e06bb4d947/10a8a69e-f126-42a4-a714-b44639c71873_2208x1242_2-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/92/a0/c6/92a0c67a-5879-3d40-806c-ce89c194d219/f5d557b2-8b0a-4455-ad54-5875200b2c8d_2208x1242_4-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/28/e7/4d/28e74d1f-45e3-ed64-8c76-d4896da280d5/cde13322-d468-47e7-9177-ceb7896d6312_2208x1242_3-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/df/e2/a9dfe293-f633-6816-68ae-427757d3147b/86f5d183-59aa-4c95-a352-24ddaba7a56c_2208x1242_1-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/03/b0/4903b0aa-84e5-7831-74a9-ff27b26a4c36/zh-Hant_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/1c/4c/1c1c4c91-6498-642b-bd28-e41b25c17cff/zh-Hant_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0c/2b/0c/0c2b0cd6-35b7-eab2-3ab2-61fedd498c92/b176156c-a9ef-443c-bee6-bab7b3b4deec_2732x2048_5-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/b8/c7/87b8c771-def4-a791-0ac2-ce7eb6357da6/28f5abfd-8c06-4d7d-905d-cbcf17ab84b4_2732x2048_2-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d0/1d/19/d01d190e-fb08-b846-90f9-ea480098eb2a/08e24119-6757-4458-bf71-7240ac371ad1_2732x2048_4-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8b/6d/a1/8b6da151-ec81-d378-6819-fa6f22e35359/7a30a9d8-9199-46f9-a0cd-a4347dc443ee_2732x2048_3-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/d8/fc/c4d8fc7d-df71-7af4-0fff-aaf9e922332b/cb8b5eb0-e1a9-40c4-b17b-2996edfd9775_2732x2048_1-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d9/a2/98/d9a29891-b4aa-0bbc-b1b5-143d7b6275fe/63c64062-48e3-468a-b858-c6ac51462e29_2732x2048bb__U00281_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/31/a1/44/31a14474-cac1-e895-ec12-cb3b15330aae/47b0430f-a870-42ab-a94d-11fec7c5fa64_2732x2048bb.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kingdom Rush 5: Alliance TD]]></title>
-        <id>Kingdom Rush 5: Alliance TD-1747130552388</id>
-        <link href="https://apps.apple.com/hk/app/kingdom-rush-5-alliance-td/id1622869542?uo=4"/>
-        <updated>2025-05-13T10:02:32.388Z</updated>
-        <summary type="html"><![CDATA[所有英雄: HK$ 228.00 → HK$ 148.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/kingdom-rush-5-alliance-td/id1622869542?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/df/d2/4ddfd2eb-2dbe-0cd0-022f-960064e02170/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>所有英雄：</strong><span>HK$ 228.00</span> → <b>
-  <strong>HK$ 148.00</strong>
-</b><span>[HK$ 148.00 ~ HK$ 228.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  比以往任何時候都更具威脅和力量，Kingdom Rush 5：Alliance 帶來了一種全新、令人興奮的體驗，以其前作的快節奏和引人入勝的玩法為基礎，贏得了獎項的讚譽。
-
-當一種強大的邪惡浮現時，一個意想不到的聯盟正在形成！需要Linirea的最佳戰士和不屈不撓的黑暗軍團來阻止它。小心！儘管他們可能並肩旅行，命運的變幻莫測之風可能會迅速改變他們的方向。
-
-準備在戰場上發揮雙英雄的強大力量！
-是的，現在你不僅可以玩一個龍，還可以玩兩個龍！雙倍的噴火樂趣，雙倍的混亂——只要確保他們不會爭吵誰能囤積更多的金子！ 
-
-所有重量級角色如聖騎士、弓箭手、法師、死靈法師等等都聽你指揮。但要注意，他們可能會開始爭論誰是隊伍中的真正英雄，而敵人卻悄悄溜過去！ 
-你準備好迎接終極對決了嗎？和Linirea的勇敢戰士們以及不屈不撓的暗黑軍團一起，踏上征服一個巨大敵人的史詩旅程。 
-
-遊戲特色：
-招募34名獨特的英雄和塔樓！
-
-- 18個精英塔樓建造和升級
-沒有強大的防禦塔的策略遊戲算什麼？奪取它們，以對抗任何敵人！
-選擇精準的弓箭手、致命的聖騎士，甚至是狡猾的惡魔坑。
-
-- 16個史詩英雄 - 將塔防戰鬥提升到新的水平
-同時使用2位英雄玩！
-準備見證最不可能的雙英雄組合的強大威力。一個森林守護靈和一個強大的戰鬥機器人，或者是一個彎曲空間的法師和你的平均喬。
-
-- 6種地形，擁有迷人的戰場等你征服
-保衛Kingdom Rush的多彩景觀。穿越王國深林，甚至其危險的洞穴作戰。
-
-- 25個充滿快節奏td戰鬥的戰役階段
-在充滿驚喜挑戰和細節的異國地形中設定你的策略。
-面對成群的不可預測的敵人和史詩般的boss戰鬥，將你的防禦策略推向極限！
-
-- 3種不同的遊戲模式來測試你的實力
-在取得勝利後，嘗試以更具挑戰性的方式玩每個階段。誰不喜歡一個好的挑戰呢？
-
-- 58多個遊戲成就在戰鬥中征服
-沒有誘人的獎勵，史詩策略遊戲算什麼？展示你的技能，解鎖獎勵！
-
-- 45種以上不同的敵人來測試你的塔防智慧
-展現聯盟的td戰鬥技能，對抗4個不同的敵人氏族。用獨特的防禦策略擊敗他們每一個！
-
-- 當然…
-有很多復活節彩蛋和Ironhide Game Studio一貫的輕鬆幽默。
-因為沒有一些隱藏的驚喜，策略遊戲算什麼呢？
-
-
---------
-Ironhide的服務條款：https://www.ironhidegames.com/TermsOfService
-Ironhide隱私政策：https://www.ironhidegames.com/PrivacyPolicy
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/ed/33/6ded33fc-dea5-49c8-886b-d389466513d2/4601ff94-845f-42ae-a829-46b03abfa439_KR5-2024_screenshots_iphone-2208x1242_1-TD_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/ec/6c/0aec6c39-6e71-a20a-68d4-d7390bc2b94a/d2703a3c-2470-4540-bb17-e2851ac67229_KR5-2024_screenshots_iphone-2208x1242_2-HEROES_Traditional-TH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/c4/c2/a0c4c216-1372-152e-4c6a-80e4e66b7a63/19222394-c75f-447b-b43e-7b6911218a7a_KR5-2024_screenshots_iphone-2208x1242_2-HEROES_Traditional-TH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/ca/12/4fca1295-3814-baa2-e4ef-5f3500b1a12b/fdb82b7f-6d39-4146-bbaf-a4a5cca5efc7_KR5-2024_screenshots_iphone-2208x1242_3-LANDS_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/f1/04/7af10451-d0d0-a2ad-53b8-a9bad848d3d9/ba86a3e6-c024-450a-9dba-2e1d0c97a4c4_KR5-2024_screenshots_iphone-2208x1242_4-TOWERS_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/6a/ee/bf6aeedc-68ae-a8db-bc12-1dcb40612f6a/20e5ef86-568b-47e2-b604-26f8864447a6_KR5-2024_screenshots_iphone-2208x1242_5-ENEMIES_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/a4/ec/74a4ec8d-a124-56a1-54fb-cf9abc8b11af/KRA_Crocs_iphone5.5_2208x1242_UI.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/06/b1/1806b1ca-fa31-504b-bc88-b6a02b2554b1/KRA_Arachnophobia_iPhone5.5_2208x1242_ENG.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/2d/47/372d4750-1ec0-7189-4e17-10be316a98e3/3963fa7b-8db7-45ee-9ff5-35076a7b1b10_KR5-2024_screenshots_ipad-2732x2048_1-TD_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/b2/d1/87b2d134-db42-42b6-907e-b275cea4728e/17f4a675-88a9-4f41-9b9e-6114df136e5d_KR5-2024_screenshots_ipad-2732x2048_2-HEROES_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/52/55/75525543-883f-9280-1179-729beba31a03/53025c2a-9085-4f87-a86b-066fde5ebb22_KR5-2024_screenshots_ipad-2732x2048_3-LANDS_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7c/34/177c3421-1571-b831-c61a-36c41be237ff/03d3f80b-cdc8-4d32-8824-335ea6d16221_KR5-2024_screenshots_ipad-2732x2048_4-TOWERS_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/f4/6b/b0f46baf-448b-071c-b6f1-11dbeefc6e19/3f8051d0-ea16-46b2-81e3-df84241bdcdc_KR5-2024_screenshots_ipad-2732x2048_5-ENEMIES_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/7b/64/727b6470-9336-9cab-8968-f9af3886cf28/KRA_Crocs_ipad_2732x2048_UI.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/5f/e4/225fe431-43bc-9930-3475-b327ae7d83ae/KRA_Aracnophobia_iPad_2732x2048_ENG.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
