@@ -7,6 +7,8 @@ import {
   regionInAppPurchasesTextMap,
   regions,
 } from 'appinfo.config'
+import { getAppStoreUrl } from '@/data/utils'
+import { isEmpty } from 'lodash'
 
 function getCount(appConfig: AppConfig[]) {
   const allCount = appConfig.length
@@ -47,7 +49,7 @@ export default function addRankingFeedItem(props: {
   } = props
 
   const t = getTranslate(region)
-  const regionNameMap = getRegionNameMap()
+  const regionNameMap = getRegionNameMap(t)
   const inAppPurchasesTextMap = regionInAppPurchasesTextMap[region]
   const date = new Date()
 
@@ -55,8 +57,29 @@ export default function addRankingFeedItem(props: {
     getCount(appConfig)
   const storageAppInfo = regionStorageAppInfo[region]
   const regionAppIds = Object.keys(storageAppInfo)
-  const regionAppConfig = appConfig.filter((item) =>
-    regionAppIds.includes(`${item.id}`),
+  const { regionAppConfig, disableApps } = appConfig.reduce(
+    (res, item) => {
+      const { id, allowNotification, addType } = item
+      const isInclude = regionAppIds.includes(`${id}`)
+
+      if (isInclude) {
+        res.regionAppConfig.push(item)
+        if (allowNotification === false) {
+          const appInfo = storageAppInfo[id]
+          res.disableApps.push({ id, name: appInfo.name, addType })
+        }
+      }
+
+      return res
+    },
+    {
+      regionAppConfig: [] as AppConfig[],
+      disableApps: [] as Array<{
+        id: number
+        name: string
+        addType: AppConfig['addType']
+      }>,
+    },
   )
   const {
     allCount: regionAllCount,
@@ -97,11 +120,14 @@ export default function addRankingFeedItem(props: {
       <>
         <h2>{t('追踪的国家或地区')}</h2>
         <ol>
-          {regions.map((region) => (
-            <li>
-              {regionNameMap[region]}({region.toUpperCase()})
-            </li>
-          ))}
+          {regions.map((regionItem) => {
+            const content = `${
+              regionNameMap[regionItem]
+            }(${regionItem.toUpperCase()})`
+            const isCurrent = regionItem === region
+
+            return <li>{isCurrent ? <b>{content}</b> : content}</li>
+          })}
         </ol>
         <h2>{t('追踪的应用数量统计')}</h2>
         <table>
@@ -161,11 +187,8 @@ export default function addRankingFeedItem(props: {
           <thead>
             <tr>
               <th>{t('名次')}</th>
-              <th>{t('应用ID')}</th>
-              <th>{t('应用名称')}</th>
-              <th>{t('总次数')}</th>
-              <th>{t('价格')}</th>
-              <th>{inAppPurchasesTextMap}</th>
+              <th>{t('应用')}</th>
+              <th>{t('优惠次数')}</th>
             </tr>
           </thead>
           <tbody>
@@ -177,24 +200,60 @@ export default function addRankingFeedItem(props: {
                   <td>
                     <b>{index + 1}</b>
                   </td>
-                  <td>{appId}</td>
-                  <td>{name}</td>
                   <td>
-                    <b>{all}</b>
+                    <a href={getAppStoreUrl(region, appId)}>{name}</a>
                   </td>
                   <td>
-                    <b>{price}</b>
+                    <ul>
+                      <li>
+                        <span>{t('总次数')}</span>：<b>{all}</b>
+                      </li>
+                      <li>
+                        <span>{t('价格')}</span>：<b>{`${price}`}</b>
+                      </li>
+                      {!isEmpty(inAppPurchasesInfo) && (
+                        <li>
+                          <span>{inAppPurchasesTextMap}</span>
+                          <ol>
+                            {inAppPurchasesInfo.map(({ name, count }) => {
+                              return (
+                                <li>
+                                  <i>{name}</i>：<b>{count}</b>
+                                </li>
+                              )
+                            })}
+                          </ol>
+                        </li>
+                      )}
+                    </ul>
+                  </td>
+                </tr>
+              )
+            })}
+          </tbody>
+        </table>
+        <h2>{t('禁用推送应用列表')}</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>{t('序号')}</th>
+              <th>{t('应用')}</th>
+              <th>{t('添加方式')}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {disableApps.map((disableApp, index) => {
+              const { id, name, addType } = disableApp
+              return (
+                <tr>
+                  <td>
+                    <b>{index + 1}</b>
                   </td>
                   <td>
-                    <ol>
-                      {inAppPurchasesInfo.map(({ name, count }) => {
-                        return (
-                          <li>
-                            <i>{name}</i>：<b>{count}</b>
-                          </li>
-                        )
-                      })}
-                    </ol>
+                    <a href={getAppStoreUrl(region, id)}>{name}</a>
+                  </td>
+                  <td>
+                    {addType === 'manual' ? t('自动添加') : t('人为添加')}
                   </td>
                 </tr>
               )

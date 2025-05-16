@@ -1,16 +1,21 @@
+import { Translate } from 'i18n-pro'
+
 export const regions: Region[] = ['cn', 'hk', 'mo', 'tw', 'us', 'tr']
 
 /**
  * 注意：这里默认写的是中文，做了多语言支持，以中文为key
  */
-export const getRegionNameMap = () => ({
-  cn: t('中国大陆'),
-  hk: t('中国香港'),
-  mo: t('中国澳门'),
-  tw: t('中国台湾'),
-  us: t('美国'),
-  tr: t('土耳其'),
-})
+export const getRegionNameMap = (tProp?: Translate) => {
+  const t = tProp || (global as any).t
+  return {
+    cn: t('中国大陆'),
+    hk: t('中国香港'),
+    mo: t('中国澳门'),
+    tw: t('中国台湾'),
+    us: t('美国'),
+    tr: t('土耳其'),
+  }
+}
 
 /**
  * 注意：这里的 value 值是从浏览器打开应用详情页时，对应的 `App 内购买项目` 的标题
