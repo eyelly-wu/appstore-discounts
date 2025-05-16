@@ -4475,6 +4475,7 @@ export const appConfig: AppConfig[] = [
       cn: '【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1099088440,
@@ -4892,6 +4893,7 @@ export const appConfig: AppConfig[] = [
       tr: 'RFS - Real Flight Simulator',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1449893235,
