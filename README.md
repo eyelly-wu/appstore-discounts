@@ -67,7 +67,7 @@ Click  [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!
 So far, we've covered `6` `Countries or Regions` and  `1059` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The application currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
-|Serial Number|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
+|No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |1059|1609683141|Automatic|❌|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|
 |1058|1639509098|Automatic|❌|帕夏星球：重生|帕夏星球：重生|帕夏星球：重生|Pasha Planet: Reborn|Pasha Planet: Reborn|
@@ -690,7 +690,7 @@ So far, we've covered `6` `Countries or Regions` and  `1059` `Apps` <br />Push n
 |441|1077639630|Automatic|说剑The Swords|❌|❌|❌|❌|❌|
 |440|1093131935|Automatic|❌|Incredibox|Incredibox|Incredibox|Incredibox|Incredibox|
 |439|1094038347|Automatic|❌|Only You Are Here|Only You Are Here|Only You Are Here|Only You Are Here|Only You Are Here|
-|438|1095903651|Automatic|【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|
+|438| ~~1095903651~~ |Automatic| ~~【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ |
 |437|1099088440|Automatic|火柴人联盟2|火柴人联盟2|火柴人联盟2|火柴人联盟2|❌|❌|
 |436|1108479411|Automatic|❌|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Racing Games|
 |435|1110646984|Automatic|地下城堡2: 黑暗觉醒|❌|❌|❌|❌|❌|
@@ -747,7 +747,7 @@ So far, we've covered `6` `Countries or Regions` and  `1059` `Apps` <br />Push n
 |384|1439881811|Automatic|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|
 |383|1441969889|Automatic|❌|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|
 |382|1442776789|Automatic|❌|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|Pirates Outlaws|Pirates Outlaws|
-|381|1444761746|Automatic|❌|RFS - Real Flight Simulator|RFS - Real Flight Simulator|RFS - Real Flight Simulator|RFS - Real Flight Simulator|RFS - Real Flight Simulator|
+|381| ~~1444761746~~ |Automatic| ~~❌~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ |
 |380|1449893235|Automatic|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|
 |379|1450064785|Automatic|山林日志|山林日誌|山林日誌|山林日誌|Hiking Logger|❌|
 |378|1450144092|Automatic|❌|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|

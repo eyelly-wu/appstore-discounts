@@ -693,7 +693,7 @@
 |441|1077639630|自动|说剑The Swords|❌|❌|❌|❌|❌|
 |440|1093131935|自动|❌|Incredibox|Incredibox|Incredibox|Incredibox|Incredibox|
 |439|1094038347|自动|❌|Only You Are Here|Only You Are Here|Only You Are Here|Only You Are Here|Only You Are Here|
-|438|1095903651|自动|【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件|
+|438| ~~1095903651~~ |自动| ~~【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ |
 |437|1099088440|自动|火柴人联盟2|火柴人联盟2|火柴人联盟2|火柴人联盟2|❌|❌|
 |436|1108479411|自动|❌|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Racing Games|
 |435|1110646984|自动|地下城堡2: 黑暗觉醒|❌|❌|❌|❌|❌|
@@ -750,7 +750,7 @@
 |384|1439881811|自动|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|
 |383|1441969889|自动|❌|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|
 |382|1442776789|自动|❌|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|Pirates Outlaws|Pirates Outlaws|
-|381|1444761746|自动|❌|RFS - Real Flight Simulator|RFS - Real Flight Simulator|RFS - Real Flight Simulator|RFS - Real Flight Simulator|RFS - Real Flight Simulator|
+|381| ~~1444761746~~ |自动| ~~❌~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ |
 |380|1449893235|自动|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|
 |379|1450064785|自动|山林日志|山林日誌|山林日誌|山林日誌|Hiking Logger|❌|
 |378|1450144092|自动|❌|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|
