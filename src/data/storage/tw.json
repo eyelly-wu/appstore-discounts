@@ -26357,7 +26357,8 @@
       "Special Offer": "$190.00",
       "Chest of gems": "$690.00",
       "Hero Dianyun": "$190.00",
-      "Tower Blazing Gem": "$150.00"
+      "Tower Blazing Gem": "$150.00",
+      "Tower Rotten Forest": "$30.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -26389,9 +26390,29 @@
       "Special Offer": "$190.00",
       "Chest of gems": "$690.00",
       "Hero Dianyun": "$190.00",
-      "Tower Blazing Gem": "$150.00"
+      "Tower Blazing Gem": "$150.00",
+      "Tower Rotten Forest": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747359004110,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Mega Tower Bundle": "$490.00",
+            "Mega Heroe Bundle": "$590.00",
+            "Hero Beresad": "$150.00",
+            "Hammerhold Campaign!": "$290.00",
+            "Pirate Kings Campaign!": "$290.00",
+            "Tower Deep Devil's Reef": "$30.00",
+            "Tower Shaolin Temple": "$30.00",
+            "Tower Grim Cemetery": "$30.00",
+            "Hero Eiskalt": "$120.00",
+            "Tower Rotten Forest": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747245784966,
