@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-16T14:22:05.524Z</updated>
+    <updated>2025-05-16T15:50:04.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,9 +18,9 @@ feedId:99063474310237184+userId:73658201673997312
     <rights>Copyright (c) 2024-present Eyelly Wu</rights>
     <entry>
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
-        <id>welcome</id>
+        <id>welcometr</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T14:22:05.524Z</updated>
+        <updated>2025-05-16T15:50:04.232Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingFri, 16 May 2025 14:22:05 GMT</id>
+        <id>rankingtrFri, 16 May 2025 15:50:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T14:22:05.524Z</updated>
+        <updated>2025-05-16T15:50:04.232Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -50,13 +50,13 @@ feedId:99063474310237184+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1059</b>
+        <b>1060</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>858</b>
+        <b>859</b>
       </td>
       <td>
         <b>11</b>
@@ -67,13 +67,13 @@ feedId:99063474310237184+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>958</b>
+        <b>959</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>786</b>
+        <b>787</b>
       </td>
       <td>
         <b>11</b>
@@ -111,6 +111,31 @@ feedId:99063474310237184+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id1439881811">RadarOmega</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Data Level Gamma</i>：<b>1</b>
+              </li><li>
+                <i>Data Level Beta</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id384363262">13:20:Sync</a>
       </td>
       <td>
@@ -125,7 +150,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1038014543">Day R Premium</a>
@@ -148,7 +173,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1118115766">Bloons TD 6</a>
@@ -165,7 +190,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1230231705">The Witness</a>
@@ -182,7 +207,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1248033433">Kingdom Rush Vengeance TD</a>
@@ -219,7 +244,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -236,7 +261,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -251,29 +276,6 @@ feedId:99063474310237184+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>UPGRADE PRO</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>9</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1439881811">RadarOmega</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Data Level Gamma</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -394,7 +396,7 @@ feedId:99063474310237184+userId:73658201673997312
       <td>
         <a href="https://apps.apple.com/tr/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
-      <td>Artificially Added</td>
+      <td>Automatically Added</td>
     </tr>
     <tr>
       <td>
@@ -403,7 +405,7 @@ feedId:99063474310237184+userId:73658201673997312
       <td>
         <a href="https://apps.apple.com/tr/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
-      <td>Artificially Added</td>
+      <td>Automatically Added</td>
     </tr>
     <tr>
       <td>
@@ -491,7 +493,119 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[RadarOmega]]></title>
-        <id>RadarOmega-1747404147142</id>
+        <id>RadarOmega-tr-1747409417480</id>
+        <link href="https://apps.apple.com/tr/app/radaromega/id1439881811?uo=4"/>
+        <updated>2025-05-16T15:30:17.480Z</updated>
+        <summary type="html"><![CDATA[Data Level Beta: ₺599,99 → ₺59,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/radaromega/id1439881811?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/10/93/a710933f-6d27-5051-35a4-14628eb59772/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Data Level Beta：</strong><span>₺599,99</span> → <b>
+  <strong>₺59,99</strong>
+</b><span>[₺59,99 ~ ₺599,99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Welcome to RadarOmega, the next-generation weather app that takes high-resolution weather data to a whole new level. More than just radar, RadarOmega provides unique data solutions for all types of weather data that are customizable depending on your needs, whether that's before, during, or after the storm.
+
+Dedicated to providing solutions to our industry, RadarOmega created an exclusive network of weather stations featuring live video and sensor data called cyclonePORT. RadarOmega and cyclonePORT work closely with universities, emergency managers, broadcast meteorologists, and more to provide solutions for relaying critical weather information when life-threatening weather situations are imminent.
+
+RadarOmega provides high-resolution radar data for the United States, Canada, Germany, Australia, and South Korea.
+
+Base Application
+-NEW Warning Display Dialog
+-NEW Hi-Res Storm Relative Velocity
+-MRMS Reflectivity
+-Hi-Res Single Site Radar Data
+-30 Frames of Data
+-7 Day Radar History
+-Lightning Detection/Animation
+-24 Hour Storm Reports
+-SPC Convective Outlooks & Watches
+-NHC Tropical Suite & Hurricane Hunter
+-WPC Excessive Rainfall Outlooks
+-Mesoscale Discussions (Severe, Winter, & Precip.)
+-CPC Temp. & Precip. Outlooks
+-Fire Weather Outlooks & Drought Monitor
+-WPC Winter Forecasts & WSSI
+-METARS
+-Real-Time NWS Storm-Based Warnings
+-Non-Precip Watches/Warnings for USA
+-Flash Animation & In-App Sound Alert for All Alerts
+-WPC Surface Analysis
+-Buoy Data & Tide Forecasts
+-NEXRAD Hail History
+-Spotter Network Locations
+-Power Outage Layer
+-Map Type Customization
+-Detailed City & Road Network
+-15 Custom Locations with a Linked RadarOmega Account
+-Drawing, Data Viewer, & Distance Tools
+-Storm Track Drawing Tool
+-Share Screenshot & Video
+-Push Notifications for All Storm-Based Watches/Warnings Using GPS Location
+-Access to cyclonePORT Network
+
+Gamma
+-Hi-Res Satellite Data
+-Lightning Detection/Animation, METARS, & GLM for Mesoscale & Storm-Based Satellite Sectors
+-National Digital Forecast Database
+-Access to Project MesoVort
+-75 Frames of Data
+-Dual View Radar with 30 Frames
+-Smoothing for Radar/Satellite
+-30 Day Radar History
+-6 Month Storm Report Archive
+-3D Radar/Satellite
+-Upload 3 Custom Color Tables
+-30 Custom Locations with Icon Upload
+-2 Custom Location Lists
+-Push Notifications Open to All Weather Alerts Using GPS Location ONLY (max of 8 at a time)
+
+Beta
+*Everything in Gamma PLUS*
+-MRMS Data
+-150 Frames of Data
+-Dual View Radar/Satellite with 50 Frames
+-Smoothing for MRMS
+-90 Day Radar History
+-5 Year Storm Report Archive
+-3D MRMS
+-Upload 8 Custom Color Tables
+-75 Custom Locations with Icon Upload
+-5 Custom Location Lists
+
+Alpha
+*Everything in Beta PLUS*
+-Volumetric Radar
+-Model Data with Contours for HRRR, NAM3KM, NAM12KM, RAP, GFS, ECMWF, HWRF, & HMON
+-250 Frames of Data
+-Dual View Radar/Satellite with 100 Frames
+-Quad View Radar/Satellite on iPad & Desktop with 50 Frames
+-Smoothing for Models
+-90 Day Radar History
+-10 Year Storm Report Archive
+-Upload 30 Custom Color Tables
+-150 Custom Locations with Icon Upload
+-10 Custom Location Lists
+-1 Site Lightning Monitoring with Custom Range Zones
+-Push Notifications Open to All Weather Alerts for up to 3 Custom Locations and GPS Locations (max of 8 at a time)
+
+Additional Add-Ons
+-Rapid Sweep
+
+Subscriptions are maintained through the iOS App Store. We will work with our customers however, refunds must be done through the iOS App Store. Please be sure to reach out to our support team if you have any problems, questions, or concerns.
+
+For Support- You can create a ticket and we will resolve it as soon as possible:
+https://radaromegawx.supportbee.io/portal/sign_in
+
+See our Terms of Service below:
+https://www.radaromega.com/terms.php
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/a0/b1/cba0b148-9eaa-9a47-da9e-45d65bf7f816/e90191d7-7579-4f97-8bfd-9766293668dc_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ca/3d/96/ca3d9672-ea03-a549-81eb-a3a6a602ee88/da406343-067f-4559-86a2-7927d1809130_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/f0/10/71f010a6-d7b4-e7b3-9ef0-a2a97077b553/5eccabd1-e9d3-4d76-94e7-aa2cc08b9a60_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/ff/bc/dbffbc1d-e9b3-9910-fe8a-36c37b06e19a/9ae6876e-5ffa-43ec-bfb0-1fda0f6d9b69_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/44/ff/2e44ff71-dfc9-56df-bcd1-fc1702f8dfed/d2042b4e-4ae3-43e3-91ee-6f2cb1a507c9_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/56/e0/06/56e00608-00c9-1dbb-f18d-fc53baf1577d/6b28007c-3fb2-4b27-8686-482ef5d01c5b_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/c2/38/e3c23878-cb09-deb5-d6bd-8492932eca3c/c458a94d-17b0-410c-87d6-a66810dd3f60_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/3e/0f/4b3e0f16-79b8-6bd4-4317-48c776cd4225/dd21e4ef-3e7e-4b38-8f09-f8e278e48919_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/67/6c/d5/676cd5a6-019e-3d14-9ad5-93c60518dc66/ae0d43d9-a4e7-4aaf-a434-694c89b151bd_9.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7a/ca/4e/7aca4e26-9a12-1fe5-7126-1f3cf9eb7949/97f989e6-c0c8-4e71-b0cc-b8ddd01786b2_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/16/2c/31162ccb-ccf6-47dd-752b-17c8dc3dea04/36ee86ec-f1d9-4297-92e0-ea0df446ebaf_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/d3/39/16d339aa-355e-32f4-2144-44f8cc394f43/a095cb5b-1b11-4042-b079-96c4f095ee72_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/48/23/a4482390-6e52-d697-2f8b-b219fbaba96b/f64d266f-6959-4086-b513-d2e0b3609688_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/dc/13/1bdc1340-f3f4-0637-4cd5-0bc4504d1a98/1f2f55fc-78e7-4a27-9c39-a08ae43d070c_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/67/ac/c267ac67-12c5-2359-e57c-972a406a865f/99606828-9d64-44be-a1d6-51a2638b0c81_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/55/36/4a5536b3-de9d-eab5-8266-1a1647a5f3d1/db65b030-4d42-4b69-9d8e-eac580537315_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/c2/c4/f5c2c44d-809a-8d92-c927-842913995d07/9c87fca9-56e7-4b89-94fb-d19fd72acc73_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/90/94/19909454-1871-744d-963b-9bbc9d3e3ae8/156ccf19-a0cc-4c0e-ad35-0ae251229ba9_8.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f4/c3/7a/f4c37ad2-6776-603f-92ea-ade50e56d900/f986356f-c6bf-4f2f-9391-237286b6245f_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/d1/d5/16d1d58c-efd2-0f48-aed0-f14081c2830b/0cd5bf19-cf98-4432-8cb4-fa4036826240_10.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RadarOmega]]></title>
+        <id>RadarOmega-tr-1747404147142</id>
         <link href="https://apps.apple.com/tr/app/radaromega/id1439881811?uo=4"/>
         <updated>2025-05-16T14:02:27.142Z</updated>
         <summary type="html"><![CDATA[Data Level Gamma: ₺329,99 → ₺32,99]]></summary>
@@ -603,7 +717,7 @@ https://www.radaromega.com/terms.php
     </entry>
     <entry>
         <title type="html"><![CDATA[不玩手机-自律习惯养成记]]></title>
-        <id>不玩手机-自律习惯养成记-1747354157883</id>
+        <id>不玩手机-自律习惯养成记-tr-1747354157883</id>
         <link href="https://apps.apple.com/tr/app/%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA-%E8%87%AA%E5%BE%8B%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E8%AE%B0/id1449020025?uo=4"/>
         <updated>2025-05-16T00:09:17.883Z</updated>
         <summary type="html"><![CDATA[Price: ₺129,99 → Free]]></summary>
@@ -633,7 +747,7 @@ App使用方法：
     </entry>
     <entry>
         <title type="html"><![CDATA[The Witness]]></title>
-        <id>The Witness-1747350143850</id>
+        <id>The Witness-tr-1747350143850</id>
         <link href="https://apps.apple.com/tr/app/the-witness/id1230231705?uo=4"/>
         <updated>2025-05-15T23:02:23.850Z</updated>
         <summary type="html"><![CDATA[Price: ₺449,99 → ₺229,99]]></summary>
@@ -653,7 +767,7 @@ The Witness is a single-player game in an open world with dozens of locations to
     </entry>
     <entry>
         <title type="html"><![CDATA[甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件]]></title>
-        <id>甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件-1747350143850</id>
+        <id>甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件-tr-1747350143850</id>
         <link href="https://apps.apple.com/tr/app/%E7%94%9C%E8%9B%99-%E7%BA%A6%E4%BC%9A%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA-%E5%90%8C%E5%9F%8E%E9%99%8C%E7%94%9F%E4%BA%BA%E4%BA%A4%E5%8F%8B%E9%99%AA%E7%8E%A9%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/id1095903651?uo=4"/>
         <updated>2025-05-15T23:02:23.850Z</updated>
         <summary type="html"><![CDATA[Price: ₺39,99 → ₺19,99]]></summary>
@@ -695,7 +809,7 @@ The Witness is a single-player game in an open world with dozens of locations to
     </entry>
     <entry>
         <title type="html"><![CDATA[Bloons TD 6]]></title>
-        <id>Bloons TD 6-1747350143850</id>
+        <id>Bloons TD 6-tr-1747350143850</id>
         <link href="https://apps.apple.com/tr/app/bloons-td-6/id1118115766?uo=4"/>
         <updated>2025-05-15T23:02:23.850Z</updated>
         <summary type="html"><![CDATA[Price: ₺299,99 → ₺179,99]]></summary>
@@ -757,7 +871,7 @@ Ninja Kiwi is actively promoting channel creators on YouTube and Twitch! If you 
     </entry>
     <entry>
         <title type="html"><![CDATA[Day R Premium]]></title>
-        <id>Day R Premium-1747335730107</id>
+        <id>Day R Premium-tr-1747335730107</id>
         <link href="https://apps.apple.com/tr/app/day-r-premium/id1038014543?uo=4"/>
         <updated>2025-05-15T19:02:10.107Z</updated>
         <summary type="html"><![CDATA[Handful of caps: ₺99,99 → ₺39,99]]></summary>
@@ -818,7 +932,7 @@ User agreement: http://tltgames.ru/license-agreement-en
     </entry>
     <entry>
         <title type="html"><![CDATA[MONOPOLY: The Board Game]]></title>
-        <id>MONOPOLY: The Board Game-1747314586633</id>
+        <id>MONOPOLY: The Board Game-tr-1747314586633</id>
         <link href="https://apps.apple.com/tr/app/monopoly-the-board-game/id1477966166?uo=4"/>
         <updated>2025-05-15T13:09:46.633Z</updated>
         <summary type="html"><![CDATA[The Slam Dunk Bundle: ₺299,99 → ₺229,99]]></summary>
@@ -886,7 +1000,7 @@ Play Marmalade Game Studio’s multiplayer games with friends and family whereve
     </entry>
     <entry>
         <title type="html"><![CDATA[RFS - Real Flight Simulator]]></title>
-        <id>RFS - Real Flight Simulator-1747281796322</id>
+        <id>RFS - Real Flight Simulator-tr-1747281796322</id>
         <link href="https://apps.apple.com/tr/app/rfs-real-flight-simulator/id1444761746?uo=4"/>
         <updated>2025-05-15T04:03:16.322Z</updated>
         <summary type="html"><![CDATA[RFS Pro (1 year): ₺599,99 → ₺189,99]]></summary>
@@ -945,7 +1059,7 @@ Support: rfs@rortos.com
     </entry>
     <entry>
         <title type="html"><![CDATA[甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件]]></title>
-        <id>甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件-1747263723701</id>
+        <id>甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件-tr-1747263723701</id>
         <link href="https://apps.apple.com/tr/app/%E7%94%9C%E8%9B%99-%E7%BA%A6%E4%BC%9A%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA-%E5%90%8C%E5%9F%8E%E9%99%8C%E7%94%9F%E4%BA%BA%E4%BA%A4%E5%8F%8B%E9%99%AA%E7%8E%A9%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/id1095903651?uo=4"/>
         <updated>2025-05-14T23:02:03.701Z</updated>
         <summary type="html"><![CDATA[Price: ₺39,99 → ₺19,99]]></summary>
@@ -987,7 +1101,7 @@ Support: rfs@rortos.com
     </entry>
     <entry>
         <title type="html"><![CDATA[Kingdom Rush Vengeance TD]]></title>
-        <id>Kingdom Rush Vengeance TD-1747263723701</id>
+        <id>Kingdom Rush Vengeance TD-tr-1747263723701</id>
         <link href="https://apps.apple.com/tr/app/kingdom-rush-vengeance-td/id1248033433?uo=4"/>
         <updated>2025-05-14T23:02:03.701Z</updated>
         <summary type="html"><![CDATA[Price: ₺229,99 → ₺129,99<br/>Hero Beresad: ₺299,99 → ₺229,99<br/>Tower Blazing Gem: ₺229,99 → ₺129,99<br/>Hero Mortemis: ₺129,99 → ₺39,99<br/>Tower Grim Cemetery: ₺129,99 → ₺39,99<br/>Tower Deep Devil's Reef: ₺129,99 → ₺39,99<br/>Hero Jack'O Lantern: ₺129,99 → ₺39,99<br/>Tower Goblin War Zeppelin: ₺299,99 → ₺229,99<br/>Hero Tank: ₺249,99 → ₺179,99]]></summary>
@@ -1110,7 +1224,7 @@ We would love to see your content on Youtube and Twitch! We support and promote 
     </entry>
     <entry>
         <title type="html"><![CDATA[13:20:Sync]]></title>
-        <id>13:20:Sync-1747256537899</id>
+        <id>13:20:Sync-tr-1747256537899</id>
         <link href="https://apps.apple.com/tr/app/13-20-sync/id384363262?uo=4"/>
         <updated>2025-05-14T21:02:17.899Z</updated>
         <summary type="html"><![CDATA[Price: ₺179,99 → ₺129,99]]></summary>
@@ -1190,7 +1304,7 @@ On all the 3 main tabs you can share the current selected Galactic Signature usi
     </entry>
     <entry>
         <title type="html"><![CDATA[CatLight Pro: Selfie Light Cam]]></title>
-        <id>CatLight Pro: Selfie Light Cam-1747198948726</id>
+        <id>CatLight Pro: Selfie Light Cam-tr-1747198948726</id>
         <link href="https://apps.apple.com/tr/app/catlight-pro-selfie-light-cam/id6737987084?uo=4"/>
         <updated>2025-05-14T05:02:28.726Z</updated>
         <summary type="html"><![CDATA[Price: ₺4,99 → Free]]></summary>
@@ -1234,7 +1348,7 @@ Whether you're a content creator, makeup enthusiast, or just want to take better
     </entry>
     <entry>
         <title type="html"><![CDATA[甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件]]></title>
-        <id>甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件-1747181355329</id>
+        <id>甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件-tr-1747181355329</id>
         <link href="https://apps.apple.com/tr/app/%E7%94%9C%E8%9B%99-%E7%BA%A6%E4%BC%9A%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA-%E5%90%8C%E5%9F%8E%E9%99%8C%E7%94%9F%E4%BA%BA%E4%BA%A4%E5%8F%8B%E9%99%AA%E7%8E%A9%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/id1095903651?uo=4"/>
         <updated>2025-05-14T00:09:15.329Z</updated>
         <summary type="html"><![CDATA[Price: ₺39,99 → ₺19,99]]></summary>

@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1523146826,
+    name: {
+      hk: '全民RPG：重啟',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1609683141,
     name: {
       us: 'Dirt Trackin 3',

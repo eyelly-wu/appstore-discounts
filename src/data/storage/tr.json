@@ -28054,6 +28054,19 @@
     "history": [
       [
         {
+          "timestamp": 1747409417480,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "RadarOmega - Alpha Monthly": "₺79,99",
+            "Add-on RapidSweep": "₺2.999,99",
+            "RapidSweep": "₺299,99",
+            "Data Level Gamma": "₺329,99",
+            "Data Level Beta": "₺59,99",
+            "Data Level Alpha": "₺799,99"
+          }
+        },
+        {
           "timestamp": 1747404147142,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -34252,6 +34265,55 @@
           "price": 99.99,
           "formattedPrice": "₺99,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1523146826": {
+    "name": "Everybody's RPG: Reboot",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "Daily Jewel Package": "₺899,99",
+      "Lite Daily Jewel Package": "₺399,99",
+      "Starter Package A": "₺699,99",
+      "Jewel Package D": "₺1.999,99",
+      "Jewel Package A": "₺229,99",
+      "Jewel Package F": "₺3.999,99",
+      "Jewel Package C": "₺999,99",
+      "Jewel Package B": "₺399,99",
+      "Jewel Package E": "₺2.999,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "Daily Jewel Package": "₺899,99",
+      "Lite Daily Jewel Package": "₺399,99",
+      "Starter Package A": "₺699,99",
+      "Jewel Package D": "₺1.999,99",
+      "Jewel Package A": "₺229,99",
+      "Jewel Package F": "₺3.999,99",
+      "Jewel Package C": "₺999,99",
+      "Jewel Package B": "₺399,99",
+      "Jewel Package E": "₺2.999,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747409417480,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Daily Jewel Package": "₺899,99",
+            "Lite Daily Jewel Package": "₺399,99",
+            "Starter Package A": "₺699,99",
+            "Jewel Package D": "₺1.999,99",
+            "Jewel Package A": "₺229,99",
+            "Jewel Package F": "₺3.999,99",
+            "Jewel Package C": "₺999,99",
+            "Jewel Package B": "₺399,99",
+            "Jewel Package E": "₺2.999,99"
+          }
         }
       ]
     ]
@@ -44379,6 +44441,25 @@
       "1980 Gold": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747409417480,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "120 Gold": "₺99,99",
+            "Backpack Expansion": "₺99,99",
+            "Double Combat Rewards": "₺99,99",
+            "3280 Gold": "₺2.299,99",
+            "1280 Gold": "₺899,99",
+            "300 Gold": "₺229,99",
+            "980 Gold": "₺699,99",
+            "6480 Gold": "₺4.499,99",
+            "1980 Gold": "₺1.299,99",
+            "60 Gold": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746118928892,
