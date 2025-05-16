@@ -113,7 +113,7 @@ export default function addRankingFeedItem(props: {
 
   feed.addItem({
     title: t('统计数据报告'),
-    id: 'ranking' + date.toUTCString(),
+    id: 'ranking' + region + date.toUTCString(),
     link: homepage,
     description: t('最新统计数据报告'),
     content: render(

@@ -164,7 +164,7 @@ export default function addDiscountFeedItems(props: {
 
     feed.addItem({
       title: `${trackName}`,
-      id: `${trackName}-${timestamp}`,
+      id: `${trackName}-${region}-${timestamp}`,
       link: trackViewUrl,
       description: getShowDescription(discountInfo),
       content: getShowContent(region, t, discountInfo),

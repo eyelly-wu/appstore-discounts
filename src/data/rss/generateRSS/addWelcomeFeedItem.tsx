@@ -8,7 +8,7 @@ export default function addWelcomeFeedItem(feed: Feed, region: Region) {
 
   feed.addItem({
     title: '🎉 ' + t('欢迎订阅{0}', ' App Store Discounts'),
-    id: 'welcome',
+    id: 'welcome' + region,
     link: homepage,
     ...(() => {
       const description = t(
