@@ -4632,6 +4632,23 @@
     "history": [
       [
         {
+          "timestamp": 1747389749016,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "Amped Guitar & Bass": "HK$ 22.00",
+            "Synth Lead": "HK$ 18.00",
+            "Sliced Beats": "HK$ 8.00",
+            "Chill-Lo-Fi Mobile": "HK$ 18.00",
+            "Synth Plucks": "HK$ 18.00",
+            "PsyTrance": "HK$ 22.00",
+            "Technocraft": "HK$ 18.00",
+            "Hyper-Pop Mobile": "HK$ 22.00",
+            "Chip-Tune Mobile": "HK$ 22.00",
+            "Tuned 808 Bass": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1747386148356,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
@@ -16565,7 +16582,11 @@
       "2025 Birthday Package": "HK$ 148.00",
       "2025 Birthday Package (Basic)": "HK$ 98.00",
       "森日豪華禮包": "HK$ 148.00",
-      "森日精選禮包": "HK$ 98.00"
+      "森日精選禮包": "HK$ 98.00",
+      "Starter Package": "HK$ 8.00",
+      "年訂閱": "HK$ 330.00",
+      "月訂閱（早鳥）": "HK$ 35.00",
+      "年訂閱（早鳥）": "HK$ 200.00"
     },
     "minPriceInfo": {
       "price": 28,
@@ -16588,9 +16609,31 @@
       "2025 Birthday Package": "HK$ 118.00",
       "2025 Birthday Package (Basic)": "HK$ 88.00",
       "森日豪華禮包": "HK$ 148.00",
-      "森日精選禮包": "HK$ 98.00"
+      "森日精選禮包": "HK$ 98.00",
+      "Starter Package": "HK$ 8.00",
+      "年訂閱": "HK$ 330.00",
+      "月訂閱（早鳥）": "HK$ 35.00",
+      "年訂閱（早鳥）": "HK$ 200.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747389749016,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "森日豪華禮包": "HK$ 148.00",
+            "森日精選禮包": "HK$ 98.00",
+            "Elite Package": "HK$ 88.00",
+            "Supreme Package": "HK$ 38.00",
+            "Advanced Package": "HK$ 22.00",
+            "Starter Package": "HK$ 8.00",
+            "年訂閱": "HK$ 330.00",
+            "月訂閱（早鳥）": "HK$ 35.00",
+            "年訂閱（早鳥）": "HK$ 200.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746581397218,

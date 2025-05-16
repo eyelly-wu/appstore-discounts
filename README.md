@@ -376,7 +376,7 @@ So far, we've covered `6` `Countries or Regions` and  `1059` `Apps` <br />Push n
 |755|6738590491|Automatic|KennysGifs|KennysGifs|KennysGifs|KennysGifs|KennysGifs|KennysGifs|
 |754|6444311205|Automatic|❌|GRID™ Legends: Deluxe Edition|GRID™ Legends: Deluxe Edition|GRID™ Legends: Deluxe Edition|GRID™ Legends: Deluxe Edition|GRID™ Legends: Deluxe Edition|
 |753|6477660875|Automatic|❌|大海賊探險物語DX|大海賊探險物語DX|大海賊探險物語DX|High Sea Saga DX|High Sea Saga DX|
-|752|6447090616|Automatic|Whisper Notes - 离线 AI 语音转文字|Whisper Notes - 離線AI語音輸入轉錄文字辨識|Whisper Notes - 離線AI語音輸入轉錄文字辨識|Whisper Notes - 離線AI語音輸入轉錄文字辨識|Whisper Notes - Speech To Text|Whisper Notes - Speech To Text|
+|752|6447090616|Automatic|Whisper Notes - 离线AI语音识别转录成文字|Whisper Notes - 離線AI語音輸入轉錄文字辨識|Whisper Notes - 離線AI語音輸入轉錄文字辨識|Whisper Notes - 離線AI語音輸入轉錄文字辨識|Whisper Notes - Speech To Text|Whisper Notes - Speech To Text|
 |751|414371107|Automatic|Morse Elmer|Morse Elmer|Morse Elmer|Morse Elmer|Morse Elmer|Morse Elmer|
 |750|510119487|Automatic|AnatomyMapp|AnatomyMapp|AnatomyMapp|AnatomyMapp|AnatomyMapp|AnatomyMapp|
 |749|561396899|Automatic|❌|皇帝養成計畫 - 經典歷史模擬遊戲|皇帝養成計畫 - 經典歷史模擬遊戲|皇帝養成計畫 - 經典歷史模擬遊戲|皇帝養成計畫 - 經典歷史模擬遊戲|皇帝養成計畫 - 經典歷史模擬遊戲|
