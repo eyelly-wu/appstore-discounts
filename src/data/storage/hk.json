@@ -61414,8 +61414,8 @@
   "6446178861": {
     "name": "PlayNav - 影片內無廣告！",
     "maxPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00",
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
       "高級功能": "HK$ 22.00"
     },
     "minPriceInfo": {
@@ -61424,6 +61424,16 @@
       "高級功能": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747461779730,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "高級功能": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746403790381,

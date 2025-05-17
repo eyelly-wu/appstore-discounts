@@ -45490,8 +45490,8 @@
   "6446178861": {
     "name": "PlayNav - 影片内无广告！",
     "maxPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00",
+      "price": 8,
+      "formattedPrice": "¥8.00",
       "高级功能": "¥22.00"
     },
     "minPriceInfo": {
@@ -45500,6 +45500,16 @@
       "高级功能": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747461779730,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "高级功能": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746403790381,

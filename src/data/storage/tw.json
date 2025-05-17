@@ -62208,8 +62208,8 @@
   "6446178861": {
     "name": "PlayNav - 影片內無廣告！",
     "maxPriceInfo": {
-      "price": 20,
-      "formattedPrice": "$20.00",
+      "price": 30,
+      "formattedPrice": "$30.00",
       "高級功能": "$90.00"
     },
     "minPriceInfo": {
@@ -62218,6 +62218,16 @@
       "高級功能": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747461779730,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "高級功能": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746399731721,

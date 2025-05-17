@@ -46932,8 +46932,8 @@
   "6446178861": {
     "name": "PlayNav - No ads in videos!",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99",
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
       "Premium Features": "₺129,99"
     },
     "minPriceInfo": {
@@ -46942,6 +46942,16 @@
       "Premium Features": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747461779730,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Premium Features": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746399731721,

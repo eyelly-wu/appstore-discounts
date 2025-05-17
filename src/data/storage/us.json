@@ -61928,8 +61928,8 @@
   "6446178861": {
     "name": "PlayNav - No ads in videos!",
     "maxPriceInfo": {
-      "price": 0.49,
-      "formattedPrice": "$0.49",
+      "price": 0.99,
+      "formattedPrice": "$0.99",
       "Premium Features": "$2.99"
     },
     "minPriceInfo": {
@@ -61938,6 +61938,16 @@
       "Premium Features": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747461779730,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Premium Features": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746399731721,
