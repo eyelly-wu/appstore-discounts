@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-05-16T14:22:05.510Z</updated>
+    <updated>2025-05-17T19:22:05.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,9 +18,9 @@ feedId:73536165737884672+userId:73658201673997312
     <rights>Copyright (c) 2024-present Eyelly Wu</rights>
     <entry>
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
-        <id>welcome</id>
+        <id>welcomemo</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T14:22:05.511Z</updated>
+        <updated>2025-05-17T19:22:05.833Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:73536165737884672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingFri, 16 May 2025 14:22:05 GMT</id>
+        <id>rankingmoSat, 17 May 2025 19:22:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T14:22:05.511Z</updated>
+        <updated>2025-05-17T19:22:05.833Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -50,13 +50,13 @@ feedId:73536165737884672+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1059</b>
+        <b>1062</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>858</b>
+        <b>861</b>
       </td>
       <td>
         <b>11</b>
@@ -67,13 +67,13 @@ feedId:73536165737884672+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>964</b>
+        <b>967</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>785</b>
+        <b>788</b>
       </td>
       <td>
         <b>11</b>
@@ -197,14 +197,20 @@ feedId:73536165737884672+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1449020025">不玩手机-自律习惯养成记</a>
+        <a href="https://apps.apple.com/mo/app/id1439881811">RadarOmega</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Data Level Gamma</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -214,7 +220,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1580067723">Wall of insanity</a>
+        <a href="https://apps.apple.com/mo/app/id1449020025">不玩手机-自律习惯养成记</a>
       </td>
       <td>
         <ul>
@@ -231,7 +237,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
+        <a href="https://apps.apple.com/mo/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -248,7 +254,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id6447693393">灵感卡片 - 创意笔记</a>
+        <a href="https://apps.apple.com/mo/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
       </td>
       <td>
         <ul>
@@ -265,7 +271,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
+        <a href="https://apps.apple.com/mo/app/id6447693393">灵感卡片 - 创意笔记</a>
       </td>
       <td>
         <ul>
@@ -280,6 +286,23 @@ feedId:73536165737884672+userId:73658201673997312
     <tr>
       <td>
         <b>11</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6740471827">手錶經典迷宮遊戲</a>
@@ -311,7 +334,7 @@ feedId:73536165737884672+userId:73658201673997312
       <td>
         <a href="https://apps.apple.com/mo/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
@@ -320,7 +343,7 @@ feedId:73536165737884672+userId:73658201673997312
       <td>
         <a href="https://apps.apple.com/mo/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
@@ -407,8 +430,120 @@ feedId:73536165737884672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RadarOmega]]></title>
+        <id>RadarOmega-mo-1747508527409</id>
+        <link href="https://apps.apple.com/mo/app/radaromega/id1439881811?uo=4"/>
+        <updated>2025-05-17T19:02:07.409Z</updated>
+        <summary type="html"><![CDATA[Data Level Gamma: USD 49.99 → USD 4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/radaromega/id1439881811?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/10/93/a710933f-6d27-5051-35a4-14628eb59772/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Data Level Gamma：</strong><span>USD 49.99</span> → <b>
+  <strong>USD 4.99</strong>
+</b><span>[USD 4.99 ~ USD 49.99]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Welcome to RadarOmega, the next-generation weather app that takes high-resolution weather data to a whole new level. More than just radar, RadarOmega provides unique data solutions for all types of weather data that are customizable depending on your needs, whether that's before, during, or after the storm.
+
+Dedicated to providing solutions to our industry, RadarOmega created an exclusive network of weather stations featuring live video and sensor data called cyclonePORT. RadarOmega and cyclonePORT work closely with universities, emergency managers, broadcast meteorologists, and more to provide solutions for relaying critical weather information when life-threatening weather situations are imminent.
+
+RadarOmega provides high-resolution radar data for the United States, Canada, Germany, Australia, and South Korea.
+
+Base Application
+-NEW Warning Display Dialog
+-NEW Hi-Res Storm Relative Velocity
+-MRMS Reflectivity
+-Hi-Res Single Site Radar Data
+-30 Frames of Data
+-7 Day Radar History
+-Lightning Detection/Animation
+-24 Hour Storm Reports
+-SPC Convective Outlooks & Watches
+-NHC Tropical Suite & Hurricane Hunter
+-WPC Excessive Rainfall Outlooks
+-Mesoscale Discussions (Severe, Winter, & Precip.)
+-CPC Temp. & Precip. Outlooks
+-Fire Weather Outlooks & Drought Monitor
+-WPC Winter Forecasts & WSSI
+-METARS
+-Real-Time NWS Storm-Based Warnings
+-Non-Precip Watches/Warnings for USA
+-Flash Animation & In-App Sound Alert for All Alerts
+-WPC Surface Analysis
+-Buoy Data & Tide Forecasts
+-NEXRAD Hail History
+-Spotter Network Locations
+-Power Outage Layer
+-Map Type Customization
+-Detailed City & Road Network
+-15 Custom Locations with a Linked RadarOmega Account
+-Drawing, Data Viewer, & Distance Tools
+-Storm Track Drawing Tool
+-Share Screenshot & Video
+-Push Notifications for All Storm-Based Watches/Warnings Using GPS Location
+-Access to cyclonePORT Network
+
+Gamma
+-Hi-Res Satellite Data
+-Lightning Detection/Animation, METARS, & GLM for Mesoscale & Storm-Based Satellite Sectors
+-National Digital Forecast Database
+-Access to Project MesoVort
+-75 Frames of Data
+-Dual View Radar with 30 Frames
+-Smoothing for Radar/Satellite
+-30 Day Radar History
+-6 Month Storm Report Archive
+-3D Radar/Satellite
+-Upload 3 Custom Color Tables
+-30 Custom Locations with Icon Upload
+-2 Custom Location Lists
+-Push Notifications Open to All Weather Alerts Using GPS Location ONLY (max of 8 at a time)
+
+Beta
+*Everything in Gamma PLUS*
+-MRMS Data
+-150 Frames of Data
+-Dual View Radar/Satellite with 50 Frames
+-Smoothing for MRMS
+-90 Day Radar History
+-5 Year Storm Report Archive
+-3D MRMS
+-Upload 8 Custom Color Tables
+-75 Custom Locations with Icon Upload
+-5 Custom Location Lists
+
+Alpha
+*Everything in Beta PLUS*
+-Volumetric Radar
+-Model Data with Contours for HRRR, NAM3KM, NAM12KM, RAP, GFS, ECMWF, HWRF, & HMON
+-250 Frames of Data
+-Dual View Radar/Satellite with 100 Frames
+-Quad View Radar/Satellite on iPad & Desktop with 50 Frames
+-Smoothing for Models
+-90 Day Radar History
+-10 Year Storm Report Archive
+-Upload 30 Custom Color Tables
+-150 Custom Locations with Icon Upload
+-10 Custom Location Lists
+-1 Site Lightning Monitoring with Custom Range Zones
+-Push Notifications Open to All Weather Alerts for up to 3 Custom Locations and GPS Locations (max of 8 at a time)
+
+Additional Add-Ons
+-Rapid Sweep
+
+Subscriptions are maintained through the iOS App Store. We will work with our customers however, refunds must be done through the iOS App Store. Please be sure to reach out to our support team if you have any problems, questions, or concerns.
+
+For Support- You can create a ticket and we will resolve it as soon as possible:
+https://radaromegawx.supportbee.io/portal/sign_in
+
+See our Terms of Service below:
+https://www.radaromega.com/terms.php
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/a0/b1/cba0b148-9eaa-9a47-da9e-45d65bf7f816/e90191d7-7579-4f97-8bfd-9766293668dc_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ca/3d/96/ca3d9672-ea03-a549-81eb-a3a6a602ee88/da406343-067f-4559-86a2-7927d1809130_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/f0/10/71f010a6-d7b4-e7b3-9ef0-a2a97077b553/5eccabd1-e9d3-4d76-94e7-aa2cc08b9a60_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/ff/bc/dbffbc1d-e9b3-9910-fe8a-36c37b06e19a/9ae6876e-5ffa-43ec-bfb0-1fda0f6d9b69_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/44/ff/2e44ff71-dfc9-56df-bcd1-fc1702f8dfed/d2042b4e-4ae3-43e3-91ee-6f2cb1a507c9_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/56/e0/06/56e00608-00c9-1dbb-f18d-fc53baf1577d/6b28007c-3fb2-4b27-8686-482ef5d01c5b_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/c2/38/e3c23878-cb09-deb5-d6bd-8492932eca3c/c458a94d-17b0-410c-87d6-a66810dd3f60_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/3e/0f/4b3e0f16-79b8-6bd4-4317-48c776cd4225/dd21e4ef-3e7e-4b38-8f09-f8e278e48919_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/67/6c/d5/676cd5a6-019e-3d14-9ad5-93c60518dc66/ae0d43d9-a4e7-4aaf-a434-694c89b151bd_9.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7a/ca/4e/7aca4e26-9a12-1fe5-7126-1f3cf9eb7949/97f989e6-c0c8-4e71-b0cc-b8ddd01786b2_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/16/2c/31162ccb-ccf6-47dd-752b-17c8dc3dea04/36ee86ec-f1d9-4297-92e0-ea0df446ebaf_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/d3/39/16d339aa-355e-32f4-2144-44f8cc394f43/a095cb5b-1b11-4042-b079-96c4f095ee72_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/48/23/a4482390-6e52-d697-2f8b-b219fbaba96b/f64d266f-6959-4086-b513-d2e0b3609688_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/dc/13/1bdc1340-f3f4-0637-4cd5-0bc4504d1a98/1f2f55fc-78e7-4a27-9c39-a08ae43d070c_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/67/ac/c267ac67-12c5-2359-e57c-972a406a865f/99606828-9d64-44be-a1d6-51a2638b0c81_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/55/36/4a5536b3-de9d-eab5-8266-1a1647a5f3d1/db65b030-4d42-4b69-9d8e-eac580537315_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/c2/c4/f5c2c44d-809a-8d92-c927-842913995d07/9c87fca9-56e7-4b89-94fb-d19fd72acc73_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/90/94/19909454-1871-744d-963b-9bbc9d3e3ae8/156ccf19-a0cc-4c0e-ad35-0ae251229ba9_8.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f4/c3/7a/f4c37ad2-6776-603f-92ea-ade50e56d900/f986356f-c6bf-4f2f-9391-237286b6245f_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/d1/d5/16d1d58c-efd2-0f48-aed0-f14081c2830b/0cd5bf19-cf98-4432-8cb4-fa4036826240_10.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wall of insanity]]></title>
-        <id>Wall of insanity-1747404147142</id>
+        <id>Wall of insanity-mo-1747404147142</id>
         <link href="https://apps.apple.com/mo/app/wall-of-insanity/id1580067723?uo=4"/>
         <updated>2025-05-16T14:02:27.142Z</updated>
         <summary type="html"><![CDATA[价格: USD 2.99 → USD 0.89]]></summary>
@@ -445,7 +580,7 @@ Key Features:
     </entry>
     <entry>
         <title type="html"><![CDATA[手錶經典迷宮遊戲]]></title>
-        <id>手錶經典迷宮遊戲-1747404147142</id>
+        <id>手錶經典迷宮遊戲-mo-1747404147142</id>
         <link href="https://apps.apple.com/mo/app/%E6%89%8B%E9%8C%B6%E7%B6%93%E5%85%B8%E8%BF%B7%E5%AE%AE%E9%81%8A%E6%88%B2/id6740471827?uo=4"/>
         <updated>2025-05-16T14:02:27.142Z</updated>
         <summary type="html"><![CDATA[价格: USD 0.99 → 免費]]></summary>
@@ -459,7 +594,7 @@ Key Features:
     </entry>
     <entry>
         <title type="html"><![CDATA[不玩手机-自律习惯养成记]]></title>
-        <id>不玩手机-自律习惯养成记-1747354157883</id>
+        <id>不玩手机-自律习惯养成记-mo-1747354157883</id>
         <link href="https://apps.apple.com/mo/app/%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA-%E8%87%AA%E5%BE%8B%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E8%AE%B0/id1449020025?uo=4"/>
         <updated>2025-05-16T00:09:17.883Z</updated>
         <summary type="html"><![CDATA[价格: USD 2.99 → 免費]]></summary>
@@ -489,7 +624,7 @@ App使用方法：
     </entry>
     <entry>
         <title type="html"><![CDATA[The Witness]]></title>
-        <id>The Witness-1747317741478</id>
+        <id>The Witness-mo-1747317741478</id>
         <link href="https://apps.apple.com/mo/app/the-witness/id1230231705?uo=4"/>
         <updated>2025-05-15T14:02:21.478Z</updated>
         <summary type="html"><![CDATA[价格: USD 9.99 → USD 4.99]]></summary>
@@ -509,7 +644,7 @@ The Witness 是一個單人遊戲，玩家在一個含有數十個地點的開�
     </entry>
     <entry>
         <title type="html"><![CDATA[Bloons TD 6]]></title>
-        <id>Bloons TD 6-1747317741478</id>
+        <id>Bloons TD 6-mo-1747317741478</id>
         <link href="https://apps.apple.com/mo/app/bloons-td-6/id1118115766?uo=4"/>
         <updated>2025-05-15T14:02:21.478Z</updated>
         <summary type="html"><![CDATA[价格: USD 6.99 → USD 3.99]]></summary>
@@ -574,7 +709,7 @@ Ninja Kiwi正在YouTube和Twitch上積極推廣頻道創作者。如果您尚未
     </entry>
     <entry>
         <title type="html"><![CDATA[13:20:Sync]]></title>
-        <id>13:20:Sync-1747260127593</id>
+        <id>13:20:Sync-mo-1747260127593</id>
         <link href="https://apps.apple.com/mo/app/13-20-sync/id384363262?uo=4"/>
         <updated>2025-05-14T22:02:07.593Z</updated>
         <summary type="html"><![CDATA[价格: USD 3.99 → USD 2.99]]></summary>
@@ -651,227 +786,5 @@ On all the 3 main tabs you can share the current selected Galactic Signature usi
 # This app was made with permission of and in cooperation with the Foundation for the Law of Time - www.lawoftime.org, 
 # Ariel Spilsbury.
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/83/ce/9d83ceec-0747-6c58-4fde-cdc7b5b4d3f9/EN_5-5_Image_Promo.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/ab/96/9aab9603-cfa5-2b25-8d66-efdc9823c14b/EN_5-5_Image_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/0f/78/a80f786d-4c1f-ec7e-ac23-889c384cce40/EN_5-5_Image_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/57/8d/2f578d32-5636-c16a-d0ba-2310ffc8372c/EN_5-5_Image_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/a9/b5/6fa9b59d-e863-7348-c133-70fdb708e8c6/EN_5-5_Image_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/2e/5b/fa2e5bee-7122-f660-dc7a-6f3ce634a675/EN_5-5_Image_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/27/36/53273655-d868-31b6-1ed8-f2ae7bd57379/EN_5-5_Image_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/c6/1b/c9c61bbf-6aad-3d1a-e8a7-115dec170d7a/EN_5-5_Image_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/b2/2b/96b22bc2-dde9-dff5-d8fe-614fef88316e/EN_5-5_Image_08.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王國保衛戰：復仇]]></title>
-        <id>王國保衛戰：復仇-1747249329947</id>
-        <link href="https://apps.apple.com/mo/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E5%BE%A9%E4%BB%87/id1248033433?uo=4"/>
-        <updated>2025-05-14T19:02:09.947Z</updated>
-        <summary type="html"><![CDATA[Hero Beresad: USD 6.99 → USD 4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E5%BE%A9%E4%BB%87/id1248033433?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/b1/bc/35b1bca8-2594-dcf8-5278-f6f8d69663f5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>Hero Beresad：</strong><span>USD 6.99</span> → <b>
-  <strong>USD 4.99</strong>
-</b><span>[USD 4.99 ~ USD 6.99]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  威猛全能的巫師威之難回來了！開啟一趟史詩之旅，召集他的軍隊，完成他的陰謀計劃…木哈哈哈。讓整個王國知道誰才是真正的頭目！奮力向前，征服新的領地，還有那些不錯的舊領地。在這款幽默史詩的經典塔防遊戲中，直面強大敵人的帝國，對抗超威的頭目！
-遊戲特色
-
-- 22種具有特殊技能與力量的新防禦塔。
-- 選擇防禦塔武器，組合成超強破壞力的裝備，阻止敵人進攻！
-- 三個大陸上的42個挑戰關卡，已準備好等你來！
-- 17個強大的英雄，毫不猶豫聽候你的調遣。
-- 超過60種死敵來測驗你的智慧與戰術技巧。
-- 在最傳奇的頭目戰鬥中，打敗17位威武的魔王，包圍你的王國！
-- 新的能力與援軍，助你殲滅敵人。
-- 10多種小物件與法器，在戰鬥中提供額外優勢。
-- 30種升級可訓練軍隊到最佳狀態。
-- 60多種成就，隱藏的秘密和其他好玩的東東等你來發現！
-- 你的黑塔里沒有WiFi？不用擔心，可以離線玩哦！
-
-這裡有魔王威之難最新訊息：
-https://www.kingdomrushvengeance.com/
-
-條款及條件：
-https://www.ironhidegames.com/TermsOfService
-
-隱私權政策：
-https://www.ironhidegames.com/PrivacyPolicy
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/64/1f/f7641f72-6383-d73d-88c8-126ca9765559/53dc0032-f3e9-49e8-9858-5dfdea77d469_KRV_Pirate-screenshots_iPhone-5.5_Traditional-chinese-0000.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/c8/8c/84c88cef-6821-cb2b-93e5-191f010515d2/35b9e093-1c02-4b41-8558-e173fcb95f01_KRV_screenshots_iPhone-5.5_Traditional-chinese-0001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/6c/d5/386cd54f-362f-3d0d-47f3-8fe52e80af18/8cb1695b-5ba5-43ab-9dc8-b1dcc5b6c686_KRV_screenshots_iPhone-5.5_Traditional-chinese-0002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/08/64/8f086427-e802-adbc-4251-7bad2ad530d2/5611dbc3-afd7-45ee-a609-16a551801b52_KRV_screenshots_iPhone-5.5_Traditional-chinese-0003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/36/83/f53683ff-554a-7ead-7e16-2f917c7c82c8/0c389835-dca0-492f-8cee-1013d9571393_KRV_screenshots_iPhone-5.5_Traditional-chinese-0004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/f0/f2/6bf0f2ed-0f12-d818-411e-e178053674d1/bd2d2468-dd27-4173-88f5-cfd1ffb1dda5_KRV_screenshots_iPhone-5.5_Traditional-chinese-0005.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/43/64/b34364ca-a4f1-859a-5d41-27e1b2e7d813/26212700-22aa-4463-8c48-bdfe6df05b15_krv_dinos_2208x1242_ux.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/f3/3d/15f33d41-fe6f-07f8-10cb-56889fab9800/f56e789d-fdfc-4c09-b017-2c7a1aee26fd_KRV_Pirates-screenshots_4_3_new_Traditional-chinese-0000.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/a5/ac/b6a5ac31-2c27-baa0-60d6-752ae79de29f/55dfc2ea-af9c-48e4-b3e7-2926a83632be_KRV_screenshots_4_3_new_Traditional-chinese-0001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/c9/12/4cc91224-2dc9-0a40-b17a-f5131e7d9fe1/a2324f99-3998-43e5-85f9-cee12ee4ce11_KRV_screenshots_4_3_new_Traditional-chinese-0002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/37/11/003711dc-dba3-a604-03eb-4d5dd1dfc434/e655ed76-6f95-409e-9d4d-ff532e051016_KRV_screenshots_4_3_new_Traditional-chinese-0003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/7e/29/6a7e29c4-53bb-7ce4-f8bd-e636e679d7bc/9f93a3dd-dd56-4af1-86de-3bf22533b396_KRV_screenshots_4_3_new_Traditional-chinese-0004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/28/14/e628140f-b2ab-b2a1-59ff-46e93c599559/587f3b47-c3e2-42c7-b02f-690508f09bc4_KRV_screenshots_4_3_new_Traditional-chinese-0005.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/ef/6a/d1ef6ab4-0fec-65b2-b1d7-e6bb7e7a4bec/79f2010f-8c49-4315-bfda-92760fe336ac_krv_dinos_2732x2048.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王國保衛戰：復仇]]></title>
-        <id>王國保衛戰：復仇-1747245784966</id>
-        <link href="https://apps.apple.com/mo/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E5%BE%A9%E4%BB%87/id1248033433?uo=4"/>
-        <updated>2025-05-14T18:03:04.966Z</updated>
-        <summary type="html"><![CDATA[价格: USD 4.99 → USD 2.99<br/>Tower Grim Cemetery: USD 2.99 → USD 0.99<br/>Tower Blazing Gem: USD 4.99 → USD 2.99<br/>Hero Mortemis: USD 2.99 → USD 0.99<br/>Hero Eiskalt: USD 5.99 → USD 3.99<br/>Hero Tank: USD 5.99 → USD 3.99<br/>Tower Deep Devil's Reef: USD 2.99 → USD 0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E5%BE%A9%E4%BB%87/id1248033433?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/b1/bc/35b1bca8-2594-dcf8-5278-f6f8d69663f5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 4.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 4.99]</span>）
-</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>Tower Grim Cemetery：</strong><span>USD 2.99</span> → <b>
-  <strong>USD 0.99</strong>
-</b><span>[USD 0.99 ~ USD 2.99]</span>
-  </li><li>
-    <strong>Tower Blazing Gem：</strong><span>USD 4.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 4.99]</span>
-  </li><li>
-    <strong>Hero Mortemis：</strong><span>USD 2.99</span> → <b>
-  <strong>USD 0.99</strong>
-</b><span>[USD 0.99 ~ USD 2.99]</span>
-  </li><li>
-    <strong>Hero Eiskalt：</strong><span>USD 5.99</span> → <b>
-  <strong>USD 3.99</strong>
-</b><span>[USD 3.99 ~ USD 5.99]</span>
-  </li><li>
-    <strong>Hero Tank：</strong><span>USD 5.99</span> → <b>
-  <strong>USD 3.99</strong>
-</b><span>[USD 3.99 ~ USD 5.99]</span>
-  </li><li>
-    <strong>Tower Deep Devil's Reef：</strong><span>USD 2.99</span> → <b>
-  <strong>USD 0.99</strong>
-</b><span>[USD 0.99 ~ USD 2.99]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  威猛全能的巫師威之難回來了！開啟一趟史詩之旅，召集他的軍隊，完成他的陰謀計劃…木哈哈哈。讓整個王國知道誰才是真正的頭目！奮力向前，征服新的領地，還有那些不錯的舊領地。在這款幽默史詩的經典塔防遊戲中，直面強大敵人的帝國，對抗超威的頭目！
-遊戲特色
-
-- 22種具有特殊技能與力量的新防禦塔。
-- 選擇防禦塔武器，組合成超強破壞力的裝備，阻止敵人進攻！
-- 三個大陸上的42個挑戰關卡，已準備好等你來！
-- 17個強大的英雄，毫不猶豫聽候你的調遣。
-- 超過60種死敵來測驗你的智慧與戰術技巧。
-- 在最傳奇的頭目戰鬥中，打敗17位威武的魔王，包圍你的王國！
-- 新的能力與援軍，助你殲滅敵人。
-- 10多種小物件與法器，在戰鬥中提供額外優勢。
-- 30種升級可訓練軍隊到最佳狀態。
-- 60多種成就，隱藏的秘密和其他好玩的東東等你來發現！
-- 你的黑塔里沒有WiFi？不用擔心，可以離線玩哦！
-
-這裡有魔王威之難最新訊息：
-https://www.kingdomrushvengeance.com/
-
-條款及條件：
-https://www.ironhidegames.com/TermsOfService
-
-隱私權政策：
-https://www.ironhidegames.com/PrivacyPolicy
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/64/1f/f7641f72-6383-d73d-88c8-126ca9765559/53dc0032-f3e9-49e8-9858-5dfdea77d469_KRV_Pirate-screenshots_iPhone-5.5_Traditional-chinese-0000.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/c8/8c/84c88cef-6821-cb2b-93e5-191f010515d2/35b9e093-1c02-4b41-8558-e173fcb95f01_KRV_screenshots_iPhone-5.5_Traditional-chinese-0001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/6c/d5/386cd54f-362f-3d0d-47f3-8fe52e80af18/8cb1695b-5ba5-43ab-9dc8-b1dcc5b6c686_KRV_screenshots_iPhone-5.5_Traditional-chinese-0002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/08/64/8f086427-e802-adbc-4251-7bad2ad530d2/5611dbc3-afd7-45ee-a609-16a551801b52_KRV_screenshots_iPhone-5.5_Traditional-chinese-0003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/36/83/f53683ff-554a-7ead-7e16-2f917c7c82c8/0c389835-dca0-492f-8cee-1013d9571393_KRV_screenshots_iPhone-5.5_Traditional-chinese-0004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/f0/f2/6bf0f2ed-0f12-d818-411e-e178053674d1/bd2d2468-dd27-4173-88f5-cfd1ffb1dda5_KRV_screenshots_iPhone-5.5_Traditional-chinese-0005.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/43/64/b34364ca-a4f1-859a-5d41-27e1b2e7d813/26212700-22aa-4463-8c48-bdfe6df05b15_krv_dinos_2208x1242_ux.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/f3/3d/15f33d41-fe6f-07f8-10cb-56889fab9800/f56e789d-fdfc-4c09-b017-2c7a1aee26fd_KRV_Pirates-screenshots_4_3_new_Traditional-chinese-0000.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/a5/ac/b6a5ac31-2c27-baa0-60d6-752ae79de29f/55dfc2ea-af9c-48e4-b3e7-2926a83632be_KRV_screenshots_4_3_new_Traditional-chinese-0001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/c9/12/4cc91224-2dc9-0a40-b17a-f5131e7d9fe1/a2324f99-3998-43e5-85f9-cee12ee4ce11_KRV_screenshots_4_3_new_Traditional-chinese-0002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/37/11/003711dc-dba3-a604-03eb-4d5dd1dfc434/e655ed76-6f95-409e-9d4d-ff532e051016_KRV_screenshots_4_3_new_Traditional-chinese-0003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/7e/29/6a7e29c4-53bb-7ce4-f8bd-e636e679d7bc/9f93a3dd-dd56-4af1-86de-3bf22533b396_KRV_screenshots_4_3_new_Traditional-chinese-0004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/28/14/e628140f-b2ab-b2a1-59ff-46e93c599559/587f3b47-c3e2-42c7-b02f-690508f09bc4_KRV_screenshots_4_3_new_Traditional-chinese-0005.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/ef/6a/d1ef6ab4-0fec-65b2-b1d7-e6bb7e7a4bec/79f2010f-8c49-4315-bfda-92760fe336ac_krv_dinos_2732x2048.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FyTube -沒有廣告的 YouTube]]></title>
-        <id>FyTube -沒有廣告的 YouTube-1747231355788</id>
-        <link href="https://apps.apple.com/mo/app/fytube-%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4"/>
-        <updated>2025-05-14T14:02:35.788Z</updated>
-        <summary type="html"><![CDATA[价格: USD 0.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/fytube-%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/db/1b/a8db1bb3-77fa-d0cb-6ee3-e4cc4ca820ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 0.99</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ USD 19.99]</span>）
-</h2><h2>应用描述</h2><p>
-  Aquí tienes la traducción al chino tradicional:
-
-我們的應用程式實時連接到 YouTube，允許您播放任何視頻！FyTube 擁有特別功能，如：鎖屏播放模式，以及其他常見功能，如：啟用字幕、改變播放速度、全屏模式、快退……我們還添加了按上傳日期篩選的搜索功能，讓您不會錯過任何一個您喜歡的主題視頻！
-
-特殊功能
-
-鎖屏播放：
-此功能允許您在設備螢幕鎖定時繼續聽視頻的音頻，非常適合在駕駛時聽音樂或您最喜歡的歌曲，或者當您想要休息時讓音頻在背景播放。
-
-如何啟用：
-只需鎖定設備的螢幕，播放器將繼續播放視頻音頻，您不會中斷 :)
-
-需要幫助如何使用這些功能嗎？請訪問： fydub.com/fytube
-
-基本功能
-
-• 高清視頻全螢幕播放。
-• 易於使用的介面，友好的設計。
-• 隨時快進和倒帶視頻，永遠不會錯過最精彩的部分。
-• 啟用字幕。
-• 根據個人喜好改變播放速度。
-• 智能搜尋引擎，按上傳日期篩選：今天、本週、本月、本年、所有。
-• 每個視頻下方都可以找到相關視頻部分，幫助您發現更多有趣內容。
-• 發現最新視頻，隨時了解全球新聞。
-• 我們的應用程式直接連接到 YouTube，允許您查找任何視頻。
-• 在任何支援 AirPlay 的設備上享受內容。
-• 提供語音輸出（VoiceOver）。
-• 無需創建用戶帳號。
-• 我們不快取、不儲存 cookies、不在未經授權的情況下收集個人資料，確保您安全觀看最喜歡的視頻。
-• 介面支持 29 種語言。
-• 無廣告干擾，無訂閱費用。
-
-通過一次性付款獲得 FyTube，開始體驗無廣告、無訂閱的視頻串流服務。
-
-最低要求：
-• iOS 13 或更高版本。
-• 3G 或更高版本網絡連接。
-
-隱私政策：
-https://fydub.com/privacy-policy_fytube
-
-服務條款：
-https://fydub.com/terms-of-service_fytube
-
-與我們的應用程式相關的詞彙：
-youtube，youtube music，youtube vanced，youtube ad blocker，無訂閱，跳過 youtube 廣告，音樂無廣告，無廣告，youtube 應用，youtube adblocker，廣告攔截器，彈出廣告攔截器，ad-block，廣告屏蔽，youtube 廣告攔截器，內容屏蔽器，廣告屏蔽器，adblock pro，無廣告，阻擋廣告，adblock 瀏覽器，跳過 youtube，廣告，youtube 演唱，無廣告，免廣告，免費 youtube，視頻廣告，adblocker youtube，停止廣告
-
-如果您有任何關於如何使用 FyTube 的問題，請訪問 fydub.com/fytube 或聯繫我們，我們很樂意為您提供幫助，我們會回覆所有郵件：fytube@fydub.com
-
-FyTube 與 YouTube 一起運作。YouTube 品牌和徽標是 Google, Inc. 的註冊商標，版權所有。
-
-© FyTube®。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/93/2a/42932a45-1b82-a115-b6cd-e1d7408505d6/c1983b44-0d79-4ee3-a8e0-b75ecca7580f_imagen1-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/8d/17/a98d178c-c66d-e760-0775-e8ef78047d16/bd0e6f4d-bf1c-46e3-89a7-a3d92ade6c84_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/7f/0e/ac7f0ecd-94a8-d766-6863-4fa0fda21b4c/604d18d7-22f1-4bb0-85ec-3c53c9e84d20_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/bf/b9/99bfb95e-5e2e-274d-4fed-f46bad740941/5a4eb7ab-8789-4b6b-b295-24e00df14fc1_imagen2-ok2.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者]]></title>
-        <id>小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者-1747198948726</id>
-        <link href="https://apps.apple.com/mo/app/%E5%B0%8F%E7%8C%AB%E8%A1%A5%E5%85%89%E7%81%AFpro-%E5%AE%98%E6%96%B9%E5%87%BA%E5%93%81-%E6%B0%9B%E5%9B%B4%E6%84%9F%E8%89%B2%E5%8D%A1%E8%A1%A5%E5%85%89%E8%87%AA%E6%8B%8D%E5%BC%80%E5%88%9B%E8%80%85/id6737987084?uo=4"/>
-        <updated>2025-05-14T05:02:28.726Z</updated>
-        <summary type="html"><![CDATA[价格: USD 0.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E5%B0%8F%E7%8C%AB%E8%A1%A5%E5%85%89%E7%81%AFpro-%E5%AE%98%E6%96%B9%E5%87%BA%E5%93%81-%E6%B0%9B%E5%9B%B4%E6%84%9F%E8%89%B2%E5%8D%A1%E8%A1%A5%E5%85%89%E8%87%AA%E6%8B%8D%E5%BC%80%E5%88%9B%E8%80%85/id6737987084?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/36/c0/d236c0cf-4ff3-1ca4-9a0e-1d34bb7b09c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 0.99</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ USD 0.99]</span>）
-</h2><h2>应用描述</h2><p>
-  小猫补光灯Pro：自拍版是一款专业的自拍补光工具，让你的自拍更出彩！
-
-在小红书姐妹们的疯狂要求下，已逐步增加以下功能：
-1. 自拍镜像，你可以找到自己美的任何角度
-2. 直出live，轻松get动态的美
-3. 延时拍摄，再也不用慌慌张张，急急忙忙地拍了
-4. 录像，非常建议先录像再截图，不错过自己任何一瞬间的美
-5. 翻转摄像头，后置摄像头虽然无法补光，但是可以美美对镜自拍哦
-
-
-主要功能：
-• 8种精心调校的专业预设光效
-• 360度全色彩自由调节
-• 精确的亮度控制系统
-• 智能屏幕亮度调节
-• 便捷的相机预览功能
-• 支持音量键快速拍摄
-• 简洁直观的操作界面
-
-为什么选择小猫自拍：
-1. 专业级补光效果：精心调校的预设光效，满足各种场景需求
-2. 灵活的自定义：支持自由调节色相、亮度，打造专属光效
-3. 便捷的操作：左右滑动快速切换光效，音量键快速拍摄
-4. 实时预览：内置相机预览，即时查看补光效果
-5. 优雅的界面：简洁直观的设计，操作便捷
-
-适用场景：
-• 自拍美颜
-• 直播补光
-• 化妆镜使用
-
-无论是自拍达人还是博主，小猫补光灯Pro都能帮你轻松获得专业级的补光效果！
-
-问题反馈：alchaincyf@gmail.com
-我的微信：alchain
-小红书：花叔（只工作不上班版
-</p>]]></content>
     </entry>
 </feed>
