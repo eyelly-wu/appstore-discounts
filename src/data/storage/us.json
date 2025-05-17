@@ -47540,6 +47540,14 @@
     "history": [
       [
         {
+          "timestamp": 1747451891600,
+          "price": 0.89,
+          "formattedPrice": "$0.89",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746933657417,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -53164,14 +53172,22 @@
   "1639509098": {
     "name": "Pasha Planet: Reborn",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747451891600,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747342931454,
@@ -61378,6 +61394,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747451891600,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747020065529,
