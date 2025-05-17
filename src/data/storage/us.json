@@ -1568,6 +1568,23 @@
     "history": [
       [
         {
+          "timestamp": 1747476136272,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$0.99",
+            "Portland HipstaPak": "$0.99",
+            "Shibuya HipstaPak": "$0.99",
+            "Camden HipstaPak": "$0.99",
+            "Mission Hipstapak": "$0.99",
+            "Soho HipstaPak": "$0.99",
+            "Bondi HipstaPak": "$0.99",
+            "Wicker Park HipstaPak": "$0.99",
+            "RetroPak One": "$1.99",
+            "Dali GoodPak": "$0.99"
+          }
+        },
+        {
           "timestamp": 1747472540323,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -63698,7 +63715,8 @@
       "Season MLB 2013": "$0.99",
       "Season MLB 1986": "$0.99",
       "Season MLB 1998": "$0.99",
-      "Season MLB 1995": "$0.99"
+      "Season MLB 1995": "$0.99",
+      "Season MLB 2007": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -63733,9 +63751,29 @@
       "Season MLB 2013": "$0.99",
       "Season MLB 1986": "$0.99",
       "Season MLB 1998": "$0.99",
-      "Season MLB 1995": "$0.99"
+      "Season MLB 1995": "$0.99",
+      "Season MLB 2007": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747476136272,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "Season MLB 2024": "$0.99",
+            "1,000,000 PP for OOTP Go 26!": "$499.99",
+            "Season MLB 2000": "$0.99",
+            "Season MLB 2007": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747389749016,
