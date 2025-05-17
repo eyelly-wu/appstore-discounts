@@ -29071,7 +29071,14 @@
       "Tuner": "HK$ 0.00",
       "Unlock All": "HK$ 58.00",
       "Erase": "HK$ 8.00",
-      "Blend": "HK$ 8.00"
+      "Blend": "HK$ 8.00",
+      "Remove the Ad": "HK$ 8.00",
+      "Dub and Audio": "HK$ 8.00",
+      "Pixelate": "HK$ 8.00",
+      "Filter": "HK$ 8.00",
+      "Add Text": "HK$ 8.00",
+      "Convert into Gif": "HK$ 8.00",
+      "Border": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -29089,9 +29096,35 @@
       "Tuner": "HK$ 0.00",
       "Unlock All": "HK$ 58.00",
       "Erase": "HK$ 8.00",
-      "Blend": "HK$ 8.00"
+      "Blend": "HK$ 8.00",
+      "Remove the Ad": "HK$ 8.00",
+      "Dub and Audio": "HK$ 8.00",
+      "Pixelate": "HK$ 8.00",
+      "Filter": "HK$ 8.00",
+      "Add Text": "HK$ 8.00",
+      "Convert into Gif": "HK$ 8.00",
+      "Border": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747490525950,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Remove the Ad": "HK$ 8.00",
+            "Crop": "HK$ 0.00",
+            "Dub and Audio": "HK$ 8.00",
+            "Pixelate": "HK$ 8.00",
+            "Filter": "HK$ 8.00",
+            "Add Text": "HK$ 8.00",
+            "Convert into Gif": "HK$ 8.00",
+            "Splice": "HK$ 0.00",
+            "Border": "HK$ 8.00",
+            "Sticker": "HK$ 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746734550065,
@@ -41611,6 +41644,14 @@
     "history": [
       [
         {
+          "timestamp": 1747490525950,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746367332061,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -46529,6 +46570,25 @@
       "Catalyst Support Pack": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747490525950,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Infernal Invasions": "HK$ 48.00",
+            "Vaul of the Void Promo Pack": "HK$ 0.00",
+            "Eclypse Supporter Pack": "HK$ 32.00",
+            "Dawncaster Origins Bundle": "HK$ 38.00",
+            "Dawncaster Mega Bundle": "HK$ 98.00",
+            "Siege of Shadows": "HK$ 38.00",
+            "Catalyst Support Pack": "HK$ 38.00",
+            "Masks of Misery": "HK$ 38.00",
+            "Infinitum Support Banner": "HK$ 32.00",
+            "Death of Divinity": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746460951400,
@@ -60364,6 +60424,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747490525950,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "HK$ 228.00",
+            "Europe Expansion": "HK$ 88.00",
+            "Europe Map": "HK$ 68.00",
+            "Japan Expansion Bundle": "HK$ 58.00",
+            "LegendaryAsia Expansion Bundle": "HK$ 58.00",
+            "1910 Ticket Pack": "HK$ 32.00",
+            "Nordic Bundle": "HK$ 58.00",
+            "Nordic Map": "HK$ 58.00",
+            "Switzerland Expansion Bundle": "HK$ 58.00",
+            "India Expansion Bundle": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1747429321187,
           "price": 22,

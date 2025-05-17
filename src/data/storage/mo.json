@@ -31951,6 +31951,14 @@
     "history": [
       [
         {
+          "timestamp": 1747490525950,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746367332061,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -47427,6 +47435,25 @@
       "Germany Locomotive A": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747490525950,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Pennsylvania Carriage B": "USD 1.99",
+            "Pennsylvania Locomotive B": "USD 1.99",
+            "Pennsylvania Locomotive A": "USD 1.99",
+            "Pennsylvania Carriage A": "USD 1.99",
+            "Pennsylvania Character A": "USD 1.99",
+            "Pennsylvania Character B": "USD 1.99",
+            "Germany Carriage B": "USD 1.99",
+            "Germany Carriage A": "USD 1.99",
+            "Germany Locomotive B": "USD 1.99",
+            "Germany Locomotive A": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746799336853,

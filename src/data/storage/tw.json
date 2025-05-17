@@ -40282,6 +40282,14 @@
     "history": [
       [
         {
+          "timestamp": 1747490525950,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746367332061,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -61097,6 +61105,25 @@
       "Germany Locomotive A": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747490525950,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "$990.00",
+            "Europe Expansion": "$320.00",
+            "Europe Map": "$290.00",
+            "LegendaryAsia Expansion Bundle": "$220.00",
+            "1910 Ticket Pack": "$120.00",
+            "Nordic Bundle": "$290.00",
+            "Pennsylvania Carriage B": "$60.00",
+            "Pennsylvania Locomotive B": "$60.00",
+            "Pennsylvania Locomotive A": "$60.00",
+            "Pennsylvania Carriage A": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747378950513,
