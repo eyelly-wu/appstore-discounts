@@ -30248,6 +30248,14 @@
     "history": [
       [
         {
+          "timestamp": 1747522922677,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746399731721,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -46101,6 +46109,25 @@
       "Germany Locomotive A": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747522922677,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Round the World Ticket": "₺1.299,99",
+            "Europe Expansion": "₺449,99",
+            "Europe Map": "₺399,99",
+            "1910 Ticket Pack": "₺179,99",
+            "Legendary Asia Map": "₺249,99",
+            "Japan Expansion Bundle": "₺299,99",
+            "Ticket to Ride ChristmasBundle": "₺179,99",
+            "San Francisco Expansion Bundle": "₺299,99",
+            "LegendaryAsia Expansion Bundle": "₺299,99",
+            "Nordic Bundle": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747375387089,
