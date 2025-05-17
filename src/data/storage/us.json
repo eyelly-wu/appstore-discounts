@@ -17587,13 +17587,31 @@
     "name": "Lumy",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "$6.99"
+      "formattedPrice": "$6.99",
+      "All the Light": "$9.99",
+      "More Light": "$3.99",
+      "A Little Light": "$0.99"
     },
     "minPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "$6.99"
+      "formattedPrice": "$6.99",
+      "All the Light": "$9.99",
+      "More Light": "$3.99",
+      "A Little Light": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747501329127,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "All the Light": "$9.99",
+            "More Light": "$3.99",
+            "A Little Light": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -47490,6 +47508,27 @@
       ]
     ]
   },
+  "1577752006": {
+    "name": "Soccer Plus",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747501329127,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1577762239": {
     "name": "Invading Horde - TD",
     "maxPriceInfo": {
@@ -53067,6 +53106,27 @@
           "timestamp": 1745328692670,
           "price": 5.99,
           "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1632953327": {
+    "name": "Tivimax IPTV Player (Premium)",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747501329127,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
           "inAppPurchases": {}
         }
       ]

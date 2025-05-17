@@ -17668,13 +17668,31 @@
     "name": "Lumy",
     "maxPriceInfo": {
       "price": 95,
-      "formattedPrice": "$95.00"
+      "formattedPrice": "$95.00",
+      "All the Light": "$320.00",
+      "More Light": "$120.00",
+      "A Little Light": "$30.00"
     },
     "minPriceInfo": {
       "price": 95,
-      "formattedPrice": "$95.00"
+      "formattedPrice": "$95.00",
+      "All the Light": "$320.00",
+      "More Light": "$120.00",
+      "A Little Light": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747501329127,
+          "price": 95,
+          "formattedPrice": "$95.00",
+          "inAppPurchases": {
+            "All the Light": "$320.00",
+            "More Light": "$120.00",
+            "A Little Light": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -46723,6 +46741,27 @@
       ]
     ]
   },
+  "1577752006": {
+    "name": "SoccerPlus-足球運動記錄和訓練",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747501329127,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1577762239": {
     "name": "Invading Horde - TD",
     "maxPriceInfo": {
@@ -51628,6 +51667,27 @@
           "timestamp": 1745328692670,
           "price": 190,
           "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1632953327": {
+    "name": "Tivimax IPTV Player (Premium)",
+    "maxPriceInfo": {
+      "price": 690,
+      "formattedPrice": "$690.00"
+    },
+    "minPriceInfo": {
+      "price": 690,
+      "formattedPrice": "$690.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747501329127,
+          "price": 690,
+          "formattedPrice": "$690.00",
           "inAppPurchases": {}
         }
       ]

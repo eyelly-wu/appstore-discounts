@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1577752006,
+    name: {
+      mo: 'SoccerPlus-足球運動記錄和訓練',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1632953327,
+    name: {
+      mo: 'Tivimax IPTV Player (Premium)',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1523146826,
     name: {
       hk: '全民RPG：重啟',

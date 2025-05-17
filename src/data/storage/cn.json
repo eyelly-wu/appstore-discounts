@@ -11784,13 +11784,31 @@
     "name": "Lumy - 太阳追踪器与黄金时刻",
     "maxPriceInfo": {
       "price": 31,
-      "formattedPrice": "¥31.00"
+      "formattedPrice": "¥31.00",
+      "所有的光": "¥68.00",
+      "更多光": "¥28.00",
+      "一点点光": "¥8.00"
     },
     "minPriceInfo": {
       "price": 31,
-      "formattedPrice": "¥31.00"
+      "formattedPrice": "¥31.00",
+      "所有的光": "¥68.00",
+      "更多光": "¥28.00",
+      "一点点光": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747501329127,
+          "price": 31,
+          "formattedPrice": "¥31.00",
+          "inAppPurchases": {
+            "所有的光": "¥68.00",
+            "更多光": "¥28.00",
+            "一点点光": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -36441,6 +36459,27 @@
             "800个灵玉": "¥268.00",
             "2000个灵玉": "¥498.00"
           }
+        }
+      ]
+    ]
+  },
+  "1577752006": {
+    "name": "SoccerPlus-足球运动记录和训练",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747501329127,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
         }
       ]
     ]
