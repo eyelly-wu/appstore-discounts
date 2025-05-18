@@ -46726,6 +46726,25 @@
     "history": [
       [
         {
+          "timestamp": 1747558923025,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Fun & Games Sports Mix 3 Pack": "$0.99",
+            "Holiday Thanksgiving Pack": "$0.99",
+            "Holiday Christmas Pack 2": "$0.99",
+            "Generations Gen Z Pack": "$0.99",
+            "Holiday Hannukah Pack": "$0.99",
+            "Mystery Mix Pack 16": "$0.99",
+            "Mystery Mix Pack 15": "$0.99",
+            "Mystery Mix Pack 14": "$0.99",
+            "Mystery Mix Pack 13": "$0.99",
+            "Mystery Mix Pack 12": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747321355905,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -65178,10 +65197,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747558923025,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746457348888,
