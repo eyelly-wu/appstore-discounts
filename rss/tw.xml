@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-05-18T06:23:05.135Z</updated>
+    <updated>2025-05-18T10:13:21.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-18T06:23:05.136Z</updated>
+        <updated>2025-05-18T10:13:21.768Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:73536236398899200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwSun, 18 May 2025 06:23:05 GMT</id>
+        <id>rankingtwSun, 18 May 2025 10:13:21 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-18T06:23:05.136Z</updated>
+        <updated>2025-05-18T10:13:21.768Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -50,13 +50,13 @@ feedId:73536236398899200+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1062</b>
+        <b>1063</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>861</b>
+        <b>862</b>
       </td>
       <td>
         <b>11</b>
@@ -67,13 +67,13 @@ feedId:73536236398899200+userId:73658201673997312
         <b>TW</b>
       </td>
       <td>
-        <b>977</b>
+        <b>978</b>
       </td>
       <td>
         <b>177</b>
       </td>
       <td>
-        <b>800</b>
+        <b>801</b>
       </td>
       <td>
         <b>11</b>
@@ -94,6 +94,31 @@ feedId:73536236398899200+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tw/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>5</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>所有英雄</i>：<b>3</b>
+              </li><li>
+                <i>所有塔</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tw/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
       <td>
@@ -108,31 +133,6 @@ feedId:73536236398899200+userId:73658201673997312
                 <i>RFS Pro (6個月)</i>：<b>3</b>
               </li><li>
                 <i>RFS Pro (1年)</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tw/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>4</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買</span><ol>
-              <li>
-                <i>所有英雄</i>：<b>2</b>
-              </li><li>
-                <i>所有塔</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -482,6 +482,23 @@ feedId:73536236398899200+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>20</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id6451376191">Dumb Phone: 簡約主畫面</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -593,6 +610,90 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dumb Phone: 簡約主畫面]]></title>
+        <id>Dumb Phone: 簡約主畫面-tw-1747562535412</id>
+        <link href="https://apps.apple.com/tw/app/dumb-phone-%E7%B0%A1%E7%B4%84%E4%B8%BB%E7%95%AB%E9%9D%A2/id6451376191?uo=4"/>
+        <updated>2025-05-18T10:02:15.412Z</updated>
+        <summary type="html"><![CDATA[价格: $90.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/dumb-phone-%E7%B0%A1%E7%B4%84%E4%B8%BB%E7%95%AB%E9%9D%A2/id6451376191?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/5c/7c/ba5c7c37-87f8-2753-e935-d1b654f2df44/Default-Light-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$90.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ $90.00]</span>）
+</h2><h2>应用描述</h2><p>
+  Dumb Phone 是一款簡約的應用程式啟動器，旨在讓您的主螢幕保持乾淨，沒有任何通知，從而幫助您減少使用螢幕的時間。
+
+Dumb Phone 可完全自訂，讓您選擇對您最重要的應用程式，並以簡單、簡約的介面顯示在主螢幕上。
+
+無論您喜歡深色或淺色模式，這款啟動器都能很好地配合，讓您選擇最適合自己的檢視方式。
+
+使用 Dumb Phone，保持專注，簡化您的數位生活。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/44/86/19448614-98c7-8827-ed88-c9f0e5c234bb/36ec7947-f469-42f4-b553-c3b18362fc90_Iphone_5.5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/32/d0/3c32d09a-5ef8-c93a-3391-022452cf7194/9106c37d-0e4f-478a-b467-e24d1cae549f_Iphone_5.5-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/99/fb/ac99fbaa-a47d-b56d-ee4d-00429fdf859d/974d9fd3-d07e-4467-b42b-1411303447ec_Iphone_5.5-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/9b/4c/fc9b4c98-e083-73ec-9003-f79054ef50ef/d0c0a715-85ec-4a64-b4e9-7800d798e239_Iphone_5.5-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/14/04/221404a6-7a9d-1b20-0a77-17848f3a926a/1b9542c4-e3bd-4f8a-8ecb-e6a11f5dd33d_Iphone_5.5-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/58/25/ac5825a2-46a4-2397-5cb9-05539bb23b3a/ae6edde5-18e1-4582-8ae9-7603fa130978_Iphone_5.5-5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/d5/a6/81d5a6a1-9ebd-9019-ef92-a36851b77ab0/ff64c113-e7b7-46f2-a6b9-51d1a5036fdf_iPad_3d_Gen.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/3d/d2/793dd21e-1771-f148-ab92-4ac2b216bccf/91230f4e-6b67-4073-88ce-402656d78642_iPad_3d_Gen-1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/0a/67/d20a67c1-9e54-e7b4-6f2d-9909e8a46b59/3a36fb76-d51d-4e30-b6e2-946371d7c571_iPad_3d_Gen-2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/f1/96/e6f1960b-2fe4-b7e4-83f4-d3a3e7b3f7d5/dddc2430-4ca8-4ec9-afcd-0357f5249abf_iPad_3d_Gen-3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/b8/7d/3bb87df8-4e75-fc50-d08b-86e3c85d9081/a0b57424-d1f9-477e-a936-22cfeba5a621_iPad_3d_Gen-4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/7d/48/927d48fa-909f-9639-b2c7-bb2253f959f5/2ea74fd9-9632-4b71-be0a-6fe488690385_iPad_3d_Gen-5.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingdom Rush 5: Alliance TD]]></title>
+        <id>Kingdom Rush 5: Alliance TD-tw-1747562535412</id>
+        <link href="https://apps.apple.com/tw/app/kingdom-rush-5-alliance-td/id1622869542?uo=4"/>
+        <updated>2025-05-18T10:02:15.412Z</updated>
+        <summary type="html"><![CDATA[所有英雄: $990.00 → $790.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/kingdom-rush-5-alliance-td/id1622869542?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/df/d2/4ddfd2eb-2dbe-0cd0-022f-960064e02170/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>所有英雄：</strong><span>$990.00</span> → <b>
+  <strong>$790.00</strong>
+</b><span>[$690.00 ~ $990.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  比以往任何時候都更具威脅和力量，Kingdom Rush 5：Alliance 帶來了一種全新、令人興奮的體驗，以其前作的快節奏和引人入勝的玩法為基礎，贏得了獎項的讚譽。
+
+當一種強大的邪惡浮現時，一個意想不到的聯盟正在形成！需要Linirea的最佳戰士和不屈不撓的黑暗軍團來阻止它。小心！儘管他們可能並肩旅行，命運的變幻莫測之風可能會迅速改變他們的方向。
+
+準備在戰場上發揮雙英雄的強大力量！
+是的，現在你不僅可以玩一個龍，還可以玩兩個龍！雙倍的噴火樂趣，雙倍的混亂——只要確保他們不會爭吵誰能囤積更多的金子！ 
+
+所有重量級角色如聖騎士、弓箭手、法師、死靈法師等等都聽你指揮。但要注意，他們可能會開始爭論誰是隊伍中的真正英雄，而敵人卻悄悄溜過去！ 
+你準備好迎接終極對決了嗎？和Linirea的勇敢戰士們以及不屈不撓的暗黑軍團一起，踏上征服一個巨大敵人的史詩旅程。 
+
+遊戲特色：
+招募34名獨特的英雄和塔樓！
+
+- 18個精英塔樓建造和升級
+沒有強大的防禦塔的策略遊戲算什麼？奪取它們，以對抗任何敵人！
+選擇精準的弓箭手、致命的聖騎士，甚至是狡猾的惡魔坑。
+
+- 16個史詩英雄 - 將塔防戰鬥提升到新的水平
+同時使用2位英雄玩！
+準備見證最不可能的雙英雄組合的強大威力。一個森林守護靈和一個強大的戰鬥機器人，或者是一個彎曲空間的法師和你的平均喬。
+
+- 6種地形，擁有迷人的戰場等你征服
+保衛Kingdom Rush的多彩景觀。穿越王國深林，甚至其危險的洞穴作戰。
+
+- 25個充滿快節奏td戰鬥的戰役階段
+在充滿驚喜挑戰和細節的異國地形中設定你的策略。
+面對成群的不可預測的敵人和史詩般的boss戰鬥，將你的防禦策略推向極限！
+
+- 3種不同的遊戲模式來測試你的實力
+在取得勝利後，嘗試以更具挑戰性的方式玩每個階段。誰不喜歡一個好的挑戰呢？
+
+- 58多個遊戲成就在戰鬥中征服
+沒有誘人的獎勵，史詩策略遊戲算什麼？展示你的技能，解鎖獎勵！
+
+- 45種以上不同的敵人來測試你的塔防智慧
+展現聯盟的td戰鬥技能，對抗4個不同的敵人氏族。用獨特的防禦策略擊敗他們每一個！
+
+- 當然…
+有很多復活節彩蛋和Ironhide Game Studio一貫的輕鬆幽默。
+因為沒有一些隱藏的驚喜，策略遊戲算什麼呢？
+
+
+--------
+Ironhide的服務條款：https://www.ironhidegames.com/TermsOfService
+Ironhide隱私政策：https://www.ironhidegames.com/PrivacyPolicy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/ed/33/6ded33fc-dea5-49c8-886b-d389466513d2/4601ff94-845f-42ae-a829-46b03abfa439_KR5-2024_screenshots_iphone-2208x1242_1-TD_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/ec/6c/0aec6c39-6e71-a20a-68d4-d7390bc2b94a/d2703a3c-2470-4540-bb17-e2851ac67229_KR5-2024_screenshots_iphone-2208x1242_2-HEROES_Traditional-TH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/c4/c2/a0c4c216-1372-152e-4c6a-80e4e66b7a63/19222394-c75f-447b-b43e-7b6911218a7a_KR5-2024_screenshots_iphone-2208x1242_2-HEROES_Traditional-TH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/ca/12/4fca1295-3814-baa2-e4ef-5f3500b1a12b/fdb82b7f-6d39-4146-bbaf-a4a5cca5efc7_KR5-2024_screenshots_iphone-2208x1242_3-LANDS_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/f1/04/7af10451-d0d0-a2ad-53b8-a9bad848d3d9/ba86a3e6-c024-450a-9dba-2e1d0c97a4c4_KR5-2024_screenshots_iphone-2208x1242_4-TOWERS_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/6a/ee/bf6aeedc-68ae-a8db-bc12-1dcb40612f6a/20e5ef86-568b-47e2-b604-26f8864447a6_KR5-2024_screenshots_iphone-2208x1242_5-ENEMIES_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/a4/ec/74a4ec8d-a124-56a1-54fb-cf9abc8b11af/KRA_Crocs_iphone5.5_2208x1242_UI.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/06/b1/1806b1ca-fa31-504b-bc88-b6a02b2554b1/KRA_Arachnophobia_iPhone5.5_2208x1242_ENG.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/2d/47/372d4750-1ec0-7189-4e17-10be316a98e3/3963fa7b-8db7-45ee-9ff5-35076a7b1b10_KR5-2024_screenshots_ipad-2732x2048_1-TD_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/b2/d1/87b2d134-db42-42b6-907e-b275cea4728e/17f4a675-88a9-4f41-9b9e-6114df136e5d_KR5-2024_screenshots_ipad-2732x2048_2-HEROES_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/52/55/75525543-883f-9280-1179-729beba31a03/53025c2a-9085-4f87-a86b-066fde5ebb22_KR5-2024_screenshots_ipad-2732x2048_3-LANDS_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7c/34/177c3421-1571-b831-c61a-36c41be237ff/03d3f80b-cdc8-4d32-8824-335ea6d16221_KR5-2024_screenshots_ipad-2732x2048_4-TOWERS_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/f4/6b/b0f46baf-448b-071c-b6f1-11dbeefc6e19/3f8051d0-ea16-46b2-81e3-df84241bdcdc_KR5-2024_screenshots_ipad-2732x2048_5-ENEMIES_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/7b/64/727b6470-9336-9cab-8968-f9af3886cf28/KRA_Crocs_ipad_2732x2048_UI.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/5f/e4/225fe431-43bc-9930-3475-b327ae7d83ae/KRA_Aracnophobia_iPad_2732x2048_ENG.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全民RPG：重啟]]></title>
@@ -1213,80 +1314,5 @@ Ninja Kiwi社區：
 流媒體和視頻創作者:
 Ninja Kiwi正在YouTube和Twitch上積極推廣頻道創作者。如果您尚未與我們合作，請繼續製作視頻並通過streamers@ninjakiwi.com向我們介紹您的頻道。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/06/75/8b067597-b933-d32a-6845-0a7a65335a83/91ccb814-68ba-4f17-afc0-b372d35cbd15_1_5.5__0004_Chinese.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/03/9e/ab/039eab7d-9a1e-eff9-f235-915e1f60811e/9e013a39-79b0-4b74-a950-3217b02d3900_2_Towers_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/11/17/5e11178f-95b3-0803-d3fe-a57c69d14f58/ac31beee-f7d8-490f-880b-c41c51362c0d_3_5.5__0001_Chinese.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/58/d1/b3/58d1b311-1d08-70ce-7481-8604b6cd0631/418c9d4d-7b4b-4b32-81a2-014cdcea783e_4_Odyssey_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/cf/3c/d0cf3c57-2288-f4fc-96d6-00ce5bdad2c0/d90dd6fc-22f2-46c0-a0fe-d8e3f183d4ee_5_5.5__0001_Chinese.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/98/5f/b1985f8b-154b-59cc-8d53-07e030747396/1202494b-0058-4554-95e3-399a174bcc9d_6_5.5__0001_Chinese.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/03/1b/53/031b538d-4c14-feda-9ec1-78cb80327b6e/b0540c80-ccbd-4552-9b1b-645a06dc7ad7_7_5.5__0001_Chinese.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/6b/ee/ea6beebc-3c74-0c08-b347-d04a107a7192/mzl.hmyqqghy.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/ea/62/8eea6214-415c-c208-2d25-a9af6812c19d/72ba4f9b-35ee-467b-9e65-ac799ff806a4_1_iPadPro__0004_Chinese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/b7/7a/eab77ab2-98d8-20de-095b-dcbf17789297/d8a8e1f3-4bed-4d54-b134-cb50451ea8f9_2_iPadPro__0004_Chinese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/bf/d6/d7bfd67c-c4a3-f350-ed81-28cb88f0b9c0/c216aba0-1da4-4fa8-be06-0a997c7d1d45_3_iPadPro__0001_Chinese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/5a/a8/675aa828-efb1-23a7-4917-07a5e3551979/7b93a781-b534-4230-88f4-be1d8d8f4e7d_4_iPadPro__0001_Chinese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/ad/85/2dad85fa-1a45-5f61-22c2-ed4586e40f59/d522ad63-8ef6-4349-b2aa-7924ccca5dcb_5_iPadPro__0001_Chinese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/dd/e0/10/dde01000-d88b-62d1-ca78-2fbb90ab31e2/6db48cfd-65a5-4f8d-a92f-8dc960f01ad0_6_iPadPro__0001_Chinese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d3/5c/4d/d35c4d90-8f5f-6778-1d7a-5939bd326fe6/af1e955d-a472-4e1c-bd1e-28fc64b6d1b2_7_iPadPro__0001_Chinese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e5/e9/95/e5e99573-f3e9-d9db-59c4-41a6434b303b/mzl.lvxqvnnn.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[短語鍵盤]]></title>
-        <id>短語鍵盤-tw-1747303352192</id>
-        <link href="https://apps.apple.com/tw/app/%E7%9F%AD%E8%AA%9E%E9%8D%B5%E7%9B%A4/id916976066?uo=4"/>
-        <updated>2025-05-15T10:02:32.192Z</updated>
-        <summary type="html"><![CDATA[Font Access: $1,790.00 → $170.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E7%9F%AD%E8%AA%9E%E9%8D%B5%E7%9B%A4/id916976066?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/79/d3/f5/79d3f564-7bc6-714b-4968-206df1a00b57/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Font Access：</strong><span>$1,790.00</span> → <b>
-  <strong>$170.00</strong>
-</b><span>[$170.00 ~ $1,790.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  厭倦了一直重複輸入相同的響應？短語板通過易於訪問的短語對鍵盤進行自定義和分類。
-
-添加一個類別和一些常用短語，您可以立即編輯，收聽和翻譯文本，然後在Facebook，Twitter，Instagram上共享它，或者僅通過電子郵件，LINE或SMS形式發送。
-
-使用獨特的字體和顏色自定義您的短語和鍵盤！
-超過100種創意字體可供選擇！
-可以翻譯超過59種語言！
-
-特徵：
-•具有創意字體的全鍵盤。
-•創建最常用的短語並按類別對其進行排序。
-•在鍵盤上的任何應用程序中使用短語。
-•更改短語的字體以匹配您選擇的外觀。*
-•設計鍵盤樣式，包括按鈕和背景色。*
-•將自定義照片設置為鍵盤背景。
-•保存您的樣式，並在樣式管理器中從精選主題中進行選擇。
-•選擇啟用的字體並管理其順序。
-•更改鍵盤和按鈕的大小
-•將您的短語翻譯成多種語言，然後直接在鍵盤中使用它們。*
-•語音模式會大聲朗讀您的短語。*
-•使用所有類型的表情符號來表達您的創造力。
-•只需點擊一個按鈕即可發送快速回复。
-•商業專業人員和社交媒體創作者的絕佳工具！
-
-還：
-•在任何應用程序中發送GIF和圖像。
-•單擊即可共享您的位置。
-•在各種字體之間切換而無需更改短語。*
-•從大量字體中選擇。*
-•自定義字體大小。*
-•自定義字體顏色。*
-•使用“安全”類別保護短語。
-•使用短語面板小部件直接從通知中心添加短語。
-•使用iCloud在所有設備中同步您的短語。
-•直接在您喜歡的社交媒體應用（如Instagram，Facebook或Twitter）中使用。
-•直接在iMessage，SMS或Apps中使用。
-•創建自動回复文本，以幫助快速簡便地鍵入內容。
-•使用短語快捷方式進行自信交流。
-
-（*）需要有效的訂閱
-
-記住：為了在鍵盤上顯示您的短語，您必須允許OPEN ACCESS。要允許它，請轉到設置>鍵盤，單擊短語面板，然後將開關打開。
-（僅短語板需要開放訪問權限，才能在鍵盤上顯示您的自定義短語。我們從不保存或記錄您的任何擊鍵）。
-
-短語板高級訂閱信息
-
-加入Phraseboard Premium可以進行3天的免費試用，然後每月收取會員費。
-
-•訂閱會自動續訂，除非在當前期間結束前至少24小時關閉了自動續訂功能。
-
-•將在當前期間結束前的24小時內向帳戶收取續訂費用。
-
-•訂閱可以由用戶管理，並且可以通過購買後轉到用戶的“帳戶設置”來關閉自動續訂。
-
-•如果適用，則免費試用期中任何未使用的部分（如果提供）將在用戶購買訂閱時被沒收。
-
-隱私政策：https://phraseboard.wixsite.com/phraseboard/untitled-c82w
-服務條款：https://phraseboard.wixsite.com/phraseboard/terms
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/10/d4/aa/10d4aa7d-d250-a7b1-bc2b-4a35af37c455/ad580e92-f004-4031-99bd-0c3c8d9ec17a_TYPE.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/25/52/10/25521040-a722-0b9b-3414-cab35f54cb33/cf3fdc87-0388-4bd8-a7ea-f135f01b77e7_shorter.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/31/97/29/31972939-b3a7-ec90-b35e-afdec3195efb/2a4f0722-0d28-41d0-bd43-8aa3e0dc2fd8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/46/5f/b0/465fb035-0a44-c2f6-b6b3-5e444e8002b3/a3d57f96-5fbf-482b-81f1-e2a37d936395_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/75/49/b9/7549b977-bade-6c88-c625-81a0b3381016/e10f4a28-76e1-4839-aeb0-ea757d0015d2_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b4/f0/31/b4f03178-aee6-637a-14eb-8cfe8d17ba2a/af2240c2-caeb-484d-ae0c-d5879215c5b3_4.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/fb/90/28/fb90280a-d074-0aad-01cc-644e164e23fb/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7b/17/5b/7b175bfb-109b-30a0-5b04-b8bc18e35f0f/ab0326da-307f-4169-9050-6d50b6dd6dab_ipad.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f5/8c/86/f58c8675-f691-aa7a-fa74-248d1fef8489/2b9e3606-ac60-4866-94f6-476964dc030b_ipad-.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0b/d2/0d/0bd20d41-0a18-13f0-0106-7018cfe20f86/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/57/fb/f457fb93-2f88-347b-9e20-2830bb899b89/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/37/7f/04/377f04f6-e83a-b5b8-653f-cd92ab65a5ec/pr_source.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

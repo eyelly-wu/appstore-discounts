@@ -18507,6 +18507,25 @@
     "history": [
       [
         {
+          "timestamp": 1747562535412,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "$30.00",
+            "Large Coin Pack": "$90.00",
+            "Medium Coin Pack": "$60.00",
+            "Small Coin Pack": "$30.00",
+            "Pig": "$30.00",
+            "Dog": "$30.00",
+            "Rooster": "$30.00",
+            "Monkey": "$30.00",
+            "Goat": "$30.00",
+            "Horse": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747306941951,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -50695,6 +50714,19 @@
     "history": [
       [
         {
+          "timestamp": 1747562535412,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "一箱宝石_出售": "$590.00",
+            "電湧石魔": "$90.00",
+            "織珠": "$150.00",
+            "蜘蛛優惠": "$290.00",
+            "所有塔": "$690.00",
+            "所有英雄": "$790.00"
+          }
+        },
+        {
           "timestamp": 1747541165364,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -65309,10 +65341,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747562535412,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746457348888,

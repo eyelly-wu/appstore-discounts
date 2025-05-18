@@ -9569,6 +9569,25 @@
     "history": [
       [
         {
+          "timestamp": 1747562535412,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "USD 0.99",
+            "SLS 2022: Jacksonville": "USD 0.99",
+            "SLS 2021: World Championship": "USD 0.99",
+            "SLS 2019: Sao Paulo": "USD 0.99",
+            "SLS 2019: London": "USD 0.99",
+            "Sandbox 1 Year": "USD 24.99",
+            "Sandbox 3 Months": "USD 9.99",
+            "Sandbox Monthly": "USD 4.99",
+            "SLS 2018: World Championship": "USD 0.99",
+            "Mountain of Bolts": "USD 99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746172979393,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -50401,10 +50420,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747562535412,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746457348888,

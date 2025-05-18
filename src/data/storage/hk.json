@@ -234,7 +234,17 @@
       "Retro Games SkinPack": "HK$ 8.00",
       "Ice Monster Skin Pack": "HK$ 8.00",
       "Medieval Pack": "HK$ 8.00",
-      "Japanese Skin Pack": "HK$ 8.00"
+      "Japanese Skin Pack": "HK$ 8.00",
+      "Adult Swim Customization Pack": "HK$ 8.00",
+      "Grimm Skin Pack": "HK$ 8.00",
+      "Zombie Skin Pack": "HK$ 8.00",
+      "Monster Pack": "HK$ 8.00",
+      "Dance Pack Three": "HK$ 8.00",
+      "Mondo Pack": "HK$ 8.00",
+      "Superbowl Skin Pack": "HK$ 8.00",
+      "Candy Land Pack": "HK$ 8.00",
+      "Underwater World Pack": "HK$ 8.00",
+      "Mafia Pack": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -247,9 +257,38 @@
       "Retro Games SkinPack": "HK$ 8.00",
       "Ice Monster Skin Pack": "HK$ 8.00",
       "Medieval Pack": "HK$ 8.00",
-      "Japanese Skin Pack": "HK$ 8.00"
+      "Japanese Skin Pack": "HK$ 8.00",
+      "Adult Swim Customization Pack": "HK$ 8.00",
+      "Grimm Skin Pack": "HK$ 8.00",
+      "Zombie Skin Pack": "HK$ 8.00",
+      "Monster Pack": "HK$ 8.00",
+      "Dance Pack Three": "HK$ 8.00",
+      "Mondo Pack": "HK$ 8.00",
+      "Superbowl Skin Pack": "HK$ 8.00",
+      "Candy Land Pack": "HK$ 8.00",
+      "Underwater World Pack": "HK$ 8.00",
+      "Mafia Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747562535412,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "HK$ 8.00",
+            "Grimm Skin Pack": "HK$ 8.00",
+            "Zombie Skin Pack": "HK$ 8.00",
+            "Monster Pack": "HK$ 8.00",
+            "Dance Pack Three": "HK$ 8.00",
+            "Mondo Pack": "HK$ 8.00",
+            "Superbowl Skin Pack": "HK$ 8.00",
+            "Candy Land Pack": "HK$ 8.00",
+            "Underwater World Pack": "HK$ 8.00",
+            "Mafia Pack": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -1746,6 +1785,25 @@
       "Voluntary Upgrade": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747562535412,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro + 家人共享": "HK$ 188.00",
+            "forScore Pro 30-Day Pass": "HK$ 22.00",
+            "Haydn: String Quartets": "HK$ 18.00",
+            "Christmas Carol Collection": "HK$ 18.00",
+            "Bach: Cello Suites": "HK$ 18.00",
+            "Vivaldi: The Four Seasons": "HK$ 18.00",
+            "Mozart: Twelve Duets": "HK$ 18.00",
+            "The Mutopia Piano Collection": "HK$ 38.00",
+            "forScore Pro": "HK$ 118.00",
+            "Voluntary Upgrade": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747371751417,
@@ -27877,6 +27935,25 @@
       "B.B.K.K.B.K.K. 2023 Remake SLC": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747562535412,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Miku": "HK$ 88.00",
+            "ConneR": "HK$ 88.00",
+            "CAPSO": "HK$ 88.00",
+            "Xenon": "HK$ 88.00",
+            "9 Characters": "HK$ 288.00",
+            "Cherry": "HK$ 88.00",
+            "Kizuna AI": "HK$ 88.00",
+            "Battle CHAOS 2019": "HK$ 38.00",
+            "Emotion Samples 01": "HK$ 38.00",
+            "Alice": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747198948726,
@@ -64794,10 +64871,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747562535412,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746457348888,
