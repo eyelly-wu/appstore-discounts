@@ -2068,14 +2068,27 @@
       "Tip Jar: Medium Coffee": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99",
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
       "Notes - Tzolkin/13Moon Cycles": "₺129,99",
       "Tip Jar: Large Coffee": "₺449,99",
       "Tip Jar: Small Coffee": "₺99,99",
       "Tip Jar: Medium Coffee": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747609327795,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "₺129,99",
+            "Tip Jar: Large Coffee": "₺449,99",
+            "Tip Jar: Small Coffee": "₺99,99",
+            "Tip Jar: Medium Coffee": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747256537899,
@@ -22419,9 +22432,9 @@
       "Special Offer 19": "₺349,99",
       "Special Offer 18": "₺299,99",
       "Hero Tank": "₺249,99",
-      "Tower Rotten Forest": "₺39,99",
+      "Tower Rotten Forest": "₺129,99",
       "Hero Murglun": "₺179,99",
-      "Hero Margosa": "₺39,99"
+      "Hero Margosa": "₺129,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -22451,6 +22464,25 @@
       "Hero Margosa": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747609327795,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hero Beresad": "₺299,99",
+            "Hero Margosa": "₺129,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Tower Grim Cemetery": "₺129,99",
+            "Hero Jack'O Lantern": "₺129,99",
+            "Hero Mortemis": "₺129,99",
+            "Tower Blazing Gem": "₺229,99",
+            "Mega Tower Bundle": "₺699,99",
+            "Tower Rotten Forest": "₺129,99",
+            "Pirate Kings Campaign!": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747454544227,
@@ -24714,14 +24746,22 @@
   "1336793944": {
     "name": "HAAK",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 79.99,
+      "formattedPrice": "₺79,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747609327795,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44912,14 +44952,22 @@
   "6449766387": {
     "name": "Merge Watermelon 4 Watch",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747609327795,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -47063,6 +47111,14 @@
     "history": [
       [
         {
+          "timestamp": 1747609327795,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747436543532,
           "price": 0,
           "formattedPrice": "Free",
@@ -47489,6 +47545,16 @@
       "Premium Features": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747609327795,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747461779730,

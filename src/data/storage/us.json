@@ -3151,14 +3151,27 @@
       "Tip Jar: Large Coffee": "$9.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "Notes - Tzolkin/13Moon Cycles": "$2.99",
       "Tip Jar: Medium Coffee": "$4.99",
       "Tip Jar: Small Coffee": "$1.99",
       "Tip Jar: Large Coffee": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747609327795,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "$2.99",
+            "Tip Jar: Medium Coffee": "$4.99",
+            "Tip Jar: Small Coffee": "$1.99",
+            "Tip Jar: Large Coffee": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747256537899,
@@ -22502,6 +22515,23 @@
     "history": [
       [
         {
+          "timestamp": 1747609327795,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "90 Days SVIP": "$2.99",
+            "Annual Special SVIP": "$12.99",
+            "545 Days SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "SVIP auto-renew annually": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746907333477,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -26335,8 +26365,8 @@
       "Tower Grim Cemetery": "$0.99",
       "Tower Goblin War Zeppelin": "$4.99",
       "Pirate Kings Campaign!": "$7.99",
-      "Tower Ignis Altar": "$2.99",
-      "Hero Grosh": "$4.99",
+      "Tower Ignis Altar": "$0.99",
+      "Hero Grosh": "$2.99",
       "Special Offer 27": "$7.99",
       "Special Offer 24": "$7.99",
       "Special Offer 21": "$7.99",
@@ -26347,6 +26377,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747609327795,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "$7.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Tower Ignis Altar": "$0.99",
+            "Hero Grosh": "$2.99",
+            "Special Offer 27": "$7.99",
+            "Special Offer 24": "$7.99",
+            "Special Offer 21": "$7.99",
+            "Special Offer 20": "$7.99",
+            "Special Offer 19": "$7.99",
+            "Special Offer 18": "$6.99"
+          }
+        },
         {
           "timestamp": 1747605729205,
           "price": 2.99,
@@ -29394,6 +29441,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747609327795,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Crop": "$0.00",
+            "Splice": "$0.00",
+            "Magnifier": "$0.00",
+            "Distortion": "$0.00",
+            "Paint": "$0.00",
+            "Rotate": "$0.00",
+            "Sticker": "$0.00",
+            "Rate": "$0.00",
+            "Chromakey": "$0.00",
+            "Info": "$0.00"
+          }
+        },
         {
           "timestamp": 1747605729205,
           "price": 0.99,

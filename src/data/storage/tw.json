@@ -25793,6 +25793,25 @@
     "history": [
       [
         {
+          "timestamp": 1747609327795,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "屬性經驗值增加": "$290.00",
+            "重生經驗值增加": "$290.00",
+            "重生禮包": "$1,290.00",
+            "寶石12000個": "$2,990.00",
+            "重生石50000個": "$2,990.00",
+            "屬性禮包": "$490.00",
+            "地獄石250個": "$1,290.00",
+            "地獄石120個": "$790.00",
+            "地獄石30個": "$290.00",
+            "地獄石500個": "$1,290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747476136272,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -59308,14 +59327,22 @@
   "6449766387": {
     "name": "Merge Watermelon 4 Watch",
     "maxPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "minPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747609327795,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

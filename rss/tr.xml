@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-18T09:22:04.318Z</updated>
+    <updated>2025-05-18T23:13:19.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-18T09:22:04.318Z</updated>
+        <updated>2025-05-18T23:13:19.208Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrSun, 18 May 2025 09:22:04 GMT</id>
+        <id>rankingtrSun, 18 May 2025 23:13:19 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-18T09:22:04.318Z</updated>
+        <updated>2025-05-18T23:13:19.208Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -50,13 +50,13 @@ feedId:99063474310237184+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1063</b>
+        <b>1064</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>862</b>
+        <b>863</b>
       </td>
       <td>
         <b>11</b>
@@ -67,13 +67,13 @@ feedId:99063474310237184+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>962</b>
+        <b>963</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>790</b>
+        <b>791</b>
       </td>
       <td>
         <b>11</b>
@@ -111,6 +111,23 @@ feedId:99063474310237184+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id384363262">13:20:Sync</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id1038014543">Day R Premium</a>
       </td>
       <td>
@@ -131,7 +148,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439881811">RadarOmega</a>
@@ -150,23 +167,6 @@ feedId:99063474310237184+userId:73658201673997312
                 <i>Data Level Beta</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id384363262">13:20:Sync</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -470,6 +470,23 @@ feedId:99063474310237184+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>20</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -581,6 +598,171 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13:20:Sync]]></title>
+        <id>13:20:Sync-tr-1747609327795</id>
+        <link href="https://apps.apple.com/tr/app/13-20-sync/id384363262?uo=4"/>
+        <updated>2025-05-18T23:02:07.795Z</updated>
+        <summary type="html"><![CDATA[Price: ₺129,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/13-20-sync/id384363262?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/a1/7d/21a17dcf-97e0-5833-e461-3ff74c56ce99/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺129,99</span> → <b>
+  <strong>₺99,99</strong>
+</b><span>[₺99,99 ~ ₺179,99]</span>）
+</h2><h2>Application Description</h2><p>
+  This app puts the Mayan Dreamspell Calendar in your pocket! "13:20:Sync makes it so much easier to understand and integrate the calendar into every day life. Highly recommend it." 
+
+The Mayan People have described, in breathtaking precision, the cycles of both the universe and nature around us. They created a harmonic calendar that is synchronized to all those cycles. Following these cycles can help you get a stronger connection with nature around you and become conscious of your essence.
+
+This app provides a simple way to sync along those cycles, to raise our frequency and give us a new lens to view both our day-to-day and planetary events.
+
+- Did you ever realize that our (Gregorian) calendar is not a harmonic calendar? 
+- Did you know that the moon has 13 (not 12!) orbits around the earth in 1 year? 
+- Why do we live with this irregular calendar?
+- Are you interested in Astrology?
+
+-> All this, and more, is explained carefully in this app. (over 15.000 words on 37 pages) Please note that these text are in English language only.
+
+In the New Time, synchronicity is the norm.
+
+
+///////////////////////////////////////////////////////////////// 
+5 star rating across the world! 
+///////////////////////////////////////////////////////////////// 
+"Entertaining as well as enlightening" 
+///////////////////////////////////////////////////////////////// 
+
+MORE INFO: 
+www.1320sync.com 
+
+
+For the beginner this app is a learning tool because it contains an extensive explanation about Tones and Seals and the synchronizing order of the Mayan Astrology. You may think it's difficult at first but soon you will feel how it all connects. 
+
+"This app is great, and allows easy manipulation of dates. I spent years in books doing in hours what I can now do in seconds."
+
+For the ones who are already familiar with the Mayan Calendar this app is a handy tool to navigate the cycles, and calculate the Combined Kin for any given combination. Furthermore this app can be of great assistance to teach other people about the 13:20 cycles and is used in teachings around the world.
+
+
+=== FEATURES ===
+
++ Kin Calendar
+This is your main Mayan Dreamspell Calendar Dashboard with all the details you need to stay in sync. Shows the Kin of today by default, and you can calculate the Kin for any other date.
+
++ Personal Notes
+On this new page you can keep your personal notes for the 2 main cycles of time: the Tzolkin cycle of 260 days and the 13 Moon cycle of 365 days. And with the powerful text search function you quickly find your notes.
+
++ Kin Picker
+Select any combination of the 13 Tones and 20 Seals. Top section can scroll to 4 pages with information.
+
++ Combined Kin Calculator 
+Calculate the Combined Kin of any combination of Kin. You can add as many Kin as you like to calculate the Combined Kin for a group of people. 
+
++ Tzolkin with indication of the GAP day's and Wavespell and more. Tap and hold to select a Kin number directly.
+
++ Contact Import 
+All contacts in your Contacts App will be automatically imported and assigned to the correct Kin. See all your contacts with their Mayan Reading and how you relate to them. 
+
++ 13 Moon Calendar 
+Full integration of 13 Moon Calendar. (doubles as a birthday calendar!) 
+
++ 13:20 Information 
+Lots of information about the theory behind synchronization to help you navigate the Mayan Dreamspell Calendar. The texts provide a clear explanation of the Cycles of Time. (More than 15.000 words on 37 pages) Please note that these text are in English language only.
+
++ Sharing
+On all the 3 main tabs you can share the current selected Galactic Signature using your favorite app. 
+
+
+# Based on the work of José Argüelles.
+# This app was made with permission of and in cooperation with the Foundation for the Law of Time - www.lawoftime.org, 
+# Ariel Spilsbury.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/83/ce/9d83ceec-0747-6c58-4fde-cdc7b5b4d3f9/EN_5-5_Image_Promo.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/ab/96/9aab9603-cfa5-2b25-8d66-efdc9823c14b/EN_5-5_Image_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/0f/78/a80f786d-4c1f-ec7e-ac23-889c384cce40/EN_5-5_Image_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/57/8d/2f578d32-5636-c16a-d0ba-2310ffc8372c/EN_5-5_Image_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/a9/b5/6fa9b59d-e863-7348-c133-70fdb708e8c6/EN_5-5_Image_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/2e/5b/fa2e5bee-7122-f660-dc7a-6f3ce634a675/EN_5-5_Image_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/27/36/53273655-d868-31b6-1ed8-f2ae7bd57379/EN_5-5_Image_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/c6/1b/c9c61bbf-6aad-3d1a-e8a7-115dec170d7a/EN_5-5_Image_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/b2/2b/96b22bc2-dde9-dff5-d8fe-614fef88316e/EN_5-5_Image_08.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayNav - No ads in videos!]]></title>
+        <id>PlayNav - No ads in videos!-tr-1747609327795</id>
+        <link href="https://apps.apple.com/tr/app/playnav-no-ads-in-videos/id6446178861?uo=4"/>
+        <updated>2025-05-18T23:02:07.795Z</updated>
+        <summary type="html"><![CDATA[Price: ₺39,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/playnav-no-ads-in-videos/id6446178861?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ba/1a/fcba1a02-3654-b8f3-5710-7822bcde85d5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺39,99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ ₺39,99]</span>）
+</h2><h2>Application Description</h2><p>
+  Are you tired of interruptions caused by ads in your YouTube videos?
+
+The new YouTube PlayNav video browser will block all intrusive ads that appear while watching your videos, so you can enjoy your favorite videos smoothly and without interruptions.
+
+Plus, our app offers features you’ll love:
+• On-Screen Playback: Watch YouTube videos while using other apps.
+• Audio-Only Mode: Listen to any YouTube video with your screen locked.
+• Auto Shutdown: Set a sleep timer. (Premium)
+• Loop Mode: Automatically repeat your favorite videos. (Premium)
+• Learning Mode: Learn languages using subtitles. (Premium)
+
+It also includes essential features such as playlists, speed adjustment (improved), related videos, AirPlay, and more to enhance your video-watching experience.
+
+» HOW TO USE PLAYNAV?
+
+ON-SCREEN PLAYBACK (PIP) (Premium)
+
+Watch YouTube videos while using any other app. Once activated, the player will shrink on your screen, allowing you to move or hide it with a double tap.
+
+» How to activate it?
+1. While playing a video, tap the PIP icon in the upper-left corner (two small screen icons).
+2. While a video is playing, swipe up from the bottom of your iPhone, and the player will appear on your screen.
+
+AUDIO-ONLY MODE
+
+Listen to the audio of your favorite YouTube videos with your iPhone screen locked. Use it while exercising, walking, or before bed. Combine it with the auto shutdown feature to relax while listening to your favorite videos!
+
+» How to activate it?
+1. Enable On-Screen Playback.
+2. Then, lock your iPhone, and the audio will continue playing.
+
+AUTO SHUTDOWN
+
+Bedtime? Find your favorite YouTube video or playlist, set the auto shutdown timer, and let your favorite audio accompany you as you fall asleep.
+
+» How to activate it?
+1. Tap the Sleep icon (moon) in the player.
+2. Select the time you want for auto shutdown.
+3. You can combine it with Audio-Only Mode.
+
+LOOP MODE (REPEAT VIDEO)
+
+Want your video to play on repeat? Use Loop Mode to replay your video as many times as you like. You can also combine it with Audio-Only Mode.
+
+» How to activate it?
+1. Tap the Repeat icon. Your video will keep playing on loop until you disable it.
+
+LEARN LANGUAGES WITH SUBTITLES (LEARNING MODE)
+
+Now you can learn languages using subtitles! When you activate Learning Mode, you will see both the original subtitles and the translation in your language. You can also adjust the playback speed to better understand each word.
+
+» How to activate it?
+1 Search for videos in the language you are learning.
+2 Once your video starts playing, tap the Learning Mode button next to the video title.
+
+– TRY PLAYNAV NOW! –
+Enjoy all basic features for free and unlock Premium with a one-time purchase.
+
+Minimum requirements:
+• iOS 15 or higher.
+• 3G connection or higher.
+
+» Related keywords:
+YouTube, YouTube Music, YouTube Vanced, ad blocker, no subscription, skip YouTube ads, ad-free music, block pop-ups, adblock for YouTube, block pop-up ads, ad-free content, premium ad blocker, AdBlock Plus, remove ads, YouTube without ads.
+
+- Need help?
+Visit: playnav.vidiom.app or contact us at info@playnav.vidiom.app
+
+Terms of Service: playnav.vidiom.app/terms-of-service
+Privacy Policy: playnav.vidiom.app/privacy-policy
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/1b/a3/f41ba35e-2cd1-bfa1-1586-2fad3543c910/e56d11f2-8cdc-4e8a-97a1-8e00a0bdf908_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/fe/0e/88fe0ed8-2113-5dcd-c7ae-09f39ef6750a/febb8eb4-e913-44a6-829a-bdedac85315b_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/b3/b2/18b3b206-bb85-4773-a61d-5965a7b0e985/8af986d4-f22c-43a5-8c1c-1c5965a75fa2_Hotpot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/0c/84/410c8494-9e93-277d-feb2-af28220e5e97/c7bbd4b7-5d74-42fe-8ee1-858c90270f96_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/d6/2b/aed62b9b-53dc-59af-3fe5-28e7ecdbd296/6522e8f6-efb0-4ce5-a718-8b1e3079015f_Hotpot_4.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dumb Phone: Minimal Launcher]]></title>
@@ -1067,258 +1249,5 @@ App使用方法：
 5. 开始并专注于你的工作或学习。
 快来和我们一起进步吧！！！
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/cb/99/c1/cb99c165-1f5c-e3a7-aff7-b9dd66d18321/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/ca/b2/bdcab20f-406e-06af-ffef-f497dd7e6bd5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/a1/59/f4a15915-dfb6-6942-1de7-0dd8b19d915f/mzl.bkcdpibu.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/21/73/34/21733469-cab7-f8b3-7431-09a6dbbbf9f2/mzl.ijpebcxc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/c9/df/abc9df78-4745-a848-09ac-ed698eac23d9/mzl.kaxjshbt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f7/a1/32/f7a13273-f0af-0a21-935e-e654a15677e8/mzl.mcdhwqfk.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/f6/3f/a3f63ff8-140c-2527-e07f-310136ba5137/mzl.icblcvod.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3f/28/de/3f28de24-ad23-0353-a6f5-67211a0a772f/mzl.ckekpjvp.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/54/a7/a354a7c9-27d9-d15e-2ccc-5ed85f13878f/mzl.wethfkxl.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/30/7f/d1/307fd172-f03f-656e-ba33-8c4d95e1b61a/mzl.lbyvydhm.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1b/05/2a/1b052a2f-955e-f6d9-c2f0-a7bfcab09405/mzl.bcrzmpha.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Witness]]></title>
-        <id>The Witness-tr-1747350143850</id>
-        <link href="https://apps.apple.com/tr/app/the-witness/id1230231705?uo=4"/>
-        <updated>2025-05-15T23:02:23.850Z</updated>
-        <summary type="html"><![CDATA[Price: ₺449,99 → ₺229,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/the-witness/id1230231705?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/3b/b3/a83bb3ed-719a-6839-a259-f17a11a9cc07/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺449,99</span> → <b>
-  <strong>₺229,99</strong>
-</b><span>[₺229,99 ~ ₺449,99]</span>）
-</h2><h2>Application Description</h2><p>
-  You wake up, alone, on a strange island full of puzzles that will challenge and surprise you.
-
-You don't remember who you are, and you don't remember how you got here, but there's one thing you can do: explore the island in hope of discovering clues, regaining your memory, and somehow finding your way home.
-
-The Witness is a single-player game in an open world with dozens of locations to explore and over 500 puzzles. This game respects you as an intelligent player and it treats your time as precious. There's no filler; each of those puzzles brings its own new idea into the mix. So, this is a game full of ideas.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/28/8b/aa288bc2-99ce-095a-a116-60f4ed595ee7/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/40/14/ba4014cf-35b4-d173-697e-b126c3402e82/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/ec/80/50ec806c-1fda-f711-d752-0b53ffb986fb/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/18/61/ba18616d-68a1-4363-b09a-1995e5caf2ba/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/62/be/d362beec-a947-1b47-e97a-a7576b27bcab/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/aa/fb/97aafbe5-3fdd-91ed-f68f-d05dafa2dbb3/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/16/8b/3d/168b3d80-cd3f-a052-bda7-78360aa25db3/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/cc/3c/f4cc3cd1-852c-2492-93c4-85d20d53494f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/10/f4/dd10f4a6-84a1-5fc1-d913-f354a2272d2e/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/74/d3/d2/74d3d228-fa16-91ba-4e23-84f9125c4423/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件]]></title>
-        <id>甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件-tr-1747350143850</id>
-        <link href="https://apps.apple.com/tr/app/%E7%94%9C%E8%9B%99-%E7%BA%A6%E4%BC%9A%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA-%E5%90%8C%E5%9F%8E%E9%99%8C%E7%94%9F%E4%BA%BA%E4%BA%A4%E5%8F%8B%E9%99%AA%E7%8E%A9%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/id1095903651?uo=4"/>
-        <updated>2025-05-15T23:02:23.850Z</updated>
-        <summary type="html"><![CDATA[Price: ₺39,99 → ₺19,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/%E7%94%9C%E8%9B%99-%E7%BA%A6%E4%BC%9A%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA-%E5%90%8C%E5%9F%8E%E9%99%8C%E7%94%9F%E4%BA%BA%E4%BA%A4%E5%8F%8B%E9%99%AA%E7%8E%A9%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/id1095903651?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/de/27/7bde277d-e222-d7f2-fa4f-72a9b3495164/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺39,99</span> → <b>
-  <strong>₺19,99</strong>
-</b><span>[₺19,99 ~ ₺39,99]</span>）
-</h2><h2>Application Description</h2><p>
-  甜蛙，下一秒，约见面。
-约吃饭、看电影、演唱会、密室逃脱...
-在这里，才华不会被埋没，用炸裂的演技展示真实自我，获取Ta的好感，夺回属于你的舞台焦点。
-
-发起邀约
-神啊，赐予我一个骑白马的吧
-
-对方应约
-稀饭，你是我的菜
-
-联系对方
-幽默是一种艺术
-
-线下见面
-随时随地的撒狗粮
-
-拍摄短视频
-一段即兴的rap展示，让世界认识你
-
-网友疯狂打Call：
-「 好瘦的八戒」what？还能直接约，爱了爱了
-「 茉莉蜜茶」完了，我中毒了，一天要打开APP几百次
-「 巅峰小学生」还能免费约，做慈善吗？
-「 陌人」抓到帅气学长一枚，收工～
-
-如果您有任何问题，请及时在APP中砸向我们，我们喜欢被砸，您还可以通过邮件吐槽。
-吐槽邮箱：tw@yohoing.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/5c/9c/545c9c4a-971f-fc1d-5a9f-b35c03b803e9/80a31afc-7a1a-4b4c-94ce-535db36f5eb3_1-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/ec/16/3cec161f-9cb6-9b70-842c-6e8a07e4510f/34737da0-b6ea-4b26-9735-bfb1e4ec2ef8_2-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/c2/5c/83c25ce3-d97d-2714-f788-56c6718181d7/9bf8aa69-fd6d-4dd5-96e3-4486426c1504_3-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/fc/ac/edfcacf7-41d1-474a-f88f-5c85c26743a6/0d0c4331-aa20-4b39-9eb7-884c73000d57_4-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/b9/75/b0b97566-c02c-0633-36fe-00c1665679e8/c4339ed9-d83e-4cc3-ae08-1d0729fe0509_0-5.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloons TD 6]]></title>
-        <id>Bloons TD 6-tr-1747350143850</id>
-        <link href="https://apps.apple.com/tr/app/bloons-td-6/id1118115766?uo=4"/>
-        <updated>2025-05-15T23:02:23.850Z</updated>
-        <summary type="html"><![CDATA[Price: ₺299,99 → ₺179,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/bloons-td-6/id1118115766?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/6f/46/706f465b-7857-8824-e649-fd504a491d2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺299,99</span> → <b>
-  <strong>₺179,99</strong>
-</b><span>[₺179,99 ~ ₺299,99]</span>）
-</h2><h2>Application Description</h2><p>
-  Craft your perfect defense from a combination of powerful Monkey Towers and awesome Heroes, then pop every last invading Bloon!
-
-Over a decade of tower defense pedigree and regular massive updates makes Bloons TD 6 a favorite game for millions of players. Enjoy endless hours of strategy gaming with Bloons TD 6!
-
-HUGE CONTENT!
-* Regular updates! We release several updates every year with new characters, features, and gameplay.
-* Boss Events! Fearsome Boss Bloons will challenge even the strongest defenses.
-* Odysseys! Battle through a series of maps connected by their theme, rules, and rewards.
-* Contested Territory! Join forces with other players and battle for territory against five other teams. Capture tiles on a shared map and compete on the leaderboards.
-* Quests! Delve into what makes the Monkeys tick with Quests, crafted to tell tales and share knowledge.
-* Trophy Store! Earn Trophies to unlock dozens of cosmetic items that let you customize your Monkeys, Bloons, animations, music, and more.
-* Content Browser! Create your own Challenges and Odysseys, then share them with other players and check out the most liked and played community content.
-
-EPIC MONKEY TOWERS & HEROES!
-* 23 powerful Monkey Towers, each with 3 upgrade paths and unique activated abilities.
-* Paragons! Explore the incredible power of the newest Paragon upgrades.
-* 16 diverse Heroes, with 20 signature upgrades and 2 special abilities. Plus, unlockable skins and voiceovers!
-
-ENDLESS AWESOMENESS!
-* 4-Player Co-Op! Play every map and mode with up to 3 other players in public or private games.
-* Play anywhere - single player offline works even when your WiFi doesn’t!
-* 70+ handcrafted maps, with more added every update.
-* Monkey Knowledge! Over 100 meta-upgrades to add power where you need it.
-* Powers and Insta Monkeys! Earned through gameplay, events, and achievements. Instantly add power for tricky maps and modes.
-
-We pack as much content and polish into each update as possible, and we’ll continue to add new features, content, and challenges in regular updates.
-
-We truly respect your time and support, and we hope Bloons TD 6 will be the best strategy game you’ve ever played. If it’s not, please contact us at https://support.ninjakiwi.com and tell us what we can do better!
-
-Now those Bloons aren't going to pop themselves... sharpen your darts and go play Bloons TD 6!
-
-
-**********
-
-Ninja Kiwi Notes: 
-
-Please review our Terms of Service and Privacy Policy. You will be prompted in-game to accept these terms in order to cloud save and protect your game progress:
-https://ninjakiwi.com/terms
-https://ninjakiwi.com/privacy_policy
-
-Bloons TD 6 contains in-game items that can be purchased with real money. You can disable in-app purchases in your device's settings, or reach us at https://support.ninjakiwi.com for help. Your purchases fund our development updates and new games, and we sincerely appreciate every vote of confidence you give us with your purchases. 
-
-Ninja Kiwi Community:
-We love hearing from our players, so please get in touch with any feedback, positive or negative, at https://support.ninjakiwi.com.
-
-Streamers and Video Creators: 
-Ninja Kiwi is actively promoting channel creators on YouTube and Twitch! If you are not already working with us, keep making videos and tell us about your channel at streamers@ninjakiwi.com.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/02/81/b802814b-58b2-c1e7-0645-f73fd1df030f/fc0cb9bf-d2b4-4021-bdb2-21ac7bab267d_1_5.5__0001_English.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/af/ad/22/afad2282-bf0d-7abc-00df-4c3157ba2c86/fa32fd7c-0978-4521-8cc3-5ce3bab72370_2_Towers_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/e7/ed/8fe7ed84-c1f9-e8c2-aa8f-efa313c46b95/697fa2f2-1c1f-43c2-988f-064b931f78c1_3_5.5__0000_English.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/74/a5/54/74a5542f-cda4-0615-3937-a4eca799849b/5cd531c5-cc70-45f0-b550-e2bb03102202_4_Odyssey_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/c7/7b/e1c77b98-4609-0b96-8ce0-8baea4742ed1/8bb635bb-aa93-4ed7-befb-d69626e46b8a_5_5.5__0000_English.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/03/06/3e030679-e982-0af6-e3d9-cc4da074c1eb/756051fa-6399-44e2-bf43-982e18b60be1_6_5.5__0000_English.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/73/00/117300de-2fc0-aa10-5673-7625e8aa14d6/0c23a637-12a2-450c-8dc1-44a4e349731c_7_5.5__0000_English.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/23/79/2c2379d9-7d76-f357-d64a-410baed9c6a7/mzl.aegcvjxr.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/01/29/ad012921-a2c9-0dea-0746-6bfeed2e7ae0/8b31d8f0-a47b-45cd-bc22-3c9a7f5d3a8d_1_iPadPro__0001_English.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/c1/90/e4c19022-9a06-72f5-fde3-22a36a78a207/bafe5ba4-e2d5-480d-8abd-87a065215098_2_iPadPro__0001_English.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/3a/d8/333ad849-618a-4907-4570-969b890c1e1b/b4f1b1bf-4a7f-4a8b-8b0b-e05ef8db9a81_3_iPadPro__0000_English.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/60/9d/bc/609dbc94-f11c-c4b9-897e-cbd42affa8fb/2e74097f-13ed-4719-9dce-4844bee185f7_4_iPadPro__0000_English.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1a/bc/42/1abc4288-6dbb-4394-1e1d-037ba54f8502/b724d307-4886-4f42-88cf-26603f5f8051_5_iPadPro__0000_English.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/12/22/55/1222556b-7ef1-5fc2-7fda-8af9af33f1e4/9b1dda00-2e15-4158-9a68-024867150ec5_6_iPadPro__0000_English.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/45/9a/ac/459aaca9-d68d-60e7-266d-302f7fc9a597/68134aad-ed03-46fd-bd28-891346c66d02_7_iPadPro__0000_English.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/b1/d2/11b1d2bb-db25-be32-d2f7-b751b8747eb5/mzl.tldmgeuc.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day R Premium]]></title>
-        <id>Day R Premium-tr-1747335730107</id>
-        <link href="https://apps.apple.com/tr/app/day-r-premium/id1038014543?uo=4"/>
-        <updated>2025-05-15T19:02:10.107Z</updated>
-        <summary type="html"><![CDATA[Handful of caps: ₺99,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/day-r-premium/id1038014543?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/c1/f1/d7c1f19d-9b64-2958-7572-002041464d13/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Handful of caps：</strong><span>₺99,99</span> → <b>
-  <strong>₺39,99</strong>
-</b><span>[₺39,99 ~ ₺99,99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.
-
-Benefits of Premium version:
-- Unique pet Raven
-- Starter Kit
-- Caches of useful items in shelters
-- Expanded selection of perks
-- Chat without any limitations
-- Reduced waiting time between parcels
-- Access to all kinds and colors of map markers
-
-Can you survive in the world destroyed after a nuclear war? With radiation, hunger and diseases around you. You have to cross the whole country and save your family. Who knows if they are alive, or maybe radiation and deadly virus have already reached them? Reveal a secret of the apocalypse and get your memories back during a journey across the huge territory of the USSR in the 80th. 
-
-It is not easy to survive after apocalypse. You'll face the real hungry games! Monsters, zombie, thirst, uncountable diseases and injuries, blood-thirsty enemies – you have to fight it all. Craft all your resources: weapons, clothes, means of transport. 
-
-- Hardcore survival:
-Hunger, zombie and radiation won't give you a chance to relax.
-
-- Realistic world:
-The turn of the seasons, huge map of USSR and more than 2500 different towns and cities. Hunt animals, but be careful: even rats can injure you seriously! Explore the wilderness!
-
-- A lot of opportunities:
-Multicraft, obtaining skills, hundreds of crafting schemes, a lot of ammunition.
-
-- People and stories:
-Interesting quests and helpful allies. An open game world.
-
-- Improve your skills:
-Mechanics, medicine, chemistry and many others.
-
-- Cooperative mode:
-The Online mode  with a chat room, exchange of items and united fightings. Multiplayer survival game.
-
-Explore the abandoned houses and shelters. Find weapon and build transport using various materials.
-Remember everything you learnt on chemistry and physics! It is the most realistic surviving game! 
-
-Features: 
-- Сraft system – get resources, hunt, find useful objects or weapon and create your own one! 
-- Hardcore simulator of survival 
-- Journey across the wilderness map in the multiplayer mode 
-- Choose the difficulty mode: sandbox, real life or online
-War never changes. In 1985 USSR went down before an unknown enemy. In a few days the entire country became a radioactive wasteland - violence, hunger and diseases reign here now. When you no longer loose in the fight with the death, the other survivors wait for you in the cooperative - the Online mode let you survive together dealing with difficulties, talking in the chat room and sending gifts to each other.
-
-User agreement: http://tltgames.ru/license-agreement-en
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/90/cf/0690cf73-1247-f835-15f7-cba623e19edc/1aecd46d-7ce9-4d81-9254-f628456425f6_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/36/f3/1536f3f6-01ce-9d22-4a93-7c889e80169f/09283753-f39d-41a1-a45c-a7b4e867dbc8_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/d3/6c/4dd36ca1-e042-b715-68bc-a5e4424fefd4/7ac799fd-b463-489a-8852-6fe660cc8d23_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2b/6b/3e/2b6b3e51-7ff3-a731-3d71-60a6d3976f44/d21e96ef-0353-43b6-9539-930d16b25c30_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/38/88/133888c3-3156-e830-a8da-6c0b8ef4b4a3/f7cfb957-6f62-424f-892c-2aca9a521791_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c5/cd/d2/c5cdd2ce-4318-1ede-6e82-41078196699e/d5e07146-2bb5-4e91-a9fa-b47115572314_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/e4/52/43e452a4-9079-5620-938f-4248f571ad3f/31d40a46-fdda-4684-a8f8-574a13cd83ae_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/c3/62/64c362cf-6d16-57e3-d981-964ebf8a7de9/392e8dcd-788c-43d3-ab8e-8a47b6e0bf78_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/81/97/04/81970402-ffcd-b543-eb29-a5def3c23dff/ea5affda-de2e-4178-8d42-0abc18bce379_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/1b/a4/e91ba456-6548-115e-1d6a-5f31469aa27f/b57105d1-c058-481c-9008-6239d912b164_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/fc/d5/09fcd512-30de-f8ca-beaf-59367621c593/57245464-4ab4-4aca-85e8-dbe65afa71ae_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/94/32/4b943220-f995-7db5-99cd-7b037a58e291/0d67567b-fb97-4977-9bdf-f01902998a39_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/b9/3d/2cb93d5d-72aa-b278-d25f-cd322a95f96d/3fc94b42-ea47-42e4-a8a8-b2e85d29602c_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/a2/cc/a2a2cc70-edf9-ae7d-1be7-fe35d6cab765/c211749e-8593-4699-84cd-3cddb3820ef7_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d0/47/f4/d047f41e-562e-8192-efa2-a5a1ffdae62c/0f095350-5f04-4bf9-aa2e-2a62e5544f5d_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/33/cb/a2/33cba21c-0968-a18b-f647-77d7e57f8297/5f51ada7-eae5-4631-b4b5-d6b1822158e0_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ba/9f/bf/ba9fbf20-5eb7-c07a-3af5-86d8fdb3438d/084f61e7-8001-44e5-a622-f7010273991a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/8a/93/a78a93ca-2b68-084e-e956-6e02882a5009/4b0f2b43-fddf-4124-a341-ca895b5a41b0_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/61/66/ac616636-9b7e-985e-217e-b33e81c0f562/39947d08-9a25-4897-a887-06e31ecb8eff_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/09/c2/7809c277-e401-4b9f-1c32-dc945aa0bf71/a2c7551f-3f9e-443b-ad53-2cb0dd304dd0_9.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MONOPOLY: The Board Game]]></title>
-        <id>MONOPOLY: The Board Game-tr-1747314586633</id>
-        <link href="https://apps.apple.com/tr/app/monopoly-the-board-game/id1477966166?uo=4"/>
-        <updated>2025-05-15T13:09:46.633Z</updated>
-        <summary type="html"><![CDATA[The Slam Dunk Bundle: ₺299,99 → ₺229,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/monopoly-the-board-game/id1477966166?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/6e/3c/096e3ca7-c558-75fd-7b6f-5914941006b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>The Slam Dunk Bundle：</strong><span>₺299,99</span> → <b>
-  <strong>₺229,99</strong>
-</b><span>[₺229,99 ~ ₺299,99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Play Hasbro’s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It’s the game you love with no ads!
-It's the #1 Paid board game in over 100 countries - with 3 Millions Downloads since launch.
-
-"Monopoly on mobile includes cross-platform online multiplayer, which means you can open up a lobby, have your friends join your games, and all play together in perfect harmony. Beautiful, right?” Dave Aubrey - PocketGamer
-
-This is a fully immersive board game experience with amazing graphics and animations. The whole classic game is available with no ads, so you get the fun of the Monopoly board game without distractions. Invite your friends and family to game night with one of the app stores favourite top paid games.
-
-
-POPULAR FEATURES
-One of the greatest board games 
-Play the Hasbro classic Monopoly game by yourself, with family and friends or players around the world on your mobile or tablet!
-
-Full, ad-free game
-Play the complete classic game with no pay-to-win or ad pop-ups. Roll the dice and risk it all to become the wealthiest landlord tycoon on the board!
-
-House rules
-Put the official Hasbro rule book down and play with your favourite house rules
-
-Quick mode
-Roll the dice, risk it all and get paid - finish the board game faster than ever
-
-Single player
-Play against our challenging AI - no need for family and friends 
-
-Offline multiplayer 
-Pass a single device between up to 4 players for an offline wifi-free experience
-
-Online multiplayer 
-Distance doesn’t interrupt play when you connect with fans around the world or invite friends and family to a private game
-
-The Complete Collection 
-Be the top landlord tycoon on new themed boards, exclusive to the mobile game. With 10 boards, no 2 games are the same! Risk it all in the L.A. Monstropolis alternate universe. Be spooked in Transylvania. See the future in New York 2121, or travel back in time to Victorian London, Historic Tokyo, Belle Époque era Paris and 1930s Atlantic City! Unlock new player pieces, properties and chance cards with each theme!
-
-
-HOW TO PLAY
-Choose your player mode
-Play this classic Hasbro board game in a variety of online and offline player modes. Put your landlord skills to the test against our challenging AI opponents and be a property tycoon in single player mode. Compete with friends and family wherever you are in online multiplayer. Play WiFi-free when you pass & play one device around a group of players. The choice is yours as you buy up the board!
-
-Select your rules
-If you’re one of the many people who have never actually read the rules of Monopoly, you can still play the game exactly how you like! Play without auctions, add cash to Free Parking, or pay $400 for landing directly on GO! Choose to stick to the classic Hasbro rule book, get a fixed selection of the most popular house rules, or customise your rules to suit your own preferences! 
-
-Choose your piece
-Choose from the modern and classic player pieces, including: scottie, cat, T-rex, rubber duck, the car, the top hat and the battleship!
-
-Enter the board
-Experience the thrill of bankrupting your family and friends and becoming the wealthiest landlord tycoon on the board! It’s just as you remember, plus fun animations and an AI banker who’s on everyone’s side!
-
-Build your property empire
-Roll the dice, take investment risks, bid for properties in auctions, make your way around the board and BUY real estate, COLLECT rent and BUILD hotels to become a property tycoon.
-
-Play Marmalade Game Studio’s multiplayer games with friends and family wherever you are! Our online games with friends include Clue/Cluedo, The Game of Life, The Game of Life 2 and Battleship.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/6a/1e/de6a1e90-6d35-b7ef-89c5-685243708a29/d04aa017-8e0c-4313-bc9b-b87c0ee8c600_monopoly_screenshots_september_2022_2208x1242_1_UK.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/90/bc/3f90bcda-78f2-b8da-0a8f-c8b7ff6eb512/c6a3bcd6-0d79-40f8-a82c-828ca45e75cd_monopoly_screenshots_september_2022_2208x1242_2_UK.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/29/92/642992da-052b-693e-0343-17b0a8f7e24a/90090656-d8e7-43a3-8583-d7ca244bb7b3_monopoly_screenshots_september_2022_2208x1242_3_UK.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/f2/19/39f21992-4b28-ee47-57f5-c317fe9d0e7f/84082a58-fd0f-4fb5-b733-3a003b310148_monopoly_screenshots_september_2022_2208x1242_4_UK.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/76/45/1d7645d4-06bb-1b91-5a25-d6227af59d67/378e43ae-4412-4e40-874a-fa94b34714f2_ENG_mon_screenshots_may2024_2208x1242_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/fd/78/6efd7816-a0ae-e397-4bf7-ff96a9478fb1/21aa2f34-4031-4ad7-bbbb-2dda4f307b92_monopoly_screenshots_april_2022_2732x2048_1_UK.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/7f/bf/b07fbf4b-7287-77c3-317b-9007449f8309/8b36bcbd-3e02-43fb-8bf7-da69033b6888_monopoly_screenshots_april_2022_2732x2048_2_UK.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/d9/cf/85d9cf36-15d3-b175-91fc-ade7e0c71a86/c5179da6-ac1a-4633-80af-6329dbf7641b_monopoly_screenshots_april_2022_2732x2048_3_UK.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/d0/7b/31d07b06-dbd7-1850-c0e4-302dea5bd1fb/e6e920d2-89c1-4f79-a7f6-41329519c647_monopoly_screenshots_april_2022_2732x2048_4_UK.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/9f/ba/249fbaa1-e8e1-1c6b-1a09-b9e950e7a1e0/090edc1d-57fc-4e23-b0fa-3bb94d0ffa11_ENG_mon_screenshots_may2024_2732x2048_5.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
