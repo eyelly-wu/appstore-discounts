@@ -4848,6 +4848,25 @@
     "history": [
       [
         {
+          "timestamp": 1747605729205,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747371751417,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -26329,6 +26348,23 @@
     "history": [
       [
         {
+          "timestamp": 1747605729205,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$4.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$2.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Tower Deep Devil's Reef": "$0.99",
+            "Hero Tank": "$3.99",
+            "Tower Grim Cemetery": "$0.99",
+            "Pirate Kings Campaign!": "$7.99",
+            "Tower Goblin War Zeppelin": "$4.99"
+          }
+        },
+        {
           "timestamp": 1747541165364,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -29332,7 +29368,11 @@
       "Sticker": "$0.00",
       "Rate": "$0.00",
       "Chromakey": "$0.00",
-      "Info": "$0.00"
+      "Info": "$0.00",
+      "Tuner": "$0.00",
+      "Unlock All": "$7.99",
+      "Erase": "$0.99",
+      "Blend": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -29346,9 +29386,32 @@
       "Sticker": "$0.00",
       "Rate": "$0.00",
       "Chromakey": "$0.00",
-      "Info": "$0.00"
+      "Info": "$0.00",
+      "Tuner": "$0.00",
+      "Unlock All": "$7.99",
+      "Erase": "$0.99",
+      "Blend": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747605729205,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Rate": "$0.00",
+            "Info": "$0.00",
+            "Tuner": "$0.00",
+            "Chromakey": "$0.00",
+            "Unlock All": "$7.99",
+            "Paint": "$0.00",
+            "Erase": "$0.99",
+            "Blend": "$0.99",
+            "Distortion": "$0.00",
+            "Magnifier": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745807483744,
