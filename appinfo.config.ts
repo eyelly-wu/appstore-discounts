@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 885792725,
+    name: {
+      mo: "THE KING OF FIGHTERS '98",
+    },
+    addType: 'auto',
+  },
+  {
     id: 1577752006,
     name: {
       mo: 'SoccerPlus-足球運動記錄和訓練',
