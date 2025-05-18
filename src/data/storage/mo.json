@@ -11349,7 +11349,16 @@
       "AAPI Month Bundle": "USD 5.99",
       "Chinese Cuisine Deck": "USD 1.99",
       "AAPI Month Bundle Sale": "USD 4.99",
-      "50 Decks, More Laughs": "USD 19.99"
+      "50 Decks, More Laughs": "USD 19.99",
+      "Kids Favs Bundle": "USD 4.99",
+      "Animation Bundle Sale": "USD 5.99",
+      "Animated Movies Deck": "USD 1.99",
+      "Animation Bundle": "USD 6.99",
+      "Kids Favs Bundle Sale": "USD 2.99",
+      "Around The World Bundle": "USD 5.99",
+      "Travel Essentials Deck": "USD 1.99",
+      "Around The World Bundle Sale": "USD 3.99",
+      "90s And 00s Cartoons Deck": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -11374,9 +11383,37 @@
       "AAPI Month Bundle": "USD 5.99",
       "Chinese Cuisine Deck": "USD 1.99",
       "AAPI Month Bundle Sale": "USD 4.99",
-      "50 Decks, More Laughs": "USD 19.99"
+      "50 Decks, More Laughs": "USD 19.99",
+      "Kids Favs Bundle": "USD 4.99",
+      "Animation Bundle Sale": "USD 5.99",
+      "Animated Movies Deck": "USD 1.99",
+      "Animation Bundle": "USD 6.99",
+      "Kids Favs Bundle Sale": "USD 2.99",
+      "Around The World Bundle": "USD 5.99",
+      "Travel Essentials Deck": "USD 1.99",
+      "Around The World Bundle Sale": "USD 3.99",
+      "90s And 00s Cartoons Deck": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747527011723,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Kids Favs Bundle": "USD 4.99",
+            "Animation Bundle Sale": "USD 5.99",
+            "Animated Movies Deck": "USD 1.99",
+            "Animation Bundle": "USD 6.99",
+            "Kids Favs Bundle Sale": "USD 2.99",
+            "Around The World Bundle": "USD 5.99",
+            "Travel Essentials Deck": "USD 1.99",
+            "Around The World Bundle Sale": "USD 3.99",
+            "90s And 00s Cartoons Deck": "USD 1.99",
+            "Kids Family Bundle BYOD": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746889328902,
@@ -27428,6 +27465,25 @@
     "history": [
       [
         {
+          "timestamp": 1747527011723,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "精靈詛咒": "USD 0.99",
+            "神秘瘟疫": "USD 0.99",
+            "特大旱災": "USD 0.99",
+            "山雨欲來": "USD 0.99",
+            "軌道星鏈": "USD 0.99",
+            "加急空運": "USD 0.99",
+            "魔鬼山峰": "USD 1.99",
+            "國防部長": "USD 0.99",
+            "徵兵員": "USD 0.99",
+            "無人機程式員": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747249329947,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -37294,6 +37350,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747527011723,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "USD 0.00",
+            "Dawncaster Mega Bundle": "USD 12.99",
+            "Infernal Invasions": "USD 5.99",
+            "Eclypse Supporter Pack": "USD 3.99",
+            "Dawncaster Origins Bundle": "USD 4.99",
+            "Siege of Shadows": "USD 4.99",
+            "Catalyst Support Pack": "USD 4.99",
+            "Masks of Misery": "USD 4.99",
+            "Infinitum Support Banner": "USD 3.99",
+            "Death of Divinity": "USD 4.99"
+          }
+        },
         {
           "timestamp": 1747522922677,
           "price": 4.99,
