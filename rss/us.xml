@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-17T03:38:04.646Z</updated>
+    <updated>2025-05-18T06:23:05.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-17T03:38:04.648Z</updated>
+        <updated>2025-05-18T06:23:05.143Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 17 May 2025 03:38:04 GMT</id>
+        <id>rankingusSun, 18 May 2025 06:23:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-17T03:38:04.648Z</updated>
+        <updated>2025-05-18T06:23:05.143Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1060</b>
+        <b>1062</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>859</b>
+        <b>861</b>
       </td>
       <td>
         <b>11</b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>962</b>
+        <b>964</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>786</b>
+        <b>788</b>
       </td>
       <td>
         <b>11</b>
@@ -345,7 +345,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
+        <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
       </td>
       <td>
         <ul>
@@ -362,7 +362,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
+        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -379,7 +379,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
+        <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
       </td>
       <td>
         <ul>
@@ -396,7 +396,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
+        <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
       </td>
       <td>
         <ul>
@@ -411,6 +411,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>16</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
@@ -536,6 +553,37 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everybody's RPG: Reboot]]></title>
+        <id>Everybody's RPG: Reboot-us-1747548187899</id>
+        <link href="https://apps.apple.com/us/app/everybodys-rpg-reboot/id1523146826?uo=4"/>
+        <updated>2025-05-18T06:03:07.899Z</updated>
+        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/everybodys-rpg-reboot/id1523146826?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/b8/59/72b859af-d93e-60a8-5053-ad18bb24bb76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$0.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $0.99]</span>）
+</h2><h2>Application Description</h2><p>
+  Recruit legendary heroes and conquer endless stages!
+From auto battles to mining and upgrading!
+A true idle fantasy RPG that keeps growing even when you're away!
+
+* Build strategic teams with unique and powerful heroes!
+
+* Mine resources through the mining system! Get everything you need to craft gear!
+
+* Challenge powerful bosses and claim legendary rewards!
+
+* Progress automatically — perfect for busy players!
+
+* Tons of content: dungeons, relics, evolution, legendary equipment, and more!
+
+Download now and begin writing your own legend!
+Start playing now and collect your heroes!
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wall of insanity]]></title>
@@ -801,248 +849,5 @@ App使用方法：
 5. 开始并专注于你的工作或学习。
 快来和我们一起进步吧！！！
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/cb/99/c1/cb99c165-1f5c-e3a7-aff7-b9dd66d18321/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/ca/b2/bdcab20f-406e-06af-ffef-f497dd7e6bd5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/a1/59/f4a15915-dfb6-6942-1de7-0dd8b19d915f/mzl.bkcdpibu.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/21/73/34/21733469-cab7-f8b3-7431-09a6dbbbf9f2/mzl.ijpebcxc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/c9/df/abc9df78-4745-a848-09ac-ed698eac23d9/mzl.kaxjshbt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f7/a1/32/f7a13273-f0af-0a21-935e-e654a15677e8/mzl.mcdhwqfk.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/f6/3f/a3f63ff8-140c-2527-e07f-310136ba5137/mzl.icblcvod.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3f/28/de/3f28de24-ad23-0353-a6f5-67211a0a772f/mzl.ckekpjvp.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/54/a7/a354a7c9-27d9-d15e-2ccc-5ed85f13878f/mzl.wethfkxl.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/30/7f/d1/307fd172-f03f-656e-ba33-8c4d95e1b61a/mzl.lbyvydhm.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1b/05/2a/1b052a2f-955e-f6d9-c2f0-a7bfcab09405/mzl.bcrzmpha.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kingdom Rush Vengeance TD Game]]></title>
-        <id>Kingdom Rush Vengeance TD Game-us-1747279179903</id>
-        <link href="https://apps.apple.com/us/app/kingdom-rush-vengeance-td-game/id1248033433?uo=4"/>
-        <updated>2025-05-15T03:19:39.903Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $2.99<br/>Hero Beresad: $6.99 → $4.99<br/>Tower Blazing Gem: $4.99 → $2.99<br/>Hero Tank: $5.99 → $3.99<br/>Tower Deep Devil's Reef: $2.99 → $0.99<br/>Tower Grim Cemetery: $2.99 → $0.99<br/>Tower Goblin War Zeppelin: $6.99 → $4.99<br/>Hero Mortemis: $2.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/kingdom-rush-vengeance-td-game/id1248033433?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/b1/bc/35b1bca8-2594-dcf8-5278-f6f8d69663f5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $4.99]</span>）
-</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Hero Beresad：</strong><span>$6.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $6.99]</span>
-  </li><li>
-    <strong>Tower Blazing Gem：</strong><span>$4.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $4.99]</span>
-  </li><li>
-    <strong>Hero Tank：</strong><span>$5.99</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$3.99 ~ $5.99]</span>
-  </li><li>
-    <strong>Tower Deep Devil's Reef：</strong><span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>
-  </li><li>
-    <strong>Tower Grim Cemetery：</strong><span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>
-  </li><li>
-    <strong>Tower Goblin War Zeppelin：</strong><span>$6.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $6.99]</span>
-  </li><li>
-    <strong>Hero Mortemis：</strong><span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Get ready to jump into action and show the Kingdom who’s the real boss in the best tower defense game!
-
-Face empires of mighty enemies. Clash against supreme bosses, unlocking and switching to new towers. Train legendary heroes and get all the achievements using your strategy in this amazing TD game.
-
-Kingdom Rush Vengeance will give you hours and hours of gameplay in the best tower defense game available! 
-
-Heroes, your Army, Enemies, and legendary td bossfights!
-- 17 Powerful HEROES who will, without hesitation, rush into action at your command
-- LEVEL UP YOUR HEROES  and upgrade their abilities
-- 10+ TRINKETS AND ARTEFACTS for that extra action in battle.
-- NEW POWERS AND REINFORCEMENTS to vanquish your foes, td style!
-- 30 UPGRADES to train your army to their best form.
-- 60+ DEADLY ENEMIES that will put all of your wit and strategic skills to the test
-- RUSH TO SAVE THE KINGDOM as you bring down 6 mighty bosses in the most legendary boss fights!
-
-Epic Selection of Towers and Upgrades
-- 22 NEW TOWERS to defend your kingdom
-- UNIQUE ABILITIES AND SPECIAL POWER for every tower
-- Choose your arsenal of towers and execute your strategy. 
-
-Create devastating combinations of towers, abilities and special powers to stop your enemies!
-
-Near Endless Tower Defense Gameplay
-
-- 42 CHALLENGING STAGES that will test your skills
-- 9 DIFFERENT REALMS to conquer and explore
-- EXPLORE new lands in the Kingdom
-- 60+ ACHIEVEMENTS, hidden secrets, and fun stuff for you to play and discover while you explore the realm!
-- UNLOCK HEROIC AND IRON CHALLENGES on all stages
-- CASUAL, NORMAL, VETERAN OR IMPOSSIBLE difficulty for every level
-- Summon enemy waves faster to earn additional gold
-
-Time for some Royal Vengeance in the Kingdom!
-Vez’nan, the powerful almighty wizard has returned. 
-
-Lead your powerful dark army and make the Kingdom tremble with each step. Help Vez’nan conquer new lands in the kingdom! 
-
-Orcs, goblins, demons, dark knights, zombies, and many more! Choose your favorites and mix them to find the most deadly tower defense combination - secure the crown of the kingdom for Vez’nan.
-
-Awesome Offline Tower Defense Game
-
-No Wi-Fi at your Dark Tower?
-
-- PLAY ANYWHERE - playing offline works, if your wifi doesn’t
-- PLAY OFFLINE - no internet connection required
-- You can play Kingdom Rush Vengeance as your offline TD game of choice. 
-
-
---------------------------------------------------
-
-HEARD ON THE MEDIA:
-"For veteran Kingdom Rush players and newcomers alike, the charm and strategy of the franchise remains with Kingdom Rush: Vengeance, making it one of the best mobile games of 2018!"
--Polygon
-
-"Kingdom Rush Vengeance is the biggest and baddest the series has been."
--148Apps
-
-"Players with any affinity for tower-defense games are going to enjoy every second they spend with Kingdom Rush Vengeance!"
--Pocket gamer
-
-"The game is intensely engaging with a light-hearted tone that makes it a real pleasure to jump into."
--Pocket tactics
-
-Get Lord Vez’nan’s latest news here:
-https://www.kingdomrushvengeance.com/
-
-Terms and Conditions:
-https://www.ironhidegames.com/TermsOfService
-
-Privacy Policy:
-https://www.ironhidegames.com/PrivacyPolicy
-
-Video creators, podcast creators, and streamers:
-We would love to see your content on Youtube and Twitch! We support and promote channel creators so, if you want us to showcase your videos or want to know more about our games, feel free to write to us to contact@ironhidegames.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/7f/3a/167f3aa7-c12b-f64e-bc03-e2028b120042/1a83d549-dd4b-4dd0-9cfe-e8f4485fe1d5_KRV_Pirate-screenshots_iPhone-5.5_ENG-0000.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/d3/94/6ad39499-66fb-1b19-360d-c804b63649d8/89fb5537-64e8-4a17-a80a-62a97935b9de_KRV_screenshots_iPhone-5.5_EN-0001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/d2/87/dcd28731-032f-d2f7-715f-c4056860b1f9/fb0c33a7-85c1-49ef-8533-9b57f65a6085_KRV_screenshots_iPhone-5.5_EN-0002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/30/d3/8f30d38d-7973-80c0-c13b-1defa9c2072b/13501015-9925-4259-8f42-16b2cd3b5e9a_KRV_screenshots_iPhone-5.5_EN-0003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/8d/eb/458debe6-bea9-62ad-39bc-4f5afbe23bfe/f5ee3a97-db07-4925-b09e-b73bd84a2674_KRV_screenshots_iPhone-5.5_EN-0004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/ef/4a/a4ef4aa7-44fc-6ad1-5c6a-0adf00694cbd/67d84ccb-feab-47ed-9c23-9d44d6c7ccfc_KRV_screenshots_iPhone-5.5_EN-0005.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/29/69/152969c0-c937-6b6f-d576-54587c484dda/fd2c006a-7644-4fd9-bde8-bd7ca1e83eb6_krv_dinos_2208x1242_ux.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/ab/10/8fab1038-bc33-2e6f-cd7f-49c8ffaf04b8/5ff762b4-d1ce-4058-bab0-221b76137369_KRV_Pirates-screenshots_4_3_new_EN-0000.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/fc/15/f1fc1532-3ccd-afbe-933a-5fd68a62950f/908baac8-95c4-4eb5-8244-03c349172103_KRV_screenshots_4_3_new_EN-0001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/f1/0d/c3f10d28-b465-a9bb-d5d7-efb7501d23d8/08ecbb1c-17c9-43c0-8701-98a4d3000bb3_KRV_screenshots_4_3_new_EN-0002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/90/41/93904153-d758-a708-b752-c4997fb61eb0/5fe463ab-2915-4589-9a17-c6667eb1c4e8_KRV_screenshots_4_3_new_EN-0003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/9e/7d/979e7d2b-38f8-0ad9-4563-b68011ec262b/4a5462b1-e09a-400f-a9e2-a57eaf096974_KRV_screenshots_4_3_new_EN-0004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/77/6b/e8776bd0-e97b-f0db-2e26-299f7a14c09e/2d9efbb2-601f-4cbc-b0af-9f5cdc3b6915_KRV_screenshots_4_3_new_EN-0005.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/80/8f/8c808fdf-05ec-9983-a3ac-ea2be7abf693/3c7ffa77-6186-49f2-ade0-c32676246b17_krv_dinos_2732x2048_ux.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13:20:Sync]]></title>
-        <id>13:20:Sync-us-1747256537899</id>
-        <link href="https://apps.apple.com/us/app/13-20-sync/id384363262?uo=4"/>
-        <updated>2025-05-14T21:02:17.899Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/13-20-sync/id384363262?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/a1/7d/21a17dcf-97e0-5833-e461-3ff74c56ce99/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $3.99]</span>）
-</h2><h2>Application Description</h2><p>
-  This app puts the Mayan Dreamspell Calendar in your pocket! "13:20:Sync makes it so much easier to understand and integrate the calendar into every day life. Highly recommend it." 
-
-The Mayan People have described, in breathtaking precision, the cycles of both the universe and nature around us. They created a harmonic calendar that is synchronized to all those cycles. Following these cycles can help you get a stronger connection with nature around you and become conscious of your essence.
-
-This app provides a simple way to sync along those cycles, to raise our frequency and give us a new lens to view both our day-to-day and planetary events.
-
-- Did you ever realize that our (Gregorian) calendar is not a harmonic calendar? 
-- Did you know that the moon has 13 (not 12!) orbits around the earth in 1 year? 
-- Why do we live with this irregular calendar?
-- Are you interested in Astrology?
-
--> All this, and more, is explained carefully in this app. (over 15.000 words on 37 pages) Please note that these text are in English language only.
-
-In the New Time, synchronicity is the norm.
-
-
-///////////////////////////////////////////////////////////////// 
-5 star rating across the world! 
-///////////////////////////////////////////////////////////////// 
-"Entertaining as well as enlightening" 
-///////////////////////////////////////////////////////////////// 
-
-MORE INFO: 
-www.1320sync.com 
-
-
-For the beginner this app is a learning tool because it contains an extensive explanation about Tones and Seals and the synchronizing order of the Mayan Astrology. You may think it's difficult at first but soon you will feel how it all connects. 
-
-"This app is great, and allows easy manipulation of dates. I spent years in books doing in hours what I can now do in seconds."
-
-For the ones who are already familiar with the Mayan Calendar this app is a handy tool to navigate the cycles, and calculate the Combined Kin for any given combination. Furthermore this app can be of great assistance to teach other people about the 13:20 cycles and is used in teachings around the world.
-
-
-=== FEATURES ===
-
-+ Kin Calendar
-This is your main Mayan Dreamspell Calendar Dashboard with all the details you need to stay in sync. Shows the Kin of today by default, and you can calculate the Kin for any other date.
-
-+ Personal Notes
-On this new page you can keep your personal notes for the 2 main cycles of time: the Tzolkin cycle of 260 days and the 13 Moon cycle of 365 days. And with the powerful text search function you quickly find your notes.
-
-+ Kin Picker
-Select any combination of the 13 Tones and 20 Seals. Top section can scroll to 4 pages with information.
-
-+ Combined Kin Calculator 
-Calculate the Combined Kin of any combination of Kin. You can add as many Kin as you like to calculate the Combined Kin for a group of people. 
-
-+ Tzolkin with indication of the GAP day's and Wavespell and more. Tap and hold to select a Kin number directly.
-
-+ Contact Import 
-All contacts in your Contacts App will be automatically imported and assigned to the correct Kin. See all your contacts with their Mayan Reading and how you relate to them. 
-
-+ 13 Moon Calendar 
-Full integration of 13 Moon Calendar. (doubles as a birthday calendar!) 
-
-+ 13:20 Information 
-Lots of information about the theory behind synchronization to help you navigate the Mayan Dreamspell Calendar. The texts provide a clear explanation of the Cycles of Time. (More than 15.000 words on 37 pages) Please note that these text are in English language only.
-
-+ Sharing
-On all the 3 main tabs you can share the current selected Galactic Signature using your favorite app. 
-
-
-# Based on the work of José Argüelles.
-# This app was made with permission of and in cooperation with the Foundation for the Law of Time - www.lawoftime.org, 
-# Ariel Spilsbury.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/83/ce/9d83ceec-0747-6c58-4fde-cdc7b5b4d3f9/EN_5-5_Image_Promo.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/ab/96/9aab9603-cfa5-2b25-8d66-efdc9823c14b/EN_5-5_Image_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/0f/78/a80f786d-4c1f-ec7e-ac23-889c384cce40/EN_5-5_Image_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/57/8d/2f578d32-5636-c16a-d0ba-2310ffc8372c/EN_5-5_Image_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/a9/b5/6fa9b59d-e863-7348-c133-70fdb708e8c6/EN_5-5_Image_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/2e/5b/fa2e5bee-7122-f660-dc7a-6f3ce634a675/EN_5-5_Image_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/27/36/53273655-d868-31b6-1ed8-f2ae7bd57379/EN_5-5_Image_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/c6/1b/c9c61bbf-6aad-3d1a-e8a7-115dec170d7a/EN_5-5_Image_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/b2/2b/96b22bc2-dde9-dff5-d8fe-614fef88316e/EN_5-5_Image_08.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CatLight Pro: Selfie Light Cam]]></title>
-        <id>CatLight Pro: Selfie Light Cam-us-1747198948726</id>
-        <link href="https://apps.apple.com/us/app/catlight-pro-selfie-light-cam/id6737987084?uo=4"/>
-        <updated>2025-05-14T05:02:28.726Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/catlight-pro-selfie-light-cam/id6737987084?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/36/c0/d236c0cf-4ff3-1ca4-9a0e-1d34bb7b09c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>Application Description</h2><p>
-  CatLight Pro: The Ultimate Selfie Lighting Studio
-Elevate your selfie game with professional lighting effects! CatLight Pro transforms your phone into a professional lighting studio, giving you perfect lighting for any selfie moment.
-Key Features:
-• 8 professionally calibrated lighting presets
-• 360° color wheel for complete customization
-• Precise brightness control system
-• Smart screen brightness adjustment
-• Convenient camera preview
-• Volume button capture support
-• Clean, intuitive interface
-Advanced Selfie Tools:
-• Selfie mirroring to find your best angle
-• Live Photo capture for dynamic moments
-• Timer mode for perfectly posed shots
-• Video recording with screenshot capability
-• Front/back camera switching
-Why Choose CatLight Pro:
-Professional lighting effects for studio-quality selfies
-Complete customization with adjustable hue and brightness
-Intuitive controls - swipe to change effects, use volume buttons to capture
-Real-time preview to see lighting effects instantly
-Elegant, user-friendly design
-Perfect For:
-• Social media content creation
-• Livestreaming
-• Makeup application
-• Professional portraits
-• Low-light photography
-Whether you're a content creator, makeup enthusiast, or just want to take better selfies, CatLight Pro delivers professional lighting effects with just a tap!
-</p>]]></content>
     </entry>
 </feed>

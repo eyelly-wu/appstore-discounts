@@ -44676,8 +44676,8 @@
       "Jewel Package E": "$69.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Daily Jewel Package": "$19.99",
       "Lite Daily Jewel Package": "$8.99",
       "Starter Package A": "$14.99",
@@ -44689,6 +44689,24 @@
       "Jewel Package E": "$69.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747548187899,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Daily Jewel Package": "$19.99",
+            "Lite Daily Jewel Package": "$8.99",
+            "Starter Package A": "$14.99",
+            "Jewel Package D": "$44.99",
+            "Jewel Package A": "$4.99",
+            "Jewel Package F": "$89.99",
+            "Jewel Package C": "$24.99",
+            "Jewel Package B": "$8.99",
+            "Jewel Package E": "$69.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747409417480,

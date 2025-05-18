@@ -34645,8 +34645,8 @@
       "Jewel Package E": "₺2.999,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Daily Jewel Package": "₺899,99",
       "Lite Daily Jewel Package": "₺399,99",
       "Starter Package A": "₺699,99",
@@ -34658,6 +34658,24 @@
       "Jewel Package E": "₺2.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747548187899,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Daily Jewel Package": "₺899,99",
+            "Lite Daily Jewel Package": "₺399,99",
+            "Starter Package A": "₺699,99",
+            "Jewel Package D": "₺1.999,99",
+            "Jewel Package A": "₺229,99",
+            "Jewel Package F": "₺3.999,99",
+            "Jewel Package C": "₺999,99",
+            "Jewel Package B": "₺399,99",
+            "Jewel Package E": "₺2.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747409417480,
