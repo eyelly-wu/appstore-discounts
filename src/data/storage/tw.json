@@ -16428,8 +16428,8 @@
       "年訂閱（早鳥）": "$660.00"
     },
     "minPriceInfo": {
-      "price": 130,
-      "formattedPrice": "$130.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "一盒陽光菁華": "$60.00",
       "一瓶陽光菁華": "$30.00",
       "一小盆寶石": "$150.00",
@@ -16455,6 +16455,25 @@
       "年訂閱（早鳥）": "$660.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747576925404,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "一盒陽光菁華": "$60.00",
+            "一瓶陽光菁華": "$30.00",
+            "一小盆寶石": "$150.00",
+            "一鏟子寶石": "$30.00",
+            "一大袋寶石": "$330.00",
+            "一推車寶石": "$670.00",
+            "超值進階寶石包": "$210.00",
+            "森日豪華禮包": "$590.00",
+            "森日精選禮包": "$390.00",
+            "Elite Package": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747310627779,
@@ -26718,6 +26737,25 @@
     "history": [
       [
         {
+          "timestamp": 1747576925404,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Mega Tower Bundle": "$490.00",
+            "Mega Heroe Bundle": "$590.00",
+            "Hero Beresad": "$220.00",
+            "Hammerhold Campaign!": "$290.00",
+            "Pirate Kings Campaign!": "$290.00",
+            "Tower Deep Devil's Reef": "$90.00",
+            "Tower Grim Cemetery": "$90.00",
+            "Tower Shaolin Temple": "$90.00",
+            "Hero Dianyun": "$190.00",
+            "Hero Eiskalt": "$190.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747411351197,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -29255,14 +29293,22 @@
   "1336793944": {
     "name": "勇敢的哈克",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747576925404,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -62199,6 +62245,14 @@
     "history": [
       [
         {
+          "timestamp": 1747576925404,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747404147142,
           "price": 0,
           "formattedPrice": "免費",
@@ -62625,6 +62679,16 @@
       "高級功能": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747576925404,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747461779730,

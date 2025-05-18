@@ -45677,6 +45677,14 @@
     "history": [
       [
         {
+          "timestamp": 1747576925404,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747404147142,
           "price": 0,
           "formattedPrice": "免费",
@@ -45893,6 +45901,16 @@
       "高级功能": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747576925404,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "高级功能": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747461779730,

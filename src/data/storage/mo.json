@@ -14142,8 +14142,8 @@
       "年訂閱（早鳥）": "USD 25.00"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "一盒陽光菁華": "USD 1.99",
       "一瓶陽光菁華": "USD 0.99",
       "一小盆寶石": "USD 4.99",
@@ -14169,6 +14169,25 @@
       "年訂閱（早鳥）": "USD 25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747576925404,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "一盒陽光菁華": "USD 1.99",
+            "一瓶陽光菁華": "USD 0.99",
+            "一小盆寶石": "USD 4.99",
+            "一推車寶石": "USD 21.99",
+            "一大袋寶石": "USD 10.99",
+            "一鏟子寶石": "USD 0.99",
+            "超值進階寶石包": "USD 6.99",
+            "森日豪華禮包": "USD 18.99",
+            "森日精選禮包": "USD 12.99",
+            "Elite Package": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746677006908,
@@ -22331,6 +22350,23 @@
     "history": [
       [
         {
+          "timestamp": 1747576925404,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Mega Tower Bundle": "USD 15.99",
+            "Mega Heroe Bundle": "USD 17.99",
+            "Hero Beresad": "USD 6.99",
+            "Hammerhold Campaign!": "USD 7.99",
+            "Tower Grim Cemetery": "USD 2.99",
+            "Tower Blazing Gem": "USD 4.99",
+            "Hero Mortemis": "USD 2.99",
+            "Hero Eiskalt": "USD 5.99",
+            "Hero Tank": "USD 5.99",
+            "Tower Deep Devil's Reef": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1747573647996,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -24755,14 +24791,22 @@
   "1336793944": {
     "name": "勇敢的哈克",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747576925404,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -48274,6 +48318,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747576925404,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747404147142,
