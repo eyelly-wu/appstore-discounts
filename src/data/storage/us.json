@@ -21160,6 +21160,23 @@
     "history": [
       [
         {
+          "timestamp": 1747573647996,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "$7.99",
+            "Platinum Plan - Trimonthly": "$19.99",
+            "Basic Plan - Monthly": "$1.49",
+            "Side Story Chapter 1": "$3.99",
+            "Expansion Chapter B": "$3.99",
+            "Expansion Chapter H": "$3.99",
+            "Expansion Ch. U": "$3.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Chapter E": "$3.99",
+            "Main Story Ch. VIII": "$9.99"
+          }
+        },
+        {
           "timestamp": 1747541165364,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -29941,6 +29958,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747573647996,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "MSR Anthology": "$5.99"
+          }
+        },
         {
           "timestamp": 1747551738511,
           "price": 2.99,
@@ -54020,6 +54053,25 @@
     "history": [
       [
         {
+          "timestamp": 1747573647996,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Unlock Temperament": "$6.99",
+            "Nurse Pack": "$4.99",
+            "Character Pass": "$11.99",
+            "Uniform Pack": "$3.99",
+            "Unlock Prisoner Codex": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747429321187,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -64117,7 +64169,8 @@
       "Season MLB 1986": "$0.99",
       "Season MLB 1998": "$0.99",
       "Season MLB 1995": "$0.99",
-      "Season MLB 2007": "$0.99"
+      "Season MLB 2007": "$0.99",
+      "Season MLB 1982": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -64153,9 +64206,29 @@
       "Season MLB 1986": "$0.99",
       "Season MLB 1998": "$0.99",
       "Season MLB 1995": "$0.99",
-      "Season MLB 2007": "$0.99"
+      "Season MLB 2007": "$0.99",
+      "Season MLB 1982": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747573647996,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "Season MLB 2024": "$0.99",
+            "Season MLB 1993": "$0.99",
+            "1,000,000 PP for OOTP Go 26!": "$499.99",
+            "Season MLB 1982": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747476136272,
