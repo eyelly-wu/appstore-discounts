@@ -17970,16 +17970,34 @@
       "formattedPrice": "HK$ 29.00",
       "All the Light": "HK$ 88.00",
       "More Light": "HK$ 32.00",
-      "A Little Light": "HK$ 8.00"
+      "A Little Light": "HK$ 8.00",
+      "All the Light (Huge Tip)": "HK$ 88.00",
+      "More Light (Medium Tip)": "HK$ 32.00",
+      "A Little Light (Small Tip)": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 29,
       "formattedPrice": "HK$ 29.00",
       "All the Light": "HK$ 88.00",
       "More Light": "HK$ 32.00",
-      "A Little Light": "HK$ 8.00"
+      "A Little Light": "HK$ 8.00",
+      "All the Light (Huge Tip)": "HK$ 88.00",
+      "More Light (Medium Tip)": "HK$ 32.00",
+      "A Little Light (Small Tip)": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747684955474,
+          "price": 29,
+          "formattedPrice": "HK$ 29.00",
+          "inAppPurchases": {
+            "All the Light (Huge Tip)": "HK$ 88.00",
+            "More Light (Medium Tip)": "HK$ 32.00",
+            "A Little Light (Small Tip)": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747501329127,
@@ -37899,6 +37917,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747684955474,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "HK$ 88.00",
+            "GoodNotes 5完整版解鎖": "HK$ 88.00",
+            "Goodnotes 6 一次性付款": "HK$ 210.00",
+            "Goodnotes 6 免費試用": "HK$ 0.00",
+            "虛線方格：草稿紙張": "HK$ 8.00",
+            "好心智雜誌": "HK$ 0.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "HK$ 0.00",
+            "秋貓貼紙組": "HK$ 0.00"
+          }
+        },
         {
           "timestamp": 1747681338730,
           "price": 0,
