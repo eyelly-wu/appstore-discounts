@@ -21250,6 +21250,25 @@
     "history": [
       [
         {
+          "timestamp": 1747670554876,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "白金方案（每月續訂）": "HK$ 48.00",
+            "基本方案（每月續訂）": "HK$ 8.00",
+            "白金方案（每三個月續訂）": "HK$ 118.00",
+            "擴充章節H": "HK$ 32.00",
+            "擴充章節 U": "HK$ 32.00",
+            "支線第一章": "HK$ 32.00",
+            "擴充章節 R": "HK$ 32.00",
+            "擴充章節B": "HK$ 32.00",
+            "擴充章節 I": "HK$ 32.00",
+            "主線第八章": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747630952888,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -37171,6 +37190,23 @@
     "history": [
       [
         {
+          "timestamp": 1747670554876,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Early Unlock Cheats": "HK$ 88.00",
+            "All Advisors Unlock": "HK$ 88.00",
+            "Command Pack": "HK$ 58.00",
+            "Region Tour": "HK$ 32.00",
+            "Early Unlock Cheats (discount)": "HK$ 38.00",
+            "戰役 + 挑戰": "HK$ 38.00",
+            "場景包": "HK$ 38.00",
+            "黑暗洞窟擴展": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747598544891,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -44826,10 +44862,18 @@
       "formattedPrice": "HK$ 6.00"
     },
     "minPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747670554876,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746799336853,

@@ -16524,6 +16524,25 @@
     "history": [
       [
         {
+          "timestamp": 1747670554876,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年訂閱（早鳥）": "$660.00",
+            "一盒陽光菁華": "$60.00",
+            "年訂閱": "$660.00",
+            "一瓶陽光菁華": "$30.00",
+            "一小盆寶石": "$150.00",
+            "一鏟子寶石": "$30.00",
+            "一大袋寶石": "$330.00",
+            "森日精選禮包": "$390.00",
+            "月訂閱（早鳥）": "$110.00",
+            "一推車寶石": "$670.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747660291385,
           "price": 0,
           "formattedPrice": "免費",
@@ -43367,10 +43386,18 @@
       "formattedPrice": "$20.00"
     },
     "minPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747670554876,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746799336853,
