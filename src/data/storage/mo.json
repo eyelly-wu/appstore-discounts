@@ -27263,6 +27263,23 @@
     "history": [
       [
         {
+          "timestamp": 1747630952888,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "UPGRADE PRO": "USD 6.99",
+            "FUJI SERIES FILM": "USD 4.99",
+            "KODAK SERIES FILM": "USD 5.99",
+            "WEDDING SERIES FILM": "USD 4.99",
+            "RETRO SERIES FILM": "USD 4.99",
+            "IU SERIES FILM": "USD 4.99",
+            "LOMO SERIES": "USD 4.99",
+            "UPGRADE PRO VERSION": "USD 59.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745532132606,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -39710,7 +39727,8 @@
       "Goofy Roofs Pack": "USD 0.99",
       "Getaway Car Pack": "USD 2.99",
       "American All-Stars Car Pack": "USD 2.99",
-      "Rusty Rats Car Pack": "USD 2.99"
+      "Rusty Rats Car Pack": "USD 2.99",
+      "Modified Monsters Car Pack": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -39724,9 +39742,29 @@
       "Goofy Roofs Pack": "USD 0.99",
       "Getaway Car Pack": "USD 2.99",
       "American All-Stars Car Pack": "USD 2.99",
-      "Rusty Rats Car Pack": "USD 2.99"
+      "Rusty Rats Car Pack": "USD 2.99",
+      "Modified Monsters Car Pack": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747630952888,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Content Bundle 2": "USD 7.99",
+            "Reckless Car Pack": "USD 2.99",
+            "Off-Road Car Pack": "USD 2.99",
+            "Racing Heroes Car Pack": "USD 2.99",
+            "Steel & Wheels Pack": "USD 1.99",
+            "Goofy Roofs Pack": "USD 0.99",
+            "Getaway Car Pack": "USD 2.99",
+            "American All-Stars Car Pack": "USD 2.99",
+            "Rusty Rats Car Pack": "USD 2.99",
+            "Modified Monsters Car Pack": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746626555033,
