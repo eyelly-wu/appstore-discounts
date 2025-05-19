@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 926177061,
+    name: {
+      mo: 'TinType - Hipstamatic',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6743422824,
     name: {
       tw: 'Pixel Paws - Virtual Pet Toy',
