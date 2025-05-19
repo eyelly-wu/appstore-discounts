@@ -26392,6 +26392,23 @@
     "history": [
       [
         {
+          "timestamp": 1747625032427,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Hero Tank": "$5.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Pirate Kings Campaign!": "$7.99",
+            "Tower Goblin War Zeppelin": "$6.99"
+          }
+        },
+        {
           "timestamp": 1747613405520,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -29597,14 +29614,22 @@
   "1336793944": {
     "name": "HAAK",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747625032427,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -62264,6 +62289,14 @@
     "history": [
       [
         {
+          "timestamp": 1747625032427,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747451891600,
           "price": 0,
           "formattedPrice": "Free",
@@ -62690,6 +62723,16 @@
       "Premium Features": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747625032427,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747461779730,
