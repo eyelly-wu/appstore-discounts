@@ -27263,6 +27263,21 @@
     "history": [
       [
         {
+          "timestamp": 1747641796885,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "UPGRADE PRO": "USD 6.99",
+            "FUJI SERIES FILM": "USD 4.99",
+            "KODAK SERIES FILM": "USD 5.99",
+            "WEDDING SERIES FILM": "USD 4.99",
+            "RETRO SERIES FILM": "USD 4.99",
+            "IU SERIES FILM": "USD 4.99",
+            "LOMO SERIES": "USD 4.99",
+            "UPGRADE PRO VERSION": "USD 59.99"
+          }
+        },
+        {
           "timestamp": 1747634590821,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -36136,6 +36151,24 @@
       "Jewel Package E": "USD 69.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747641796885,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Daily Jewel Package": "USD 19.99",
+            "Lite Daily Jewel Package": "USD 8.99",
+            "Starter Package A": "USD 14.99",
+            "Jewel Package D": "USD 44.99",
+            "Jewel Package A": "USD 4.99",
+            "Jewel Package F": "USD 89.99",
+            "Jewel Package C": "USD 24.99",
+            "Jewel Package B": "USD 8.99",
+            "Jewel Package E": "USD 69.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747548187899,
