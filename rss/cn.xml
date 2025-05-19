@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-18T19:13:26.142Z</updated>
+    <updated>2025-05-19T00:30:07.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-18T19:13:26.143Z</updated>
+        <updated>2025-05-19T00:30:07.491Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSun, 18 May 2025 19:13:26 GMT</id>
+        <id>rankingcnMon, 19 May 2025 00:30:07 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-18T19:13:26.144Z</updated>
+        <updated>2025-05-19T00:30:07.491Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1063</b>
+        <b>1064</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>862</b>
+        <b>863</b>
       </td>
       <td>
         <b>11</b>
@@ -136,6 +136,23 @@ feedId:49753297431966720+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id384363262">13:20:玛雅历</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1624326561">真武三国  英雄集结</a>
       </td>
       <td>
@@ -150,23 +167,6 @@ feedId:49753297431966720+userId:73658201673997312
                 <i>SP武将碎片</i>：<b>2</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id384363262">13:20:玛雅历</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -432,6 +432,90 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13:20:玛雅历]]></title>
+        <id>13:20:玛雅历-cn-1747613405520</id>
+        <link href="https://apps.apple.com/cn/app/13-20-%E7%8E%9B%E9%9B%85%E5%8E%86/id384363262?uo=4"/>
+        <updated>2025-05-19T00:10:05.520Z</updated>
+        <summary type="html"><![CDATA[价格: ¥22.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/13-20-%E7%8E%9B%E9%9B%85%E5%8E%86/id384363262?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/a1/7d/21a17dcf-97e0-5833-e461-3ff74c56ce99/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥22.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥15.00 ~ ¥28.00]</span>）
+</h2><h2>应用描述</h2><p>
+  这个应用是由1320玛雅历创始人、美国时间法则基金会与中国有时间的生活红月导师三方联合制作出品，让你能够随时随地使用神奇的玛雅历！
+“13:20玛雅历让我们更轻易地理解玛雅历，并整合运用到我们的每日生活中。强烈推荐噢！”
+
+
+玛雅人已经以惊人的精确度描述了，围绕着我们的宇宙与大自然的循环规律。他们创建了与所有这些周期共时和谐的日历。跟随着这些周期可以帮助你与自然建立更深层、更强大的联系，并且更加觉知于自己的本质。
+
+这个App是一个简单的工具，可以帮助我们提升自己的频率，给予我们一个崭新的视角，去洞见我们每一天的、地球的以及宇宙间行星的发生。
+
+- 你有没有意识到，我们的日历（西洋历）不是一个和谐的日历？
+- 你知道，月球每年围绕地球运行13（不是12！）圈吗？
+- 为什么我们要依据这个不规律的日历生活？
+- 你是否对星际知识有兴趣？
+- 你知道吗：卓尔金历最紧密地关联了地球上的有机运作与宇宙间天体循环的连结？
+
+- >以上所有，以及更多的，都在这个App中有更详细的解释。 （超过15.000字，共37页）
+
+
+在新世纪，共时性是一切的基础。
+
+
+
+///////////////////////////////////////////////////////////////// 
+在世界各地有5星的评价！
+///////////////////////////////////////////////////////////////// 
+“好玩并带来觉醒”
+///////////////////////////////////////////////////////////////// 
+
+更多信息：
+www.1320sync.com
+
+
+对于初学者来说，这个App是一个学习工具，因为它包含了对于调性、图腾以及星际玛雅的共时性序列的最基本的知识。刚开始你可能会认为有点难懂，然而很快你将会发现所有一切是如何息息相关的。
+
+“这个App太棒了，可以轻松地操作任何日期。我在家里花了几年时间按照书本上去做的事情，现在可以在几秒钟就可以做到！”
+
+对于已经熟悉玛雅日历这个工具的人来说，这个App就是一个手上导航仪，可以轻松地浏览日期、对任意给出的Kin来计算合Kin等。此外，这个App 可以成为13:20共时历教学者的好帮手，并且它已经广泛使用于世界各地的教学当中了。
+
+
+=== 功能特色 ===
+
++ Kin 玛雅历
+默认情况下显示当天的Kin。
+可以计算任意日期的Kin。
+
++ Kin 详解
+选择13个调性和20个图腾任意组合成Kin。
+顶部可以滚动显示4页的解读信息。
+
++ 合Kin计算器
+计算任意组合的kin的加合。你可以添加任意多的人的Kin来计算小组合Kin。
+
++ 卓尔金历以及银河门户日和波符的提示。
+
++ 通讯录导入
+所有在你通讯录中设置有生日资料的联络人，将会被App自动导入Kin通讯录中，你可以在此查看到你所有联络人的玛雅解读，以及他们与你的关联。
+
++ 13月亮历法
+完全整合的13月亮历法的日历。 （兼作生日日历！）
+
++ 13:20基础知识信息
+这里有很多共时性背后的理论知识，可以帮助你更好地透过玛雅历法获得指引。相关文章均来自www.lawoftime.org美国时间法则官网，并提供有关于时间周期的清晰解释。（超过15.000字，37页）
+
++ 共享
+在3个主要标签页上，你可以分享当下选定的星系印记到你最喜欢的聊天应用中。
+
+
+＃ 所有知识基于何塞·阿圭列斯博士的著作。
+＃ 这个App获得美国时间法则基金会的官方认可，并与他们合作制定 。- www.lawoftime.org
+# Ariel Spilsbury.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/80/1c/3f801c32-a2ba-7ed3-3523-3c2b8f6e4844/ZH_5-5_Image_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/3a/60/2e3a60eb-b5fa-55f6-2bbf-0c95d096c315/ZH_5-5_Image_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/3f/de/853fde31-3c23-d6e8-7812-6e1a5d372962/ZH_5-5_Image_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/fa/4b/55fa4b7b-31a9-35da-013b-7c54b13a60be/ZH_5-5_Image_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/82/60/0182602d-848c-265b-0353-98ce2381d7d8/ZH_5-5_Image_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/dd/5b/b4dd5bd4-7ad8-29a5-d7db-9148b7405f1d/ZH_5-5_Image_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/99/cf/0d99cf1c-1cd9-7506-d3c7-99fa591884cc/ZH_5-5_Image_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b5/f1/99b5f174-0838-ac23-f20a-e6f570e09f38/ZH_5-5_Image_08.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说]]></title>
@@ -761,77 +845,5 @@ Dumb Phone 可完全自定义，让你选择对你来说最重要的应用程序
   <strong>免费</strong>
 </b><span>[免费 ~ ¥1.00]</span>）
 </h2><h2>应用描述</h2><p>来三国世界开启放置冒险！轻松培养武将，简单升级神兵，不肝不氪，随时享受游戏的快乐，打造你的专属小天地！</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件]]></title>
-        <id>【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件-cn-1747354157883</id>
-        <link href="https://apps.apple.com/cn/app/%E7%BA%A6%E5%90%97-%E7%BA%A6%E4%BC%9A%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA-%E5%90%8C%E5%9F%8E%E9%99%8C%E7%94%9F%E4%BA%BA%E4%BA%A4%E5%8F%8B%E9%99%AA%E7%8E%A9%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/id1095903651?uo=4"/>
-        <updated>2025-05-16T00:09:17.883Z</updated>
-        <summary type="html"><![CDATA[价格: ¥8.00 → ¥3.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%BA%A6%E5%90%97-%E7%BA%A6%E4%BC%9A%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA-%E5%90%8C%E5%9F%8E%E9%99%8C%E7%94%9F%E4%BA%BA%E4%BA%A4%E5%8F%8B%E9%99%AA%E7%8E%A9%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/id1095903651?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/de/27/7bde277d-e222-d7f2-fa4f-72a9b3495164/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥8.00</span> → <b>
-  <strong>¥3.00</strong>
-</b><span>[¥3.00 ~ ¥8.00]</span>）
-</h2><h2>应用描述</h2><p>
-  甜蛙，下一秒，约见面。
-约吃饭、看电影、演唱会、密室逃脱...
-在这里，才华不会被埋没，用炸裂的演技展示真实自我，获取Ta的好感，夺回属于你的舞台焦点。
-
-发起邀约
-神啊，赐予我一个骑白马的吧
-
-对方应约
-稀饭，你是我的菜
-
-联系对方
-幽默是一种艺术
-
-线下见面
-随时随地的撒狗粮
-
-拍摄短视频
-一段即兴的rap展示，让世界认识你
-
-网友疯狂打Call：
-「 好瘦的八戒」what？还能直接约，爱了爱了
-「 茉莉蜜茶」完了，我中毒了，一天要打开APP几百次
-「 巅峰小学生」还能免费约，做慈善吗？
-「 陌人」抓到帅气学长一枚，收工～
-
-如果您有任何问题，请及时在APP中砸向我们，我们喜欢被砸，您还可以通过邮件吐槽。
-吐槽邮箱：tw@yohoing.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/0e/d3/010ed367-8ed6-279d-58c2-9be376f3423e/efac461f-548a-4208-8415-b4c8becdfe04_1-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/32/96/6d3296a9-2b06-b614-7b24-b8fc4f5c82c6/e2660397-ab04-4c77-a9cf-9ca8fba81f9a_2-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/5b/36/8e5b3684-38b0-f0d3-cffb-98d29e1bba08/4badbfd9-875a-4142-a338-832e234598b5_3-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/9e/6b/379e6b59-632b-4273-6ced-63ed5a279c48/87dc84bb-d6a7-42dd-a250-db04e271d067_4-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/12/a2/5412a2e5-b92c-9a19-cd62-d9d8e901508f/ef086b53-8cc0-412b-8ee2-81e5d3bb2cc9_0-5.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不玩手机-自律习惯养成记]]></title>
-        <id>不玩手机-自律习惯养成记-cn-1747354157883</id>
-        <link href="https://apps.apple.com/cn/app/%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA-%E8%87%AA%E5%BE%8B%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E8%AE%B0/id1449020025?uo=4"/>
-        <updated>2025-05-16T00:09:17.883Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA-%E8%87%AA%E5%BE%8B%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E8%AE%B0/id1449020025?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/30/83/05308348-c8e5-a936-c5c4-9caa623c7a44/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥18.00]</span>）
-</h2><h2>应用描述</h2><p>
-  这个App可以让你更专注地工作或学习，戒掉手机瘾，让你在工作或学习的时候远离手机，提高工作和学习的效率。
-
-当开启了不玩手机警报后，你在设定的时间里拿起手机将会报警，这将培养你更专注于学习或工作的习惯。
-
-App使用方法：
-1. 选择要集中精力工作的时间间隔。
-
-2. 把手机放在水平桌面上。
-
-3. 点击开始按钮。
-
-4. 直接按下锁定屏幕按钮。
-
-5. 开始并专注于你的工作或学习。
-快来和我们一起进步吧！！！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/cb/99/c1/cb99c165-1f5c-e3a7-aff7-b9dd66d18321/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/ca/b2/bdcab20f-406e-06af-ffef-f497dd7e6bd5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/a1/59/f4a15915-dfb6-6942-1de7-0dd8b19d915f/mzl.bkcdpibu.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/21/73/34/21733469-cab7-f8b3-7431-09a6dbbbf9f2/mzl.ijpebcxc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/c9/df/abc9df78-4745-a848-09ac-ed698eac23d9/mzl.kaxjshbt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f7/a1/32/f7a13273-f0af-0a21-935e-e654a15677e8/mzl.mcdhwqfk.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/f6/3f/a3f63ff8-140c-2527-e07f-310136ba5137/mzl.icblcvod.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3f/28/de/3f28de24-ad23-0353-a6f5-67211a0a772f/mzl.ckekpjvp.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/54/a7/a354a7c9-27d9-d15e-2ccc-5ed85f13878f/mzl.wethfkxl.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/30/7f/d1/307fd172-f03f-656e-ba33-8c4d95e1b61a/mzl.lbyvydhm.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1b/05/2a/1b052a2f-955e-f6d9-c2f0-a7bfcab09405/mzl.bcrzmpha.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

@@ -2845,14 +2845,27 @@
       "Tip Jar: Medium Coffee": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00",
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
       "Notes - Tzolkin/13Moon Cycles": "HK$ 22.00",
       "Tip Jar: Large Coffee": "HK$ 88.00",
       "Tip Jar: Small Coffee": "HK$ 18.00",
       "Tip Jar: Medium Coffee": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747613405520,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Notes - Tzolkin/13Moon Cycles": "HK$ 22.00",
+            "Tip Jar: Large Coffee": "HK$ 88.00",
+            "Tip Jar: Small Coffee": "HK$ 18.00",
+            "Tip Jar: Medium Coffee": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747260127593,
@@ -5058,6 +5071,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747613405520,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "大頑固的故事": "HK$ 22.00",
+            "神秘鴨": "HK$ 22.00",
+            "愛麗的故事": "HK$ 8.00",
+            "鎖匠 - 一把鎖": "HK$ 8.00",
+            "鎖匠 - 全部的小頑皮鎖": "HK$ 38.00",
+            "假日優惠套裝": "HK$ 32.00",
+            "鎖匠 – 全部的大頑固鎖": "HK$ 18.00",
+            "鎖匠 – 全部的神秘鎖": "HK$ 38.00",
+            "鎖匠 － 全部愛麗鎖": "HK$ 18.00",
+            "艾莉優惠套裝": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1747609327795,
           "price": 18,
@@ -18778,6 +18808,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747613405520,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "永遠的小夥伴": "HK$ 58.00",
+            "奇怪的试题集": "HK$ 8.00",
+            "音樂合集SP01": "HK$ 0.00",
+            "音樂合集 04": "HK$ 22.00",
+            "音樂合集 01": "HK$ 18.00",
+            "永远的小伙伴（新人优惠）": "HK$ 58.00",
+            "普通的音樂合集10": "HK$ 22.00",
+            "星尘节拍器": "HK$ 18.00",
+            "小酒仙节拍器": "HK$ 8.00",
+            "音樂合集 03": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1747609327795,
           "price": 8,
