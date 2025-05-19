@@ -23556,6 +23556,23 @@
     "history": [
       [
         {
+          "timestamp": 1747645362763,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "20,000 points": "$0.99",
+            "63,000 points": "$2.99",
+            "225,000 points": "$9.99",
+            "176,000 points": "$7.99",
+            "345,000 points": "$14.99",
+            "100,000 points": "$2.99",
+            "25,000 points": "$0.99",
+            "600,000 points": "$24.99",
+            "500,000 points": "$9.99",
+            "300,000 points": "$7.99"
+          }
+        },
+        {
           "timestamp": 1747641796885,
           "price": 0.49,
           "formattedPrice": "$0.49",
@@ -46688,6 +46705,25 @@
     "history": [
       [
         {
+          "timestamp": 1747645362763,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Infernal Invasions": "$5.99",
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Eclypse Supporter Pack": "$3.99",
+            "Dawncaster Origins Bundle": "$4.99",
+            "Dawncaster Mega Bundle": "$12.99",
+            "Siege of Shadows": "$4.99",
+            "Catalyst Support Pack": "$4.99",
+            "Masks of Misery": "$4.99",
+            "Infinitum Support Banner": "$3.99",
+            "Death of Divinity": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747216950585,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -60496,9 +60532,9 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99",
-      "2025春さくらスキン": "$0.49",
-      "2025春いちごスキン": "$0.49",
-      "2025春イースタースキン": "$0.99",
+      "2025春さくらスキン": "$1.19",
+      "2025春いちごスキン": "$1.19",
+      "2025春イースタースキン": "$1.79",
       "Halloween Party": "$1.79",
       "2025春ネモフィラスキン": "$0.49",
       "Fireworks display": "$1.79",
@@ -60509,7 +60545,10 @@
       "Summer holiday": "$1.19",
       "Wagashi Whispers": "$1.19",
       "Sunflower farm": "$1.19",
-      "Crimson Walk": "$1.79"
+      "Crimson Walk": "$1.79",
+      "Letter from Nemophila": "$1.19",
+      "Standard Skin": "$1.19",
+      "Deluxe Skin": "$1.79"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -60527,10 +60566,27 @@
       "Summer holiday": "$1.19",
       "Wagashi Whispers": "$1.19",
       "Sunflower farm": "$1.19",
-      "Crimson Walk": "$1.79"
+      "Crimson Walk": "$1.79",
+      "Letter from Nemophila": "$1.19",
+      "Standard Skin": "$1.19",
+      "Deluxe Skin": "$1.79"
     },
     "history": [
       [
+        {
+          "timestamp": 1747645362763,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春イースタースキン": "$1.79",
+            "2025春さくらスキン": "$1.19",
+            "2025春ネモフィラスキン": "$0.49",
+            "2025春いちごスキン": "$1.19",
+            "Letter from Nemophila": "$1.19",
+            "Standard Skin": "$1.19",
+            "Deluxe Skin": "$1.79"
+          }
+        },
         {
           "timestamp": 1747627613721,
           "price": 2.99,
