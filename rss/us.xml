@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-20T09:22:12.239Z</updated>
+    <updated>2025-05-20T13:31:05.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-20T09:22:12.240Z</updated>
+        <updated>2025-05-20T13:31:05.735Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 20 May 2025 09:22:12 GMT</id>
+        <id>rankingusTue, 20 May 2025 13:31:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-20T09:22:12.241Z</updated>
+        <updated>2025-05-20T13:31:05.735Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -558,6 +558,23 @@ feedId:49753370488353792+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>24</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6505058041">QUAKELINE</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -669,6 +686,35 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QUAKELINE]]></title>
+        <id>QUAKELINE-us-1747746695260</id>
+        <link href="https://apps.apple.com/us/app/quakeline/id6505058041?uo=4"/>
+        <updated>2025-05-20T13:11:35.260Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/quakeline/id6505058041?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/4a/12/4b4a12db-e55d-180a-48e1-fbf48486d7fc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $2.99]</span>）
+</h2><h2>Application Description</h2><p>
+  After a devastating earthquake strikes Istanbul, can you find the woman you love?
+
+In a fully hand-drawn Istanbul, embark on a journey that tests your instincts and hopes. After the earthquake, you must cross the city — from Bakırköy to Üsküdar — to find the woman you love.
+
+Explore a hand-drawn, post-quake Istanbul — from shattered historic neighborhoods to the edge of the Bosphorus. Every corner hides new stories and challenges. In the heart of chaos, survival is not enough. You must do it without losing your honor.
+
+On your journey to save your girlfriend, you’ll face not only physical obstacles but also emotional and psychological trials. The people you meet among the ruins—and their stories—will push you to make difficult moral choices.
+
+To move forward, you’ll need to solve puzzles, crack safe codes, pick locks, explore devastated locations, and manage your energy wisely.
+
+Quakeline is more than just a game; it is a project that aims to raise awareness about the possible impact of a real earthquake in Istanbul. Through its fictional yet grounded narrative, the game invites players to reflect on survival, resilience, and the human spirit.
+
+Witness the struggle to survive—and the power of hope.
+In this unforgettable journey, you’ll not only navigate through debris but also discover the deepest and purest parts of what it means to be human.
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Day R Premium: last world war]]></title>

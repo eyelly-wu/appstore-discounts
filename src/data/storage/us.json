@@ -26989,6 +26989,23 @@
     "history": [
       [
         {
+          "timestamp": 1747746695260,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Hero Tank": "$5.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Tower Goblin War Zeppelin": "$6.99",
+            "Pirate Kings Campaign!": "$7.99"
+          }
+        },
+        {
           "timestamp": 1747713819551,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -55356,6 +55373,25 @@
     "history": [
       [
         {
+          "timestamp": 1747746695260,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Unlock Temperament": "$6.99",
+            "Character Pass": "$11.99",
+            "Uniform Pack": "$3.99",
+            "Unlock Prisoner Codex": "$6.99",
+            "Nurse Pack": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747627613721,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -66893,10 +66929,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747746695260,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746568929295,

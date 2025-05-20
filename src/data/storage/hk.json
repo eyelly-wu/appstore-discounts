@@ -21160,7 +21160,8 @@
       "Pile of caps (sale 40%)": "HK$ 22.00",
       "Pile of caps (sale 60%)": "HK$ 18.00",
       "Saucepan of caps (sale 30%)": "HK$ 58.00",
-      "Battlepass": "HK$ 88.00"
+      "Battlepass": "HK$ 88.00",
+      "Huge pack": "HK$ 388.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -21187,9 +21188,29 @@
       "Pile of caps (sale 40%)": "HK$ 22.00",
       "Pile of caps (sale 60%)": "HK$ 18.00",
       "Saucepan of caps (sale 30%)": "HK$ 58.00",
-      "Battlepass": "HK$ 88.00"
+      "Battlepass": "HK$ 88.00",
+      "Huge pack": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747746695260,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Huge pack": "HK$ 388.00",
+            "Sausepan of caps": "HK$ 88.00",
+            "Pile of caps": "HK$ 38.00",
+            "Handful of caps": "HK$ 8.00",
+            "Special pack": "HK$ 38.00",
+            "Small pack": "HK$ 8.00",
+            "Case with caps": "HK$ 148.00",
+            "Great pack": "HK$ 88.00",
+            "Useful pack": "HK$ 22.00",
+            "Standart pack": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746680557729,
@@ -26460,6 +26481,25 @@
       "寶石180個": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747746695260,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "功能禮包": "HK$ 32.00",
+            "寶石300個": "HK$ 32.00",
+            "自動禮包": "HK$ 128.00",
+            "寶石180個": "HK$ 22.00",
+            "綜合禮包": "HK$ 128.00",
+            "寶石660個": "HK$ 68.00",
+            "戒指禮包": "HK$ 188.00",
+            "地獄禮包": "HK$ 188.00",
+            "魔法禮包": "HK$ 68.00",
+            "魅魔禮包": "HK$ 328.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747541165364,

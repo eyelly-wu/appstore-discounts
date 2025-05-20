@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-20T04:14:29.926Z</updated>
+    <updated>2025-05-20T13:31:05.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-20T04:14:29.927Z</updated>
+        <updated>2025-05-20T13:31:05.728Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 20 May 2025 04:14:29 GMT</id>
+        <id>rankingcnTue, 20 May 2025 13:31:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-20T04:14:29.927Z</updated>
+        <updated>2025-05-20T13:31:05.728Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1065</b>
+        <b>1066</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>864</b>
+        <b>865</b>
       </td>
       <td>
         <b>11</b>
@@ -67,13 +67,13 @@ feedId:49753297431966720+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>585</b>
+        <b>586</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>423</b>
+        <b>424</b>
       </td>
       <td>
         <b>10</b>
@@ -136,14 +136,20 @@ feedId:49753297431966720+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id384363262">13:20:玛雅历</a>
+        <a href="https://apps.apple.com/cn/app/id1624326561">真武三国  英雄集结</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>2</b>
+            <span>总次数</span>：<b>3</b>
           </li><li>
-            <span>价格</span>：<b>2</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>SP武将碎片</i>：<b>3</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -153,20 +159,14 @@ feedId:49753297431966720+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1624326561">真武三国  英雄集结</a>
+        <a href="https://apps.apple.com/cn/app/id384363262">13:20:玛雅历</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>2</b>
           </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>SP武将碎片</i>：<b>2</b>
-              </li>
-            </ol>
+            <span>价格</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -506,6 +506,42 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真武三国  英雄集结]]></title>
+        <id>真武三国  英雄集结-cn-1747746695260</id>
+        <link href="https://apps.apple.com/cn/app/%E7%9C%9F%E6%AD%A6%E4%B8%89%E5%9B%BD-%E8%8B%B1%E9%9B%84%E9%9B%86%E7%BB%93/id1624326561?uo=4"/>
+        <updated>2025-05-20T13:11:35.260Z</updated>
+        <summary type="html"><![CDATA[SP武将碎片: ¥298.00 → ¥30.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%9C%9F%E6%AD%A6%E4%B8%89%E5%9B%BD-%E8%8B%B1%E9%9B%84%E9%9B%86%E7%BB%93/id1624326561?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/3b/96/d33b969a-a856-5fd7-efa0-1d258c61dfe2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>SP武将碎片：</strong><span>¥298.00</span> → <b>
+  <strong>¥30.00</strong>
+</b><span>[¥30.00 ~ ¥298.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  游戏特色：
+1）Q版水墨风！
+角色，场景，UI均采用中国古典水墨风格，高端大气上档次，低调奢华有内涵。
+2）百名武将，绝无雷同！
+超过一百位绝无雷同的武将和技能，考验英雄组合，操作和策略。
+3）合体技系统！
+痛快淋漓的合体技系统，简单刺激的触发方式，给您前所未有的战斗体验。
+4）六大职业系统！
+六大职业，五大势力，职业定位更加明确，玩法更加多变。
+5）九大模式！
+战役，挑战，竞赛，无双，奇境，试炼，八阵，领地，袭击九大创新模式，等您来战。
+
+
+※ 如有任何问题和建议，可通过以下方式联系我们，我们一定尽快给您答复！祝您游戏愉快！
+QQ交流群1：9222266
+QQ交流群2：758352295
+QQ交流群3：203399926
+
+微信公众账号：oneonegames
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/07/bd/d807bd30-99bb-9945-a067-03f2c49629fe/f0e4f60a-4954-4bb7-a7ed-c82719cf2327_1242x2208a.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/0f/ad/ff0fad39-6d04-9d56-3dea-da736bde4e5a/51173042-4b5d-495f-acb7-9fd80100b713_1242x2208b.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/03/83/dd038315-3b46-330f-bd3f-2253895ab832/3b207c75-ac77-41f9-8e34-6a9014fc0872_1242x2208c.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/30/b6/8430b68e-e980-5921-9663-ca90d9dcd38c/d9792cae-3b81-4aa2-a246-ce9aea3ca2d2_1242x2208d.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/db/27/78db2794-0b31-a59f-fb14-9ba722268760/90325e9b-a755-48fc-abff-c2c602b8ad3a_1242x2208e.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/b7/ee/0cb7eed8-0c43-e7ab-fa9b-8fd3537b0a72/f6f84a88-d14b-459b-a505-5f2d088c71fd_1242x2208g.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/1e/6a/1d1e6a11-f4d6-7f09-dbce-acfed449a41f/334b0d09-8020-49b0-b80b-be90be09a21d_1242x2208i.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/11/cd/ff11cd62-9246-cc0c-9a87-85c543a51bfb/b51df902-ae39-4c0e-b0a6-0a9cb0980936_1242x2208f.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/aa/ca/25aaca19-0bdb-0330-eb8e-bfed2a39d259/564a53af-659f-48a0-ac07-161ddd4a88a7_1242x2208h.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/e4/82/8de4825a-30f1-8aa7-6e78-042a14b6021c/ce8bb588-760e-4d57-a744-6b12c5109edd_2048x2732a.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/fd/20/3cfd202f-1cb9-50b3-3264-a147fc223239/6917e928-83a9-4207-8966-3eb2fb2c4bdd_2048x2732b.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/27/47/f42747e5-b8c3-7ecd-aac9-8951afca32da/3b8225d4-b514-4514-a5cd-6784137204dc_2048x2732i.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/78/b5/0078b517-307b-724a-34e2-ed26c60b0ada/84150d86-ce21-4bb2-8cb2-312b89c69f1a_2048x2732e.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/6a/b1/7d6ab170-c0a6-348d-22c5-382a01e57785/aab426e1-73cb-4c56-8499-869d6a9ccb3e_2048x2732h.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/ed/1a/a8ed1a7b-fc86-a894-0923-25d9ff0e052b/0392b6eb-2aaa-4771-8bad-dbba4004a03d_2048x2732g.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/db/cc/a6dbccd1-cc53-04fd-80c8-668dde5d8a76/809c68e6-6c95-494b-9f08-e36932c31ba1_2048x2732c.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/d0/4f/d8d04f85-819d-7576-5454-6bb92da7cb31/3a9edbcd-eed8-4552-8968-ff5423b21e48_2048x2732f.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/2c/f6/3e2cf60f-f366-63bc-0ff2-2235d2bd8049/995842d4-a0ed-4041-9108-e8ab73d79bf5_2048x2732d.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Day One 日記：私人日記]]></title>
