@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-20T07:13:23.544Z</updated>
+    <updated>2025-05-20T09:22:12.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-20T07:13:23.545Z</updated>
+        <updated>2025-05-20T09:22:12.240Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 20 May 2025 07:13:23 GMT</id>
+        <id>rankingusTue, 20 May 2025 09:22:12 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-20T07:13:23.545Z</updated>
+        <updated>2025-05-20T09:22:12.241Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1065</b>
+        <b>1066</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>864</b>
+        <b>865</b>
       </td>
       <td>
         <b>11</b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>967</b>
+        <b>968</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>791</b>
+        <b>792</b>
       </td>
       <td>
         <b>11</b>
@@ -136,6 +136,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1038014543">Day R Premium: last world war</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Handful of caps</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
       </td>
       <td>
@@ -156,7 +179,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id916976066">Phraseboard Keyboard</a>
@@ -175,29 +198,6 @@ feedId:49753370488353792+userId:73658201673997312
                 <i>Pro Access</i>：<b>1</b>
               </li><li>
                 <i>Ultimate Access</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1038014543">Day R Premium: last world war</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Handful of caps</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -669,6 +669,67 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day R Premium: last world war]]></title>
+        <id>Day R Premium: last world war-us-1747731767287</id>
+        <link href="https://apps.apple.com/us/app/day-r-premium-last-world-war/id1038014543?uo=4"/>
+        <updated>2025-05-20T09:02:47.287Z</updated>
+        <summary type="html"><![CDATA[Handful of caps: $1.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/day-r-premium-last-world-war/id1038014543?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/c1/f1/d7c1f19d-9b64-2958-7572-002041464d13/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Handful of caps：</strong><span>$1.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $1.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.
+
+Benefits of Premium version:
+- Unique pet Raven
+- Starter Kit
+- Caches of useful items in shelters
+- Expanded selection of perks
+- Chat without any limitations
+- Reduced waiting time between parcels
+- Access to all kinds and colors of map markers
+
+Can you survive in the world destroyed after a nuclear war? With radiation, hunger and diseases around you. You have to cross the whole country and save your family. Who knows if they are alive, or maybe radiation and deadly virus have already reached them? Reveal a secret of the apocalypse and get your memories back during a journey across the huge territory of the USSR in the 80th. 
+
+It is not easy to survive after apocalypse. You'll face the real hungry games! Monsters, zombie, thirst, uncountable diseases and injuries, blood-thirsty enemies – you have to fight it all. Craft all your resources: weapons, clothes, means of transport. 
+
+- Hardcore survival:
+Hunger, zombie and radiation won't give you a chance to relax.
+
+- Realistic world:
+The turn of the seasons, huge map of USSR and more than 2500 different towns and cities. Hunt animals, but be careful: even rats can injure you seriously! Explore the wilderness!
+
+- A lot of opportunities:
+Multicraft, obtaining skills, hundreds of crafting schemes, a lot of ammunition.
+
+- People and stories:
+Interesting quests and helpful allies. An open game world.
+
+- Improve your skills:
+Mechanics, medicine, chemistry and many others.
+
+- Cooperative mode:
+The Online mode  with a chat room, exchange of items and united fightings. Multiplayer survival game.
+
+Explore the abandoned houses and shelters. Find weapon and build transport using various materials.
+Remember everything you learnt on chemistry and physics! It is the most realistic surviving game! 
+
+Features: 
+- Сraft system – get resources, hunt, find useful objects or weapon and create your own one! 
+- Hardcore simulator of survival 
+- Journey across the wilderness map in the multiplayer mode 
+- Choose the difficulty mode: sandbox, real life or online
+War never changes. In 1985 USSR went down before an unknown enemy. In a few days the entire country became a radioactive wasteland - violence, hunger and diseases reign here now. When you no longer loose in the fight with the death, the other survivors wait for you in the cooperative - the Online mode let you survive together dealing with difficulties, talking in the chat room and sending gifts to each other.
+
+User agreement: http://tltgames.ru/license-agreement-en
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/43/f9/2043f909-0427-85fc-0380-c78d8c635a72/37839167-aa9a-4447-a81b-48596708c9e1_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/8b/64/d18b6436-dbab-aa76-cd34-fde6a0017f60/abaf8bc1-c87d-4066-9855-f110c7356137_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/46/62/5a4662b0-8daf-bb02-dcd7-88cdc881ac8c/56a1afb9-8d5a-457f-a9f3-f0fe0644cd6d_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/3b/28/7a3b2824-3ac2-85f4-b43e-ab46b5ade311/afa3f761-86f4-490c-9a8f-c6f7b1015cfa_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/13/37/6213373f-0cec-fcdc-5031-e64d0f731948/abde20fe-0528-417a-af2e-cdda1c652def_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/51/1f/cc511f3f-3f26-3240-6af2-60e6418c8cbc/4ab3a89a-de25-4365-b883-e4b25d5d4377_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/79/01/627901e8-e012-b090-c78b-3585b0e1ae16/10e16d1f-4f6d-414b-a1bc-02c0bac97de7_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/e5/31/08e53100-b2a7-bc39-e566-18c7620edcd4/70a632b4-7110-44a4-8f3c-b16630226a71_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/c0/02/91c002c9-9700-0466-f9cd-053e636af6f2/55b21187-aa05-4f77-822a-8fd16cae0632_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/f2/c7/3df2c73e-f7fc-3f6c-a191-ba6861c4cdad/149c588f-631e-4221-ac9a-71c5d60aae73_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/52/94/0e529456-2272-403e-b28c-9b314d5a2678/844a140a-b823-4849-aeab-841e1c22ad82_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/e3/31/f7e331ba-1dfe-5957-552f-199e1d483e56/65fcbeaf-0f41-4f84-80de-3687911f1afe_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/45/53/8f4553f6-790b-32ac-526f-ad768ac24913/c88343cd-bc58-42f6-b1e8-a9fa3539ade4_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/25/b3/c025b3f5-90cc-fc0c-6ae1-e8431823b5c2/c9de7bf8-fdc6-44dc-aaee-5661465f27cf_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/7f/6d/287f6d5d-0a21-ccf9-964a-35746ace6a48/bf611f0e-f026-4332-9de5-fe7e0cb877b3_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/90/0a/c0900a56-51c1-4683-dff0-6293b324521d/cb6b77fb-bdaa-4c67-83cd-930ee49974d2_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/5e/eb/465eeb5c-94d2-e859-b0f8-636a8ac5100c/f66d531d-e15c-439c-b597-23f7f2c1cf2a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/79/cb/dd79cbaf-ee24-588f-5a24-e79cbc7f1385/5ed0c035-585b-438e-8e19-22c60629632e_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/ec/65/b0ec6594-3912-6653-aa86-e41c9ff5db12/5f03263e-ebf9-4ec2-9136-5e48239b77af_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ed/f1/f0edf163-11d1-ab0f-ae20-97d71e75d7d7/f729dcc9-441d-445e-9ec7-ba8570ff3f1c_9.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hitman Sniper]]></title>

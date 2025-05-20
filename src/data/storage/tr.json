@@ -17650,11 +17650,16 @@
       "Starter Pack": "₺229,99",
       "Special Pack 5": "₺229,99",
       "Special Pack 1": "₺229,99",
-      "Hero Sha'Tra": "₺129,99",
+      "Hero Sha'Tra": "₺229,99",
       "Hero Sparas": "₺129,99",
       "Hero Roy": "₺129,99",
-      "Hero Darwin": "₺39,99",
-      "Hero Trabuco": "₺129,99"
+      "Hero Darwin": "₺129,99",
+      "Hero Trabuco": "₺129,99",
+      "Credit Planet": "₺4.499,99",
+      "Handful of credits": "₺129,99",
+      "Case of credits": "₺229,99",
+      "Crate of credits": "₺449,99",
+      "Mechandful of credits": "₺899,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -17674,10 +17679,32 @@
       "Hero Sparas": "₺129,99",
       "Hero Roy": "₺39,99",
       "Hero Darwin": "₺39,99",
-      "Hero Trabuco": "₺129,99"
+      "Hero Trabuco": "₺129,99",
+      "Credit Planet": "₺4.499,99",
+      "Handful of credits": "₺129,99",
+      "Case of credits": "₺229,99",
+      "Crate of credits": "₺449,99",
+      "Mechandful of credits": "₺899,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747731767287,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Hero Fate": "₺129,99",
+            "Hero Sha'Tra": "₺229,99",
+            "Hero Dr.Graff": "₺229,99",
+            "Hero Darwin": "₺129,99",
+            "Hero Mark X": "₺299,99",
+            "Credit Planet": "₺4.499,99",
+            "Handful of credits": "₺129,99",
+            "Case of credits": "₺229,99",
+            "Crate of credits": "₺449,99",
+            "Mechandful of credits": "₺899,99"
+          }
+        },
         {
           "timestamp": 1747713819551,
           "price": 129.99,
