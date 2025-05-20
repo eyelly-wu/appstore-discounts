@@ -3030,12 +3030,25 @@
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99",
-      "8mm Pro": "USD 39.99",
+      "8mm Pro": "USD 9.99",
       "倒計時主題": "USD 0.00",
       "默片主題": "USD 0.00",
       "炫光主題": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747724553603,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "8mm Pro": "USD 9.99",
+            "默片主題": "USD 0.00",
+            "炫光主題": "USD 0.00",
+            "倒計時主題": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -18098,7 +18111,8 @@
       "Colorful Meteor Shower 限時挑戰書": "USD 2.99",
       "Halv Selection 限時挑戰書": "USD 2.99",
       "限時挑戰書": "USD 3.99",
-      "擴充章節 Y": "USD 3.99"
+      "擴充章節 Y": "USD 3.99",
+      "ULTRA BONK Hour 限時挑戰書": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -18120,10 +18134,30 @@
       "Neon Rhapsody 限時挑戰書": "USD 2.99",
       "Colorful Meteor Shower 限時挑戰書": "USD 2.99",
       "Halv Selection 限時挑戰書": "USD 2.99",
-      "限時挑戰書": "USD 3.99",
-      "擴充章節 Y": "USD 3.99"
+      "限時挑戰書": "USD 2.99",
+      "擴充章節 Y": "USD 3.99",
+      "ULTRA BONK Hour 限時挑戰書": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747724553603,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "ULTRA BONK Hour 限時挑戰書": "USD 2.99",
+            "Radiant Star Trail 限時挑戰書": "USD 3.99",
+            "KALPA Collaboration 限時挑戰書": "USD 2.99",
+            "主線第八章": "USD 9.99",
+            "Glorious Chorus 限時挑戰書": "USD 2.99",
+            "Neon Rhapsody 限時挑戰書": "USD 2.99",
+            "Colorful Meteor Shower 限時挑戰書": "USD 2.99",
+            "Halv Selection 限時挑戰書": "USD 2.99",
+            "限時挑戰書": "USD 2.99",
+            "擴充章節 Y": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746702129127,
