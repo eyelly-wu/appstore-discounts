@@ -13050,7 +13050,8 @@
       "3 Mo. Remove Ads": "₺249,99",
       "1 Mo. Remove Ads": "₺119,99",
       "12 Mo. Fongo Plus": "₺3.999,99",
-      "12 Mo. Global Texting": "₺1.199,99"
+      "12 Mo. Global Texting": "₺1.199,99",
+      "$10 Credit": "₺449,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -13074,9 +13075,29 @@
       "3 Mo. Remove Ads": "₺249,99",
       "1 Mo. Remove Ads": "₺119,99",
       "12 Mo. Fongo Plus": "₺3.999,99",
-      "12 Mo. Global Texting": "₺1.199,99"
+      "12 Mo. Global Texting": "₺1.199,99",
+      "$10 Credit": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747713819551,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "₺119,99",
+            "$5 Credit": "₺249,99",
+            "1 Mo. Global Texting": "₺179,99",
+            "$10 Credit": "₺449,99",
+            "3 Mo. CAN Texting": "₺249,99",
+            "$20 Credit": "₺899,99",
+            "6 Mo. CAN Texting": "₺449,99",
+            "$50 Credit": "₺2.299,99",
+            "1 Mo. Fongo Plus": "₺449,99",
+            "3 Mo. Global Texting": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746936224523,
@@ -14612,7 +14633,9 @@
       "Abandoned Mines Add-on": "₺39,99",
       "Invasion Add-on": "₺229,99",
       "Heart of Evil Add-on": "₺299,99",
-      "Bosses & Monsters Add-on": "₺349,99"
+      "Bosses & Monsters Add-on": "₺349,99",
+      "Lonely Mountain Add-on": "₺299,99",
+      "Biomes Add-on (Special Price)": "₺39,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -14626,9 +14649,30 @@
       "Abandoned Mines Add-on": "₺39,99",
       "Invasion Add-on": "₺229,99",
       "Heart of Evil Add-on": "₺299,99",
-      "Bosses & Monsters Add-on": "₺349,99"
+      "Bosses & Monsters Add-on": "₺349,99",
+      "Lonely Mountain Add-on": "₺299,99",
+      "Biomes Add-on (Special Price)": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747713819551,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Grottoes Add-on": "₺39,99",
+            "Wonderwood Add-on": "₺399,99",
+            "Heroes Add-on": "₺179,99",
+            "Temples of 4 Elements Add-on": "₺179,99",
+            "Abandoned Mines Add-on": "₺39,99",
+            "Invasion Add-on": "₺229,99",
+            "Heart of Evil Add-on": "₺299,99",
+            "Bosses & Monsters Add-on": "₺349,99",
+            "Lonely Mountain Add-on": "₺299,99",
+            "Biomes Add-on (Special Price)": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
@@ -17616,6 +17660,25 @@
       "Hero Trabuco": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747713819551,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Hero Mark X": "₺299,99",
+            "Special Pack 2": "₺179,99",
+            "Hero Blue Dragon": "₺299,99",
+            "Special Pack 4": "₺699,99",
+            "Special Pack 3": "₺229,99",
+            "Hero Fate": "₺129,99",
+            "Hero Ajax": "₺129,99",
+            "Starter Pack": "₺229,99",
+            "Special Pack 5": "₺229,99",
+            "Special Pack 1": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747119752565,
@@ -31956,6 +32019,25 @@
     "history": [
       [
         {
+          "timestamp": 1747713819551,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "Orient Express": "₺129,99",
+            "New York 2121 Board": "₺249,99",
+            "The Complete Collection": "₺1.499,99",
+            "Lava Dice": "₺229,99",
+            "The Sports Car": "₺129,99",
+            "Victorian London Board": "₺249,99",
+            "Golden Dice": "₺229,99",
+            "Welcome Offer": "₺899,99",
+            "Transylvania Board": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747605729205,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -40955,6 +41037,25 @@
       "All Heroes": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747713819551,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "₺349,99",
+            "Sylvara": "₺299,99",
+            "Hero Lumenir": "₺299,99",
+            "Kosmyr": "₺299,99",
+            "Twilight Longbows": "₺229,99",
+            "Dune Sentinels": "₺129,99",
+            "Necromancer": "₺229,99",
+            "Bonehart": "₺299,99",
+            "Handful of Gems": "₺129,99",
+            "All towers": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747627613721,
