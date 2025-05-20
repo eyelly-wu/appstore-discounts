@@ -24928,14 +24928,22 @@
   "1141282192": {
     "name": "Advanced Comprehension Therapy",
     "maxPriceInfo": {
-      "price": 690,
-      "formattedPrice": "$690.00"
+      "price": 790,
+      "formattedPrice": "$790.00"
     },
     "minPriceInfo": {
       "price": 690,
       "formattedPrice": "$690.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747749745453,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746291721309,
@@ -35281,6 +35289,19 @@
     "history": [
       [
         {
+          "timestamp": 1747749745453,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Bad Seed": "$120.00",
+            "Fatal Falls": "$120.00",
+            "The Queen and the Sea": "$120.00",
+            "Return to Castlevania": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740409355289,
           "price": 290,
           "formattedPrice": "$290.00",
@@ -40651,6 +40672,14 @@
     "history": [
       [
         {
+          "timestamp": 1747749745453,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746946931967,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -44685,10 +44714,18 @@
       "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747749745453,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745406133842,
@@ -45586,6 +45623,14 @@
     "history": [
       [
         {
+          "timestamp": 1747749745453,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746626555033,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -45613,6 +45658,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747749745453,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747663347447,
@@ -48491,6 +48544,25 @@
     "history": [
       [
         {
+          "timestamp": 1747749745453,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "Content Bundle 1": "$320.00",
+            "Getaway Car Pack": "$90.00",
+            "Content Bundle 2": "$290.00",
+            "Modified Monsters Car Pack": "$90.00",
+            "Racing Heroes Car Pack": "$90.00",
+            "Off-Road Car Pack": "$90.00",
+            "Reckless Car Pack": "$90.00",
+            "Steel & Wheels Pack": "$60.00",
+            "Goofy Roofs Pack": "$30.00",
+            "American All-Stars Car Pack": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747062149443,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -50068,6 +50140,16 @@
     "history": [
       [
         {
+          "timestamp": 1747749745453,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746540140866,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -51264,10 +51346,18 @@
       "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747749745453,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730732543145,
@@ -65867,10 +65957,18 @@
       "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
-      "price": 290,
-      "formattedPrice": "$290.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747749745453,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745626119758,
@@ -66485,10 +66583,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747749745453,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746568929295,
