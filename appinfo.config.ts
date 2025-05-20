@@ -68,6 +68,34 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1439886655,
+    name: {
+      mo: 'Cultist Simulator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1524418421,
+    name: {
+      mo: 'SessionBand Jazz Fusion',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1534488108,
+    name: {
+      mo: 'SessionBand Jazz 4',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1561849298,
+    name: {
+      mo: 'SessionBand Soul Jazz Funk 3',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1261698956,
     name: {
       mo: 'Accurate鋼琴調音器',

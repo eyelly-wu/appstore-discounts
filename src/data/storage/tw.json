@@ -36675,6 +36675,43 @@
       ]
     ]
   },
+  "1439886655": {
+    "name": "Cultist Simulator",
+    "maxPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00",
+      "Forbidden Bundle": "$220.00",
+      "The Dancer": "$60.00",
+      "The Ghoul": "$60.00",
+      "The Priest": "$60.00",
+      "The Exile": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00",
+      "Forbidden Bundle": "$220.00",
+      "The Dancer": "$60.00",
+      "The Ghoul": "$60.00",
+      "The Priest": "$60.00",
+      "The Exile": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747774936582,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Forbidden Bundle": "$220.00",
+            "The Dancer": "$60.00",
+            "The Ghoul": "$60.00",
+            "The Priest": "$60.00",
+            "The Exile": "$150.00"
+          }
+        }
+      ]
+    ]
+  },
   "1439889483": {
     "name": "Construction Simulator 3",
     "maxPriceInfo": {
@@ -45051,6 +45088,27 @@
       ]
     ]
   },
+  "1524418421": {
+    "name": "SessionBand Jazz Fusion",
+    "maxPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "minPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747774936582,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1527841661": {
     "name": "沙盒星球",
     "maxPriceInfo": {
@@ -45586,6 +45644,27 @@
       [
         {
           "timestamp": 1745568184983,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1534488108": {
+    "name": "SessionBand Jazz 4",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747774936582,
           "price": 150,
           "formattedPrice": "$150.00",
           "inAppPurchases": {}
@@ -46934,6 +47013,27 @@
           "timestamp": 1745503347397,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1561849298": {
+    "name": "SessionBand Soul Jazz Funk 3",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747774936582,
+          "price": 150,
+          "formattedPrice": "$150.00",
           "inAppPurchases": {}
         }
       ]
