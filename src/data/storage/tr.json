@@ -1274,6 +1274,25 @@
     "history": [
       [
         {
+          "timestamp": 1747704603752,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Coyoacán HipstaPak": "₺99,99",
+            "Ohara HipstaPak": "₺99,99",
+            "RetroPak 2022": "₺299,99",
+            "RetroPak 2023": "₺449,99",
+            "RetroPak Twenty-One": "₺229,99",
+            "Highland Park HipstaPak": "₺39,99",
+            "Pilsen HipstaPak": "₺39,99",
+            "Tiong Bahru HipstaPak": "₺39,99",
+            "Impressionist SnapPak": "₺39,99",
+            "Fitzroy HipstaPak": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747103489402,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -3723,7 +3742,13 @@
       "Brazil Bass": "₺99,99",
       "Essential Strings": "₺99,99",
       "PsyTrance": "₺129,99",
-      "Chill-Lo-Fi Mobile": "₺99,99"
+      "Chill-Lo-Fi Mobile": "₺99,99",
+      "Ferrous Mobile": "₺129,99",
+      "Hyper-Pop Mobile": "₺129,99",
+      "Chip-Tune Mobile": "₺129,99",
+      "Essential Winds": "₺99,99",
+      "DubTechno": "₺99,99",
+      "Technocraft": "₺99,99"
     },
     "minPriceInfo": {
       "price": 399.99,
@@ -3741,9 +3766,34 @@
       "Brazil Bass": "₺99,99",
       "Essential Strings": "₺99,99",
       "PsyTrance": "₺129,99",
-      "Chill-Lo-Fi Mobile": "₺99,99"
+      "Chill-Lo-Fi Mobile": "₺99,99",
+      "Ferrous Mobile": "₺129,99",
+      "Hyper-Pop Mobile": "₺129,99",
+      "Chip-Tune Mobile": "₺129,99",
+      "Essential Winds": "₺99,99",
+      "DubTechno": "₺99,99",
+      "Technocraft": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747704603752,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Ferrous Mobile": "₺129,99",
+            "Hyper-Pop Mobile": "₺129,99",
+            "Chip-Tune Mobile": "₺129,99",
+            "Essential Winds": "₺99,99",
+            "Essential Strings": "₺99,99",
+            "DubTechno": "₺99,99",
+            "Chill-Lo-Fi Mobile": "₺99,99",
+            "Technocraft": "₺99,99",
+            "Brazil Bass": "₺99,99",
+            "PsyTrance": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747022668235,
@@ -13203,6 +13253,21 @@
       "Select Pack": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747704603752,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Deluxe Pack": "₺799,99",
+            "Select Pack": "₺599,99",
+            "Elite Package": "₺449,99",
+            "Supreme Package": "₺229,99",
+            "Advanced Package": "₺129,99",
+            "Starter Package": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746576553910,
@@ -30077,6 +30142,25 @@
       "Black Friday Inferno": "₺899,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747704603752,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "₺899,99",
+            "Dynasty Pet": "₺699,99",
+            "Ultimate Amulet": "₺249,99",
+            "Ultimate Ring": "₺249,99",
+            "Ultimate Pet": "₺249,99",
+            "Ultimate Ancient": "₺599,99",
+            "Royal Rune": "₺129,99",
+            "Norths Warden Pet Pack": "₺699,99",
+            "Norths Warden Set": "₺899,99",
+            "Black Friday Combo Items": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745420552468,
