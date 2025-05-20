@@ -782,7 +782,8 @@
       "VU Meter": "HK$ 22.00",
       "SPL Traffic Light": "HK$ 88.00",
       "Impedance Module": "HK$ 228.00",
-      "Gated Noise RT60": "HK$ 288.00"
+      "Gated Noise RT60": "HK$ 288.00",
+      "Transmission Loss": "HK$ 368.00"
     },
     "minPriceInfo": {
       "price": 148,
@@ -797,9 +798,29 @@
       "VU Meter": "HK$ 22.00",
       "SPL Traffic Light": "HK$ 88.00",
       "Impedance Module": "HK$ 228.00",
-      "Gated Noise RT60": "HK$ 288.00"
+      "Gated Noise RT60": "HK$ 288.00",
+      "Transmission Loss": "HK$ 368.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747778541220,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "HK$ 58.00",
+            "Transmission Loss": "HK$ 368.00",
+            "ETC Module": "HK$ 48.00",
+            "SPL Graph Module": "HK$ 88.00",
+            "Polarity Test Module": "HK$ 32.00",
+            "SoundScope VR": "HK$ 188.00",
+            "IR Module": "HK$ 388.00",
+            "Gated Noise RT60": "HK$ 288.00",
+            "Speaker Distortion": "HK$ 48.00",
+            "VU Meter": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747314586633,

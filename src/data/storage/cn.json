@@ -3367,7 +3367,10 @@
       "Predictive Report - No Background": "¥22.00",
       "Birth Chart Report - Untimed": "¥22.00",
       "Birthday Report": "¥28.00",
-      "Lunar Return Report": "¥28.00"
+      "Lunar Return Report": "¥28.00",
+      "Child Report - Untimed": "¥22.00",
+      "My Pet Report": "¥15.00",
+      "Predictive Report - Untimed": "¥22.00"
     },
     "minPriceInfo": {
       "price": 298,
@@ -3382,9 +3385,31 @@
       "Predictive Report - No Background": "¥22.00",
       "Birth Chart Report - Untimed": "¥22.00",
       "Birthday Report": "¥28.00",
-      "Lunar Return Report": "¥28.00"
+      "Lunar Return Report": "¥28.00",
+      "Child Report - Untimed": "¥22.00",
+      "My Pet Report": "¥15.00",
+      "Predictive Report - Untimed": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747778541220,
+          "price": 298,
+          "formattedPrice": "¥298.00",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "¥28.00",
+            "Birth Chart Report - Untimed": "¥22.00",
+            "Birthday Report": "¥28.00",
+            "Child Report - Full": "¥28.00",
+            "Child Report - Untimed": "¥22.00",
+            "My Pet Report": "¥15.00",
+            "Predictive Report - Full": "¥28.00",
+            "Predictive Report - No Background": "¥22.00",
+            "Predictive Report - Untimed": "¥22.00",
+            "Relationship Report": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746658943078,
@@ -47548,6 +47573,25 @@
       "道法自然": "¥14.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747778541220,
+          "price": 45,
+          "formattedPrice": "¥45.00",
+          "inAppPurchases": {
+            "自创武将": "¥24.00",
+            "战国七雄": "¥28.00",
+            "群雄争霸": "¥14.00",
+            "自创武将朝代特色兵种补丁": "¥28.00",
+            "楚汉争霸": "¥28.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥14.00",
+            "虎啸凤鸣": "¥14.00",
+            "镇海神威": "¥14.00",
+            "重振汉室": "¥14.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747704603752,
