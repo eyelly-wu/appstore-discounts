@@ -3038,6 +3038,17 @@
     "history": [
       [
         {
+          "timestamp": 1747728202060,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "8mm Pro": "USD 39.99",
+            "倒計時主題": "USD 0.00",
+            "默片主題": "USD 0.00",
+            "炫光主題": "USD 0.00"
+          }
+        },
+        {
           "timestamp": 1747724553603,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -18141,6 +18152,23 @@
     "history": [
       [
         {
+          "timestamp": 1747728202060,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "支線第一章": "USD 3.99",
+            "白金方案（每月續訂）": "USD 4.49",
+            "擴充章節 U": "USD 3.99",
+            "白金方案（每三個月續訂）": "USD 12.49",
+            "擴充章節D": "USD 3.99",
+            "擴充章節B": "USD 3.99",
+            "擴充章節C": "USD 3.99",
+            "支線第二章": "USD 3.99",
+            "擴充章節 J": "USD 3.99",
+            "擴充章節H": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1747724553603,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -23071,6 +23099,27 @@
       ]
     ]
   },
+  "1261698956": {
+    "name": "Accurate鋼琴調音器",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747728202060,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1261834568": {
     "name": "Shadow Fight 2 Special Edition",
     "maxPriceInfo": {
@@ -24866,6 +24915,25 @@
       "Blend": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747728202060,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Rate": "USD 0.00",
+            "Info": "USD 0.00",
+            "Tuner": "USD 0.00",
+            "Chromakey": "USD 0.00",
+            "Unlock All": "USD 7.99",
+            "Paint": "USD 0.00",
+            "Erase": "USD 0.99",
+            "Blend": "USD 0.99",
+            "Distortion": "USD 0.00",
+            "Magnifier": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746938042326,
