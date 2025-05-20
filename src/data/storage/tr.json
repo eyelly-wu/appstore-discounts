@@ -20804,14 +20804,22 @@
   "1141282192": {
     "name": "Advanced Comprehension Therapy",
     "maxPriceInfo": {
-      "price": 899.99,
-      "formattedPrice": "₺899,99"
+      "price": 999.99,
+      "formattedPrice": "₺999,99"
     },
     "minPriceInfo": {
       "price": 899.99,
       "formattedPrice": "₺899,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747782130934,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746291721309,
@@ -27408,6 +27416,19 @@
     "history": [
       [
         {
+          "timestamp": 1747782130934,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "The Bad Seed": "₺179,99",
+            "Fatal Falls": "₺179,99",
+            "QUEEN AND THE SEA  DLC": "₺179,99",
+            "Return to Castlevania": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740442101734,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -30521,6 +30542,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747782130934,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746946931967,
@@ -35824,6 +35853,14 @@
     "history": [
       [
         {
+          "timestamp": 1747782130934,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746658943078,
           "price": 11.99,
           "formattedPrice": "₺11,99",
@@ -35851,6 +35888,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747782130934,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747695738028,
@@ -38870,6 +38915,25 @@
     "history": [
       [
         {
+          "timestamp": 1747782130934,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {
+            "Getaway Car Pack": "₺129,99",
+            "Racing Heroes Car Pack": "₺129,99",
+            "Content Bundle 1": "₺449,99",
+            "Modified Monsters Car Pack": "₺129,99",
+            "Content Bundle 2": "₺349,99",
+            "Steel & Wheels Pack": "₺99,99",
+            "Off-Road Car Pack": "₺129,99",
+            "American All-Stars Car Pack": "₺129,99",
+            "Rusty Rats Car Pack": "₺129,99",
+            "Goofy Roofs Pack": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746658943078,
           "price": 29.99,
           "formattedPrice": "₺29,99",
@@ -40053,6 +40117,16 @@
     "history": [
       [
         {
+          "timestamp": 1747782130934,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746572538107,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -41001,10 +41075,18 @@
       "formattedPrice": "₺349,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747782130934,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -50084,10 +50166,18 @@
       "formattedPrice": "₺349,99"
     },
     "minPriceInfo": {
-      "price": 349.99,
-      "formattedPrice": "₺349,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747782130934,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745626119758,
