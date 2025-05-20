@@ -15129,6 +15129,23 @@
     "history": [
       [
         {
+          "timestamp": 1747711214235,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "700 Aces": "$9.99",
+            "Race Pass": "$4.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "15000 Aces": "$99.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Racing Prodigy Small Tyre Pack": "$2.99"
+          }
+        },
+        {
           "timestamp": 1747708308516,
           "price": 0,
           "formattedPrice": "Free",
@@ -46202,6 +46219,14 @@
     "history": [
       [
         {
+          "timestamp": 1747711214235,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745119034055,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -66467,8 +66492,8 @@
       "Pre registration bundle": "$5.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 0.99,
+      "formattedPrice": "$0.99",
       "Huge Investment": "$4.99",
       "Bundle": "$9.99",
       "Very Large Investment": "$2.99",
@@ -66480,6 +66505,24 @@
       "Pre registration bundle": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747711214235,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Huge Investment": "$4.99",
+            "Bundle": "$9.99",
+            "Very Large Investment": "$2.99",
+            "Premium livery bundle": "$5.99",
+            "Investment": "$1.99",
+            "Game Editor": "$5.99",
+            "Chairman's Payment": "$5.99",
+            "Large Investment": "$2.99",
+            "Pre registration bundle": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746641007488,
