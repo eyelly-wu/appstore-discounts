@@ -25092,14 +25092,22 @@
   "1141282192": {
     "name": "Advanced Comprehension Therapy",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "$19.99"
+      "price": 24.99,
+      "formattedPrice": "$24.99"
     },
     "minPriceInfo": {
       "price": 19.99,
       "formattedPrice": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747797598592,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746291721309,
@@ -36055,6 +36063,19 @@
     "history": [
       [
         {
+          "timestamp": 1747797598592,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "The Bad Seed": "$3.99",
+            "Fatal Falls": "$3.99",
+            "The Queen and the Sea": "$3.99",
+            "Return to Castlevania": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740456151216,
           "price": 8.99,
           "formattedPrice": "$8.99",
@@ -41751,6 +41772,14 @@
     "history": [
       [
         {
+          "timestamp": 1747797598592,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746946931967,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -46695,6 +46724,14 @@
     "history": [
       [
         {
+          "timestamp": 1747797598592,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746674405575,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -46722,6 +46759,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747797598592,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747711214235,
@@ -49849,6 +49894,25 @@
     "history": [
       [
         {
+          "timestamp": 1747797598592,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$9.99",
+            "Content Bundle 2": "$7.99",
+            "Getaway Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "Rusty Rats Car Pack": "$2.99",
+            "Banger Racing Car Pack": "$2.99",
+            "American All-Stars Car Pack": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746864146045,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -51704,6 +51768,16 @@
     "history": [
       [
         {
+          "timestamp": 1747797598592,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746587952230,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -52879,10 +52953,18 @@
       "formattedPrice": "$8.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747797598592,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1741835457021,
@@ -66821,10 +66903,18 @@
       "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "$7.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747797598592,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745626119758,
