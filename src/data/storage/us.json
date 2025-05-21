@@ -20026,14 +20026,22 @@
   "954982733": {
     "name": "Tuner T1 Pro",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747846942060,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745517753203,
@@ -43698,6 +43706,22 @@
       "The Rainbow Bundle": "$11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747846942060,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Enchanted Forest Marine Bundle": "$11.99",
+            "LA Monstropolis Marine Bundle": "$11.99",
+            "The Rainbow Bundle": "$11.99",
+            "Victorian London Marine Bundle": "$11.99",
+            "The Slam Dunk Bundle": "$4.99",
+            "Blazin' Blue the Monster Truck": "$9.99",
+            "Transylvania Marine Bundle": "$11.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747429321187,

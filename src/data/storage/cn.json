@@ -13446,14 +13446,22 @@
   "954982733": {
     "name": "Tuner T1 Pro",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747846942060,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745517753203,

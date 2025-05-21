@@ -16042,14 +16042,22 @@
   "954982733": {
     "name": "Tuner T1 Pro",
     "maxPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747846942060,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745517753203,
