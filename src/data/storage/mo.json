@@ -51085,13 +51085,25 @@
       "买断制VIP": "USD 9.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "月度VIP": "USD 0.99",
       "1年VIP": "USD 1.99",
       "买断制VIP": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747794703804,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "买断制VIP": "USD 9.99",
+            "月度VIP": "USD 0.99",
+            "1年VIP": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746817328410,

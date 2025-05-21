@@ -50355,13 +50355,25 @@
       "买断制VIP": "₺449,99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "月度VIP": "₺39,99",
       "1年VIP": "₺99,99",
       "买断制VIP": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747794703804,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "买断制VIP": "₺449,99",
+            "月度VIP": "₺39,99",
+            "1年VIP": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746817328410,
