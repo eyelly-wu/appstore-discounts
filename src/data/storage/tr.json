@@ -6564,6 +6564,23 @@
     "history": [
       [
         {
+          "timestamp": 1747829032990,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Richman 4 Fun Paid FI Package": "₺39,99",
+            "Richman4 Paid AC Package": "₺39,99",
+            "Richman4 Paid Monster Package": "₺39,99",
+            "Richman 4 Fun  PARIS & LONDON": "₺39,99",
+            "Richman 4 fun Paradise & Dinosaur Island": "₺39,99",
+            "300,000 Yuanbao": "₺99,99",
+            "「Japan & Hong Kong Package」": "₺39,99",
+            "Ruins Explorer Package": "₺39,99",
+            "Empire of Angels Package": "₺39,99",
+            "Richman 4 Fun Undersea package": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1747825337264,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -35228,6 +35245,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747829032990,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1747821754735,
           "price": 0,
