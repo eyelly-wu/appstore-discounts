@@ -205,7 +205,7 @@ So far, we've covered `6` `Countries or Regions` and  `1070` `Apps` <br />Push n
 |937|792638268|Automatic|❌|合戰忍者村物語|合戰忍者村物語|合戰忍者村物語|Ninja Village|Ninja Village|
 |936|1095883970|Automatic|芳香乐活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|
 |935|1232791258|Automatic|❌|Battleheart 2|Battleheart 2|Battleheart 2|Battleheart 2|Battleheart 2|
-|934|1600925588|Automatic|GR Linker - Image Sync 理光相机|GR Linker - Image Sync 理光相機|GR Linker - Image Sync 理光相機|GR Linker - Image Sync 理光相機|GR Linker - Image Sync|GR Linker - Image Sync|
+|934|1600925588|Automatic|GR Linker - Image Sync 理光相机|GR Linker - 理光相機傳圖 Image Sync|GR Linker - 理光相機傳圖 Image Sync|GR Linker - 理光相機傳圖 Image Sync|GR Linker - Image Sync|GR Linker - Image Sync|
 |933|6474479684|Automatic|Spark - Ren'Py 小说们|Spark - Ren'Py 小說們|Spark - Ren'Py 小說們|Spark - Ren'Py 小說們|Spark - Ren'Py Novels|Spark - Ren'Py Novels|
 |932|6466296603|Automatic|❌|The Last Game|The Last Game|The Last Game|The Last Game|The Last Game|
 |931|6670402289|Automatic|❌|Looking for Aliens|Looking for Aliens|Looking for Aliens|Looking for Aliens|Looking for Aliens|

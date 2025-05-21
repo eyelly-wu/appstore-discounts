@@ -36407,10 +36407,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747821754735,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747749745453,
@@ -41500,7 +41508,7 @@
     ]
   },
   "1600925588": {
-    "name": "GR Linker - Image Sync 理光相機",
+    "name": "GR Linker - 理光相機傳圖 Image Sync",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99"

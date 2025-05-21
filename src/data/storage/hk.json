@@ -46044,6 +46044,22 @@
     "history": [
       [
         {
+          "timestamp": 1747821754735,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "The Ultimate Life Collection": "HK$ 148.00",
+            "Fairytale Kingdom Bundle": "HK$ 58.00",
+            "Fairytale Kingdom": "HK$ 38.00",
+            "Haunted Hills Bundle": "HK$ 58.00",
+            "Lunar Age Bundle": "HK$ 58.00",
+            "Lunar Age World": "HK$ 38.00",
+            "Frozen Lands": "HK$ 38.00",
+            "Haunted Hills World": "HK$ 38.00",
+            "Frozen Lands Bundle": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1747818151241,
           "price": 28,
           "formattedPrice": "HK$ 28.00",
@@ -46427,10 +46443,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747821754735,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747749745453,
@@ -51946,7 +51970,7 @@
     ]
   },
   "1600925588": {
-    "name": "GR Linker - Image Sync 理光相機",
+    "name": "GR Linker - 理光相機傳圖 Image Sync",
     "maxPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00"
