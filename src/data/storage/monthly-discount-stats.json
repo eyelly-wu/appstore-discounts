@@ -323,9 +323,11 @@
       "inAppPurchase": {}
     },
     "6449251957": {
-      "all": 1,
+      "all": 2,
       "price": 1,
-      "inAppPurchase": {}
+      "inAppPurchase": {
+        "Bundle": 1
+      }
     },
     "6458144503": {
       "all": 1,
