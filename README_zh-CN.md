@@ -208,7 +208,7 @@
 |937|792638268|自动|❌|合戰忍者村物語|合戰忍者村物語|合戰忍者村物語|Ninja Village|Ninja Village|
 |936|1095883970|自动|芳香乐活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|
 |935|1232791258|自动|❌|Battleheart 2|Battleheart 2|Battleheart 2|Battleheart 2|Battleheart 2|
-|934|1600925588|自动|GR Linker - Image Sync 理光相机|GR Linker - 理光相機傳圖 Image Sync|GR Linker - 理光相機傳圖 Image Sync|GR Linker - 理光相機傳圖 Image Sync|GR Linker - Image Sync|GR Linker - Image Sync|
+|934|1600925588|自动|GR Linker - 理光相机传图 Image Sync|GR Linker - 理光相機傳圖 Image Sync|GR Linker - 理光相機傳圖 Image Sync|GR Linker - 理光相機傳圖 Image Sync|GR Linker - Image Sync|GR Linker - Image Sync|
 |933|6474479684|自动|Spark - Ren'Py 小说们|Spark - Ren'Py 小說們|Spark - Ren'Py 小說們|Spark - Ren'Py 小說們|Spark - Ren'Py Novels|Spark - Ren'Py Novels|
 |932|6466296603|自动|❌|The Last Game|The Last Game|The Last Game|The Last Game|The Last Game|
 |931|6670402289|自动|❌|Looking for Aliens|Looking for Aliens|Looking for Aliens|Looking for Aliens|Looking for Aliens|
