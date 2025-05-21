@@ -1177,6 +1177,23 @@
     "history": [
       [
         {
+          "timestamp": 1747836160946,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "USD 0.99",
+            "Portland HipstaPak": "USD 0.99",
+            "Mission Hipstapak": "USD 0.99",
+            "Shibuya HipstaPak": "USD 0.99",
+            "Camden HipstaPak": "USD 0.99",
+            "Soho HipstaPak": "USD 0.99",
+            "Foodie SnapPak": "USD 0.99",
+            "Bondi HipstaPak": "USD 0.99",
+            "Multi-Exposure Kit": "USD 0.99",
+            "America HipstaPak": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1747833069374,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -24002,10 +24019,18 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -27660,10 +27685,18 @@
       "formattedPrice": "USD 6.29"
     },
     "minPriceInfo": {
-      "price": 6.29,
-      "formattedPrice": "USD 6.29"
+      "price": 1.39,
+      "formattedPrice": "USD 1.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 1.39,
+          "formattedPrice": "USD 1.39",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
@@ -33785,10 +33818,18 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -34549,10 +34590,18 @@
       "formattedPrice": "USD 6.29"
     },
     "minPriceInfo": {
-      "price": 6.29,
-      "formattedPrice": "USD 6.29"
+      "price": 0.9,
+      "formattedPrice": "USD 0.90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 0.9,
+          "formattedPrice": "USD 0.90",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -44276,6 +44325,17 @@
       "Hello World!": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "甜蜜之家": "USD 0.99",
+            "Hello World!": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745935349811,

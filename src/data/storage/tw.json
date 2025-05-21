@@ -15061,6 +15061,23 @@
     "history": [
       [
         {
+          "timestamp": 1747836160946,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Race Pass": "$160.00",
+            "700 Aces": "$320.00",
+            "300 Aces": "$190.00",
+            "5000 Aces": "$1,290.00",
+            "15000 Aces": "$2,990.00",
+            "700 Aces Limited Time Offer": "$150.00",
+            "10 Pack Qualifying Tyres": "$30.00",
+            "RP Value Tyre Pack - Mediums": "$150.00",
+            "Racing Prodigy X30 La Conca L4": "$490.00",
+            "Racing Prodigy X30 Atlanta": "$490.00"
+          }
+        },
+        {
           "timestamp": 1747833069374,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -28807,10 +28824,18 @@
       "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -36078,10 +36103,18 @@
       "formattedPrice": "$220.00"
     },
     "minPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
@@ -42209,10 +42242,18 @@
       "formattedPrice": "$100.00"
     },
     "minPriceInfo": {
-      "price": 100,
-      "formattedPrice": "$100.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -42971,10 +43012,18 @@
       "formattedPrice": "$220.00"
     },
     "minPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -54090,6 +54139,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745935349811,

@@ -5605,7 +5605,17 @@
       "Minecraft Store Item 4": "₺179,99",
       "Minecraft Store Item 10": "₺449,99",
       "Minecraft Store Item 1": "₺39,99",
-      "Minecraft Store Item 5": "₺229,99"
+      "Minecraft Store Item 5": "₺229,99",
+      "Vehicles pack": "₺449,99",
+      "Tools Pack": "₺249,99",
+      "Scary Pack": "₺449,99",
+      "Weapon Pack": "₺249,99",
+      "Minecraft Pets Pack": "₺449,99",
+      "Minecraft Morph Pack": "₺249,99",
+      "Marketplace Pass Full": "₺129,99",
+      "Marketplace Pass Trial": "₺129,99",
+      "The Incredibles": "₺349,99",
+      "Marketplace Pass w/trial": "₺99,99"
     },
     "minPriceInfo": {
       "price": 299.99,
@@ -5619,9 +5629,38 @@
       "Minecraft Store Item 4": "₺179,99",
       "Minecraft Store Item 10": "₺449,99",
       "Minecraft Store Item 1": "₺39,99",
-      "Minecraft Store Item 5": "₺229,99"
+      "Minecraft Store Item 5": "₺229,99",
+      "Vehicles pack": "₺449,99",
+      "Tools Pack": "₺249,99",
+      "Scary Pack": "₺449,99",
+      "Weapon Pack": "₺249,99",
+      "Minecraft Pets Pack": "₺449,99",
+      "Minecraft Morph Pack": "₺249,99",
+      "Marketplace Pass Full": "₺129,99",
+      "Marketplace Pass Trial": "₺129,99",
+      "The Incredibles": "₺349,99",
+      "Marketplace Pass w/trial": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Vehicles pack": "₺449,99",
+            "Tools Pack": "₺249,99",
+            "Scary Pack": "₺449,99",
+            "Weapon Pack": "₺249,99",
+            "Minecraft Pets Pack": "₺449,99",
+            "Minecraft Morph Pack": "₺249,99",
+            "Marketplace Pass Full": "₺129,99",
+            "Marketplace Pass Trial": "₺129,99",
+            "The Incredibles": "₺349,99",
+            "Marketplace Pass w/trial": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -8289,6 +8328,25 @@
     "history": [
       [
         {
+          "timestamp": 1747836160946,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "₺39,99",
+            "SLS 2022: Jacksonville": "₺39,99",
+            "SLS 2021: World Championship": "₺39,99",
+            "SLS 2019: Sao Paulo": "₺39,99",
+            "SLS 2019: London": "₺39,99",
+            "Sandbox 1 Year": "₺439,99",
+            "Sandbox 3 Months": "₺174,99",
+            "Sandbox Monthly": "₺87,99",
+            "SLS 2018: World Championship": "₺39,99",
+            "Mountain of Bolts": "₺4.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745794940542,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -10680,6 +10738,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747836160946,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Mix It Up": "₺0,00",
+            "Just For Kids": "₺0,00",
+            "The Ellen Show": "₺0,00",
+            "Friends": "₺129,99",
+            "Super Heroes": "₺99,99",
+            "Build Your Own Deck": "₺129,99",
+            "Wish You Were Here": "₺99,99",
+            "Happy Holidays": "₺99,99",
+            "Adult Supervision": "₺99,99",
+            "As Seen On TV": "₺99,99"
+          }
+        },
         {
           "timestamp": 1747833069374,
           "price": 99.99,
@@ -28521,6 +28596,25 @@
       "The Black Caves Expansion": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747836160946,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "The Genie's Curse": "₺39,99",
+            "The Plague": "₺39,99",
+            "The Great Droughts": "₺39,99",
+            "Before The Storm": "₺39,99",
+            "Orbital Uplink": "₺39,99",
+            "The Airlift": "₺39,99",
+            "Devil's Peak": "₺99,99",
+            "Defence Minister": "₺39,99",
+            "Military Recruiter": "₺39,99",
+            "Drone Programmer": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746936224523,
