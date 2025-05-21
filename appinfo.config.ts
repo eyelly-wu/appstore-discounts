@@ -5525,6 +5525,7 @@ export const appConfig: AppConfig[] = [
       tr: 'Kingdom Rush 5: Alliance TD',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1624326561,
