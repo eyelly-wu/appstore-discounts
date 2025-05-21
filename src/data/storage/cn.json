@@ -44122,14 +44122,22 @@
   "6742396803": {
     "name": "DaDaDaDa - 空气枪",
     "maxPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00"
+      "price": 6,
+      "formattedPrice": "¥6.00"
     },
     "minPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747791001059,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
