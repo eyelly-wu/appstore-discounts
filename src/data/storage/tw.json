@@ -15024,7 +15024,14 @@
       "300 Aces Limited Time Offer": "$30.00",
       "1000 Aces Limited Time Offer": "$320.00",
       "1500 Aces Limited Time Offer": "$320.00",
-      "5000 Aces Limited Time Offer": "$990.00"
+      "5000 Aces Limited Time Offer": "$990.00",
+      "Racing Prodigy X30 Kart Dubai": "$490.00",
+      "Racing Prodigy X30 B. Vegas": "$490.00",
+      "Racing Prodigy 50 Quali Tyres": "$150.00",
+      "Figo 100 Octane Fuel Pack - 20": "$120.00",
+      "Le Cont Hards - 40 Tyre Pack": "$120.00",
+      "Le Cont Mediums - 40 Tyre Pack": "$120.00",
+      "Le Cont Softs - 40 Tyres Pack": "$120.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -15042,9 +15049,35 @@
       "300 Aces Limited Time Offer": "$30.00",
       "1000 Aces Limited Time Offer": "$320.00",
       "1500 Aces Limited Time Offer": "$320.00",
-      "5000 Aces Limited Time Offer": "$990.00"
+      "5000 Aces Limited Time Offer": "$990.00",
+      "Racing Prodigy X30 Kart Dubai": "$490.00",
+      "Racing Prodigy X30 B. Vegas": "$490.00",
+      "Racing Prodigy 50 Quali Tyres": "$150.00",
+      "Figo 100 Octane Fuel Pack - 20": "$120.00",
+      "Le Cont Hards - 40 Tyre Pack": "$120.00",
+      "Le Cont Mediums - 40 Tyre Pack": "$120.00",
+      "Le Cont Softs - 40 Tyres Pack": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747833069374,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "$490.00",
+            "Racing Prodigy X30 Atlanta": "$490.00",
+            "Racing Prodigy X30 Kart Dubai": "$490.00",
+            "Racing Prodigy X30 B. Vegas": "$490.00",
+            "Racing Prodigy 50 Quali Tyres": "$150.00",
+            "10 Pack Qualifying Tyres": "$30.00",
+            "Figo 100 Octane Fuel Pack - 20": "$120.00",
+            "Le Cont Hards - 40 Tyre Pack": "$120.00",
+            "Le Cont Mediums - 40 Tyre Pack": "$120.00",
+            "Le Cont Softs - 40 Tyres Pack": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746259353480,
@@ -64404,6 +64437,25 @@
       "Boeing 737-900": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747833069374,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "The Aircraft Bundle": "$590.00",
+            "Boeing 777-300ER": "$60.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 787-10": "$60.00",
+            "Airbus A321": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Concorde": "$60.00",
+            "Airbus A380": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747541165364,
