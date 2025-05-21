@@ -24422,10 +24422,18 @@
       "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
-      "price": 179.99,
-      "formattedPrice": "₺179,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747868546173,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -28220,10 +28228,18 @@
       "formattedPrice": "₺54,99"
     },
     "minPriceInfo": {
-      "price": 54.99,
-      "formattedPrice": "₺54,99"
+      "price": 11.99,
+      "formattedPrice": "₺11,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747868546173,
+          "price": 11.99,
+          "formattedPrice": "₺11,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
@@ -33832,10 +33848,18 @@
       "formattedPrice": "₺54,99"
     },
     "minPriceInfo": {
-      "price": 54.99,
-      "formattedPrice": "₺54,99"
+      "price": 5,
+      "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747868546173,
+          "price": 5,
+          "formattedPrice": "₺5,00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -43339,6 +43363,17 @@
       "Home Sweet Home": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747868546173,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745967728488,
