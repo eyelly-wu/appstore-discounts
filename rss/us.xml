@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-21T03:40:07.382Z</updated>
+    <updated>2025-05-21T05:22:06.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-21T03:40:07.383Z</updated>
+        <updated>2025-05-21T05:22:06.313Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 21 May 2025 03:40:07 GMT</id>
+        <id>rankingusWed, 21 May 2025 05:22:06 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-21T03:40:07.384Z</updated>
+        <updated>2025-05-21T05:22:06.313Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -59,7 +59,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>869</b>
       </td>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
     </tr>
     <tr>
@@ -76,7 +76,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>796</b>
       </td>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
     </tr>
   </tbody>
@@ -368,14 +368,20 @@ feedId:49753370488353792+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1449020025">不玩手机-自律习惯养成记</a>
+        <a href="https://apps.apple.com/us/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Marketplace Content</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -385,7 +391,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
+        <a href="https://apps.apple.com/us/app/id1449020025">不玩手机-自律习惯养成记</a>
       </td>
       <td>
         <ul>
@@ -402,7 +408,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1497120981">LUCH: Photo Effects & Filters</a>
+        <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
       </td>
       <td>
         <ul>
@@ -419,7 +425,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
+        <a href="https://apps.apple.com/us/app/id1497120981">LUCH: Photo Effects & Filters</a>
       </td>
       <td>
         <ul>
@@ -436,7 +442,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
+        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
       </td>
       <td>
         <ul>
@@ -453,7 +459,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1538124245">where I put it</a>
+        <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
       </td>
       <td>
         <ul>
@@ -470,7 +476,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
+        <a href="https://apps.apple.com/us/app/id1538124245">where I put it</a>
       </td>
       <td>
         <ul>
@@ -487,7 +493,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1620883955">Little Nightmares</a>
+        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -504,7 +510,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
+        <a href="https://apps.apple.com/us/app/id1620883955">Little Nightmares</a>
       </td>
       <td>
         <ul>
@@ -521,7 +527,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
+        <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
       </td>
       <td>
         <ul>
@@ -538,7 +544,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
+        <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
       </td>
       <td>
         <ul>
@@ -555,7 +561,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
+        <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
       </td>
       <td>
         <ul>
@@ -572,7 +578,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6451376191">Dumb Phone: Minimal Launcher</a>
+        <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
       </td>
       <td>
         <ul>
@@ -589,7 +595,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
+        <a href="https://apps.apple.com/us/app/id6451376191">Dumb Phone: Minimal Launcher</a>
       </td>
       <td>
         <ul>
@@ -604,6 +610,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>27</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6469114836">Suika Game-Aladdin X</a>
@@ -628,7 +651,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6505058041">QUAKELINE</a>
@@ -645,7 +668,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -662,7 +685,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6458144503">Skul: The Hero Slayer</a>
@@ -710,16 +733,16 @@ feedId:49753370488353792+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id533055404">Night Stars</a>
+        <a href="https://apps.apple.com/us/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
-      <td>Artificially Added</td>
+      <td>Automatically Added</td>
     </tr>
     <tr>
       <td>
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/us/app/id533055404">Night Stars</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -728,7 +751,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/us/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -737,7 +760,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1527841661">Sandbox Planet</a>
+        <a href="https://apps.apple.com/us/app/id505904421">AirDisk Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -746,7 +769,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id431033044">Phone Drive: File Storage Sync</a>
+        <a href="https://apps.apple.com/us/app/id1527841661">Sandbox Planet</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -755,7 +778,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id456637671">Safety Photo+Video Pro</a>
+        <a href="https://apps.apple.com/us/app/id431033044">Phone Drive: File Storage Sync</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -764,7 +787,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id818394449">Timeline - World history</a>
+        <a href="https://apps.apple.com/us/app/id456637671">Safety Photo+Video Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -773,7 +796,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/us/app/id818394449">Timeline - World history</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -782,12 +805,80 @@ feedId:49753370488353792+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1485101937">Juice Watch</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id488674899">RAIN RADAR °- sky weather NOAA</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
+        <id>Goodnotes 6: AI Notes &amp; Docs-us-1747803747710</id>
+        <link href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4"/>
+        <updated>2025-05-21T05:02:27.710Z</updated>
+        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/aa/7e/c2aa7e1e-dc84-15a4-d2ea-0bbe8f94306f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $10.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. 
+
+Boost Professional Efficiency and Productivity
+• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.
+• Import, annotate, and organize PDFs, documents, and meeting notes.
+• Transcribe audio recordings from meetings so you never miss a detail.
+• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.
+• Export and share notes via email, print, PDF, or images for easy collaboration.
+• Send files directly to your unique Goodnotes email for quick access on all devices.
+• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.
+• Convert handwriting to text for quick and clean professional notes.
+• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.
+
+Powerful Digital Notes and Study Tools
+• Use AI-powered study tools help you learn faster and retain more information.
+• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.
+• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.
+• Convert equations to LaTeX format for easy use in reports and presentations.
+• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.
+• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.
+• Collaborate in real time with classmates by working on the same document for group projects and study sessions
+• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.
+
+Enhance Creative Digital Planning
+• Design fully customizable notebooks, templates, and covers to fit your style.
+• Mix handwriting, text, stickers, images, and drawings in a single notebook.
+• Stay focused with Smart Timer, and boost your productivity.
+• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.
+• Organize your notes with unlimited folders and advanced search.
+• Get exclusive monthly downloads every month with a paid subscription.
+• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.
+
+Experience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.
+
+Website: www.goodnotes.com 
+X: @goodnotesapp 
+Instagram: @goodnotes.app 
+Pinterest: @goodnotesapp 
+TikTok: @goodnotesapp 
+
+Privacy policy: https://www.goodnotes.com/privacy-policy 
+Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Skul: The Hero Slayer]]></title>

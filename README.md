@@ -834,7 +834,7 @@ So far, we've covered `6` `Countries or Regions` and  `1070` `Apps` <br />Push n
 |308|1610947489|Automatic|❌|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|
 |307|1612952507|Automatic|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|
 |306|1614200925|Automatic|部落与弯刀|❌|❌|❌|❌|❌|
-|305|1622869542|Automatic|❌|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|
+|305| ~~1622869542~~ |Automatic| ~~❌~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ |
 |304|1624326561|Automatic|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|
 |303|1631859420|Automatic|❌|After Inc.|After Inc.|After Inc.|After Inc.|After Inc.|
 |302|1631867592|Automatic|❌|珍寶機場物語|珍寶機場物語|珍寶機場物語|Jumbo Airport Story|Jumbo Airport Story|

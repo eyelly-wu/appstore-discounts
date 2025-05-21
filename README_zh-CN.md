@@ -837,7 +837,7 @@
 |308|1610947489|自动|❌|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|Poppy Playtime Chapter 1|
 |307|1612952507|自动|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|AeroPads - Pads & Soundscapes|
 |306|1614200925|自动|部落与弯刀|❌|❌|❌|❌|❌|
-|305|1622869542|自动|❌|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|Kingdom Rush 5: Alliance TD|
+|305| ~~1622869542~~ |自动| ~~❌~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ |
 |304|1624326561|自动|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|
 |303|1631859420|自动|❌|After Inc.|After Inc.|After Inc.|After Inc.|After Inc.|
 |302|1631867592|自动|❌|珍寶機場物語|珍寶機場物語|珍寶機場物語|Jumbo Airport Story|Jumbo Airport Story|
