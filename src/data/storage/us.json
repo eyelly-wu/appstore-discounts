@@ -17778,6 +17778,20 @@
     "history": [
       [
         {
+          "timestamp": 1747947737766,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Extra Large Tokens Pack": "$11.99",
+            "Extra Large Money Pack": "$7.99",
+            "Promo Bundle": "$24.99",
+            "Starter Pack": "$2.99",
+            "Medium Money Pack": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747728202060,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -45997,14 +46011,23 @@
       "Sandy Shores Bundle": "$7.99",
       "Lunar Age World": "$5.99",
       "Sandy Shores": "$5.99",
-      "Lunar Age Bundle": "$7.99"
+      "Lunar Age Bundle": "$7.99",
+      "Mothgirl Outfit": "$0.99",
+      "Tunneler Ship": "$0.99",
+      "Foxman Bike": "$0.99",
+      "Action Car Avatar": "$0.99",
+      "Super Pet Avatar": "$0.99",
+      "Magical Girl Outfit": "$0.99",
+      "Skyscraper Avatar": "$0.99",
+      "Foxman Outfit": "$0.99",
+      "Super Hero World Bundle": "$7.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99",
       "Fairytale Kingdom Bundle": "$7.99",
       "Fairytale Kingdom": "$5.99",
-      "The Ultimate Life Collection": "$34.99",
+      "The Ultimate Life Collection": "$19.99",
       "Haunted Hills Bundle": "$7.99",
       "Haunted Hills World": "$5.99",
       "Frozen Lands Bundle": "$7.99",
@@ -46012,9 +46035,37 @@
       "Sandy Shores Bundle": "$7.99",
       "Lunar Age World": "$5.99",
       "Sandy Shores": "$5.99",
-      "Lunar Age Bundle": "$7.99"
+      "Lunar Age Bundle": "$7.99",
+      "Mothgirl Outfit": "$0.99",
+      "Tunneler Ship": "$0.99",
+      "Foxman Bike": "$0.99",
+      "Action Car Avatar": "$0.99",
+      "Super Pet Avatar": "$0.99",
+      "Magical Girl Outfit": "$0.99",
+      "Skyscraper Avatar": "$0.99",
+      "Foxman Outfit": "$0.99",
+      "Super Hero World Bundle": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747947737766,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "The Ultimate Life Collection": "$19.99",
+            "Mothgirl Outfit": "$0.99",
+            "Tunneler Ship": "$0.99",
+            "Foxman Bike": "$0.99",
+            "Action Car Avatar": "$0.99",
+            "Super Pet Avatar": "$0.99",
+            "Magical Girl Outfit": "$0.99",
+            "Skyscraper Avatar": "$0.99",
+            "Foxman Outfit": "$0.99",
+            "Super Hero World Bundle": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746191337517,
