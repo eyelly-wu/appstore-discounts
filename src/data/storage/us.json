@@ -17778,6 +17778,23 @@
     "history": [
       [
         {
+          "timestamp": 1747951345446,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Starter Pack": "$4.99",
+            "Largo Sniper Rifle": "$0.99",
+            "Aria Sniper Rifle": "$9.99",
+            "Brutus Sniper Rifle": "$5.99",
+            "The Merry Maker Rifle": "$14.99",
+            "Aria Gold Sniper Rifle": "$24.99",
+            "Small Money Pack": "$0.99",
+            "Dragun": "$14.99",
+            "Exorcist": "$14.99",
+            "Extra Large Money Pack": "$9.99"
+          }
+        },
+        {
           "timestamp": 1747947737766,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -41205,7 +41222,9 @@
       "Bronze Decree": "$25.99",
       "60 gems": "$0.99",
       "Role Package": "$2.99",
-      "310 gems": "$4.99"
+      "310 gems": "$4.99",
+      "Gold Decree": "$89.99",
+      "Silver Decree": "$49.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -41220,9 +41239,30 @@
       "Bronze Decree": "$25.99",
       "60 gems": "$0.99",
       "Role Package": "$2.99",
-      "310 gems": "$4.99"
+      "310 gems": "$4.99",
+      "Gold Decree": "$89.99",
+      "Silver Decree": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747951345446,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Role Package": "$2.99",
+            "Teammate Package": "$4.99",
+            "Role Package III": "$9.99",
+            "Resource Package": "$2.99",
+            "Gold Decree": "$89.99",
+            "Heroic Package#3": "$49.99",
+            "Silver Decree": "$49.99",
+            "Heroic Package#1": "$9.99",
+            "Teammate Package#2": "$4.99",
+            "310 gems": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746590581540,
@@ -46048,6 +46088,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747951345446,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Fairytale Kingdom Bundle": "$7.99",
+            "Fairytale Kingdom": "$5.99",
+            "The Ultimate Life Collection": "$34.99",
+            "Haunted Hills Bundle": "$7.99",
+            "Haunted Hills World": "$5.99",
+            "Frozen Lands Bundle": "$7.99",
+            "Frozen Lands": "$5.99",
+            "Lunar Age World": "$5.99",
+            "Sandy Shores Bundle": "$7.99",
+            "Sandy Shores": "$5.99"
+          }
+        },
         {
           "timestamp": 1747947737766,
           "price": 4.99,
