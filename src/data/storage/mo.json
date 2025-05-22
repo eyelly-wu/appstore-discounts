@@ -39284,6 +39284,20 @@
     "history": [
       [
         {
+          "timestamp": 1747926153643,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "USD 3.99",
+            "SkySafari Premium": "USD 29.99",
+            "Apollo Lunar Missions": "USD 0.00",
+            "GAIA Star Database": "USD 0.00",
+            "PGC Galaxy Database": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746760759184,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -51527,7 +51541,9 @@
       "14.99美元商品": "USD 14.99",
       "99.99美元商品": "USD 99.99",
       "29.99美元商品": "USD 29.99",
-      "8.99美元商品": "USD 8.99"
+      "8.99美元商品": "USD 8.99",
+      "0.99美元商品": "USD 0.99",
+      "3.99美元商品": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -51541,9 +51557,29 @@
       "14.99美元商品": "USD 14.99",
       "99.99美元商品": "USD 99.99",
       "29.99美元商品": "USD 29.99",
-      "8.99美元商品": "USD 8.99"
+      "8.99美元商品": "USD 8.99",
+      "0.99美元商品": "USD 0.99",
+      "3.99美元商品": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747926153643,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "0.99美元商品": "USD 0.99",
+            "49.99美元商品": "USD 49.99",
+            "3.99美元商品": "USD 3.99",
+            "8.99美元商品": "USD 8.99",
+            "29.99美元商品": "USD 29.99",
+            "99.99美元商品": "USD 99.99",
+            "14.99美元商品": "USD 14.99",
+            "3.99美元商品2": "USD 3.99",
+            "12.99美元商品": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746270123905,
