@@ -21492,6 +21492,23 @@
     "history": [
       [
         {
+          "timestamp": 1747940529582,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Handful of caps": "$0.99",
+            "Pile of caps": "$4.99",
+            "Sausepan of caps": "$9.99",
+            "Case with caps": "$19.99",
+            "Special pack": "$4.99",
+            "Great pack": "$9.99",
+            "Small pack": "$0.99",
+            "Big pack": "$19.99",
+            "Standart pack": "$1.99",
+            "Seasonal event item": "$19.99"
+          }
+        },
+        {
           "timestamp": 1747936981612,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -63356,7 +63373,8 @@
       "Gizmo": "$0.99",
       "Loki": "$0.99",
       "Civet Theme": "$0.99",
-      "Tuxedo Theme": "$0.99"
+      "Tuxedo Theme": "$0.99",
+      "Siamese Theme": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -63373,9 +63391,29 @@
       "Gizmo": "$0.99",
       "Loki": "$0.99",
       "Civet Theme": "$0.99",
-      "Tuxedo Theme": "$0.99"
+      "Tuxedo Theme": "$0.99",
+      "Siamese Theme": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747940529582,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lucky": "$0.99",
+            "Siamese Theme": "$0.99",
+            "Monthly": "$1.99",
+            "Yearly": "$11.99",
+            "Grey Theme": "$0.99",
+            "2025 Spring Forest Theme": "$0.99",
+            "2025 Spring Lawn Theme": "$1.49",
+            "2025 Spring Flower Theme": "$0.99",
+            "Lawn Theme": "$0.99",
+            "Toby": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746831739705,
