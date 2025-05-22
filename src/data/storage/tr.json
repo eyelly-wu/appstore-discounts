@@ -18474,6 +18474,23 @@
     "history": [
       [
         {
+          "timestamp": 1747872552536,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "90 Days SVIP": "₺129,99",
+            "Annual Special SVIP": "₺599,99",
+            "545 Days SVIP": "₺599,99",
+            "3-Year SVIP": "₺999,99",
+            "100 Days SVIP": "₺129,99",
+            "Quarterly SVIP": "₺129,99",
+            "1-Year SVIP": "₺599,99",
+            "SVIP auto-renew annually": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746754197837,
           "price": 699.99,
           "formattedPrice": "₺699,99",
@@ -38484,7 +38501,12 @@
       "Marco character": "₺39,99",
       "Jack character": "₺39,99",
       "Stephan character": "₺39,99",
-      "Gloria skin": "₺39,99"
+      "Gloria skin": "₺39,99",
+      "Reyna skin": "₺39,99",
+      "Jorge skin": "₺39,99",
+      "Purple menu color": "₺179,99",
+      "Red menu color": "₺99,99",
+      "James character": "₺39,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -38498,9 +38520,33 @@
       "Marco character": "₺39,99",
       "Jack character": "₺39,99",
       "Stephan character": "₺39,99",
-      "Gloria skin": "₺39,99"
+      "Gloria skin": "₺39,99",
+      "Reyna skin": "₺39,99",
+      "Jorge skin": "₺39,99",
+      "Purple menu color": "₺179,99",
+      "Red menu color": "₺99,99",
+      "James character": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747872552536,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Daniel skin": "₺39,99",
+            "Reyna skin": "₺39,99",
+            "Jorge skin": "₺39,99",
+            "Gloria skin": "₺39,99",
+            "Purple menu color": "₺179,99",
+            "Red menu color": "₺99,99",
+            "Yellow menu color": "₺39,99",
+            "James character": "₺39,99",
+            "Lisa character": "₺0,00",
+            "Elsa character": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,

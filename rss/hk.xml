@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-05-21T19:22:10.242Z</updated>
+    <updated>2025-05-22T00:20:20.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-21T19:22:10.243Z</updated>
+        <updated>2025-05-22T00:20:20.396Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:67474973430475776+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkWed, 21 May 2025 19:22:10 GMT</id>
+        <id>rankinghkThu, 22 May 2025 00:20:20 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-21T19:22:10.243Z</updated>
+        <updated>2025-05-22T00:20:20.396Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -163,6 +163,37 @@ feedId:67474973430475776+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id1056920931">Iron Marines</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>英雄超能博士</i>：<b>2</b>
+              </li><li>
+                <i>英雄藍色飛龍</i>：<b>2</b>
+              </li><li>
+                <i>英雄風刃</i>：<b>2</b>
+              </li><li>
+                <i>英雄鐵甲馬克</i>：<b>2</b>
+              </li><li>
+                <i>英雄命運女俠</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id1238247658">Cluedo: Classic Edition</a>
       </td>
       <td>
@@ -183,7 +214,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1248033433">王國保衛戰：復仇</a>
@@ -216,7 +247,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1519571900">Luwian</a>
@@ -233,7 +264,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6449251957">Motorsport Manager 4</a>
@@ -256,7 +287,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
@@ -273,7 +304,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id916976066">短語鍵盤</a>
@@ -300,7 +331,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1028950091">貪婪洞窟：猿神降临</a>
@@ -315,37 +346,6 @@ feedId:67474973430475776+userId:73658201673997312
             <span>App 內購買項目</span><ol>
               <li>
                 <i>貪婪洞窟點券</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>11</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/hk/app/id1056920931">Iron Marines</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買項目</span><ol>
-              <li>
-                <i>英雄超能博士</i>：<b>1</b>
-              </li><li>
-                <i>英雄藍色飛龍</i>：<b>1</b>
-              </li><li>
-                <i>英雄風刃</i>：<b>1</b>
-              </li><li>
-                <i>英雄鐵甲馬克</i>：<b>1</b>
-              </li><li>
-                <i>英雄命運女俠</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -928,6 +928,66 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iron Marines]]></title>
+        <id>Iron Marines-hk-1747872552536</id>
+        <link href="https://apps.apple.com/hk/app/iron-marines/id1056920931?uo=4"/>
+        <updated>2025-05-22T00:09:12.536Z</updated>
+        <summary type="html"><![CDATA[英雄超能博士: HK$ 38.00 → HK$ 22.00<br/>英雄藍色飛龍: HK$ 58.00 → HK$ 38.00<br/>英雄風刃: HK$ 22.00 → HK$ 8.00<br/>英雄鐵甲馬克: HK$ 58.00 → HK$ 38.00<br/>英雄命運女俠: HK$ 22.00 → HK$ 8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/iron-marines/id1056920931?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>英雄超能博士：</strong><span>HK$ 38.00</span> → <b>
+  <strong>HK$ 22.00</strong>
+</b><span>[HK$ 22.00 ~ HK$ 38.00]</span>
+  </li><li>
+    <strong>英雄藍色飛龍：</strong><span>HK$ 58.00</span> → <b>
+  <strong>HK$ 38.00</strong>
+</b><span>[HK$ 38.00 ~ HK$ 58.00]</span>
+  </li><li>
+    <strong>英雄風刃：</strong><span>HK$ 22.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 22.00]</span>
+  </li><li>
+    <strong>英雄鐵甲馬克：</strong><span>HK$ 58.00</span> → <b>
+  <strong>HK$ 38.00</strong>
+</b><span>[HK$ 38.00 ~ HK$ 58.00]</span>
+  </li><li>
+    <strong>英雄命運女俠：</strong><span>HK$ 22.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 22.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  這是遊戲創作者繼獲獎作品Kingdom Rush（王國保衛戰）三部曲之後的又一超凡太空奇幻歷險之作。即時，動態以及深度策略的遊戲模式將帶你穿越到不可思議的未知星球。沉浸式擬真遊戲場景，過癮的遊戲玩法，以及超凡絕佳的藝術感和一絲詼諧幽默感帶你進入激烈的戰爭世界。勇猛的士兵，威猛的機甲人和強大的外星人通通等你來統率，並肩迎接最強挑戰。
+
+招募和訓練銀河系中最偉大的英雄，率領他們參與幾乎不可能完成的危險任務，發動他們強大的力量和能力。即使是在戰鬥最激烈的時候你也可通過改變自己部隊的角色而進行戰略調整，突擊隊員調整為狙擊兵，火焰噴射器調整為導彈發射器。通過炸彈襲擊，智能地雷，支援部隊，砲塔和各種特種武器轉變戰鬥態勢。
+
+機器人軍隊整裝待發;星際戰艦墜毀了;到處是巨大怪物，未知的種族;所向披靡的攻擊;絕望的營救;無所畏懼地破壞行動正在銀河之中發生......銀河系需要你的統領。
+
+銀河系需要鋼鐵戰隊
+
+遊戲特色
+
+指导你的部队参加3个不同世界的21次任务。準備好發動英勇的攻擊，堅守陣地，拯救平民，潛入超級計算機和各種英雄的物品。每個任務需要新的戰術和行動才能取得勝利。
+
+通過17次終結式特別行動的戰術規則測試你的機智。每個關卡通過傷痕銘記挑戰。諒你也不敢。
+
+解鎖不可能模式。僅對大無畏敢死隊開放。諒你絕對不敢。
+
+在史詩戰鬥中擊敗巨大而非凡的頭目。這些頭目卑鄙而異常地巨大，他們決心要將你碾碎。鋼鐵戰隊，整裝待發！
+
+40+升級以提升你的戰略，同時授予你的部隊防禦無人機，凝固汽油彈火箭，反彈爆炸和更多的器械可使用。
+
+14位具有出色能力的英雄聽從你的調遣。將他們訓練到極致出色，否則惹惱他們後果自負。
+
+8種可向敵人發動進攻的特種武器，讓你的戰術更加具有深度。還有什麼比得上一個瞄準了的導彈？對50枚高爆炸炸彈的軌道炮襲擊！
+
+完成70+成就中的任何成就，贏得你應得的獎勵
+
+選擇你的遊戲困難模式，找到屬於你的公平挑戰：休閒，普通或老兵別太狂妄了要么狂妄一點你自己決定！！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/91/53/de9153dd-653c-e8dc-51bc-6018cc35b50b/822f0b37-135c-4b09-9398-ecfee027d5b1_2208x1242_5-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/0f/d0/dd0fd04e-8132-604b-b171-95e06bb4d947/10a8a69e-f126-42a4-a714-b44639c71873_2208x1242_2-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/92/a0/c6/92a0c67a-5879-3d40-806c-ce89c194d219/f5d557b2-8b0a-4455-ad54-5875200b2c8d_2208x1242_4-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/28/e7/4d/28e74d1f-45e3-ed64-8c76-d4896da280d5/cde13322-d468-47e7-9177-ceb7896d6312_2208x1242_3-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/df/e2/a9dfe293-f633-6816-68ae-427757d3147b/86f5d183-59aa-4c95-a352-24ddaba7a56c_2208x1242_1-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/03/b0/4903b0aa-84e5-7831-74a9-ff27b26a4c36/zh-Hant_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/1c/4c/1c1c4c91-6498-642b-bd28-e41b25c17cff/zh-Hant_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0c/2b/0c/0c2b0cd6-35b7-eab2-3ab2-61fedd498c92/b176156c-a9ef-443c-bee6-bab7b3b4deec_2732x2048_5-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/b8/c7/87b8c771-def4-a791-0ac2-ce7eb6357da6/28f5abfd-8c06-4d7d-905d-cbcf17ab84b4_2732x2048_2-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d0/1d/19/d01d190e-fb08-b846-90f9-ea480098eb2a/08e24119-6757-4458-bf71-7240ac371ad1_2732x2048_4-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8b/6d/a1/8b6da151-ec81-d378-6819-fa6f22e35359/7a30a9d8-9199-46f9-a0cd-a4347dc443ee_2732x2048_3-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/d8/fc/c4d8fc7d-df71-7af4-0fff-aaf9e922332b/cb8b5eb0-e1a9-40c4-b17b-2996edfd9775_2732x2048_1-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d9/a2/98/d9a29891-b4aa-0bbc-b1b5-143d7b6275fe/63c64062-48e3-468a-b858-c6ac51462e29_2732x2048bb__U00281_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/31/a1/44/31a14474-cac1-e895-ec12-cb3b15330aae/47b0430f-a870-42ab-a94d-11fec7c5fa64_2732x2048bb.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Motorsport Manager 4]]></title>
@@ -1688,85 +1748,5 @@ Books, important collections, hobby tools, children's toys, seasonal clothes, an
 Ironhide的服務條款：https://www.ironhidegames.com/TermsOfService
 Ironhide隱私政策：https://www.ironhidegames.com/PrivacyPolicy
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/ed/33/6ded33fc-dea5-49c8-886b-d389466513d2/4601ff94-845f-42ae-a829-46b03abfa439_KR5-2024_screenshots_iphone-2208x1242_1-TD_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/ec/6c/0aec6c39-6e71-a20a-68d4-d7390bc2b94a/d2703a3c-2470-4540-bb17-e2851ac67229_KR5-2024_screenshots_iphone-2208x1242_2-HEROES_Traditional-TH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/c4/c2/a0c4c216-1372-152e-4c6a-80e4e66b7a63/19222394-c75f-447b-b43e-7b6911218a7a_KR5-2024_screenshots_iphone-2208x1242_2-HEROES_Traditional-TH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/ca/12/4fca1295-3814-baa2-e4ef-5f3500b1a12b/fdb82b7f-6d39-4146-bbaf-a4a5cca5efc7_KR5-2024_screenshots_iphone-2208x1242_3-LANDS_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/f1/04/7af10451-d0d0-a2ad-53b8-a9bad848d3d9/ba86a3e6-c024-450a-9dba-2e1d0c97a4c4_KR5-2024_screenshots_iphone-2208x1242_4-TOWERS_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/6a/ee/bf6aeedc-68ae-a8db-bc12-1dcb40612f6a/20e5ef86-568b-47e2-b604-26f8864447a6_KR5-2024_screenshots_iphone-2208x1242_5-ENEMIES_Traditional-ZH-TW.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/a4/ec/74a4ec8d-a124-56a1-54fb-cf9abc8b11af/KRA_Crocs_iphone5.5_2208x1242_UI.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/06/b1/1806b1ca-fa31-504b-bc88-b6a02b2554b1/KRA_Arachnophobia_iPhone5.5_2208x1242_ENG.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/2d/47/372d4750-1ec0-7189-4e17-10be316a98e3/3963fa7b-8db7-45ee-9ff5-35076a7b1b10_KR5-2024_screenshots_ipad-2732x2048_1-TD_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/b2/d1/87b2d134-db42-42b6-907e-b275cea4728e/17f4a675-88a9-4f41-9b9e-6114df136e5d_KR5-2024_screenshots_ipad-2732x2048_2-HEROES_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/52/55/75525543-883f-9280-1179-729beba31a03/53025c2a-9085-4f87-a86b-066fde5ebb22_KR5-2024_screenshots_ipad-2732x2048_3-LANDS_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7c/34/177c3421-1571-b831-c61a-36c41be237ff/03d3f80b-cdc8-4d32-8824-335ea6d16221_KR5-2024_screenshots_ipad-2732x2048_4-TOWERS_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/f4/6b/b0f46baf-448b-071c-b6f1-11dbeefc6e19/3f8051d0-ea16-46b2-81e3-df84241bdcdc_KR5-2024_screenshots_ipad-2732x2048_5-ENEMIES_Traditional-ZH-TW.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/7b/64/727b6470-9336-9cab-8968-f9af3886cf28/KRA_Crocs_ipad_2732x2048_UI.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/5f/e4/225fe431-43bc-9930-3475-b327ae7d83ae/KRA_Aracnophobia_iPad_2732x2048_ENG.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13:20:Sync]]></title>
-        <id>13:20:Sync-hk-1747613405520</id>
-        <link href="https://apps.apple.com/hk/app/13-20-sync/id384363262?uo=4"/>
-        <updated>2025-05-19T00:10:05.520Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 22.00 → HK$ 18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/13-20-sync/id384363262?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/a1/7d/21a17dcf-97e0-5833-e461-3ff74c56ce99/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 22.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b><span>[HK$ 18.00 ~ HK$ 32.00]</span>）
-</h2><h2>应用描述</h2><p>
-  This app puts the Mayan Dreamspell Calendar in your pocket! "13:20:Sync makes it so much easier to understand and integrate the calendar into every day life. Highly recommend it." 
-
-The Mayan People have described, in breathtaking precision, the cycles of both the universe and nature around us. They created a harmonic calendar that is synchronized to all those cycles. Following these cycles can help you get a stronger connection with nature around you and become conscious of your essence.
-
-This app provides a simple way to sync along those cycles, to raise our frequency and give us a new lens to view both our day-to-day and planetary events.
-
-- Did you ever realize that our (Gregorian) calendar is not a harmonic calendar? 
-- Did you know that the moon has 13 (not 12!) orbits around the earth in 1 year? 
-- Why do we live with this irregular calendar?
-- Are you interested in Astrology?
-
--> All this, and more, is explained carefully in this app. (over 15.000 words on 37 pages) Please note that these text are in English language only.
-
-In the New Time, synchronicity is the norm.
-
-
-///////////////////////////////////////////////////////////////// 
-5 star rating across the world! 
-///////////////////////////////////////////////////////////////// 
-"Entertaining as well as enlightening" 
-///////////////////////////////////////////////////////////////// 
-
-MORE INFO: 
-www.1320sync.com 
-
-
-For the beginner this app is a learning tool because it contains an extensive explanation about Tones and Seals and the synchronizing order of the Mayan Astrology. You may think it's difficult at first but soon you will feel how it all connects. 
-
-"This app is great, and allows easy manipulation of dates. I spent years in books doing in hours what I can now do in seconds."
-
-For the ones who are already familiar with the Mayan Calendar this app is a handy tool to navigate the cycles, and calculate the Combined Kin for any given combination. Furthermore this app can be of great assistance to teach other people about the 13:20 cycles and is used in teachings around the world.
-
-
-=== FEATURES ===
-
-+ Kin Calendar
-This is your main Mayan Dreamspell Calendar Dashboard with all the details you need to stay in sync. Shows the Kin of today by default, and you can calculate the Kin for any other date.
-
-+ Personal Notes
-On this new page you can keep your personal notes for the 2 main cycles of time: the Tzolkin cycle of 260 days and the 13 Moon cycle of 365 days. And with the powerful text search function you quickly find your notes.
-
-+ Kin Picker
-Select any combination of the 13 Tones and 20 Seals. Top section can scroll to 4 pages with information.
-
-+ Combined Kin Calculator 
-Calculate the Combined Kin of any combination of Kin. You can add as many Kin as you like to calculate the Combined Kin for a group of people. 
-
-+ Tzolkin with indication of the GAP day's and Wavespell and more. Tap and hold to select a Kin number directly.
-
-+ Contact Import 
-All contacts in your Contacts App will be automatically imported and assigned to the correct Kin. See all your contacts with their Mayan Reading and how you relate to them. 
-
-+ 13 Moon Calendar 
-Full integration of 13 Moon Calendar. (doubles as a birthday calendar!) 
-
-+ 13:20 Information 
-Lots of information about the theory behind synchronization to help you navigate the Mayan Dreamspell Calendar. The texts provide a clear explanation of the Cycles of Time. (More than 15.000 words on 37 pages) Please note that these text are in English language only.
-
-+ Sharing
-On all the 3 main tabs you can share the current selected Galactic Signature using your favorite app. 
-
-
-# Based on the work of José Argüelles.
-# This app was made with permission of and in cooperation with the Foundation for the Law of Time - www.lawoftime.org, 
-# Ariel Spilsbury.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/83/ce/9d83ceec-0747-6c58-4fde-cdc7b5b4d3f9/EN_5-5_Image_Promo.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/ab/96/9aab9603-cfa5-2b25-8d66-efdc9823c14b/EN_5-5_Image_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/0f/78/a80f786d-4c1f-ec7e-ac23-889c384cce40/EN_5-5_Image_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/57/8d/2f578d32-5636-c16a-d0ba-2310ffc8372c/EN_5-5_Image_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/a9/b5/6fa9b59d-e863-7348-c133-70fdb708e8c6/EN_5-5_Image_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/2e/5b/fa2e5bee-7122-f660-dc7a-6f3ce634a675/EN_5-5_Image_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/27/36/53273655-d868-31b6-1ed8-f2ae7bd57379/EN_5-5_Image_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/c6/1b/c9c61bbf-6aad-3d1a-e8a7-115dec170d7a/EN_5-5_Image_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/b2/2b/96b22bc2-dde9-dff5-d8fe-614fef88316e/EN_5-5_Image_08.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
