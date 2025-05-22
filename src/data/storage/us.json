@@ -29403,10 +29403,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747884020298,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -36891,6 +36899,14 @@
     "history": [
       [
         {
+          "timestamp": 1747884020298,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745378203223,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -43286,10 +43302,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747884020298,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -44144,6 +44168,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747884020298,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745378203223,
@@ -56441,6 +56473,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747884020298,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745983031540,
