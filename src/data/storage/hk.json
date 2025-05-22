@@ -9800,6 +9800,14 @@
     "history": [
       [
         {
+          "timestamp": 1747922542969,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742738516360,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -15051,6 +15059,27 @@
           "timestamp": 1745658131479,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "674064590": {
+    "name": "表情符號 WeChat",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]
@@ -22421,8 +22450,8 @@
       "英雄自由獵人": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00",
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
       "特別禮包": "HK$ 38.00",
       "英雄鐵甲馬克": "HK$ 38.00",
       "英雄藍色飛龍": "HK$ 38.00",
@@ -22438,6 +22467,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747922542969,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "特別禮包": "HK$ 38.00",
+            "英雄鐵甲馬克": "HK$ 58.00",
+            "英雄藍色飛龍": "HK$ 58.00",
+            "英雄超能博士": "HK$ 38.00",
+            "英雄桂英": "HK$ 22.00",
+            "英雄命運女俠": "HK$ 22.00",
+            "英雄風刃": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1747877395664,
           "price": 22,
@@ -24731,6 +24774,25 @@
       "第4級即時猴子包促銷": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "一堆猴幣促銷": "HK$ 22.00",
+            "全塔解鎖": "HK$ 38.00",
+            "猴幣": "HK$ 18.00",
+            "塔XP": "HK$ 8.00",
+            "10個知識點": "HK$ 58.00",
+            "解鎖典範": "HK$ 38.00",
+            "一堆猴幣": "HK$ 38.00",
+            "一保險庫的猴幣促銷": "HK$ 88.00",
+            "知識點": "HK$ 8.00",
+            "完全解鎖防禦塔和典範": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747735344411,
@@ -38214,15 +38276,29 @@
       "Root: The Marauder Expansion": "HK$ 88.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00",
-      "The Riverfolk Expansion": "HK$ 88.00",
-      "Exiles & Partisans & Vagabonds": "HK$ 58.00",
-      "The Clockwork Expansion": "HK$ 48.00",
-      "Root: The Underworld Expansion": "HK$ 88.00",
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "The Riverfolk Expansion": "HK$ 58.00",
+      "Exiles & Partisans & Vagabonds": "HK$ 48.00",
+      "The Clockwork Expansion": "HK$ 32.00",
+      "Root: The Underworld Expansion": "HK$ 58.00",
       "Root: The Marauder Expansion": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "HK$ 58.00",
+            "Root: The Marauder Expansion": "HK$ 88.00",
+            "Root: The Underworld Expansion": "HK$ 58.00",
+            "The Clockwork Expansion": "HK$ 32.00",
+            "Exiles & Partisans & Vagabonds": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -56138,8 +56214,8 @@
       "信息禮包": "HK$ 98.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00",
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
       "Autonomy": "HK$ 22.00",
       "Time Flow": "HK$ 22.00",
       "賽季通行證": "HK$ 58.00",
@@ -56162,6 +56238,25 @@
       "信息禮包": "HK$ 98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Autonomy": "HK$ 22.00",
+            "Time Flow": "HK$ 22.00",
+            "賽季通行證": "HK$ 58.00",
+            "角色通行證": "HK$ 88.00",
+            "婚禮禮包": "HK$ 38.00",
+            "尼奧禮包": "HK$ 38.00",
+            "解鎖性質": "HK$ 58.00",
+            "勇者研究": "HK$ 48.00",
+            "鍛造禮包": "HK$ 58.00",
+            "賽季０戰鬥通行證": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747638157261,

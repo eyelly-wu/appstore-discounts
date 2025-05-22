@@ -14778,6 +14778,27 @@
       ]
     ]
   },
+  "674064590": {
+    "name": "Stickers for WeChat",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "679044544": {
     "name": "AndroMoney",
     "maxPriceInfo": {
@@ -22698,8 +22719,8 @@
       "Hero Trabuco": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "Hero Mark X": "$4.99",
       "Special Pack 4": "$14.99",
       "Special Pack 2": "$3.99",
@@ -22716,6 +22737,25 @@
       "Hero Trabuco": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Hero Mark X": "$6.99",
+            "Special Pack 4": "$14.99",
+            "Special Pack 2": "$3.99",
+            "Hero Blue Dragon": "$6.99",
+            "Special Pack 5": "$4.99",
+            "Hero Dr.Graff": "$4.99",
+            "Hero Fate": "$2.99",
+            "Hero Ajax": "$2.99",
+            "Starter Pack": "$4.99",
+            "Hero Sha'Tra": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747026150405,

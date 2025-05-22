@@ -8887,6 +8887,14 @@
     "history": [
       [
         {
+          "timestamp": 1747922542969,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742738516360,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -12434,6 +12442,27 @@
           "timestamp": 1745658131479,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "674064590": {
+    "name": "表情符號 WeChat",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]
@@ -18674,8 +18703,8 @@
       "英雄羅爺": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99",
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
       "特別禮包": "USD 4.99",
       "英雄鐵甲馬克": "USD 6.99",
       "英雄藍色飛龍": "USD 6.99",
@@ -18685,6 +18714,22 @@
       "英雄羅爺": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "特別禮包": "USD 4.99",
+            "英雄鐵甲馬克": "USD 6.99",
+            "英雄藍色飛龍": "USD 6.99",
+            "英雄自由獵人": "USD 4.99",
+            "英雄桂英": "USD 2.99",
+            "英雄超能博士": "USD 4.99",
+            "英雄羅爺": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745658131479,
@@ -20548,6 +20593,25 @@
       "Heroes and Skins Complete 2024": "USD 24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "一堆猴幣促銷": "USD 2.99",
+            "全塔解鎖": "USD 4.99",
+            "塔XP": "USD 0.99",
+            "猴幣": "USD 1.99",
+            "解鎖典範": "USD 4.99",
+            "一保險庫的猴幣": "USD 19.99",
+            "一堆猴幣": "USD 4.99",
+            "猴幣山": "USD 49.99",
+            "10個知識點": "USD 7.99",
+            "完全解鎖防禦塔和典範": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747317741478,
@@ -28535,15 +28599,29 @@
       "Root: The Marauder Expansion": "USD 9.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99",
-      "The Riverfolk Expansion": "USD 9.99",
-      "Root: The Underworld Expansion": "USD 9.99",
-      "Exiles & Partisans & Vagabonds": "USD 7.99",
-      "The Clockwork Expansion": "USD 5.99",
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "The Riverfolk Expansion": "USD 6.99",
+      "Root: The Underworld Expansion": "USD 7.99",
+      "Exiles & Partisans & Vagabonds": "USD 5.99",
+      "The Clockwork Expansion": "USD 3.99",
       "Root: The Marauder Expansion": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "USD 6.99",
+            "Root: The Underworld Expansion": "USD 7.99",
+            "Exiles & Partisans & Vagabonds": "USD 5.99",
+            "The Clockwork Expansion": "USD 3.99",
+            "Root: The Marauder Expansion": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745769736857,
@@ -44251,8 +44329,8 @@
       "鍛造禮包": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99",
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
       "Autonomy": "USD 2.99",
       "Time Flow": "USD 2.99",
       "賽季通行證": "USD 6.99",
@@ -44274,6 +44352,25 @@
       "鍛造禮包": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Autonomy": "USD 2.99",
+            "Time Flow": "USD 2.99",
+            "賽季通行證": "USD 6.99",
+            "賽季０戰鬥通行證": "USD 1.99",
+            "角色通行證": "USD 11.99",
+            "賽季1戰鬥通行證": "USD 1.99",
+            "勇者研究": "USD 5.99",
+            "賽季2戰鬥通行證": "USD 1.99",
+            "解鎖客邁拉": "USD 2.99",
+            "尼奧禮包": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746871335303,

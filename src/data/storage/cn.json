@@ -7751,6 +7751,14 @@
     "history": [
       [
         {
+          "timestamp": 1747922542969,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742738516360,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -10233,6 +10241,27 @@
           "timestamp": 1745658131479,
           "price": 22,
           "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "674064590": {
+    "name": "Stickers for WeChat",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747922542969,
+          "price": 8,
+          "formattedPrice": "¥8.00",
           "inAppPurchases": {}
         }
       ]

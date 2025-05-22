@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 674064590,
+    name: {
+      mo: '表情符號 WeChat',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1439886655,
     name: {
       mo: 'Cultist Simulator',
