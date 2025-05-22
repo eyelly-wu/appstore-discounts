@@ -843,7 +843,17 @@
       "Speaker Distortion": "₺249,99",
       "Phase Meter": "₺349,99",
       "IR Module": "₺2.299,99",
-      "LARSA": "₺1.299,99"
+      "LARSA": "₺1.299,99",
+      "HAA Link": "₺449,99",
+      "HAA Pro Module": "₺899,99",
+      "SPL Enhance": "₺899,99",
+      "All-In Module Access": "₺449,99",
+      "HAA Upgrade to Pro": "₺17.999,99",
+      "HAA Pro Installer": "₺22.999,99",
+      "HAA Home Theater": "₺4.499,99",
+      "Unlock All Tier 5": "₺9.999,99",
+      "Unlock All Tier 7": "₺14.999,99",
+      "Unlock All Tier 4": "₺8.999,99"
     },
     "minPriceInfo": {
       "price": 899.99,
@@ -857,9 +867,38 @@
       "Speaker Distortion": "₺249,99",
       "Phase Meter": "₺349,99",
       "IR Module": "₺2.299,99",
-      "LARSA": "₺1.299,99"
+      "LARSA": "₺1.299,99",
+      "HAA Link": "₺449,99",
+      "HAA Pro Module": "₺899,99",
+      "SPL Enhance": "₺899,99",
+      "All-In Module Access": "₺449,99",
+      "HAA Upgrade to Pro": "₺17.999,99",
+      "HAA Pro Installer": "₺22.999,99",
+      "HAA Home Theater": "₺4.499,99",
+      "Unlock All Tier 5": "₺9.999,99",
+      "Unlock All Tier 7": "₺14.999,99",
+      "Unlock All Tier 4": "₺8.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747904550273,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {
+            "HAA Link": "₺449,99",
+            "HAA Pro Module": "₺899,99",
+            "SPL Enhance": "₺899,99",
+            "All-In Module Access": "₺449,99",
+            "HAA Upgrade to Pro": "₺17.999,99",
+            "HAA Pro Installer": "₺22.999,99",
+            "HAA Home Theater": "₺4.499,99",
+            "Unlock All Tier 5": "₺9.999,99",
+            "Unlock All Tier 7": "₺14.999,99",
+            "Unlock All Tier 4": "₺8.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746788532840,
@@ -32194,6 +32233,25 @@
     "history": [
       [
         {
+          "timestamp": 1747904550273,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "肖维青英文原著精读课-纳尼亚传奇篇": "₺1.299,99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "₺1.299,99",
+            "Albert：不走弯路学英语": "₺249,99",
+            "聆听诺奖背后的时代之音": "₺699,99",
+            "顾悦：如何成为英语学习高手": "₺699,99",
+            "林小鹿英语精读（1-7季合集升级版）": "₺2.999,99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "₺1.299,99",
+            "林小鹿经济学人精读": "₺899,99",
+            "地道美式发音课": "₺1.799,99",
+            "顾悦：20天脱口而出地道英语口语": "₺699,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747660291385,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -47572,14 +47630,24 @@
       "故事模式+自由模式合集": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "劇情模式": "₺179,99",
       "自由模式": "₺179,99",
       "故事模式+自由模式合集": "₺299,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747904550273,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "劇情模式": "₺229,99",
+            "自由模式": "₺229,99",
+            "故事模式+自由模式合集": "₺399,99"
+          }
+        },
         {
           "timestamp": 1747900990537,
           "price": 9.99,

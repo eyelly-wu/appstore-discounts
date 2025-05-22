@@ -48585,14 +48585,24 @@
       "自由模式": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29",
+      "price": 0,
+      "formattedPrice": "免費",
       "故事模式+自由模式合集": "USD 7.19",
       "劇情模式": "USD 3.99",
       "自由模式": "USD 3.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747904550273,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "故事模式+自由模式合集": "USD 8.99",
+            "劇情模式": "USD 4.99",
+            "自由模式": "USD 4.99"
+          }
+        },
         {
           "timestamp": 1747900990537,
           "price": 0.29,
