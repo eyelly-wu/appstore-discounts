@@ -5880,6 +5880,25 @@
     "history": [
       [
         {
+          "timestamp": 1747954934998,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Chapter N": "₺179,99",
+            "Chapter D": "₺229,99",
+            "Chapter L": "₺449,99",
+            "Chapter T": "₺229,99",
+            "Chapter R": "₺229,99",
+            "Chapter 0": "₺229,99",
+            "Chapter K": "₺229,99",
+            "Chapter 10": "₺229,99",
+            "Chapter 9": "₺229,99",
+            "Chapter S": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746939736800,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -7595,6 +7614,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747954934998,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1742770930493,
@@ -20617,6 +20644,25 @@
     "history": [
       [
         {
+          "timestamp": 1747954934998,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺129,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺229,99",
+            "Pile O Monkey Money": "₺229,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "10 Knowledge Points": "₺349,99",
+            "Double Cash Mode": "₺399,99",
+            "Paragon Unlock": "₺229,99",
+            "Tower and Paragon Unlock": "₺449,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747800226785,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -29184,15 +29230,29 @@
       "Root: The Marauder Expansion": "₺449,99"
     },
     "minPriceInfo": {
-      "price": 449.99,
-      "formattedPrice": "₺449,99",
-      "The Riverfolk Expansion": "₺449,99",
-      "Root: The Underworld Expansion": "₺449,99",
-      "The Clockwork Expansion": "₺249,99",
-      "Exiles & Partisans & Vagabonds": "₺349,99",
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
+      "The Riverfolk Expansion": "₺299,99",
+      "Root: The Underworld Expansion": "₺349,99",
+      "The Clockwork Expansion": "₺179,99",
+      "Exiles & Partisans & Vagabonds": "₺249,99",
       "Root: The Marauder Expansion": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747954934998,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "₺299,99",
+            "The Clockwork Expansion": "₺179,99",
+            "Root: The Underworld Expansion": "₺349,99",
+            "Exiles & Partisans & Vagabonds": "₺249,99",
+            "Root: The Marauder Expansion": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -43674,8 +43734,8 @@
       "Season 2 Battle Pass": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99",
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
       "Season Pass": "₺299,99",
       "Nurse Pack": "₺229,99",
       "Autonomy": "₺129,99",
@@ -43688,6 +43748,25 @@
       "Season 2 Battle Pass": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747954934998,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Season Pass": "₺299,99",
+            "Nurse Pack": "₺229,99",
+            "Autonomy": "₺129,99",
+            "Mecha Pack": "₺229,99",
+            "Unlock Beholder": "₺129,99",
+            "Unlock Gumiho": "₺129,99",
+            "Season 3 Battle Pass": "₺99,99",
+            "Uniform Pack": "₺179,99",
+            "Unlock Baphomet": "₺129,99",
+            "Season 2 Battle Pass": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
