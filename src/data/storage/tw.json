@@ -43101,7 +43101,10 @@
       "Paris Marine Bundle": "$390.00",
       "Five Dice Bundle": "$390.00",
       "Cherry Blossom Tokyo": "$290.00",
-      "Snowdrop Valley": "$290.00"
+      "Snowdrop Valley": "$290.00",
+      "Enchanted Forest Marine Bundle": "$390.00",
+      "LA Monstropolis Marine Bundle": "$390.00",
+      "The Rainbow Bundle": "$390.00"
     },
     "minPriceInfo": {
       "price": 150,
@@ -43124,9 +43127,28 @@
       "Paris Marine Bundle": "$390.00",
       "Five Dice Bundle": "$390.00",
       "Cherry Blossom Tokyo": "$290.00",
-      "Snowdrop Valley": "$290.00"
+      "Snowdrop Valley": "$290.00",
+      "Enchanted Forest Marine Bundle": "$390.00",
+      "LA Monstropolis Marine Bundle": "$390.00",
+      "The Rainbow Bundle": "$390.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747983740574,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Enchanted Forest Marine Bundle": "$390.00",
+            "LA Monstropolis Marine Bundle": "$390.00",
+            "The Rainbow Bundle": "$390.00",
+            "Victorian London Marine Bundle": "$390.00",
+            "The Slam Dunk Bundle": "$150.00",
+            "Blazin' Blue the Monster Truck": "$320.00",
+            "Transylvania Marine Bundle": "$390.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747778541220,
