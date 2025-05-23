@@ -9817,6 +9817,14 @@
     "history": [
       [
         {
+          "timestamp": 1747970397708,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742786145307,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -19983,6 +19991,23 @@
     "history": [
       [
         {
+          "timestamp": 1747970397708,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "$0.99",
+            "金牛会员连续包月": "$0.99",
+            "金牛会员尊享版连续包年": "$14.99",
+            "金牛会员月版": "$2.99",
+            "手机Level-2包年服务": "$12.99",
+            "手机超级Level-2连续包半年": "$6.49",
+            "手机超级Level2两年版": "$22.99",
+            "手机高级诊股连续包月": "$0.99",
+            "神奇电波连续包季": "$27.99",
+            "金牛会员年版": "$9.99"
+          }
+        },
+        {
           "timestamp": 1747967497151,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -24860,6 +24885,25 @@
       "Heroes and Skins Complete 2024": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747970397708,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "$2.99",
+            "Monkey Money": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Pile O Monkey Money": "$4.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Vault O Monkey Money Sale": "$11.99",
+            "Tier 4 Insta Monkeys Pack Sale": "$3.99",
+            "Knowledge Point": "$0.99",
+            "10 Knowledge Points": "$7.99",
+            "Paragon Unlock": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747393347227,
@@ -37880,15 +37924,29 @@
       "The Clockwork Expansion": "$5.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99",
-      "The Riverfolk Expansion": "$9.99",
-      "Root: The Underworld Expansion": "$9.99",
-      "Exiles & Partisans & Vagabonds": "$7.99",
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "The Riverfolk Expansion": "$6.99",
+      "Root: The Underworld Expansion": "$7.99",
+      "Exiles & Partisans & Vagabonds": "$5.99",
       "Root: The Marauder Expansion": "$9.99",
-      "The Clockwork Expansion": "$5.99"
+      "The Clockwork Expansion": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747970397708,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "$6.99",
+            "Root: The Underworld Expansion": "$7.99",
+            "Exiles & Partisans & Vagabonds": "$5.99",
+            "The Clockwork Expansion": "$3.99",
+            "Root: The Marauder Expansion": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745836547210,
@@ -56515,8 +56573,8 @@
       "Mecha Pack": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "Season Pass": "$6.99",
       "Autonomy": "$2.99",
       "Time Flow": "$2.99",
@@ -56541,6 +56599,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747970397708,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Corrupted Pack": "$6.99",
+            "Unlock Temperament": "$6.99",
+            "Uniform Pack": "$3.99",
+            "Nurse Pack": "$4.99"
+          }
+        },
         {
           "timestamp": 1747919467749,
           "price": 4.99,
@@ -61492,11 +61567,16 @@
       "公路霸業": "$1.99",
       "群雄爭霸": "$1.99",
       "楚漢爭霸": "$3.99",
-      "無雙戰神": "$1.99"
+      "無雙戰神": "$1.99",
+      "江山美人": "$1.99",
+      "終身版": "$6.99",
+      "尊享版": "$4.99",
+      "攬月版": "$3.99",
+      "激情版": "$0.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "自創武將": "$3.99",
       "道法自然": "$1.99",
       "自創武將朝代特色兵種補丁": "$3.99",
@@ -61511,9 +61591,33 @@
       "公路霸業": "$1.99",
       "群雄爭霸": "$1.99",
       "楚漢爭霸": "$3.99",
-      "無雙戰神": "$1.99"
+      "無雙戰神": "$1.99",
+      "江山美人": "$1.99",
+      "終身版": "$6.99",
+      "尊享版": "$4.99",
+      "攬月版": "$3.99",
+      "激情版": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747970397708,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "自創武將": "$3.99",
+            "江山美人": "$1.99",
+            "終身版": "$6.99",
+            "尊享版": "$4.99",
+            "攬月版": "$3.99",
+            "激情版": "$0.99",
+            "道法自然": "$1.99",
+            "自創武將朝代特色兵種補丁": "$3.99",
+            "重振漢室": "$1.99",
+            "虎嘯鳳鳴": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747119752565,
