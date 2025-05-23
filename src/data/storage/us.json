@@ -62518,7 +62518,10 @@
       "Backpack Expansion": "$1.99",
       "120 Gold": "$1.99",
       "1280 Gold": "$19.99",
-      "Special Training": "$9.99"
+      "Special Training": "$9.99",
+      "3280 Gold": "$49.99",
+      "6480 Gold": "$99.99",
+      "1980 Gold": "$29.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -62533,9 +62536,31 @@
       "Backpack Expansion": "$1.99",
       "120 Gold": "$1.99",
       "1280 Gold": "$19.99",
-      "Special Training": "$9.99"
+      "Special Training": "$9.99",
+      "3280 Gold": "$49.99",
+      "6480 Gold": "$99.99",
+      "1980 Gold": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748008944667,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "120 Gold": "$1.99",
+            "Backpack Expansion": "$1.99",
+            "Double Combat Rewards": "$1.99",
+            "3280 Gold": "$49.99",
+            "1280 Gold": "$19.99",
+            "300 Gold": "$4.99",
+            "980 Gold": "$14.99",
+            "6480 Gold": "$99.99",
+            "1980 Gold": "$29.99",
+            "60 Gold": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747109016368,
