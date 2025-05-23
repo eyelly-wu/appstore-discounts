@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1481781647,
+    name: {
+      mo: 'KeePassium Pro (KeePass)',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1072395467,
     name: {
       mo: '60 Seconds! Atomic Adventure',
