@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-05-22T14:22:07.732Z</updated>
+    <updated>2025-05-23T04:23:10.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-22T14:22:07.732Z</updated>
+        <updated>2025-05-23T04:23:10.600Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:73536236398899200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwThu, 22 May 2025 14:22:07 GMT</id>
+        <id>rankingtwFri, 23 May 2025 04:23:10 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-22T14:22:07.732Z</updated>
+        <updated>2025-05-23T04:23:10.600Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -213,6 +213,29 @@ feedId:73536236398899200+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tw/app/id1038014543">Day R Premium: last world war</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>Seasonal event item</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tw/app/id1439881811">RadarOmega</a>
       </td>
       <td>
@@ -235,7 +258,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1519571900">Luwian</a>
@@ -252,7 +275,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id403684733">Badoo進階版</a>
@@ -275,7 +298,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id510249014">水準管 HD</a>
@@ -292,7 +315,30 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>Learn to Drive Unlimited</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
@@ -309,7 +355,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id918609651">Money Pro: 個人財務</a>
@@ -332,7 +378,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1028950091">貪婪洞窟：猿神降临</a>
@@ -355,30 +401,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tw/app/id1038014543">Day R Premium: last world war</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買</span><ol>
-              <li>
-                <i>Seasonal event item</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1118115766">Bloons TD 6</a>
@@ -395,7 +418,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1230231705">The Witness</a>
@@ -412,7 +435,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1248033433">王國保衛戰：復仇</a>
@@ -445,7 +468,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1291429551">60 Parsecs!</a>
@@ -462,7 +485,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1389752090">Dead Cells</a>
@@ -479,7 +502,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -496,7 +519,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1435461053">This Is the Police</a>
@@ -513,7 +536,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1439262206">Root Board Game</a>
@@ -542,7 +565,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -559,7 +582,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -576,7 +599,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1474716211">60 Seconds! Reatomized</a>
@@ -593,7 +616,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -610,7 +633,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1497120981">LUCH — Filters & Bokeh Effect</a>
@@ -627,7 +650,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1523146826">全民RPG：重啟</a>
@@ -644,7 +667,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1538124245">where I put it</a>
@@ -661,7 +684,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1580067723">Wall of insanity</a>
@@ -678,7 +701,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
@@ -695,7 +718,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1620883955">Little Nightmares</a>
@@ -712,7 +735,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1642733080">DungeonSquad</a>
@@ -729,7 +752,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -746,7 +769,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -763,7 +786,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6740471827">手錶經典迷宮遊戲</a>
@@ -780,7 +803,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6451376191">Dumb Phone: 簡約主畫面</a>
@@ -797,7 +820,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6446178861">PlayNav - 影片內無廣告！</a>
@@ -814,7 +837,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6449251957">Motorsport Manager 4</a>
@@ -831,7 +854,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6458144503">Skul: The Hero Slayer</a>
@@ -848,7 +871,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6505058041">QUAKELINE</a>
@@ -865,7 +888,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -882,10 +905,27 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6471947612">召喚騎士團</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>44</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id6743459503">逐鹿</a>
       </td>
       <td>
         <ul>
@@ -1017,6 +1057,181 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day R Premium: last world war]]></title>
+        <id>Day R Premium: last world war-tw-1747972999434</id>
+        <link href="https://apps.apple.com/tw/app/day-r-premium-last-world-war/id1038014543?uo=4"/>
+        <updated>2025-05-23T04:03:19.434Z</updated>
+        <summary type="html"><![CDATA[Seasonal event item: $690.00 → $150.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/day-r-premium-last-world-war/id1038014543?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/c1/f1/d7c1f19d-9b64-2958-7572-002041464d13/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>Seasonal event item：</strong><span>$690.00</span> → <b>
+  <strong>$150.00</strong>
+</b><span>[$150.00 ~ $2,990.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  1985年，一場無法挽回的災難降臨——核戰爭和致命病毒的爆發導致了世界末日，將整個世界變成了一片巨大的放射性荒原，充斥著突變體、掠奪者和瘋子（他們比任何僵尸都可怕）。蘇聯在核打擊中崩潰，整個世界變成了一個每個人都在為生存而戰的競技場。
+
+在一個充滿輻射和怪物的世界中生存並不容易。如今，在昔日世界的廢墟上，暴力、飢餓和疾病統治著一切。作為一名幸存者，你必須在這個對生命充滿敵意的開放世界中適應環境，並尋找和拯救你的家人——也許他們在這場混亂中幸存了下來？……
+
+危險與冒險在每一個轉角等著你。作為一名潛行者，你需要在輻射水平比切爾諾貝利災難還要高數倍的廢棄城市中搜尋物資，並在充滿嗜血突變體和僵尸瘋子的森林中穿行。在這片混亂與廢墟中，你必須運用所有的生存技能，獨自為生命而戰！
+
+《Day R Survival》不僅僅是一款游戲，而是一款真實的核末日生存模擬游戲，背景設定在1985年蘇聯的廣闊而真實的地圖上。
+
+《Day R Survival》的RPG和任務系統是一款硬核的生存模擬RPG。核戰爭和致命病毒（比任何僵尸病毒都可怕）不僅會給你帶來強大而狡猾的敵人，還會讓你面臨艱難的選擇。游戲中的任務充滿了陰暗的氛圍和絕望，人們不得不在昔日世界的廢墟上掙扎求生。
+
+
+廣闊的開放世界
+在1985年蘇聯的逼真地圖上，探索超過2700個廢棄城市。這些城市充滿了資源、危險（如突變體、野生動物和瘋狂的僵尸）以及未解之謎。你可以在森林中狩獵，在河流中釣魚，或是掠奪資源——在這個世界裡，你的生存策略沒有任何限制！
+
+物品制作
+數百種真實的制作配方：從日常用品到頂級軍用交通工具和彈藥。你擁有機械、化學、物理或生存方面的知識嗎？現在是時候運用它們了！
+
+在殘酷世界中掙扎求生
+你隻是一個普通人，需要食物、水和休息。你會染上疾病，傷口也不會自行愈合。尋找食物，爭奪每一滴干淨的水，建造避難所，並時刻保持警惕——在這個世界上，哪怕是一隻老鼠，都可能要了你的命！
+
+
+單人模式與多人聯機
+你可以獨自挑戰任務，也可以與朋友並肩作戰——隨時在單人和多人模式之間切換，選擇最適合你的生存方式。打造獨特的生存策略，或與志同道合的玩家聯手，通過聊天交流、交易物資，並在末世荒原中共同完成任務，尋找生存的希望。
+
+
+游戲特色  
+在線與離線模式
+多人在線生存，與好友組隊挑戰末世危機
+難度選擇：簡單、普通、困難，適應不同生存策略
+技能成長與強化
+動態環境：四季更迭、晝夜交替、輻射水平不斷變化
+敵人與資源隨機刷新
+逼真廢土氛圍，沉浸式核戰后世界生存挑戰
+
+
+幸存者！體驗最真實的生存模擬游戲之一——Day R Survival。制定你的生存策略，揭開末日世界的重重謎團，努力活下去！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/43/f9/2043f909-0427-85fc-0380-c78d8c635a72/37839167-aa9a-4447-a81b-48596708c9e1_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/8b/64/d18b6436-dbab-aa76-cd34-fde6a0017f60/abaf8bc1-c87d-4066-9855-f110c7356137_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/46/62/5a4662b0-8daf-bb02-dcd7-88cdc881ac8c/56a1afb9-8d5a-457f-a9f3-f0fe0644cd6d_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/3b/28/7a3b2824-3ac2-85f4-b43e-ab46b5ade311/afa3f761-86f4-490c-9a8f-c6f7b1015cfa_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/13/37/6213373f-0cec-fcdc-5031-e64d0f731948/abde20fe-0528-417a-af2e-cdda1c652def_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/51/1f/cc511f3f-3f26-3240-6af2-60e6418c8cbc/4ab3a89a-de25-4365-b883-e4b25d5d4377_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/79/01/627901e8-e012-b090-c78b-3585b0e1ae16/10e16d1f-4f6d-414b-a1bc-02c0bac97de7_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/e5/31/08e53100-b2a7-bc39-e566-18c7620edcd4/70a632b4-7110-44a4-8f3c-b16630226a71_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/c0/02/91c002c9-9700-0466-f9cd-053e636af6f2/55b21187-aa05-4f77-822a-8fd16cae0632_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/f2/c7/3df2c73e-f7fc-3f6c-a191-ba6861c4cdad/149c588f-631e-4221-ac9a-71c5d60aae73_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/52/94/0e529456-2272-403e-b28c-9b314d5a2678/844a140a-b823-4849-aeab-841e1c22ad82_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/e3/31/f7e331ba-1dfe-5957-552f-199e1d483e56/65fcbeaf-0f41-4f84-80de-3687911f1afe_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/45/53/8f4553f6-790b-32ac-526f-ad768ac24913/c88343cd-bc58-42f6-b1e8-a9fa3539ade4_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/25/b3/c025b3f5-90cc-fc0c-6ae1-e8431823b5c2/c9de7bf8-fdc6-44dc-aaee-5661465f27cf_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/7f/6d/287f6d5d-0a21-ccf9-964a-35746ace6a48/bf611f0e-f026-4332-9de5-fe7e0cb877b3_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/90/0a/c0900a56-51c1-4683-dff0-6293b324521d/cb6b77fb-bdaa-4c67-83cd-930ee49974d2_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/5e/eb/465eeb5c-94d2-e859-b0f8-636a8ac5100c/f66d531d-e15c-439c-b597-23f7f2c1cf2a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/79/cb/dd79cbaf-ee24-588f-5a24-e79cbc7f1385/5ed0c035-585b-438e-8e19-22c60629632e_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/ec/65/b0ec6594-3912-6653-aa86-e41c9ff5db12/5f03263e-ebf9-4ec2-9136-5e48239b77af_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ed/f1/f0edf163-11d1-ab0f-ae20-97d71e75d7d7/f729dcc9-441d-445e-9ec7-ba8570ff3f1c_9.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逐鹿]]></title>
+        <id>逐鹿-tw-1747972999434</id>
+        <link href="https://apps.apple.com/tw/app/%E9%80%90%E9%B9%BF/id6743459503?uo=4"/>
+        <updated>2025-05-23T04:03:19.434Z</updated>
+        <summary type="html"><![CDATA[价格: $220.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E9%80%90%E9%B9%BF/id6743459503?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/04/8b/44048b03-8182-96a6-8be9-c3f3c807a1b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$220.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ $220.00]</span>）
+</h2><h2>应用描述</h2><p>
+  經典三國單機版
+
+《逐鹿》是一款基於同名歷史沙盤遊戲引擎開發而成的三國題材回合制策略遊戲。在硝煙四起、諸侯爭霸的三國亂世中，玩家可以在劇本中任意選擇勢力，飾演主公。通過內政、外交等玩法助你運籌帷幄。帶領麾下群雄，攻城略地，在遼闊的戰場上開疆擴土。或興復漢室，或成一代梟雄，皆掌握在你的手中。
+
+問鼎九州，逐鹿三國
+
+《逐鹿》的歷史劇本以《三國演義》為藍本推演而來，遊戲貫穿歷史典故，力求還原三國時期的史實風貌。玩家可以任意挑選劇本，並飾演其中一勢力的主公，謀定三國，一統九州。
+
+山河為子，天下為局
+
+《逐鹿》以經典六角戰棋玩法為核心戰鬥模式，玩家可以指揮部隊以「六角戰棋」的形式縱橫馳騁於大戰場之上，或與敵人短兵相接，或以計謀決勝千里之外，在矢石之間，開疆擴土。
+
+堅甲利兵，攻無不克
+
+在遊戲中兵種可分為步兵、騎兵、機械三大類，細分則有弓兵、弩兵、盾兵、輕騎兵等十餘種。還有數十種專屬兵種可以攜帶，出征時根據戰況調配兵種陣容，能夠達到先發制人，克敵機先的效果。
+
+鸞翔鳳集，龍幡虎纛
+
+根據歷史文獻記載以及結合三國演義內容，目前遊戲中已設計武將有600余名。每個武將具有獨特的特性，可以凸顯武將的差異化。不僅如此，我們還為歷史名將繪制了精緻的專屬立繪，彰顯其個性。
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving Theory Test 4 in 1 Kit]]></title>
+        <id>Driving Theory Test 4 in 1 Kit-tw-1747972999434</id>
+        <link href="https://apps.apple.com/tw/app/driving-theory-test-4-in-1-kit/id829581836?uo=4"/>
+        <updated>2025-05-23T04:03:19.434Z</updated>
+        <summary type="html"><![CDATA[Learn to Drive Unlimited: $790.00 → $690.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/driving-theory-test-4-in-1-kit/id829581836?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/a3/ee/52a3ee3c-e875-b293-f8cf-7ca91fe7983f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>Learn to Drive Unlimited：</strong><span>$790.00</span> → <b>
+  <strong>$690.00</strong>
+</b><span>[$690.00 ~ $790.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  **Apple's No.1 paid iPhone app for 7 years running**
+
+97% of learners pass their Theory Test using nothing more than this 4 in 1 AWARD-WINNING app*! Revise with full confidence knowing you have EVERYTHING you need to pass your 2025 Theory Test first time, getting you 1 step closer to your full DVLA licence, or we’ll give you your test fee back if you fail.
+
+Join the 18 MILLION+ learner drivers we’ve helped prepare for their driving theory test.
+
+Suitable for:
+• Car Drivers in GB & NI
+• Motorcyclists in GB & NI
+• Trainee ADI's in GB & NI
+• HGV/LGV & PCV Drivers preparing to take Module 1a and 1b Tests in GB & NI
+
+DRIVING THEORY TEST 2025
+Practise the latest Theory Test revision questions, answers and explanations, licensed directly from the DVSA (the people who set the official test). No other Theory Test app contains more revision questions!
+
+Sit UNLIMITED timed mock tests including the NEW DVSA video case studies. Car drivers can practise multiple-choice questions based on a short video...just like the real test.
+
+Keep a daily track of your progress so you know when you’re ready to sit the official Theory Test!
+
+FREE PASS GUARANTEE
+We’re so confident that our app will help you pass your Driving Theory Test, we will give you your £23 test fee back if you fail after completing the revision plan in full. Available for learner car drivers and motorcyclists only. T&C’s apply**.
+
+LEARNER PLAN
+Struggling to know where to start with your Theory Test revision? Our structured Learner Plan ensures you a first time pass, guiding you through your revision from start to finish.
+
+LEADERBOARD
+Rev up your revision with our NEW weekly Leaderboard! Earn points for acing practice quizzes, passing Mock Tests and more. Revise for a prize as you make the most of your study sessions.
+
+SMART AI MODE
+Want a more tailored approach to revision? Smart AI Mode makes revising for your theory test more efficient and tracks your progress to help you concentrate on the areas where you need the most support.
+
+VOICEOVER
+English voiceover available for all Driving Theory Test revision questions PLUS The Highway Code...ideal for users with reading difficulties or dyslexia.
+
+HAZARD PERCEPTION TEST
+85 interactive video clips, including all 34 DVSA CGI clips covering bad weather and night time driving, with built-in cheat detection just like in the official test.
+
+THE HIGHWAY CODE 2025 Edition
+Revise and refresh your knowledge of the latest UK Highway Code. Includes English voiceover.
+
+ROAD SIGNS 2025
+Learn ALL the UK road signs with over 1,500 photos and descriptions.
+
+Optional LEARN TO DRIVE PRACTICAL CAR DRIVING CONTENT
+Includes:
+• 3 day trial access to over 250 virtual Practical Driving Lesson videos, to help you learn and understand the routines and manoeuvres that you could be asked to perform on your Driving Test
+• The top 10 reasons for failing
+• Learn how to banish test nerves and anxiety
+• A full mock driving test with examiner debrief
+• All the latest DVSA help and advice on the 'Ready to Pass?' campaign
+Helping you get one step closer to your full DVLA licence
+
+EXCLUSIVE BONUS CONTENT
+Access to exclusive offers and discounts!
+
+AWARDS:
+• Named Apple's No.1 paid iPhone app of 2024, 2023, 2022, 2021, 2020, 2019 & 2018
+• As featured on the Gadget Show
+• Intelligent Instructor Product of the Year 2022, 2023 & 2024
+• App of the Year, FirstCar Awards 2021 & 2019
+• Winner of the Auto Express Theory Test App
+• DIA Driver and Rider Training Awards "Product of the Year"
+
+CONTACT US: support@drivingtestsuccess.com
+
+This app includes the Driver and Vehicle Standards Agency (DVSA) revision question bank. The Driver and Vehicle Standards Agency (DVSA) has given permission for the reproduction of Crown copyright material. DVSA does not accept responsibility for the accuracy of the reproduction.
+
+Requires account creation to access content.
+
+*Based users who complete the Learner Plan in full
+**Pass Guarantee T&C’s apply. See www.drivingtestsuccess.com/app-pass-guarantee
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Iron Marines]]></title>
@@ -1859,141 +2074,5 @@ CAREFULLY REDESIGNED FOR MOBILE
 
 If you run into a problem, please contact us at https://playdigious.helpshift.com/hc/en/12-playdigious/ with as much information as possible on the issue.
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/f5/b5/8af5b556-a302-71bc-8795-8701e51c1f8c/729c9413-28b5-4276-9a33-59a3b6532282_LN_Screen_i14_3_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/21/61/83216164-a9be-3243-8c97-8a41a68c7d80/bea99737-5d26-409c-a3cf-a5784982c565_LN_Screen_i14_2_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9d/4e/84/9d4e842e-0bc9-1e0e-f309-5e50e0168489/5b160f50-ae94-469b-b905-29f6506a8def_LN_Screen_i14_10_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/4a/fb/6e4afb8b-77d7-cdde-0421-2d519c79d594/70034da1-27dc-4483-be80-b6ee3394d81d_LN_Screen_i14_1_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ad/56/f9/ad56f92a-93e0-132d-c5b9-3e099008a153/c3116a4e-76e6-4a77-8717-fa3986ebe8f6_LN_Screen_i14_4_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/58/1a/19581a86-9f81-5aa6-4d4b-1f0c2924c8f2/db77ed27-db2b-472a-a778-b4573d914576_LN_Screen_i14_9_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/17/e7/5e/17e75e56-ae83-ee3f-c9d4-74256b1c3a48/0687ab35-10d4-4ff7-9c67-608e4daa33c5_LN_Screen_i14_13_5.5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/8a/15/4d8a152d-61d5-1681-b8f9-12dca7eef552/5a86a407-0fce-4c81-a154-57ca49c08ac2_LN_Screen_i14_3_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/58/f4/4f/58f44fb7-98c3-0a36-8b64-58d4e74021a8/4f31f6db-a050-4159-a58a-8e1b2aabd339_LN_Screen_i14_2_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/17/48/191748b7-394e-03a4-60c3-60008c0eeb36/0012e6f8-3ea4-436b-9d9b-3e6af2278897_LN_Screen_i14_10_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/16/00/9c/16009cdc-08e7-20d6-2627-482876dd7de5/e05b8bbd-72e8-4a95-bf02-9513a2fd3360_LN_Screen_i14_1_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1a/32/42/1a3242c6-c690-970f-b2ae-8953df39acce/0b8a4544-ec08-48c9-9597-e7dd16610312_LN_Screen_i14_4_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/65/3b/83/653b8301-a545-2821-fea6-adf6725bb046/6dfb2750-63d0-4dad-8a3c-1a490e37a6da_LN_Screen_i14_9_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bf/25/5a/bf255ae9-e138-932e-d292-54b8d3d6e7cb/54cbb40a-8db7-44cb-88e9-75eebd18608e_LN_Screen_i14_13_12.9.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iron Marines]]></title>
-        <id>Iron Marines-tw-1747704603752</id>
-        <link href="https://apps.apple.com/tw/app/iron-marines/id1056920931?uo=4"/>
-        <updated>2025-05-20T01:30:03.752Z</updated>
-        <summary type="html"><![CDATA[英雄超能博士: $150.00 → $90.00<br/>英雄藍色飛龍: $220.00 → $150.00<br/>英雄鐵甲馬克: $220.00 → $150.00<br/>英雄命運女俠: $90.00 → $30.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/iron-marines/id1056920931?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>英雄超能博士：</strong><span>$150.00</span> → <b>
-  <strong>$90.00</strong>
-</b><span>[$90.00 ~ $150.00]</span>
-  </li><li>
-    <strong>英雄藍色飛龍：</strong><span>$220.00</span> → <b>
-  <strong>$150.00</strong>
-</b><span>[$150.00 ~ $220.00]</span>
-  </li><li>
-    <strong>英雄鐵甲馬克：</strong><span>$220.00</span> → <b>
-  <strong>$150.00</strong>
-</b><span>[$150.00 ~ $220.00]</span>
-  </li><li>
-    <strong>英雄命運女俠：</strong><span>$90.00</span> → <b>
-  <strong>$30.00</strong>
-</b><span>[$30.00 ~ $90.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  這是遊戲創作者繼獲獎作品Kingdom Rush（王國保衛戰）三部曲之後的又一超凡太空奇幻歷險之作。即時，動態以及深度策略的遊戲模式將帶你穿越到不可思議的未知星球。沉浸式擬真遊戲場景，過癮的遊戲玩法，以及超凡絕佳的藝術感和一絲詼諧幽默感帶你進入激烈的戰爭世界。勇猛的士兵，威猛的機甲人和強大的外星人通通等你來統率，並肩迎接最強挑戰。
-
-招募和訓練銀河系中最偉大的英雄，率領他們參與幾乎不可能完成的危險任務，發動他們強大的力量和能力。即使是在戰鬥最激烈的時候你也可通過改變自己部隊的角色而進行戰略調整，突擊隊員調整為狙擊兵，火焰噴射器調整為導彈發射器。通過炸彈襲擊，智能地雷，支援部隊，砲塔和各種特種武器轉變戰鬥態勢。
-
-機器人軍隊整裝待發;星際戰艦墜毀了;到處是巨大怪物，未知的種族;所向披靡的攻擊;絕望的營救;無所畏懼地破壞行動正在銀河之中發生......銀河系需要你的統領。
-
-銀河系需要鋼鐵戰隊
-
-遊戲特色
-
-指导你的部队参加3个不同世界的21次任务。準備好發動英勇的攻擊，堅守陣地，拯救平民，潛入超級計算機和各種英雄的物品。每個任務需要新的戰術和行動才能取得勝利。
-
-通過17次終結式特別行動的戰術規則測試你的機智。每個關卡通過傷痕銘記挑戰。諒你也不敢。
-
-解鎖不可能模式。僅對大無畏敢死隊開放。諒你絕對不敢。
-
-在史詩戰鬥中擊敗巨大而非凡的頭目。這些頭目卑鄙而異常地巨大，他們決心要將你碾碎。鋼鐵戰隊，整裝待發！
-
-40+升級以提升你的戰略，同時授予你的部隊防禦無人機，凝固汽油彈火箭，反彈爆炸和更多的器械可使用。
-
-14位具有出色能力的英雄聽從你的調遣。將他們訓練到極致出色，否則惹惱他們後果自負。
-
-8種可向敵人發動進攻的特種武器，讓你的戰術更加具有深度。還有什麼比得上一個瞄準了的導彈？對50枚高爆炸炸彈的軌道炮襲擊！
-
-完成70+成就中的任何成就，贏得你應得的獎勵
-
-選擇你的遊戲困難模式，找到屬於你的公平挑戰：休閒，普通或老兵別太狂妄了要么狂妄一點你自己決定！！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/91/53/de9153dd-653c-e8dc-51bc-6018cc35b50b/822f0b37-135c-4b09-9398-ecfee027d5b1_2208x1242_5-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/0f/d0/dd0fd04e-8132-604b-b171-95e06bb4d947/10a8a69e-f126-42a4-a714-b44639c71873_2208x1242_2-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/92/a0/c6/92a0c67a-5879-3d40-806c-ce89c194d219/f5d557b2-8b0a-4455-ad54-5875200b2c8d_2208x1242_4-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/28/e7/4d/28e74d1f-45e3-ed64-8c76-d4896da280d5/cde13322-d468-47e7-9177-ceb7896d6312_2208x1242_3-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/df/e2/a9dfe293-f633-6816-68ae-427757d3147b/86f5d183-59aa-4c95-a352-24ddaba7a56c_2208x1242_1-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/03/b0/4903b0aa-84e5-7831-74a9-ff27b26a4c36/zh-Hant_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/1c/4c/1c1c4c91-6498-642b-bd28-e41b25c17cff/zh-Hant_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0c/2b/0c/0c2b0cd6-35b7-eab2-3ab2-61fedd498c92/b176156c-a9ef-443c-bee6-bab7b3b4deec_2732x2048_5-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/b8/c7/87b8c771-def4-a791-0ac2-ce7eb6357da6/28f5abfd-8c06-4d7d-905d-cbcf17ab84b4_2732x2048_2-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d0/1d/19/d01d190e-fb08-b846-90f9-ea480098eb2a/08e24119-6757-4458-bf71-7240ac371ad1_2732x2048_4-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8b/6d/a1/8b6da151-ec81-d378-6819-fa6f22e35359/7a30a9d8-9199-46f9-a0cd-a4347dc443ee_2732x2048_3-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/d8/fc/c4d8fc7d-df71-7af4-0fff-aaf9e922332b/cb8b5eb0-e1a9-40c4-b17b-2996edfd9775_2732x2048_1-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d9/a2/98/d9a29891-b4aa-0bbc-b1b5-143d7b6275fe/63c64062-48e3-468a-b858-c6ac51462e29_2732x2048bb__U00281_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/31/a1/44/31a14474-cac1-e895-ec12-cb3b15330aae/47b0430f-a870-42ab-a94d-11fec7c5fa64_2732x2048bb.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Badoo進階版]]></title>
-        <id>Badoo進階版-tw-1747692137986</id>
-        <link href="https://apps.apple.com/tw/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4"/>
-        <updated>2025-05-19T22:02:17.986Z</updated>
-        <summary type="html"><![CDATA[Super Powers: $360.00 → $90.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/d5/13/18d51306-cfcb-e0a4-801d-e54fa7dc6698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Super Powers：</strong><span>$360.00</span> → <b>
-  <strong>$90.00</strong>
-</b><span>[$90.00 ~ $360.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Badoo是全球最大的約會平台，會員人數過億。全世界每天都有無數人在這裡聊天、約會、交友、調情。目前Badoo尊享服務正在限時優惠中！您可以看到哪些人喜歡您，提升個人檔案，並享受其他特權。
-
-除了 Badoo尊享服務功能外，您還可以：
-- 聊天，調情，認識新朋友 
-- 看看附近的Badoo會員 
-- 定期享受新功能 
-- 放鬆，安全認證讓您不再受到虛假賬號的困擾 
-- 滑動瀏覽個人檔案 
-
-馬上加入，在Badoo找到意中人吧！
-
-費用通過您的iTunes賬號收取。訂閱會自動更新，您可以在已付費期間結束前至少24小時關閉自動更新，也可以在購買後，前往iTunes商店設定關閉自動更新。
-如果您不再購買Badoo尊享服務，仍可以繼續免費使用Badoo。
-
-您的私人資料受到Badoo保護。請參見我們的隱私權政策及條款：
-
-https://www.badoo.com/privacy 
-https://badoo.com/terms
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/4a/bc/d44abc26-c385-72c7-a74c-9a3f755e186a/0_APP_IPHONE_55_0.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ff/37/abff3752-57b3-3984-22bc-30114fa7bb1b/1_APP_IPHONE_55_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/79/9c/dc799c19-cfd1-647c-3029-fed5a25a1834/2_APP_IPHONE_55_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/b4/c7/1db4c791-dd92-d5f8-28e5-dbec2dcad0cf/3_APP_IPHONE_55_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/47/4a/d3474a69-0f28-2b4f-46db-7f2bb7c40228/4_APP_IPHONE_55_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/9a/f1/7f9af1c0-1cb4-9a81-ab67-5ab34d0ab317/5_APP_IPHONE_55_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/8e/4a/028e4ad6-0d0e-a4d4-0619-4a519d19a4ef/0_APP_IPAD_PRO_129_0.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/9f/0a/7c9f0a97-925d-2c36-1388-504c18f0917f/1_APP_IPAD_PRO_129_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/f5/0a/33f50a10-3bef-54af-a851-2706b81402da/2_APP_IPAD_PRO_129_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/38/1b/12381b52-8e13-17b3-105a-a93b1844082b/3_APP_IPAD_PRO_129_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/00/d2/4b00d2af-ec7c-9dd8-59b0-c3072b4a22c9/4_APP_IPAD_PRO_129_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/2c/a7/892ca7bf-46f0-17b0-7f4f-9b2df6fb9745/5_APP_IPAD_PRO_129_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUCH — Filters & Bokeh Effect]]></title>
-        <id>LUCH — Filters &amp; Bokeh Effect-tw-1747670554876</id>
-        <link href="https://apps.apple.com/tw/app/luch-filters-bokeh-effect/id1497120981?uo=4"/>
-        <updated>2025-05-19T16:02:34.876Z</updated>
-        <summary type="html"><![CDATA[价格: $10.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/luch-filters-bokeh-effect/id1497120981?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/8f/a7/768fa7de-6762-b739-351e-9d29dc513354/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$10.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $20.00]</span>）
-</h2><h2>应用描述</h2><p>
-  LUCH Films是一款現代應用程序，用於為圖像賦予膠片攝影效果。嘗試獨特的散景效果，漏光，噪音和灰塵效果以及原始濾鏡。
-
-20多個手提濾網
-
-該應用程序有20多種由專業攝影師手工製作的濾鏡。它們是通用的，可模仿各種膠片和柯達和ILFORD製成，用於各種照片和色彩。
-
-內幕故事和進給的膠片框架
-
-我們已經將膠卷框架調整為適合現代屏幕格式，並將其添加到應用程序中，以使膠卷攝影的熱情永遠存在於我們的心靈中。
-
-除塵效果
-
-製作破舊的照片很容易。您不必等待20年，只需選擇35種效果之一。
-
-漏光
-
-您知道我們喜歡小時候看過的這些舊的漏光鏡頭。我們在LUCH FILMS中模擬了相同的閃光。
-
-效果
-
-如果您像我們一樣熱愛散景，那麼您絕對應該喜歡它。從35種散景和棱鏡效果中進行選擇。
-
-沒有廣告，沒有訂閱，沒有應用內購買
-
-完全控制您的圖像，應用與攝影師合作開發的獨特濾鏡。創建獨特的照片，包括新圖層。超過90種效果。可以對圖像應用噪點和灰塵效果，漏光，散景和棱鏡效果。
-
-您可以為信息流或故事選擇圖像的大小，這是Instagram或其他社交網絡的理想選擇。膠卷相框也包括在LUCH膠卷中。
-
-在Instagram上關注@luchfilmsapp，以從我們的用戶社區中汲取靈感。
-我們喜歡聽到您的想法和反饋。請給我發電子郵件hello@vostokapp.ru或在Instagram上通過DM @@ luchfilmsapp向我們發送問題或建議。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dd/4a/82/dd4a8296-5b8c-7ae8-18ac-70ec9300345d/d0e89f8b-e0bc-498e-9cd3-d00e1c344362_Group_1004.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/e9/6d/97e96d91-8718-5c9b-814e-1d2b251a1a39/9d9ed9a1-9dc6-498e-9019-4fe09435277d_Group_992.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/ea/41/dbea4104-d415-ed42-5d72-bfc68918ac03/27c9554f-2ffb-4116-9f7a-9423048642de_Group_1033.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/20/09/e6200980-8b20-ab1a-c07f-f1838d27ba09/fa381b19-edc3-4542-98a9-37134c4a3a85_Group_1032.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/94/37/bd9437e0-0488-26f2-25f3-b9957e62ddfe/f36dbd84-605b-4a28-81e0-1f511c9f314e_Group_1034.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/17/c3/d317c334-ad9f-a716-9204-832370b9b736/026954c8-11b9-4714-bd81-3b6c87c13908_Group_1030.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/3f/d3/3b3fd3dd-0d05-0f5f-2d5f-86bd361c9c20/7b938047-d866-44ad-8a01-b26447f0fd70_Group_1031.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/6b/91/2a6b91ff-cae9-f2d8-9012-1ecf8d343fb7/196b3455-4eed-4d2c-8374-c197652a8e38_Group_998.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/da/78/acda7899-5c13-e880-7283-a745440be7e4/86217d6c-6d55-48c3-bdfc-9c964ff2ff9b_Group_994.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f8/40/8f/f8408f24-9df9-4c85-c965-d27bf40fda09/b8d6eef1-6482-48ab-a052-9b42d18ec046_ipad-2-3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/a7/75/22a775a6-0f88-b05c-29f0-5fdc02c14df4/782c79ca-9d65-485e-9d2a-7433b8b8c810_ipad-2-2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/b7/8d/76b78d6a-32f8-2b2c-0510-30f6ddcdfd8e/02ad3071-384d-4431-af5b-551645b4e7c9_ipad-2-1.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
