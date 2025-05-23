@@ -4150,6 +4150,23 @@
     "history": [
       [
         {
+          "timestamp": 1747987381270,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "Drumaxx": "USD 1.99",
+            "Ferrous Mobile": "USD 2.99",
+            "Hyper-Pop Mobile": "USD 2.99",
+            "Chip-Tune Mobile": "USD 2.99",
+            "Essential Winds": "USD 1.99",
+            "Essential Strings": "USD 1.99",
+            "DubTechno": "USD 1.99",
+            "Chill-Lo-Fi Mobile": "USD 1.99",
+            "Technocraft": "USD 1.99",
+            "Brazil Bass": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1747983740574,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -19470,6 +19487,27 @@
             "250次加量包": "USD 4.99",
             "150次加量包": "USD 2.99"
           }
+        }
+      ]
+    ]
+  },
+  "1072395467": {
+    "name": "60 Seconds! Atomic Adventure",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747987381270,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
         }
       ]
     ]
