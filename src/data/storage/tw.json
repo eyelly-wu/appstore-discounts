@@ -18644,6 +18644,23 @@
     "history": [
       [
         {
+          "timestamp": 1748034143126,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Font Access": "$170.00",
+            "Ultimate Access": "$440.00",
+            "Pro Access": "$300.00",
+            "Phrase sharing": "$120.00",
+            "Gradient Rainbow": "$30.00",
+            "Abstract Theme 5": "$30.00",
+            "Gradient Bundle": "$60.00",
+            "Abstract Theme 1": "$30.00",
+            "Gradient Purple Theme": "$30.00",
+            "Nature Beach Night Theme": "$30.00"
+          }
+        },
+        {
           "timestamp": 1748030555725,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -65210,7 +65227,7 @@
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
-      "高級功能": "$90.00"
+      "高級功能": "$150.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -65218,6 +65235,16 @@
       "高級功能": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748034143126,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747576925404,

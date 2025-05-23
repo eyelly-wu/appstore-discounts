@@ -65605,7 +65605,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
-      "Premium Features": "$2.99"
+      "Premium Features": "$4.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -65613,6 +65613,16 @@
       "Premium Features": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748034143126,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747625032427,
