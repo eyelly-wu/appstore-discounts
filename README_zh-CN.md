@@ -1131,7 +1131,7 @@
 |17|1369179088|手动|❌|Grimvalor|Grimvalor|Grimvalor|Grimvalor|Grimvalor|
 |16|1669723530|手动|原界之罪|❌|❌|❌|❌|❌|
 |15|481629890|手动|❌|LIMBO by Playdead|LIMBO by Playdead|LIMBO by Playdead|LIMBO by Playdead|LIMBO by Playdead|
-|14|656951157|手动|❌|Playdead's LIMBO|Playdead's LIMBO|Playdead's LIMBO|Playdead's LIMBO|Playdead's LIMBO|
+|14|656951157|手动|❌|Playdead所開發的《LIMBO》|Playdead所開發的《LIMBO》|Playdead所開發的《LIMBO》|Playdead's LIMBO|Playdead's LIMBO|
 |13|886561127|手动|❌|INSIDE by Playdead|INSIDE by Playdead|INSIDE by Playdead|INSIDE by Playdead|INSIDE by Playdead|
 |12|1201642309|手动|❌|Playdead's INSIDE|Playdead's INSIDE|Playdead's INSIDE|Playdead's INSIDE|Playdead's INSIDE|
 |11|1529448980|手动|❌|Reeder Classic.|Reeder Classic.|Reeder Classic.|Reeder Classic.|Reeder Classic.|
