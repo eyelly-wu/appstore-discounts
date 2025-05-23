@@ -25134,7 +25134,14 @@
       "Get inside the temple door password": "$30.00",
       "Rockets get the door unlocking": "$30.00",
       "Get the factory door unlock": "$30.00",
-      "Open the box to the sea": "$30.00"
+      "Open the box to the sea": "$30.00",
+      "Purchase game": "$30.00",
+      "Get tips on holographic camera": "$30.00",
+      "Get tips about two weeks mesh box factory eye": "$30.00",
+      "Get tips about the triangle blocks (1-6)": "$30.00",
+      "Get tips on the bucket": "$30.00",
+      "Get tips on stone-eyed": "$30.00",
+      "Get tips about this mysterious stone": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -25149,9 +25156,35 @@
       "Get inside the temple door password": "$30.00",
       "Rockets get the door unlocking": "$30.00",
       "Get the factory door unlock": "$30.00",
-      "Open the box to the sea": "$30.00"
+      "Open the box to the sea": "$30.00",
+      "Purchase game": "$30.00",
+      "Get tips on holographic camera": "$30.00",
+      "Get tips about two weeks mesh box factory eye": "$30.00",
+      "Get tips about the triangle blocks (1-6)": "$30.00",
+      "Get tips on the bucket": "$30.00",
+      "Get tips on stone-eyed": "$30.00",
+      "Get tips about this mysterious stone": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747963792521,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Purchase game": "$30.00",
+            "Props Tip: Temple corner": "$30.00",
+            "Props Tip: Pyramid": "$30.00",
+            "Props Tip: flower": "$30.00",
+            "Get tips on holographic camera": "$30.00",
+            "Get tips about two weeks mesh box factory eye": "$30.00",
+            "Get tips about the triangle blocks (1-6)": "$30.00",
+            "Get tips on the bucket": "$30.00",
+            "Get tips on stone-eyed": "$30.00",
+            "Get tips about this mysterious stone": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746331470214,
@@ -42569,6 +42602,25 @@
     "history": [
       [
         {
+          "timestamp": 1747963792521,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$990.00",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "$990.00",
+            "Albert：不走弯路学英语": "$190.00",
+            "聆听诺奖背后的时代之音": "$490.00",
+            "顾悦：如何成为英语学习高手": "$490.00",
+            "林小鹿英语精读（1-7季合集升级版）": "$2,290.00",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "$990.00",
+            "林小鹿经济学人精读": "$690.00",
+            "地道美式发音课": "$1,290.00",
+            "顾悦：20天脱口而出地道英语口语": "$490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747717353327,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -59745,14 +59797,22 @@
   "6742396803": {
     "name": "DaDaDaDa - Air Gun Simulator",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747963792521,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -67136,6 +67196,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747963792521,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品2": "$120.00",
+            "0.99美元商品": "$30.00",
+            "12.99美元商品2": "$390.00",
+            "49.99美元商品": "$1,490.00",
+            "3.99美元商品": "$120.00",
+            "8.99美元商品": "$290.00",
+            "12.99美元商品": "$390.00",
+            "14.99美元商品": "$490.00",
+            "19.99美元商品": "$690.00",
+            "99.99美元商品": "$2,990.00"
+          }
+        },
         {
           "timestamp": 1747940529582,
           "price": 10,

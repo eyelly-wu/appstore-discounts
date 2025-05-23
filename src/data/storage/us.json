@@ -21872,7 +21872,8 @@
       "Neon Rhapsody Challenge Pass": "$2.99",
       "Colorful Meteor Shower Pass": "$2.99",
       "Challenge Pass": "$3.99",
-      "Expansion Ch. Y": "$3.99"
+      "Expansion Ch. Y": "$3.99",
+      "ULTRA BONK Hour Challenge Pass": "$2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -21900,11 +21901,29 @@
       "Glorious Chorus Challenge Pass": "$2.99",
       "Neon Rhapsody Challenge Pass": "$2.99",
       "Colorful Meteor Shower Pass": "$2.99",
-      "Challenge Pass": "$3.99",
-      "Expansion Ch. Y": "$3.99"
+      "Challenge Pass": "$2.99",
+      "Expansion Ch. Y": "$3.99",
+      "ULTRA BONK Hour Challenge Pass": "$2.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747963792521,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "ULTRA BONK Hour Challenge Pass": "$2.99",
+            "Radiant Star Trail Pass": "$3.99",
+            "KALPA Collaboration Pass": "$2.99",
+            "Main Story Ch. VIII": "$9.99",
+            "Glorious Chorus Challenge Pass": "$2.99",
+            "Neon Rhapsody Challenge Pass": "$2.99",
+            "Colorful Meteor Shower Pass": "$2.99",
+            "Halv Selection Challenge Pass": "$2.99",
+            "Challenge Pass": "$2.99",
+            "Expansion Ch. Y": "$3.99"
+          }
+        },
         {
           "timestamp": 1747929759874,
           "price": 1.99,
@@ -26149,7 +26168,13 @@
       "Road & Track Pack": "$0.00",
       "Drag Pack": "$0.00",
       "Sprint Pack": "$0.00",
-      "Coupé Style Pack": "$0.00"
+      "Coupé Style Pack": "$0.00",
+      "Party Mode HD Textures": "$0.00",
+      "Street HD Textures": "$0.00",
+      "Tuner HD Textures": "$0.00",
+      "Open Wheel HD Textures": "$0.00",
+      "Endurance HD Textures": "$0.00",
+      "Touring HD Textures": "$0.00"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -26161,9 +26186,34 @@
       "Road & Track Pack": "$0.00",
       "Drag Pack": "$0.00",
       "Sprint Pack": "$0.00",
-      "Coupé Style Pack": "$0.00"
+      "Coupé Style Pack": "$0.00",
+      "Party Mode HD Textures": "$0.00",
+      "Street HD Textures": "$0.00",
+      "Tuner HD Textures": "$0.00",
+      "Open Wheel HD Textures": "$0.00",
+      "Endurance HD Textures": "$0.00",
+      "Touring HD Textures": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747963792521,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "HD Textures": "$0.00",
+            "Party Mode HD Textures": "$0.00",
+            "Street HD Textures": "$0.00",
+            "Tuner HD Textures": "$0.00",
+            "Open Wheel HD Textures": "$0.00",
+            "Endurance HD Textures": "$0.00",
+            "Touring HD Textures": "$0.00",
+            "All DLC": "$0.00",
+            "Black Edition Pack": "$0.00",
+            "Best of British Pack": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745406133842,
@@ -26344,6 +26394,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747963792521,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "Total Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "660 Rubies": "$8.99",
+            "Magic Package": "$8.99",
+            "Element Package": "$15.99",
+            "Rebirth EXP increase": "$8.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Element EXP increase": "$8.99"
+          }
+        },
         {
           "timestamp": 1747886668236,
           "price": 0.99,
@@ -38487,6 +38554,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747963792521,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$6.99"
+          }
+        },
         {
           "timestamp": 1747886668236,
           "price": 0,

@@ -27557,6 +27557,17 @@
     "history": [
       [
         {
+          "timestamp": 1747963792521,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "HK$ 288.00",
+            "Lifetime license": "HK$ 388.00",
+            "Yearly Subscription": "HK$ 158.00",
+            "Monthly Subscription": "HK$ 43.00"
+          }
+        },
+        {
           "timestamp": 1747940529582,
           "price": 0,
           "formattedPrice": "免費",
@@ -31347,6 +31358,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747963792521,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "新手上路包": "HK$ 8.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "Phigros": "HK$ 15.00"
+          }
+        },
         {
           "timestamp": 1747951345446,
           "price": 23,
@@ -60203,14 +60231,22 @@
   "6742396803": {
     "name": "DaDaDaDa - Air Gun Simulator",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747963792521,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
