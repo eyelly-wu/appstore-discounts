@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1163105252,
+    name: {
+      mo: 'FRAMED 2 - 致命框架 2',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1469235524,
+    name: {
+      mo: 'The House of Da Vinci 3',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6471014445,
     name: {
       mo: 'Hop To It! A Piano Adventure',

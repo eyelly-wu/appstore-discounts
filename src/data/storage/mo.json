@@ -21707,6 +21707,27 @@
       ]
     ]
   },
+  "1163105252": {
+    "name": "FRAMED 2 - 致命框架 2",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748041336482,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1163515895": {
     "name": "鲨鱼记账Pro-3秒钟快速记账",
     "maxPriceInfo": {
@@ -34063,6 +34084,27 @@
           "inAppPurchases": {
             "Advanced Features": "USD 0.99"
           }
+        }
+      ]
+    ]
+  },
+  "1469235524": {
+    "name": "The House of Da Vinci 3",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748041336482,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -51621,14 +51663,22 @@
   "6467822375": {
     "name": "Auto Redial App",
     "maxPriceInfo": {
-      "price": 0.79,
-      "formattedPrice": "USD 0.79"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.79,
       "formattedPrice": "USD 0.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748041336482,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
