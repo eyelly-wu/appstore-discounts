@@ -24934,6 +24934,25 @@
     "history": [
       [
         {
+          "timestamp": 1748037728059,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "一堆猴幣促銷": "HK$ 22.00",
+            "全塔解鎖": "HK$ 38.00",
+            "猴幣": "HK$ 18.00",
+            "塔XP": "HK$ 8.00",
+            "10個知識點": "HK$ 58.00",
+            "一堆猴幣": "HK$ 38.00",
+            "解鎖典範": "HK$ 38.00",
+            "知識點": "HK$ 8.00",
+            "一保險庫的猴幣促銷": "HK$ 88.00",
+            "完全解鎖防禦塔和典範": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747972999434,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -65058,7 +65077,7 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "高級功能": "HK$ 22.00"
+      "高級功能": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -65066,6 +65085,16 @@
       "高級功能": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748037728059,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747576925404,
