@@ -5530,9 +5530,19 @@
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99",
-      "DVSA Driving essential skills": "₺449,99"
+      "DVSA Driving essential skills": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748001824436,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "DVSA Driving essential skills": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745470938782,
