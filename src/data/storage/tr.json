@@ -5880,6 +5880,23 @@
     "history": [
       [
         {
+          "timestamp": 1747958955753,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Chapter D": "₺229,99",
+            "Chapter R": "₺229,99",
+            "Chapter N": "₺179,99",
+            "Chapter 0": "₺229,99",
+            "Chapter K": "₺229,99",
+            "Chapter T": "₺229,99",
+            "Chapter S": "₺229,99",
+            "Chapter L": "₺449,99",
+            "Chapter 8": "₺229,99",
+            "Chapter 10": "₺229,99"
+          }
+        },
+        {
           "timestamp": 1747954934998,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -46163,14 +46180,22 @@
   "6742396803": {
     "name": "DaDaDaDa - Air Gun Simulator",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747958955753,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

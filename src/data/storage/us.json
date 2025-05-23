@@ -2509,6 +2509,23 @@
     "history": [
       [
         {
+          "timestamp": 1747958955753,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "连续包月": "$3.99",
+            "6香蕉贝": "$0.99",
+            "30香蕉贝": "$3.99",
+            "连续包年": "$39.99",
+            "免广告会员十二个月": "$1.99",
+            "68香蕉贝": "$9.99",
+            "6随手贝": "$0.99",
+            "233香蕉贝": "$34.99",
+            "128香蕉贝": "$19.99",
+            "专业会员·无限版-1个月": "$19.99"
+          }
+        },
+        {
           "timestamp": 1747954934998,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -61278,14 +61295,22 @@
   "6742396803": {
     "name": "DaDaDaDa - Air Gun Simulator",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747958955753,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -67854,10 +67879,18 @@
       "formattedPrice": "$2.49"
     },
     "minPriceInfo": {
-      "price": 2.49,
-      "formattedPrice": "$2.49"
+      "price": 1.49,
+      "formattedPrice": "$1.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747958955753,
+          "price": 1.49,
+          "formattedPrice": "$1.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745593334191,
