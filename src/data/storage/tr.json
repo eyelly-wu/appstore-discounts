@@ -13546,6 +13546,27 @@
       ]
     ]
   },
+  "828392046": {
+    "name": "Teach Your Monster to Read",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748095327810,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "829581836": {
     "name": "Driving Theory Test 4 in 1 Kit",
     "maxPriceInfo": {
@@ -39301,8 +39322,8 @@
       "SkySafari Premium Monthly": "₺68,99"
     },
     "minPriceInfo": {
-      "price": 699.99,
-      "formattedPrice": "₺699,99",
+      "price": 599.99,
+      "formattedPrice": "₺599,99",
       "SkySafari Premium": "₺1.299,99",
       "GAIA Star Database": "₺0,00",
       "PGC Galaxy Database": "₺0,00",
@@ -39310,6 +39331,20 @@
       "SkySafari Premium Monthly": "₺68,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748095327810,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {
+            "SkySafari Premium": "₺1.299,99",
+            "GAIA Star Database": "₺0,00",
+            "PGC Galaxy Database": "₺0,00",
+            "Apollo Lunar Missions": "₺0,00",
+            "SkySafari Premium Monthly": "₺68,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747926153643,
@@ -52251,6 +52286,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748095327810,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747558923025,

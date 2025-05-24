@@ -3867,6 +3867,18 @@
     "history": [
       [
         {
+          "timestamp": 1748095327810,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "pack of 100 Badoo credits": "$1.99",
+            "Pack of 100 Credits": "$3.99",
+            "Badoo Premium": "$5.99",
+            "Super Powers": "$2.99",
+            "pack of 550 Badoo credits": "$7.99"
+          }
+        },
+        {
           "timestamp": 1748092119882,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -15483,6 +15495,23 @@
     "history": [
       [
         {
+          "timestamp": 1748095327810,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "700 Aces": "$9.99",
+            "Race Pass": "$4.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "15000 Aces": "$99.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "Le Cont Softs - 40 Tyres Pack": "$3.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99"
+          }
+        },
+        {
           "timestamp": 1748092119882,
           "price": 0,
           "formattedPrice": "Free",
@@ -16954,6 +16983,27 @@
           "timestamp": 1722784406759,
           "price": 5.99,
           "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "828392046": {
+    "name": "Teach Your Monster to Read",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748095327810,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
           "inAppPurchases": {}
         }
       ]
@@ -25593,6 +25643,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748095327810,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "$0.99",
+            "Get the main entrance lighthouse passcode": "$0.99",
+            "Props Tip: Pyramid": "$0.99",
+            "Props Tip: Temple corner": "$0.99",
+            "Props Tip: flower": "$0.99",
+            "Get coffin password": "$0.99",
+            "Pyramid obtain dial pointer display mode": "$0.99",
+            "Get inside the temple door password": "$0.99",
+            "Rockets get the door unlocking": "$0.99",
+            "Get the factory door unlock": "$0.99"
+          }
+        },
         {
           "timestamp": 1748092119882,
           "price": 0.99,
@@ -50367,8 +50434,8 @@
       "Apollo Lunar Missions": "$0.00"
     },
     "minPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "$14.99",
+      "price": 12.99,
+      "formattedPrice": "$12.99",
       "SkySafari Premium": "$29.99",
       "SkySafari Premium Monthly": "$3.99",
       "PGC Galaxy Database": "$0.00",
@@ -50376,6 +50443,20 @@
       "Apollo Lunar Missions": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748095327810,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {
+            "SkySafari Premium": "$29.99",
+            "SkySafari Premium Monthly": "$3.99",
+            "PGC Galaxy Database": "$0.00",
+            "GAIA Star Database": "$0.00",
+            "Apollo Lunar Missions": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747926153643,

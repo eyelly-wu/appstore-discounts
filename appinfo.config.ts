@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 828392046,
+    name: {
+      hk: 'Teach Your Monster to Read',
+    },
+    addType: 'auto',
+  },
+  {
     id: 393670998,
     name: {
       mo: '欧路词典 Eudic 增强版',

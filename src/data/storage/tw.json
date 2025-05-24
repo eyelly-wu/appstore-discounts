@@ -16555,6 +16555,27 @@
       ]
     ]
   },
+  "828392046": {
+    "name": "Teach Your Monster to Read",
+    "maxPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "minPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748095327810,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "829581836": {
     "name": "Driving Theory Test 4 in 1 Kit",
     "maxPriceInfo": {
@@ -48728,8 +48749,8 @@
       "SkySafari Premium": "$990.00"
     },
     "minPriceInfo": {
-      "price": 490,
-      "formattedPrice": "$490.00",
+      "price": 390,
+      "formattedPrice": "$390.00",
       "SkySafari Premium Monthly": "$120.00",
       "PGC Galaxy Database": "$0.00",
       "GAIA Star Database": "$0.00",
@@ -48737,6 +48758,20 @@
       "SkySafari Premium": "$990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748095327810,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {
+            "SkySafari Premium": "$990.00",
+            "SkySafari Premium Monthly": "$120.00",
+            "PGC Galaxy Database": "$0.00",
+            "GAIA Star Database": "$0.00",
+            "Apollo Lunar Missions": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747926153643,
@@ -55117,6 +55152,25 @@
       "信息禮包": "$390.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748095327810,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Autonomy": "$90.00",
+            "Time Flow": "$90.00",
+            "賽季通行證": "$220.00",
+            "角色通行證": "$390.00",
+            "勇者研究": "$190.00",
+            "尼奧禮包": "$150.00",
+            "婚禮禮包": "$150.00",
+            "解鎖性質": "$220.00",
+            "鍛造禮包": "$220.00",
+            "賽季０戰鬥通行證": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747922542969,
