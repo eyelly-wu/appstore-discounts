@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1134126831,
+    name: {
+      mo: 'PhET 互動式模擬教材',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1163105252,
     name: {
       mo: 'FRAMED 2 - 致命框架 2',

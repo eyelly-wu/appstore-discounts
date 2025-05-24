@@ -4998,6 +4998,23 @@
     "history": [
       [
         {
+          "timestamp": 1748062940155,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "PsyTrance": "HK$ 22.00",
+            "Amped Guitar & Bass": "HK$ 22.00",
+            "Tuned 808 Bass": "HK$ 8.00",
+            "Synth Lead": "HK$ 18.00",
+            "Voices": "HK$ 8.00",
+            "Acoustic Guitars": "HK$ 8.00",
+            "Varazdin Orchestral Mobile": "HK$ 32.00",
+            "Chill-Lo-Fi Mobile": "HK$ 18.00",
+            "Synth Plucks": "HK$ 18.00",
+            "Technocraft": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1748059347018,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
@@ -25531,6 +25548,27 @@
       ]
     ]
   },
+  "1134126831": {
+    "name": "PhET 互動式模擬教材",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748062940155,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1134805859": {
     "name": "迷失島",
     "maxPriceInfo": {
@@ -27842,6 +27880,19 @@
       "Monthly Subscription": "HK$ 43.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748062940155,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "HK$ 288.00",
+            "Yearly Subscription": "HK$ 158.00",
+            "Lifetime license": "HK$ 788.00",
+            "Monthly Subscription": "HK$ 43.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747963792521,
@@ -31645,6 +31696,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748062940155,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "Phigros": "HK$ 15.00",
+            "Miku in Museland": "HK$ 68.00",
+            "肥宅快樂包 SP": "HK$ 28.00"
+          }
+        },
         {
           "timestamp": 1748016149713,
           "price": 23,

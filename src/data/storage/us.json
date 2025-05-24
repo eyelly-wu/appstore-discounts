@@ -12023,6 +12023,23 @@
     "history": [
       [
         {
+          "timestamp": 1748062940155,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        },
+        {
           "timestamp": 1748059347018,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -25388,6 +25405,27 @@
       ]
     ]
   },
+  "1134126831": {
+    "name": "PhET Simulations",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748062940155,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1134805859": {
     "name": "Isoland",
     "maxPriceInfo": {
@@ -26681,6 +26719,25 @@
       "Hell Package": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748062940155,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "Magic Package": "$8.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Element Package": "$15.99",
+            "Rebirth EXP increase": "$8.99",
+            "180 Rubies": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748030555725,
@@ -31809,6 +31866,24 @@
       "Aquaria Cruising Guide": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748062940155,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747724553603,
@@ -38931,6 +39006,22 @@
     "history": [
       [
         {
+          "timestamp": 1748062940155,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$1.99",
+            "Dotted Squares: Draft Papers": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748053790672,
           "price": 0,
           "formattedPrice": "Free",
@@ -41783,6 +41874,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748062940155,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Resource Package": "$2.99",
+            "Teammate Package": "$4.99",
+            "Role Package": "$2.99",
+            "Role Package III": "$9.99",
+            "Heroic Package#2": "$9.99",
+            "Gold Decree": "$89.99",
+            "Heroic Package#3": "$49.99",
+            "Heroic Package#1": "$9.99",
+            "Teammate Package#2": "$4.99",
+            "Silver Decree": "$49.99"
+          }
+        },
         {
           "timestamp": 1748059347018,
           "price": 0.99,
@@ -55928,6 +56036,24 @@
     "history": [
       [
         {
+          "timestamp": 1748062940155,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "心愿礼包": "$5.99",
+            "聚财盆": "$2.99",
+            "超值月卡": "$3.99",
+            "豪华月卡": "$9.99",
+            "犒赏令": "$9.99",
+            "新手导师": "$9.99",
+            "SP武将碎片": "$39.99",
+            "竞赛VIP赛季卡": "$3.99",
+            "新手成长礼包": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747401029118,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -66031,6 +66157,23 @@
     "history": [
       [
         {
+          "timestamp": 1748062940155,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 737-900": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A380": "$1.99",
+            "UH-60": "$0.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        },
+        {
           "timestamp": 1748059347018,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -67824,6 +67967,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748062940155,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 1990": "$0.99",
+            "Bundle MLB 1980s": "$4.99",
+            "Bundle MLB 2010s": "$4.99",
+            "Bundle MLB 1990s": "$4.99"
+          }
+        },
         {
           "timestamp": 1748059347018,
           "price": 9.99,
