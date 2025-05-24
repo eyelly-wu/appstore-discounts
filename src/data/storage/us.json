@@ -21423,6 +21423,23 @@
     "history": [
       [
         {
+          "timestamp": 1748070136643,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "[A heap of crystals]": "$0.99",
+            "[A box of crystals]": "$2.99",
+            "[A package of crystals]": "$3.99",
+            "[A big package of crystals]": "$9.99",
+            "[A chest of crystals]": "$19.99",
+            "Coupon of the Greedy Cave": "$2.99",
+            "Package4": "$9.99",
+            "[A big chest of crystals]": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747839756699,
           "price": 0.99,
           "formattedPrice": "$0.99",
