@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-23T14:22:10.786Z</updated>
+    <updated>2025-05-24T03:38:09.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-23T14:22:10.788Z</updated>
+        <updated>2025-05-24T03:38:09.683Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 23 May 2025 14:22:10 GMT</id>
+        <id>rankingcnSat, 24 May 2025 03:38:09 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-23T14:22:10.788Z</updated>
+        <updated>2025-05-24T03:38:09.683Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1073</b>
+        <b>1076</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>872</b>
+        <b>875</b>
       </td>
       <td>
         <b>12</b>
@@ -67,13 +67,13 @@ feedId:49753297431966720+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>591</b>
+        <b>592</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>429</b>
+        <b>430</b>
       </td>
       <td>
         <b>10</b>
@@ -193,6 +193,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>英雄枪手</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
       </td>
       <td>
@@ -207,7 +230,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id406541444">8毫米相机</a>
@@ -230,7 +253,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id463295925">Official DVSA Theory Test Kit</a>
@@ -253,7 +276,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id510249014">水平仪 HD</a>
@@ -270,7 +293,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
@@ -293,7 +316,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1055511498">Day One 日記：私人日記</a>
@@ -316,7 +339,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1344655035">蜡烛人</a>
@@ -339,7 +362,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -356,7 +379,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400652313">冰钓大师</a>
@@ -373,7 +396,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1437479513">逃脱者：困境突围</a>
@@ -390,7 +413,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -407,7 +430,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -424,7 +447,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -441,7 +464,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
@@ -458,7 +481,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -475,27 +498,10 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1551596643">模拟地铁</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
+        <a href="https://apps.apple.com/cn/app/id1551596643">模拟地铁</a>
       </td>
       <td>
         <ul>
@@ -813,6 +819,53 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钢铁战队(R)]]></title>
+        <id>钢铁战队(R)-cn-1748056671552</id>
+        <link href="https://apps.apple.com/cn/app/%E9%92%A2%E9%93%81%E6%88%98%E9%98%9F-r/id1659316190?uo=4"/>
+        <updated>2025-05-24T03:17:51.552Z</updated>
+        <summary type="html"><![CDATA[英雄枪手: ¥15.00 → ¥9.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%92%A2%E9%93%81%E6%88%98%E9%98%9F-r/id1659316190?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/50/09/965009ec-37cc-8290-2945-04385b9bf59f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>英雄枪手：</strong><span>¥15.00</span> → <b>
+  <strong>¥9.00</strong>
+</b><span>[¥9.00 ~ ¥15.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  ===铁皮公司正版授权===
+===中国地区正式回归===
+
+这是游戏创作者继获奖作品Kingdom Rush（王国保卫战）三部曲之后的又一超凡太空奇幻历险之作。即时，动态以及深度策略的游戏模式将带你穿越到不可思议的未知星球。沉浸式拟真游戏场景，过瘾的游戏玩法，以及超凡绝佳的艺术感和一丝诙谐幽默感带你进入激烈的战争世界。勇猛的士兵，威猛的机甲人和强大的外星人通通等你来统率，并肩迎接最强挑战。
+
+招募和训练银河系中最伟大的英雄，率领他们参与几乎不可能完成的危险任务，发动他们强大的力量和能力。即使是在战斗最激烈的时候你也可通过改变自己部队的角色而进行战略调整，突击队员调整为狙击兵，火焰喷射器调整为导弹发射器。通过炸弹袭击，智能地雷，支援部队，砲塔和各种特种武器转变战斗态势。
+
+机器人军队整装待发;星际战舰坠毁了;到处是巨大怪物，未知的种族;所向披靡的攻击;绝望的营救;无所畏惧地破坏行动正在银河之中发生......银河系需要你的统领。
+
+银河系需要钢铁战队
+
+***游戏特色***
+
+-指导你的部队参加3个不同世界的21次任务。准备好发动英勇的攻击，坚守阵地，拯救平民，潜入超级计算机和各种英雄的物品。每个任务需要新的战术和行动才能取得胜利。
+
+-通过17次终结式特别行动的战术规则测试你的机智。每个关卡通过伤痕铭记挑战。谅你也不敢。
+
+-解锁不可能模式。仅对大无畏敢死队开放。谅你绝对不敢。
+
+-在史诗战斗中击败巨大而非凡的头目。这些头目卑鄙而异常地巨大，他们决心要将你碾碎。钢铁战队，整装待发！
+
+-40+升级以提升你的战略，同时授予你的部队防御无人机，凝固汽油弹火箭，反弹爆炸和更多的器械可使用。
+
+-14位具有出色能力的英雄听从你的调遣。将他们训练到极致出色，否则惹恼他们后果自负。
+
+-8种可向敌人发动进攻的特种武器，让你的战术更加具有深度。还有什么比得上一个瞄准了的导弹？对50枚高爆炸炸弹的轨道炮袭击！
+
+-完成70+成就中的任何成就，赢得你应得的奖励。
+
+选择你的游戏困难模式，找到属于你的公平挑战：休闲，普通或老兵，你自己决定！！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/01/b2/27/01b22791-5ad9-12f0-1303-5b4ea10cc68f/ffcae78f-3562-4909-91e1-da21e20a7267_2208x1242_1-zh-cn.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/dc/ca/10/dcca10a7-0883-7fdb-18f3-0e14dc31ce3b/72e4089c-698c-48db-9337-21c50668b5db_2208x1242_2-zh-cn.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/06/a9/42/06a94223-f919-b565-e550-e11b99966fba/4ba42fc5-6516-47c1-a10e-c4f1404bfe24_2208x1242_3-zh-cn.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a2/f0/7a/a2f07af9-b905-c5d1-bd91-30640d35a03b/d1682118-3b77-4757-b4ee-204446ffd010_2208x1242_4-zh-cn.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/64/f7/11/64f71168-0d7f-124d-0d19-36939e3fe28f/b8af4872-d0a9-4a9c-a5e5-a2a499f6bb62_2208x1242_5-zh-cn.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/73/5d/c0/735dc061-969c-6809-8ba4-b846c6f5c262/d8bd83cd-f74a-46f3-b07a-6d03282d13f8_2732x2048_1-zh-cn.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/51/61/a4/5161a423-1a2f-99e9-bb70-7855d6e8bcad/d0fe1f38-7a94-4854-b6a4-d20aff512cb6_2732x2048_2-zh-cn.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/46/41/5f/46415fce-724e-3cfb-e3f6-3ad34d975a7d/3060744b-f471-40e9-8a4e-aa462f507762_2732x2048_3-zh-cn.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/14/25/6c/14256c65-1a3e-806c-53b4-ccb27a1be4a0/1252fdb8-9668-4ea9-889b-eca37bf47617_2732x2048_4-zh-cn.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/24/a3/54/24a3546c-0971-d227-0473-de60c04866f9/a3c210be-fe80-4b87-8bbd-41284b92e738_2732x2048_5-zh-cn.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[避难所：生存]]></title>
@@ -1440,97 +1493,5 @@ Luwian 是业余和专业摄影师的强大工具，提供一系列功能，使�
 
 联系邮箱：yan@anotherindie.com.cn
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赛博神医-猜病每日挑战小测验]]></title>
-        <id>赛博神医-猜病每日挑战小测验-cn-1747794703804</id>
-        <link href="https://apps.apple.com/cn/app/%E8%B5%9B%E5%8D%9A%E7%A5%9E%E5%8C%BB-%E7%8C%9C%E7%97%85%E6%AF%8F%E6%97%A5%E6%8C%91%E6%88%98%E5%B0%8F%E6%B5%8B%E9%AA%8C/id6744998205?uo=4"/>
-        <updated>2025-05-21T02:31:43.804Z</updated>
-        <summary type="html"><![CDATA[价格: ¥1.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E8%B5%9B%E5%8D%9A%E7%A5%9E%E5%8C%BB-%E7%8C%9C%E7%97%85%E6%AF%8F%E6%97%A5%E6%8C%91%E6%88%98%E5%B0%8F%E6%B5%8B%E9%AA%8C/id6744998205?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/53/2f/85532f7b-20af-6f40-429e-3f246a7e4ed4/AppIcon-0-1x_U007epad-0-1-85-220-0.jpeg/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥1.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥1.00]</span>）
-</h2><h2>应用描述</h2><p>
-  想尝试医生护士的日常，却没时间读医学院？
-这款应用让你随时随地体验医生护士的日常生活！
-医疗模拟新体验，轻松解锁白大褂技能！
-
-1. 【速诊挑战】
-1. 面对真实病例，60秒内给出诊断
-2. 越准越快，评级越高（S级大神就是你！）
-3. 从菜鸟到专家，四级难度逐步挑战
-4. 解锁医生职称，从实习医生晋升到主任医师
-2. 【赛博护士】
-1. 与难缠的患者实时对话，每次对话都是独特体验
-2. 遇见各类"脾气"患者——焦虑的、生气的、怀疑的，用沟通技巧征服他们
-3. 通过选择合适的回应，提升患者好感度，达95%即可通关
-4. 患者情绪实时变化，你的每句话都在影响治疗结果
-3. 【赛博医生】
-1. 当一次赛博医生，对话诊断患者疾病；
-2. 多样化病例库：每个难度对应不同疾病类型，从常见病到罕见疾病
-3. 计时挑战：在有限时间内完成诊断，考验反应速度和专业判断
-
-特色功能
-1. 医学情景高度还原：基于真实医疗场景设计
-2. 多样化患者反应：不再是固定剧本，每次对话都充满惊喜
-3. 进度保存：随时暂停，随时继续你的医疗生涯
-4. 无需专业知识：即使零医学背景也能轻松上手
-
-用户真实评价
-"下班后的解压神器！通关的成就感比打游戏还爽！" 
-"原来哄病人开心这么有技巧，学到了!" 
-"医学生表示很实用，临床实习前的热身工具" 
-不需要医学背景，不需要专业知识，只要你对医疗世界有一点好奇心，这款应用就能带给你全新体验。
-立即下载，今天就成为口袋里的神医！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8毫米相机]]></title>
-        <id>8毫米相机-cn-1747767731748</id>
-        <link href="https://apps.apple.com/cn/app/8%E6%AF%AB%E7%B1%B3%E7%9B%B8%E6%9C%BA/id406541444?uo=4"/>
-        <updated>2025-05-20T19:02:11.748Z</updated>
-        <summary type="html"><![CDATA[8mm Pro: ¥298.00 → ¥63.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/8%E6%AF%AB%E7%B1%B3%E7%9B%B8%E6%9C%BA/id406541444?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/01/87/750187ce-b788-e82e-b3eb-59f6996e8d76/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>8mm Pro：</strong><span>¥298.00</span> → <b>
-  <strong>¥63.00</strong>
-</b><span>[¥63.00 ~ ¥298.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  我们原创的电影效果模拟器应用程序非常逼真，甚至被用于拍摄奥斯卡获奖纪录片《寻找小糖人》中的场景！
-
-轻松实时录制8毫米复古影片，即时可得、无需胶片和冲印。
-
-8毫米相机带您进入时光通道，在手机或iPad的镜头中重现老电影的独特魅力。本相机附送多种镜头和胶片，轻松组合出上百种独特的怀旧风格，让您重温往日美好情怀。无论您需要添加灰尘、划痕、复古色调、光影闪动、漏光还是画面抖动，通过手指轻轻一点即可完成。
-
-使用实时胶片效果拍摄照片和视频
-
-▶ 结合胶片颜色、光晕、灰尘和划痕、胶片颗粒和柔化效果，打造真正的老派电影
-▶ 调整效果的强度以实现自己独特的视觉风格
-▶ 10种型号镜头（边框）、21套来自不同时代的复古胶片
-▶ 另加21套精确复刻电影史上一些最具标志性的真实胶片和过期胶片 - 可以通过订阅/购买8mm Pro获得
-▶ 添加逼真的放映机音效，静音以模仿默片或者打开麦克录音
-▶ 模拟8毫米幻灯机，使画面上下随机抖动
-▶ 支持最高4K 30帧的实时特效录影、在较新的设备上可同时录制不加滤镜的视频
-
-用于电影创作的紧凑型编辑器
-
-▶ 将胶片和边框效果添加到视频或照片
-▶ 剪辑视频，平移和缩放照片
-▶ 从音乐库添加配乐
-▶ 从5个独特的主题模版中选择匹配的标题、过渡
-
-通过订阅解锁所有功能
-
-▶ 您可以通过订阅解锁所有的滤镜
-▶ 7天免费试用、试用期结束后，您将被收取年度订阅费
-▶ 除非在当前订阅期结束前至少24小时关闭自动续订，否则您的订阅将自动续订。您可以前往“设置”> Apple ID > ”订阅“以关闭自动续订
-▶ 您也可以选择一次性购买8mm Pro以解锁所有功能
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/56/ff/0756ff81-bd44-bbb7-5aca-dfd59d07af0f/1668dbc8-251c-44c1-ae58-c562de8026b8_1x3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5a/db/fd/5adbfd1d-fa70-bf27-149b-189b1df98fa3/3e9846b9-04c5-4e58-8d36-45e49611ca17_Screen_Shot_2023-04-20_at_8.03.45_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/5d/45/8c5d4590-a860-0ab7-7b52-11fec3b2fff3/8fdff395-c64e-4c3e-b4fe-2009ccc728a3_Screen_Shot_2023-04-20_at_6.11.50_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/b8/84/b0b8845d-d368-4ead-887a-56fddc4bcfbf/f1db3448-8c98-4d91-8f6c-32a3367f0ea9_08.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4e/6d/3c/4e6d3ce2-e8c1-61b1-f9b3-68173ac4acfe/a93812a4-5de8-4d07-be86-cea49c7fb794_Screen_Shot_2023-04-20_at_8.01.52_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/b2/29/48b229cc-9336-6152-f679-962c50f8139d/caaa404c-0eaa-4c98-8d34-fbd51353ba34_Screen_Shot_2023-04-20_at_8.07.52_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/66/88/6e/66886eef-ae79-5a00-3d23-2cf02ef780da/7f1da2a6-5b33-4988-bab4-25663786369b_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/bc/4e/85bc4ea3-f98d-5ce9-dc6c-f3df0f7f28af/7125cce8-f844-4938-9d9e-a31af2374f3e_09.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/1e/fd/8c1efd97-2abc-d925-0bf0-e0872e085e44/9a6c596a-b01c-44f0-b4bc-bcfab9c4520e_Screen_Shot_2023-04-20_at_8.00.58_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/c8/af/1ac8afb9-d0ce-3eec-1531-38a32f7351cb/43aa7a13-3302-4012-ad9c-84a3699dc5c8_01.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/24/bb/6724bbe7-cf74-c3b5-be53-1269395197b8/14e87a1d-1f2b-4320-b167-8fbec037a34b_Screen_Shot_2022-10-18_at_10.29.39_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/07/a0/6207a067-2e48-a814-b447-949e47cad9c7/47ba82b7-782a-4ae3-906c-cadd8e10ad8b_Screen_Shot_2022-10-18_at_10.34.36_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/b4/5c/47b45c88-9631-8bad-a18d-5df82277b3ba/41f6287f-875f-47ff-851e-2fd4c798b6cf_Screen_Shot_2022-10-18_at_10.32.54_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/95/1b/06951b92-e1c7-c944-ad5f-a17ba52a1e84/da4d338b-221f-44ea-9e10-9926b0d6aea1_Screen_Shot_2022-10-18_at_10.36.49_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/76/66/b07666e2-88e2-b616-994b-6057504aca5b/19b6a9e3-4ff1-4d51-99fd-82c49e85a994_Screen_Shot_2022-10-18_at_10.38.38_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/a6/df/9aa6dfb5-2502-d158-2589-b88949817b12/dbc56f15-97f1-47a5-8a9a-91e245fc8646_Screen_Shot_2022-10-18_at_10.42.59_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/b0/8b/d8b08bfe-4846-4f80-7fb5-44351258f27f/c0cd9914-df70-45f5-b2d3-6b3b5a734e81_Screen_Shot_2022-10-18_at_10.44.13_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/e7/2f/09e72f0f-a461-f653-cc0a-6a1af135f5a1/864b20cd-bf45-445f-9f42-6d450fd7ec91_Screen_Shot_2022-10-18_at_10.45.01_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/ab/5c/1aab5c4d-1b45-ba75-01c3-c9fcac29f6b4/cf170b22-af0d-4323-8347-c36970935fc0_Screen_Shot_2022-10-18_at_10.45.52_AM.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
