@@ -50616,7 +50616,8 @@
       "Manuel character": "$0.99",
       "Marco character": "$0.99",
       "Yellow menu color": "$0.99",
-      "Stephan character": "$0.99"
+      "Stephan character": "$0.99",
+      "Jack character": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -50631,9 +50632,29 @@
       "Manuel character": "$0.99",
       "Marco character": "$0.99",
       "Yellow menu color": "$0.99",
-      "Stephan character": "$0.99"
+      "Stephan character": "$0.99",
+      "Jack character": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748102531024,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Founders Pack": "$0.99",
+            "Lisa character": "$0.00",
+            "Jack character": "$0.99",
+            "Gloria skin": "$0.99",
+            "Elsa character": "$0.99",
+            "Daniel skin": "$0.99",
+            "Jorge skin": "$0.99",
+            "James character": "$0.99",
+            "Manuel character": "$0.99",
+            "Marco character": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747713819551,
