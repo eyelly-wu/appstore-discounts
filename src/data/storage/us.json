@@ -3827,6 +3827,18 @@
     "history": [
       [
         {
+          "timestamp": 1748053790672,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "pack of 100 Badoo credits": "$1.99",
+            "Pack of 100 Credits": "$3.99",
+            "Badoo Premium": "$5.99",
+            "Super Powers": "$2.99",
+            "pack of 550 Badoo credits": "$7.99"
+          }
+        },
+        {
           "timestamp": 1748050191132,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -38900,6 +38912,19 @@
     "history": [
       [
         {
+          "timestamp": 1748053790672,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$6.99"
+          }
+        },
+        {
           "timestamp": 1748050191132,
           "price": 0,
           "formattedPrice": "Free",
@@ -51877,6 +51902,25 @@
       "French Audio": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748053790672,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Spanish Audio": "$0.00",
+            "Invasion of Normandy 11-15": "$0.00",
+            "Russian Audio": "$0.00",
+            "Opposing Fronts - Russian": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747618225044,
