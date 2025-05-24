@@ -3867,6 +3867,20 @@
     "history": [
       [
         {
+          "timestamp": 1748092119882,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "1350 Badoo Credits": "$24.99",
+            "3050 Badoo Credits": "$49.99",
+            "450 Badoo Credits": "$9.99",
+            "250 Badoo Credits": "$4.99",
+            "Lifetime Badoo Premium": "$159.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748053790672,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -15432,7 +15446,13 @@
       "Racing Prodigy X30 Atlanta": "$14.99",
       "1000 Aces Limited Time Offer": "$9.99",
       "1500 Aces Limited Time Offer": "$9.99",
-      "5000 Aces Limited Time Offer": "$30.99"
+      "5000 Aces Limited Time Offer": "$30.99",
+      "Racing Prodigy X30 La Conca L4": "$14.99",
+      "Racing Prodigy X30 Kart Dubai": "$14.99",
+      "Racing Prodigy X30 B. Vegas": "$14.99",
+      "10 Pack Qualifying Tyres": "$0.99",
+      "Le Cont Hards - 40 Tyre Pack": "$3.99",
+      "Le Cont Mediums - 40 Tyre Pack": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -15452,9 +15472,34 @@
       "Racing Prodigy X30 Atlanta": "$14.99",
       "1000 Aces Limited Time Offer": "$9.99",
       "1500 Aces Limited Time Offer": "$9.99",
-      "5000 Aces Limited Time Offer": "$30.99"
+      "5000 Aces Limited Time Offer": "$30.99",
+      "Racing Prodigy X30 La Conca L4": "$14.99",
+      "Racing Prodigy X30 Kart Dubai": "$14.99",
+      "Racing Prodigy X30 B. Vegas": "$14.99",
+      "10 Pack Qualifying Tyres": "$0.99",
+      "Le Cont Hards - 40 Tyre Pack": "$3.99",
+      "Le Cont Mediums - 40 Tyre Pack": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748092119882,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "$14.99",
+            "Racing Prodigy X30 Atlanta": "$14.99",
+            "Racing Prodigy X30 Kart Dubai": "$14.99",
+            "Racing Prodigy X30 B. Vegas": "$14.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "10 Pack Qualifying Tyres": "$0.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Le Cont Hards - 40 Tyre Pack": "$3.99",
+            "Le Cont Mediums - 40 Tyre Pack": "$3.99",
+            "Le Cont Softs - 40 Tyres Pack": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747791001059,
@@ -25547,6 +25592,25 @@
       "Get tips about this mysterious stone": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748092119882,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Purchase game": "$0.99",
+            "Props Tip: Temple corner": "$0.99",
+            "Props Tip: Pyramid": "$0.99",
+            "Props Tip: flower": "$0.99",
+            "Get tips on holographic camera": "$0.99",
+            "Get tips about two weeks mesh box factory eye": "$0.99",
+            "Get tips about the triangle blocks (1-6)": "$0.99",
+            "Get tips on the bucket": "$0.99",
+            "Get tips on stone-eyed": "$0.99",
+            "Get tips about this mysterious stone": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747080151699,
@@ -68051,7 +68115,8 @@
       "Season MLB 2006": "$0.99",
       "Season MLB 2005": "$0.99",
       "Season MLB 1990": "$0.99",
-      "Bundle MLB 2000s": "$4.99"
+      "Bundle MLB 2000s": "$4.99",
+      "Season MLB 1979": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -68093,10 +68158,28 @@
       "Season MLB 2006": "$0.99",
       "Season MLB 2005": "$0.99",
       "Season MLB 1990": "$0.99",
-      "Bundle MLB 2000s": "$4.99"
+      "Bundle MLB 2000s": "$4.99",
+      "Season MLB 1979": "$0.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1748092119882,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 1990": "$0.99",
+            "Season MLB 1979": "$0.99",
+            "Bundle MLB 1980s": "$4.99",
+            "Bundle MLB 2010s": "$4.99"
+          }
+        },
         {
           "timestamp": 1748062940155,
           "price": 9.99,
