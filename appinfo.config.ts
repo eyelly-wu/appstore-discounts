@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1540482954,
+    name: {
+      mo: 'Jetting Vortex ROK GP Kart',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1134126831,
     name: {
       mo: 'PhET 互動式模擬教材',
