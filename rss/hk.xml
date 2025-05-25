@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-05-24T14:22:12.667Z</updated>
+    <updated>2025-05-25T04:26:12.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-24T14:22:12.667Z</updated>
+        <updated>2025-05-25T04:26:12.193Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:67474973430475776+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkSat, 24 May 2025 14:22:12 GMT</id>
+        <id>rankinghkSun, 25 May 2025 04:26:12 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-24T14:22:12.667Z</updated>
+        <updated>2025-05-25T04:26:12.193Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -347,6 +347,29 @@ feedId:67474973430475776+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id403684733">Badoo進階版</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Super Powers</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id463295925">Official DVSA Theory Test Kit</a>
       </td>
       <td>
@@ -367,7 +390,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id510249014">水準管 HD</a>
@@ -384,7 +407,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
@@ -401,7 +424,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id916976066">短語鍵盤</a>
@@ -428,7 +451,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1028950091">貪婪洞窟：猿神降临</a>
@@ -451,7 +474,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1118115766">Bloons TD 6</a>
@@ -468,7 +491,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1230231705">The Witness</a>
@@ -485,7 +508,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1291429551">60 Parsecs!</a>
@@ -502,7 +525,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1389752090">Dead Cells</a>
@@ -519,7 +542,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -536,7 +559,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1435461053">This Is the Police</a>
@@ -553,7 +576,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1439262206">Root Board Game</a>
@@ -582,7 +605,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -599,7 +622,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -616,7 +639,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1474716211">60 Seconds! Reatomized</a>
@@ -633,7 +656,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -650,7 +673,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1497120981">LUCH — Filters & Bokeh Effect</a>
@@ -667,7 +690,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1538124245">where I put it</a>
@@ -684,7 +707,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1567658979">SkySafari 7 Pro</a>
@@ -701,7 +724,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1580067723">Wall of insanity</a>
@@ -718,7 +741,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
@@ -735,7 +758,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1620883955">Little Nightmares</a>
@@ -752,7 +775,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1642733080">DungeonSquad</a>
@@ -769,7 +792,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -786,7 +809,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -803,7 +826,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6469114836">スイカゲーム-Aladdin X</a>
@@ -828,7 +851,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6451376191">Dumb Phone: 簡約主畫面</a>
@@ -845,7 +868,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6446178861">PlayNav - 影片內無廣告！</a>
@@ -862,7 +885,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6458144503">Skul: The Hero Slayer</a>
@@ -879,7 +902,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6505058041">QUAKELINE</a>
@@ -896,7 +919,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -913,7 +936,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6471947612">召喚騎士團</a>
@@ -930,7 +953,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6467822375">Auto Redial App</a>
@@ -947,7 +970,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6743459503">逐鹿</a>
@@ -1082,6 +1105,41 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Badoo進階版]]></title>
+        <id>Badoo進階版-hk-1748145990316</id>
+        <link href="https://apps.apple.com/hk/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4"/>
+        <updated>2025-05-25T04:06:30.316Z</updated>
+        <summary type="html"><![CDATA[Super Powers: HK$ 98.00 → HK$ 88.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/d5/13/18d51306-cfcb-e0a4-801d-e54fa7dc6698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Super Powers：</strong><span>HK$ 98.00</span> → <b>
+  <strong>HK$ 88.00</strong>
+</b><span>[HK$ 88.00 ~ HK$ 98.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Badoo是全球最大的約會平台，會員人數過億。全世界每天都有無數人在這裡聊天、約會、交友、調情。目前Badoo尊享服務正在限時優惠中！您可以看到哪些人喜歡您，提升個人檔案，並享受其他特權。
+
+除了 Badoo尊享服務功能外，您還可以：
+- 聊天，調情，認識新朋友 
+- 看看附近的Badoo會員 
+- 定期享受新功能 
+- 放鬆，安全認證讓您不再受到虛假賬號的困擾 
+- 滑動瀏覽個人檔案 
+
+馬上加入，在Badoo找到意中人吧！
+
+費用通過您的iTunes賬號收取。訂閱會自動更新，您可以在已付費期間結束前至少24小時關閉自動更新，也可以在購買後，前往iTunes商店設定關閉自動更新。
+如果您不再購買Badoo尊享服務，仍可以繼續免費使用Badoo。
+
+您的私人資料受到Badoo保護。請參見我們的隱私權政策及條款：
+
+https://www.badoo.com/privacy 
+https://badoo.com/terms
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/4a/bc/d44abc26-c385-72c7-a74c-9a3f755e186a/0_APP_IPHONE_55_0.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ff/37/abff3752-57b3-3984-22bc-30114fa7bb1b/1_APP_IPHONE_55_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/79/9c/dc799c19-cfd1-647c-3029-fed5a25a1834/2_APP_IPHONE_55_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/b4/c7/1db4c791-dd92-d5f8-28e5-dbec2dcad0cf/3_APP_IPHONE_55_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/47/4a/d3474a69-0f28-2b4f-46db-7f2bb7c40228/4_APP_IPHONE_55_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/9a/f1/7f9af1c0-1cb4-9a81-ab67-5ab34d0ab317/5_APP_IPHONE_55_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/8e/4a/028e4ad6-0d0e-a4d4-0619-4a519d19a4ef/0_APP_IPAD_PRO_129_0.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/9f/0a/7c9f0a97-925d-2c36-1388-504c18f0917f/1_APP_IPAD_PRO_129_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/f5/0a/33f50a10-3bef-54af-a851-2706b81402da/2_APP_IPAD_PRO_129_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/38/1b/12381b52-8e13-17b3-105a-a93b1844082b/3_APP_IPAD_PRO_129_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/00/d2/4b00d2af-ec7c-9dd8-59b0-c3072b4a22c9/4_APP_IPAD_PRO_129_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/2c/a7/892ca7bf-46f0-17b0-7f4f-9b2df6fb9745/5_APP_IPAD_PRO_129_5.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SkySafari 7 Pro]]></title>
@@ -1574,104 +1632,5 @@ PS：該金額會根據當地匯率進行換算
 遊戲過程中需要協助，或遇到問題，可以通過郵件聯絡反饋。
 官方郵箱：knight@longyougame.com
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iron Marines]]></title>
-        <id>Iron Marines-hk-1747872552536</id>
-        <link href="https://apps.apple.com/hk/app/iron-marines/id1056920931?uo=4"/>
-        <updated>2025-05-22T00:09:12.536Z</updated>
-        <summary type="html"><![CDATA[英雄超能博士: HK$ 38.00 → HK$ 22.00<br/>英雄藍色飛龍: HK$ 58.00 → HK$ 38.00<br/>英雄風刃: HK$ 22.00 → HK$ 8.00<br/>英雄鐵甲馬克: HK$ 58.00 → HK$ 38.00<br/>英雄命運女俠: HK$ 22.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/iron-marines/id1056920931?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>英雄超能博士：</strong><span>HK$ 38.00</span> → <b>
-  <strong>HK$ 22.00</strong>
-</b><span>[HK$ 22.00 ~ HK$ 38.00]</span>
-  </li><li>
-    <strong>英雄藍色飛龍：</strong><span>HK$ 58.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b><span>[HK$ 38.00 ~ HK$ 58.00]</span>
-  </li><li>
-    <strong>英雄風刃：</strong><span>HK$ 22.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 22.00]</span>
-  </li><li>
-    <strong>英雄鐵甲馬克：</strong><span>HK$ 58.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b><span>[HK$ 38.00 ~ HK$ 58.00]</span>
-  </li><li>
-    <strong>英雄命運女俠：</strong><span>HK$ 22.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 22.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  這是遊戲創作者繼獲獎作品Kingdom Rush（王國保衛戰）三部曲之後的又一超凡太空奇幻歷險之作。即時，動態以及深度策略的遊戲模式將帶你穿越到不可思議的未知星球。沉浸式擬真遊戲場景，過癮的遊戲玩法，以及超凡絕佳的藝術感和一絲詼諧幽默感帶你進入激烈的戰爭世界。勇猛的士兵，威猛的機甲人和強大的外星人通通等你來統率，並肩迎接最強挑戰。
-
-招募和訓練銀河系中最偉大的英雄，率領他們參與幾乎不可能完成的危險任務，發動他們強大的力量和能力。即使是在戰鬥最激烈的時候你也可通過改變自己部隊的角色而進行戰略調整，突擊隊員調整為狙擊兵，火焰噴射器調整為導彈發射器。通過炸彈襲擊，智能地雷，支援部隊，砲塔和各種特種武器轉變戰鬥態勢。
-
-機器人軍隊整裝待發;星際戰艦墜毀了;到處是巨大怪物，未知的種族;所向披靡的攻擊;絕望的營救;無所畏懼地破壞行動正在銀河之中發生......銀河系需要你的統領。
-
-銀河系需要鋼鐵戰隊
-
-遊戲特色
-
-指导你的部队参加3个不同世界的21次任务。準備好發動英勇的攻擊，堅守陣地，拯救平民，潛入超級計算機和各種英雄的物品。每個任務需要新的戰術和行動才能取得勝利。
-
-通過17次終結式特別行動的戰術規則測試你的機智。每個關卡通過傷痕銘記挑戰。諒你也不敢。
-
-解鎖不可能模式。僅對大無畏敢死隊開放。諒你絕對不敢。
-
-在史詩戰鬥中擊敗巨大而非凡的頭目。這些頭目卑鄙而異常地巨大，他們決心要將你碾碎。鋼鐵戰隊，整裝待發！
-
-40+升級以提升你的戰略，同時授予你的部隊防禦無人機，凝固汽油彈火箭，反彈爆炸和更多的器械可使用。
-
-14位具有出色能力的英雄聽從你的調遣。將他們訓練到極致出色，否則惹惱他們後果自負。
-
-8種可向敵人發動進攻的特種武器，讓你的戰術更加具有深度。還有什麼比得上一個瞄準了的導彈？對50枚高爆炸炸彈的軌道炮襲擊！
-
-完成70+成就中的任何成就，贏得你應得的獎勵
-
-選擇你的遊戲困難模式，找到屬於你的公平挑戰：休閒，普通或老兵別太狂妄了要么狂妄一點你自己決定！！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/91/53/de9153dd-653c-e8dc-51bc-6018cc35b50b/822f0b37-135c-4b09-9398-ecfee027d5b1_2208x1242_5-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/0f/d0/dd0fd04e-8132-604b-b171-95e06bb4d947/10a8a69e-f126-42a4-a714-b44639c71873_2208x1242_2-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/92/a0/c6/92a0c67a-5879-3d40-806c-ce89c194d219/f5d557b2-8b0a-4455-ad54-5875200b2c8d_2208x1242_4-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/28/e7/4d/28e74d1f-45e3-ed64-8c76-d4896da280d5/cde13322-d468-47e7-9177-ceb7896d6312_2208x1242_3-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/df/e2/a9dfe293-f633-6816-68ae-427757d3147b/86f5d183-59aa-4c95-a352-24ddaba7a56c_2208x1242_1-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/03/b0/4903b0aa-84e5-7831-74a9-ff27b26a4c36/zh-Hant_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/1c/4c/1c1c4c91-6498-642b-bd28-e41b25c17cff/zh-Hant_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0c/2b/0c/0c2b0cd6-35b7-eab2-3ab2-61fedd498c92/b176156c-a9ef-443c-bee6-bab7b3b4deec_2732x2048_5-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/b8/c7/87b8c771-def4-a791-0ac2-ce7eb6357da6/28f5abfd-8c06-4d7d-905d-cbcf17ab84b4_2732x2048_2-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d0/1d/19/d01d190e-fb08-b846-90f9-ea480098eb2a/08e24119-6757-4458-bf71-7240ac371ad1_2732x2048_4-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8b/6d/a1/8b6da151-ec81-d378-6819-fa6f22e35359/7a30a9d8-9199-46f9-a0cd-a4347dc443ee_2732x2048_3-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/d8/fc/c4d8fc7d-df71-7af4-0fff-aaf9e922332b/cb8b5eb0-e1a9-40c4-b17b-2996edfd9775_2732x2048_1-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d9/a2/98/d9a29891-b4aa-0bbc-b1b5-143d7b6275fe/63c64062-48e3-468a-b858-c6ac51462e29_2732x2048bb__U00281_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/31/a1/44/31a14474-cac1-e895-ec12-cb3b15330aae/47b0430f-a870-42ab-a94d-11fec7c5fa64_2732x2048bb.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorsport Manager 4]]></title>
-        <id>Motorsport Manager 4-hk-1747854121898</id>
-        <link href="https://apps.apple.com/hk/app/motorsport-manager-4/id6449251957?uo=4"/>
-        <updated>2025-05-21T19:02:01.898Z</updated>
-        <summary type="html"><![CDATA[Bundle: HK$ 88.00 → HK$ 38.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/motorsport-manager-4/id6449251957?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>Bundle：</strong><span>HK$ 88.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b><span>[HK$ 38.00 ~ HK$ 88.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  MOTORSPORT MANAGER 4: MASTER RACE STRATEGY
-
-BUILD YOUR RACING DYNASTY
-Immerse yourself in the captivating journey of constructing your motorsport empire from the ground up, where every choice holds the key to your success.
-
-ASSEMBLE YOUR DREAM TEAM
-Hand-pick exceptional drivers and engineer a world-class racing powerhouse. Collaborate closely with drivers to secure pole positions and craft pitstop strategies that lead to race domination.
-
-REAL-TIME STRATEGY UNFOLDS
-Experience the adrenaline-pumping action of races in real-time or navigate through intricate strategy screens. Swiftly adapt to ever-changing weather, unexpected crashes, and the emergence of safety cars.
-
-UNLEASH VARIETY ON THE TRACK
-Embark on thrilling GT and Endurance racing adventures across six distinct championships. Immerse yourself in the iconic beauty of Monaco's settings, rendered in breathtaking artistry.
-
-DRIVERS TAKE CENTER STAGE
-Step into the shoes of promising new drivers, delve into their statistics, and cultivate pivotal relationships. Navigate the revamped HQ, seize upgrade opportunities, and master the new part development system for an immersive journey.
-
-YOUR JOURNEY, YOUR CHALLENGE
-Embark on a motorsport odyssey where every choice shapes your destiny. Witness dynamic AI team movements and adjust the difficulty level as the game evolves with you.
-
-SEIZE CONTROL, MAKE HISTORY
-It's your opportunity to rewrite the annals of racing lore and etch your name into the history of motorsport. Motorsport Manager 4 empowers you like never before.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/8a/93/788a93e8-0611-e8a4-a8bb-127ea1ca7cd3/70b8f36f-46ad-4f55-bb44-26b1e1d42d90_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/0c/0f/df0c0f1b-b800-355e-e534-877d19d3ad6e/197b9078-d617-4bf1-ae75-a32666c0e221_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/36/84/da36845b-602b-4129-904b-4819e9a79cde/acae3ebf-4877-4010-b0c6-c5d2fa892453_FeaturingImage.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/7b/38/d17b387b-b95d-8fd1-de10-4b4a8534eceb/5dc173a9-d936-4bec-b601-fb16eab3942c_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/1c/c1/c01cc19a-ac47-a7a7-67ad-81d5020e0e1e/6f8fa231-827b-43d7-a412-284fba943dae_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/9a/e0/489ae001-4876-7503-4d52-09a484de1ee3/b12a712a-9dda-4bc2-a642-3d15ccc0163f_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/2f/73/572f736e-01bb-0350-e01e-10b27a29daba/4e65f90a-f4f0-4984-bbea-eeb6ce7e79ff_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/1d/a8/721da87c-9e9b-5067-e090-da14770902f9/2ba5b27d-6e12-4261-806f-58f728470a3b_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/45/59/c24559c0-b7c9-731f-9b2c-29896c7d69eb/65f7b50f-874c-4a56-abcc-5dfefea7987b_FeatureImage.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/53/75/a75375f0-e5cc-2099-11ca-e249ac80a1b3/9e80e2a6-d3b2-4dc2-a736-79fb54c6bd36_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/f7/5d/81f75d80-f417-4fe8-0d65-2c6af7ba98e8/41706b87-c615-448c-9c52-b018dd10d18d_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/e4/1b/a7e41bad-5ca9-c26f-8e9d-0b64e44fb512/22fcca1c-f9eb-4301-8497-0ad43f5bb621_5.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
