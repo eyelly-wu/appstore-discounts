@@ -25030,7 +25030,8 @@
       "黄金通行证": "$14.99",
       "劳动勋章": "$14.99",
       "劳动十次": "$3.99",
-      "连拆十个": "$3.99"
+      "连拆十个": "$3.99",
+      "刘备连衣裙礼包": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -25054,9 +25055,29 @@
       "黄金通行证": "$14.99",
       "劳动勋章": "$14.99",
       "劳动十次": "$3.99",
-      "连拆十个": "$3.99"
+      "连拆十个": "$3.99",
+      "刘备连衣裙礼包": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748167331379,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "6480钻石": "$99.99",
+            "3280钻石": "$49.99",
+            "高级商会签约": "$34.99",
+            "刘备连衣裙礼包": "$0.99",
+            "每日特惠礼包一": "$2.99",
+            "60钻石": "$0.99",
+            "每日特权礼包": "$0.99",
+            "980钻石": "$14.99",
+            "每日招财礼包": "$1.99",
+            "商会支援计划五": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747152155845,
@@ -26935,7 +26956,8 @@
       "120 Hell Stones": "$24.99",
       "30 Hell Stones": "$8.99",
       "500 Hell Stones": "$41.99",
-      "Hell Package": "$24.99"
+      "Hell Package": "$24.99",
+      "8400 Rebirth Stones": "$24.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -26961,10 +26983,28 @@
       "120 Hell Stones": "$24.99",
       "30 Hell Stones": "$8.99",
       "500 Hell Stones": "$41.99",
-      "Hell Package": "$24.99"
+      "Hell Package": "$24.99",
+      "8400 Rebirth Stones": "$24.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1748167331379,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "Magic Package": "$8.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Element Package": "$15.99",
+            "180 Rubies": "$2.99",
+            "8400 Rebirth Stones": "$24.99"
+          }
+        },
         {
           "timestamp": 1748145990316,
           "price": 0.99,
@@ -68499,7 +68539,8 @@
       "Season MLB 2005": "$0.99",
       "Season MLB 1990": "$0.99",
       "Bundle MLB 2000s": "$4.99",
-      "Season MLB 1979": "$0.99"
+      "Season MLB 1979": "$0.99",
+      "Season MLB 2022": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -68542,9 +68583,29 @@
       "Season MLB 2005": "$0.99",
       "Season MLB 1990": "$0.99",
       "Bundle MLB 2000s": "$4.99",
-      "Season MLB 1979": "$0.99"
+      "Season MLB 1979": "$0.99",
+      "Season MLB 2022": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748167331379,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 2022": "$0.99",
+            "Season MLB 1990": "$0.99",
+            "Season MLB 1979": "$0.99",
+            "Bundle MLB 1980s": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748092119882,
