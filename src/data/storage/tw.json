@@ -9419,6 +9419,14 @@
     "history": [
       [
         {
+          "timestamp": 1748181730779,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747922542969,
           "price": 0,
           "formattedPrice": "免費",
@@ -23027,6 +23035,21 @@
       "英雄自由獵人": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748181730779,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "特別禮包": "$150.00",
+            "英雄鐵甲馬克": "$220.00",
+            "英雄藍色飛龍": "$220.00",
+            "英雄桂英": "$90.00",
+            "英雄超能博士": "$150.00",
+            "英雄命運女俠": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747922542969,
@@ -65651,6 +65674,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748181730779,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748008944667,
