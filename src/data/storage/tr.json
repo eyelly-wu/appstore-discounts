@@ -641,6 +641,58 @@
       ]
     ]
   },
+  "308296029": {
+    "name": "iStroboSoft",
+    "maxPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99",
+      "Tuning Tools": "₺449,99",
+      "Harmonic Tuning": "₺899,99",
+      "Guitar & Bass Sweeteners": "₺249,99",
+      "Extended Frequency Modes": "₺229,99",
+      "Keyboard Sweeteners": "₺899,99",
+      "Full Discounted Upgrade Pack": "₺2.499,99",
+      "World Sweetener Pack": "₺449,99",
+      "Steel Guitar Sweeteners": "₺699,99",
+      "Orchestral Sweeteners": "₺249,99",
+      "Misc Stringed Sweeteners": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99",
+      "Tuning Tools": "₺449,99",
+      "Harmonic Tuning": "₺899,99",
+      "Guitar & Bass Sweeteners": "₺249,99",
+      "Extended Frequency Modes": "₺229,99",
+      "Keyboard Sweeteners": "₺899,99",
+      "Full Discounted Upgrade Pack": "₺2.499,99",
+      "World Sweetener Pack": "₺449,99",
+      "Steel Guitar Sweeteners": "₺699,99",
+      "Orchestral Sweeteners": "₺249,99",
+      "Misc Stringed Sweeteners": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748170931091,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "Tuning Tools": "₺449,99",
+            "Harmonic Tuning": "₺899,99",
+            "Guitar & Bass Sweeteners": "₺249,99",
+            "Extended Frequency Modes": "₺229,99",
+            "Keyboard Sweeteners": "₺899,99",
+            "Full Discounted Upgrade Pack": "₺2.499,99",
+            "World Sweetener Pack": "₺449,99",
+            "Steel Guitar Sweeteners": "₺699,99",
+            "Orchestral Sweeteners": "₺249,99",
+            "Misc Stringed Sweeteners": "₺179,99"
+          }
+        }
+      ]
+    ]
+  },
   "314192799": {
     "name": "Acrobits Softphone",
     "maxPriceInfo": {
@@ -29044,6 +29096,27 @@
           "timestamp": 1745328692670,
           "price": 4.99,
           "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1435140819": {
+    "name": "Very Little Nightmares",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748170931091,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
           "inAppPurchases": {}
         }
       ]

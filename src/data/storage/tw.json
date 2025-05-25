@@ -586,6 +586,58 @@
       ]
     ]
   },
+  "308296029": {
+    "name": "iStroboSoft",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "Guitar & Bass Sweeteners": "$190.00",
+      "Tuning Tools": "$320.00",
+      "Harmonic Tuning": "$690.00",
+      "Full Discounted Upgrade Pack": "$1,990.00",
+      "Orchestral Sweeteners": "$190.00",
+      "Misc Stringed Sweeteners": "$120.00",
+      "Extended Frequency Modes": "$150.00",
+      "Keyboard Sweeteners": "$690.00",
+      "Buzz Feiten Pack": "$190.00",
+      "Steel Guitar Sweeteners": "$490.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "Guitar & Bass Sweeteners": "$190.00",
+      "Tuning Tools": "$320.00",
+      "Harmonic Tuning": "$690.00",
+      "Full Discounted Upgrade Pack": "$1,990.00",
+      "Orchestral Sweeteners": "$190.00",
+      "Misc Stringed Sweeteners": "$120.00",
+      "Extended Frequency Modes": "$150.00",
+      "Keyboard Sweeteners": "$690.00",
+      "Buzz Feiten Pack": "$190.00",
+      "Steel Guitar Sweeteners": "$490.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748170931091,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$190.00",
+            "Tuning Tools": "$320.00",
+            "Harmonic Tuning": "$690.00",
+            "Full Discounted Upgrade Pack": "$1,990.00",
+            "Orchestral Sweeteners": "$190.00",
+            "Misc Stringed Sweeteners": "$120.00",
+            "Extended Frequency Modes": "$150.00",
+            "Keyboard Sweeteners": "$690.00",
+            "Buzz Feiten Pack": "$190.00",
+            "Steel Guitar Sweeteners": "$490.00"
+          }
+        }
+      ]
+    ]
+  },
   "314192799": {
     "name": "Acrobits Softphone",
     "maxPriceInfo": {
@@ -14930,6 +14982,25 @@
     "history": [
       [
         {
+          "timestamp": 1748170931091,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "$120.00",
+            "Ayatsugu_Otowa Collection": "$120.00",
+            "Sherwin Collection": "$120.00",
+            "Capchii Collection": "$120.00",
+            "VII Bundle 06": "$390.00",
+            "VII Bundle 05": "$390.00",
+            "VII Bundle 03": "$220.00",
+            "VII Bundle 02": "$150.00",
+            "VII Bundle 04": "$290.00",
+            "VII Bundle 01": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747976541475,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -25346,6 +25417,23 @@
       "完全解鎖防禦塔和典範": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748170931091,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "She-Ra Prestige Pack Sale": "$220.00",
+            "She-Ra Sword Booster Sale": "$60.00",
+            "She-Ra Sword Power Booster": "$120.00",
+            "She-Ra Prestige Pack": "$390.00",
+            "Battle Cat Booster Pack": "$120.00",
+            "Battle Cat Prestige Pack": "$120.00",
+            "Rogue Legends": "$320.00",
+            "Heroes and Skins Complete 2024": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747922542969,
@@ -37022,6 +37110,27 @@
           "timestamp": 1745384546601,
           "price": 15,
           "formattedPrice": "$15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1435140819": {
+    "name": "Very Little Nightmares",
+    "maxPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00"
+    },
+    "minPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748170931091,
+          "price": 220,
+          "formattedPrice": "$220.00",
           "inAppPurchases": {}
         }
       ]

@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 308296029,
+    name: {
+      mo: 'iStroboSoft',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1435140819,
+    name: {
+      mo: 'Very Little Nightmares',
+    },
+    addType: 'auto',
+  },
+  {
     id: 828392046,
     name: {
       hk: 'Teach Your Monster to Read',

@@ -864,6 +864,58 @@
       ]
     ]
   },
+  "308296029": {
+    "name": "iStroboSoft",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "Guitar & Bass Sweeteners": "$5.99",
+      "Tuning Tools": "$9.99",
+      "Harmonic Tuning": "$19.99",
+      "Bluegrass Sweeteners": "$5.99",
+      "Extended Frequency Modes": "$4.99",
+      "Full Discounted Upgrade Pack": "$59.99",
+      "Steel Guitar Sweeteners": "$14.99",
+      "Orchestral Sweeteners": "$5.99",
+      "Keyboard Sweeteners": "$19.99",
+      "Buzz Feiten Pack": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "Guitar & Bass Sweeteners": "$5.99",
+      "Tuning Tools": "$9.99",
+      "Harmonic Tuning": "$19.99",
+      "Bluegrass Sweeteners": "$5.99",
+      "Extended Frequency Modes": "$4.99",
+      "Full Discounted Upgrade Pack": "$59.99",
+      "Steel Guitar Sweeteners": "$14.99",
+      "Orchestral Sweeteners": "$5.99",
+      "Keyboard Sweeteners": "$19.99",
+      "Buzz Feiten Pack": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748170931091,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Harmonic Tuning": "$19.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Extended Frequency Modes": "$4.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Orchestral Sweeteners": "$5.99",
+            "Keyboard Sweeteners": "$19.99",
+            "Buzz Feiten Pack": "$5.99"
+          }
+        }
+      ]
+    ]
+  },
   "314192799": {
     "name": "Acrobits Softphone",
     "maxPriceInfo": {
@@ -37980,6 +38032,27 @@
           "timestamp": 1745384546601,
           "price": 0.29,
           "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1435140819": {
+    "name": "Very Little Nightmares",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748170931091,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
           "inAppPurchases": {}
         }
       ]
