@@ -15870,6 +15870,22 @@
     "history": [
       [
         {
+          "timestamp": 1748160166333,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Ultimate Access": "USD 139.99",
+            "Font Access": "USD 53.99",
+            "Pro Access": "USD 96.99",
+            "Abstract Theme 5": "USD 0.99",
+            "Abstract Theme 4": "USD 0.99",
+            "Abstract Theme 2": "USD 0.99",
+            "Abstract Theme 3": "USD 0.99",
+            "Abstract Theme 1": "USD 0.99",
+            "Abstract Theme Bundle": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1748156527317,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -51927,10 +51943,18 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748160166333,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745578938597,

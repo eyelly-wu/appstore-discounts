@@ -42978,6 +42978,23 @@
     "history": [
       [
         {
+          "timestamp": 1748160166333,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Crystal 3": "$1.99",
+            "Flash Sale Star Rune 1": "$2.99"
+          }
+        },
+        {
           "timestamp": 1748156527317,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -69505,10 +69522,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748160166333,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745578938597,
