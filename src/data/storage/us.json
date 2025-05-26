@@ -12211,6 +12211,25 @@
     "history": [
       [
         {
+          "timestamp": 1748232348873,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748145990316,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -17285,6 +17304,25 @@
       "12 Mo. CAN Texting": "$17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748232348873,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "1 Mo. Fongo Plus": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "$20 Credit": "$19.99",
+            "12 Mo. CAN Texting": "$17.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747186195305,
@@ -22377,6 +22415,25 @@
     "history": [
       [
         {
+          "timestamp": 1748232348873,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "$7.99",
+            "Platinum Plan - Trimonthly": "$19.99",
+            "Basic Plan - Monthly": "$1.49",
+            "Side Story Chapter 1": "$3.99",
+            "Expansion Chapter B": "$3.99",
+            "Expansion Chapter H": "$3.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Ch. U": "$3.99",
+            "Expansion Chapter E": "$3.99",
+            "Expansion Chapter I": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748145990316,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -25189,7 +25246,8 @@
       "劳动勋章": "$14.99",
       "劳动十次": "$3.99",
       "连拆十个": "$3.99",
-      "刘备连衣裙礼包": "$0.99"
+      "刘备连衣裙礼包": "$0.99",
+      "每月特权礼包": "$39.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -25214,9 +25272,29 @@
       "劳动勋章": "$14.99",
       "劳动十次": "$3.99",
       "连拆十个": "$3.99",
-      "刘备连衣裙礼包": "$0.99"
+      "刘备连衣裙礼包": "$0.99",
+      "每月特权礼包": "$39.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748232348873,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "6480钻石": "$99.99",
+            "3280钻石": "$49.99",
+            "高级商会签约": "$34.99",
+            "商会支援计划五": "$3.99",
+            "每日特惠礼包一": "$2.99",
+            "60钻石": "$0.99",
+            "每日特权礼包": "$0.99",
+            "刘备连衣裙礼包": "$0.99",
+            "每月特权礼包": "$39.99",
+            "980钻石": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748229769608,
@@ -27164,6 +27242,25 @@
     "history": [
       [
         {
+          "timestamp": 1748232348873,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "Magic Package": "$8.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Element Package": "$15.99",
+            "180 Rubies": "$2.99",
+            "1100 Rebirth Stones": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748167331379,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -28293,6 +28390,25 @@
       "Hero Mortemis": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748232348873,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Hero Tank": "$5.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Tower Goblin War Zeppelin": "$6.99",
+            "Hero Mortemis": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748178460228,
@@ -58807,14 +58923,22 @@
   "1659271912": {
     "name": "Train Dispatcher!2",
     "maxPriceInfo": {
-      "price": 0.49,
-      "formattedPrice": "$0.49"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748232348873,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746277616289,
@@ -68839,7 +68963,8 @@
       "Season MLB 1990": "$0.99",
       "Bundle MLB 2000s": "$4.99",
       "Season MLB 1979": "$0.99",
-      "Season MLB 2022": "$0.99"
+      "Season MLB 2022": "$0.99",
+      "Season MLB 2021": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -68883,9 +69008,29 @@
       "Season MLB 1990": "$0.99",
       "Bundle MLB 2000s": "$4.99",
       "Season MLB 1979": "$0.99",
-      "Season MLB 2022": "$0.99"
+      "Season MLB 2022": "$0.99",
+      "Season MLB 2021": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748232348873,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 1990": "$0.99",
+            "Season MLB 2022": "$0.99",
+            "Season MLB 2021": "$0.99",
+            "Season MLB 1979": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748167331379,
