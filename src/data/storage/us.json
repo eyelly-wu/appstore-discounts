@@ -10425,6 +10425,25 @@
     "history": [
       [
         {
+          "timestamp": 1748243000805,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Procurement Director": "$0.99",
+            "Disaster Manager": "$0.99",
+            "Medical Coordinator": "$0.99",
+            "Ethics Watchdog": "$0.99",
+            "Chaos Engineer": "$0.99",
+            "Economic Forecaster": "$0.99",
+            "Situation Director": "$0.99",
+            "Outreach Coordinator": "$0.99",
+            "Fast Response EMTs": "$0.99",
+            "Strategic Fundraiser": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745535728686,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -18763,10 +18782,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748243000805,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745384546601,
@@ -28391,6 +28418,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748243000805,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "$7.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Tower Ignis Altar": "$2.99",
+            "Hero Grosh": "$4.99",
+            "Special Offer 27": "$7.99",
+            "Special Offer 24": "$7.99",
+            "Special Offer 21": "$7.99",
+            "Special Offer 20": "$7.99",
+            "Special Offer 19": "$7.99",
+            "Special Offer 18": "$6.99"
+          }
+        },
         {
           "timestamp": 1748232348873,
           "price": 4.99,
@@ -69015,6 +69059,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748243000805,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 1990": "$0.99",
+            "Season MLB 2024": "$0.99",
+            "Season MLB 2022": "$0.99",
+            "Season MLB 1996": "$0.99"
+          }
+        },
         {
           "timestamp": 1748235750844,
           "price": 9.99,

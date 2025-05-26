@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-05-25T08:22:17.691Z</updated>
+    <updated>2025-05-26T07:23:12.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-25T08:22:17.691Z</updated>
+        <updated>2025-05-26T07:23:12.390Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:73536165737884672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoSun, 25 May 2025 08:22:17 GMT</id>
+        <id>rankingmoMon, 26 May 2025 07:23:12 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-25T08:22:17.691Z</updated>
+        <updated>2025-05-26T07:23:12.390Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -50,13 +50,13 @@ feedId:73536165737884672+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1080</b>
+        <b>1082</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>879</b>
+        <b>881</b>
       </td>
       <td>
         <b>12</b>
@@ -67,13 +67,13 @@ feedId:73536165737884672+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>985</b>
+        <b>987</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>806</b>
+        <b>808</b>
       </td>
       <td>
         <b>12</b>
@@ -350,7 +350,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1056920931">Iron Marines</a>
+        <a href="https://apps.apple.com/mo/app/id911205290">DRAGON QUEST II</a>
       </td>
       <td>
         <ul>
@@ -367,7 +367,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1118115766">Bloons TD 6</a>
+        <a href="https://apps.apple.com/mo/app/id1056920931">Iron Marines</a>
       </td>
       <td>
         <ul>
@@ -384,7 +384,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1230231705">The Witness</a>
+        <a href="https://apps.apple.com/mo/app/id1118115766">Bloons TD 6</a>
       </td>
       <td>
         <ul>
@@ -399,6 +399,23 @@ feedId:73536165737884672+userId:73658201673997312
     <tr>
       <td>
         <b>16</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id1230231705">The Witness</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1238247658">Cluedo: Classic Edition</a>
@@ -421,7 +438,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1291429551">60 Parsecs!</a>
@@ -438,7 +455,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1389752090">Dead Cells</a>
@@ -455,7 +472,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -472,7 +489,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1435461053">This Is the Police</a>
@@ -489,7 +506,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1439262206">Root Board Game</a>
@@ -518,7 +535,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -535,7 +552,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -552,7 +569,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1474716211">60 Seconds! Reatomized</a>
@@ -569,7 +586,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -586,7 +603,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1497120981">LUCH — Filters & Bokeh Effect</a>
@@ -603,7 +620,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1538124245">where I put it</a>
@@ -620,7 +637,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1567658979">SkySafari 7 Pro</a>
@@ -637,7 +654,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1580067723">Wall of insanity</a>
@@ -654,7 +671,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
@@ -671,7 +688,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1620883955">Little Nightmares</a>
@@ -688,7 +705,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1642733080">DungeonSquad</a>
@@ -705,7 +722,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -722,7 +739,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -739,7 +756,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6451376191">Dumb Phone: 簡約主畫面</a>
@@ -756,7 +773,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6449251957">Motorsport Manager 4</a>
@@ -773,7 +790,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6458144503">Skul: The Hero Slayer</a>
@@ -790,7 +807,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6505058041">QUAKELINE</a>
@@ -807,7 +824,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -824,7 +841,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6471947612">召喚騎士團</a>
@@ -841,7 +858,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6743459503">逐鹿</a>
@@ -858,7 +875,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6466296603">The Last Game</a>
@@ -993,6 +1010,43 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRAGON QUEST II]]></title>
+        <id>DRAGON QUEST II-mo-1748243000805</id>
+        <link href="https://apps.apple.com/mo/app/dragon-quest-ii/id911205290?uo=4"/>
+        <updated>2025-05-26T07:03:20.805Z</updated>
+        <summary type="html"><![CDATA[价格: USD 4.99 → USD 2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/dragon-quest-ii/id911205290?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/9c/40/92/9c40927f-41b4-1aa5-850c-3b3b13dfcda2/AppIcon-1x_U007emarketing-0-85-220-0-9.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>USD 4.99</span> → <b>
+  <strong>USD 2.99</strong>
+</b><span>[USD 2.99 ~ USD 4.99]</span>）
+</h2><h2>应用描述</h2><p>
+  《勇者鬥惡龍》系列第二款作品終於也登陸手機！快來探索《勇者鬥惡龍II　惡靈之神》的奇妙世界及四個經典迷宮！
+
+本作是一個完整的幻想世界，在裡面您可以體會到每個武器的奇妙，感受到每個咒文的壯觀。
+而這一切都是買斷的，只需下載一次，便不用再購買也不用再下載任何其他東西！
+
+◆ 序言
+在初代《勇者鬥惡龍》故事的100年之後，阿雷夫加爾德大地上已經建立起3個新的國家。然而長久以來的和平即將被打破，邪惡的大神官哈貢召喚來邪惡的魔物，再次將破壞與災難帶到這個世界之上。
+此時，傳說中的勇者洛特的後裔，羅蕾西亞城的年輕王子挺身而出，他要找到另外兩個血脈的繼承人，共同打倒邪惡的哈貢，讓世界恢復和平。
+
+◆ 遊戲特色
+·無論是感受過勇者洛特三部曲第一部的老朋友，還是對整個系列都很陌生的新面孔，都能夠在這款遊戲中體會到一次難以忘記的旅行。
+
+·在這個早期的開放世界冒險中，玩家可以在野外自由探索，也可以挑戰充滿魔物的迷宮，甚至還能跨越大海前往新大陸！
+
+·簡便的直接操作
+遊戲操作經過調整可以完美對應現代移動設備的縱向佈局，移動按鍵的位置也可以在單手與雙手中切換。
+
+·與日本乃至全世界數以百萬計的玩家一起回顧這款傳奇般的RPG！由著名遊戲製作人堀井雄二先生，偉大的作曲家椙山浩一先生，以及漫畫大師鳥山明先生攜手帶來的經典。
+
+◆ 推薦機型及系統 ◆
+·iPhone 4及以後的機型／iPad／iPod touch (第4代及以後的機型)
+·iOS4.3及更高版本
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/0f/3c/04/0f3c04af-b8f8-548b-76a6-c530036e5733/mzl.sjynjxnp.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/c1/bb/88/c1bb883c-d956-869d-ce7c-53ff81c74dec/mzl.mzmaurjn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/c9/52/e5/c952e58d-089e-7a63-dcc6-999009325a11/mzl.ifdbnzgh.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/d2/79/0d/d2790d26-b130-4b5d-8dab-1b33da86448d/mzl.gtachhgr.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/ee/12/0a/ee120ac2-5831-893e-2087-ea148b32b218/mzl.aepbosnw.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/8a/b3/17/8ab31743-db6d-8506-66ac-28b2093e97a0/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/55/7c/87/557c8786-0aec-2d32-e253-60f025f8207e/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/45/0a/01/450a0179-8a6e-ca84-7b1c-4cadb971e9ab/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/a5/45/bd/a545bd45-8cd6-7170-f324-c59acaa7e2bd/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/b9/88/99/b9889977-c5d4-a950-4ce4-2f49f01477b5/pr_source.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Last Game]]></title>
@@ -1180,248 +1234,5 @@ AWARDS AND RECOGNITION
 SUPPORT
 • Contact our UK-based team at feedback@williamslea.com  or +44 (0)333 202 5070. We listen and respond to your feedback by updating the app and adding new features.
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/94/70/ce94702b-5a6e-2f00-f10b-2d040f1550e8/d7ca487a-57a5-48e5-a1dd-6e96ea957df1_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/55/93/505593d4-5477-9d76-6df1-362a59cef95b/cfc7b785-5746-4ddc-a686-311c6a944948_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/ff/3b/01ff3b5a-7c08-78a4-382a-4a403e978fbc/2faa28df-3720-4f67-a289-5591a5b33421_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/43/03/e143033a-1df8-9baa-0294-9e84d6655cea/a1156d76-b93b-459a-8258-20654803ecaa_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/c8/80/42c880ca-ae10-3813-e797-24275a6c9878/d12467a3-6088-403e-bb15-093f0831cdf6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/b3/d8/edb3d8e4-5dd0-2943-01fe-9b5f67aee038/57797f11-c4b8-4f76-9fd7-77ad455d1b3a_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/87/39/508739ba-1e9d-5f95-f689-25c63bc51a63/1def1fe4-3ac7-4d66-81fd-b6afa2b272e6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/4b/45/c44b4521-db85-1ecd-00c8-a18bd93b08d0/8fd9c835-e7b5-48d6-894e-f942e2a2d29c_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_08.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/bd/10/9abd1031-ddd3-55d6-03be-766f101b384d/fb5346aa-a16f-4359-955c-1efbcbbe1d93_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/51/ba/b651baa4-1d5b-f24f-6f10-dc5e43a3c688/a498df04-3673-4342-82a8-189e78c82488_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/0d/6f/e60d6f08-cca4-b87b-cd93-fe3cad3e4b10/24e3ac6f-753e-4b81-bc6d-396429572d23_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/94/31/34943156-c954-afec-7c19-0b2b4843a836/e5633a70-c190-4398-9451-5fa98be4a325_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/c2/a9/ccc2a907-8952-4da2-4f4b-d1c81da8ff7e/ff6fff8e-5df1-45b6-b5ac-e7b9c87e7274_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/54/20/565420c7-8622-22c2-73e0-5d4413b4c545/0d7276cb-2280-421a-b073-a52a313dd62d_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/94/16/0a941602-ba4e-da2f-79c1-7a2b960ddee2/d98f7cd7-cda0-4100-b9a5-465ff7bb18f1_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/0a/e9/890ae959-b56a-9229-8533-88daba9980fc/6d490d1c-1710-4775-8c4d-a407a00c9cd6_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_08.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全民RPG：重啟]]></title>
-        <id>全民RPG：重啟-mo-1747976541475</id>
-        <link href="https://apps.apple.com/mo/app/%E5%85%A8%E6%B0%91rpg-%E9%87%8D%E5%95%9F/id1523146826?uo=4"/>
-        <updated>2025-05-23T05:02:21.475Z</updated>
-        <summary type="html"><![CDATA[价格: USD 0.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E5%85%A8%E6%B0%91rpg-%E9%87%8D%E5%95%9F/id1523146826?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/15/74/911574e8-bb1d-9303-564e-a557ca18caca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 0.99</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ USD 0.99]</span>）
-</h2><h2>应用描述</h2><p>
-  召集傳說英雄，挑戰無盡關卡！
-自動戰鬥、採礦、強化通通都有！
-真正的放置型奇幻 RPG，即使離線也能持續成長！
-
-* 組建擁有獨特技能的英雄戰隊，發揮戰略優勢！
-
-* 利用礦坑系統收集資源！打造裝備所需的一切盡在其中！
-
-* 挑戰強大的首領，獲得傳說級獎勵！
-
-* 自動成長系統，讓忙碌的你也能輕鬆遊玩！
-
-* 多樣化內容：地城、遺物、進化、傳說裝備等你來體驗！
-
-立即下載，開始書寫屬於你的傳奇！
-馬上開始遊戲，收集你的英雄吧！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逐鹿]]></title>
-        <id>逐鹿-mo-1747970397708</id>
-        <link href="https://apps.apple.com/mo/app/%E9%80%90%E9%B9%BF/id6743459503?uo=4"/>
-        <updated>2025-05-23T03:19:57.708Z</updated>
-        <summary type="html"><![CDATA[价格: USD 6.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E9%80%90%E9%B9%BF/id6743459503?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/04/8b/44048b03-8182-96a6-8be9-c3f3c807a1b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 6.99</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ USD 6.99]</span>）
-</h2><h2>应用描述</h2><p>
-  經典三國單機版
-
-《逐鹿》是一款基於同名歷史沙盤遊戲引擎開發而成的三國題材回合制策略遊戲。在硝煙四起、諸侯爭霸的三國亂世中，玩家可以在劇本中任意選擇勢力，飾演主公。通過內政、外交等玩法助你運籌帷幄。帶領麾下群雄，攻城略地，在遼闊的戰場上開疆擴土。或興復漢室，或成一代梟雄，皆掌握在你的手中。
-
-問鼎九州，逐鹿三國
-
-《逐鹿》的歷史劇本以《三國演義》為藍本推演而來，遊戲貫穿歷史典故，力求還原三國時期的史實風貌。玩家可以任意挑選劇本，並飾演其中一勢力的主公，謀定三國，一統九州。
-
-山河為子，天下為局
-
-《逐鹿》以經典六角戰棋玩法為核心戰鬥模式，玩家可以指揮部隊以「六角戰棋」的形式縱橫馳騁於大戰場之上，或與敵人短兵相接，或以計謀決勝千里之外，在矢石之間，開疆擴土。
-
-堅甲利兵，攻無不克
-
-在遊戲中兵種可分為步兵、騎兵、機械三大類，細分則有弓兵、弩兵、盾兵、輕騎兵等十餘種。還有數十種專屬兵種可以攜帶，出征時根據戰況調配兵種陣容，能夠達到先發制人，克敵機先的效果。
-
-鸞翔鳳集，龍幡虎纛
-
-根據歷史文獻記載以及結合三國演義內容，目前遊戲中已設計武將有600余名。每個武將具有獨特的特性，可以凸顯武將的差異化。不僅如此，我們還為歷史名將繪制了精緻的專屬立繪，彰顯其個性。
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iron Marines]]></title>
-        <id>Iron Marines-mo-1747922542969</id>
-        <link href="https://apps.apple.com/mo/app/iron-marines/id1056920931?uo=4"/>
-        <updated>2025-05-22T14:02:22.969Z</updated>
-        <summary type="html"><![CDATA[价格: USD 2.99 → USD 1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/iron-marines/id1056920931?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 2.99</span> → <b>
-  <strong>USD 1.99</strong>
-</b><span>[USD 1.99 ~ USD 2.99]</span>）
-</h2><h2>应用描述</h2><p>
-  這是遊戲創作者繼獲獎作品Kingdom Rush（王國保衛戰）三部曲之後的又一超凡太空奇幻歷險之作。即時，動態以及深度策略的遊戲模式將帶你穿越到不可思議的未知星球。沉浸式擬真遊戲場景，過癮的遊戲玩法，以及超凡絕佳的藝術感和一絲詼諧幽默感帶你進入激烈的戰爭世界。勇猛的士兵，威猛的機甲人和強大的外星人通通等你來統率，並肩迎接最強挑戰。
-
-招募和訓練銀河系中最偉大的英雄，率領他們參與幾乎不可能完成的危險任務，發動他們強大的力量和能力。即使是在戰鬥最激烈的時候你也可通過改變自己部隊的角色而進行戰略調整，突擊隊員調整為狙擊兵，火焰噴射器調整為導彈發射器。通過炸彈襲擊，智能地雷，支援部隊，砲塔和各種特種武器轉變戰鬥態勢。
-
-機器人軍隊整裝待發;星際戰艦墜毀了;到處是巨大怪物，未知的種族;所向披靡的攻擊;絕望的營救;無所畏懼地破壞行動正在銀河之中發生......銀河系需要你的統領。
-
-銀河系需要鋼鐵戰隊
-
-遊戲特色
-
-指导你的部队参加3个不同世界的21次任务。準備好發動英勇的攻擊，堅守陣地，拯救平民，潛入超級計算機和各種英雄的物品。每個任務需要新的戰術和行動才能取得勝利。
-
-通過17次終結式特別行動的戰術規則測試你的機智。每個關卡通過傷痕銘記挑戰。諒你也不敢。
-
-解鎖不可能模式。僅對大無畏敢死隊開放。諒你絕對不敢。
-
-在史詩戰鬥中擊敗巨大而非凡的頭目。這些頭目卑鄙而異常地巨大，他們決心要將你碾碎。鋼鐵戰隊，整裝待發！
-
-40+升級以提升你的戰略，同時授予你的部隊防禦無人機，凝固汽油彈火箭，反彈爆炸和更多的器械可使用。
-
-14位具有出色能力的英雄聽從你的調遣。將他們訓練到極致出色，否則惹惱他們後果自負。
-
-8種可向敵人發動進攻的特種武器，讓你的戰術更加具有深度。還有什麼比得上一個瞄準了的導彈？對50枚高爆炸炸彈的軌道炮襲擊！
-
-完成70+成就中的任何成就，贏得你應得的獎勵
-
-選擇你的遊戲困難模式，找到屬於你的公平挑戰：休閒，普通或老兵別太狂妄了要么狂妄一點你自己決定！！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/91/53/de9153dd-653c-e8dc-51bc-6018cc35b50b/822f0b37-135c-4b09-9398-ecfee027d5b1_2208x1242_5-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/0f/d0/dd0fd04e-8132-604b-b171-95e06bb4d947/10a8a69e-f126-42a4-a714-b44639c71873_2208x1242_2-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/92/a0/c6/92a0c67a-5879-3d40-806c-ce89c194d219/f5d557b2-8b0a-4455-ad54-5875200b2c8d_2208x1242_4-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/28/e7/4d/28e74d1f-45e3-ed64-8c76-d4896da280d5/cde13322-d468-47e7-9177-ceb7896d6312_2208x1242_3-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/df/e2/a9dfe293-f633-6816-68ae-427757d3147b/86f5d183-59aa-4c95-a352-24ddaba7a56c_2208x1242_1-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/03/b0/4903b0aa-84e5-7831-74a9-ff27b26a4c36/zh-Hant_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/1c/4c/1c1c4c91-6498-642b-bd28-e41b25c17cff/zh-Hant_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0c/2b/0c/0c2b0cd6-35b7-eab2-3ab2-61fedd498c92/b176156c-a9ef-443c-bee6-bab7b3b4deec_2732x2048_5-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/b8/c7/87b8c771-def4-a791-0ac2-ce7eb6357da6/28f5abfd-8c06-4d7d-905d-cbcf17ab84b4_2732x2048_2-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d0/1d/19/d01d190e-fb08-b846-90f9-ea480098eb2a/08e24119-6757-4458-bf71-7240ac371ad1_2732x2048_4-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8b/6d/a1/8b6da151-ec81-d378-6819-fa6f22e35359/7a30a9d8-9199-46f9-a0cd-a4347dc443ee_2732x2048_3-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/d8/fc/c4d8fc7d-df71-7af4-0fff-aaf9e922332b/cb8b5eb0-e1a9-40c4-b17b-2996edfd9775_2732x2048_1-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d9/a2/98/d9a29891-b4aa-0bbc-b1b5-143d7b6275fe/63c64062-48e3-468a-b858-c6ac51462e29_2732x2048bb__U00281_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/31/a1/44/31a14474-cac1-e895-ec12-cb3b15330aae/47b0430f-a870-42ab-a94d-11fec7c5fa64_2732x2048bb.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Root Board Game]]></title>
-        <id>Root Board Game-mo-1747922542969</id>
-        <link href="https://apps.apple.com/mo/app/root-board-game/id1439262206?uo=4"/>
-        <updated>2025-05-22T14:02:22.969Z</updated>
-        <summary type="html"><![CDATA[价格: USD 9.99 → USD 4.99<br/>The Riverfolk Expansion: USD 9.99 → USD 6.99<br/>Root: The Underworld Expansion: USD 9.99 → USD 7.99<br/>Exiles & Partisans & Vagabonds: USD 7.99 → USD 5.99<br/>The Clockwork Expansion: USD 5.99 → USD 3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/root-board-game/id1439262206?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/f8/5e/b6f85e54-748c-6ddd-f684-5e82edd32976/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 9.99</span> → <b>
-  <strong>USD 4.99</strong>
-</b><span>[USD 4.99 ~ USD 9.99]</span>）
-</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>The Riverfolk Expansion：</strong><span>USD 9.99</span> → <b>
-  <strong>USD 6.99</strong>
-</b><span>[USD 6.99 ~ USD 9.99]</span>
-  </li><li>
-    <strong>Root: The Underworld Expansion：</strong><span>USD 9.99</span> → <b>
-  <strong>USD 7.99</strong>
-</b><span>[USD 7.99 ~ USD 9.99]</span>
-  </li><li>
-    <strong>Exiles & Partisans & Vagabonds：</strong><span>USD 7.99</span> → <b>
-  <strong>USD 5.99</strong>
-</b><span>[USD 5.99 ~ USD 7.99]</span>
-  </li><li>
-    <strong>The Clockwork Expansion：</strong><span>USD 5.99</span> → <b>
-  <strong>USD 3.99</strong>
-</b><span>[USD 3.99 ~ USD 5.99]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Play the digital adaptation of the beloved tabletop board game. Root is a game of adventure and war where 2 to 4 players battle for control of a vast wilderness.
-
-The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance’s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.
-
-Meanwhile, at the edge of the region, the proud, squabbling Eyrie have found a new commander who they hope will lead their faction to resume their ancient birthright.
-
-The stage is set for a contest that will decide the fate of the great woodland. It is up to the players to decide which group will ultimately take root.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/9c/9d/e1/9c9de16c-15ee-c566-fb44-8a89e2dd0b13/c8675d04-a78b-4696-9eaf-196629e583f8_RootGroupShot_55.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b7/c4/9f/b7c49f1f-c75a-7b38-3276-3726f6d2c5b8/29000936-e0f9-4999-87e4-200cd033cfef_RootFight_55.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0a/e7/0a/0ae70af0-27f1-c1d3-f395-6f5644aec802/63de2431-5e2d-4865-a592-6703924ee9c2_Root_Home_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9c/af/02/9caf0281-d977-1705-fdbb-c8eec72da44f/aff9c070-caa2-4db2-a38e-ce17ffc1d538_Root_BeautifulBoardGame_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5c/be/d6/5cbed637-e104-8049-cdf3-3fda7723d3d5/bc49725c-8782-47a8-bd79-20efabc3028f_Root_WoodlandWarfare_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/3d/9f/ba3d9fb9-c07d-5650-6a82-719359fb6427/bfc391fd-3a4e-4848-a202-3954be049882_Root_Fight_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/26/26/62/26266206-de38-909f-1924-0de2926cf769/1d8eaec5-95c1-4625-bfc7-bdacf82bbc54_Root_OutrageUprising_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/be/b6/1b/beb61be0-87ce-272a-847d-a342a9c04b8b/8a972d7e-6720-4b41-bb5e-e392e31b321b_Root_Swindle_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/46/ae/f8/46aef8da-6759-9406-f689-ff7f03cd8a69/9aff02f8-5fc1-4c91-807c-f8cdfb9aeed9_Root_ManyWays_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/0d/bc/a30dbc1e-7a9f-e704-3d4c-4059c4f01d8d/7285218f-bf62-4248-a3e5-942f6a7debef_Root_StrategicChallenges_2208x1242.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/65/d9/81/65d981e3-b379-6571-dc01-ff1743fc3624/20eebe85-744d-480b-8605-a6f8c68c926a_RootGroupShot_Tablet.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/92/a0/ff/92a0fff7-78aa-9ec4-7ffa-5d84400484f4/f730198f-1c2a-45cc-9ac4-9f7c2282e29e_RootFight_tablet.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/54/5a/7c/545a7c62-ab17-5d6c-43da-64f1168444b9/42843730-c353-406d-b38d-a545183a3b06_Root_Home_2732-x-2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/21/92/3b/21923b13-5142-e74c-fd1d-5cba5273dfa6/97687b23-3da3-47d7-a9de-dbb591a88cc9_Root_BeautifulBoardGame_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/e1/6c/49/e16c4906-f352-bbba-cf81-00ea51c3bde2/9c6fe526-5f2f-4243-8281-ee91623e5594_Root_WoodlandWarfare_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ec/c6/4e/ecc64eeb-c211-29c8-2280-d217e0c30289/56c5112d-d46b-4562-ae81-fb52f610e432_Root_Fight_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/cc/33/cc/cc33cce9-0183-8fbe-d805-d98d05fcf992/6ed6068f-3d7f-4a2f-a495-c20b8d9c56ea_Root_Outrage_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/90/fb/7a/90fb7a69-3d04-fd6a-2c62-ce317052a6e2/d6a45759-e737-402a-a8b9-87cf443f750f_Root_Swindle_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/aa/51/fd/aa51fdfc-109b-78a2-51eb-6d01ecd7d912/202fda3c-fe48-45b1-a98a-ffbaa6d1bfc2_Root_ManyWays_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/2c/82/fb/2c82fb3d-4bee-61db-67f6-b970328f2a8e/84b99e55-4193-427b-beec-b1ccbacc4f39_Root_Challenges_2732x2048.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DungeonSquad]]></title>
-        <id>DungeonSquad-mo-1747922542969</id>
-        <link href="https://apps.apple.com/mo/app/dungeonsquad/id1642733080?uo=4"/>
-        <updated>2025-05-22T14:02:22.969Z</updated>
-        <summary type="html"><![CDATA[价格: USD 4.99 → USD 1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/dungeonsquad/id1642733080?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/05/a9/1305a97a-64d8-f810-0581-c7d3143d9f49/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 4.99</span> → <b>
-  <strong>USD 1.99</strong>
-</b><span>[USD 1.99 ~ USD 4.99]</span>）
-</h2><h2>应用描述</h2><p>
-  Dungeon Maker與Dungeon Defense開發商＂Game Cosater＂的最新力作！
-
-因無數勇者們的侵略，副本已成廢墟，魔界也遭受破壞。
-你為了重建魔界，需要侵略勇者們的根據地。
-在那裡，恢復魔界的力量，並擊敗光之軍隊吧。
-
-你要獨自入侵已被光所支配的星球。
-擊敗勇者，並以他們為祭品，召喚出怪物作為你的夥伴吧，
-同時也要從勇者身上奪取裝備來武裝。
-
-得到強大的力量，就可以獲得魔界之魔神們的祝福。
-接合魔神與怪物的力量，壓制巨大的勇者軍團吧。
-
-◇ 10隻精英怪物與100個以上的專屬技能
-◇ 重建度越高，魔界的力量就越來越強大
-◇ 隨機選擇與機會所構成的Roguelike玩法
-
-謝謝。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/de/e2/06dee2cb-200f-b47c-aa3e-ac8ece5e350b/4fdfd911-1d80-4ba5-bfaf-84ab8f2c8b1c_2022-11-10_14-34-16_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/09/28/81/09288196-4f24-50a9-6872-1d05417b643d/025aec05-5ee0-4c23-9381-3fe6a2a1bcef_ds_ss_2208x1242_tc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/55/03/e8/5503e892-6f9a-77de-4686-e2328dc40ce4/e9879c20-1628-43b2-a7db-d17dee2fd718_2023-03-14_14-30-43_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/53/38/6e/53386ef4-c3ef-3886-ed7b-64ef629c1980/94c824b5-e116-47b5-abe4-bdecdf72cc74_2023-03-14_14-34-58_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/11/1a/4a/111a4a8a-bddc-70fc-b7a1-e5da0c8231e1/cd61c103-1e5a-49e2-ae28-a7cef9351702_2023-03-14_14-36-48_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/96/4c/14/964c1470-40f1-d96a-e839-cd58f3751a51/74f10981-28c6-4805-b5c4-706c7335df4f_2023-03-14_14-37-43_2208x1242.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a0/62/ba/a062baf8-bd33-681f-9e3f-25cae87e2a30/f4b40cd6-e9dc-435c-abea-f7fd5ebe0322_2022-11-10_14-34-16_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b8/1c/01/b81c01e3-5beb-fc38-f976-30ec788e1c24/bf7c6027-e10b-41da-a349-0cd7119fca17_2023-03-14_14-35-01_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fd/d0/94/fdd0948e-47c8-7639-22c7-c41fc19cdf08/61e941c2-c9cf-43b7-87e0-0fae388d02df_2023-03-14_14-30-43_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/46/db/46/46db46b6-54b8-be34-afa8-60d2418836ab/b5dd1aaa-0654-4f97-abc1-a015ac8849e7_2023-03-14_14-37-46_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/23/43/f4/2343f4a1-ef0c-b48c-16ff-9207f5c927b8/89ecb195-d044-44a5-98c7-ce77dcc8eb2c_2023-03-14_14-36-50_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/f7/02/83f702ca-15ff-3935-80fb-9ba38256b245/6c278f71-facc-4a8c-9359-2c6cf83462e1_ds_ss_2732x2048_tc.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水準管 HD]]></title>
-        <id>水準管 HD-mo-1747922542969</id>
-        <link href="https://apps.apple.com/mo/app/%E6%B0%B4%E6%BA%96%E7%AE%A1-hd/id510249014?uo=4"/>
-        <updated>2025-05-22T14:02:22.969Z</updated>
-        <summary type="html"><![CDATA[价格: USD 0.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E6%B0%B4%E6%BA%96%E7%AE%A1-hd/id510249014?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/7a/5c/317a5c62-0c0f-38c8-b215-cbd1ab428d6b/AppIcon-EW-0-0-1x_U007emarketing-0-0-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 0.99</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ USD 0.99]</span>）
-</h2><h2>应用描述</h2><p>
-  精準水平儀,包含水平管及水平泡兩種測量方式。
-
-功能:
-√ 水平標尺及水平泡
-√ 支援 iPhone 和 iPad
-
-Level. URL scheme is "EWBubbleLevel://"
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/c3/7a/13c37a4e-517b-f191-b2ec-80c3e0a31598/mzl.rltbicsz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/dd/99/17dd9927-e6e4-b255-c946-f0346c7d2a1d/mzl.xuivbopz.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/ef/75/57ef75d3-0305-89f9-4b8f-4c2250a30368/mzl.oleqkngv.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/02/14/e50214c6-b531-221c-3a6d-02a80c7d64a5/mzl.rrvyeumo.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[召喚騎士團]]></title>
-        <id>召喚騎士團-mo-1747904550273</id>
-        <link href="https://apps.apple.com/mo/app/%E5%8F%AC%E5%96%9A%E9%A8%8E%E5%A3%AB%E5%9C%98/id6471947612?uo=4"/>
-        <updated>2025-05-22T09:02:30.273Z</updated>
-        <summary type="html"><![CDATA[价格: USD 0.29 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E5%8F%AC%E5%96%9A%E9%A8%8E%E5%A3%AB%E5%9C%98/id6471947612?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/89/32/9989329f-ff9b-d80d-203f-6068171335bf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 0.29</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ USD 0.29]</span>）
-</h2><h2>应用描述</h2><p>
-  【遊戲簡介】
-《召喚騎士團》是由橄欖熊貓工作室製作的一款RPG卡牌像素風遊戲。 分為《騎士之歌》和《群星之章》兩部分玩法和內容，遊戲將透過「10TWD付費下載，內購解鎖」的方式取得全部的遊玩內容。
-
-【內購解鎖】
-全內容解鎖：8.99USD
-騎士之歌劇情模式：4.99USD
-群星之章自由模式：4.99USD
-兩個模式都支持先體驗再付費解鎖，《騎士之歌》可以免費體驗至第二章節結束，《群星之章》免費體驗遊戲內時間一年。
-PS：該金額會根據當地匯率進行換算
-
-《騎士之歌》：
-劇情改編自諾貝爾文學獎得主亨里克·顯克微支《十字軍騎士》，主要玩法為卡牌的RPG角色扮演，在卡牌戰鬥的同時加入了夥伴技能連攜系統，將根據玩家打出 的牌釋放不同的專屬技能，從而建構不同的流派。 在遊戲中也會認識並招募到眾多同伴，踏上一段波瀾壯闊的旅程。
-
-《群星之章》：
-遊戲的主舞台在一個名為安塔納的魔幻大陸上，在這裡擁有風俗迥異的六個國家，玩家將扮演其中一個王國的小領主。
-在魔界即將入侵這片大陸的前夕，玩家需要前往各地尋找自己騎士團的伙伴，建立屬於自己的騎士團，展開冒險，增強自己的實力，守護人類戰線。
-
-【設備支援】
-·iOS 10.0及更高版本
-·運行記憶體3G以及以上機型
-·iphone7 以上機型
-·ipad Air3以上機型
-
-【聯絡我們】
-遊戲過程中需要協助，或遇到問題，可以通過郵件聯絡反饋。
-官方郵箱：knight@longyougame.com
-</p>]]></content>
     </entry>
 </feed>

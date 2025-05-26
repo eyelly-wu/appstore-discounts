@@ -10547,7 +10547,17 @@
       "解開作弊模式": "HK$ 88.00",
       "紅魔瘟疫擴展包": "HK$ 18.00",
       "場景包": "HK$ 22.00",
-      "猿猴流感擴充包": "HK$ 18.00"
+      "猿猴流感擴充包": "HK$ 18.00",
+      "Procurement Director": "HK$ 8.00",
+      "Disaster Manager": "HK$ 8.00",
+      "Medical Coordinator": "HK$ 8.00",
+      "Ethics Watchdog": "HK$ 8.00",
+      "Chaos Engineer": "HK$ 8.00",
+      "Economic Forecaster": "HK$ 8.00",
+      "Situation Director": "HK$ 8.00",
+      "Outreach Coordinator": "HK$ 8.00",
+      "Fast Response EMTs": "HK$ 8.00",
+      "Strategic Fundraiser": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -10560,9 +10570,38 @@
       "解開作弊模式": "HK$ 88.00",
       "紅魔瘟疫擴展包": "HK$ 18.00",
       "場景包": "HK$ 22.00",
-      "猿猴流感擴充包": "HK$ 18.00"
+      "猿猴流感擴充包": "HK$ 18.00",
+      "Procurement Director": "HK$ 8.00",
+      "Disaster Manager": "HK$ 8.00",
+      "Medical Coordinator": "HK$ 8.00",
+      "Ethics Watchdog": "HK$ 8.00",
+      "Chaos Engineer": "HK$ 8.00",
+      "Economic Forecaster": "HK$ 8.00",
+      "Situation Director": "HK$ 8.00",
+      "Outreach Coordinator": "HK$ 8.00",
+      "Fast Response EMTs": "HK$ 8.00",
+      "Strategic Fundraiser": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748243000805,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Procurement Director": "HK$ 8.00",
+            "Disaster Manager": "HK$ 8.00",
+            "Medical Coordinator": "HK$ 8.00",
+            "Ethics Watchdog": "HK$ 8.00",
+            "Chaos Engineer": "HK$ 8.00",
+            "Economic Forecaster": "HK$ 8.00",
+            "Situation Director": "HK$ 8.00",
+            "Outreach Coordinator": "HK$ 8.00",
+            "Fast Response EMTs": "HK$ 8.00",
+            "Strategic Fundraiser": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745640142195,
@@ -14954,7 +14993,16 @@
       "AAPI Month Bundle": "HK$ 48.00",
       "Chinese Cuisine Deck": "HK$ 18.00",
       "AAPI Month Bundle Sale": "HK$ 38.00",
-      "50 Decks, More Laughs": "HK$ 148.00"
+      "50 Decks, More Laughs": "HK$ 148.00",
+      "Kids Favs Bundle": "HK$ 48.00",
+      "Animation Bundle Sale": "HK$ 38.00",
+      "Animated Movies Deck": "HK$ 18.00",
+      "Animation Bundle": "HK$ 48.00",
+      "Kids Favs Bundle Sale": "HK$ 38.00",
+      "Around The World Bundle": "HK$ 58.00",
+      "Travel Essentials Deck": "HK$ 18.00",
+      "Around The World Bundle Sale": "HK$ 48.00",
+      "90s And 00s Cartoons Deck": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -14979,9 +15027,37 @@
       "AAPI Month Bundle": "HK$ 48.00",
       "Chinese Cuisine Deck": "HK$ 18.00",
       "AAPI Month Bundle Sale": "HK$ 38.00",
-      "50 Decks, More Laughs": "HK$ 148.00"
+      "50 Decks, More Laughs": "HK$ 148.00",
+      "Kids Favs Bundle": "HK$ 48.00",
+      "Animation Bundle Sale": "HK$ 38.00",
+      "Animated Movies Deck": "HK$ 18.00",
+      "Animation Bundle": "HK$ 48.00",
+      "Kids Favs Bundle Sale": "HK$ 38.00",
+      "Around The World Bundle": "HK$ 58.00",
+      "Travel Essentials Deck": "HK$ 18.00",
+      "Around The World Bundle Sale": "HK$ 48.00",
+      "90s And 00s Cartoons Deck": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748243000805,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Kids Favs Bundle": "HK$ 48.00",
+            "Animation Bundle Sale": "HK$ 38.00",
+            "Animated Movies Deck": "HK$ 18.00",
+            "Animation Bundle": "HK$ 48.00",
+            "Kids Favs Bundle Sale": "HK$ 38.00",
+            "Around The World Bundle": "HK$ 58.00",
+            "Travel Essentials Deck": "HK$ 18.00",
+            "Around The World Bundle Sale": "HK$ 48.00",
+            "90s And 00s Cartoons Deck": "HK$ 18.00",
+            "Kids Family Bundle BYOD": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746972131186,
@@ -19087,10 +19163,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748243000805,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745384546601,
@@ -26162,6 +26246,25 @@
     "history": [
       [
         {
+          "timestamp": 1748243000805,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Purchase game": "HK$ 8.00",
+            "Props Tip: Temple corner": "HK$ 8.00",
+            "Props Tip: Pyramid": "HK$ 8.00",
+            "Props Tip: flower": "HK$ 8.00",
+            "Get tips on holographic camera": "HK$ 8.00",
+            "Get tips about two weeks mesh box factory eye": "HK$ 8.00",
+            "Get tips about the triangle blocks (1-6)": "HK$ 8.00",
+            "Get tips on the bucket": "HK$ 8.00",
+            "Get tips on stone-eyed": "HK$ 8.00",
+            "Get tips about this mysterious stone": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748145990316,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -32232,6 +32335,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748243000805,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "HK$ 32.00",
+            "茶具魔王皮膚卡牌包 C": "HK$ 38.00",
+            "茶具魔王皮膚卡牌包 B": "HK$ 38.00",
+            "茶具魔王皮膚卡牌包 A": "HK$ 38.00",
+            "小墮落勇士造型卡牌包": "HK$ 188.00",
+            "小勇士造型卡牌包": "HK$ 188.00",
+            "黑暗的魔王皮膚卡牌包": "HK$ 58.00",
+            "光芒的魔王皮膚卡牌包": "HK$ 58.00",
+            "魔王覺醒蛇女卡牌包": "HK$ 38.00",
+            "神話完整卡牌包": "HK$ 288.00"
+          }
+        },
         {
           "timestamp": 1748232348873,
           "price": 32,
@@ -52124,6 +52244,25 @@
     "history": [
       [
         {
+          "timestamp": 1748243000805,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "女神祈禱好禮272": "HK$ 88.00",
+            "特權禮包271": "HK$ 88.00",
+            "女神幸運禮包270": "HK$ 118.00",
+            "女神祈禱好禮269": "HK$ 58.00",
+            "鑽石優惠禮包268": "HK$ 98.00",
+            "命運神殿禮包267": "HK$ 22.00",
+            "命運神殿禮包266": "HK$ 148.00",
+            "女神幸運禮包265": "HK$ 98.00",
+            "鑽石優惠禮包264": "HK$ 48.00",
+            "命運神殿禮包263": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747249329947,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -61668,6 +61807,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748243000805,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "群雄爭霸": "HK$ 18.00",
+            "終身版": "HK$ 58.00",
+            "戰國七雄": "HK$ 32.00",
+            "江山美人": "HK$ 18.00",
+            "鎮海神威": "HK$ 18.00",
+            "自創地圖": "HK$ 32.00",
+            "楚漢爭霸": "HK$ 32.00",
+            "自創武將": "HK$ 32.00",
+            "無雙戰神": "HK$ 18.00",
+            "道法自然": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1748232348873,
           "price": 0,
