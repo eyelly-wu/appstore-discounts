@@ -19759,6 +19759,25 @@
     "history": [
       [
         {
+          "timestamp": 1748286126675,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "$30.00",
+            "Large Coin Pack": "$90.00",
+            "Medium Coin Pack": "$60.00",
+            "Small Coin Pack": "$30.00",
+            "Pig": "$30.00",
+            "Dog": "$30.00",
+            "Rooster": "$30.00",
+            "Monkey": "$30.00",
+            "Goat": "$30.00",
+            "Horse": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747803747710,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -20025,7 +20044,17 @@
       "和风主题": "$120.00",
       "小酒仙节拍器": "$30.00",
       "音樂合集 02": "$60.00",
-      "ThemeA2B1C1": "$220.00"
+      "ThemeA2B1C1": "$220.00",
+      "ThemeA0B0C1": "$0.00",
+      "ThemeA0B1C0": "$0.00",
+      "ThemeA1B0C0": "$0.00",
+      "ThemeA0B1C1": "$0.00",
+      "ThemeA1B0C1": "$0.00",
+      "ThemeA1B1C0": "$0.00",
+      "ThemeA2B0C0": "$0.00",
+      "主题大礼包": "$120.00",
+      "ThemeA2B0C1": "$120.00",
+      "ThemeA2B1C0": "$120.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -20040,9 +20069,38 @@
       "和风主题": "$120.00",
       "小酒仙节拍器": "$30.00",
       "音樂合集 02": "$60.00",
-      "ThemeA2B1C1": "$220.00"
+      "ThemeA2B1C1": "$220.00",
+      "ThemeA0B0C1": "$0.00",
+      "ThemeA0B1C0": "$0.00",
+      "ThemeA1B0C0": "$0.00",
+      "ThemeA0B1C1": "$0.00",
+      "ThemeA1B0C1": "$0.00",
+      "ThemeA1B1C0": "$0.00",
+      "ThemeA2B0C0": "$0.00",
+      "主题大礼包": "$120.00",
+      "ThemeA2B0C1": "$120.00",
+      "ThemeA2B1C0": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748286126675,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "$0.00",
+            "ThemeA0B1C0": "$0.00",
+            "ThemeA1B0C0": "$0.00",
+            "ThemeA0B1C1": "$0.00",
+            "ThemeA1B0C1": "$0.00",
+            "ThemeA1B1C0": "$0.00",
+            "ThemeA2B0C0": "$0.00",
+            "主题大礼包": "$120.00",
+            "ThemeA2B0C1": "$120.00",
+            "ThemeA2B1C0": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747195400284,
@@ -31806,6 +31864,25 @@
       "古亞星兜風指南": "$130.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748286126675,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "unlockall_29": "$1,120.00",
+            "cyTus": "$190.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "新手上路包": "$33.00",
+            "MSR特選曲目組合包": "$190.00",
+            "MSR特選曲目組合包_Vol.02": "$190.00",
+            "放棄治療 Vol.3": "$130.00",
+            "Miku in Museland": "$290.00",
+            "暮 色 電 台 FM101": "$130.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748167331379,

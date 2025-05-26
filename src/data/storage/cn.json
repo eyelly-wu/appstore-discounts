@@ -219,7 +219,11 @@
       "Keyboard Sweeteners": "¥148.00",
       "Steel Guitar Sweeteners": "¥98.00",
       "Orchestral Sweeteners": "¥38.00",
-      "Harp Sweeteners": "¥38.00"
+      "Harp Sweeteners": "¥38.00",
+      "Accordion Sweetener Pack": "¥68.00",
+      "All Sweeteners": "¥298.00",
+      "Bluegrass Sweeteners": "¥38.00",
+      "Harmonica Sweeteners": "¥68.00"
     },
     "minPriceInfo": {
       "price": 68,
@@ -233,9 +237,32 @@
       "Keyboard Sweeteners": "¥148.00",
       "Steel Guitar Sweeteners": "¥98.00",
       "Orchestral Sweeteners": "¥38.00",
-      "Harp Sweeteners": "¥38.00"
+      "Harp Sweeteners": "¥38.00",
+      "Accordion Sweetener Pack": "¥68.00",
+      "All Sweeteners": "¥298.00",
+      "Bluegrass Sweeteners": "¥38.00",
+      "Harmonica Sweeteners": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748286126675,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Accordion Sweetener Pack": "¥68.00",
+            "All Sweeteners": "¥298.00",
+            "Full Discounted Upgrade Pack": "¥398.00",
+            "Bluegrass Sweeteners": "¥38.00",
+            "Tuning Tools": "¥68.00",
+            "Harmonic Tuning": "¥148.00",
+            "Extended Frequency Modes": "¥38.00",
+            "Buzz Feiten Pack": "¥38.00",
+            "Guitar & Bass Sweeteners": "¥38.00",
+            "Harmonica Sweeteners": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748170931091,
@@ -1320,7 +1347,8 @@
       "Vivaldi: The Four Seasons": "¥15.00",
       "Mozart: Twelve Duets": "¥15.00",
       "The Mutopia Piano Collection": "¥38.00",
-      "Voluntary Upgrade": "¥58.00"
+      "Voluntary Upgrade": "¥58.00",
+      "Gottschalk: The Mutopia Collection": "¥0.00"
     },
     "minPriceInfo": {
       "price": 168,
@@ -1343,9 +1371,29 @@
       "Vivaldi: The Four Seasons": "¥15.00",
       "Mozart: Twelve Duets": "¥15.00",
       "The Mutopia Piano Collection": "¥38.00",
-      "Voluntary Upgrade": "¥58.00"
+      "Voluntary Upgrade": "¥58.00",
+      "Gottschalk: The Mutopia Collection": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748286126675,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Gottschalk: The Mutopia Collection": "¥0.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Verdi: The Mutopia Collection": "¥0.00",
+            "Rameau: The Mutopia Collection": "¥0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747249329947,
@@ -20968,6 +21016,24 @@
       "超级多信用点": "¥258.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748286126675,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "周卡": "¥12.00",
+            "少量信用点": "¥6.00",
+            "大月卡": "¥45.00",
+            "小月卡": "¥25.00",
+            "福利升级": "¥6.00",
+            "中等信用点": "¥12.00",
+            "超多信用点": "¥50.00",
+            "大量信用点": "¥25.00",
+            "海量信用点": "¥108.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748232348873,
