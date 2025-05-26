@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 6612009107,
+    name: {
+      mo: 'PID控制器模擬',
+    },
+    addType: 'auto',
+  },
+  {
     id: 308296029,
     name: {
       mo: 'iStroboSoft',

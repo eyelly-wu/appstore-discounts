@@ -8765,7 +8765,9 @@
       "Sandbox 3 Months": "₺174,99",
       "Sandbox Monthly": "₺87,99",
       "SLS 2018: World Championship": "₺39,99",
-      "Mountain of Bolts": "₺4.499,99"
+      "Mountain of Bolts": "₺4.499,99",
+      "Unlock Missions": "₺39,99",
+      "Wheel Color Pack": "₺39,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -8789,9 +8791,30 @@
       "Sandbox 3 Months": "₺174,99",
       "Sandbox Monthly": "₺87,99",
       "SLS 2018: World Championship": "₺39,99",
-      "Mountain of Bolts": "₺4.499,99"
+      "Mountain of Bolts": "₺4.499,99",
+      "Unlock Missions": "₺39,99",
+      "Wheel Color Pack": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748271745315,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Slow Motion Mode": "₺39,99",
+            "Unlock Missions": "₺39,99",
+            "Unlimited Custom Images": "₺229,99",
+            "Skatepark: Inbound": "₺39,99",
+            "Skatepark: Schoolyard": "₺39,99",
+            "Skatepark: The Warehouse": "₺39,99",
+            "Skatepark: Double Infinity": "₺39,99",
+            "Skatepark: The Factory": "₺39,99",
+            "SLS 2013: Kansas City": "₺39,99",
+            "Wheel Color Pack": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747839756699,
@@ -53225,6 +53248,27 @@
       [
         {
           "timestamp": 1748023349539,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6612009107": {
+    "name": "PID Controller Simulation",
+    "maxPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748271745315,
           "price": 179.99,
           "formattedPrice": "₺179,99",
           "inAppPurchases": {}
