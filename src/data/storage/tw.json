@@ -18910,10 +18910,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748251078667,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
@@ -19923,10 +19931,18 @@
       "formattedPrice": "$490.00"
     },
     "minPriceInfo": {
-      "price": 490,
-      "formattedPrice": "$490.00"
+      "price": 320,
+      "formattedPrice": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748251078667,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745658131479,

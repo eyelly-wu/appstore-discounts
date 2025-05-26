@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-05-26T08:25:12.733Z</updated>
+    <updated>2025-05-26T09:38:14.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-26T08:25:12.734Z</updated>
+        <updated>2025-05-26T09:38:14.326Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:67474973430475776+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkMon, 26 May 2025 08:25:12 GMT</id>
+        <id>rankinghkMon, 26 May 2025 09:38:14 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-26T08:25:12.735Z</updated>
+        <updated>2025-05-26T09:38:14.327Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -427,7 +427,7 @@ feedId:67474973430475776+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id911205290">DRAGON QUEST II</a>
+        <a href="https://apps.apple.com/hk/app/id911201894">DRAGON QUEST</a>
       </td>
       <td>
         <ul>
@@ -442,6 +442,23 @@ feedId:67474973430475776+userId:73658201673997312
     <tr>
       <td>
         <b>17</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id911205290">DRAGON QUEST II</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id916976066">短語鍵盤</a>
@@ -468,7 +485,24 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id933113994">DRAGON QUEST V</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1028950091">貪婪洞窟：猿神降临</a>
@@ -491,7 +525,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1118115766">Bloons TD 6</a>
@@ -508,7 +542,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1230231705">The Witness</a>
@@ -525,7 +559,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1291429551">60 Parsecs!</a>
@@ -542,7 +576,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1389752090">Dead Cells</a>
@@ -559,7 +593,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -576,7 +610,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1435461053">This Is the Police</a>
@@ -593,7 +627,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1439262206">Root Board Game</a>
@@ -622,7 +656,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -639,7 +673,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -656,7 +690,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1474716211">60 Seconds! Reatomized</a>
@@ -673,7 +707,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -690,7 +724,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1497120981">LUCH — Filters & Bokeh Effect</a>
@@ -707,7 +741,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1538124245">where I put it</a>
@@ -724,7 +758,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1567658979">SkySafari 7 Pro</a>
@@ -741,7 +775,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1580067723">Wall of insanity</a>
@@ -758,7 +792,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
@@ -775,7 +809,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1620883955">Little Nightmares</a>
@@ -792,7 +826,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1642733080">DungeonSquad</a>
@@ -809,7 +843,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -826,7 +860,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -843,7 +877,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6469114836">スイカゲーム-Aladdin X</a>
@@ -868,7 +902,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6451376191">Dumb Phone: 簡約主畫面</a>
@@ -885,7 +919,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6446178861">PlayNav - 影片內無廣告！</a>
@@ -902,7 +936,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6458144503">Skul: The Hero Slayer</a>
@@ -919,7 +953,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6505058041">QUAKELINE</a>
@@ -936,7 +970,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -953,7 +987,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6471947612">召喚騎士團</a>
@@ -970,7 +1004,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6467822375">Auto Redial App</a>
@@ -987,7 +1021,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6743459503">逐鹿</a>
@@ -1004,7 +1038,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6466296603">The Last Game</a>
@@ -1021,7 +1055,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6504323939">勇者鬥惡龍X　覺醒的五種族　OFFLINE</a>
@@ -1162,6 +1196,116 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRAGON QUEST V]]></title>
+        <id>DRAGON QUEST V-hk-1748251078667</id>
+        <link href="https://apps.apple.com/hk/app/dragon-quest-v/id933113994?uo=4"/>
+        <updated>2025-05-26T09:17:58.667Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 118.00 → HK$ 88.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/dragon-quest-v/id933113994?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/87/3c/d4/873cd4a3-b38a-3a0d-9f2a-a164b522eb05/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 118.00</span> → <b>
+  <strong>HK$ 88.00</strong>
+</b><span>[HK$ 88.00 ~ HK$ 118.00]</span>）
+</h2><h2>应用描述</h2><p>
+  ********************
+勇者鬥惡龍天空系列的第二作，《勇者鬥惡龍V》隆重登場！
+歷經祖孫三代的宏大故事將在智能手機上復蘇！
+感受主人公所經歷的“波瀾萬丈的人生”！
+本作是一次性買斷的！
+在下載後，不需要再支付任何費用。
+********************
+◆序言
+主人公是和父親帕帕斯一起在世界中旅行的少年。
+少年在經歷了無數冒險後，逐漸成長成了青年，
+踏上了繼承父親理想，尋找“天空的勇者”的旅程
+
+感受主人公所經歷的“波瀾萬丈的人生”。
+歷經祖孫三代的宏大故事在智能手機上復蘇。
+
+◆遊戲特色
+・怪物夥伴系統
+作為敵人與主人公戰鬥的怪物，這回將成為夥伴！
+只有怪物才能使用的特技和各種咒文，將做出非常出色的表現。
+
+・夥伴對話
+可以體驗與個性豐富的夥伴們在冒險中對話的樂趣。
+對話的內容會根據遊戲的進展和狀況發生各種變化！
+
+・３６０度旋轉地圖
+在鎮子和城堡中可以使地圖３６０度旋轉。
+如果旋轉起來觀察的話，說不定會有新的發現？！
+
+・ＡＩ戰鬥
+值得信賴的夥伴們可以通過自己的意志進行戰鬥。
+根據不同狀況使用各種“作戦”，去面對強大的敵人吧！
+
+・賭場
+有老虎機、撲克、怪物格鬥場、史萊姆賽跑這些熟悉的娛樂要素。
+在漫長的旅途中也勞逸結合地娛樂一下吧。
+賺到的代幣還可以兌換道具，可謂是一箭雙雕！
+
+・雙六台
+在投擲骰子，使自己成為棋子前進的巨大“雙六台”中，
+在駐足的格子中會發生各種各樣的事件。
+裡面還有只有在“雙六”中才能體驗到的特殊事件？！
+順利走到終點的話，還可以得到稀有的道具哦！！
+
+・觸摸史萊姆
+在任天堂DS版《DQV》中登場的“觸摸史萊姆”還健在！
+觸擊在一定時間內顯示的與面板顏色相同的史萊姆的非常簡單的遊戲！
+不過，因而玩得入了迷的話，就會忘記時間，難以自拔。真是個高深莫測的遊戲！
+
+--------------------
+【適用OS】
+iOS11.0以上
+
+【適用機型】
+iPhone5S／iPod touch(第6代)／iPad(第5代) 以上
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/bc/a3/19bca332-2b3c-be99-9430-6675adda5345/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/48/cf/ff/48cfffc8-2f66-6834-0e4b-a5316a520cd9/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1d/1c/cf/1d1ccf4e-600a-0566-32a0-fb811e3d4a13/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/04/85/86/0485868e-08a2-6a92-33ba-416e0128087d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f7/5d/d9/f75dd9c1-ebdb-2217-0161-9ebc0030a664/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f6/51/4f/f6514f56-259b-66c3-25fa-00b665182f4f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ce/31/31/ce313115-4c8b-3401-1c49-b202ea939319/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b4/1c/b0/b41cb06a-3065-e56e-fb87-88da6c125a57/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/89/4f/58894f0e-5d02-e098-2629-c1dae2f28b68/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/20/f3/e0/20f3e044-a3b6-119f-b8c9-b31a4c7a7448/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/47/0e/7b/470e7b46-5baf-9a9e-234a-bdc2f6cd15e5/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/f2/a0/baf2a0ac-7677-c60e-de86-f4136bcd8846/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/a4/ad/c0a4ad6f-ae52-6c73-5d69-ffd10e34b9a7/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8d/5e/32/8d5e32ae-3aff-c852-a4b4-f0c016928d8d/pr_source.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRAGON QUEST]]></title>
+        <id>DRAGON QUEST-hk-1748251078667</id>
+        <link href="https://apps.apple.com/hk/app/dragon-quest/id911201894?uo=4"/>
+        <updated>2025-05-26T09:17:58.667Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 22.00 → HK$ 18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/dragon-quest/id911201894?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b1/5e/5e/b15e5e9e-a553-2fc7-09e8-bab6d269fdd0/AppIcon-1x_U007emarketing-0-85-220-0-9.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 22.00</span> → <b>
+  <strong>HK$ 18.00</strong>
+</b><span>[HK$ 18.00 ~ HK$ 22.00]</span>）
+</h2><h2>应用描述</h2><p>
+  ********************
+
+《勇者鬥惡龍》系列開山之作終於登陸手機！快來體會吸引了兩代人的經典RPG的不朽魅力！
+
+通過這款遊戲，你可以進入一個劍與魔法的完整世界！只需下載一次，便不用再購買也不用再下載任何其他東西！
+
+********************
+
+◆ 序言
+邪惡的龍王打破了阿雷夫加爾德的和平，他奪走了光之石，令世界陷入了無盡的黑暗之中。
+是時候了，繼承了洛特血脈的年輕人啊，發揮出你體內蘊藏的勇者之力，打敗龍王拯救世界吧！
+
+◆ 遊戲特色
+·系列首作
+體會最初的經典，重溫數百萬日本玩家在上世紀80年代時的感動。
+化身為傳說中的勇者洛特的後人，在阿雷夫戈爾德的大地上感受一段經典的冒險之旅。消滅阻礙的敵人，解開重重謎題，前往龍王的所在地！
+
+·簡便的直接操作
+遊戲操作經過調整可以完美對應現代移動設備的縱向佈局，移動按鍵的位置也可以在單手與雙手中切換。
+
+·與日本乃至全世界數以百萬計的玩家一起回顧這款傳奇般的RPG！由著名遊戲製作人堀井雄二先生，偉大的作曲家椙山浩一先生，以及漫畫大師鳥山明先生攜手帶來的經典。
+
+--------------------
+◆ 推薦機型及系統 ◆
+・iPhone 4及以後的機型／iPad／iPod touch (第4代及以後的機型)
+・iOS4.3及更高版本
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/ca/9a/c5/ca9ac5cf-c2c2-4a5c-eeaa-e9a3c5d9f3b5/mzl.zcqcsbvo.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/2e/c4/772ec481-a67f-da65-a883-6d2e89f4ddc6/mzl.pmmoexny.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/16/20/9f162061-d1ae-8250-06c1-19b3ec445cc3/mzl.dnmkrnyr.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/d5/f9/21/d5f921ec-0dda-aab4-8c9e-c99522ca97c9/mzl.xwkxxhzb.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/9e/58/ce/9e58cee3-5380-c28b-ec80-24b57d180ac1/mzl.xgbiccja.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/c8/b9/8ac8b90f-5127-fa26-2e1f-c450dbe8a110/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/69/c9/08/69c908b4-a142-4067-8bd1-856a782afad8/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/6c/52/5b/6c525b0b-e8fc-c459-4b2f-9202028020c2/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/f1/0b/7cf10b89-3c8b-fccd-ab9c-428cf7d963f7/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/54/3d/c5/543dc501-94ae-8823-a7c1-48ead24545ea/pr_source.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[勇者鬥惡龍X　覺醒的五種族　OFFLINE]]></title>
