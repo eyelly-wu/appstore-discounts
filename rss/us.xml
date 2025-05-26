@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-26T09:38:14.349Z</updated>
+    <updated>2025-05-26T22:23:11.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-26T09:38:14.349Z</updated>
+        <updated>2025-05-26T22:23:11.543Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 26 May 2025 09:38:14 GMT</id>
+        <id>rankingusMon, 26 May 2025 22:23:11 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-26T09:38:14.349Z</updated>
+        <updated>2025-05-26T22:23:11.543Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1082</b>
+        <b>1083</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>881</b>
+        <b>882</b>
       </td>
       <td>
         <b>12</b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>984</b>
+        <b>985</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>808</b>
+        <b>809</b>
       </td>
       <td>
         <b>12</b>
@@ -238,14 +238,20 @@ feedId:49753370488353792+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
+        <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>The Ultimate Life Collection</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -255,7 +261,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
+        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
       </td>
       <td>
         <ul>
@@ -272,7 +278,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
+        <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
       </td>
       <td>
         <ul>
@@ -287,6 +293,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>10</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
@@ -309,7 +332,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6467822375">Auto Redial App</a>
@@ -326,7 +349,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id463295925">Official DVSA Theory Test Kit</a>
@@ -349,7 +372,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id510249014">Level HD.</a>
@@ -366,7 +389,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id911201894">DRAGON QUEST</a>
@@ -383,7 +406,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id911205290">DRAGON QUEST II</a>
@@ -400,7 +423,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id916976066">Phraseboard Keyboard</a>
@@ -427,7 +450,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id933113994">DRAGON QUEST V</a>
@@ -444,7 +467,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1118115766">Bloons TD 6</a>
@@ -461,7 +484,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
@@ -478,7 +501,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1248033433">Kingdom Rush Vengeance TD Game</a>
@@ -513,7 +536,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1291429551">60 Parsecs!</a>
@@ -530,7 +553,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1389752090">Dead Cells</a>
@@ -547,7 +570,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -564,7 +587,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
@@ -581,7 +604,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -610,7 +633,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439881811">RadarOmega</a>
@@ -633,7 +656,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -650,7 +673,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
@@ -667,7 +690,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1474716211">60 Seconds! Reatomized</a>
@@ -684,7 +707,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -701,7 +724,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -712,29 +735,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>32</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>The Ultimate Life Collection</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1175,6 +1175,73 @@ feedId:49753370488353792+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Game of Life 2]]></title>
+        <id>The Game of Life 2-us-1748296933840</id>
+        <link href="https://apps.apple.com/us/app/the-game-of-life-2/id1512751689?uo=4"/>
+        <updated>2025-05-26T22:02:13.840Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Life Collection: $34.99 → $19.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-game-of-life-2/id1512751689?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/5e/71/ad5e71f4-563c-53be-8c4a-46eb591446e7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>The Ultimate Life Collection：</strong><span>$34.99</span> → <b>
+  <strong>$19.99</strong>
+</b><span>[$19.99 ~ $34.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Live 1000 lives in the official sequel to the classic family board game, The Game of Life! Will you be a Video Blogger or an Astronomer? Play now!
+
+Voted "Best Digital Board Game” in the Pocket Gamer Awards 2021
+Played by over 50 Million Families Worldwide
+
+Customise your peg, hop in your eco car and race your friends and family through The Game of Life 2! It’s a contemporary sequel to the classic family favourite board game, The Game of Life. With an added crossroad moment and new ways to win, what will you choose? Earn points for Knowledge and Happiness as well as Wealth. Go to College, or don’t. Get married early, save it for later, or stay single! Have kids, adopt pets, do both or neither. The choices are all yours, and every decision counts!
+
+Features
+
+The Game of Life 2 digital board game is the award-winning sequel to the original Hasbro board game, The Game of Life.
+• A GAME FOR UP 4 PLAYERS - Join 3 of your favourite people and live your dreams
+• *NEW*  VIDEO CHAT AND PLAY - Live every life face-to-face with in-game video chat
+• AN AD-FREE GAME - Enjoy the complete game with no interruptions
+• 6 TRANSLATIONS - English, French, Spanish, German, Italian and Brazilian Portuguese
+• SINGLE PLAYER - Take on our challenging AI
+• ONLINE MULTIPLAYER - Connect with fans, or invite friends and family to a private game
+• PASS & PLAY - No internet? No problem! Pass a single device between players for a wifi-free experience
+
+How to play
+
+CUSTOMISE your character
+Customise your pink, blue or newly available purple peg with a style all of your own.
+
+SPIN THE SPINNER
+The game starts with a big decision. Will you go to College or straight into work? In this classic simulation, what will your friends and family choose?
+
+It’s your LIFE PATH
+Get married or don’t, have kids, adopt pets, or both! Work as a Pet Groomer, then qualify and become a Wind Turbine Technician! The choices are yours!
+
+More WAYS TO WIN
+Earn points for every choice you make! Every choice increases your wealth, happiness or knowledge, so every decision is valid.
+
+RETIRE your way
+Continue living the life of your dreams! Relax in a luxury home, or hit the road and fulfil your bucket list! Unlike the classic board game, you can choose to venture on!
+
+Earn REWARDS to UNLOCK new items
+Unlock new pegs, outfits and vehicles by playing the game and earning rewards!
+
+In-game Video Chat
+Recreate the magic! Gather around the board with in-game video chat in Online Multiplayer Mode. It’s super easy to set-up and play:
+
+• Create your free private account
+• Invite your friends and family to chat groups
+• Start games straight from those chats
+• Play face-to-face wherever you are
+
+It’s simple, seamless fun for everyone.
+
+The Ultimate Life Collection
+Venture into a collection of 10 amazing fantasy worlds. Live life in enchanted worlds, make friends with dinosaurs in the Age of Giants and launch into the futuristic Lunar Age! Every new world features new Outfits, Vehicles, Jobs, Properties and more!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/23/0e/87230e1e-d18c-5054-7dbe-57b3c4e01a97/1de387bc-6eb0-4af5-bc54-a28878cee462_gol2_screenshots_SW_2208x1242_01_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/29/80/5729807f-83a8-1e87-0adc-2028260b4235/fe0dfded-af7f-4eab-b26e-34d9e7a9fc50_gol2_screenshots_SW_2208x1242_02_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/4a/52/c54a5291-78c9-b2d3-ac2e-b7cd6db65b1c/67495bfc-d632-4d72-a6ac-085062e1c35a_gol2_screenshots_SW_2208x1242_03_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d1/eb/bcd1eba1-e67a-bba4-70c2-70de69fec3cf/6828e707-065e-4f85-a11d-94f8988a29c6_gol2_screenshots_SW_2208x1242_04_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4d/21/c74d21ac-18ed-abb9-3bbc-c8b7cfa85382/b0d3d0e1-6901-4362-b9d0-c3016fd9a1ad_gol2_screenshots_SW_2208x1242_05_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/4c/80/104c8096-f93b-1aa5-6819-23efc8bf51d3/24ea73c2-3440-4cd0-88c7-995445ca99f0_gol2_screenshots_SW_2208x1242_06_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/6a/9c/fa6a9c46-76c9-e384-56a5-b9eefd1cff7b/0823ae56-91aa-4979-b4c2-c13d249d8888_gol2_screenshots_SW_2208x1242_07_eng.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/82/11/9982114e-e738-9e6c-63ce-0477a4eebbf6/6f1d8610-9c32-4268-ae47-c764107448e9_gol2_screenshots_SW_2732x2048_01_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/ff/c0/91ffc08d-7958-a446-9f44-26f416b050fb/1295fc37-e50b-4a02-8899-e77348cc91ea_gol2_screenshots_SW_2732x2048_02_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/3a/7d/783a7de9-c132-15c1-cd74-d2f41117c6a9/c45ff9b9-9b3b-4e84-993c-0c55e508121b_gol2_screenshots_SW_2732x2048_03_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/10/29/991029b6-95f1-9c26-2c3c-dd4661721835/d139892c-887b-485c-a583-3af0a40ad0e4_gol2_screenshots_SW_2732x2048_04_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/9d/56/469d56b1-d72f-7359-082d-2644417ef5ee/9b7b7733-7c55-4f62-a16c-5f9a029246df_gol2_screenshots_SW_2732x2048_05_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/2f/68/172f681a-4a73-ee62-74d0-f5c06a9740e5/8432a777-6cf2-465c-9eab-17885ecdc67b_gol2_screenshots_SW_2732x2048_06_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/93/3a/72933a8a-c305-0721-f33e-617db7ae4f4e/1c6e6487-8117-4d27-8ff2-ef4cbef4b6a6_gol2_screenshots_SW_2732x2048_07_eng.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DRAGON QUEST V]]></title>
         <id>DRAGON QUEST V-us-1748251078667</id>
         <link href="https://apps.apple.com/us/app/dragon-quest-v/id933113994?uo=4"/>
@@ -1562,80 +1629,5 @@ Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
   <strong>Free</strong>
 </b><span>[Free ~ $0.99]</span>）
 </h2><h2>Application Description</h2><p>Classic Maze game is a classic puzzle game, perfect for training your brain during a short break. It is designed as a very simple single player game played by sliding through fun retro mazes. Play a quick game and challenge 500 mazes to become the maze king.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official DVSA Theory Test Kit]]></title>
-        <id>Official DVSA Theory Test Kit-us-1748001824436</id>
-        <link href="https://apps.apple.com/us/app/official-dvsa-theory-test-kit/id463295925?uo=4"/>
-        <updated>2025-05-23T12:03:44.436Z</updated>
-        <summary type="html"><![CDATA[DVSA Driving essential skills: $9.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/official-dvsa-theory-test-kit/id463295925?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/5a/40/0a5a4017-b2dd-d646-3485-3d6697e9f141/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>DVSA Driving essential skills：</strong><span>$9.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $9.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  The Driver and Vehicle Standards Agency (DVSA) are the people who set the tests and this app is by their official publisher, The Stationery Office (TSO). It’s regularly updated and covers everything you need to know to pass your theory test, drive safely and improve your road safety awareness! 
-
-Our app is for CAR DRIVERS in Great Britain and Northern Ireland. 
-
-This app can be used offline so that you can practise anytime and anywhere. 
-
-KEY HIGHLIGHTS
-• Over 770+  practice theory questions.
-• Custom mock tests.
-• 36 interactive CGI hazard perception clips.
-• Free access to The Highway Code.
-• Exclusive access to one of the 3 source materials for the theory test: ‘The Official DVSA Guide to Driving – the essential skills’ (additional purchase required).
-• Progress tracking.
-• Advanced search tool.
-• Voiceover features.
-
-TEST YOURSELF
-• Take unlimited quick and timed mock tests. Build a custom practice set or take a timed mock test with 50 questions – just like the real thing. 
-• Your progress will also be monitored and visualised in graphs, so you can see how far you’ve come and when you are ready to pass.
-
-STUDY AND PRACTISE
-• Read the exclusive study content to increase your knowledge of all theory test topics and test your understanding by answering practice questions (including all official questions, over 770+!).
-• You can also select specific question sets from areas you may be struggling with. Got a question wrong? See the correct answer, note the explanation and find out more with references to The Highway Code and other official DVSA guides!
-
-VIDEO CASE STUDIES
-• 9 bonus case studies so that you can practise multiple choice questions about a short video clip. 
-
-PROGRESS GAUGE
-• Backed by learning science, use the progress gauge to measure your test readiness, providing you with confidence that you’re ready to pass your theory test. 
-
-THE HIGHWAY CODE
-• To support your study, we’ve included a free copy of The Official Highway Code to revise from.
-
-EXCLUSIVE CONTENT
-• This is the only app to offer ‘The Official DVSA Guide to Driving – the essential skills’, one of the 3 key source materials that the multiple choice questions in the theory test are based on. Study these to learn the rules and skills you’ll be tested on (additional purchase required). 
-
-SEARCH FEATURE
-• Do you want to learn about airbags, stopping distances, or yellow lines, or practise questions on road markings? Use our advanced search tool to find the content you need.
-
-ENGLISH VOICEOVER
-• If you have reading difficulties (such as dyslexia), or prefer to learn by listening, use our voiceover feature within the test section to support you. 
-
-USEFUL LINKS AND SUPPLIER ZONE
-• Navigate through useful resources to support your learning, including the Safe Driving for Life website – a one-stop information resource featuring helpful blogs with lots of tips to help you pass. 
-• Passed your test? Use our supplier zone to help you with the next steps in your driving journey. 
-• Ready to Pass? links to DVSA’s official resources to help you understand what it takes to be ready for your driving test. Give yourself the best possible chance of passing by learning vital skills, managing your nerves and taking mock tests. 
-
-FEEDBACK
-• Let us know what you’d like to see. We’d love to hear from you with any comments or suggestions about this app. 
-
-AWARDS AND RECOGNITION
-• Produced by the official publishers of DVSA (TSO).
-• Over 4+ million downloads.
-• Featured on Apple’s Top Education Apps.
-• Nominated for App of the Year (FirstCar).
-
-SUPPORT
-• Contact our UK-based team at feedback@williamslea.com  or +44 (0)333 202 5070. We listen and respond to your feedback by updating the app and adding new features.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/94/70/ce94702b-5a6e-2f00-f10b-2d040f1550e8/d7ca487a-57a5-48e5-a1dd-6e96ea957df1_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/55/93/505593d4-5477-9d76-6df1-362a59cef95b/cfc7b785-5746-4ddc-a686-311c6a944948_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/ff/3b/01ff3b5a-7c08-78a4-382a-4a403e978fbc/2faa28df-3720-4f67-a289-5591a5b33421_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/43/03/e143033a-1df8-9baa-0294-9e84d6655cea/a1156d76-b93b-459a-8258-20654803ecaa_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/c8/80/42c880ca-ae10-3813-e797-24275a6c9878/d12467a3-6088-403e-bb15-093f0831cdf6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/b3/d8/edb3d8e4-5dd0-2943-01fe-9b5f67aee038/57797f11-c4b8-4f76-9fd7-77ad455d1b3a_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/87/39/508739ba-1e9d-5f95-f689-25c63bc51a63/1def1fe4-3ac7-4d66-81fd-b6afa2b272e6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/4b/45/c44b4521-db85-1ecd-00c8-a18bd93b08d0/8fd9c835-e7b5-48d6-894e-f942e2a2d29c_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_08.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/bd/10/9abd1031-ddd3-55d6-03be-766f101b384d/fb5346aa-a16f-4359-955c-1efbcbbe1d93_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/51/ba/b651baa4-1d5b-f24f-6f10-dc5e43a3c688/a498df04-3673-4342-82a8-189e78c82488_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/0d/6f/e60d6f08-cca4-b87b-cd93-fe3cad3e4b10/24e3ac6f-753e-4b81-bc6d-396429572d23_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/94/31/34943156-c954-afec-7c19-0b2b4843a836/e5633a70-c190-4398-9451-5fa98be4a325_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/c2/a9/ccc2a907-8952-4da2-4f4b-d1c81da8ff7e/ff6fff8e-5df1-45b6-b5ac-e7b9c87e7274_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/54/20/565420c7-8622-22c2-73e0-5d4413b4c545/0d7276cb-2280-421a-b073-a52a313dd62d_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/94/16/0a941602-ba4e-da2f-79c1-7a2b960ddee2/d98f7cd7-cda0-4100-b9a5-465ff7bb18f1_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/0a/e9/890ae959-b56a-9229-8533-88daba9980fc/6d490d1c-1710-4775-8c4d-a407a00c9cd6_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_08.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
