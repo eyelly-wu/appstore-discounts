@@ -1699,7 +1699,8 @@
       "Pilsen HipstaPak": "$0.99",
       "Tiong Bahru HipstaPak": "$0.99",
       "Impressionist SnapPak": "$0.99",
-      "Fitzroy HipstaPak": "$0.99"
+      "Fitzroy HipstaPak": "$0.99",
+      "Levi's Photo Workshop Holiday GoodPak": "$0.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -1723,9 +1724,29 @@
       "Pilsen HipstaPak": "$0.99",
       "Tiong Bahru HipstaPak": "$0.99",
       "Impressionist SnapPak": "$0.99",
-      "Fitzroy HipstaPak": "$0.99"
+      "Fitzroy HipstaPak": "$0.99",
+      "Levi's Photo Workshop Holiday GoodPak": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748265000116,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$0.99",
+            "Portland HipstaPak": "$0.99",
+            "Shibuya HipstaPak": "$0.99",
+            "Camden HipstaPak": "$0.99",
+            "Mission Hipstapak": "$0.99",
+            "Dali GoodPak": "$0.99",
+            "Levi's Photo Workshop Holiday GoodPak": "$0.99",
+            "Soho HipstaPak": "$0.99",
+            "Bondi HipstaPak": "$0.99",
+            "RetroPak One": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747569787952,
@@ -69131,7 +69152,8 @@
       "Season MLB 1979": "$0.99",
       "Season MLB 2022": "$0.99",
       "Season MLB 2021": "$0.99",
-      "Season MLB 1996": "$0.99"
+      "Season MLB 1996": "$0.99",
+      "Season MLB 1994": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -69177,10 +69199,28 @@
       "Season MLB 1979": "$0.99",
       "Season MLB 2022": "$0.99",
       "Season MLB 2021": "$0.99",
-      "Season MLB 1996": "$0.99"
+      "Season MLB 1996": "$0.99",
+      "Season MLB 1994": "$0.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1748265000116,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 1990": "$0.99",
+            "Season MLB 2024": "$0.99",
+            "Season MLB 1994": "$0.99",
+            "Season MLB 1969": "$0.99"
+          }
+        },
         {
           "timestamp": 1748243000805,
           "price": 9.99,
