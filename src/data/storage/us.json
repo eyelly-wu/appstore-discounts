@@ -27296,7 +27296,10 @@
       "Double Bonus": "$1.99",
       "Double backpack slots": "$1.99",
       "Promote Pack 2": "$4.99",
-      "A Large Bag of Gems": "$19.99"
+      "A Large Bag of Gems": "$19.99",
+      "Promote Pack 5": "$14.99",
+      "Promote Pack 4": "$9.99",
+      "Promote Pack 1": "$2.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -27310,9 +27313,31 @@
       "Double Bonus": "$1.99",
       "Double backpack slots": "$1.99",
       "Promote Pack 2": "$4.99",
-      "A Large Bag of Gems": "$19.99"
+      "A Large Bag of Gems": "$19.99",
+      "Promote Pack 5": "$14.99",
+      "Promote Pack 4": "$9.99",
+      "Promote Pack 1": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748368954464,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Promote Pack 5": "$14.99",
+            "Promote Pack 4": "$9.99",
+            "Promote Pack 3": "$7.99",
+            "Promote Pack 2": "$4.99",
+            "Promote Pack 1": "$2.99",
+            "Double backpack slots": "$1.99",
+            "Genius Big Deal Pack": "$1.99",
+            "Boxer Big Deal Pack": "$1.99",
+            "Double Bonus": "$1.99",
+            "A Large Bag of Gems": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -71743,6 +71768,43 @@
           "price": 3.99,
           "formattedPrice": "$3.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6499549945": {
+    "name": "Football Chairman Pro 2",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Billionaire Investor": "$2.99",
+      "Businessman Investor": "$0.99",
+      "Super Stadium": "$3.99",
+      "Tycoon Investor": "$1.99",
+      "Premier Kits": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Billionaire Investor": "$2.99",
+      "Businessman Investor": "$0.99",
+      "Super Stadium": "$3.99",
+      "Tycoon Investor": "$1.99",
+      "Premier Kits": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748368954464,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Billionaire Investor": "$2.99",
+            "Businessman Investor": "$0.99",
+            "Super Stadium": "$3.99",
+            "Tycoon Investor": "$1.99",
+            "Premier Kits": "$1.99"
+          }
         }
       ]
     ]
