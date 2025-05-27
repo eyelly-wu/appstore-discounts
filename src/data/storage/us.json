@@ -48119,6 +48119,22 @@
     "history": [
       [
         {
+          "timestamp": 1748340155682,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Fairytale Kingdom Bundle": "$7.99",
+            "Fairytale Kingdom": "$5.99",
+            "The Ultimate Life Collection": "$19.99",
+            "Haunted Hills Bundle": "$7.99",
+            "Haunted Hills World": "$5.99",
+            "Frozen Lands Bundle": "$7.99",
+            "Frozen Lands": "$5.99",
+            "Sandy Shores Bundle": "$7.99",
+            "Lunar Age World": "$5.99"
+          }
+        },
+        {
           "timestamp": 1748318768441,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -64810,8 +64826,8 @@
       "Annual Pro": "$46.00"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "$0.29",
+      "price": 0,
+      "formattedPrice": "Free",
       "Monthly Pro": "$6.00",
       "Advanced Package": "$14.99",
       "Intermediate Package": "$7.99",
@@ -64820,6 +64836,21 @@
       "Annual Pro": "$46.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748340155682,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Pro": "$6.00",
+            "Advanced Package": "$14.99",
+            "Intermediate Package": "$7.99",
+            "Basic Package": "$4.99",
+            "Quarterly Pro": "$15.00",
+            "Annual Pro": "$46.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

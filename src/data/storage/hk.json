@@ -48332,7 +48332,7 @@
     "maxPriceInfo": {
       "price": 28,
       "formattedPrice": "HK$ 28.00",
-      "The Ultimate Life Collection": "HK$ 148.00",
+      "The Ultimate Life Collection": "HK$ 288.00",
       "Fairytale Kingdom Bundle": "HK$ 58.00",
       "Fairytale Kingdom": "HK$ 38.00",
       "Haunted Hills Bundle": "HK$ 58.00",
@@ -48376,6 +48376,24 @@
       "Super Hero World Bundle": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748340155682,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "The Ultimate Life Collection": "HK$ 288.00",
+            "Fairytale Kingdom Bundle": "HK$ 58.00",
+            "Fairytale Kingdom": "HK$ 38.00",
+            "Haunted Hills Bundle": "HK$ 58.00",
+            "Lunar Age Bundle": "HK$ 58.00",
+            "Lunar Age World": "HK$ 38.00",
+            "Frozen Lands": "HK$ 38.00",
+            "Haunted Hills World": "HK$ 38.00",
+            "Frozen Lands Bundle": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747821754735,
@@ -64176,8 +64194,8 @@
       "中級加油包": "HK$ 58.00"
     },
     "minPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "月卡": "HK$ 48.00",
       "年卡": "HK$ 368.00",
       "季卡": "HK$ 118.00",
@@ -64186,6 +64204,21 @@
       "中級加油包": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748340155682,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月卡": "HK$ 48.00",
+            "年卡": "HK$ 368.00",
+            "季卡": "HK$ 118.00",
+            "初級加油包": "HK$ 38.00",
+            "高級加油包": "HK$ 118.00",
+            "中級加油包": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
