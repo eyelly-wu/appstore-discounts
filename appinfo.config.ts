@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 675049147,
+    name: {
+      mo: 'SmallFish Chess for Stockfish',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1121659254,
     name: {
       mo: '江湖风云录-超自由武侠剧情角色扮演手游',
