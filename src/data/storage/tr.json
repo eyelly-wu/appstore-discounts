@@ -48619,8 +48619,8 @@
       "Annual Pro": "₺1.999,99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Advanced Package": "₺699,99",
       "Intermediate Package": "₺349,99",
       "Monthly Pro": "₺249,99",
@@ -48629,6 +48629,21 @@
       "Annual Pro": "₺1.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748336559152,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Advanced Package": "₺699,99",
+            "Intermediate Package": "₺349,99",
+            "Monthly Pro": "₺249,99",
+            "Basic Package": "₺229,99",
+            "Quarterly Pro": "₺699,99",
+            "Annual Pro": "₺1.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
