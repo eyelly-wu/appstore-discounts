@@ -65943,6 +65943,14 @@
     "history": [
       [
         {
+          "timestamp": 1748316010475,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748229769608,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -71049,6 +71057,24 @@
       "Pre registration bundle": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748316010475,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Huge Investment": "$4.99",
+            "Bundle": "$9.99",
+            "Investment": "$1.99",
+            "Very Large Investment": "$2.99",
+            "Premium livery bundle": "$5.99",
+            "Game Editor": "$5.99",
+            "Large Investment": "$2.99",
+            "Chairman's Payment": "$5.99",
+            "Pre registration bundle": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747717353327,
