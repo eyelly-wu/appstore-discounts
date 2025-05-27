@@ -1989,6 +1989,14 @@
     "history": [
       [
         {
+          "timestamp": 1748329347134,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747206142147,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -52759,6 +52767,25 @@
     "history": [
       [
         {
+          "timestamp": 1748329347134,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$9.99",
+            "Content Bundle 2": "$7.99",
+            "Getaway Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99",
+            "Reckless Car Pack": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747797598592,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -60654,6 +60681,25 @@
       "Weapon Upgrade Ticket x1 (C)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748329347134,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x3 (B)": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747541165364,

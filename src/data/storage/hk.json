@@ -1796,6 +1796,14 @@
     "history": [
       [
         {
+          "timestamp": 1748329347134,
+          "price": 128,
+          "formattedPrice": "HK$ 128.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747206142147,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -18912,6 +18920,20 @@
     "history": [
       [
         {
+          "timestamp": 1748329347134,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "超大型代幣包": "HK$ 88.00",
+            "超大型金錢包": "HK$ 58.00",
+            "促銷包": "HK$ 188.00",
+            "新手包": "HK$ 22.00",
+            "中型金錢包": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747166552166,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -22328,6 +22350,24 @@
       "Huge pack": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748329347134,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Battlepass": "HK$ 88.00",
+            "Crazy sale pack": "HK$ 8.00",
+            "Data Disk pack 2": "HK$ 148.00",
+            "Data Disk pack 1": "HK$ 38.00",
+            "Useful pack": "HK$ 22.00",
+            "Standart pack": "HK$ 18.00",
+            "Handful of caps": "HK$ 18.00",
+            "Seasonal event item": "HK$ 148.00",
+            "Nickname change": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747746695260,
