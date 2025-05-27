@@ -10620,6 +10620,25 @@
     "history": [
       [
         {
+          "timestamp": 1748383332914,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "USD 0.99",
+            "Classic Tack Tower Skin": "USD 1.99",
+            "Classic Super Monkey Skin Sale": "USD 0.99",
+            "Classic Super Monkey Skin": "USD 1.99",
+            "Classic Ice Tower Skin Sale": "USD 0.99",
+            "Classic Ice Tower Skin": "USD 1.99",
+            "Classic Bomb Tower Skin Sale": "USD 0.99",
+            "Classic Bomb Tower Skin": "USD 1.99",
+            "Classic Dart Monkey Skin Sale": "USD 0.99",
+            "Classic Dart Monkey Skin": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746680557729,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -40450,8 +40469,8 @@
   "1567658979": {
     "name": "SkySafari 7 Pro",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "USD 29.99",
+      "price": 49.99,
+      "formattedPrice": "USD 49.99",
       "SkySafari Premium Monthly": "USD 3.99",
       "SkySafari Premium": "USD 29.99",
       "Apollo Lunar Missions": "USD 0.00",
@@ -40468,6 +40487,20 @@
       "PGC Galaxy Database": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748383332914,
+          "price": 49.99,
+          "formattedPrice": "USD 49.99",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "USD 3.99",
+            "SkySafari Premium": "USD 29.99",
+            "Apollo Lunar Missions": "USD 0.00",
+            "GAIA Star Database": "USD 0.00",
+            "PGC Galaxy Database": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748095327810,

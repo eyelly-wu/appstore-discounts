@@ -49760,8 +49760,8 @@
   "1567658979": {
     "name": "SkySafari 7 Pro",
     "maxPriceInfo": {
-      "price": 990,
-      "formattedPrice": "$990.00",
+      "price": 1490,
+      "formattedPrice": "$1,490.00",
       "SkySafari Premium Monthly": "$120.00",
       "PGC Galaxy Database": "$0.00",
       "GAIA Star Database": "$0.00",
@@ -49778,6 +49778,20 @@
       "SkySafari Premium": "$990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748383332914,
+          "price": 1490,
+          "formattedPrice": "$1,490.00",
+          "inAppPurchases": {
+            "SkySafari Premium": "$990.00",
+            "SkySafari Premium Monthly": "$120.00",
+            "PGC Galaxy Database": "$0.00",
+            "GAIA Star Database": "$0.00",
+            "Apollo Lunar Missions": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748095327810,
@@ -61862,6 +61876,25 @@
       "江山美人": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748383332914,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "自創武將": "$120.00",
+            "北境狂人": "$60.00",
+            "自創武將朝代特色兵種補丁": "$120.00",
+            "江山美人": "$60.00",
+            "公路霸業": "$60.00",
+            "自創地圖": "$120.00",
+            "楚漢爭霸": "$120.00",
+            "戰國七雄": "$120.00",
+            "無雙戰神": "$60.00",
+            "群雄爭霸": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748026923146,
