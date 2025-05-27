@@ -28946,6 +28946,25 @@
     "history": [
       [
         {
+          "timestamp": 1748365344014,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "$290.00",
+            "Hammerhold Campaign!": "$290.00",
+            "Tower Ignis Altar": "$90.00",
+            "Hero Grosh": "$150.00",
+            "Special Offer 27": "$290.00",
+            "Special Offer 24": "$290.00",
+            "Special Offer 21": "$290.00",
+            "Special Offer 20": "$290.00",
+            "Special Offer 19": "$290.00",
+            "Special Offer 18": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748160166333,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -65361,14 +65380,22 @@
   "6473097811": {
     "name": "Doodle Baseball Game",
     "maxPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748365344014,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

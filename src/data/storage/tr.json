@@ -49632,14 +49632,22 @@
   "6473097811": {
     "name": "Doodle Baseball Game",
     "maxPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748365344014,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

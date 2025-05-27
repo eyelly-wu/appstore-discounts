@@ -50124,14 +50124,22 @@
   "6473097811": {
     "name": "Doodle Baseball Game",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748365344014,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
