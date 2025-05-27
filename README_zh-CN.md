@@ -562,7 +562,7 @@
 |597|1580509302|自动|❌|伊格利亞戰記|伊格利亞戰記|伊格利亞戰記|The Heroic Legend of Eagarlnia|The Heroic Legend of Eagarlnia|
 |596|1614771445|自动|❌|Rotaeno - 旋轉音律|Rotaeno - 旋轉音律|Rotaeno - 旋轉音律|Rotaeno|Rotaeno|
 |595|6742396803|自动|DaDaDaDa - 空气枪|DaDaDaDa - Air Gun Simulator|DaDaDaDa - Air Gun Simulator|DaDaDaDa - Air Gun Simulator|DaDaDaDa - Air Gun Simulator|DaDaDaDa - Air Gun Simulator|
-|594|6740943002|自动|BaMai|BaMai|BaMai|BaMai|BaMai|❌|
+|594|6740943002|自动|BaMai|BaMai|BaMai|BaMai|BaMai|BaMai|
 |593|6743459503|自动|❌|逐鹿|逐鹿|逐鹿|逐鹿|逐鹿|
 |592|6480251529|自动|体育集换卡制作专业版|體育集換卡製作專業版|體育集換卡製作專業版|體育集換卡製作專業版|Ultimate Card Creator|Ultimate Card Creator|
 |591|6739179322|自动|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|

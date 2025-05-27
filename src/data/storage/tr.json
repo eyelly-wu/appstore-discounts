@@ -24088,6 +24088,25 @@
     "history": [
       [
         {
+          "timestamp": 1748318768441,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hero Beresad": "₺299,99",
+            "Pirate Kings Campaign!": "₺349,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Tower Blazing Gem": "₺229,99",
+            "Tower Goblin War Zeppelin": "₺299,99",
+            "Mega Tower Bundle": "₺699,99",
+            "Hero Mortemis": "₺129,99",
+            "Tower Grim Cemetery": "₺129,99",
+            "Hero Jack'O Lantern": "₺129,99",
+            "Tower Deep Devil's Reef": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748223017305,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -53417,6 +53436,27 @@
           "timestamp": 1748271745315,
           "price": 179.99,
           "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740943002": {
+    "name": "BaMai",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748318768441,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
           "inAppPurchases": {}
         }
       ]

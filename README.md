@@ -559,7 +559,7 @@ So far, we've covered `6` `Countries or Regions` and  `1084` `Apps` <br />Push n
 |597|1580509302|Automatic|❌|伊格利亞戰記|伊格利亞戰記|伊格利亞戰記|The Heroic Legend of Eagarlnia|The Heroic Legend of Eagarlnia|
 |596|1614771445|Automatic|❌|Rotaeno - 旋轉音律|Rotaeno - 旋轉音律|Rotaeno - 旋轉音律|Rotaeno|Rotaeno|
 |595|6742396803|Automatic|DaDaDaDa - 空气枪|DaDaDaDa - Air Gun Simulator|DaDaDaDa - Air Gun Simulator|DaDaDaDa - Air Gun Simulator|DaDaDaDa - Air Gun Simulator|DaDaDaDa - Air Gun Simulator|
-|594|6740943002|Automatic|BaMai|BaMai|BaMai|BaMai|BaMai|❌|
+|594|6740943002|Automatic|BaMai|BaMai|BaMai|BaMai|BaMai|BaMai|
 |593|6743459503|Automatic|❌|逐鹿|逐鹿|逐鹿|逐鹿|逐鹿|
 |592|6480251529|Automatic|体育集换卡制作专业版|體育集換卡製作專業版|體育集換卡製作專業版|體育集換卡製作專業版|Ultimate Card Creator|Ultimate Card Creator|
 |591|6739179322|Automatic|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|
