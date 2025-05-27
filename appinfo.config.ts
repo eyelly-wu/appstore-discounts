@@ -68,6 +68,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 981485539,
+    name: {
+      mo: 'Wise Pilgrim Camino del Norte',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1077134281,
+    name: {
+      mo: '节拍器 : Smart Metronome & Tuner+',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6478203259,
+    name: {
+      tw: '文字工廠',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6499549945,
     name: {
       mo: 'Football Chairman Pro 2',
