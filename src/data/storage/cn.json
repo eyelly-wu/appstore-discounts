@@ -301,6 +301,27 @@
       ]
     ]
   },
+  "308998718": {
+    "name": "Amazing Slow Downer",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "315514944": {
     "name": "实用家常菜谱大全",
     "maxPriceInfo": {
@@ -1666,6 +1687,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748440944770,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6香蕉贝": "¥6.00",
+            "连续包月": "¥28.00",
+            "30香蕉贝": "¥30.00",
+            "68香蕉贝": "¥68.00",
+            "连续包年": "¥273.00",
+            "1香蕉贝": "¥1.00",
+            "128香蕉贝": "¥128.00",
+            "连续包季": "¥72.00",
+            "免广告会员十二个月": "¥12.00",
+            "6随手贝": "¥6.00"
+          }
+        },
         {
           "timestamp": 1748437891659,
           "price": 1,
@@ -7505,6 +7543,27 @@
           "timestamp": 1745328692670,
           "price": 15,
           "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "504001448": {
+    "name": "肌肉与运动机能学",
+    "maxPriceInfo": {
+      "price": 168,
+      "formattedPrice": "¥168.00"
+    },
+    "minPriceInfo": {
+      "price": 168,
+      "formattedPrice": "¥168.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 168,
+          "formattedPrice": "¥168.00",
           "inAppPurchases": {}
         }
       ]
@@ -14857,6 +14916,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748354558369,
@@ -39292,6 +39359,14 @@
       "formattedPrice": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747231355788,

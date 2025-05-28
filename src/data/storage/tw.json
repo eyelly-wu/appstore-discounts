@@ -455,6 +455,23 @@
     "history": [
       [
         {
+          "timestamp": 1748440944770,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "10,000 coins": "$60.00",
+            "1000 coins": "$30.00",
+            "30,000 coins": "$90.00",
+            "10000 candies": "$90.00",
+            "1000 candies": "$30.00",
+            "5000 eggs": "$60.00",
+            "100,000 gold": "$60.00",
+            "15000 eggs": "$90.00",
+            "500 eggs": "$30.00",
+            "100,000 coins": "$120.00"
+          }
+        },
+        {
           "timestamp": 1748437891659,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -653,6 +670,27 @@
             "Buzz Feiten Pack": "$190.00",
             "Steel Guitar Sweeteners": "$490.00"
           }
+        }
+      ]
+    ]
+  },
+  "308998718": {
+    "name": "Amazing Slow Downer",
+    "maxPriceInfo": {
+      "price": 490,
+      "formattedPrice": "$490.00"
+    },
+    "minPriceInfo": {
+      "price": 490,
+      "formattedPrice": "$490.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -8799,6 +8837,27 @@
       ]
     ]
   },
+  "504001448": {
+    "name": "Muscles & Kinesiology",
+    "maxPriceInfo": {
+      "price": 790,
+      "formattedPrice": "$790.00"
+    },
+    "minPriceInfo": {
+      "price": 790,
+      "formattedPrice": "$790.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "504176984": {
     "name": "論八字(實用)",
     "maxPriceInfo": {
@@ -10891,6 +10950,22 @@
       "終極尊貴包": "$1,290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "無限的快進 !": "$120.00",
+            "小型聲望包": "$60.00",
+            "無限的雙倍 XP 值！": "$120.00",
+            "中聲望包": "$290.00",
+            "很棒的聲望包": "$690.00",
+            "瘋狂的尊貴套餐": "$2,490.00",
+            "終極尊貴包": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745935349811,
@@ -21724,6 +21799,20 @@
     "history": [
       [
         {
+          "timestamp": 1748440944770,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "120 顆寶石": "$290.00",
+            "50 顆寶石": "$120.00",
+            "1400 顆寶石": "$2,490.00",
+            "650 顆寶石": "$1,290.00",
+            "250 顆寶石": "$490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745935349811,
           "price": 85,
           "formattedPrice": "$85.00",
@@ -21773,6 +21862,20 @@
       "325,000資金": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "125,000資金": "$590.00",
+            "25,000資金": "$150.00",
+            "60,000資金": "$320.00",
+            "700,000資金": "$2,990.00",
+            "325,000資金": "$1,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745935349811,
@@ -21947,6 +22050,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748354558369,
@@ -30723,6 +30834,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747836160946,
@@ -44538,6 +44657,14 @@
     "history": [
       [
         {
+          "timestamp": 1748440944770,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747836160946,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -47804,6 +47931,14 @@
       "formattedPrice": "$110.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745935349811,
@@ -51300,6 +51435,14 @@
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748440944770,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747231355788,
