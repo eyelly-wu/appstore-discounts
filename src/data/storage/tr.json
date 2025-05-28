@@ -48564,7 +48564,10 @@
       "300 Gold": "₺229,99",
       "980 Gold": "₺699,99",
       "6480 Gold": "₺4.499,99",
-      "1980 Gold": "₺1.299,99"
+      "1980 Gold": "₺1.299,99",
+      "Professional Training": "₺699,99",
+      "680 Gold": "₺449,99",
+      "Special Training": "₺449,99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -48579,9 +48582,31 @@
       "300 Gold": "₺229,99",
       "980 Gold": "₺699,99",
       "6480 Gold": "₺4.499,99",
-      "1980 Gold": "₺1.299,99"
+      "1980 Gold": "₺1.299,99",
+      "Professional Training": "₺699,99",
+      "680 Gold": "₺449,99",
+      "Special Training": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748458931288,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Monthly Card": "₺229,99",
+            "Professional Training": "₺699,99",
+            "680 Gold": "₺449,99",
+            "Special Training": "₺449,99",
+            "60 Gold": "₺39,99",
+            "1980 Gold": "₺1.299,99",
+            "6480 Gold": "₺4.499,99",
+            "980 Gold": "₺699,99",
+            "300 Gold": "₺229,99",
+            "1280 Gold": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747411351197,
