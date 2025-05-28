@@ -2270,7 +2270,11 @@
       "Vivaldi: The Four Seasons": "$1.99",
       "Mozart: Twelve Duets": "$1.99",
       "The Mutopia Piano Collection": "$4.99",
-      "Voluntary Upgrade": "$7.99"
+      "Voluntary Upgrade": "$7.99",
+      "Burgmüller: The Mutopia Collection": "$0.00",
+      "Chopin: The Mutopia Collection": "$0.99",
+      "Gottschalk: The Mutopia Collection": "$0.00",
+      "Joplin: The Mutopia Collection": "$0.99"
     },
     "minPriceInfo": {
       "price": 24.99,
@@ -2293,9 +2297,32 @@
       "Vivaldi: The Four Seasons": "$1.99",
       "Mozart: Twelve Duets": "$1.99",
       "The Mutopia Piano Collection": "$4.99",
-      "Voluntary Upgrade": "$7.99"
+      "Voluntary Upgrade": "$7.99",
+      "Burgmüller: The Mutopia Collection": "$0.00",
+      "Chopin: The Mutopia Collection": "$0.99",
+      "Gottschalk: The Mutopia Collection": "$0.00",
+      "Joplin: The Mutopia Collection": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748405054904,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "Bach: The Mutopia Collection": "$0.99",
+            "Beethoven: The Mutopia Collection": "$0.99",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Burgmüller: The Mutopia Collection": "$0.00",
+            "Chopin: The Mutopia Collection": "$0.99",
+            "Gottschalk: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Händel: The Mutopia Collection": "$0.00",
+            "Joplin: The Mutopia Collection": "$0.99",
+            "Liszt: The Mutopia Collection": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748296933840,
@@ -5447,6 +5474,25 @@
       "PsyTrance": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748405054904,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Synth Lead": "$1.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748351492564,
@@ -15978,6 +16024,25 @@
       "Le Cont Mediums - 40 Tyre Pack": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748405054904,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "700 Aces": "$9.99",
+            "Race Pass": "$4.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "15000 Aces": "$99.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Racing Prodigy Small Tyre Pack": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748289743359,
@@ -29064,6 +29129,25 @@
     "history": [
       [
         {
+          "timestamp": 1748405054904,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "$7.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Tower Ignis Altar": "$2.99",
+            "Hero Grosh": "$4.99",
+            "Special Offer 27": "$7.99",
+            "Special Offer 24": "$7.99",
+            "Special Offer 21": "$7.99",
+            "Special Offer 20": "$7.99",
+            "Special Offer 19": "$7.99",
+            "Special Offer 18": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748246722624,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -33251,6 +33335,24 @@
       "Aquaria Cruising Guide": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748405054904,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "MSR Anthology": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748351492564,
@@ -48488,6 +48590,25 @@
     "history": [
       [
         {
+          "timestamp": 1748405054904,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Fairytale Kingdom Bundle": "$7.99",
+            "Fairytale Kingdom": "$5.99",
+            "The Ultimate Life Collection": "$34.99",
+            "Haunted Hills Bundle": "$7.99",
+            "Haunted Hills World": "$5.99",
+            "Frozen Lands Bundle": "$7.99",
+            "Frozen Lands": "$5.99",
+            "Sandy Shores Bundle": "$7.99",
+            "Lunar Age World": "$5.99",
+            "Sandy Shores": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748340155682,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -59059,6 +59180,25 @@
     "history": [
       [
         {
+          "timestamp": 1748405054904,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Uniform Pack": "$3.99",
+            "Nurse Pack": "$4.99",
+            "Corrupted Pack": "$6.99",
+            "Monster Pack": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748383332914,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -68285,6 +68425,25 @@
       "UH-60": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748405054904,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 737-900": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A350-1000": "$3.99",
+            "UH-60": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748395795702,
