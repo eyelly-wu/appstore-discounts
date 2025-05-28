@@ -5533,6 +5533,23 @@
     "history": [
       [
         {
+          "timestamp": 1748451753342,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        },
+        {
           "timestamp": 1748405054904,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -67036,6 +67053,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748451753342,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748365344014,
