@@ -8923,6 +8923,23 @@
     "history": [
       [
         {
+          "timestamp": 1748455385899,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "₺39,99",
+            "Skatepark: Inbound": "₺39,99",
+            "Skatepark: Schoolyard": "₺39,99",
+            "Skatepark: Mondo Ramp": "₺39,99",
+            "Unlimited Custom Images": "₺229,99",
+            "Slow Motion Mode": "₺39,99",
+            "Skatepark: Double Infinity": "₺39,99",
+            "Skatepark: The Warehouse": "₺39,99",
+            "Skatepark: The Valley": "₺39,99",
+            "SLS 2013: Kansas City": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1748451753342,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -48938,7 +48955,11 @@
       "2025春いちごスキン": "₺19,99",
       "Letter from Nemophila": "₺19,99",
       "Standard Skin": "₺19,99",
-      "Deluxe Skin": "₺39,99"
+      "Deluxe Skin": "₺39,99",
+      "ネオンシティ": "₺39,99",
+      "夏色クリームソーダ": "₺19,99",
+      "オーロラプール": "₺19,99",
+      "フルーツパーラー": "₺19,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -48949,9 +48970,31 @@
       "2025春いちごスキン": "₺19,99",
       "Letter from Nemophila": "₺19,99",
       "Standard Skin": "₺19,99",
-      "Deluxe Skin": "₺39,99"
+      "Deluxe Skin": "₺39,99",
+      "ネオンシティ": "₺39,99",
+      "夏色クリームソーダ": "₺19,99",
+      "オーロラプール": "₺19,99",
+      "フルーツパーラー": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748455385899,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "ネオンシティ": "₺39,99",
+            "夏色クリームソーダ": "₺19,99",
+            "オーロラプール": "₺19,99",
+            "フルーツパーラー": "₺19,99",
+            "2025春イースタースキン": "₺39,99",
+            "2025春さくらスキン": "₺19,99",
+            "2025春ネモフィラスキン": "₺19,99",
+            "2025春いちごスキン": "₺19,99",
+            "Letter from Nemophila": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
