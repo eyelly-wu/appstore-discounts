@@ -20575,6 +20575,14 @@
     "history": [
       [
         {
+          "timestamp": 1748402466218,
+          "price": 0.59,
+          "formattedPrice": "$0.59",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745810336961,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -22002,6 +22010,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748402466218,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744687022333,
@@ -31422,6 +31438,14 @@
     "history": [
       [
         {
+          "timestamp": 1748402466218,
+          "price": 1.49,
+          "formattedPrice": "$1.49",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745810336961,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -38432,6 +38456,19 @@
       "Return to Castlevania": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748402466218,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "The Bad Seed": "$3.99",
+            "Fatal Falls": "$3.99",
+            "The Queen and the Sea": "$3.99",
+            "Return to Castlevania": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747797598592,
@@ -52671,6 +52708,14 @@
     "history": [
       [
         {
+          "timestamp": 1748402466218,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747451891600,
           "price": 0.89,
           "formattedPrice": "$0.89",
@@ -56247,6 +56292,14 @@
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748402466218,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747797598592,
@@ -59978,6 +60031,27 @@
             "1 Year": "$4.99",
             "1 Month": "$1.49"
           }
+        }
+      ]
+    ]
+  },
+  "1659903900": {
+    "name": "Super Mega Lucky Box",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748402466218,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -71362,6 +71436,14 @@
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748402466218,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747797598592,
