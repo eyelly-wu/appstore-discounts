@@ -16840,7 +16840,14 @@
       "Dog": "USD 0.99",
       "Rooster": "USD 0.99",
       "Monkey": "USD 0.99",
-      "Horse": "USD 0.99"
+      "Horse": "USD 0.99",
+      "Chloe": "USD 0.99",
+      "Shaw": "USD 0.99",
+      "Kid": "USD 0.99",
+      "Rob-o": "USD 0.99",
+      "Emo": "USD 0.99",
+      "Lucy": "USD 0.99",
+      "Mia": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -16857,9 +16864,35 @@
       "Dog": "USD 0.99",
       "Rooster": "USD 0.99",
       "Monkey": "USD 0.99",
-      "Horse": "USD 0.99"
+      "Horse": "USD 0.99",
+      "Chloe": "USD 0.99",
+      "Shaw": "USD 0.99",
+      "Kid": "USD 0.99",
+      "Rob-o": "USD 0.99",
+      "Emo": "USD 0.99",
+      "Lucy": "USD 0.99",
+      "Mia": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748545336033,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Unlock all stages": "USD 0.99",
+            "Chloe": "USD 0.99",
+            "Shaw": "USD 0.99",
+            "Kid": "USD 0.99",
+            "Rob-o": "USD 0.99",
+            "Emo": "USD 0.99",
+            "Joshua": "USD 0.99",
+            "Lucy": "USD 0.99",
+            "Atom": "USD 0.99",
+            "Mia": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746475353066,
