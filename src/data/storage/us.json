@@ -20319,7 +20319,14 @@
       "Kid": "$0.99",
       "Rob-o": "$0.99",
       "Joshua": "$0.99",
-      "Lucy": "$0.99"
+      "Lucy": "$0.99",
+      "Medium Coin Pack": "$1.99",
+      "Pig": "$0.99",
+      "Dog": "$0.99",
+      "Rooster": "$0.99",
+      "Monkey": "$0.99",
+      "Goat": "$0.99",
+      "Horse": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -20339,9 +20346,35 @@
       "Kid": "$0.99",
       "Rob-o": "$0.99",
       "Joshua": "$0.99",
-      "Lucy": "$0.99"
+      "Lucy": "$0.99",
+      "Medium Coin Pack": "$1.99",
+      "Pig": "$0.99",
+      "Dog": "$0.99",
+      "Rooster": "$0.99",
+      "Monkey": "$0.99",
+      "Goat": "$0.99",
+      "Horse": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748498586895,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Free Checkpoints": "$0.99",
+            "Large Coin Pack": "$2.99",
+            "Medium Coin Pack": "$1.99",
+            "Small Coin Pack": "$0.99",
+            "Pig": "$0.99",
+            "Dog": "$0.99",
+            "Rooster": "$0.99",
+            "Monkey": "$0.99",
+            "Goat": "$0.99",
+            "Horse": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746244942439,
@@ -32114,6 +32147,24 @@
       "Super Smashing Tip": "$16.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748498586895,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "$2.99",
+            "Power Builder (yearly)": "$25.49",
+            "Power Builder (weekly)": "$0.99",
+            "The Ultimate Tip": "$54.99",
+            "Super Mega Smashing Tip": "$30.99",
+            "Super Smashing Tip": "$16.99",
+            "Super Mega Tip": "$9.99",
+            "Mega Tip": "$5.99",
+            "Super Tip": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746072334351,
