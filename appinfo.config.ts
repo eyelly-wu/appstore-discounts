@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 969924164,
+    name: {
+      mo: '航空大亨 Online 2',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6504042502,
     name: {
       tw: '灣家寶典 (尊爵鉑金版)',

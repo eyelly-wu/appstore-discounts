@@ -18028,6 +18028,46 @@
       ]
     ]
   },
+  "969924164": {
+    "name": "航空大亨 Online 2",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "Pile of Credits": "USD 4.99",
+      "Bag of Credits": "USD 19.99",
+      "Sack of Credits": "USD 9.99",
+      "專業頻道入場券": "USD 9.99",
+      "Trunk of Credits": "USD 99.99",
+      "Box of Credits": "USD 49.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "Pile of Credits": "USD 4.99",
+      "Bag of Credits": "USD 19.99",
+      "Sack of Credits": "USD 9.99",
+      "專業頻道入場券": "USD 9.99",
+      "Trunk of Credits": "USD 99.99",
+      "Box of Credits": "USD 49.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748527337543,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Pile of Credits": "USD 4.99",
+            "Bag of Credits": "USD 19.99",
+            "Sack of Credits": "USD 9.99",
+            "專業頻道入場券": "USD 9.99",
+            "Trunk of Credits": "USD 99.99",
+            "Box of Credits": "USD 49.99"
+          }
+        }
+      ]
+    ]
+  },
   "973482987": {
     "name": "Five Nights at Freddy's 3",
     "maxPriceInfo": {
@@ -18165,8 +18205,8 @@
       "28 Gems": "USD 14.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "13 Gems": "USD 7.99",
       "1 Gem": "USD 0.99",
       "6 Gems": "USD 3.99",
@@ -18176,6 +18216,22 @@
       "28 Gems": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748527337543,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "1 Gem": "USD 0.99",
+            "13 Gems": "USD 7.99",
+            "6 Gems": "USD 3.99",
+            "48 Gems": "USD 28.99",
+            "150 Gems": "USD 79.99",
+            "74 Gems": "USD 40.99",
+            "28 Gems": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746847016133,
@@ -28245,6 +28301,20 @@
     "history": [
       [
         {
+          "timestamp": 1748527337543,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "寶物編輯器": "USD 0.99",
+            "美術升級包": "USD 2.99",
+            "出類拔萃": "USD 2.99",
+            "群英薈": "USD 2.99",
+            "蒼天之志": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746626555033,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -30061,6 +30131,20 @@
       "Root: The Marauder Expansion": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748527337543,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "USD 9.99",
+            "Root: The Underworld Expansion": "USD 9.99",
+            "Exiles & Partisans & Vagabonds": "USD 7.99",
+            "The Clockwork Expansion": "USD 5.99",
+            "Root: The Marauder Expansion": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747922542969,
@@ -44487,6 +44571,14 @@
     "history": [
       [
         {
+          "timestamp": 1748527337543,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747058561114,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -44624,8 +44716,8 @@
       "300 星鑽": "USD 2.95"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "1030 星鑽": "USD 9.99",
       "510 星鑽": "USD 4.99",
       "2080 星鑽": "USD 19.99",
@@ -44633,6 +44725,20 @@
       "300 星鑽": "USD 2.95"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748527337543,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "1030 星鑽": "USD 9.99",
+            "510 星鑽": "USD 4.99",
+            "2080 星鑽": "USD 19.99",
+            "100 星鑽": "USD 0.99",
+            "300 星鑽": "USD 2.95"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

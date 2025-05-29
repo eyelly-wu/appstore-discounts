@@ -14762,8 +14762,8 @@
       "Paquete para el idioma español": "$0.00"
     },
     "minPriceInfo": {
-      "price": 990,
-      "formattedPrice": "$990.00",
+      "price": 830,
+      "formattedPrice": "$830.00",
       "Single Player DLC Pack": "$0.00",
       "Пакет поддержки русского языка": "$0.00",
       "Pacchetto lingua italiana": "$0.00",
@@ -14772,6 +14772,21 @@
       "Paquete para el idioma español": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748527337543,
+          "price": 830,
+          "formattedPrice": "$830.00",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "$0.00",
+            "Пакет поддержки русского языка": "$0.00",
+            "Pacchetto lingua italiana": "$0.00",
+            "Arabic language pack": "$0.00",
+            "Polski pakiet językowy": "$0.00",
+            "Paquete para el idioma español": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
@@ -21612,6 +21627,46 @@
       ]
     ]
   },
+  "969924164": {
+    "name": "航空大亨 Online 2",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Pile of Credits": "$150.00",
+      "Sack of Credits": "$320.00",
+      "Bag of Credits": "$690.00",
+      "Trunk of Credits": "$2,990.00",
+      "Box of Credits": "$1,490.00",
+      "專業頻道入場券": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Pile of Credits": "$150.00",
+      "Sack of Credits": "$320.00",
+      "Bag of Credits": "$690.00",
+      "Trunk of Credits": "$2,990.00",
+      "Box of Credits": "$1,490.00",
+      "專業頻道入場券": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748527337543,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Pile of Credits": "$150.00",
+            "Sack of Credits": "$320.00",
+            "Bag of Credits": "$690.00",
+            "Trunk of Credits": "$2,990.00",
+            "Box of Credits": "$1,490.00",
+            "專業頻道入場券": "$320.00"
+          }
+        }
+      ]
+    ]
+  },
   "973482987": {
     "name": "Five Nights at Freddy's 3",
     "maxPriceInfo": {
@@ -21771,8 +21826,8 @@
       "119 Gems": "$1,990.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "13 Gems": "$290.00",
       "6 Gems": "$120.00",
       "48 Gems": "$990.00",
@@ -21783,6 +21838,23 @@
       "119 Gems": "$1,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748527337543,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "13 Gems": "$290.00",
+            "6 Gems": "$120.00",
+            "48 Gems": "$990.00",
+            "1 Gem": "$30.00",
+            "150 Gems": "$2,490.00",
+            "74 Gems": "$1,290.00",
+            "28 Gems": "$490.00",
+            "119 Gems": "$1,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748136619880,
@@ -37544,6 +37616,20 @@
     "history": [
       [
         {
+          "timestamp": 1748527337543,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "寶物編輯器": "$30.00",
+            "美術升級包": "$90.00",
+            "群英薈": "$90.00",
+            "出類拔萃": "$90.00",
+            "蒼天之志": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746626555033,
           "price": 390,
           "formattedPrice": "$390.00",
@@ -39122,6 +39208,20 @@
       "Root: The Marauder Expansion": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748527337543,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "$320.00",
+            "Root: The Marauder Expansion": "$320.00",
+            "Root: The Underworld Expansion": "$320.00",
+            "Exiles & Partisans & Vagabonds": "$290.00",
+            "The Clockwork Expansion": "$190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747922542969,
@@ -54434,6 +54534,14 @@
     "history": [
       [
         {
+          "timestamp": 1748527337543,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747058561114,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -54571,8 +54679,8 @@
       "2080 星鑽": "$650.00"
     },
     "minPriceInfo": {
-      "price": 100,
-      "formattedPrice": "$100.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "510 星鑽": "$170.00",
       "1030 星鑽": "$330.00",
       "100 星鑽": "$35.00",
@@ -54580,6 +54688,20 @@
       "2080 星鑽": "$650.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748527337543,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "510 星鑽": "$170.00",
+            "1030 星鑽": "$330.00",
+            "100 星鑽": "$35.00",
+            "300 星鑽": "$100.00",
+            "2080 星鑽": "$650.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
