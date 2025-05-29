@@ -15925,6 +15925,23 @@
     "history": [
       [
         {
+          "timestamp": 1748485899234,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "$3.99",
+            "Rayark Selection Vol.2": "$3.99",
+            "V.K Collection": "$3.99",
+            "Forgotten Hourglass": "$9.99",
+            "Cytus Selection Vol.1": "$3.99",
+            "Knight Iris": "$3.99",
+            "Cytus Selection Vol.2": "$3.99",
+            "M2U X NICODE Collection": "$3.99",
+            "MILI Collection": "$3.99",
+            "Rayark Selection Vol.3": "$3.99"
+          }
+        },
+        {
           "timestamp": 1748482209197,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -68814,11 +68831,17 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
       [
+        {
+          "timestamp": 1748485899234,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1748415753859,
           "price": 0.99,
