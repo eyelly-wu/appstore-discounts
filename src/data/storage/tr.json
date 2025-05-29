@@ -17677,8 +17677,8 @@
       "119 Gems": "₺2.499,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "13 Gems": "₺349,99",
       "1 Gem": "₺39,99",
       "6 Gems": "₺179,99",
@@ -17689,6 +17689,22 @@
       "119 Gems": "₺2.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748559723409,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "13 Gems": "₺349,99",
+            "1 Gem": "₺39,99",
+            "6 Gems": "₺179,99",
+            "48 Gems": "₺1.299,99",
+            "74 Gems": "₺1.999,99",
+            "150 Gems": "₺3.499,99",
+            "28 Gems": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747152155845,
@@ -29195,6 +29211,20 @@
     "history": [
       [
         {
+          "timestamp": 1748559723409,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Dawn of Heroes": "₺179,99",
+            "Feature DLC": "₺129,99",
+            "Art Upgrade Pack": "₺129,99",
+            "Heroes Assemble": "₺129,99",
+            "Treasures Editor": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746658943078,
           "price": 599.99,
           "formattedPrice": "₺599,99",
@@ -30849,6 +30879,20 @@
       "Root: The Marauder Expansion": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748559723409,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "₺449,99",
+            "The Clockwork Expansion": "₺249,99",
+            "Root: The Underworld Expansion": "₺449,99",
+            "Exiles & Partisans & Vagabonds": "₺349,99",
+            "Root: The Marauder Expansion": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747954934998,
@@ -43862,8 +43906,8 @@
       "300 Stellar Gems": "₺74,99"
     },
     "minPriceInfo": {
-      "price": 59.99,
-      "formattedPrice": "₺59,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "1030 Stellar Gems": "₺249,99",
       "510 Stellar Gems": "₺124,99",
       "100 Stellar Gems": "₺24,99",
@@ -43871,6 +43915,20 @@
       "300 Stellar Gems": "₺74,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748559723409,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1030 Stellar Gems": "₺449,99",
+            "510 Stellar Gems": "₺229,99",
+            "100 Stellar Gems": "₺39,99",
+            "2080 Stellar Gems": "₺899,99",
+            "300 Stellar Gems": "₺74,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746615740493,
