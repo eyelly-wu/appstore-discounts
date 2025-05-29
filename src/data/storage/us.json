@@ -21240,6 +21240,25 @@
     "history": [
       [
         {
+          "timestamp": 1748552546748,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "问财专业版连续包月": "$24.99",
+            "问财进阶版连续包月": "$9.99",
+            "598花币": "$89.99",
+            "299花币": "$39.99",
+            "早盘选股宝连续包月": "$39.99",
+            "机构探测器连续包月": "$17.49",
+            "金牛情报连续包月": "$10.99",
+            "分时顶底连续包季": "$18.99",
+            "波段雷达连续包季": "$41.99",
+            "主力密码连续包月": "$17.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747970397708,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -22624,6 +22643,27 @@
           "timestamp": 1745328692670,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1027403357": {
+    "name": "One Way: The Elevator",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748552546748,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

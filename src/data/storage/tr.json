@@ -18297,6 +18297,27 @@
       ]
     ]
   },
+  "1027403357": {
+    "name": "One Way: The Elevator",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748552546748,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1028950091": {
     "name": "The Greedy Cave",
     "maxPriceInfo": {
@@ -19768,6 +19789,23 @@
       "90 Days SVIP": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748552546748,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "90 Days SVIP": "₺129,99",
+            "Annual Special SVIP": "₺599,99",
+            "545 Days SVIP": "₺599,99",
+            "3-Year SVIP": "₺999,99",
+            "100 Days SVIP": "₺129,99",
+            "Quarterly SVIP": "₺129,99",
+            "1-Year SVIP": "₺599,99",
+            "SVIP auto-renew annually": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747877395664,
