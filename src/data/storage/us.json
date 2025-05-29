@@ -589,6 +589,23 @@
     "history": [
       [
         {
+          "timestamp": 1748482209197,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "1000 coins": "$0.99",
+            "10,000 coins": "$1.99",
+            "30,000 coins": "$2.99",
+            "1000 candies": "$0.99",
+            "500 eggs": "$0.99",
+            "10000 candies": "$2.99",
+            "5000 eggs": "$1.99",
+            "10,000 gold": "$0.99",
+            "100,000 gold": "$1.99",
+            "100,000 coins": "$3.99"
+          }
+        },
+        {
           "timestamp": 1748477359452,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -12620,6 +12637,23 @@
     "history": [
       [
         {
+          "timestamp": 1748482209197,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        },
+        {
           "timestamp": 1748477359452,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -15889,6 +15923,25 @@
       "VII Bundle 01": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748482209197,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "$3.99",
+            "Ayatsugu_Otowa Collection": "$3.99",
+            "Sherwin Collection": "$3.99",
+            "Capchii Collection": "$3.99",
+            "VII Bundle 06": "$12.99",
+            "VII Bundle 05": "$10.99",
+            "VII Bundle 03": "$6.99",
+            "VII Bundle 02": "$4.99",
+            "VII Bundle 04": "$8.99",
+            "VII Bundle 01": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746853333553,
@@ -25999,7 +26052,8 @@
       "连拆十个": "$3.99",
       "刘备连衣裙礼包": "$0.99",
       "每月特权礼包": "$39.99",
-      "商会支援计划四": "$2.99"
+      "商会支援计划四": "$2.99",
+      "300钻石": "$3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -26026,9 +26080,29 @@
       "连拆十个": "$3.99",
       "刘备连衣裙礼包": "$0.99",
       "每月特权礼包": "$39.99",
-      "商会支援计划四": "$2.99"
+      "商会支援计划四": "$2.99",
+      "300钻石": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748482209197,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "6480钻石": "$99.99",
+            "3280钻石": "$49.99",
+            "60钻石": "$0.99",
+            "高级商会签约": "$34.99",
+            "每日特权礼包": "$0.99",
+            "300钻石": "$3.99",
+            "980钻石": "$14.99",
+            "每日招财礼包": "$1.99",
+            "商会支援计划五": "$3.99",
+            "每日特惠礼包一": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748351492564,
@@ -70855,6 +70929,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748482209197,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 1990": "$0.99",
+            "Season MLB 2005": "$0.99",
+            "Season MLB 1979": "$0.99",
+            "Season MLB 2017": "$0.99"
+          }
+        },
         {
           "timestamp": 1748448153152,
           "price": 9.99,
