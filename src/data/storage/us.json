@@ -23262,6 +23262,25 @@
     "history": [
       [
         {
+          "timestamp": 1748512956691,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "$7.99",
+            "Platinum Plan - Trimonthly": "$19.99",
+            "Basic Plan - Monthly": "$1.49",
+            "Side Story Chapter 1": "$3.99",
+            "Expansion Chapter B": "$3.99",
+            "Expansion Chapter H": "$3.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Chapter E": "$3.99",
+            "Expansion Ch. U": "$3.99",
+            "Main Story Ch. VIII": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748275344677,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -28413,6 +28432,25 @@
       "8400 Rebirth Stones": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748512956691,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "300 Rubies": "$3.99",
+            "180 Rubies": "$2.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Element Package": "$15.99",
+            "Rebirth EXP increase": "$8.99",
+            "8400 Rebirth Stones": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748415753859,
@@ -58822,7 +58860,8 @@
       "自定义武将席位5": "$3.99",
       "自定义武将席位3": "$3.99",
       "金币达人": "$24.99",
-      "一碟包子": "$0.99"
+      "一碟包子": "$0.99",
+      "新手礼包": "$3.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -58832,7 +58871,7 @@
       "豪华月卡": "$9.99",
       "超值月卡": "$3.99",
       "犒赏令": "$9.99",
-      "SP武将碎片": "$39.99",
+      "SP武将碎片": "$3.99",
       "竞赛VIP赛季卡": "$3.99",
       "新手成长礼包": "$0.99",
       "新手导师": "$9.99",
@@ -58847,9 +58886,29 @@
       "自定义武将席位5": "$3.99",
       "自定义武将席位3": "$3.99",
       "金币达人": "$24.99",
-      "一碟包子": "$0.99"
+      "一碟包子": "$0.99",
+      "新手礼包": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748512956691,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "心愿礼包": "$5.99",
+            "聚财盆": "$2.99",
+            "豪华月卡": "$9.99",
+            "犒赏令": "$9.99",
+            "新手导师": "$9.99",
+            "新手礼包": "$3.99",
+            "金币达人": "$24.99",
+            "超值月卡": "$3.99",
+            "SP武将碎片": "$3.99",
+            "竞赛VIP赛季卡": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748062940155,
