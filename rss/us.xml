@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-29T10:22:18.787Z</updated>
+    <updated>2025-05-29T17:23:00.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-29T10:22:18.789Z</updated>
+        <updated>2025-05-29T17:23:00.801Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 29 May 2025 10:22:18 GMT</id>
+        <id>rankingusThu, 29 May 2025 17:23:00 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-29T10:22:18.789Z</updated>
+        <updated>2025-05-29T17:23:00.801Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1094</b>
+        <b>1096</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>893</b>
+        <b>895</b>
       </td>
       <td>
         <b>12</b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>996</b>
+        <b>998</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>820</b>
+        <b>822</b>
       </td>
       <td>
         <b>12</b>
@@ -188,6 +188,39 @@ feedId:49753370488353792+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1056920931">Iron Marines: RTS offline game</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Hero Dr.Graff</i>：<b>2</b>
+              </li><li>
+                <i>Hero Blue Dragon</i>：<b>2</b>
+              </li><li>
+                <i>Hero Sha'Tra</i>：<b>2</b>
+              </li><li>
+                <i>Hero Ajax</i>：<b>2</b>
+              </li><li>
+                <i>Hero Mark X</i>：<b>2</b>
+              </li><li>
+                <i>Hero Fate</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id384363262">13:20:Sync</a>
       </td>
       <td>
@@ -202,7 +235,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1028950091">The Greedy Cave</a>
@@ -217,39 +250,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Coupon of the Greedy Cave</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1056920931">Iron Marines: RTS offline game</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Hero Dr.Graff</i>：<b>1</b>
-              </li><li>
-                <i>Hero Blue Dragon</i>：<b>1</b>
-              </li><li>
-                <i>Hero Sha'Tra</i>：<b>1</b>
-              </li><li>
-                <i>Hero Ajax</i>：<b>1</b>
-              </li><li>
-                <i>Hero Mark X</i>：<b>1</b>
-              </li><li>
-                <i>Hero Fate</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -1400,6 +1400,69 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iron Marines: RTS offline game]]></title>
+        <id>Iron Marines: RTS offline game-us-1748538144832</id>
+        <link href="https://apps.apple.com/us/app/iron-marines-rts-offline-game/id1056920931?uo=4"/>
+        <updated>2025-05-29T17:02:24.832Z</updated>
+        <summary type="html"><![CDATA[Hero Dr.Graff: $4.99 → $2.99<br/>Hero Blue Dragon: $6.99 → $4.99<br/>Hero Sha'Tra: $4.99 → $2.99<br/>Hero Ajax: $2.99 → $0.99<br/>Hero Mark X: $6.99 → $4.99<br/>Hero Fate: $2.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/iron-marines-rts-offline-game/id1056920931?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Hero Dr.Graff：</strong><span>$4.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $4.99]</span>
+  </li><li>
+    <strong>Hero Blue Dragon：</strong><span>$6.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $6.99]</span>
+  </li><li>
+    <strong>Hero Sha'Tra：</strong><span>$4.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $4.99]</span>
+  </li><li>
+    <strong>Hero Ajax：</strong><span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>
+  </li><li>
+    <strong>Hero Mark X：</strong><span>$6.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $6.99]</span>
+  </li><li>
+    <strong>Hero Fate：</strong><span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  From the creators of the award winner, Kingdom Rush saga comes the most extraordinary space odyssey. Fight challenging real time strategy sci fi battles on amazing and unknown planets. Command brave soldiers, mighty mechas and powerful aliens against hordes of space monsters, swarms of insectoids and robot armies in a galaxy far far away.
+
+PLAN, ATTACK AND BEAT ALL THE ENEMIES ADAPTING YOUR STRATEGY by changing the role of your troops even in the thick of the combat, from ranger to sniper, from flamethrowers to missile launchers.
+
+ADAPT YOUR STRATEGY by changing the role of your troops even in the thick of battle, from ranger to sniper, from flamethrowers to missile launchers.
+
+RECRUIT AND TRAIN THE GREATEST HEROES in the galaxy, lead them into dangerous territory against near-impossible odds and unleash their mighty powers and abilities.
+
+TURN THE TIDE OF BATTLE with orbital strikes, intelligent mines, support troops, turrets and a wide array of special weapons.
+
+Armies of robots, crushed starships, gigantic monsters, unknown races, brave assaults, desperate rescues, audacious sabotages... the galaxy needs your command.
+
+The galaxy needs the Iron Marines
+
+FEATURES
+
+• 21 CAMPAIGN MISSIONS across three sci fi planets. Each action-packed challenge will have you improve your strategy to save the galaxy!
+• 17 SPECIAL OPERATIONS that will test if you have what it takes to battle your way through space.
+• 40+ UPGRADES to build the ultimate RTS army! Choose between Defense Drones, Napalm Rockets, Ricocheting Blasts, Lethal Weapons and many more.
+• +7 UNITS to bring into battle and give your hero some extra firepower!
+• 8 SPECIAL WEAPONS to unleash hell on your enemies and keep expanding your tactics like space itself! What’s better than a well-placed missile? An orbital strike of 50 high-explosive missiles!
+• DEFEAT UNIQUE BOSSES in epic battles. They are green, mean, killing machines!!! Well… some are machines and these aliens aren’t green… but they’re all massive and determined to crush you. Suit up, Marines!
+• 70+ ACHIEVEMENTS to complete and show everyone you’re the best RTS commander in the whole galaxy!
+• NO WI-FI IN SPACE? No worries, offline play guaranteed!
+• CHOOSE YOUR DIFFICULTY MODE: Casual, Normal or Veteran. Don’t get cocky! Or Do! Your choice!
+• IMPOSSIBLE MODE. Only for the most daring, reckless, all-out-of-bubblegum marines in space. We dare you!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7a/52/1c/7a521cbb-c7d3-8ec4-beeb-38a0e54c91dd/97160efd-9719-4160-bc1b-58a9149dae00_2208x1242_5-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1c/10/60/1c106049-704c-49e2-a3a9-131b1a4790c1/881bf49a-ee09-41e9-9634-579a1e40aed8_2208x1242_4-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8c/f7/76/8cf776e4-afb7-cd06-d013-c00d59ef35a1/d4810c7b-c49a-4fe0-98ad-a81b0bd111fc_2208x1242_2-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ff/05/e3/ff05e335-5676-a714-e2f2-168fc9ff9f39/1e63e89e-a014-4cc4-ba93-4ff51f13eb35_2208x1242_3-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/62/40/8f/62408f5f-ffeb-877e-100d-9d74329af5bf/311f6ebf-e7ab-4966-949d-62e81d8b7967_2208x1242_1-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/94/44/999444fb-cb53-0674-1ef5-3dc072149a7e/en-US_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/8f/db/c68fdb25-8930-7c89-c5cc-ccb81bba7737/en-US_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1c/1b/77/1c1b7764-bb96-4d9e-86d8-d162357fc1f2/f8249606-c251-4b56-a4bb-8a654b1c8deb_2732x2048_5-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/96/8b/9f/968b9f95-655b-316b-700e-530589ad3a03/52ff88db-d532-49dc-bac3-90fe4c0974d9_2732x2048_2-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/6e/3c/6c/6e3c6ce2-5750-4513-345c-2fa3d4227d73/a31260f9-91f3-404b-9feb-d8cdd52bb823_2732x2048_4-ENG__U00281_U0029.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9d/94/1b/9d941bca-fdb1-60f5-bc3d-3459acf86c42/3f979ae8-f794-4577-9f05-6281ad6ca4c4_2732x2048_3-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/4b/52/7e/4b527e02-bea6-319a-e913-caea77c487ab/89cad2d7-8080-4c70-bf94-1d48b178e545_2732x2048_1-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/d1/fe/c6d1fe4f-081c-3a3f-9cb8-0d7f2a0dafa8/en-US_iPadPro_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ff/dc/6a/ffdc6a0b-fd65-ccf4-bac6-b692dad98937/en-US_iPadPro_05.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[真武三国  英雄集结]]></title>
