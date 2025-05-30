@@ -22039,8 +22039,8 @@
       "28 Gems": "$14.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "13 Gems": "$7.99",
       "6 Gems": "$3.99",
       "1 Gem": "$0.99",
@@ -22050,6 +22050,22 @@
       "28 Gems": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748575235922,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "13 Gems": "$7.99",
+            "6 Gems": "$3.99",
+            "1 Gem": "$0.99",
+            "48 Gems": "$28.99",
+            "150 Gems": "$79.99",
+            "74 Gems": "$40.99",
+            "28 Gems": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746847016133,
@@ -39114,6 +39130,20 @@
     "history": [
       [
         {
+          "timestamp": 1748575235922,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Treasures Editor": "$0.99",
+            "Dawn of Heroes": "$3.99",
+            "Art Upgrade Pack": "$2.99",
+            "Feature DLC": "$2.99",
+            "Heroes Assemble": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746674405575,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -40831,6 +40861,20 @@
       "The Clockwork Expansion": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748575235922,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "$9.99",
+            "Root: The Underworld Expansion": "$9.99",
+            "Exiles & Partisans & Vagabonds": "$7.99",
+            "The Clockwork Expansion": "$5.99",
+            "Root: The Marauder Expansion": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747970397708,
@@ -57349,8 +57393,8 @@
       "300 Stellar Gems": "$2.95"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "510 Stellar Gems": "$4.99",
       "1030 Stellar Gems": "$9.99",
       "100 Stellar Gems": "$0.99",
@@ -57358,6 +57402,20 @@
       "300 Stellar Gems": "$2.95"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748575235922,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "510 Stellar Gems": "$4.99",
+            "1030 Stellar Gems": "$9.99",
+            "100 Stellar Gems": "$0.99",
+            "300 Stellar Gems": "$2.95",
+            "2080 Stellar Gems": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
