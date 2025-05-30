@@ -54640,6 +54640,25 @@
     "history": [
       [
         {
+          "timestamp": 1748599355554,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$9.99",
+            "Content Bundle 2": "$7.99",
+            "Getaway Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Reckless Car Pack": "$2.99",
+            "Banger Racing Car Pack": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748494947653,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -69856,6 +69875,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748599355554,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748485899234,
