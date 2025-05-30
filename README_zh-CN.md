@@ -67,11 +67,12 @@
 ## 钉钉
 点击 [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk") 订阅
 # 关注焦点
-当前已收录 `6` 个 `国家或地区` 和 `1098` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `6` 个 `国家或地区` 和 `1099` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br />如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br />目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1099|1462805796|自动|❌|Whipseey|Whipseey|Whipseey|Whipseey|Whipseey|
 |1098|6744710434|自动|❌|口袋遊戲世界|口袋遊戲世界|口袋遊戲世界|Pocket Games World|Pocket Games World|
 |1097|1027403357|自动|一路|One Way: The Elevator|One Way: The Elevator|One Way: The Elevator|One Way: The Elevator|One Way: The Elevator|
 |1096|969924164|自动|❌|航空大亨 Online 2|航空大亨 Online 2|航空大亨 Online 2|AirTycoon Online 2|AirTycoon Online 2|

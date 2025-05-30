@@ -33657,6 +33657,27 @@
       ]
     ]
   },
+  "1462805796": {
+    "name": "Whipseey",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748602931335,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1463331841": {
     "name": "Oolimo Guitar Chords",
     "maxPriceInfo": {
@@ -52030,7 +52051,11 @@
       "Boeing 777F": "₺99,99",
       "Airbus A319": "₺99,99",
       "Antares 21E": "₺39,99",
-      "ASK 21": "₺39,99"
+      "ASK 21": "₺39,99",
+      "ASG29": "₺39,99",
+      "C90GTx": "₺39,99",
+      "F4U Corsair": "₺39,99",
+      "Junkers Ju 52": "₺39,99"
     },
     "minPriceInfo": {
       "price": 179.99,
@@ -52055,10 +52080,31 @@
       "Boeing 777F": "₺99,99",
       "Airbus A319": "₺99,99",
       "Antares 21E": "₺39,99",
-      "ASK 21": "₺39,99"
+      "ASK 21": "₺39,99",
+      "ASG29": "₺39,99",
+      "C90GTx": "₺39,99",
+      "F4U Corsair": "₺39,99",
+      "Junkers Ju 52": "₺39,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1748602931335,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "The Aircraft Bundle": "₺799,99",
+            "ASG29": "₺39,99",
+            "Boeing 787-10": "₺99,99",
+            "C90GTx": "₺39,99",
+            "Concorde": "₺99,99",
+            "F4U Corsair": "₺39,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Junkers Ju 52": "₺39,99"
+          }
+        },
         {
           "timestamp": 1748588542836,
           "price": 179.99,
