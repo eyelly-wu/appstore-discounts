@@ -589,6 +589,25 @@
     "history": [
       [
         {
+          "timestamp": 1748631735282,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "1000 coins": "$0.99",
+            "10,000 coins": "$1.99",
+            "30,000 coins": "$2.99",
+            "1000 candies": "$0.99",
+            "500 eggs": "$0.99",
+            "10000 candies": "$2.99",
+            "5000 eggs": "$1.99",
+            "10,000 gold": "$0.99",
+            "100,000 gold": "$1.99",
+            "100,000 coins": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748494947653,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -28559,6 +28578,25 @@
     "history": [
       [
         {
+          "timestamp": 1748631735282,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "HD Textures": "$0.00",
+            "Party Mode HD Textures": "$0.00",
+            "Street HD Textures": "$0.00",
+            "Tuner HD Textures": "$0.00",
+            "Open Wheel HD Textures": "$0.00",
+            "Endurance HD Textures": "$0.00",
+            "Touring HD Textures": "$0.00",
+            "All DLC": "$0.00",
+            "Black Edition Pack": "$0.00",
+            "Best of British Pack": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748458931288,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -47870,11 +47908,13 @@
       "Atlantis Marine Bundle": "$11.99",
       "The Fire and Ice Bundle": "$4.99",
       "Victorian London Marine Bundle": "$11.99",
-      "The Slam Dunk Bundle": "$4.99",
+      "The Slam Dunk Bundle": "$6.99",
       "Blazin' Blue the Monster Truck": "$9.99",
       "Enchanted Forest Marine Bundle": "$11.99",
       "LA Monstropolis Marine Bundle": "$11.99",
-      "The Rainbow Bundle": "$11.99"
+      "The Rainbow Bundle": "$11.99",
+      "Fantasy Beach Bundle": "$11.99",
+      "Starseeker Token": "$9.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -47900,9 +47940,27 @@
       "Blazin' Blue the Monster Truck": "$9.99",
       "Enchanted Forest Marine Bundle": "$11.99",
       "LA Monstropolis Marine Bundle": "$11.99",
-      "The Rainbow Bundle": "$11.99"
+      "The Rainbow Bundle": "$11.99",
+      "Fantasy Beach Bundle": "$11.99",
+      "Starseeker Token": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748631735282,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Fantasy Beach Bundle": "$11.99",
+            "Starseeker Token": "$9.99",
+            "Enchanted Forest Marine Bundle": "$11.99",
+            "LA Monstropolis Marine Bundle": "$11.99",
+            "The Rainbow Bundle": "$11.99",
+            "Victorian London Marine Bundle": "$11.99",
+            "The Slam Dunk Bundle": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747850592138,
@@ -69950,6 +70008,16 @@
       "Premium Features": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748631735282,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748034143126,

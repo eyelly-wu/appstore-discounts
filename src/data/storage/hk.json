@@ -19999,10 +19999,21 @@
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "PLUS": "HK$ 148.00",
-      "GOLD": "HK$ 288.00"
+      "PLUS": "HK$ 38.00",
+      "GOLD": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748631735282,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "PLUS": "HK$ 38.00",
+            "GOLD": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -21184,6 +21195,25 @@
       "波段雷达连续包季": "HK$ 333.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748631735282,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "问财专业版连续包月": "HK$ 188.00",
+            "问财进阶版连续包月": "HK$ 88.00",
+            "598花币": "HK$ 688.00",
+            "299花币": "HK$ 288.00",
+            "早盘选股宝连续包月": "HK$ 288.00",
+            "机构探测器连续包月": "HK$ 133.00",
+            "金牛情报连续包月": "HK$ 83.00",
+            "分时顶底连续包季": "HK$ 148.00",
+            "波段雷达连续包季": "HK$ 333.00",
+            "主力密码连续包月": "HK$ 138.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746723741923,
@@ -33607,6 +33637,25 @@
       "古亞星兜風指南": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748631735282,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "肥宅快樂包 SP": "HK$ 28.00",
+            "Miku in Museland": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748062940155,

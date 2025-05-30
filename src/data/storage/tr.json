@@ -6131,6 +6131,25 @@
     "history": [
       [
         {
+          "timestamp": 1748631735282,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Vehicles pack": "₺449,99",
+            "Tools Pack": "₺249,99",
+            "Scary Pack": "₺449,99",
+            "Weapon Pack": "₺249,99",
+            "Minecraft Pets Pack": "₺449,99",
+            "Minecraft Morph Pack": "₺249,99",
+            "Marketplace Pass Full": "₺129,99",
+            "Marketplace Pass Trial": "₺129,99",
+            "The Incredibles": "₺349,99",
+            "Marketplace Pass w/trial": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748332984715,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -51924,6 +51943,16 @@
       "Premium Features": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748631735282,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748034143126,
