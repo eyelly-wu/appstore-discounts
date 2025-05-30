@@ -22719,6 +22719,23 @@
     "history": [
       [
         {
+          "timestamp": 1748568593211,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "[A heap of crystals]": "$0.99",
+            "[A box of crystals]": "$2.99",
+            "[A package of crystals]": "$3.99",
+            "[A big package of crystals]": "$9.99",
+            "[A chest of crystals]": "$19.99",
+            "Coupon of the Greedy Cave": "$2.99",
+            "Package4": "$9.99",
+            "[A big chest of crystals]": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748210526204,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -44392,7 +44409,8 @@
       "Role Package": "$2.99",
       "310 gems": "$4.99",
       "Gold Decree": "$89.99",
-      "Silver Decree": "$49.99"
+      "Silver Decree": "$49.99",
+      "Suit Package": "$29.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -44409,9 +44427,29 @@
       "Role Package": "$2.99",
       "310 gems": "$4.99",
       "Gold Decree": "$89.99",
-      "Silver Decree": "$49.99"
+      "Silver Decree": "$49.99",
+      "Suit Package": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748568593211,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Resource Package": "$2.99",
+            "Suit Package": "$29.99",
+            "Teammate Package": "$4.99",
+            "Role Package III": "$9.99",
+            "Role Package": "$2.99",
+            "Heroic Package#1": "$9.99",
+            "Teammate Package#2": "$4.99",
+            "Heroic Package#2": "$9.99",
+            "Gold Decree": "$89.99",
+            "Heroic Package#3": "$49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748318768441,
@@ -44826,6 +44864,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748568593211,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "68金玉": "$9.99",
+            "30金玉": "$4.99",
+            "648金玉": "$99.99",
+            "禮包5": "$4.99",
+            "198金玉": "$29.99",
+            "328金玉": "$49.99",
+            "禮包6": "$9.99",
+            "尊享月俸": "$4.99",
+            "6金玉": "$0.99",
+            "禮包2": "$0.99"
+          }
+        },
         {
           "timestamp": 1748491505664,
           "price": 0.99,
@@ -60991,6 +61046,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748568593211,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747884020298,
