@@ -1839,7 +1839,13 @@
       "Haydn: The Mutopia Collection": "USD 0.00",
       "Burgmüller: The Mutopia Collection": "USD 0.00",
       "Sousa: The Mutopia Collection": "USD 0.00",
-      "Schubert: The Mutopia Collection": "USD 0.99"
+      "Schubert: The Mutopia Collection": "USD 0.99",
+      "Bach: The Mutopia Collection": "USD 0.99",
+      "Beethoven: The Mutopia Collection": "USD 0.99",
+      "Chopin: The Mutopia Collection": "USD 0.99",
+      "Gottschalk: The Mutopia Collection": "USD 0.00",
+      "Händel: The Mutopia Collection": "USD 0.00",
+      "Joplin: The Mutopia Collection": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 24.99,
@@ -1853,9 +1859,34 @@
       "Haydn: The Mutopia Collection": "USD 0.00",
       "Burgmüller: The Mutopia Collection": "USD 0.00",
       "Sousa: The Mutopia Collection": "USD 0.00",
-      "Schubert: The Mutopia Collection": "USD 0.99"
+      "Schubert: The Mutopia Collection": "USD 0.99",
+      "Bach: The Mutopia Collection": "USD 0.99",
+      "Beethoven: The Mutopia Collection": "USD 0.99",
+      "Chopin: The Mutopia Collection": "USD 0.99",
+      "Gottschalk: The Mutopia Collection": "USD 0.00",
+      "Händel: The Mutopia Collection": "USD 0.00",
+      "Joplin: The Mutopia Collection": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748638929585,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {
+            "Bach: The Mutopia Collection": "USD 0.99",
+            "Beethoven: The Mutopia Collection": "USD 0.99",
+            "Brahms: The Mutopia Collection": "USD 0.00",
+            "Burgmüller: The Mutopia Collection": "USD 0.00",
+            "Chopin: The Mutopia Collection": "USD 0.99",
+            "Gottschalk: The Mutopia Collection": "USD 0.00",
+            "Haydn: The Mutopia Collection": "USD 0.00",
+            "Händel: The Mutopia Collection": "USD 0.00",
+            "Joplin: The Mutopia Collection": "USD 0.99",
+            "Liszt: The Mutopia Collection": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745773328187,
