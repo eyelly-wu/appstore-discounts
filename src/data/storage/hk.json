@@ -20005,6 +20005,15 @@
     "history": [
       [
         {
+          "timestamp": 1748635348272,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "PLUS": "HK$ 148.00",
+            "GOLD": "HK$ 288.00"
+          }
+        },
+        {
           "timestamp": 1748631735282,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -21196,6 +21205,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748635348272,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "HK$ 10.00",
+            "金牛会员连续包月": "HK$ 8.00",
+            "神奇电波连续包季": "HK$ 218.00",
+            "机构探测器连续包月": "HK$ 133.00",
+            "主力密码连续包月": "HK$ 138.00",
+            "手机超级Level-2连续包半年": "HK$ 53.00",
+            "手机Level-2包年服务": "HK$ 98.00",
+            "金牛会员月版": "HK$ 22.00",
+            "金牛会员尊享版连续包年": "HK$ 118.00",
+            "手机高级诊股连续包月": "HK$ 10.00"
+          }
+        },
         {
           "timestamp": 1748631735282,
           "price": 8,
@@ -68413,6 +68439,16 @@
       "高級功能": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748635348272,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748037728059,

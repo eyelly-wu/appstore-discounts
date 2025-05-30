@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-30T14:22:59.819Z</updated>
+    <updated>2025-05-30T20:23:13.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-30T14:22:59.820Z</updated>
+        <updated>2025-05-30T20:23:13.803Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 30 May 2025 14:22:59 GMT</id>
+        <id>rankingcnFri, 30 May 2025 20:23:13 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-30T14:22:59.821Z</updated>
+        <updated>2025-05-30T20:23:13.804Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1099</b>
+        <b>1100</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>898</b>
+        <b>899</b>
       </td>
       <td>
         <b>12</b>
@@ -343,14 +343,20 @@ feedId:49753297431966720+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
+        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>2</b>
           </li><li>
-            <span>价格</span>：<b>2</b>
+            <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>高级功能</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -360,7 +366,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6450877530">花园之间</a>
+        <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
       </td>
       <td>
         <ul>
@@ -377,7 +383,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6739975257">乐桥</a>
+        <a href="https://apps.apple.com/cn/app/id6450877530">花园之间</a>
       </td>
       <td>
         <ul>
@@ -394,6 +400,23 @@ feedId:49753297431966720+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id6739975257">乐桥</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>18</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
       </td>
       <td>
@@ -408,7 +431,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id406541444">8毫米相机</a>
@@ -431,7 +454,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id463295925">Official DVSA Theory Test Kit</a>
@@ -454,7 +477,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id510249014">水平仪 HD</a>
@@ -471,7 +494,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
@@ -494,7 +517,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1020541183">电影精灵 - 专业视频编辑和电影制作</a>
@@ -511,7 +534,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1055511498">Day One 日記：私人日記</a>
@@ -534,7 +557,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1157863540">泰拉瑞亚</a>
@@ -551,7 +574,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1159266744">双子 Gemini</a>
@@ -568,7 +591,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1159700098">去月球-To the Moon</a>
@@ -585,7 +608,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1271620263">艾希 - ICEY</a>
@@ -602,7 +625,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1344655035">蜡烛人</a>
@@ -625,7 +648,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1380582804">手机帝国</a>
@@ -642,7 +665,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -659,7 +682,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1423585518">ROMAN: 进食计画、减肥、减脂一体化。 体重管理。</a>
@@ -676,7 +699,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -693,7 +716,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -710,7 +733,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1453808408">恶果之地</a>
@@ -727,7 +750,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1458460469">人类跌落梦境</a>
@@ -744,7 +767,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -761,7 +784,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
@@ -778,7 +801,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1584313012">笼中窥梦</a>
@@ -795,7 +818,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1614200925">部落与弯刀</a>
@@ -812,7 +835,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1644917705">无处遁形：全网公敌</a>
@@ -829,7 +852,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -846,7 +869,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -863,7 +886,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
@@ -880,27 +903,10 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
+        <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
       </td>
       <td>
         <ul>
@@ -1274,6 +1280,95 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayNav - 影片内无广告！]]></title>
+        <id>PlayNav - 影片内无广告！-cn-1748635348272</id>
+        <link href="https://apps.apple.com/cn/app/playnav-%E5%BD%B1%E7%89%87%E5%86%85%E6%97%A0%E5%B9%BF%E5%91%8A/id6446178861?uo=4"/>
+        <updated>2025-05-30T20:02:28.272Z</updated>
+        <summary type="html"><![CDATA[高级功能: ¥38.00 → ¥22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/playnav-%E5%BD%B1%E7%89%87%E5%86%85%E6%97%A0%E5%B9%BF%E5%91%8A/id6446178861?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ba/1a/fcba1a02-3654-b8f3-5710-7822bcde85d5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>高级功能：</strong><span>¥38.00</span> → <b>
+  <strong>¥22.00</strong>
+</b><span>[¥8.00 ~ ¥38.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  你是否厌倦了 YouTube 视频中的广告打扰
+
+全新的 YouTube PlayNav 视频浏览器将屏蔽观看视频时出现的所有侵入式广告 让你可以流畅无阻地享受喜爱的视频
+
+此外 我们的应用还提供你会喜欢的功能
+
+• 画中画播放 在使用其他应用时观看 YouTube 视频
+• 仅音频模式 在锁屏状态下播放任何 YouTube 视频的音频
+• 自动关闭 设置睡眠定时器 Premium
+• 循环模式 自动重复播放你最喜欢的视频 Premium
+• 学习模式 通过字幕学习语言 Premium
+
+此外 还包括播放列表 速度调整 相关视频 AirPlay 等实用功能 让你的观影体验更上一层楼
+
+如何使用 PlayNav
+
+画中画播放 PIP (Premium)
+
+在使用其他应用时观看 YouTube 视频 启用后播放器会缩小到屏幕上 你可以随意移动或双击隐藏它
+
+如何启用
+1 播放视频时 点击左上角的 PIP 图标 两个小屏幕图标
+2 视频播放时 从 iPhone 底部向上滑动 播放器将出现在屏幕上
+
+仅音频模式
+
+在 iPhone 屏幕锁定的情况下 收听你最喜欢的 YouTube 视频音频 可用于运动 散步 或睡前 搭配自动关闭功能 让你放松聆听喜爱的视频
+
+如何启用
+1 启用画中画播放
+2 然后锁定 iPhone 音频将继续播放
+
+自动关闭
+
+睡觉时间 到 YouTube 选择你喜欢的视频或播放列表 设置自动关闭计时器 让你在喜爱的音频陪伴下入睡
+
+如何启用
+1 在播放器中点击睡眠图标 月亮
+2 选择自动关闭的时间
+3 可与仅音频模式结合使用
+
+循环模式 重复播放视频
+
+想让你的视频循环播放 启用循环模式 让视频无限循环播放 还可与仅音频模式结合使用
+
+如何启用
+1 点击循环图标 视频将持续循环播放 直到你手动关闭
+
+学习模式 通过字幕学习语言
+
+现在 你可以通过字幕学习语言 启用学习模式后 你将看到原始字幕和你的语言翻译 还可以调整播放速度 更好地理解每个单词
+
+如何启用
+1 搜索你学习语言的视频
+2 视频播放后 点击标题旁的学习模式按钮
+
+– 现在试用 PLAYNAV！–
+
+免费享受所有基础功能，并通过一次性购买解锁 Premium 功能。
+
+最低要求
+• iOS 15 或更高版本
+• 3G 或更快的网络连接
+
+相关关键词
+YouTube YouTube Music YouTube Vanced 广告拦截器 无需订阅 跳过 YouTube 广告 无广告音乐 屏蔽弹窗 YouTube AdBlocker 拦截弹窗广告 无广告内容 高级广告拦截器 AdBlock Plus 删除广告 无广告 YouTube
+
+需要帮助
+访问 playnav.vidiom.app 或联系我们 info@playnav.vidiom.app
+
+服务条款 playnav.vidiom.app/terms-of-service
+隐私政策 playnav.vidiom.app/privacy-policy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/dc/fc/c6dcfcda-daa9-249e-affe-748304228c32/b76755b1-5a47-46f5-8a40-b1c0d56a6627_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/76/af/2076af84-9436-da0b-e362-c40add893f60/7869426b-6c3d-4c27-9703-67d5d3ecc172_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/9b/21/5b9b2117-ef25-861b-de0a-3ff0a667b392/2551f815-4407-4078-9d2d-2d092b942223_Hotpot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/c4/54/efc454c8-42b8-e53a-97c6-4caba2777098/f7883da8-e00d-43a1-aad8-8534a9b6f469_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/92/36/0a92367b-74df-3794-6d1f-9f3e3d9ca8bc/eb00f2e1-e187-4e5b-ba1d-0ee0d08dda1c_Hotpot_4.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[挺进地牢]]></title>

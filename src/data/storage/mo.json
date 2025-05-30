@@ -21871,6 +21871,23 @@
     "history": [
       [
         {
+          "timestamp": 1748635348272,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "一堆猴幣促銷": "USD 2.99",
+            "全塔解鎖": "USD 4.99",
+            "塔XP": "USD 0.99",
+            "猴幣": "USD 1.99",
+            "解鎖典範": "USD 4.99",
+            "一保險庫的猴幣": "USD 19.99",
+            "一堆猴幣": "USD 4.99",
+            "猴幣山": "USD 49.99",
+            "10個知識點": "USD 7.99",
+            "完全解鎖防禦塔和典範": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1748631735282,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -52179,6 +52196,16 @@
       "高級功能": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748635348272,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748034143126,
