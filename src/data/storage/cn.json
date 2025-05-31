@@ -1780,6 +1780,23 @@
     "history": [
       [
         {
+          "timestamp": 1748674943879,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6香蕉贝": "¥6.00",
+            "连续包月": "¥28.00",
+            "30香蕉贝": "¥30.00",
+            "68香蕉贝": "¥68.00",
+            "1香蕉贝": "¥1.00",
+            "连续包年": "¥273.00",
+            "免广告会员十二个月": "¥12.00",
+            "128香蕉贝": "¥128.00",
+            "连续包季": "¥72.00",
+            "6随手贝": "¥6.00"
+          }
+        },
+        {
           "timestamp": 1748671368974,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -13355,7 +13372,8 @@
       "Abstract Theme 2": "¥8.00",
       "Abstract Theme 3": "¥8.00",
       "Abstract Theme 1": "¥8.00",
-      "Abstract Theme Bundle": "¥22.00"
+      "Abstract Theme Bundle": "¥22.00",
+      "Great Art Bundle": "¥22.00"
     },
     "minPriceInfo": {
       "price": 15,
@@ -13368,9 +13386,29 @@
       "Abstract Theme 2": "¥8.00",
       "Abstract Theme 3": "¥8.00",
       "Abstract Theme 1": "¥8.00",
-      "Abstract Theme Bundle": "¥22.00"
+      "Abstract Theme Bundle": "¥22.00",
+      "Great Art Bundle": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748674943879,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Font Access": "¥398.00",
+            "Pro Access": "¥698.00",
+            "Ultimate Access": "¥998.00",
+            "Abstract Theme 5": "¥8.00",
+            "Abstract Theme 4": "¥8.00",
+            "Abstract Theme 2": "¥8.00",
+            "Abstract Theme 3": "¥8.00",
+            "Abstract Theme 1": "¥8.00",
+            "Abstract Theme Bundle": "¥22.00",
+            "Great Art Bundle": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -23997,6 +24035,25 @@
       "合作角色捆绑包": "¥102.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748674943879,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "完整版解锁": "¥12.00",
+            "10300 C.COIN": "¥549.00",
+            "5150 C.COIN": "¥280.00",
+            "3090 C.COIN": "¥185.00",
+            "音乐世界Cytus II 礼包6": "¥84.00",
+            "音乐世界Cytus II 礼包5": "¥121.00",
+            "音乐世界Cytus II 礼包4": "¥133.00",
+            "Cytus II 礼包3": "¥119.00",
+            "合作角色捆绑包": "¥102.00",
+            "狂欢季礼包": "¥136.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747908161753,
