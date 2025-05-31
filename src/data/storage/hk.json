@@ -4028,7 +4028,8 @@
       "450 Badoo Credits": "HK$ 88.00",
       "250 Badoo Credits": "HK$ 38.00",
       "Lifetime Badoo Premium": "HK$ 788.00",
-      "Pack of 1350 Credits": "HK$ 150.00"
+      "Pack of 1350 Credits": "HK$ 150.00",
+      "Pack of 450 Credits": "HK$ 70.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -4049,9 +4050,25 @@
       "450 Badoo Credits": "HK$ 88.00",
       "250 Badoo Credits": "HK$ 38.00",
       "Lifetime Badoo Premium": "HK$ 588.00",
-      "Pack of 1350 Credits": "HK$ 150.00"
+      "Pack of 1350 Credits": "HK$ 150.00",
+      "Pack of 450 Credits": "HK$ 70.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748718124134,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Premium": "HK$ 133.00",
+            "Pack of 100 Credits": "HK$ 22.00",
+            "Super Powers": "HK$ 98.00",
+            "Pack of 550 Credits": "HK$ 118.00",
+            "Pack of 450 Credits": "HK$ 70.00",
+            "Pack of 1250 Credits": "HK$ 228.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748581339114,
@@ -23387,6 +23404,25 @@
     "history": [
       [
         {
+          "timestamp": 1748718124134,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "ULTRA BONK Hour 限時挑戰書": "HK$ 22.00",
+            "Radiant Star Trail 限時挑戰書": "HK$ 32.00",
+            "KALPA Collaboration 限時挑戰書": "HK$ 22.00",
+            "主線第八章": "HK$ 88.00",
+            "Glorious Chorus 限時挑戰書": "HK$ 22.00",
+            "Neon Rhapsody 限時挑戰書": "HK$ 22.00",
+            "Colorful Meteor Shower 限時挑戰書": "HK$ 22.00",
+            "Halv Selection 限時挑戰書": "HK$ 22.00",
+            "限時挑戰書": "HK$ 22.00",
+            "擴充章節 Y": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748667740112,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -41441,7 +41477,12 @@
       "學習每日規劃器（週一開始）": "HK$ 88.00",
       "商業與專注規劃器": "HK$ 88.00",
       "學習每日規劃器 (Sun.Start)": "HK$ 88.00",
-      "逐步韓文書寫練習": "HK$ 88.00"
+      "逐步韓文書寫練習": "HK$ 88.00",
+      "15分鐘數位每日規劃器 - 彩色": "HK$ 68.00",
+      "有機化學學習筆記本": "HK$ 58.00",
+      "黑暗學術每日日誌": "HK$ 58.00",
+      "數位旅行規劃器 - 彩色": "HK$ 58.00",
+      "數位食譜書 - 彩色（橫向）": "HK$ 68.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -41555,9 +41596,33 @@
       "學習每日規劃器（週一開始）": "HK$ 88.00",
       "商業與專注規劃器": "HK$ 88.00",
       "學習每日規劃器 (Sun.Start)": "HK$ 88.00",
-      "逐步韓文書寫練習": "HK$ 88.00"
+      "逐步韓文書寫練習": "HK$ 88.00",
+      "15分鐘數位每日規劃器 - 彩色": "HK$ 68.00",
+      "有機化學學習筆記本": "HK$ 58.00",
+      "黑暗學術每日日誌": "HK$ 58.00",
+      "數位旅行規劃器 - 彩色": "HK$ 58.00",
+      "數位食譜書 - 彩色（橫向）": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748718124134,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "15分鐘數位每日規劃器 - 彩色": "HK$ 68.00",
+            "有機化學學習筆記本": "HK$ 58.00",
+            "黑暗學術每日日誌": "HK$ 58.00",
+            "數位旅行規劃器 - 彩色": "HK$ 58.00",
+            "數位食譜書 - 彩色（橫向）": "HK$ 68.00",
+            "逐步韓文書寫練習": "HK$ 88.00",
+            "旅行規劃模板套件": "HK$ 32.00",
+            "智慧數位筆記本（抹茶綠）": "HK$ 58.00",
+            "數位語言學習日誌（抹茶綠）": "HK$ 58.00",
+            "數位思維導圖筆記本": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748386936952,
