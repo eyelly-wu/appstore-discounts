@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-31T03:40:21.468Z</updated>
+    <updated>2025-05-31T09:23:02.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-31T03:40:21.469Z</updated>
+        <updated>2025-05-31T09:23:02.270Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 31 May 2025 03:40:21 GMT</id>
+        <id>rankingusSat, 31 May 2025 09:23:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-31T03:40:21.470Z</updated>
+        <updated>2025-05-31T09:23:02.270Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -278,14 +278,24 @@ feedId:49753370488353792+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
+        <a href="https://apps.apple.com/us/app/id916976066">Phraseboard Keyboard</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Font Access</i>：<b>2</b>
+              </li><li>
+                <i>Pro Access</i>：<b>2</b>
+              </li><li>
+                <i>Ultimate Access</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -295,7 +305,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
+        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
       </td>
       <td>
         <ul>
@@ -312,7 +322,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
+        <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
       </td>
       <td>
         <ul>
@@ -327,6 +337,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>12</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
@@ -349,7 +376,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
@@ -372,7 +399,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6467822375">Auto Redial App</a>
@@ -389,7 +416,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6739975257">TuneShift</a>
@@ -406,7 +433,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
@@ -423,7 +450,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id463295925">Official DVSA Theory Test Kit</a>
@@ -446,7 +473,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id510249014">Level HD.</a>
@@ -463,7 +490,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id549432607">Townsmen Premium</a>
@@ -480,7 +507,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id911201894">DRAGON QUEST</a>
@@ -497,7 +524,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id911205290">DRAGON QUEST II</a>
@@ -508,33 +535,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>22</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id916976066">Phraseboard Keyboard</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Font Access</i>：<b>1</b>
-              </li><li>
-                <i>Pro Access</i>：<b>1</b>
-              </li><li>
-                <i>Ultimate Access</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1569,6 +1569,89 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phraseboard Keyboard]]></title>
+        <id>Phraseboard Keyboard-us-1748682138709</id>
+        <link href="https://apps.apple.com/us/app/phraseboard-keyboard/id916976066?uo=4"/>
+        <updated>2025-05-31T09:02:18.709Z</updated>
+        <summary type="html"><![CDATA[Font Access: $53.99 → $4.99<br/>Pro Access: $96.99 → $8.99<br/>Ultimate Access: $139.99 → $12.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/phraseboard-keyboard/id916976066?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/79/d3/f5/79d3f564-7bc6-714b-4968-206df1a00b57/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Font Access：</strong><span>$53.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $53.99]</span>
+  </li><li>
+    <strong>Pro Access：</strong><span>$96.99</span> → <b>
+  <strong>$8.99</strong>
+</b><span>[$8.99 ~ $96.99]</span>
+  </li><li>
+    <strong>Ultimate Access：</strong><span>$139.99</span> → <b>
+  <strong>$12.99</strong>
+</b><span>[$12.99 ~ $139.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Tired of typing the same response over and over all the time? Phraseboard customizes and categorizes your keyboard with easy to access phrases. 
+
+Add a category and a few common phrases, you can immediately edit, hear and translate the text and then share it on Facebook, Twitter, Instagram or simply send by email, LINE or as SMS. 
+
+Customize your phrases and keyboard with unique fonts and colors! 
+100+ Creative fonts to choose from!
+Translates to more than 59 languages!
+
+Features: 
+• Full keyboard with creative fonts.
+• Create your most common phrases and sort them by categories.
+• Use your phrases in any App right in your keyboard. 
+• Change the font of phrases to match the look and feel of your choice.*
+• Design your keyboard styles including button and background colors.*
+• Set custom photos as keyboard background.
+• Save your styles and pick from curated themes in the styles manager. 
+• Choose which fonts are enabled and manage their order. 
+• Change keyboard and button size 
+• Translate your phrases to multiple languages and use them directly in your keyboard.*
+• Speak mode will read your phrases out loud.* 
+• Use all types of Emojis to express your creativity.
+• Simply tap a button to send off a quick reply.
+• Great tool for business professionals and social media creators!
+
+Also:
+• Send GIFs and images in any app.
+• Share your location with a single tap.
+• Switch between various fonts without changing phrases.*
+• Choose from a large collection of fonts.*
+• Customize font size.*
+• Customize font color.*
+• Protect your phrases using the Secure category.
+• Add phrases directly from Notification Center using the Phraseboard Widget.
+• Sync you’re phrases in all your devices using iCloud.
+• Use directly inside your favorite social media app like Instagram, Facebook or Twitter. 
+• Use directly in iMessage, SMS or Apps. 
+• Create auto reply text that helps with quick and easy typing. 
+• Communicate with confidence using phrase shortcuts. 
+
+(*) Requires an active subscription 
+
+REMEMBER: In order to show you’re phrases on the keyboard you must allow OPEN ACCESS. To allow it please go to Settings > Keyboard, click on Phraseboard and turn the switch ON.
+( Phraseboard ONLY needs open access to be able to show your custom phrases on the keyboard. We never save or log any of your keystrokes).
+
+Phraseboard Premium Subscription Information
+
+Joining Phraseboard Premium enables a 3-day free trail followed by a monthly membership fee.
+
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+
+• Account will be charged for renewal within 24-hours prior to the end of the current period.
+
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription, where applicable.
+
+Privacy Policy : https://phraseboard.wixsite.com/phraseboard/untitled-c82w
+Terms of Service : https://phraseboard.wixsite.com/phraseboard/terms
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/10/d4/aa/10d4aa7d-d250-a7b1-bc2b-4a35af37c455/ad580e92-f004-4031-99bd-0c3c8d9ec17a_TYPE.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/25/52/10/25521040-a722-0b9b-3414-cab35f54cb33/cf3fdc87-0388-4bd8-a7ea-f135f01b77e7_shorter.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/31/97/29/31972939-b3a7-ec90-b35e-afdec3195efb/2a4f0722-0d28-41d0-bd43-8aa3e0dc2fd8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/46/5f/b0/465fb035-0a44-c2f6-b6b3-5e444e8002b3/a3d57f96-5fbf-482b-81f1-e2a37d936395_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/75/49/b9/7549b977-bade-6c88-c625-81a0b3381016/e10f4a28-76e1-4839-aeb0-ea757d0015d2_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b4/f0/31/b4f03178-aee6-637a-14eb-8cfe8d17ba2a/af2240c2-caeb-484d-ae0c-d5879215c5b3_4.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/fb/90/28/fb90280a-d074-0aad-01cc-644e164e23fb/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7b/17/5b/7b175bfb-109b-30a0-5b04-b8bc18e35f0f/ab0326da-307f-4169-9050-6d50b6dd6dab_ipad.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f5/8c/86/f58c8675-f691-aa7a-fa74-248d1fef8489/2b9e3606-ac60-4866-94f6-476964dc030b_ipad-.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0b/d2/0d/0bd20d41-0a18-13f0-0106-7018cfe20f86/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/57/fb/f457fb93-2f88-347b-9e20-2830bb899b89/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/37/7f/04/377f04f6-e83a-b5b8-653f-cd92ab65a5ec/pr_source.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Otaku's Adventure]]></title>
@@ -2660,40 +2743,5 @@ Get ready to step up to the plate, swing for the fences, and experience the thri
 
 Download now and get ready for a home run experience like no other!
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/ee/71/96ee712c-b4ed-3b84-76d7-8a1acfd1f8cb/1e660d69-3d17-461d-b084-031988368c7f_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/cd/c0/b2cdc011-b85f-4a09-7bfa-adb174b3e3c5/4b25a206-3dc2-4a69-acd4-e3cd510c017e_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/c4/1d/92c41dcc-bec8-8eb5-499c-7fc34823470e/1586c5d3-fcfa-41ab-8568-ee83d0add3bc_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/7b/00/9c7b009c-d818-1dc2-e589-ea367ad4e768/b794a9fd-2750-4645-af38-a70623b55881_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/45/68/044568dd-3802-7404-5ab7-c0086ab8335b/98be5544-845e-4174-8fb4-cc7ec09b9749_2.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/0c/d9/970cd937-1632-9ae8-1fbf-a2901b344df7/37a77738-a424-437f-bbaf-834315f689ba_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.38.53.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/b4/e5/7bb4e5dd-302f-a292-8637-20ac6af65601/2e1d4890-7187-491b-ba62-6d4cd5010192_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.39.28.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/3b/c0/0b3bc011-efb2-8ae3-505b-03b872db9b40/32a71647-01e1-4db2-9b68-80ef5acce1e7_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.20.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/7c/5a/bc7c5afb-5114-84d2-1e86-6f181a3d260f/a52265bc-ac18-4acd-90ae-e2e4d5727b3d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.33.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/86/ab/a286abe7-9fcf-952b-3204-4e8fdb352de1/94ba0c41-4209-49fd-8500-4506c291ab03_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.51.14.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TuneShift]]></title>
-        <id>TuneShift-us-1748415753859</id>
-        <link href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4"/>
-        <updated>2025-05-28T07:02:33.859Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/4f/91/484f911a-500b-4b32-b31b-8c32431d9f9e/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $3.99]</span>）
-</h2><h2>Application Description</h2><p>
-  Revitalize your Apple Music library! TuneShift intelligently matches your cherished music from NetEase Cloud Music and QQ Music to Apple Music platform.
-
-Say goodbye to tedious manual searching. With just a few simple steps, rediscover your complete music collection on Apple Music. Our smart engine ensures you find the closest matches to your original favorites.
-
-Core Advantages:
-• Premium music matching engine for precise track identification
-• Preserve complete collection structure and playback order
-• Real-time progress display
-• Minimalist design with one-click operation
-
-Privacy Protection:
-We prioritize user privacy, strictly adhering to privacy protocols to ensure your account information remains secure.
-
-Why Choose TuneShift:
-
-Professional music identification technology
-Superior matching accuracy
-Swift processing efficiency
-User-friendly interface
-Let TuneShift be your professional music management tool for the perfect Apple Music experience!
-</p>]]></content>
     </entry>
 </feed>

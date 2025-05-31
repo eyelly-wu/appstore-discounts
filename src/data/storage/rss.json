@@ -21436,35 +21436,19 @@
           "range": "[$300.00 ~ $2,990.00]"
         }
       ]
-    },
+    }
+  ],
+  "us": [
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/f5/14/4ff514b0-f939-df13-8087-84bd3217e009/mzl.bzdlkeau.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/12/32/43/123243f6-2ada-46b6-9d40-ef5d52b2c8c2/mzl.stqiidrz.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/64/69/52/6469521c-8e46-de39-d39d-f26221900223/mzl.zczjlcvd.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/af/3a/f4/af3af49d-e212-394a-aff8-e2b62d4f586b/mzl.qnyhsiqe.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/a0/f6/6ea0f61c-0214-ff61-ca59-542f41383ef1/mzl.jluxebmf.png/406x228bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/70/d1/ba70d194-83d5-194f-cb52-8de9fcf5d781/mzl.evgrgmwz.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/25/e2/2a25e257-0979-20b7-48cc-f5798fb338bf/mzl.etsyiapq.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/e7/88/cae78850-19a1-d2fc-a4d8-3777b03245f4/mzl.zybyctyl.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/45/0c/a1/450ca19e-b8ef-e8d7-a9cc-66dd9dbd8f89/mzl.ldamlibv.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/81/a9/d381a9b2-4758-8ac9-e361-3e6ada871f3b/mzl.pftqxiws.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": true,
-      "advisories": [
-        "頻繁/強烈的成人/性暗示題材",
-        "偶而/輕微的酒精、菸草或藥物使用或相關內容",
-        "偶而/輕微的現實暴力"
-      ],
+      "isGameCenterEnabled": false,
       "features": [
-        "gameCenter",
         "iosUniversal"
       ],
       "supportedDevices": [
+        "iPhone5-iPhone5",
+        "iPadFourthGen-iPadFourthGen",
+        "iPadFourthGen4G-iPadFourthGen4G",
+        "iPhone5c-iPhone5c",
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
         "iPadAirCellular-iPadAirCellular",
@@ -21580,91 +21564,116 @@
         "iPadAir13M3-iPadAir13M3",
         "iPadAir13M3Cellular-iPadAir13M3Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/tw/developer/deca-live-operations-gmbh/id1464120176?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.65008,
-      "sellerUrl": "https://decagames.com",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/10/d4/aa/10d4aa7d-d250-a7b1-bc2b-4a35af37c455/ad580e92-f004-4031-99bd-0c3c8d9ec17a_TYPE.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/25/52/10/25521040-a722-0b9b-3414-cab35f54cb33/cf3fdc87-0388-4bd8-a7ea-f135f01b77e7_shorter.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/31/97/29/31972939-b3a7-ec90-b35e-afdec3195efb/2a4f0722-0d28-41d0-bd43-8aa3e0dc2fd8_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/46/5f/b0/465fb035-0a44-c2f6-b6b3-5e444e8002b3/a3d57f96-5fbf-482b-81f1-e2a37d936395_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/75/49/b9/7549b977-bade-6c88-c625-81a0b3381016/e10f4a28-76e1-4839-aeb0-ea757d0015d2_5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b4/f0/31/b4f03178-aee6-637a-14eb-8cfe8d17ba2a/af2240c2-caeb-484d-ae0c-d5879215c5b3_4.jpg/392x696bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/fb/90/28/fb90280a-d074-0aad-01cc-644e164e23fb/pr_source.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7b/17/5b/7b175bfb-109b-30a0-5b04-b8bc18e35f0f/ab0326da-307f-4169-9050-6d50b6dd6dab_ipad.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f5/8c/86/f58c8675-f691-aa7a-fa74-248d1fef8489/2b9e3606-ac60-4866-94f6-476964dc030b_ipad-.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0b/d2/0d/0bd20d41-0a18-13f0-0106-7018cfe20f86/pr_source.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/57/fb/f457fb93-2f88-347b-9e20-2830bb899b89/pr_source.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/37/7f/04/377f04f6-e83a-b5b8-653f-cd92ab65a5ec/pr_source.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/79/d3/f5/79d3f564-7bc6-714b-4968-206df1a00b57/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/79/d3/f5/79d3f564-7bc6-714b-4968-206df1a00b57/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/79/d3/f5/79d3f564-7bc6-714b-4968-206df1a00b57/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/daniel-soffer/id290942339?uo=4",
+      "minimumOsVersion": "10.0",
+      "artistId": 290942339,
+      "artistName": "Daniel Soffer",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "price": 1.99,
+      "bundleId": "com.dsoffer.WhatsupKeys",
+      "trackId": 916976066,
+      "trackName": "Phraseboard Keyboard",
+      "releaseDate": "2014-09-23T20:49:05Z",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Daniel Soffer",
+      "releaseNotes": "Minor Bug Fixes",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2021-09-04T14:54:54Z",
+      "version": "6.9",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Tired of typing the same response over and over all the time? Phraseboard customizes and categorizes your keyboard with easy to access phrases. \n\nAdd a category and a few common phrases, you can immediately edit, hear and translate the text and then share it on Facebook, Twitter, Instagram or simply send by email, LINE or as SMS. \n\nCustomize your phrases and keyboard with unique fonts and colors! \n100+ Creative fonts to choose from!\nTranslates to more than 59 languages!\n\nFeatures: \n• Full keyboard with creative fonts.\n• Create your most common phrases and sort them by categories.\n• Use your phrases in any App right in your keyboard. \n• Change the font of phrases to match the look and feel of your choice.*\n• Design your keyboard styles including button and background colors.*\n• Set custom photos as keyboard background.\n• Save your styles and pick from curated themes in the styles manager. \n• Choose which fonts are enabled and manage their order. \n• Change keyboard and button size \n• Translate your phrases to multiple languages and use them directly in your keyboard.*\n• Speak mode will read your phrases out loud.* \n• Use all types of Emojis to express your creativity.\n• Simply tap a button to send off a quick reply.\n• Great tool for business professionals and social media creators!\n\nAlso:\n• Send GIFs and images in any app.\n• Share your location with a single tap.\n• Switch between various fonts without changing phrases.*\n• Choose from a large collection of fonts.*\n• Customize font size.*\n• Customize font color.*\n• Protect your phrases using the Secure category.\n• Add phrases directly from Notification Center using the Phraseboard Widget.\n• Sync you’re phrases in all your devices using iCloud.\n• Use directly inside your favorite social media app like Instagram, Facebook or Twitter. \n• Use directly in iMessage, SMS or Apps. \n• Create auto reply text that helps with quick and easy typing. \n• Communicate with confidence using phrase shortcuts. \n\n(*) Requires an active subscription \n\nREMEMBER: In order to show you’re phrases on the keyboard you must allow OPEN ACCESS. To allow it please go to Settings > Keyboard, click on Phraseboard and turn the switch ON.\n( Phraseboard ONLY needs open access to be able to show your custom phrases on the keyboard. We never save or log any of your keystrokes).\n\nPhraseboard Premium Subscription Information\n\nJoining Phraseboard Premium enables a 3-day free trail followed by a monthly membership fee.\n\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n\n• Account will be charged for renewal within 24-hours prior to the end of the current period.\n\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.\n\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription, where applicable.\n\nPrivacy Policy : https://phraseboard.wixsite.com/phraseboard/untitled-c82w\nTerms of Service : https://phraseboard.wixsite.com/phraseboard/terms",
+      "fileSizeBytes": "163850240",
+      "formattedPrice": "$1.99",
+      "userRatingCountForCurrentVersion": 44,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 3.93182,
+      "sellerUrl": "http://phraseboard.wix.com/phraseboard",
       "languageCodesISO2A": [
         "EN",
         "FR",
         "DE",
+        "HE",
         "IT",
         "JA",
-        "KO",
         "PT",
-        "RU",
         "ZH",
         "ES",
         "TH",
-        "ZH",
-        "TR"
+        "ZH"
       ],
-      "fileSizeBytes": "1056589824",
-      "formattedPrice": "$30.00",
-      "userRatingCountForCurrentVersion": 543,
-      "trackContentRating": "17+",
-      "artistId": 1464120176,
-      "artistName": "Deca Live Operations GmbH",
-      "genres": [
-        "遊戲",
-        "策略",
-        "動作"
-      ],
-      "price": 30,
-      "bundleId": "com.squareenixmontreal.hitmansniper",
-      "releaseDate": "2015-06-03T14:20:27Z",
-      "currentVersionReleaseDate": "2025-03-11T08:42:01Z",
-      "trackId": 904278510,
-      "trackName": "刺客任務：狙擊 (Hitman Sniper)",
-      "genreIds": [
-        "6014",
-        "7017",
-        "7001"
-      ],
-      "primaryGenreName": "Games",
-      "primaryGenreId": 6014,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Deca Live Operations GmbH",
-      "releaseNotes": "- 小修復和改進",
-      "version": "1.15",
-      "wrapperType": "software",
-      "currency": "TWD",
-      "description": "成為終極無聲殺手\n進入《Hitman Sniper》，扮演探員 47（Agent 47），體驗最震撼的狙擊手遊。\n\n黑山共和國的戰略任務\n磨練策略技巧，精心策劃一場完美暗殺。\n\n死亡谷挑戰模式\n準備迎接無窮的動作考驗，測試你的僵屍獵人技巧和射擊速度。\n\n超過 150 個任務和 10 份合同\n揭露秘密與詭計，精進你的完美暗殺技巧。\n\n16 種獨一無二的槍砲\n消滅目標、收集武器零件，完成設計突擊可解鎖最強大的槍砲。\n\n與好友一較高下，競逐排行榜冠軍\n衝高分數，升上合同殺手排行第一名，成為全世界最出色的無聲殺手。",
-      "trackCensoredName": "刺客任務：狙擊 (Hitman Sniper)",
-      "trackViewUrl": "https://apps.apple.com/tw/app/%E5%88%BA%E5%AE%A2%E4%BB%BB%E5%8B%99-%E7%8B%99%E6%93%8A-hitman-sniper/id904278510?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.65008,
-      "minimumOsVersion": "12.0",
-      "userRatingCount": 543,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Phraseboard Keyboard",
+      "trackViewUrl": "https://apps.apple.com/us/app/phraseboard-keyboard/id916976066?uo=4",
+      "averageUserRating": 3.93182,
+      "userRatingCount": 44,
       "inAppPurchases": {
-        "超大型代幣包": "$390.00",
-        "超大型金錢包": "$290.00",
-        "促銷包": "$790.00",
-        "新手包": "$90.00",
-        "中型金錢包": "$150.00"
+        "Phrase sharing": "$3.99",
+        "Font Access": "$4.99",
+        "Pro Access": "$8.99",
+        "Ultimate Access": "$12.99",
+        "Tech Silicone Theme": "$0.99",
+        "Tech Gears Theme": "$0.99",
+        "Tech Bundle": "$1.99",
+        "Tech Wires Theme": "$0.99",
+        "Nature Aurora Theme": "$0.99",
+        "Nature Bundle": "$1.99"
       },
-      "timestamp": 1748422949379,
+      "timestamp": 1748682138709,
       "discounts": [
         {
           "type": "inAppPurchase",
-          "name": "超大型金錢包",
-          "from": "$320.00",
-          "to": "$290.00",
-          "range": "[$290.00 ~ $320.00]"
+          "name": "Font Access",
+          "from": "$53.99",
+          "to": "$4.99",
+          "range": "[$4.99 ~ $53.99]"
         },
         {
           "type": "inAppPurchase",
-          "name": "新手包",
-          "from": "$150.00",
-          "to": "$90.00",
-          "range": "[$90.00 ~ $150.00]"
+          "name": "Pro Access",
+          "from": "$96.99",
+          "to": "$8.99",
+          "range": "[$8.99 ~ $96.99]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "Ultimate Access",
+          "from": "$139.99",
+          "to": "$12.99",
+          "range": "[$12.99 ~ $139.99]"
         }
       ]
-    }
-  ],
-  "us": [
+    },
     {
       "isGameCenterEnabled": false,
       "advisories": [
