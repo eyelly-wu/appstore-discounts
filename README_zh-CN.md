@@ -848,7 +848,7 @@
 |328|1562560561|自动|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|
 |327|1563932741|自动|❌|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|
 |326|1569963107|自动|❌|❌|❌|❌|❌|Aylık Distopya|
-|325|1576329230|自动|传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说|❌|❌|❌|❌|❌|
+|325| ~~1576329230~~ |自动| ~~传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |324|1576763082|自动|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|
 |323|1577392165|自动|❌|Monster Train|Monster Train|Monster Train|Monster Train|Monster Train|
 |322|1578203914|自动|电子宠物机|电子宠物机|电子宠物机|电子宠物机|Peggy Cat - A Virtual Pet|Peggy Cat - A Virtual Pet|

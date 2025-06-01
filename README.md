@@ -845,7 +845,7 @@ So far, we've covered `6` `Countries or Regions` and  `1101` `Apps` <br />Push n
 |328|1562560561|Automatic|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|
 |327|1563932741|Automatic|❌|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|
 |326|1569963107|Automatic|❌|❌|❌|❌|❌|Aylık Distopya|
-|325|1576329230|Automatic|传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说|❌|❌|❌|❌|❌|
+|325| ~~1576329230~~ |Automatic| ~~传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |324|1576763082|Automatic|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|
 |323|1577392165|Automatic|❌|Monster Train|Monster Train|Monster Train|Monster Train|Monster Train|
 |322|1578203914|Automatic|电子宠物机|电子宠物机|电子宠物机|电子宠物机|Peggy Cat - A Virtual Pet|Peggy Cat - A Virtual Pet|
