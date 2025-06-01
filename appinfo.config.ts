@@ -5594,6 +5594,7 @@ export const appConfig: AppConfig[] = [
       cn: '传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1576763082,

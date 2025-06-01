@@ -57,7 +57,7 @@ export default function addRankingFeedItem(props: {
     getCount(appConfig)
   const storageAppInfo = regionStorageAppInfo[region]
   const regionAppIds = Object.keys(storageAppInfo)
-  const { regionAppConfig, disableApps } = appConfig.reduce(
+  const { regionAppConfig, disableApps, idDisableMap } = appConfig.reduce(
     (res, item) => {
       const { id, allowNotification, addType } = item
       const isInclude = regionAppIds.includes(`${id}`)
@@ -67,6 +67,7 @@ export default function addRankingFeedItem(props: {
         if (allowNotification === false) {
           const appInfo = storageAppInfo[id]
           res.disableApps.push({ id, name: appInfo.name, addType })
+          res.idDisableMap[id] = true
         }
       }
 
@@ -79,6 +80,7 @@ export default function addRankingFeedItem(props: {
         name: string
         addType: AppConfig['addType']
       }>,
+      idDisableMap: {} as Record<string, boolean>,
     },
   )
   const {
@@ -195,14 +197,18 @@ export default function addRankingFeedItem(props: {
             {sortMonthlyDiscountStats.map((monthlyDiscountStat, index) => {
               const { appId, name, all, price, inAppPurchasesInfo } =
                 monthlyDiscountStat
+
+              const nameContent = (
+                <a href={getAppStoreUrl(region, appId)}>{name}</a>
+              )
+              const isDisabled = idDisableMap[appId]
+
               return (
                 <tr>
                   <td>
                     <b>{index + 1}</b>
                   </td>
-                  <td>
-                    <a href={getAppStoreUrl(region, appId)}>{name}</a>
-                  </td>
+                  <td>{isDisabled ? <del>{nameContent}</del> : nameContent}</td>
                   <td>
                     <ul>
                       <li>
