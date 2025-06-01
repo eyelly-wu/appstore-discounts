@@ -52041,6 +52041,14 @@
     "history": [
       [
         {
+          "timestamp": 1748818931978,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748646129626,
           "price": 0,
           "formattedPrice": "Free",
@@ -55559,6 +55567,27 @@
           "timestamp": 1748628179678,
           "price": 129.99,
           "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6470196512": {
+    "name": "Oaken",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748818931978,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
           "inAppPurchases": {}
         }
       ]

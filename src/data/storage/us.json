@@ -20856,6 +20856,23 @@
     "history": [
       [
         {
+          "timestamp": 1748818931978,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Unlock all stages": "$0.99",
+            "Free Checkpoints": "$0.99",
+            "Atom": "$0.99",
+            "Chloe": "$0.99",
+            "B.I.G.": "$0.99",
+            "Snake": "$0.99",
+            "Tiger": "$0.99",
+            "Large Coin Pack": "$2.99",
+            "Emo": "$0.99",
+            "Mia": "$0.99"
+          }
+        },
+        {
           "timestamp": 1748815340544,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -75722,6 +75739,27 @@
           "timestamp": 1748628179678,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6470196512": {
+    "name": "Oaken",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748818931978,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
           "inAppPurchases": {}
         }
       ]
