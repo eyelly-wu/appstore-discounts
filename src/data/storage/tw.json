@@ -43648,12 +43648,29 @@
       "Priority 10k for lifetime": "$590.00",
       "Priority 100k for 1 year": "$190.00",
       "Priority 100k for 1 month": "$20.00",
-      "Priority 10k for 1 year": "$320.00",
+      "Priority 10k for 1 year": "$290.00",
       "Priority 10k for 1 month": "$30.00",
       "PRO version discounted": "$90.00",
       "PRO version": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748790121926,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "PRO version": "$90.00",
+            "PRO version discounted": "$90.00",
+            "Priority 10k for 1 month": "$30.00",
+            "Priority 10k for 1 year": "$290.00",
+            "Priority 100k for 1 month": "$20.00",
+            "Priority 100k for 1 year": "$190.00",
+            "Priority 10k for lifetime": "$590.00",
+            "Priority 100k for lifetime": "$390.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
