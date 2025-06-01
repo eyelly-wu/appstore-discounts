@@ -959,6 +959,23 @@
     "history": [
       [
         {
+          "timestamp": 1748811724944,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "HK$ 58.00",
+            "ETC Module": "HK$ 48.00",
+            "SPL Graph Module": "HK$ 88.00",
+            "Polarity Test Module": "HK$ 32.00",
+            "SoundScope VR": "HK$ 188.00",
+            "IR Module": "HK$ 388.00",
+            "Speaker Distortion": "HK$ 48.00",
+            "VU Meter": "HK$ 22.00",
+            "SPL Traffic Light": "HK$ 88.00",
+            "Impedance Module": "HK$ 228.00"
+          }
+        },
+        {
           "timestamp": 1748808146556,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -19500,7 +19517,8 @@
       "超大型代幣包": "HK$ 88.00",
       "促銷包": "HK$ 188.00",
       "中型金錢包": "HK$ 38.00",
-      "Small Blood Money Pack": "HK$ 18.00"
+      "Small Blood Money Pack": "HK$ 18.00",
+      "Limited Time Offer": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -19517,10 +19535,26 @@
       "Jaeger Sniper Rifle": "HK$ 188.00",
       "超大型代幣包": "HK$ 88.00",
       "促銷包": "HK$ 188.00",
-      "中型金錢包": "HK$ 38.00",
-      "Small Blood Money Pack": "HK$ 18.00"
+      "中型金錢包": "HK$ 32.00",
+      "Small Blood Money Pack": "HK$ 18.00",
+      "Limited Time Offer": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748811724944,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Limited Time Offer": "HK$ 118.00",
+            "超大型代幣包": "HK$ 88.00",
+            "超大型金錢包": "HK$ 58.00",
+            "促銷包": "HK$ 188.00",
+            "新手包": "HK$ 22.00",
+            "中型金錢包": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748462542622,
@@ -30768,6 +30802,20 @@
     "history": [
       [
         {
+          "timestamp": 1748811724944,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Ultimate Detective's Package": "HK$ 288.00",
+            "Ultimate Detective’s Package": "HK$ 148.00",
+            "Sherlock Theme": "HK$ 58.00",
+            "Tropical Mystery Theme": "HK$ 58.00",
+            "Murder Express train station": "HK$ 32.00",
+            "Classic Mansion": "HK$ 32.00",
+            "Ultimate Detective Collection": "HK$ 188.00"
+          }
+        },
+        {
           "timestamp": 1748808146556,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -33942,6 +33990,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748811724944,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "HK$ 32.00",
+            "原版怪獸繼承卡牌包": "HK$ 148.00",
+            "怪獸繼承": "HK$ 38.00",
+            "覺醒魔王完整卡牌包": "HK$ 228.00",
+            "原版設施卡牌包": "HK$ 68.00",
+            "原版魔王完整卡牌包": "HK$ 228.00",
+            "原版地宮卡牌包": "HK$ 148.00",
+            "原版魔王權能卡牌包": "HK$ 148.00",
+            "原版魔王加速卡牌包": "HK$ 68.00",
+            "原版怪獸卡牌包": "HK$ 68.00"
+          }
+        },
         {
           "timestamp": 1748808146556,
           "price": 32,
