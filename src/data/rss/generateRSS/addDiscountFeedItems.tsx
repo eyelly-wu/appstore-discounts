@@ -1,8 +1,8 @@
 import React, { render } from 'jsx-to-md'
 import { Feed } from 'feed'
 import { getTranslate } from '@/data/i18n'
-import { homepage } from '../../../../package.json'
 import { regionInAppPurchasesTextMap } from 'appinfo.config'
+import { Translate } from 'i18n-pro'
 
 function getShowDescription(discountInfo: DiscountInfo) {
   const { discounts } = discountInfo
@@ -44,6 +44,8 @@ function getShowContent(
     screenshotUrls = [],
     ipadScreenshotUrls = [],
     appletvScreenshotUrls = [],
+    formattedPrice,
+    inAppPurchases,
   } = discountInfo
 
   const discountInfoContent = (() => {
@@ -108,12 +110,47 @@ function getShowContent(
     )
   })()
 
+  const priceInfo = (() => {
+    const inAppPurchasesInfo = Object.entries(inAppPurchases).reduce(
+      (res, [key, value]) => {
+        res.push({ name: key, price: value })
+        return res
+      },
+      [],
+    )
+
+    return (
+      <>
+        <h2>{t('全部价格信息')}</h2>
+        <p>
+          {t('价格')}：<b>{formattedPrice}</b>
+        </p>
+        {inAppPurchasesInfo.length && (
+          <>
+            <h3>{regionInAppPurchasesTextMap[region]}</h3>
+            <ul>
+              {inAppPurchasesInfo.map((item) => {
+                const { name, price } = item
+                return (
+                  <li>
+                    {name}：<b>{price}</b>
+                  </li>
+                )
+              })}
+            </ul>
+          </>
+        )}
+      </>
+    )
+  })()
+
   return render(
     <>
       <a href={trackViewUrl}>
         <img src={artworkUrl60} />
       </a>
       {discountInfoContent}
+      {priceInfo}
       <h2>{t('应用描述')}</h2>
       <p>{description}</p>
       {(screenshotUrls.length ||
