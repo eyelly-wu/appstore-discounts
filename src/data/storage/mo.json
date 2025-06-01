@@ -36434,11 +36434,16 @@
       "Orient Express": "USD 2.99",
       "Cherry Blossom Tokyo Board": "USD 5.99",
       "Victorian London Marine Bundle": "USD 11.99",
-      "The Slam Dunk Bundle": "USD 4.99",
+      "The Slam Dunk Bundle": "USD 6.99",
       "Blazin' Blue the Monster Truck": "USD 9.99",
       "Transylvania Marine Bundle": "USD 11.99",
       "Paris Marine Bundle": "USD 11.99",
-      "Five Dice Bundle": "USD 12.99"
+      "Five Dice Bundle": "USD 12.99",
+      "Fantasy Beach Bundle": "USD 11.99",
+      "Starseeker Token": "USD 9.99",
+      "Enchanted Forest Marine Bundle": "USD 11.99",
+      "LA Monstropolis Marine Bundle": "USD 11.99",
+      "The Rainbow Bundle": "USD 11.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -36457,9 +36462,30 @@
       "Blazin' Blue the Monster Truck": "USD 9.99",
       "Transylvania Marine Bundle": "USD 11.99",
       "Paris Marine Bundle": "USD 11.99",
-      "Five Dice Bundle": "USD 12.99"
+      "Five Dice Bundle": "USD 12.99",
+      "Fantasy Beach Bundle": "USD 11.99",
+      "Starseeker Token": "USD 9.99",
+      "Enchanted Forest Marine Bundle": "USD 11.99",
+      "LA Monstropolis Marine Bundle": "USD 11.99",
+      "The Rainbow Bundle": "USD 11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748808146556,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Fantasy Beach Bundle": "USD 11.99",
+            "Starseeker Token": "USD 9.99",
+            "Enchanted Forest Marine Bundle": "USD 11.99",
+            "LA Monstropolis Marine Bundle": "USD 11.99",
+            "The Rainbow Bundle": "USD 11.99",
+            "Victorian London Marine Bundle": "USD 11.99",
+            "The Slam Dunk Bundle": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746993733281,
