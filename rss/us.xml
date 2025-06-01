@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-01T03:51:15.422Z</updated>
+    <updated>2025-06-01T22:23:07.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-01T03:51:15.423Z</updated>
+        <updated>2025-06-01T22:23:07.707Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 01 Jun 2025 03:51:15 GMT</id>
+        <id>rankingusSun, 01 Jun 2025 22:23:07 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-01T03:51:15.423Z</updated>
+        <updated>2025-06-01T22:23:07.707Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -59,7 +59,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>900</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
     </tr>
     <tr>
@@ -92,6 +92,29 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>1</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1038014543">Day R Premium: last world war</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Handful of caps</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -228,6 +251,91 @@ feedId:49753370488353792+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Day R Premium: last world war]]></title>
+        <id>Day R Premium: last world war-us-1748815340544</id>
+        <link href="https://apps.apple.com/us/app/day-r-premium-last-world-war/id1038014543?uo=4"/>
+        <updated>2025-06-01T22:02:20.544Z</updated>
+        <summary type="html"><![CDATA[Handful of caps: $1.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/day-r-premium-last-world-war/id1038014543?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/40/cb/e040cbb8-04ca-9935-b2b1-def693d42b5b/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Handful of caps：</strong><span>$1.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $1.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$2.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Handful of caps：<b>$0.99</b>
+  </li><li>
+    Pile of caps：<b>$4.99</b>
+  </li><li>
+    Case with caps：<b>$19.99</b>
+  </li><li>
+    Sausepan of caps：<b>$9.99</b>
+  </li><li>
+    Special pack：<b>$4.99</b>
+  </li><li>
+    Great pack：<b>$9.99</b>
+  </li><li>
+    Small pack：<b>$0.99</b>
+  </li><li>
+    Big pack：<b>$19.99</b>
+  </li><li>
+    Standart pack：<b>$1.99</b>
+  </li><li>
+    Seasonal event item：<b>$19.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.
+
+Benefits of Premium version:
+- Unique pet Raven
+- Starter Kit
+- Caches of useful items in shelters
+- Expanded selection of perks
+- Chat without any limitations
+- Reduced waiting time between parcels
+- Access to all kinds and colors of map markers
+
+Can you survive in the world destroyed after a nuclear war? With radiation, hunger and diseases around you. You have to cross the whole country and save your family. Who knows if they are alive, or maybe radiation and deadly virus have already reached them? Reveal a secret of the apocalypse and get your memories back during a journey across the huge territory of the USSR in the 80th. 
+
+It is not easy to survive after apocalypse. You'll face the real hungry games! Monsters, zombie, thirst, uncountable diseases and injuries, blood-thirsty enemies – you have to fight it all. Craft all your resources: weapons, clothes, means of transport. 
+
+- Hardcore survival:
+Hunger, zombie and radiation won't give you a chance to relax.
+
+- Realistic world:
+The turn of the seasons, huge map of USSR and more than 2500 different towns and cities. Hunt animals, but be careful: even rats can injure you seriously! Explore the wilderness!
+
+- A lot of opportunities:
+Multicraft, obtaining skills, hundreds of crafting schemes, a lot of ammunition.
+
+- People and stories:
+Interesting quests and helpful allies. An open game world.
+
+- Improve your skills:
+Mechanics, medicine, chemistry and many others.
+
+- Cooperative mode:
+The Online mode  with a chat room, exchange of items and united fightings. Multiplayer survival game.
+
+Explore the abandoned houses and shelters. Find weapon and build transport using various materials.
+Remember everything you learnt on chemistry and physics! It is the most realistic surviving game! 
+
+Features: 
+- Сraft system – get resources, hunt, find useful objects or weapon and create your own one! 
+- Hardcore simulator of survival 
+- Journey across the wilderness map in the multiplayer mode 
+- Choose the difficulty mode: sandbox, real life or online
+War never changes. In 1985 USSR went down before an unknown enemy. In a few days the entire country became a radioactive wasteland - violence, hunger and diseases reign here now. When you no longer loose in the fight with the death, the other survivors wait for you in the cooperative - the Online mode let you survive together dealing with difficulties, talking in the chat room and sending gifts to each other.
+
+User agreement: http://tltgames.ru/license-agreement-en
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/43/f9/2043f909-0427-85fc-0380-c78d8c635a72/37839167-aa9a-4447-a81b-48596708c9e1_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/8b/64/d18b6436-dbab-aa76-cd34-fde6a0017f60/abaf8bc1-c87d-4066-9855-f110c7356137_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/46/62/5a4662b0-8daf-bb02-dcd7-88cdc881ac8c/56a1afb9-8d5a-457f-a9f3-f0fe0644cd6d_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/3b/28/7a3b2824-3ac2-85f4-b43e-ab46b5ade311/afa3f761-86f4-490c-9a8f-c6f7b1015cfa_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/13/37/6213373f-0cec-fcdc-5031-e64d0f731948/abde20fe-0528-417a-af2e-cdda1c652def_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/51/1f/cc511f3f-3f26-3240-6af2-60e6418c8cbc/4ab3a89a-de25-4365-b883-e4b25d5d4377_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/79/01/627901e8-e012-b090-c78b-3585b0e1ae16/10e16d1f-4f6d-414b-a1bc-02c0bac97de7_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/e5/31/08e53100-b2a7-bc39-e566-18c7620edcd4/70a632b4-7110-44a4-8f3c-b16630226a71_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/c0/02/91c002c9-9700-0466-f9cd-053e636af6f2/55b21187-aa05-4f77-822a-8fd16cae0632_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/f2/c7/3df2c73e-f7fc-3f6c-a191-ba6861c4cdad/149c588f-631e-4221-ac9a-71c5d60aae73_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/52/94/0e529456-2272-403e-b28c-9b314d5a2678/844a140a-b823-4849-aeab-841e1c22ad82_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/e3/31/f7e331ba-1dfe-5957-552f-199e1d483e56/65fcbeaf-0f41-4f84-80de-3687911f1afe_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/45/53/8f4553f6-790b-32ac-526f-ad768ac24913/c88343cd-bc58-42f6-b1e8-a9fa3539ade4_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/25/b3/c025b3f5-90cc-fc0c-6ae1-e8431823b5c2/c9de7bf8-fdc6-44dc-aaee-5661465f27cf_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/7f/6d/287f6d5d-0a21-ccf9-964a-35746ace6a48/bf611f0e-f026-4332-9de5-fe7e0cb877b3_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/90/0a/c0900a56-51c1-4683-dff0-6293b324521d/cb6b77fb-bdaa-4c67-83cd-930ee49974d2_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/5e/eb/465eeb5c-94d2-e859-b0f8-636a8ac5100c/f66d531d-e15c-439c-b597-23f7f2c1cf2a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/79/cb/dd79cbaf-ee24-588f-5a24-e79cbc7f1385/5ed0c035-585b-438e-8e19-22c60629632e_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/ec/65/b0ec6594-3912-6653-aa86-e41c9ff5db12/5f03263e-ebf9-4ec2-9136-5e48239b77af_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ed/f1/f0edf163-11d1-ab0f-ae20-97d71e75d7d7/f729dcc9-441d-445e-9ec7-ba8570ff3f1c_9.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wall of insanity]]></title>
         <id>Wall of insanity-us-1748748653983</id>
         <link href="https://apps.apple.com/us/app/wall-of-insanity/id1580067723?uo=4"/>
@@ -239,7 +347,9 @@ feedId:49753370488353792+userId:73658201673997312
   Discount Information（Price：<span>$2.99</span> → <b>
   <strong>$0.69</strong>
 </b><span>[$0.49 ~ $2.99]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.69</b>
+</p><h2>Application Description</h2><p>
   Wall of Insanity is a new project from the creators of the Slaughter game series.
 It features a dark storyline, intense action, and a mystical journey into a dead, smoldering world.
 You will face the unknown. A descent into a kingdom of anxiety and madness. The path through the abyss will be difficult, the trek extremely dangerous, and you will be left almost hopeless.
@@ -276,7 +386,9 @@ Key Features:
   Discount Information（Price：<span>$9.99</span> → <b>
   <strong>$4.99</strong>
 </b><span>[$4.99 ~ $19.99]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$4.99</b>
+</p><h2>Application Description</h2><p>
   Available exclusively on the App Store, meticulously designed to be beautifully powerful, and painstakingly engineered for iPad — Inspire Pro delivers an incredibly fast and realistic painting, drawing, and sketching experience that you can take with you wherever you go and use whenever inspiration strikes.
 
 Our proprietary painting engine Sorcery™ takes full advantage of the GPU to render brush strokes with brilliant 64-bit color, laser-sharp sub-pixel precision, and insanely fast speed. While the strokes of a wet oil paint brush look beautiful on their own, the breathtaking blending effects of a dry brush will absolutely stun you. Graze the canvas with just a bit of pressure to add a subtle blur to your artwork or use stronger pressure to actually mix existing colors on the canvas together to create new ones.
@@ -327,7 +439,19 @@ Visit snowCanoe.com to check out more screenshots, videos, and artwork.
   Discount Information（Price：<span>$0.39</span> → <b>
   <strong>$0.29</strong>
 </b><span>[$0.29 ~ $0.49]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.29</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    DLC "Time"：<b>$0.49</b>
+  </li><li>
+    Donation I：<b>$1.99</b>
+  </li><li>
+    Donation III：<b>$9.99</b>
+  </li><li>
+    Donation II：<b>$4.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
   The Secret Elevator Remastered — an atmospheric adventure with first-person horror elements. 
 
 Take on the role of a person trapped inside their dream. This place is filled with a mix of memories and nightmares. To get out, you have to open a small door.
@@ -356,6 +480,30 @@ Immerse yourself in the game's history, walk through many endings, and discover 
     <strong>Ultimate Access：</strong><span>$139.99</span> → <b>
   <strong>$12.99</strong>
 </b><span>[$12.99 ~ $139.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Phrase sharing：<b>$3.99</b>
+  </li><li>
+    Font Access：<b>$4.99</b>
+  </li><li>
+    Pro Access：<b>$8.99</b>
+  </li><li>
+    Ultimate Access：<b>$12.99</b>
+  </li><li>
+    Tech Silicone Theme：<b>$0.99</b>
+  </li><li>
+    Tech Gears Theme：<b>$0.99</b>
+  </li><li>
+    Tech Bundle：<b>$1.99</b>
+  </li><li>
+    Tech Wires Theme：<b>$0.99</b>
+  </li><li>
+    Nature Aurora Theme：<b>$0.99</b>
+  </li><li>
+    Nature Bundle：<b>$1.99</b>
   </li>
 </ul><h2>Application Description</h2><p>
   Tired of typing the same response over and over all the time? Phraseboard customizes and categorizes your keyboard with easy to access phrases. 
@@ -430,7 +578,9 @@ Terms of Service : https://phraseboard.wixsite.com/phraseboard/terms
   Discount Information（Price：<span>$2.99</span> → <b>
   <strong>$1.99</strong>
 </b><span>[$1.99 ~ $2.99]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h2>Application Description</h2><p>
   Otaku’s Adventure is a unique anime-style AVG that tells the story of an Otaku who has been single since birth and craves to be loved. After the romantic encounter with three charming girls, your life will take an unexpected turn: to go on a run-away adventure with Waifu, an outer-space journey with Gohard, or an exploration in a fantasy world with (´･ω･`). 
 
 - Kick start your thrilling and romantic adventure and release your Otaku energy!
@@ -457,7 +607,9 @@ Contact: indie@xd.com
   Discount Information（Price：<span>$0.99</span> → <b>
   <strong>Free</strong>
 </b><span>[Free ~ $0.99]</span>）
-</h2><h2>Application Description</h2><p>Classic Maze game is a classic puzzle game, perfect for training your brain during a short break. It is designed as a very simple single player game played by sliding through fun retro mazes. Play a quick game and challenge 500 mazes to become the maze king.</p>]]></content>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h2>Application Description</h2><p>Classic Maze game is a classic puzzle game, perfect for training your brain during a short break. It is designed as a very simple single player game played by sliding through fun retro mazes. Play a quick game and challenge 500 mazes to become the maze king.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mobile Empire]]></title>
@@ -471,7 +623,9 @@ Contact: indie@xd.com
   Discount Information（Price：<span>$2.99</span> → <b>
   <strong>$1.99</strong>
 </b><span>[$1.99 ~ $2.99]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h2>Application Description</h2><p>
   Game Introduction
 Mobile Empire is a simulation game based on "manufacturing mobile phones", with a high degree of freedom. You will play as an entrepreneur back in 2001. You acquired the initial capital from a mystery investor because of your unique vision and created a technological enterprise that may change the world. The game starts from 2001 and ends in 2035, during which you will start with old school smartphones in the early R&D stages, progressing until AR smart glasses can be independently used. During the 35 years, you will experience, witness, and promote the magnificent development process of smartphones. You have the chance to develop your company into the world's number one technological enterprise.
 
@@ -526,7 +680,9 @@ Service Email：indie@xindong.com
   Discount Information（Price：<span>$2.99</span> → <b>
   <strong>$1.99</strong>
 </b><span>[$1.99 ~ $2.99]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h2>Application Description</h2><p>
   Juicy Realm is a roguelike game with fruits as enemies. It is set in a world in which the line between animals and plants is blurred. It began with the tipping of the food-chain, which forced the humans to establish an outpost and begin an investigation in the region where the first species of mutated plants was discovered. The military has prepared a vast number of powerful weapons, with you leading the vanguard forces to wage this long war.
 
 Subverted Order
@@ -568,7 +724,9 @@ iPad Mini 4 and higher
   Discount Information（Price：<span>$4.99</span> → <b>
   <strong>$1.99</strong>
 </b><span>[$1.99 ~ $4.99]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h2>Application Description</h2><p>
   A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish.
 
 ABOUT THIS GAME
@@ -630,7 +788,9 @@ Service email: TotheMoon@xindong.com
   Discount Information（Price：<span>$2.99</span> → <b>
   <strong>$1.99</strong>
 </b><span>[$1.99 ~ $2.99]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h2>Application Description</h2><p>
   ICEY is a 2D side-scrolling action game. As you follow the narrator's omnipresent voice, you will see through ICEY's eyes and learn the truth about her world. 
 
 “Alright, you caught me! This ISN'T really just a simple 2D action game, and you WON'T be seeing through ICEY's eyes... NOR will you learn the truth about her world." says the narrator. 
@@ -702,6 +862,12 @@ Service Email: ICEY@xindong.com
     <strong>Premium Features：</strong><span>$4.99</span> → <b>
   <strong>$2.99</strong>
 </b><span>[$0.99 ~ $4.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Premium Features：<b>$2.99</b>
   </li>
 </ul><h2>Application Description</h2><p>
   Are you tired of interruptions caused by ads in your YouTube videos?
@@ -788,7 +954,25 @@ Privacy Policy: playnav.vidiom.app/privacy-policy
   Discount Information（Price：<span>$0.99</span> → <b>
   <strong>Free</strong>
 </b><span>[Free ~ $0.99]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    13 Gems：<b>$7.99</b>
+  </li><li>
+    6 Gems：<b>$3.99</b>
+  </li><li>
+    1 Gem：<b>$0.99</b>
+  </li><li>
+    48 Gems：<b>$28.99</b>
+  </li><li>
+    150 Gems：<b>$79.99</b>
+  </li><li>
+    74 Gems：<b>$40.99</b>
+  </li><li>
+    28 Gems：<b>$14.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
   Become a Legend! Capture over 2000 Animated Monsters and Duel in Real-Time PvP!
 
 Form your team and battle for victory! Capture, train, and evolve to become the champion in one of the biggest monster battling RPGs!
@@ -855,6 +1039,20 @@ https://www.zigzagame.com/privacy-policy/
   <strong>$2.99</strong>
 </b><span>[$2.99 ~ $3.99]</span>
   </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$4.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Treasures Editor：<b>$0.99</b>
+  </li><li>
+    Dawn of Heroes：<b>$3.99</b>
+  </li><li>
+    Art Upgrade Pack：<b>$2.99</b>
+  </li><li>
+    Feature DLC：<b>$2.99</b>
+  </li><li>
+    Heroes Assemble：<b>$2.99</b>
+  </li>
 </ul><h2>Application Description</h2><p>
   Requirements of The Last Warlord:
 To ensure the game's normal operation, it is required that iOS version should be higher than iOS Version 16 and use iPhone X or X Plus, iPhone 12 or above, or iPad Air 2, iPad mini 4, iPad 2017 or any iPad Pro to run the game. 
@@ -906,7 +1104,21 @@ The achievement system allows players to collect and show off achievements.
   Discount Information（Price：<span>$2.99</span> → <b>
   <strong>Free</strong>
 </b><span>[Free ~ $2.99]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    510 Stellar Gems：<b>$4.99</b>
+  </li><li>
+    1030 Stellar Gems：<b>$9.99</b>
+  </li><li>
+    100 Stellar Gems：<b>$0.99</b>
+  </li><li>
+    300 Stellar Gems：<b>$2.95</b>
+  </li><li>
+    2080 Stellar Gems：<b>$19.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
   Rotaeno is a heart-pounding, thumb-tapping, wrist-flicking rhythm game that fully utilizes your device's gyroscope for an unprecedented musical experience.
 Rotate your device to hit notes as you soar through the stars. Drop into your headphones and immerse yourself in the kick beats and stellar synths of this astronautical adventure!
 
@@ -936,6 +1148,26 @@ Concerns or feedback? Contact us: rotaeno@xd.com
     <strong>Coupon of the Greedy Cave：</strong><span>$3.99</span> → <b>
   <strong>$2.99</strong>
 </b><span>[$0.99 ~ $3.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    [A heap of crystals]：<b>$0.99</b>
+  </li><li>
+    [A box of crystals]：<b>$2.99</b>
+  </li><li>
+    [A package of crystals]：<b>$3.99</b>
+  </li><li>
+    [A big package of crystals]：<b>$9.99</b>
+  </li><li>
+    [A chest of crystals]：<b>$19.99</b>
+  </li><li>
+    Coupon of the Greedy Cave：<b>$2.99</b>
+  </li><li>
+    Package4：<b>$9.99</b>
+  </li><li>
+    [A big chest of crystals]：<b>$49.99</b>
   </li>
 </ul><h2>Application Description</h2><p>
   In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day. 
@@ -975,7 +1207,15 @@ https://www.facebook.com/greedycave/
   Discount Information（Price：<span>$4.99</span> → <b>
   <strong>$2.99</strong>
 </b><span>[$2.99 ~ $4.99]</span>）
-</h2><h2>Application Description</h2><p>
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$2.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Home Sweet Home：<b>$0.99</b>
+  </li><li>
+    Hello World!：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
   Cyber Manhunt is a Cyber-Style, Realistic- Society theme, Story-Rich indie game. The game taked place in the Republic of Alivia with some different theme stories ,but the fate of the characters is closely related in there. It will focus on social issues liking big data, hacking, citizen privacy etc... 
 
 We want to reveal the profound themes behind the stories with wonderful plots and gamification. And let players pay more attention to Cyber Violence and Privacy Breaches.
@@ -1013,172 +1253,5 @@ Senior researcher of Titan Dr. Lucrezia died in a terrible car accident on the s
 ◆Picture Analysis: You can get valuable information and relevant clues from pictures.
 More advanced hacking methods will be unlocked later!
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/09/63/1f/09631f1f-c8d2-53cb-382c-2aaaa8b03978/b06ed38e-0bfc-4d1f-abe9-9557edcbe6bc_2208.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1c/8c/ca/1c8cca77-4287-a14e-96ae-4978b2e85dcc/a065e6bb-677c-4d4b-90c2-5355ad574556_QQ20220928-0.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/65/f4/8f/65f48f21-3bb5-a5e6-50f0-557cdfe54791/d6c8bead-b708-496d-a380-fdeab0fa31fe_QQ20220928-20.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a0/a5/20/a0a520c4-7bc6-6a85-db49-1f0f12804899/4c294ed6-ffde-4d46-a2db-9c675c61cc39_QQ20220928-12.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/82/9b/23/829b23ff-7070-6689-e77b-e73c9d454f89/103a1775-25cd-41cc-8c0a-837d74af7c99_QQ20220928-26.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/89/cd/71/89cd71f6-86b0-e129-c1f5-4577f34ad5ce/7ec5bf86-6f3c-4041-bd44-4d03877a0ee6_QQ20220928-7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/04/79/7e0479c8-4fa7-416d-c6fe-46c59a13875e/ec5aac03-6ba0-44f2-801a-3a8698b9afa2_QQ20220928-22.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ef/12/30/ef1230f7-5e7e-cafc-9f0a-c8743ad96bfa/c3241fe6-d425-43ad-ac70-368efb3ebfa8_QQ20220928-13.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/80/82/3c808259-f015-aa29-6242-0bce1a31acdb/b45eb479-f7b9-4afa-8eac-a99f1330de83_QQ20220928-3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2b/f0/aa/2bf0aaac-0c6c-60c0-a8b6-12e4da31826a/a785652f-3c39-481f-8f20-c09bada5b0f5_QQ20220928-10.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/5a/35/46/5a3546b4-a80d-70a3-8cee-bdff3e5d5ff2/8a0a9c33-737f-4e1a-9501-f6edd3f2fc0a_2732.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/25/b0/f1/25b0f1d1-b16e-0a96-c63b-655b0e6683ea/6ee61743-1842-4e11-a322-57a37dcc172b_21.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e0/a9/64/e0a96496-02e8-22bf-b9f5-f02af0eab486/24d70c38-e6b3-4b4c-828e-6bd21df7c27e_14.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/40/94/4b/40944bf0-9b22-2e82-0bba-8c094de44ce6/262a467c-9ad2-43d8-a1c8-a715873244d8_9.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/43/63/9a/43639aef-482c-990a-61c9-59becde605b9/66656253-8920-45d1-8c2b-8e9cfd5eb052_y1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/be/7a/28/be7a28e8-e7b8-5ec9-480e-1088dcb58579/396cc804-72a5-4d15-a546-d4114e8e8dde_16.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8e/38/bf/8e38bfb6-14df-6a28-f7ce-69d4a49c06b2/b0d20e51-a57d-4068-8444-c6a87197561b_18.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/39/6e/a9396eb3-24e1-db39-3d64-f7d56261d41a/66fb9935-dda0-441c-8fc2-cf284e962e37_20.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9b/2a/d0/9b2ad0bd-647b-ed1c-7354-0a6f494b766c/5668175f-307c-42f5-b0a9-d37863b5452e_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/02/0c/9e/020c9e79-8d17-a3c0-b452-bee53ef3d38d/3375bfc3-a40a-46f0-8f0e-f78fb1e5d866_13.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkySafari 7 Pro]]></title>
-        <id>SkySafari 7 Pro-us-1748541785741</id>
-        <link href="https://apps.apple.com/us/app/skysafari-7-pro/id1567658979?uo=4"/>
-        <updated>2025-05-29T18:03:05.741Z</updated>
-        <summary type="html"><![CDATA[Price: $49.99 → $24.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/skysafari-7-pro/id1567658979?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/d7/8e/dfd78eb6-7768-fddc-ab46-01a22f91dca7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$49.99</span> → <b>
-  <strong>$24.99</strong>
-</b><span>[$12.99 ~ $49.99]</span>）
-</h2><h2>Application Description</h2><p>
-  SkySafari makes stargazing a simple pleasure. It has the largest database of any astronomy app, includes every comet, asteroid, satellite & solar system object ever discovered, offers unparalleled accuracy, advanced planning and logging tools, flawless telescope control, and provides the very best experience under the stars when you depend on it. Don’t postpone joy. Discover why SkySafari is the #1 recommended astronomy app for serious amateur astronomers since 2009.
-
-Here's what’s new in version 7:
-
-+ Complete support for iOS 18 and iPhone 16. Version 7 brings a new and immersive stargazing experience.
-
-+ Events Finder - go to the new Events section to unlock a powerful search engine that finds astronomical events visible tonight and far into the future. The finder dynamically generates a listing of moon phases, eclipses, planetary moon events, meteor showers and planetary phenomenon such as conjunctions, elongations and oppositions.
-
-+ Notifications - the notifications section has been completely revamped to allow you to customize and manage which events trigger an alert notification on your device.
-
-+ Telescope Support - telescope control is at the heart of SkySafari.  Version 7 takes a giant leap forward by supporting ASCOM Alpaca, INDI & StarSense Explorer.  These next generation control protocols allow you to effortlessly connect to hundreds of compatible astronomical devices.
-
-SkySafari 7 brings social stargazing to mobile devices with two new features to help you connect with other like minded people.
-
-OneSky - allows you to see what other users are observing, in real time.  This feature highlights objects in the sky chart and indicates with a number how many users are observing a particular object.
-
-SkyCast - allows you to guide a friend or group around the night sky through their own copy of SkySafari. After initiating SkyCast, you can generate a link and conveniently share it with other SkySafari users via text message, apps or social media accounts.
-
-+ Sky Tonight -  jump to the new Tonight section to see what’s visible in your sky tonight.  Expanded information has been designed to help plan your night and includes  Moon & Sun info, calendar curations, events and the best positioned deep sky and solar system objects.
-
-+ Improved Observation Tools - SkySafari is the perfect tool to help you plan, record and organize your observations.  New workflows make it easier to add, search, filter and sort data.
-
-+ Home Screen and Lock Screen Widgets  keep your favorite astro information at your fingertips.
-
-The Small Touches:
-
-+ You can now edit the Jupiter GRS Longitude Value in the Settings.
-+ Better Moon Age calculation.
-+ New grid & reference options allow you to display Solstice and Equinox markers, Orbit + Node markers for all solar system objects, and tick marks and labels for the Ecliptic, Meridian, and Equator reference lines.
-+ Previous In-app Purchases are Now Free -  this includes the H-R diagram, 3D Galaxy view, and the PGC galaxy and GAIA star catalogs. Enjoy.
-+ Many more.
-
-If you haven't used SkySafari 7 Pro before, here's what you can do with it:
-
-+ Hold your device up, and SkySafari 7 Pro will find stars, constellations, planets, and more!
-
-+ Simulate the night sky up to 5MM years in the past or future! Animate meteor showers, conjunctions, eclipses, and other celestial events.
-
-+ Control your telescope, log and plan your observations.
-
-+ Optionally backup all of your observing data in our secure cloud storage and make it easily accessible to multiple devices as well as from our new web interface, LiveSky.com.
-
-+ Augmented Reality (AR) mode
-
-+ Night Vision.
-
-+ Orbit Mode. Leave the Earth’s surface behind, and fly through our solar system.
-
-+ Galaxy View shows the position of deep sky objects in our Milky Way!
-
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-https://www.livesky.com/privacy.html
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/4b/66/ec4b6627-9e7a-4d7b-9e59-9dc3c22b2444/fc114c40-4a86-4151-acf1-135348f90def_01_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/41/c8/3441c8a2-9ddb-0ba4-54a2-7d9c33d55819/7d3c5a19-ce1e-493a-b97e-ac44bfe1e3e2_02_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3b/25/823b255b-d6de-2865-4001-54ae3b77ca74/9477ad0f-a87f-48fe-87df-b7d86cfddf29_03_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/3f/6f/973f6fc6-a487-a6d7-d84e-83bcd67eb617/f41d04a7-f92a-4bf8-8326-44a5624d4c52_04_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/33/a6/e733a6c5-9983-9cce-de47-91f52ce960f5/9b64ba56-4005-424b-9ac4-4adc03e276a6_10_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/29/a9/3729a943-c485-0530-a9fe-699afd5b40a1/0bcedd32-ad40-475d-8c85-564a3ca8994b_08_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/11/87/ee1187f7-9aa6-a26e-6044-d64a7d862df3/bb8fb1c7-f236-4a78-8eb8-8da51ea5170d_09_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/4a/46/754a46a6-9c84-cfd7-19bd-95f14a12c20f/6d960956-086f-4094-9879-148483841975_06_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/4f/e3/bb4fe39e-0ac2-3e00-a123-f53195ee038a/c3b22f39-5c7a-46cf-bd83-588d1912b4ea_05_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/47/dc/0547dc56-d76f-05e9-a76b-3d645d075327/b1f682b8-1c05-484a-a311-89c284bdbd28_07_SS7_Screenshot_iPhone.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/2a/01/0c2a01fe-e47e-4cc9-b47a-a110a57d01ea/4042e357-ab43-48ad-bb08-c52c04846921_01_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/cf/1d/fdcf1d78-831e-20e5-8bd5-8226e0de2a1d/a7a0b6ff-94fb-41f8-a3d4-3000abeb9896_02_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/3b/07/813b07ea-0be7-9738-35c5-1334ce61cd23/8a9e5258-db74-4b4e-96a5-b788f79dabe8_03_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c6/78/61c678e7-4d03-8256-6665-9f6cb4ef8fe1/377933b2-01c1-4478-bf01-cfb3687a0c19_04_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/59/e8/bb59e8b6-04aa-55ec-f994-f71e4418a0fa/a8a7bedb-8c9d-4b5e-ad17-4b2430958800_05_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/08/4a/99084abd-62bc-7ee8-584b-a050da479c70/d861049c-217c-49c1-9e9c-c44984660491_06_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/82/39/9e823931-4754-0559-429d-16d381d79ade/385be8d6-bd03-4f58-b9da-f4aba2986b18_07_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/ea/88/edea8817-3658-c7e7-de0c-5f6b7e5eb266/81645ccf-a042-4217-9666-a4d5cc811000_08_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/5d/54/cd5d546d-62e3-cf9c-6103-edb6dcd6ab94/edecb9b2-ea7b-43be-a335-28f63ab96a71_09_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ce/64/a3ce64f7-e854-18de-2bcf-32569ab49314/27ed81ef-4682-4c8b-8ade-92250d6dfbb4_10_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iron Marines: RTS offline game]]></title>
-        <id>Iron Marines: RTS offline game-us-1748538144832</id>
-        <link href="https://apps.apple.com/us/app/iron-marines-rts-offline-game/id1056920931?uo=4"/>
-        <updated>2025-05-29T17:02:24.832Z</updated>
-        <summary type="html"><![CDATA[Hero Dr.Graff: $4.99 → $2.99<br/>Hero Blue Dragon: $6.99 → $4.99<br/>Hero Sha'Tra: $4.99 → $2.99<br/>Hero Ajax: $2.99 → $0.99<br/>Hero Mark X: $6.99 → $4.99<br/>Hero Fate: $2.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/iron-marines-rts-offline-game/id1056920931?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Hero Dr.Graff：</strong><span>$4.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $4.99]</span>
-  </li><li>
-    <strong>Hero Blue Dragon：</strong><span>$6.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $6.99]</span>
-  </li><li>
-    <strong>Hero Sha'Tra：</strong><span>$4.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $4.99]</span>
-  </li><li>
-    <strong>Hero Ajax：</strong><span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>
-  </li><li>
-    <strong>Hero Mark X：</strong><span>$6.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $6.99]</span>
-  </li><li>
-    <strong>Hero Fate：</strong><span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  From the creators of the award winner, Kingdom Rush saga comes the most extraordinary space odyssey. Fight challenging real time strategy sci fi battles on amazing and unknown planets. Command brave soldiers, mighty mechas and powerful aliens against hordes of space monsters, swarms of insectoids and robot armies in a galaxy far far away.
-
-PLAN, ATTACK AND BEAT ALL THE ENEMIES ADAPTING YOUR STRATEGY by changing the role of your troops even in the thick of the combat, from ranger to sniper, from flamethrowers to missile launchers.
-
-ADAPT YOUR STRATEGY by changing the role of your troops even in the thick of battle, from ranger to sniper, from flamethrowers to missile launchers.
-
-RECRUIT AND TRAIN THE GREATEST HEROES in the galaxy, lead them into dangerous territory against near-impossible odds and unleash their mighty powers and abilities.
-
-TURN THE TIDE OF BATTLE with orbital strikes, intelligent mines, support troops, turrets and a wide array of special weapons.
-
-Armies of robots, crushed starships, gigantic monsters, unknown races, brave assaults, desperate rescues, audacious sabotages... the galaxy needs your command.
-
-The galaxy needs the Iron Marines
-
-FEATURES
-
-• 21 CAMPAIGN MISSIONS across three sci fi planets. Each action-packed challenge will have you improve your strategy to save the galaxy!
-• 17 SPECIAL OPERATIONS that will test if you have what it takes to battle your way through space.
-• 40+ UPGRADES to build the ultimate RTS army! Choose between Defense Drones, Napalm Rockets, Ricocheting Blasts, Lethal Weapons and many more.
-• +7 UNITS to bring into battle and give your hero some extra firepower!
-• 8 SPECIAL WEAPONS to unleash hell on your enemies and keep expanding your tactics like space itself! What’s better than a well-placed missile? An orbital strike of 50 high-explosive missiles!
-• DEFEAT UNIQUE BOSSES in epic battles. They are green, mean, killing machines!!! Well… some are machines and these aliens aren’t green… but they’re all massive and determined to crush you. Suit up, Marines!
-• 70+ ACHIEVEMENTS to complete and show everyone you’re the best RTS commander in the whole galaxy!
-• NO WI-FI IN SPACE? No worries, offline play guaranteed!
-• CHOOSE YOUR DIFFICULTY MODE: Casual, Normal or Veteran. Don’t get cocky! Or Do! Your choice!
-• IMPOSSIBLE MODE. Only for the most daring, reckless, all-out-of-bubblegum marines in space. We dare you!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7a/52/1c/7a521cbb-c7d3-8ec4-beeb-38a0e54c91dd/97160efd-9719-4160-bc1b-58a9149dae00_2208x1242_5-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1c/10/60/1c106049-704c-49e2-a3a9-131b1a4790c1/881bf49a-ee09-41e9-9634-579a1e40aed8_2208x1242_4-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8c/f7/76/8cf776e4-afb7-cd06-d013-c00d59ef35a1/d4810c7b-c49a-4fe0-98ad-a81b0bd111fc_2208x1242_2-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ff/05/e3/ff05e335-5676-a714-e2f2-168fc9ff9f39/1e63e89e-a014-4cc4-ba93-4ff51f13eb35_2208x1242_3-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/62/40/8f/62408f5f-ffeb-877e-100d-9d74329af5bf/311f6ebf-e7ab-4966-949d-62e81d8b7967_2208x1242_1-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/94/44/999444fb-cb53-0674-1ef5-3dc072149a7e/en-US_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/8f/db/c68fdb25-8930-7c89-c5cc-ccb81bba7737/en-US_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1c/1b/77/1c1b7764-bb96-4d9e-86d8-d162357fc1f2/f8249606-c251-4b56-a4bb-8a654b1c8deb_2732x2048_5-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/96/8b/9f/968b9f95-655b-316b-700e-530589ad3a03/52ff88db-d532-49dc-bac3-90fe4c0974d9_2732x2048_2-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/6e/3c/6c/6e3c6ce2-5750-4513-345c-2fa3d4227d73/a31260f9-91f3-404b-9feb-d8cdd52bb823_2732x2048_4-ENG__U00281_U0029.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9d/94/1b/9d941bca-fdb1-60f5-bc3d-3459acf86c42/3f979ae8-f794-4577-9f05-6281ad6ca4c4_2732x2048_3-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/4b/52/7e/4b527e02-bea6-319a-e913-caea77c487ab/89cad2d7-8080-4c70-bf94-1d48b178e545_2732x2048_1-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/d1/fe/c6d1fe4f-081c-3a3f-9cb8-0d7f2a0dafa8/en-US_iPadPro_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ff/dc/6a/ffdc6a0b-fd65-ccf4-bac6-b692dad98937/en-US_iPadPro_05.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真武三国  英雄集结]]></title>
-        <id>真武三国  英雄集结-us-1748512956691</id>
-        <link href="https://apps.apple.com/us/app/%E7%9C%9F%E6%AD%A6%E4%B8%89%E5%9B%BD-%E8%8B%B1%E9%9B%84%E9%9B%86%E7%BB%93/id1624326561?uo=4"/>
-        <updated>2025-05-29T10:02:36.691Z</updated>
-        <summary type="html"><![CDATA[SP武将碎片: $39.99 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%9C%9F%E6%AD%A6%E4%B8%89%E5%9B%BD-%E8%8B%B1%E9%9B%84%E9%9B%86%E7%BB%93/id1624326561?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/3b/96/d33b969a-a856-5fd7-efa0-1d258c61dfe2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>SP武将碎片：</strong><span>$39.99</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$3.99 ~ $39.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  游戏特色：
-1）Q版水墨风！
-角色，场景，UI均采用中国古典水墨风格，高端大气上档次，低调奢华有内涵。
-2）百名武将，绝无雷同！
-超过一百位绝无雷同的武将和技能，考验英雄组合，操作和策略。
-3）合体技系统！
-痛快淋漓的合体技系统，简单刺激的触发方式，给您前所未有的战斗体验。
-4）六大职业系统！
-六大职业，五大势力，职业定位更加明确，玩法更加多变。
-5）九大模式！
-战役，挑战，竞赛，无双，奇境，试炼，八阵，领地，袭击九大创新模式，等您来战。
-
-
-※ 如有任何问题和建议，可通过以下方式联系我们，我们一定尽快给您答复！祝您游戏愉快！
-QQ交流群1：9222266
-QQ交流群2：758352295
-QQ交流群3：203399926
-
-微信公众账号：oneonegames
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/07/bd/d807bd30-99bb-9945-a067-03f2c49629fe/f0e4f60a-4954-4bb7-a7ed-c82719cf2327_1242x2208a.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/0f/ad/ff0fad39-6d04-9d56-3dea-da736bde4e5a/51173042-4b5d-495f-acb7-9fd80100b713_1242x2208b.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/03/83/dd038315-3b46-330f-bd3f-2253895ab832/3b207c75-ac77-41f9-8e34-6a9014fc0872_1242x2208c.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/30/b6/8430b68e-e980-5921-9663-ca90d9dcd38c/d9792cae-3b81-4aa2-a246-ce9aea3ca2d2_1242x2208d.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/db/27/78db2794-0b31-a59f-fb14-9ba722268760/90325e9b-a755-48fc-abff-c2c602b8ad3a_1242x2208e.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/b7/ee/0cb7eed8-0c43-e7ab-fa9b-8fd3537b0a72/f6f84a88-d14b-459b-a505-5f2d088c71fd_1242x2208g.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/1e/6a/1d1e6a11-f4d6-7f09-dbce-acfed449a41f/334b0d09-8020-49b0-b80b-be90be09a21d_1242x2208i.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/11/cd/ff11cd62-9246-cc0c-9a87-85c543a51bfb/b51df902-ae39-4c0e-b0a6-0a9cb0980936_1242x2208f.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/aa/ca/25aaca19-0bdb-0330-eb8e-bfed2a39d259/564a53af-659f-48a0-ac07-161ddd4a88a7_1242x2208h.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/e4/82/8de4825a-30f1-8aa7-6e78-042a14b6021c/ce8bb588-760e-4d57-a744-6b12c5109edd_2048x2732a.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/fd/20/3cfd202f-1cb9-50b3-3264-a147fc223239/6917e928-83a9-4207-8966-3eb2fb2c4bdd_2048x2732b.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/27/47/f42747e5-b8c3-7ecd-aac9-8951afca32da/3b8225d4-b514-4514-a5cd-6784137204dc_2048x2732i.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/78/b5/0078b517-307b-724a-34e2-ed26c60b0ada/84150d86-ce21-4bb2-8cb2-312b89c69f1a_2048x2732e.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/6a/b1/7d6ab170-c0a6-348d-22c5-382a01e57785/aab426e1-73cb-4c56-8499-869d6a9ccb3e_2048x2732h.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/ed/1a/a8ed1a7b-fc86-a894-0923-25d9ff0e052b/0392b6eb-2aaa-4771-8bad-dbba4004a03d_2048x2732g.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/db/cc/a6dbccd1-cc53-04fd-80c8-668dde5d8a76/809c68e6-6c95-494b-9f08-e36932c31ba1_2048x2732c.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/d0/4f/d8d04f85-819d-7576-5454-6bb92da7cb31/3a9edbcd-eed8-4552-8968-ff5423b21e48_2048x2732f.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/2c/f6/3e2cf60f-f366-63bc-0ff2-2235d2bd8049/995842d4-a0ed-4041-9108-e8ab73d79bf5_2048x2732d.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
