@@ -35099,7 +35099,9 @@
       "Transylvania Wolf Token": "₺129,99",
       "Euro Trip": "₺129,99",
       "VIP Offer": "₺899,99",
-      "Snowdrop Valley": "₺229,99"
+      "Snowdrop Valley": "₺229,99",
+      "Fantasy Beach Bundle": "₺499,99",
+      "Starseeker Token": "₺449,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -35147,9 +35149,27 @@
       "Transylvania Wolf Token": "₺129,99",
       "Euro Trip": "₺129,99",
       "VIP Offer": "₺899,99",
-      "Snowdrop Valley": "₺229,99"
+      "Snowdrop Valley": "₺229,99",
+      "Fantasy Beach Bundle": "₺499,99",
+      "Starseeker Token": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748872941879,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Fantasy Beach Bundle": "₺499,99",
+            "Starseeker Token": "₺449,99",
+            "Enchanted Forest Marine Bundle": "₺499,99",
+            "LA Monstropolis Marine Bundle": "₺499,99",
+            "The Rainbow Bundle": "₺499,99",
+            "Victorian London Marine Bundle": "₺499,99",
+            "The Slam Dunk Bundle": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748752099287,
