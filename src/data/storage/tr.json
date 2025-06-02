@@ -16085,7 +16085,7 @@
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99",
-      "PLUS": "₺799,99",
+      "PLUS": "₺999,99",
       "GOLD": "₺1.499,99"
     },
     "minPriceInfo": {
@@ -16095,6 +16095,17 @@
       "GOLD": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748898147100,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "GOLD": "₺1.499,99",
+            "PLUS": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748815340544,
