@@ -6656,6 +6656,23 @@
     "history": [
       [
         {
+          "timestamp": 1748827831160,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99",
+            "Minecon - Skin Pack": "USD 0.00"
+          }
+        },
+        {
           "timestamp": 1748793743912,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -31170,7 +31187,13 @@
       "12 標籤紙紋理學習筆記本（數位貼圖套件，豎向）": "USD 6.99",
       "學習每日規劃器（週一開始）": "USD 10.99",
       "商業與專注規劃器": "USD 10.99",
-      "學習每日規劃器 (Sun.Start)": "USD 10.99"
+      "學習每日規劃器 (Sun.Start)": "USD 10.99",
+      "15分鐘數位每日規劃器 - 彩色": "USD 8.99",
+      "有機化學學習筆記本": "USD 6.99",
+      "黑暗學術每日日誌": "USD 7.99",
+      "數位旅行規劃器 - 彩色": "USD 6.99",
+      "數位食譜書 - 彩色（橫向）": "USD 8.99",
+      "逐步韓文書寫練習": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -31309,9 +31332,34 @@
       "12 標籤紙紋理學習筆記本（數位貼圖套件，豎向）": "USD 6.99",
       "學習每日規劃器（週一開始）": "USD 10.99",
       "商業與專注規劃器": "USD 10.99",
-      "學習每日規劃器 (Sun.Start)": "USD 10.99"
+      "學習每日規劃器 (Sun.Start)": "USD 10.99",
+      "15分鐘數位每日規劃器 - 彩色": "USD 8.99",
+      "有機化學學習筆記本": "USD 6.99",
+      "黑暗學術每日日誌": "USD 7.99",
+      "數位旅行規劃器 - 彩色": "USD 6.99",
+      "數位食譜書 - 彩色（橫向）": "USD 8.99",
+      "逐步韓文書寫練習": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748827831160,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "15分鐘數位每日規劃器 - 彩色": "USD 8.99",
+            "有機化學學習筆記本": "USD 6.99",
+            "黑暗學術每日日誌": "USD 7.99",
+            "數位旅行規劃器 - 彩色": "USD 6.99",
+            "數位食譜書 - 彩色（橫向）": "USD 8.99",
+            "逐步韓文書寫練習": "USD 9.99",
+            "旅行規劃模板套件": "USD 3.99",
+            "智慧數位筆記本（抹茶綠）": "USD 7.99",
+            "數位語言學習日誌（抹茶綠）": "USD 6.99",
+            "數位思維導圖筆記本": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748318768441,
@@ -46158,13 +46206,25 @@
     "name": "Hitman: Blood Money — Reprisal",
     "maxPriceInfo": {
       "price": 14.99,
-      "formattedPrice": "USD 14.99"
+      "formattedPrice": "USD 14.99",
+      "Full Game Unlock": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 14.99,
-      "formattedPrice": "USD 14.99"
+      "formattedPrice": "USD 14.99",
+      "Full Game Unlock": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748827831160,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "Full Game Unlock": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,

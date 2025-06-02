@@ -59564,13 +59564,25 @@
     "name": "Hitman: Blood Money — Reprisal",
     "maxPriceInfo": {
       "price": 118,
-      "formattedPrice": "HK$ 118.00"
+      "formattedPrice": "HK$ 118.00",
+      "Full Game Unlock": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 109,
-      "formattedPrice": "HK$ 109.00"
+      "formattedPrice": "HK$ 109.00",
+      "Full Game Unlock": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748827831160,
+          "price": 109,
+          "formattedPrice": "HK$ 109.00",
+          "inAppPurchases": {
+            "Full Game Unlock": "HK$ 118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1726751188918,

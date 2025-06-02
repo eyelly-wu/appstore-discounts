@@ -45870,13 +45870,25 @@
     "name": "Hitman: Blood Money — Reprisal",
     "maxPriceInfo": {
       "price": 429,
-      "formattedPrice": "₺429,00"
+      "formattedPrice": "₺429,00",
+      "Full Game Unlock": "₺699,99"
     },
     "minPriceInfo": {
       "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "formattedPrice": "₺399,99",
+      "Full Game Unlock": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748827831160,
+          "price": 429,
+          "formattedPrice": "₺429,00",
+          "inAppPurchases": {
+            "Full Game Unlock": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1732194491991,
