@@ -10868,6 +10868,23 @@
     "history": [
       [
         {
+          "timestamp": 1748876555257,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "$30.00",
+            "Skatepark: The Berrics": "$60.00",
+            "Skatepark: The Factory": "$30.00",
+            "Skatepark: The Valley": "$30.00",
+            "Skatepark of Tampa": "$30.00",
+            "Skatepark 6 Pack": "$150.00",
+            "Skatepark: Havasu": "$60.00",
+            "Skatepark: Schoolyard": "$30.00",
+            "SLS 2016 Course Pack": "$60.00",
+            "Skatepark: Macba": "$60.00"
+          }
+        },
+        {
           "timestamp": 1748872941879,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -52419,6 +52436,27 @@
       ]
     ]
   },
+  "1572719445": {
+    "name": "Hello Tower",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748876555257,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1573220858": {
     "name": "環球酒店大亨",
     "maxPriceInfo": {
@@ -73927,6 +73965,27 @@
           "timestamp": 1748818931978,
           "price": 190,
           "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6448971229": {
+    "name": "記算工資",
+    "maxPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00"
+    },
+    "minPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748876555257,
+          "price": 10,
+          "formattedPrice": "$10.00",
           "inAppPurchases": {}
         }
       ]

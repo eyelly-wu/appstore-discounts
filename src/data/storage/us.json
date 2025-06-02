@@ -35280,9 +35280,28 @@
       "Muse Dash・Legend": "$2.99",
       "unlockall_12": "$23.99",
       "Happy Otaku Pack Vol.20": "$2.99",
-      "Aquaria Cruising Guide": "$3.99"
+      "Aquaria Cruising Guide": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748876555257,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Aquaria Cruising Guide": "$2.99",
+            "Happy Otaku Pack Vol.20": "$3.99",
+            "Muse Dash・Legend": "$3.99",
+            "Cosmic Radio 2024": "$3.99",
+            "MSR Anthology_Vol.02": "$5.99",
+            "MDlevelTacticalTrainingBlu-ray": "$2.99",
+            "Touhou Mugakudan -IV-": "$3.99",
+            "Touhou Collection Bundle100": "$15.99",
+            "Touhou Collection Bundle88": "$12.99",
+            "Touhou Collection Bundle78": "$11.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748610639297,
@@ -54752,6 +54771,27 @@
             "GAIA Star Database": "$0.00",
             "Apollo Lunar Missions": "$0.00"
           }
+        }
+      ]
+    ]
+  },
+  "1572719445": {
+    "name": "Hello Tower",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748876555257,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -76109,6 +76149,27 @@
           "timestamp": 1748818931978,
           "price": 5.99,
           "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6448971229": {
+    "name": "Salary",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748876555257,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
           "inAppPurchases": {}
         }
       ]

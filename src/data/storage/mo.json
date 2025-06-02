@@ -42007,6 +42007,27 @@
       ]
     ]
   },
+  "1572719445": {
+    "name": "Hello Tower",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748876555257,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1573220858": {
     "name": "環球酒店大亨",
     "maxPriceInfo": {
@@ -55226,6 +55247,27 @@
           "timestamp": 1748818931978,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6448971229": {
+    "name": "記算工資",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1748876555257,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
           "inAppPurchases": {}
         }
       ]
