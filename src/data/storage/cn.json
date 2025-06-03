@@ -834,6 +834,25 @@
     "history": [
       [
         {
+          "timestamp": 1748930593099,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Coyoacán HipstaPak": "¥15.00",
+            "Ohara HipstaPak": "¥15.00",
+            "RetroPak 2022": "¥48.00",
+            "RetroPak 2023": "¥68.00",
+            "RetroPak Twenty-One": "¥38.00",
+            "Highland Park HipstaPak": "¥8.00",
+            "Pilsen HipstaPak": "¥8.00",
+            "Tiong Bahru HipstaPak": "¥8.00",
+            "Impressionist SnapPak": "¥8.00",
+            "Fitzroy HipstaPak": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748664218482,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -30873,6 +30892,16 @@
       "Card.Note Premiun": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748930593099,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "Card.Note Premiun": "¥9.90"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746979334789,
