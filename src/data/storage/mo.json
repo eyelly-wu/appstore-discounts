@@ -3886,7 +3886,9 @@
       "Predictive Report - No Background": "USD 2.99",
       "Predictive Report - Full": "USD 3.99",
       "My Pet Report": "USD 1.99",
-      "Child Report - Untimed": "USD 2.99"
+      "Child Report - Untimed": "USD 2.99",
+      "Gold Level lifetime": "USD 119.99",
+      "Gold Level Free Trial": "USD 0.00"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -3900,9 +3902,30 @@
       "Predictive Report - No Background": "USD 2.99",
       "Predictive Report - Full": "USD 3.99",
       "My Pet Report": "USD 1.99",
-      "Child Report - Untimed": "USD 2.99"
+      "Child Report - Untimed": "USD 2.99",
+      "Gold Level lifetime": "USD 119.99",
+      "Gold Level Free Trial": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748934161402,
+          "price": 39.99,
+          "formattedPrice": "USD 39.99",
+          "inAppPurchases": {
+            "Gold Level lifetime": "USD 119.99",
+            "Gold Level Free Trial": "USD 0.00",
+            "Lunar Return Report": "USD 3.99",
+            "7-day Trial Astrolocality": "USD 0.00",
+            "Astrolocality Maps": "USD 24.99",
+            "The Big Three Report": "USD 3.99",
+            "Relationship Report": "USD 3.99",
+            "Predictive Report - Untimed": "USD 2.99",
+            "Predictive Report - No Background": "USD 2.99",
+            "Predictive Report - Full": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
