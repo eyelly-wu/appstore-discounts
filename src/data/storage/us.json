@@ -29724,7 +29724,9 @@
       "30 Hell Stones": "$8.99",
       "500 Hell Stones": "$41.99",
       "Hell Package": "$24.99",
-      "8400 Rebirth Stones": "$24.99"
+      "8400 Rebirth Stones": "$24.99",
+      "Awakening Package": "$41.99",
+      "18000 Rebirth Stones": "$41.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -29751,9 +29753,30 @@
       "30 Hell Stones": "$8.99",
       "500 Hell Stones": "$41.99",
       "Hell Package": "$24.99",
-      "8400 Rebirth Stones": "$24.99"
+      "8400 Rebirth Stones": "$24.99",
+      "Awakening Package": "$41.99",
+      "18000 Rebirth Stones": "$41.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748944947826,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Total Package": "$15.99",
+            "Magic Package": "$8.99",
+            "Feature Package": "$3.99",
+            "Awakening Package": "$41.99",
+            "Automatic Package": "$15.99",
+            "Ring Package": "$24.99",
+            "18000 Rebirth Stones": "$41.99",
+            "8400 Rebirth Stones": "$24.99",
+            "2400 Rebirth Stones": "$8.99",
+            "1100 Rebirth Stones": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748664218482,
@@ -32971,6 +32994,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748944947826,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99",
+            "Marvelous Mix vol. 1": "$4.99"
+          }
+        },
         {
           "timestamp": 1748941363779,
           "price": 1.99,
@@ -74146,6 +74186,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748944947826,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 2005": "$0.99",
+            "Season MLB 2024": "$0.99",
+            "Season MLB 1993": "$0.99",
+            "Season MLB 2009": "$0.99"
+          }
+        },
         {
           "timestamp": 1748941363779,
           "price": 9.99,
