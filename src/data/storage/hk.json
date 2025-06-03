@@ -5173,7 +5173,9 @@
       "Lunar Return Report": "HK$ 32.00",
       "The Big Three Report": "HK$ 32.00",
       "My Pet Report": "HK$ 18.00",
-      "Child Report - Untimed": "HK$ 22.00"
+      "Child Report - Untimed": "HK$ 22.00",
+      "Gold Level lifetime": "HK$ 888.00",
+      "Gold Level Free Trial": "HK$ 0.00"
     },
     "minPriceInfo": {
       "price": 288,
@@ -5191,9 +5193,30 @@
       "Lunar Return Report": "HK$ 32.00",
       "The Big Three Report": "HK$ 32.00",
       "My Pet Report": "HK$ 18.00",
-      "Child Report - Untimed": "HK$ 22.00"
+      "Child Report - Untimed": "HK$ 22.00",
+      "Gold Level lifetime": "HK$ 888.00",
+      "Gold Level Free Trial": "HK$ 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748941363779,
+          "price": 288,
+          "formattedPrice": "HK$ 288.00",
+          "inAppPurchases": {
+            "Gold Level lifetime": "HK$ 888.00",
+            "Gold Level Free Trial": "HK$ 0.00",
+            "Lunar Return Report": "HK$ 32.00",
+            "7-day Trial Astrolocality": "HK$ 0.00",
+            "Astrolocality Maps": "HK$ 188.00",
+            "The Big Three Report": "HK$ 32.00",
+            "Relationship Report": "HK$ 32.00",
+            "Predictive Report - Untimed": "HK$ 22.00",
+            "Predictive Report - No Background": "HK$ 22.00",
+            "Predictive Report - Full": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748815340544,
