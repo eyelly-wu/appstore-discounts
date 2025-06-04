@@ -62523,13 +62523,25 @@
       "Street Wolf Outfit": "$2.99"
     },
     "minPriceInfo": {
-      "price": 15.99,
-      "formattedPrice": "$15.99",
+      "price": 9.99,
+      "formattedPrice": "$9.99",
       "DLC pack": "$9.99",
       "All Access Voucher": "$1.99",
       "Street Wolf Outfit": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749024185521,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "DLC pack": "$9.99",
+            "All Access Voucher": "$1.99",
+            "Street Wolf Outfit": "$2.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744880542936,
@@ -64851,12 +64863,25 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Base Game": "$15.99",
+      "Base Game": "$9.99",
       "All Access Voucher": "$1.99",
       "DLC pack": "$9.99",
       "Street Wolf Outfit": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749024185521,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$9.99",
+            "All Access Voucher": "$1.99",
+            "DLC pack": "$9.99",
+            "Street Wolf Outfit": "$2.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744880542936,
@@ -65032,6 +65057,25 @@
       "Weapon Upgrade Ticket x1 (C)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749024185521,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$19.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$14.99",
+            "Weapon Upgrade Ticket x5 (A)": "$7.49",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$5.29",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.29",
+            "Attaché Case: 'Classic'": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748914213840,
