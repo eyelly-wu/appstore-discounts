@@ -2290,6 +2290,14 @@
     "history": [
       [
         {
+          "timestamp": 1749020546587,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748329347134,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -2534,6 +2542,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749020546587,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro": "$14.99",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Beethoven: The Mutopia Collection": "$0.99",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Händel: The Mutopia Collection": "$0.00"
+          }
+        },
         {
           "timestamp": 1749009979960,
           "price": 24.99,
@@ -20172,6 +20197,18 @@
       "All the Light (Huge Tip)": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749020546587,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "A Little Light (Small Tip)": "$0.99",
+            "All the Light (Huge Tip)": "$9.99",
+            "More Light (Medium Tip)": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747786163156,
@@ -61493,7 +61530,8 @@
       "金币达人": "$24.99",
       "一碟包子": "$0.99",
       "新手礼包": "$3.99",
-      "战役基金": "$12.99"
+      "战役基金": "$12.99",
+      "一碟庆丰包子": "$99.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -61520,9 +61558,29 @@
       "金币达人": "$24.99",
       "一碟包子": "$0.99",
       "新手礼包": "$3.99",
-      "战役基金": "$12.99"
+      "战役基金": "$12.99",
+      "一碟庆丰包子": "$99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749020546587,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "心愿礼包": "$5.99",
+            "聚财盆": "$2.99",
+            "豪华月卡": "$9.99",
+            "新手导师": "$9.99",
+            "金币达人": "$24.99",
+            "一碟庆丰包子": "$99.99",
+            "超值月卡": "$3.99",
+            "犒赏令": "$9.99",
+            "战役基金": "$12.99",
+            "新手礼包": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748588542836,

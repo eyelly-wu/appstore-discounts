@@ -1323,6 +1323,14 @@
     "history": [
       [
         {
+          "timestamp": 1749020546587,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748329347134,
           "price": 98,
           "formattedPrice": "¥98.00",
@@ -13657,6 +13665,18 @@
       "一点点光 (小额支持)": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749020546587,
+          "price": 31,
+          "formattedPrice": "¥31.00",
+          "inAppPurchases": {
+            "一点点光 (小额支持)": "¥8.00",
+            "所有的光 (巨额支持)": "¥68.00",
+            "更多光 (中等支持)": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747786163156,
