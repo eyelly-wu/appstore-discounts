@@ -2038,6 +2038,14 @@
     "history": [
       [
         {
+          "timestamp": 1749060185259,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "MyNetDiary Premium": "HK$ 548.00"
+          }
+        },
+        {
           "timestamp": 1749055417533,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -32333,8 +32341,8 @@
   "1264608487": {
     "name": "Driving Zone: Germany Pro",
     "maxPriceInfo": {
-      "price": 6,
-      "formattedPrice": "HK$ 6.00",
+      "price": 12,
+      "formattedPrice": "HK$ 12.00",
       "20,000 coins": "HK$ 2.00",
       "220,000 coins": "HK$ 32.00",
       "90,000 coins": "HK$ 18.00",
@@ -32355,6 +32363,22 @@
       "1,300,000 coins": "HK$ 188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749060185259,
+          "price": 12,
+          "formattedPrice": "HK$ 12.00",
+          "inAppPurchases": {
+            "20,000 coins": "HK$ 2.00",
+            "220,000 coins": "HK$ 32.00",
+            "90,000 coins": "HK$ 18.00",
+            "3,000,000 coins": "HK$ 368.00",
+            "2,000,000 coins": "HK$ 228.00",
+            "550,000 coins": "HK$ 88.00",
+            "1,300,000 coins": "HK$ 188.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -68103,6 +68127,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749060185259,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {
+            "新年日出": "HK$ 9.00",
+            "2025春ネモフィラスキン": "HK$ 2.00",
+            "夏日庭院": "HK$ 6.00",
+            "2025春イースタースキン": "HK$ 8.00",
+            "2025春いちごスキン": "HK$ 2.00",
+            "萬聖派對": "HK$ 9.00",
+            "花火大會": "HK$ 9.00",
+            "2025春さくらスキン": "HK$ 2.00",
+            "夏威夷海灘": "HK$ 6.00",
+            "ネオンシティ": "HK$ 9.00"
+          }
+        },
         {
           "timestamp": 1749055417533,
           "price": 15,

@@ -26201,8 +26201,8 @@
   "1264608487": {
     "name": "Driving Zone: Germany Pro",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99",
+      "price": 69.99,
+      "formattedPrice": "₺69,99",
       "20,000 coins": "₺19,99",
       "220,000 coins": "₺179,99",
       "90,000 coins": "₺99,99",
@@ -26223,6 +26223,22 @@
       "3,000,000 coins": "₺1.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749060185259,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {
+            "20,000 coins": "₺19,99",
+            "90,000 coins": "₺99,99",
+            "220,000 coins": "₺179,99",
+            "550,000 coins": "₺449,99",
+            "1,300,000 coins": "₺999,99",
+            "2,000,000 coins": "₺1.299,99",
+            "3,000,000 coins": "₺1.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745668987623,
@@ -47474,6 +47490,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749060185259,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Season Pass": "₺299,99",
+            "Nurse Pack": "₺229,99",
+            "Autonomy": "₺129,99",
+            "Mecha Pack": "₺229,99",
+            "Unlock Beholder": "₺129,99",
+            "Unlock Gumiho": "₺129,99",
+            "Season 3 Battle Pass": "₺99,99",
+            "Uniform Pack": "₺179,99",
+            "Unlock Baphomet": "₺129,99",
+            "Season 2 Battle Pass": "₺99,99"
+          }
+        },
         {
           "timestamp": 1749055417533,
           "price": 229.99,

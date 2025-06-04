@@ -18718,6 +18718,20 @@
     "history": [
       [
         {
+          "timestamp": 1749060185259,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "1 Gem": "USD 0.99",
+            "13 Gems": "USD 7.99",
+            "6 Gems": "USD 3.99",
+            "48 Gems": "USD 28.99",
+            "150 Gems": "USD 79.99",
+            "74 Gems": "USD 40.99",
+            "28 Gems": "USD 14.99"
+          }
+        },
+        {
           "timestamp": 1749055417533,
           "price": 0,
           "formattedPrice": "免費",
@@ -25524,8 +25538,8 @@
   "1264608487": {
     "name": "Driving Zone: Germany Pro",
     "maxPriceInfo": {
-      "price": 0.59,
-      "formattedPrice": "USD 0.59",
+      "price": 1.49,
+      "formattedPrice": "USD 1.49",
       "3,000,000 coins": "USD 44.99",
       "2,000,000 coins": "USD 29.99",
       "550,000 coins": "USD 9.99",
@@ -25546,6 +25560,22 @@
       "1,300,000 coins": "USD 22.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749060185259,
+          "price": 1.49,
+          "formattedPrice": "USD 1.49",
+          "inAppPurchases": {
+            "3,000,000 coins": "USD 44.99",
+            "2,000,000 coins": "USD 29.99",
+            "550,000 coins": "USD 9.99",
+            "220,000 coins": "USD 3.99",
+            "90,000 coins": "USD 1.99",
+            "20,000 coins": "USD 0.49",
+            "1,300,000 coins": "USD 22.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745661727084,

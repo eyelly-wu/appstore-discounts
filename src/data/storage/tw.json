@@ -32131,8 +32131,8 @@
   "1264608487": {
     "name": "Driving Zone: Germany Pro",
     "maxPriceInfo": {
-      "price": 20,
-      "formattedPrice": "$20.00",
+      "price": 50,
+      "formattedPrice": "$50.00",
       "90,000 coins": "$60.00",
       "220,000 coins": "$120.00",
       "20,000 coins": "$20.00",
@@ -32153,6 +32153,22 @@
       "1,300,000 coins": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749060185259,
+          "price": 50,
+          "formattedPrice": "$50.00",
+          "inAppPurchases": {
+            "220,000 coins": "$120.00",
+            "90,000 coins": "$60.00",
+            "20,000 coins": "$20.00",
+            "550,000 coins": "$320.00",
+            "3,000,000 coins": "$1,490.00",
+            "2,000,000 coins": "$990.00",
+            "1,300,000 coins": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745668987623,
