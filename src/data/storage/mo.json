@@ -16277,6 +16277,25 @@
     "history": [
       [
         {
+          "timestamp": 1749055417533,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "浮士德": "USD 6.99",
+            "火鳳凰": "USD 6.99",
+            "怖鹿獅": "USD 4.99",
+            "銳戈勝": "USD 1.99",
+            "特別優惠火鳳凰": "USD 4.99",
+            "英雄包 1": "USD 4.99",
+            "特別優惠浮士德": "USD 4.99",
+            "威之難": "USD 4.99",
+            "英雄包 5": "USD 2.99",
+            "一箱寶石": "USD 19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749024185521,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -17532,14 +17551,22 @@
   "936694037": {
     "name": "Voice Recorder - Audio Record",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
@@ -18673,7 +18700,8 @@
       "48 Gems": "USD 28.99",
       "150 Gems": "USD 79.99",
       "74 Gems": "USD 40.99",
-      "28 Gems": "USD 14.99"
+      "28 Gems": "USD 14.99",
+      "119 Gems": "USD 59.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -18684,9 +18712,27 @@
       "48 Gems": "USD 28.99",
       "150 Gems": "USD 79.99",
       "74 Gems": "USD 40.99",
-      "28 Gems": "USD 14.99"
+      "28 Gems": "USD 14.99",
+      "119 Gems": "USD 59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "150 Gems": "USD 79.99",
+            "74 Gems": "USD 40.99",
+            "119 Gems": "USD 59.99",
+            "48 Gems": "USD 28.99",
+            "28 Gems": "USD 14.99",
+            "13 Gems": "USD 7.99",
+            "6 Gems": "USD 3.99",
+            "1 Gem": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748527337543,
@@ -35512,6 +35558,14 @@
     "history": [
       [
         {
+          "timestamp": 1749055417533,
+          "price": 1.39,
+          "formattedPrice": "USD 1.39",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746540140866,
           "price": 6.29,
           "formattedPrice": "USD 6.29",
@@ -39428,6 +39482,20 @@
       "6包野果": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "698包野果": "USD 96.99",
+            "98包野果": "USD 14.99",
+            "30包野果": "USD 4.99",
+            "12包野果": "USD 1.99",
+            "6包野果": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748959365680,
@@ -51128,10 +51196,10 @@
     "maxPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29",
-      "高級加油包": "USD 14.99",
-      "中級加油包": "USD 7.99",
+      "高級加油包": "USD 24.99",
+      "中級加油包": "USD 12.99",
       "月卡": "USD 6.00",
-      "初級加油包": "USD 4.99",
+      "初級加油包": "USD 5.99",
       "季卡": "USD 15.00",
       "年卡": "USD 46.00"
     },
@@ -51146,6 +51214,21 @@
       "年卡": "USD 46.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級加油包": "USD 24.99",
+            "中級加油包": "USD 12.99",
+            "月卡": "USD 6.00",
+            "初級加油包": "USD 5.99",
+            "季卡": "USD 15.00",
+            "年卡": "USD 46.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748340155682,
@@ -53148,7 +53231,7 @@
     "maxPriceInfo": {
       "price": 0.49,
       "formattedPrice": "USD 0.49",
-      "高級功能": "USD 4.99"
+      "高級功能": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -53156,6 +53239,16 @@
       "高級功能": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749009979960,
@@ -54686,6 +54779,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748160166333,

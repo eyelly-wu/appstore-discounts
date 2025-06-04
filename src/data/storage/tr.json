@@ -1496,6 +1496,23 @@
     "history": [
       [
         {
+          "timestamp": 1749055417533,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Portland HipstaPak": "₺39,99",
+            "Williamsburg Starter HipstaPak": "₺39,99",
+            "Mission Hipstapak": "₺39,99",
+            "Shibuya HipstaPak": "₺39,99",
+            "Camden HipstaPak": "₺39,99",
+            "Soho HipstaPak": "₺39,99",
+            "RetroPak One": "₺99,99",
+            "Bondi HipstaPak": "₺39,99",
+            "Tintype SnapPak": "₺39,99",
+            "Wicker Park HipstaPak": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1749024185521,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -17199,14 +17216,22 @@
   "936694037": {
     "name": "Voice Recorder - Audio Record",
     "maxPriceInfo": {
-      "price": 179.99,
-      "formattedPrice": "₺179,99"
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
       "price": 179.99,
       "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
@@ -32441,6 +32466,21 @@
     "history": [
       [
         {
+          "timestamp": 1749055417533,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺379,00",
+            "GoodNotes 5 Unlock": "₺449,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Goodnotes 6 One-Time Payment": "₺919,00",
+            "Goodnotes 6 (1 Year)": "₺379,00",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1749024185521,
           "price": 0,
           "formattedPrice": "Free",
@@ -47435,6 +47475,25 @@
     "history": [
       [
         {
+          "timestamp": 1749055417533,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Nurse Pack": "₺229,99",
+            "Unlock Beholder": "₺129,99",
+            "Unlock Gumiho": "₺129,99",
+            "Season 3 Battle Pass": "₺99,99",
+            "Uniform Pack": "₺179,99",
+            "Unlock Baphomet": "₺129,99",
+            "Season 2 Battle Pass": "₺99,99",
+            "Monster Pack 2": "₺1.299,99",
+            "Info Pack": "₺599,99",
+            "Smelting Pack": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748160166333,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -51076,10 +51135,10 @@
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99",
-      "Advanced Package": "₺699,99",
-      "Intermediate Package": "₺349,99",
+      "Advanced Package": "₺999,99",
+      "Intermediate Package": "₺599,99",
       "Monthly Pro": "₺249,99",
-      "Basic Package": "₺229,99",
+      "Basic Package": "₺249,99",
       "Quarterly Pro": "₺699,99",
       "Annual Pro": "₺1.999,99"
     },
@@ -51094,6 +51153,21 @@
       "Annual Pro": "₺1.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Advanced Package": "₺999,99",
+            "Intermediate Package": "₺599,99",
+            "Monthly Pro": "₺249,99",
+            "Basic Package": "₺249,99",
+            "Quarterly Pro": "₺699,99",
+            "Annual Pro": "₺1.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748336559152,

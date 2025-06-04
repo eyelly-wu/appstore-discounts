@@ -2038,6 +2038,16 @@
     "history": [
       [
         {
+          "timestamp": 1749055417533,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "MyNetDiary Premium": "HK$ 68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746460951400,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -18670,6 +18680,25 @@
     "history": [
       [
         {
+          "timestamp": 1749055417533,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "$20 Credit": "HK$ 148.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "$10 Credit": "HK$ 88.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00",
+            "3 Mo. Global Texting": "HK$ 68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748948539607,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -21545,14 +21574,22 @@
   "936694037": {
     "name": "Voice Recorder - Audio Record",
     "maxPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 32,
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
@@ -35017,6 +35054,25 @@
     "history": [
       [
         {
+          "timestamp": 1749055417533,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "新手上路包": "HK$ 8.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "Miku in Museland": "HK$ 68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748914213840,
           "price": 23,
           "formattedPrice": "HK$ 23.00",
@@ -48141,6 +48197,14 @@
     "history": [
       [
         {
+          "timestamp": 1749055417533,
+          "price": 12,
+          "formattedPrice": "HK$ 12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746540140866,
           "price": 55,
           "formattedPrice": "HK$ 55.00",
@@ -51790,6 +51854,20 @@
       "6包野果": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "698包野果": "HK$ 788.00",
+            "98包野果": "HK$ 118.00",
+            "30包野果": "HK$ 38.00",
+            "12包野果": "HK$ 18.00",
+            "6包野果": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748959365680,
@@ -67919,9 +67997,9 @@
       "月卡": "HK$ 48.00",
       "年卡": "HK$ 368.00",
       "季卡": "HK$ 118.00",
-      "初級加油包": "HK$ 38.00",
-      "高級加油包": "HK$ 118.00",
-      "中級加油包": "HK$ 58.00"
+      "初級加油包": "HK$ 48.00",
+      "高級加油包": "HK$ 188.00",
+      "中級加油包": "HK$ 98.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -67934,6 +68012,21 @@
       "中級加油包": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月卡": "HK$ 48.00",
+            "年卡": "HK$ 368.00",
+            "季卡": "HK$ 118.00",
+            "初級加油包": "HK$ 48.00",
+            "高級加油包": "HK$ 188.00",
+            "中級加油包": "HK$ 98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748340155682,
@@ -67983,7 +68076,10 @@
       "Letter from Nemophila": "HK$ 6.00",
       "Standard Skin": "HK$ 6.00",
       "Deluxe Skin": "HK$ 9.00",
-      "ネオンシティ": "HK$ 9.00"
+      "ネオンシティ": "HK$ 9.00",
+      "夏色クリームソーダ": "HK$ 6.00",
+      "オーロラプール": "HK$ 6.00",
+      "フルーツパーラー": "HK$ 6.00"
     },
     "minPriceInfo": {
       "price": 15,
@@ -68000,9 +68096,30 @@
       "Letter from Nemophila": "HK$ 6.00",
       "Standard Skin": "HK$ 6.00",
       "Deluxe Skin": "HK$ 9.00",
-      "ネオンシティ": "HK$ 9.00"
+      "ネオンシティ": "HK$ 9.00",
+      "夏色クリームソーダ": "HK$ 6.00",
+      "オーロラプール": "HK$ 6.00",
+      "フルーツパーラー": "HK$ 6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {
+            "ネオンシティ": "HK$ 9.00",
+            "夏色クリームソーダ": "HK$ 6.00",
+            "オーロラプール": "HK$ 6.00",
+            "フルーツパーラー": "HK$ 6.00",
+            "2025春イースタースキン": "HK$ 9.00",
+            "2025春さくらスキン": "HK$ 2.00",
+            "2025春ネモフィラスキン": "HK$ 2.00",
+            "2025春いちごスキン": "HK$ 2.00",
+            "Letter from Nemophila": "HK$ 6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748458931288,
@@ -70688,7 +70805,7 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "高級功能": "HK$ 38.00"
+      "高級功能": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -70696,6 +70813,16 @@
       "高級功能": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749009979960,
@@ -73230,6 +73357,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748160166333,
