@@ -33074,7 +33074,10 @@
       "Rhythm Games Party 2024": "$4.99",
       "B.B.K.K.B.K.K. 2023 Remake SLC": "$4.99",
       "Battle CHAOS 2019": "$4.99",
-      "Game Disc vol.1": "$1.99"
+      "Game Disc vol.1": "$4.99",
+      "Memory Unit [A1]": "$4.99",
+      "JOE": "$9.99",
+      "Aroma": "$9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -33100,10 +33103,30 @@
       "Rhythm Games Party 2024": "$1.99",
       "B.B.K.K.B.K.K. 2023 Remake SLC": "$1.99",
       "Battle CHAOS 2019": "$1.99",
-      "Game Disc vol.1": "$1.99"
+      "Game Disc vol.1": "$1.99",
+      "Memory Unit [A1]": "$4.99",
+      "JOE": "$9.99",
+      "Aroma": "$9.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1749007381783,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "Cherry": "$9.99",
+            "Game Disc vol.1": "$4.99",
+            "Memory Unit [A1]": "$4.99",
+            "JOE": "$9.99",
+            "Marvelous Mix vol. 1": "$4.99",
+            "Aroma": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99"
+          }
+        },
         {
           "timestamp": 1748944947826,
           "price": 1.99,
@@ -40670,6 +40693,20 @@
     "history": [
       [
         {
+          "timestamp": 1749007381783,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {
+            "Treasures Editor": "$0.99",
+            "Art Upgrade Pack": "$3.99",
+            "Feature DLC": "$3.99",
+            "Heroes Assemble": "$3.99",
+            "Dawn of Heroes": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748575235922,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -41727,6 +41764,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749007381783,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747884020298,
@@ -49820,6 +49865,14 @@
     "history": [
       [
         {
+          "timestamp": 1749007381783,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747884020298,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -52066,6 +52119,20 @@
       "12包野果": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749007381783,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "6包野果": "$0.99",
+            "698包野果": "$96.99",
+            "98包野果": "$14.99",
+            "30包野果": "$4.99",
+            "12包野果": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747192757618,
