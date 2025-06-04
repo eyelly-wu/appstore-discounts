@@ -3592,6 +3592,20 @@
     "history": [
       [
         {
+          "timestamp": 1749009979960,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "1350 Badoo Credits": "$790.00",
+            "3050 Badoo Credits": "$1,490.00",
+            "450 Badoo Credits": "$320.00",
+            "250 Badoo Credits": "$150.00",
+            "Lifetime Badoo Premium": "$2,490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748901749029,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -10899,6 +10913,25 @@
       "Skatepark: Inbound": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749009979960,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "$30.00",
+            "Skatepark: The Berrics": "$60.00",
+            "Skatepark: The Factory": "$30.00",
+            "Skatepark: The Valley": "$30.00",
+            "Skatepark of Tampa": "$30.00",
+            "Skatepark 6 Pack": "$150.00",
+            "Skatepark: Havasu": "$60.00",
+            "Skatepark: Schoolyard": "$30.00",
+            "Skatepark: Macba": "$60.00",
+            "The Alley": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748876555257,
@@ -20198,6 +20231,25 @@
     "history": [
       [
         {
+          "timestamp": 1749009979960,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Font Access": "$1,790.00",
+            "Pro Access": "$2,990.00",
+            "Ultimate Access": "$4,990.00",
+            "Abstract Theme 5": "$30.00",
+            "Abstract Theme 4": "$30.00",
+            "Abstract Theme 2": "$30.00",
+            "Abstract Theme 3": "$30.00",
+            "Abstract Theme 1": "$30.00",
+            "Abstract Theme Bundle": "$90.00",
+            "Great Art Bundle": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748426568788,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -24194,6 +24246,25 @@
       "擴充章節G": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749009979960,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "白金方案（每三個月續訂）": "$360.00",
+            "白金方案（每月續訂）": "$150.00",
+            "ULTRA BONK Hour 限時挑戰書": "$90.00",
+            "支線第一章": "$120.00",
+            "基本方案（每月續訂）": "$30.00",
+            "擴充章節B": "$120.00",
+            "擴充章節 R": "$120.00",
+            "擴充章節 U": "$120.00",
+            "擴充章節 I": "$120.00",
+            "支線第二章": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748923590265,
@@ -70462,10 +70533,18 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "高級功能": "$30.00"
+      "高級功能": "$20.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1749009979960,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "$20.00"
+          }
+        },
         {
           "timestamp": 1748966562420,
           "price": 0,

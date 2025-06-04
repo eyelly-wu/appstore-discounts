@@ -53056,10 +53056,18 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "高級功能": "USD 0.99"
+      "高級功能": "USD 0.49"
     },
     "history": [
       [
+        {
+          "timestamp": 1749009979960,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "USD 0.49"
+          }
+        },
         {
           "timestamp": 1748966562420,
           "price": 0,
