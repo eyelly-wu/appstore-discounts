@@ -34242,6 +34242,14 @@
     "history": [
       [
         {
+          "timestamp": 1749078140241,
+          "price": 11.99,
+          "formattedPrice": "₺11,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746572538107,
           "price": 54.99,
           "formattedPrice": "₺54,99",
@@ -39125,6 +39133,20 @@
       "6包野果": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749078140241,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "698包野果": "₺3.999,99",
+            "98包野果": "₺699,99",
+            "30包野果": "₺229,99",
+            "12包野果": "₺99,99",
+            "6包野果": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748991733994,
@@ -53468,7 +53490,7 @@
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99",
-      "Premium Features": "₺229,99"
+      "Premium Features": "₺449,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -53476,6 +53498,16 @@
       "Premium Features": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749078140241,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749009979960,
@@ -55657,6 +55689,14 @@
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749078140241,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748160166333,
