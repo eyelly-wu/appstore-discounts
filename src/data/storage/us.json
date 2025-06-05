@@ -48142,6 +48142,14 @@
     "history": [
       [
         {
+          "timestamp": 1749093795658,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746587952230,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -52333,6 +52341,20 @@
       "12包野果": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749093795658,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "6包野果": "$0.99",
+            "698包野果": "$96.99",
+            "98包野果": "$14.99",
+            "30包野果": "$4.99",
+            "12包野果": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749007381783,
@@ -72567,7 +72589,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
-      "Premium Features": "$4.99"
+      "Premium Features": "$9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -72576,6 +72598,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749093795658,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$9.99"
+          }
+        },
         {
           "timestamp": 1749009979960,
           "price": 0,
@@ -76422,6 +76452,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749093795658,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748160166333,
