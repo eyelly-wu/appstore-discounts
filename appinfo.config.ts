@@ -66,7 +66,50 @@ export const regionTimezoneMap: Record<Region, string> = {
  * name 为 [string, Partial<Record<Record, string>>] 类型表示多个地区的应用名称都相同，其他地区可能有不同的名称
  * 正常的话，中英文不一样就中英文各写一个就可以；这里的名称只有写代码的能看到
  */
-export const latestAppConfig: AppConfig[] = []
+export const latestAppConfig: AppConfig[] = [
+  {
+    id: 1207354572,
+    name: {
+      mo: '色卡 - 設計專業的配色工具',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1319082167,
+    name: {
+      mo: 'Number Shield',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1537057699,
+    name: {
+      mo: 'Solo - Fretboard Visualization',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740190367,
+    name: {
+      cn: 'Biu 空气手枪',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6743826237,
+    name: {
+      mo: '墨轉 - AI文檔格式轉換',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742744417,
+    name: {
+      tw: '魔窟-無盡的地下城',
+    },
+    addType: 'auto',
+  },
+]
 
 /**
  * 分组1：如果单个数组元素量级过大，

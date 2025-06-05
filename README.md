@@ -64,11 +64,17 @@ Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=fla
 ## DingTalk
 Click  [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk")  to Subscribe
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1106` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1112` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The application currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1112|1207354572|Automatic|色卡 - 设计专业的配色工具|色卡 - 設計專業的配色工具|色卡 - 設計專業的配色工具|色卡 - 設計專業的配色工具|ColorCard: Palette Tool|ColorCard: Palette Tool|
+|1111|1319082167|Automatic|❌|Number Shield|Number Shield|Number Shield|Number Shield|Number Shield|
+|1110|1537057699|Automatic|Solo - Fretboard Visualization|Solo - Fretboard Visualization|Solo - Fretboard Visualization|Solo - Fretboard Visualization|Solo - Fretboard Visualization|Solo - Fretboard Visualization|
+|1109|6740190367|Automatic|Biu 空气手枪|Biu 空氣手槍|Biu 空氣手槍|Biu 空氣手槍|Biu Gun|Biu|
+|1108|6743826237|Automatic|墨转 - AI文档格式转换|墨轉 - AI文檔格式轉換|墨轉 - AI文檔格式轉換|墨轉 - AI文檔格式轉換|MarkFlow: AI Format Engine|MarkFlow: AI Format Engine|
+|1107|6742744417|Automatic|❌|魔窟-無盡的地下城|魔窟-無盡的地下城|魔窟-無盡的地下城|❌|❌|
 |1106|1572719445|Automatic|❌|Hello Tower|Hello Tower|Hello Tower|Hello Tower|Hello Tower|
 |1105|6448971229|Automatic|❌|記算工資|記算工資|記算工資|Salary|Salary|
 |1104|973113361|Automatic|❌|Rummikub®|Rummikub®|Rummikub®|Rummikub®|Rummikub®|
@@ -1228,7 +1234,7 @@ A basic understanding of  `TypeScript`  is required. Here are the general steps.
          * Its rules are: Protocol://apps.apple.com/Country or Region's Code/app/App Name/idApp ID?x1=x1&x2=x2
          * For example, the  `ID`  obtained from this  https://apps.apple.com/us/app/pages/id409201541?mt=12&l=en-US  link is  `409201541` 
    2. Modify  `appinfo.config.ts` 
-      1. Add  `appConfig`  Variable Declaration
+      1. Add  `latestAppConfig`  Variable Declaration
 * Finally, pull request your commit to the  `main`  branch of this project
 
 

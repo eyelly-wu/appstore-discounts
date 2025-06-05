@@ -67,11 +67,17 @@
 ## 钉钉
 点击 [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk") 订阅
 # 关注焦点
-当前已收录 `6` 个 `国家或地区` 和 `1106` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `6` 个 `国家或地区` 和 `1112` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br />如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br />目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1112|1207354572|自动|色卡 - 设计专业的配色工具|色卡 - 設計專業的配色工具|色卡 - 設計專業的配色工具|色卡 - 設計專業的配色工具|ColorCard: Palette Tool|ColorCard: Palette Tool|
+|1111|1319082167|自动|❌|Number Shield|Number Shield|Number Shield|Number Shield|Number Shield|
+|1110|1537057699|自动|Solo - Fretboard Visualization|Solo - Fretboard Visualization|Solo - Fretboard Visualization|Solo - Fretboard Visualization|Solo - Fretboard Visualization|Solo - Fretboard Visualization|
+|1109|6740190367|自动|Biu 空气手枪|Biu 空氣手槍|Biu 空氣手槍|Biu 空氣手槍|Biu Gun|Biu|
+|1108|6743826237|自动|墨转 - AI文档格式转换|墨轉 - AI文檔格式轉換|墨轉 - AI文檔格式轉換|墨轉 - AI文檔格式轉換|MarkFlow: AI Format Engine|MarkFlow: AI Format Engine|
+|1107|6742744417|自动|❌|魔窟-無盡的地下城|魔窟-無盡的地下城|魔窟-無盡的地下城|❌|❌|
 |1106|1572719445|自动|❌|Hello Tower|Hello Tower|Hello Tower|Hello Tower|Hello Tower|
 |1105|6448971229|自动|❌|記算工資|記算工資|記算工資|Salary|Salary|
 |1104|973113361|自动|❌|Rummikub®|Rummikub®|Rummikub®|Rummikub®|Rummikub®|
@@ -1231,7 +1237,7 @@
          * 它的规则是：协议://apps.apple.com/国家或地区的编码/app/应用的名称/id应用的ID?x1=x1&x2=x2
          * 例如从这个 https://apps.apple.com/us/app/pages/id409201541?mt=12&l=en-US 链接获取到的 `ID` 就是 `409201541` 
    2. 修改 `appinfo.config.ts` 
-      1. 补充 `appConfig` 变量声明
+      1. 补充 `latestAppConfig` 变量声明
 * 最后将你的提交合并到本项目的 `main` 分支
 
 

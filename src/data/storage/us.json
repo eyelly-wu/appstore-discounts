@@ -30950,6 +30950,27 @@
       ]
     ]
   },
+  "1207354572": {
+    "name": "ColorCard: Palette Tool",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1207867591": {
     "name": "Papa's Taco Mia To Go!",
     "maxPriceInfo": {
@@ -35038,6 +35059,27 @@
           "timestamp": 1722784406759,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1319082167": {
+    "name": "Number Shield",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]
@@ -53416,6 +53458,31 @@
       ]
     ]
   },
+  "1537057699": {
+    "name": "Solo - Fretboard Visualization",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99",
+      "Custom Chord Progressions": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99",
+      "Custom Chord Progressions": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Custom Chord Progressions": "$5.99"
+          }
+        }
+      ]
+    ]
+  },
   "1537362903": {
     "name": "Neighbours back From Hell",
     "maxPriceInfo": {
@@ -69933,6 +70000,23 @@
     "history": [
       [
         {
+          "timestamp": 1749129079535,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "Fireworks display": "$1.79",
+            "Summer holiday": "$1.19",
+            "Moonlight and Lanterns": "$1.19",
+            "2025春いちごスキン": "$0.49",
+            "Sunset beach": "$1.19",
+            "Halloween Party": "$1.79",
+            "2025春ネモフィラスキン": "$0.49",
+            "Christmas night": "$1.79",
+            "Sunflower farm": "$1.19"
+          }
+        },
+        {
           "timestamp": 1749096403951,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -77797,6 +77881,48 @@
           "timestamp": 1748876555257,
           "price": 0.29,
           "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740190367": {
+    "name": "Biu Gun",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6743826237": {
+    "name": "MarkFlow: AI Format Engine",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

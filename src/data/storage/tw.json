@@ -30968,6 +30968,27 @@
       ]
     ]
   },
+  "1207354572": {
+    "name": "色卡 - 設計專業的配色工具",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1207867591": {
     "name": "Papa's Taco Mia To Go!",
     "maxPriceInfo": {
@@ -34064,6 +34085,27 @@
           "timestamp": 1722784406759,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1319082167": {
+    "name": "Number Shield",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]
@@ -51499,6 +51541,31 @@
       ]
     ]
   },
+  "1537057699": {
+    "name": "Solo - Fretboard Visualization",
+    "maxPriceInfo": {
+      "price": 490,
+      "formattedPrice": "$490.00",
+      "Custom Chord Progressions": "$190.00"
+    },
+    "minPriceInfo": {
+      "price": 490,
+      "formattedPrice": "$490.00",
+      "Custom Chord Progressions": "$190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {
+            "Custom Chord Progressions": "$190.00"
+          }
+        }
+      ]
+    ]
+  },
   "1537362903": {
     "name": "Neighbours back From Hell",
     "maxPriceInfo": {
@@ -65504,6 +65571,23 @@
     "history": [
       [
         {
+          "timestamp": 1749129079535,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "自創武將朝代特色兵種補丁": "$120.00",
+            "重振漢室": "$60.00",
+            "鎮海神威": "$60.00",
+            "江山美人": "$60.00",
+            "虎嘯鳳鳴": "$60.00",
+            "公路霸業": "$60.00",
+            "自創武將": "$120.00",
+            "自創武將朝代服裝發飾素材補丁": "$120.00",
+            "北境狂人": "$60.00",
+            "終身版": "$220.00"
+          }
+        },
+        {
           "timestamp": 1749087007531,
           "price": 0,
           "formattedPrice": "免費",
@@ -75098,6 +75182,82 @@
           "price": 10,
           "formattedPrice": "$10.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740190367": {
+    "name": "Biu 空氣手槍",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6743826237": {
+    "name": "墨轉 - AI文檔格式轉換",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742744417": {
+    "name": "魔窟-無盡的地下城",
+    "maxPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00",
+      "一小堆鑽石": "$120.00",
+      "一大堆鑽石": "$390.00",
+      "一把鑽石": "$60.00",
+      "幾個鑽石": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00",
+      "一小堆鑽石": "$120.00",
+      "一大堆鑽石": "$390.00",
+      "一把鑽石": "$60.00",
+      "幾個鑽石": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749129079535,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "一小堆鑽石": "$120.00",
+            "一大堆鑽石": "$390.00",
+            "一把鑽石": "$60.00",
+            "幾個鑽石": "$30.00"
+          }
         }
       ]
     ]
