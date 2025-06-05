@@ -66,7 +66,14 @@ export const regionTimezoneMap: Record<Region, string> = {
  * name 为 [string, Partial<Record<Record, string>>] 类型表示多个地区的应用名称都相同，其他地区可能有不同的名称
  * 正常的话，中英文不一样就中英文各写一个就可以；这里的名称只有写代码的能看到
  */
-export const appConfig: AppConfig[] = [
+export const latestAppConfig: AppConfig[] = []
+
+/**
+ * 分组1：如果单个数组元素量级过大，
+ * ts会报错：表达式生成的联合类型过于复杂，无法表示。 ts(2590)
+ * 因此这里将整个应用列表拆分多个数组，然后合并成一个数组
+ */
+export const part1AppConfig: AppConfig[] = [
   {
     id: 1572719445,
     name: {
@@ -7158,4 +7165,12 @@ export const appConfig: AppConfig[] = [
   { id: 1642682818, name: '熊猫吃短信2 - 垃圾短信拦截' },
   { id: 1319191852, name: '熊猫吃短信 - 垃圾短信过滤' },
   { id: 1067198688, name: '彩云天气pro' },
+]
+
+/**
+ * 合并多个分组的应用
+ */
+export const appConfig: AppConfig[] = [
+  ...latestAppConfig, // 最新
+  ...part1AppConfig, // 分组1
 ]

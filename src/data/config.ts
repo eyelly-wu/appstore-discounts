@@ -6,6 +6,7 @@ import { appConfig as oldAppConfig } from '../../appinfo.config'
 
 const contentEncoding = 'utf-8'
 const filepath = resolve(__dirname, '../../appinfo.config.ts')
+const matchStr = 'latestAppConfig: AppConfig[] = ['
 
 function getInsertContent(appConfig: AppConfig[]) {
   const str = JSON.stringify(appConfig, null, 2).slice(1, -2)
@@ -14,13 +15,13 @@ function getInsertContent(appConfig: AppConfig[]) {
 
 function updateImpl(appConfig: AppConfig[]) {
   const content = readFileSync(filepath, { encoding: contentEncoding })
-  const markIndex = content.lastIndexOf('= [')
+  const markIndex = content.lastIndexOf(matchStr)
   if (markIndex === -1) {
     console.error('No opening bracket found in appinfo.config.ts')
     return
   }
 
-  const realIndex = markIndex + 3
+  const realIndex = markIndex + matchStr.length
   const preContent = content.slice(0, realIndex)
   const suffixContent = content.slice(realIndex)
   const newContent = preContent + getInsertContent(appConfig) + suffixContent

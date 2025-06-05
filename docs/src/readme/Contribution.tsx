@@ -115,7 +115,7 @@ export default function AppList() {
               ],
               [
                 t('修改{0}', ' `appinfo.config.ts` '),
-                ['O', t('补充{0}变量声明', ' `appConfig` ')],
+                ['O', t('补充{0}变量声明', ' `latestAppConfig` ')],
               ],
             ],
           ],
