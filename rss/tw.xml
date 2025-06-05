@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-06-04T17:05:04.229Z</updated>
+    <updated>2025-06-05T11:23:02.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-04T17:05:04.229Z</updated>
+        <updated>2025-06-05T11:23:02.248Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:73536236398899200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwWed, 04 Jun 2025 17:05:04 GMT</id>
+        <id>rankingtwThu, 05 Jun 2025 11:23:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-04T17:05:04.229Z</updated>
+        <updated>2025-06-05T11:23:02.248Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -117,6 +117,29 @@ feedId:73536236398899200+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tw/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>Full Game Unlock</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tw/app/id6446178861">PlayNav - 影片內無廣告！</a>
       </td>
       <td>
@@ -137,7 +160,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
@@ -154,7 +177,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id916976066">短語鍵盤</a>
@@ -179,7 +202,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1449893235">Earthquake Network</a>
@@ -202,7 +225,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1453820315">This Is the Police 2</a>
@@ -219,7 +242,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1519571900">Luwian</a>
@@ -236,7 +259,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -247,29 +270,6 @@ feedId:73536236398899200+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>9</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tw/app/id1631331207">Hitman: Blood Money — Reprisal</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買</span><ol>
-              <li>
-                <i>Full Game Unlock</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -504,6 +504,73 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hitman: Blood Money — Reprisal]]></title>
+        <id>Hitman: Blood Money — Reprisal-tw-1749121346079</id>
+        <link href="https://apps.apple.com/tw/app/hitman-blood-money-reprisal/id1631331207?uo=4"/>
+        <updated>2025-06-05T11:02:26.079Z</updated>
+        <summary type="html"><![CDATA[价格: $430.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/hitman-blood-money-reprisal/id1631331207?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/49/98/744998b0-ed9b-3b3d-55e2-3d757fb31546/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$430.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ $490.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Full Game Unlock：<b>$430.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  PLAY THE FIRST MISSION FOR FREE
+Begin your killer career with the first of Blood Money’s massively replayable sandbox missions, then unlock the complete game with a single in-app purchase.
+
+===
+
+You are Agent 47 — a trained killer caught in the crosshairs of a rival agency, “The Franchise”.
+
+Embark on an daring mission to take out a shadowy conspiracy’s lethal architects, and employ every tool at your disposal to get the job done while keeping a low profile. Infiltrate, execute, and escape undetected.
+
+Featuring gameplay improvements inspired by later games in the series, Reprisal is an artful redesign of a stealth-action classic — complete with a fully customisable touchscreen interface and full gamepad support.
+
+EXECUTION IS EVERYTHING
+Become a master of disguise, ingenuity and improvisation. With multiple ways to approach each objective, Blood Money’s sandbox missions encourage experimentation, creativity, and repeat playthroughs.
+
+THE ULTIMATE PROFESSIONAL
+Hit hard with an arsenal of upgradable weapons. Perform silent, witness-free kills, or manipulate the environment to engineer tragic “accidents”. The cleaner the hit, the better the payoff.
+ 
+INTRODUCING INSTINCT MODE
+The devil is in the details. Inspired by later HITMAN games, Instinct Mode highlights targets, guards and mission-critical points of interest for stealthy kills and quick getaways — the hallmarks of a professional assassin.
+
+ONE STEP AHEAD
+An all-new minimap offers situational awareness in real-time, while added alerts warn players when 47 is trespassing or arousing suspicion.
+
+COMPLETE CONTROL
+Tailor the touchscreen controls, connect a gamepad, or utilise full keyboard and mouse support. Whatever your playstyle, complete control is always at your fingertips.
+
+===
+
+We recommend playing Hitman: Blood Money — Reprisal on iOS 16 or later. You need 3.9GB of free space on your device, though we recommend at least double this to avoid initial installation issues.
+
+Supported iPhones:
+
+ • iPhone 8 Plus and later
+ • iPhone SE 2 (2020) and later
+
+Supported iPads:
+
+ • iPad mini 5 (2019) and later
+ • iPad Air 3 (2019) and later
+ • iPad 7 (2019) and later
+ • iPad Pro 1st gen (2015), 12.9" model only
+ • iPad Pro 2nd gen (2017) and later
+
+• If you require assistance, please contact our support team at support@feralinteractive.com
+
+Hitman: Blood Money © 2000-2025 IO Interactive A/S. IO Interactive, IOI, HITMAN are registered trademarks of IO Interactive A/S. Developed for and published on iOS by Feral Interactive. iOS and the iOS logo are trademarks of Apple Inc., registered in the U.S. and other countries. Feral and the Feral logo are trademarks of Feral Interactive Ltd. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/4f/95/294f9572-3928-bdd5-f0fd-8e1918316394/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_1_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/d0/f2/aad0f209-9d41-a7c0-dbec-ee252810452e/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_2_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/40/70/ac407031-ec30-823f-a554-7499fa3aa0dc/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_3_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/c1/ff/4cc1ff98-ca00-792d-2f26-90e100132c5d/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_4_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/cd/0e/8bcd0ef8-2cc2-2daa-110b-0ae6f224dffc/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_5_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/4b/7a/dd4b7af6-b586-c9b5-c761-baab60c9fcc3/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_6_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/2a/03/9f2a035c-c999-3216-0589-3dadf4807507/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_7_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/4b/fc/a94bfc7a-4f7e-a586-f38c-416816565ebb/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_8_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/ac/81/f3ac819a-5ebc-db46-1894-f8627305d54f/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_9_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/cd/2b/83cd2b55-17eb-716e-7ddd-bece478dda8a/02fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_10_EN.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/4f/37/584f37f1-368b-2967-bef3-6b3fc05a4bff/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_1_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/3c/3c/e73c3c19-2348-6f44-5555-15fc6b5976e6/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_2_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/15/66/99156664-b1d2-0f4f-ecbc-37a9c5ad25f7/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_3_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/d0/50/33d05017-ac77-46f0-ded7-2cfea7e2cdd4/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_4_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/a4/35/34a435bb-70d2-6206-10b0-ec40cd3ba0b3/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_5_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/f1/5c/37f15c26-673c-41b6-dbc1-479ac5bf70b9/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_6_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/c7/c3/10c7c34d-0f63-192d-ccba-0c6ee6c05c12/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_7_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/f9/17/45f91781-a1af-1545-afb9-0ecace1ebece/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_8_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/c9/cb/9ac9cb8a-e7d4-a308-5b58-fb3230bc6f8f/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_9_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/cc/f2/b4ccf2e4-ea61-d753-e53b-bebede9b19ff/fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_10_EN.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[This Is the Police 2]]></title>
@@ -1396,116 +1463,6 @@ Hitman: Blood Money © 2000-2024 IO Interactive A/S. IO Interactive, IOI, HITMAN
         <id>Badoo進階版-tw-1748901749029</id>
         <link href="https://apps.apple.com/tw/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4"/>
         <updated>2025-06-02T22:02:29.029Z</updated>
-        <summary type="html"><![CDATA[Super Powers: $360.00 → $90.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/d5/13/18d51306-cfcb-e0a4-801d-e54fa7dc6698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Super Powers：</strong><span>$360.00</span> → <b>
-  <strong>$90.00</strong>
-</b><span>[$90.00 ~ $360.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>$90.00</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Premium：<b>$360.00</b>
-  </li><li>
-    Super Powers：<b>$90.00</b>
-  </li><li>
-    Pack of 100 Credits：<b>$90.00</b>
-  </li><li>
-    Pack of 550 Credits：<b>$390.00</b>
-  </li><li>
-    Pack of 450 Credits：<b>$499.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Badoo是全球最大的約會平台，會員人數過億。全世界每天都有無數人在這裡聊天、約會、交友、調情。目前Badoo尊享服務正在限時優惠中！您可以看到哪些人喜歡您，提升個人檔案，並享受其他特權。
-
-除了 Badoo尊享服務功能外，您還可以：
-- 聊天，調情，認識新朋友 
-- 看看附近的Badoo會員 
-- 定期享受新功能 
-- 放鬆，安全認證讓您不再受到虛假賬號的困擾 
-- 滑動瀏覽個人檔案 
-
-馬上加入，在Badoo找到意中人吧！
-
-費用通過您的iTunes賬號收取。訂閱會自動更新，您可以在已付費期間結束前至少24小時關閉自動更新，也可以在購買後，前往iTunes商店設定關閉自動更新。
-如果您不再購買Badoo尊享服務，仍可以繼續免費使用Badoo。
-
-您的私人資料受到Badoo保護。請參見我們的隱私權政策及條款：
-
-https://www.badoo.com/privacy 
-https://badoo.com/terms
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/4a/bc/d44abc26-c385-72c7-a74c-9a3f755e186a/0_APP_IPHONE_55_0.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ff/37/abff3752-57b3-3984-22bc-30114fa7bb1b/1_APP_IPHONE_55_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/79/9c/dc799c19-cfd1-647c-3029-fed5a25a1834/2_APP_IPHONE_55_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/b4/c7/1db4c791-dd92-d5f8-28e5-dbec2dcad0cf/3_APP_IPHONE_55_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/47/4a/d3474a69-0f28-2b4f-46db-7f2bb7c40228/4_APP_IPHONE_55_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/9a/f1/7f9af1c0-1cb4-9a81-ab67-5ab34d0ab317/5_APP_IPHONE_55_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/8e/4a/028e4ad6-0d0e-a4d4-0619-4a519d19a4ef/0_APP_IPAD_PRO_129_0.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/9f/0a/7c9f0a97-925d-2c36-1388-504c18f0917f/1_APP_IPAD_PRO_129_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/f5/0a/33f50a10-3bef-54af-a851-2706b81402da/2_APP_IPAD_PRO_129_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/38/1b/12381b52-8e13-17b3-105a-a93b1844082b/3_APP_IPAD_PRO_129_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/00/d2/4b00d2af-ec7c-9dd8-59b0-c3072b4a22c9/4_APP_IPAD_PRO_129_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/2c/a7/892ca7bf-46f0-17b0-7f4f-9b2df6fb9745/5_APP_IPAD_PRO_129_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorsport Manager 4]]></title>
-        <id>Motorsport Manager 4-tw-1748827831160</id>
-        <link href="https://apps.apple.com/tw/app/motorsport-manager-4/id6449251957?uo=4"/>
-        <updated>2025-06-02T01:30:31.160Z</updated>
-        <summary type="html"><![CDATA[Bundle: $320.00 → $150.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/motorsport-manager-4/id6449251957?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Bundle：</strong><span>$320.00</span> → <b>
-  <strong>$150.00</strong>
-</b><span>[$150.00 ~ $320.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>$150.00</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Bundle：<b>$150.00</b>
-  </li><li>
-    Pre registration bundle：<b>$190.00</b>
-  </li><li>
-    Premium livery bundle：<b>$190.00</b>
-  </li><li>
-    Game Editor：<b>$190.00</b>
-  </li><li>
-    Very Large Investment：<b>$90.00</b>
-  </li><li>
-    Large Investment：<b>$90.00</b>
-  </li><li>
-    Huge Investment：<b>$150.00</b>
-  </li><li>
-    Investment：<b>$60.00</b>
-  </li><li>
-    Chairman's Payment：<b>$190.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  MOTORSPORT MANAGER 4: MASTER RACE STRATEGY
-
-BUILD YOUR RACING DYNASTY
-Immerse yourself in the captivating journey of constructing your motorsport empire from the ground up, where every choice holds the key to your success.
-
-ASSEMBLE YOUR DREAM TEAM
-Hand-pick exceptional drivers and engineer a world-class racing powerhouse. Collaborate closely with drivers to secure pole positions and craft pitstop strategies that lead to race domination.
-
-REAL-TIME STRATEGY UNFOLDS
-Experience the adrenaline-pumping action of races in real-time or navigate through intricate strategy screens. Swiftly adapt to ever-changing weather, unexpected crashes, and the emergence of safety cars.
-
-UNLEASH VARIETY ON THE TRACK
-Embark on thrilling GT and Endurance racing adventures across six distinct championships. Immerse yourself in the iconic beauty of Monaco's settings, rendered in breathtaking artistry.
-
-DRIVERS TAKE CENTER STAGE
-Step into the shoes of promising new drivers, delve into their statistics, and cultivate pivotal relationships. Navigate the revamped HQ, seize upgrade opportunities, and master the new part development system for an immersive journey.
-
-YOUR JOURNEY, YOUR CHALLENGE
-Embark on a motorsport odyssey where every choice shapes your destiny. Witness dynamic AI team movements and adjust the difficulty level as the game evolves with you.
-
-SEIZE CONTROL, MAKE HISTORY
-It's your opportunity to rewrite the annals of racing lore and etch your name into the history of motorsport. Motorsport Manager 4 empowers you like never before.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/8a/93/788a93e8-0611-e8a4-a8bb-127ea1ca7cd3/70b8f36f-46ad-4f55-bb44-26b1e1d42d90_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/0c/0f/df0c0f1b-b800-355e-e534-877d19d3ad6e/197b9078-d617-4bf1-ae75-a32666c0e221_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/36/84/da36845b-602b-4129-904b-4819e9a79cde/acae3ebf-4877-4010-b0c6-c5d2fa892453_FeaturingImage.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/7b/38/d17b387b-b95d-8fd1-de10-4b4a8534eceb/5dc173a9-d936-4bec-b601-fb16eab3942c_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/1c/c1/c01cc19a-ac47-a7a7-67ad-81d5020e0e1e/6f8fa231-827b-43d7-a412-284fba943dae_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/9a/e0/489ae001-4876-7503-4d52-09a484de1ee3/b12a712a-9dda-4bc2-a642-3d15ccc0163f_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/2f/73/572f736e-01bb-0350-e01e-10b27a29daba/4e65f90a-f4f0-4984-bbea-eeb6ce7e79ff_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/1d/a8/721da87c-9e9b-5067-e090-da14770902f9/2ba5b27d-6e12-4261-806f-58f728470a3b_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/45/59/c24559c0-b7c9-731f-9b2c-29896c7d69eb/65f7b50f-874c-4a56-abcc-5dfefea7987b_FeatureImage.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/53/75/a75375f0-e5cc-2099-11ca-e249ac80a1b3/9e80e2a6-d3b2-4dc2-a736-79fb54c6bd36_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/f7/5d/81f75d80-f417-4fe8-0d65-2c6af7ba98e8/41706b87-c615-448c-9c52-b018dd10d18d_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/e4/1b/a7e41bad-5ca9-c26f-8e9d-0b64e44fb512/22fcca1c-f9eb-4301-8497-0ad43f5bb621_5.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Badoo進階版]]></title>
-        <id>Badoo進階版-tw-1748804531871</id>
-        <link href="https://apps.apple.com/tw/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4"/>
-        <updated>2025-06-01T19:02:11.871Z</updated>
         <summary type="html"><![CDATA[Super Powers: $360.00 → $90.00]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/d5/13/18d51306-cfcb-e0a4-801d-e54fa7dc6698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />

@@ -46826,11 +46826,21 @@
       "Full Game Unlock": "USD 14.99"
     },
     "minPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "USD 14.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Full Game Unlock": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749121346079,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Full Game Unlock": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748827831160,
