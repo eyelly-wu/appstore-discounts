@@ -21593,6 +21593,23 @@
     "history": [
       [
         {
+          "timestamp": 1749114152712,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Forever friends": "$6.99",
+            "Music collection sp01": "$0.00",
+            "奇怪的试题集": "$0.99",
+            "Music Collection 01": "$1.99",
+            "小酒仙节拍器": "$0.99",
+            "Music Collection 04": "$2.99",
+            "Subscription Ticket 1~5": "$8.99",
+            "和风主题": "$3.99",
+            "Music Collection 03": "$2.99",
+            "HOUSE风格主题包B": "$3.99"
+          }
+        },
+        {
           "timestamp": 1749110587028,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -52441,6 +52458,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749114152712,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748973785893,

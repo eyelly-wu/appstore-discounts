@@ -7787,6 +7787,25 @@
     "history": [
       [
         {
+          "timestamp": 1749114152712,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Chapter N": "$120.00",
+            "Chapter D": "$150.00",
+            "Chapter L": "$320.00",
+            "Chapter T": "$150.00",
+            "Chapter R": "$150.00",
+            "Chapter 0": "$150.00",
+            "Chapter K": "$150.00",
+            "Chapter 10": "$150.00",
+            "Chapter 9": "$150.00",
+            "Chapter S": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748257325206,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -50427,6 +50446,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749114152712,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748973785893,
