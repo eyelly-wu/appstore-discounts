@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-04T18:24:03.492Z</updated>
+    <updated>2025-06-05T04:27:05.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-04T18:24:03.494Z</updated>
+        <updated>2025-06-05T04:27:05.575Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:67474973430475776+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkWed, 04 Jun 2025 18:24:03 GMT</id>
+        <id>rankinghkThu, 05 Jun 2025 04:27:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-04T18:24:03.494Z</updated>
+        <updated>2025-06-05T04:27:05.575Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -245,6 +245,29 @@ feedId:67474973430475776+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id1512751689">The Game of Life 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>The Ultimate Life Collection</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id1519571900">Luwian</a>
       </td>
       <td>
@@ -259,7 +282,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -276,7 +299,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -299,7 +322,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1640627334">Resident Evil Village for Mac</a>
@@ -326,7 +349,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6450980545">Resident Evil Village</a>
@@ -355,7 +378,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6462360082">Resident Evil 4</a>
@@ -390,7 +413,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6469114836">スイカゲーム-Aladdin X</a>
@@ -531,6 +554,95 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Game of Life 2]]></title>
+        <id>The Game of Life 2-hk-1749096403951</id>
+        <link href="https://apps.apple.com/hk/app/the-game-of-life-2/id1512751689?uo=4"/>
+        <updated>2025-06-05T04:06:43.951Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Life Collection: HK$ 288.00 → HK$ 148.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/the-game-of-life-2/id1512751689?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/5e/71/ad5e71f4-563c-53be-8c4a-46eb591446e7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>The Ultimate Life Collection：</strong><span>HK$ 288.00</span> → <b>
+  <strong>HK$ 148.00</strong>
+</b><span>[HK$ 148.00 ~ HK$ 288.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 28.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    The Ultimate Life Collection：<b>HK$ 148.00</b>
+  </li><li>
+    Fairytale Kingdom Bundle：<b>HK$ 58.00</b>
+  </li><li>
+    Fairytale Kingdom：<b>HK$ 38.00</b>
+  </li><li>
+    Haunted Hills Bundle：<b>HK$ 58.00</b>
+  </li><li>
+    Lunar Age Bundle：<b>HK$ 58.00</b>
+  </li><li>
+    Lunar Age World：<b>HK$ 38.00</b>
+  </li><li>
+    Frozen Lands：<b>HK$ 38.00</b>
+  </li><li>
+    Haunted Hills World：<b>HK$ 38.00</b>
+  </li><li>
+    Frozen Lands Bundle：<b>HK$ 58.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Live 1000 lives in the official sequel to the classic family board game, The Game of Life! Will you be a Video Blogger or an Astronomer? Play now!
+
+Voted "Best Digital Board Game” in the Pocket Gamer Awards 2021
+Played by over 50 Million Families Worldwide
+
+Customise your peg, hop in your eco car and race your friends and family through The Game of Life 2! It’s a contemporary sequel to the classic family favourite board game, The Game of Life. With an added crossroad moment and new ways to win, what will you choose? Earn points for Knowledge and Happiness as well as Wealth. Go to College, or don’t. Get married early, save it for later, or stay single! Have kids, adopt pets, do both or neither. The choices are all yours, and every decision counts!
+
+Features
+
+The Game of Life 2 digital board game is the award-winning sequel to the original Hasbro board game, The Game of Life.
+• A GAME FOR UP 4 PLAYERS - Join 3 of your favourite people and live your dreams
+• *NEW*  VIDEO CHAT AND PLAY - Live every life face-to-face with in-game video chat
+• AN AD-FREE GAME - Enjoy the complete game with no interruptions
+• 6 TRANSLATIONS - English, French, Spanish, German, Italian and Brazilian Portuguese
+• SINGLE PLAYER - Take on our challenging AI
+• ONLINE MULTIPLAYER - Connect with fans, or invite friends and family to a private game
+• PASS & PLAY - No internet? No problem! Pass a single device between players for a wifi-free experience
+
+How to play
+
+CUSTOMISE your character
+Customise your pink, blue or newly available purple peg with a style all of your own.
+
+SPIN THE SPINNER
+The game starts with a big decision. Will you go to College or straight into work? In this classic simulation, what will your friends and family choose?
+
+It’s your LIFE PATH
+Get married or don’t, have kids, adopt pets, or both! Work as a Pet Groomer, then qualify and become a Wind Turbine Technician! The choices are yours!
+
+More WAYS TO WIN
+Earn points for every choice you make! Every choice increases your wealth, happiness or knowledge, so every decision is valid.
+
+RETIRE your way
+Continue living the life of your dreams! Relax in a luxury home, or hit the road and fulfil your bucket list! Unlike the classic board game, you can choose to venture on!
+
+Earn REWARDS to UNLOCK new items
+Unlock new pegs, outfits and vehicles by playing the game and earning rewards!
+
+In-game Video Chat
+Recreate the magic! Gather around the board with in-game video chat in Online Multiplayer Mode. It’s super easy to set-up and play:
+
+• Create your free private account
+• Invite your friends and family to chat groups
+• Start games straight from those chats
+• Play face-to-face wherever you are
+
+It’s simple, seamless fun for everyone.
+
+The Ultimate Life Collection
+Venture into a collection of 10 amazing fantasy worlds. Live life in enchanted worlds, make friends with dinosaurs in the Age of Giants and launch into the futuristic Lunar Age! Every new world features new Outfits, Vehicles, Jobs, Properties and more!
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/23/0e/87230e1e-d18c-5054-7dbe-57b3c4e01a97/1de387bc-6eb0-4af5-bc54-a28878cee462_gol2_screenshots_SW_2208x1242_01_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/29/80/5729807f-83a8-1e87-0adc-2028260b4235/fe0dfded-af7f-4eab-b26e-34d9e7a9fc50_gol2_screenshots_SW_2208x1242_02_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/4a/52/c54a5291-78c9-b2d3-ac2e-b7cd6db65b1c/67495bfc-d632-4d72-a6ac-085062e1c35a_gol2_screenshots_SW_2208x1242_03_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d1/eb/bcd1eba1-e67a-bba4-70c2-70de69fec3cf/6828e707-065e-4f85-a11d-94f8988a29c6_gol2_screenshots_SW_2208x1242_04_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4d/21/c74d21ac-18ed-abb9-3bbc-c8b7cfa85382/b0d3d0e1-6901-4362-b9d0-c3016fd9a1ad_gol2_screenshots_SW_2208x1242_05_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/4c/80/104c8096-f93b-1aa5-6819-23efc8bf51d3/24ea73c2-3440-4cd0-88c7-995445ca99f0_gol2_screenshots_SW_2208x1242_06_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/6a/9c/fa6a9c46-76c9-e384-56a5-b9eefd1cff7b/0823ae56-91aa-4979-b4c2-c13d249d8888_gol2_screenshots_SW_2208x1242_07_eng.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/82/11/9982114e-e738-9e6c-63ce-0477a4eebbf6/6f1d8610-9c32-4268-ae47-c764107448e9_gol2_screenshots_SW_2732x2048_01_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/ff/c0/91ffc08d-7958-a446-9f44-26f416b050fb/1295fc37-e50b-4a02-8899-e77348cc91ea_gol2_screenshots_SW_2732x2048_02_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/3a/7d/783a7de9-c132-15c1-cd74-d2f41117c6a9/c45ff9b9-9b3b-4e84-993c-0c55e508121b_gol2_screenshots_SW_2732x2048_03_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/10/29/991029b6-95f1-9c26-2c3c-dd4661721835/d139892c-887b-485c-a583-3af0a40ad0e4_gol2_screenshots_SW_2732x2048_04_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/9d/56/469d56b1-d72f-7359-082d-2644417ef5ee/9b7b7733-7c55-4f62-a16c-5f9a029246df_gol2_screenshots_SW_2732x2048_05_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/2f/68/172f681a-4a73-ee62-74d0-f5c06a9740e5/8432a777-6cf2-465c-9eab-17885ecdc67b_gol2_screenshots_SW_2732x2048_06_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/93/3a/72933a8a-c305-0721-f33e-617db7ae4f4e/1c6e6487-8117-4d27-8ff2-ef4cbef4b6a6_gol2_screenshots_SW_2732x2048_07_eng.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[スイカゲーム-Aladdin X]]></title>
@@ -1461,111 +1573,5 @@ Supported iPads:
 
 Hitman: Blood Money © 2000-2024 IO Interactive A/S. IO Interactive, IOI, HITMAN are registered trademarks of IO Interactive A/S. Developed for and published on iOS by Feral Interactive. iOS and the iOS logo are trademarks of Apple Inc., registered in the U.S. and other countries. Feral and the Feral logo are trademarks of Feral Interactive Ltd. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1c/e6/53/1ce6535b-ea0a-fe76-4824-80929a647724/c056553a-41df-4e6b-ae7c-1e2e29457b3c_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_1_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/f0/0a/3cf00a87-2ba5-1ee5-c229-0b4dc2f96ea6/84d6d83d-ff7f-490d-b754-e2eb5edc136f_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_2_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/54/ac/ba54ac93-b9c3-3732-c139-06f93822edaf/e8b8bab9-2fb6-4b39-a1d2-d6a3acf5cf33_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_3_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/a1/29/c2a1297e-9305-d077-25c1-185aba8e3891/8b6b110d-2161-430b-8514-dc0c31b0a4df_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_4_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/89/20/a2892095-a406-8e1c-9954-af2d69b1f6db/72057d87-ddce-48f3-b1a4-ae824299ac27_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_5_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/c3/74/84c37467-76a5-53e8-860f-5df22c2e1a50/187c8542-0bba-4e4b-b0ec-9c2c5c41638d_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_6_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e7/d1/2a/e7d12a82-90ea-c79c-b94a-c43dc712ed3d/8ccbda1e-89bb-4431-bc87-f1dae3e92763_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_7_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/a1/9a/60a19a68-f335-3c25-66c3-ac13df7b26fb/ee908e9a-7784-446e-9bb5-9881edd296be_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_8_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b4/f4/fcb4f477-1926-a1bc-e739-c8e3ef69735b/90588447-e923-469e-a14c-b4e7cd7101ff_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_9_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/e9/5c/d6e95cf1-90ae-5d95-5822-26c09be15af0/7b301549-c66a-4562-a637-f0949b8c5a1f_itmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_10_EN.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/5e/08/275e08e5-4b17-d5df-e902-18c9c6d09a40/cd42009e-7746-47f8-a823-798d6bf78ff1_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_1_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/06/12/f606124d-888a-7bb5-9b95-7de95cf0e1a9/c69c9e42-15f8-446c-849d-2ab28ede3f3d_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_2_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/8b/d7/da8bd783-e464-4a3b-ef03-083cb39c8651/09c02f65-5901-4c0e-92a3-d83a4b8c0609_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_3_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/48/5a/74485aa8-0a4b-a3d2-fc30-1c3b9eb02933/c9b42c8b-38d6-4aa1-b2d8-39007d882955_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_4_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/8c/f9/c18cf92f-ec2f-ca20-7dec-2e9c948cf5f7/6391b511-1e3a-4a46-8939-3a70a697cb25_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_5_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/19/4b/b6194b2e-925a-d2b6-4d9d-5184a01f5de6/bb9e4c98-cafe-45ee-bb70-5cd7bc1bb61f_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_6_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/f7/3c/6ef73cf6-509e-6c1c-b9e8-28ea3eabe9f8/bb1ac864-34ec-48a9-ad77-e9a95f1b0dc3_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_7_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/29/87/ff2987a7-d6c0-ab29-af05-55e6f22abe0f/c26bd0d6-19d0-4f10-91d1-ad82daf8bec8_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_8_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/ba/9b/16ba9b02-96cd-3b34-dc05-052396f495b4/a656ff7e-c561-41fe-a10e-1ef2a0f06bc9_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_9_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/63/be/b0/63beb0cb-5098-c21e-1981-a05213024a6e/eb24684a-4f9d-45dc-aaa9-1d05c2a0d4f0_manbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_10_EN.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刺客任務：狙擊 (Hitman Sniper)]]></title>
-        <id>刺客任務：狙擊 (Hitman Sniper)-hk-1748811724944</id>
-        <link href="https://apps.apple.com/hk/app/%E5%88%BA%E5%AE%A2%E4%BB%BB%E5%8B%99-%E7%8B%99%E6%93%8A-hitman-sniper/id904278510?uo=4"/>
-        <updated>2025-06-01T21:02:04.944Z</updated>
-        <summary type="html"><![CDATA[超大型金錢包: HK$ 88.00 → HK$ 58.00<br/>新手包: HK$ 38.00 → HK$ 22.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E5%88%BA%E5%AE%A2%E4%BB%BB%E5%8B%99-%E7%8B%99%E6%93%8A-hitman-sniper/id904278510?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>超大型金錢包：</strong><span>HK$ 88.00</span> → <b>
-  <strong>HK$ 58.00</strong>
-</b><span>[HK$ 58.00 ~ HK$ 88.00]</span>
-  </li><li>
-    <strong>新手包：</strong><span>HK$ 38.00</span> → <b>
-  <strong>HK$ 22.00</strong>
-</b><span>[HK$ 22.00 ~ HK$ 38.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 8.00</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    Limited Time Offer：<b>HK$ 118.00</b>
-  </li><li>
-    超大型代幣包：<b>HK$ 88.00</b>
-  </li><li>
-    超大型金錢包：<b>HK$ 58.00</b>
-  </li><li>
-    促銷包：<b>HK$ 188.00</b>
-  </li><li>
-    新手包：<b>HK$ 22.00</b>
-  </li><li>
-    中型金錢包：<b>HK$ 32.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  成為終極無聲殺手
-進入《Hitman Sniper》，扮演探員 47（Agent 47），體驗最震撼的狙擊手遊。
-
-黑山共和國的戰略任務
-磨練策略技巧，精心策劃一場完美暗殺。
-
-死亡谷挑戰模式
-準備迎接無窮的動作考驗，測試你的僵屍獵人技巧和射擊速度。
-
-超過 150 個任務和 10 份合同
-揭露秘密與詭計，精進你的完美暗殺技巧。
-
-16 種獨一無二的槍砲
-消滅目標、收集武器零件，完成設計突擊可解鎖最強大的槍砲。
-
-與好友一較高下，競逐排行榜冠軍
-衝高分數，升上合同殺手排行第一名，成為全世界最出色的無聲殺手。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/f5/14/4ff514b0-f939-df13-8087-84bd3217e009/mzl.bzdlkeau.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/12/32/43/123243f6-2ada-46b6-9d40-ef5d52b2c8c2/mzl.stqiidrz.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/64/69/52/6469521c-8e46-de39-d39d-f26221900223/mzl.zczjlcvd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/af/3a/f4/af3af49d-e212-394a-aff8-e2b62d4f586b/mzl.qnyhsiqe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/a0/f6/6ea0f61c-0214-ff61-ca59-542f41383ef1/mzl.jluxebmf.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/70/d1/ba70d194-83d5-194f-cb52-8de9fcf5d781/mzl.evgrgmwz.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/25/e2/2a25e257-0979-20b7-48cc-f5798fb338bf/mzl.etsyiapq.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/e7/88/cae78850-19a1-d2fc-a4d8-3777b03245f4/mzl.zybyctyl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/45/0c/a1/450ca19e-b8ef-e8d7-a9cc-66dd9dbd8f89/mzl.ldamlibv.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/81/a9/d381a9b2-4758-8ac9-e361-3e6ada871f3b/mzl.pftqxiws.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cluedo: Classic Edition]]></title>
-        <id>Cluedo: Classic Edition-hk-1748808146556</id>
-        <link href="https://apps.apple.com/hk/app/cluedo-classic-edition/id1238247658?uo=4"/>
-        <updated>2025-06-01T20:02:26.556Z</updated>
-        <summary type="html"><![CDATA[Ultimate Detective Collection: HK$ 188.00 → HK$ 148.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/cluedo-classic-edition/id1238247658?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/c6/e3/49c6e375-99ed-17ec-a77f-1c941abd917c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>Ultimate Detective Collection：</strong><span>HK$ 188.00</span> → <b>
-  <strong>HK$ 148.00</strong>
-</b><span>[HK$ 148.00 ~ HK$ 188.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 58.00</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    Ultimate Detective Collection：<b>HK$ 148.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  THE ORIGINAL HASBRO BOARD GAME - It’s the classic murder mystery! Who did it? With what weapon? In which room? There’s a high-risk party at the mansion and every guest is a suspect. Roll the dice, become a detective and let Cluedo begin!
-
-•        A PREMIUM DIGITAL BOARD GAME - There are no ads, no pop-ups and no pay-to-win limits. Once you buy the app, that’s it: unlimited multiplayer fun for you and your family and nothing to stop you solving the crime!
-
-•        A BRAIN TEASER - Test your detective skills. At the start of each game, Cluedo will take one suspect, one weapon, and one room from the deck, and deal the rest to the players. If you ask: “was it Colonel Mustard with the Rope in the Drawing Room”, a player holding the Colonel, the Rope or the Drawing Room must show you their card. Enter every room in search of answers!
-
-•        CLUESHEET & HINT SYSTEM - Who committed murder?! Don’t risk letting the criminal escape! Use your virtual cluesheet companion to make a note of the suspects, weapons and rooms you can eliminate. The ideal companion for every detective: cluesheet helps you make your deductions, perfect your strategy and solve the mystery.
-
-•        FAMILY FRIENDLY - It’s the original family board game by Hasbro, suitable for all players 8 years and over. With no adverts or necessary in-app purchases it’s multiplayer fun for kids and adults. With the whole board game on your mobile you can take Cluedo wherever you go! Roll the dice and solve the mystery!
-
-•        SINGLE PLAYER - Put your brain to the test against a guest list of AI murder suspects, online or offline! Choose your character, choose your opponents and let no criminal escape the mansion!
-
-•        ONLINE MULTIPLAYER - Play Cluedo with your friends and find out who’s guilty on mobile, PC or Nintendo Switch! Don’t let distance stop your board game night. Play on the go, or curl up in an armchair and settle down for a night of crime and detective work, wherever you are!
-
-•        10 ADDITIONAL THEMES - Explore ten different themed boards with Cluedo's Ultimate Detective’s Package. Listed under “Editor’s Choice” for the Most Stylish Game, our exclusive original themes are hand crafted by our studio artists. 
-o        Tudor Mansion: The guests at this party have turned out to be a lethal combination!
-o        Vampire Castle: In a household where every suspect is a monster, who committed the crime?
-o        Egyptian Adventure: Solve the crime, from the dark tombs of pharaohs to the crumbling pyramids!
-o        Hollywood: In a land where life is an act, can you find the truth in the fairytale?
-o        Murder Express: Challenge your friends to solve a mystery based on a classic Agatha Christie novel!
-o        Sherlock: Become the great detective and solve a crime on the dark streets of London!
-o        Snowy Peaks: Old friends have been reunited. Tensions are running high, but whose grudge ran that deep?
-o        Tropical Mystery: Someone has rocked this boat in a big way! It’s a luxury race to the answer!
-o        Venetian Masquerade: Historic Venice is beautiful, but crime lurks beneath the surface!
-o        Wild West: From the jailhouse to the saloon, the story of Dr. Black’s end will spread far and wide. Only you can discover the truth!
-
-
-About Marmalade Game Studio
-At Marmalade Game Studio we make quality, premium multiplayer board games. Play our classic games, including Monopoly and The Game of Life 2, anywhere on your mobile! Enjoy with your friends and family whether you’re together or apart. You can find the fun with people you know or players around the world. Our games are ad-free, family friendly fun. For quality time, look for the Marmalade Game Studio logo.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/96/dd/6096dd17-f5cb-29f4-1abe-0c8ecb6f3efe/330265f0-988e-4483-8304-bf0929d10267_A_screenshots_main_1242x2208_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/27/fb/8c27fb69-6bb2-0415-e993-0aef030883fc/26bf69d0-a2d4-45b2-b260-572f98f960ba_A_screenshots_main_1242x2208_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/8a/17/318a1718-bf1a-4fbc-110f-d482fbb5dec6/76c45d0b-9adf-4ead-a88a-ad4ef1b5b56b_A_screenshots_main_1242x2208_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b4/10/1d/b4101dfa-adce-d465-fdfb-b7206f065409/e06482df-f174-4d13-9f2f-e09762477ef2_A_screenshots_main_1242x2208_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/fe/0b/57fe0ba7-db6c-4ad6-5b31-d2b82dfc4668/e4f9d5ae-6bdf-494a-9064-365cf69607e3_A_screenshots_main_1242x2208_5_eng.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/ce/d7/38ced7e2-3014-30ac-3149-02a2437f1dc1/f74ae9f8-bf51-4917-937f-22a67052b2f3_A_screenshots_main_1242x2208_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/a8/d3/e9a8d31f-ed0d-9d13-d0f2-01a55d867c29/9a6f6172-d164-4cdf-89fe-bc7552451f1f_clue_screenshots_apple_arcade_1242x2208_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f0/8f/75/f08f7561-b65e-c5c6-1276-27aa27828736/a421e5b9-4959-4de4-bc96-e839f154f7ae_clue_screenshots_apple_arcade_1242x2208_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/02/e3/ca/02e3caa3-8aa8-e025-e0bc-ccb66d733a27/ed7d73f1-bafa-405a-92c5-66cc15d4257e_A_screenshots_main_2048x2732_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/e4/f5/cce4f5e4-b3e8-1072-5c95-c9b219b06b31/be5b52db-1bc9-4784-941b-fd3d602448e2_A_screenshots_main_2048x2732_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/67/bc/fe67bc8c-efff-2849-1b2f-104b09f242e6/b22cdb63-fa32-4b8d-a14d-6337ec2bc7b0_A_screenshots_main_2048x2732_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/36/37/22363735-6bdd-b1a9-73df-6e1338cb2b9e/9c60dcbc-fb34-4749-a3cc-6ec47be76aed_A_screenshots_main_2048x2732_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/9d/b3/a39db37d-ce7a-7992-069e-6994387ac9a7/fef82d1c-ea76-469f-9680-429e0a098695_A_screenshots_main_2048x2732_5_eng.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/02/a3/0a02a357-5cda-8942-cd1c-843986c6e176/cf6ef44c-9b97-4088-aa9f-bacd696ff028_A_screenshots_main_2048x2732_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/54/54/61/5454616e-bb84-b880-af85-5ac65186c50c/d2a75f6f-19c5-4f3e-ac86-8334d0dfb400_clue_screenshots_apple_arcade_2048x2732_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/e2/70/42e2704b-7602-bd67-6483-9c15db7d0fc2/7f77e34c-a1cc-4675-8f39-a692fc59e2ea_clue_screenshots_apple_arcade_2048x2732_7.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
