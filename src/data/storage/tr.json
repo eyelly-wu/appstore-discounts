@@ -16279,6 +16279,17 @@
     "history": [
       [
         {
+          "timestamp": 1749117746507,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "PLUS": "₺799,99",
+            "GOLD": "₺1.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748901749029,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -46855,11 +46866,21 @@
       "Full Game Unlock": "₺699,99"
     },
     "minPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Full Game Unlock": "₺429,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749117746507,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Game Unlock": "₺429,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748952224277,
