@@ -2,6 +2,9 @@ import { chunk } from 'lodash'
 import pLimit from 'p-limit'
 import { start, end } from '../../timer'
 import { getInAppPurchases, getAppInfo } from './impl'
+import getInAppPurchasesByScrapeless, {
+  SCRAPELESS_TOKEN,
+} from './getInAppPurchasesByScrapeless'
 
 export default async function getRegionAppInfo(
   appIds: Array<string | number>,
@@ -33,7 +36,9 @@ export default async function getRegionAppInfo(
       const inAppPurchasesArr: AppInfo['inAppPurchases'][] = await Promise.all(
         appInfos.map((appInfo, j) =>
           limit(() =>
-            getInAppPurchases(
+            (SCRAPELESS_TOKEN
+              ? getInAppPurchasesByScrapeless
+              : getInAppPurchases)(
               appInfo,
               region,
               `${label}【${j + 1}/${appInfos.length}】${appInfo.trackName}`,
