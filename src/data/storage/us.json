@@ -68909,14 +68909,22 @@
   "6480251529": {
     "name": "Ultimate Card Creator",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749135751304,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

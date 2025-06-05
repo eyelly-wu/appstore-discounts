@@ -66900,14 +66900,22 @@
   "6480251529": {
     "name": "體育集換卡製作專業版",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749135751304,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

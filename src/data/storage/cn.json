@@ -49420,14 +49420,22 @@
   "6480251529": {
     "name": "体育集换卡制作专业版",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749135751304,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
