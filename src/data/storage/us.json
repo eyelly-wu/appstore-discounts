@@ -21155,6 +21155,14 @@
     "history": [
       [
         {
+          "timestamp": 1749180180364,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746415220673,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -56992,6 +57000,14 @@
     "history": [
       [
         {
+          "timestamp": 1749180180364,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748488888641,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -60237,6 +60253,20 @@
       "300 Stellar Gems": "$2.95"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749180180364,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "510 Stellar Gems": "$4.99",
+            "1030 Stellar Gems": "$9.99",
+            "100 Stellar Gems": "$0.99",
+            "2080 Stellar Gems": "$19.99",
+            "300 Stellar Gems": "$2.95"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748575235922,
