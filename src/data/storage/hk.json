@@ -5321,6 +5321,23 @@
     "history": [
       [
         {
+          "timestamp": 1749229340608,
+          "price": 288,
+          "formattedPrice": "HK$ 288.00",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "HK$ 32.00",
+            "Predictive Report - Full": "HK$ 32.00",
+            "Relationship Report": "HK$ 32.00",
+            "Astrolocality Maps": "HK$ 188.00",
+            "7-day Trial Astrolocality": "HK$ 0.00",
+            "The Big Three Report": "HK$ 32.00",
+            "Birthday Report": "HK$ 32.00",
+            "Predictive Report - No Background": "HK$ 22.00",
+            "Child Report - Full": "HK$ 32.00",
+            "Birth Chart Report - Untimed": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1749225760759,
           "price": 288,
           "formattedPrice": "HK$ 288.00",
@@ -71829,6 +71846,16 @@
       "高級功能": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749229340608,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "高級功能": "HK$ 6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749055417533,

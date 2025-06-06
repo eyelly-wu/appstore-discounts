@@ -19028,7 +19028,9 @@
       "Coupon of the Greedy Cave": "₺179,99",
       "[A big chest of crystals]": "₺2.299,99",
       "[A chest of crystals]": "₺899,99",
-      "Package1": "₺39,99"
+      "Package1": "₺39,99",
+      "Package8": "₺2.299,99",
+      "Package7": "₺1.299,99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -19037,12 +19039,26 @@
       "[A box of crystals]": "₺129,99",
       "[A package of crystals]": "₺179,99",
       "[A big package of crystals]": "₺449,99",
-      "Coupon of the Greedy Cave": "₺129,99",
+      "Coupon of the Greedy Cave": "₺39,99",
       "[A big chest of crystals]": "₺2.299,99",
       "[A chest of crystals]": "₺899,99",
-      "Package1": "₺39,99"
+      "Package1": "₺39,99",
+      "Package8": "₺2.299,99",
+      "Package7": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749229340608,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Coupon of the Greedy Cave": "₺39,99",
+            "Package8": "₺2.299,99",
+            "Package7": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749096403951,
@@ -25450,6 +25466,25 @@
       "Hero Margosa": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749229340608,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "₺349,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Tower Ignis Altar": "₺129,99",
+            "Hero Grosh": "₺229,99",
+            "Special Offer 27": "₺349,99",
+            "Special Offer 24": "₺349,99",
+            "Special Offer 21": "₺349,99",
+            "Special Offer 20": "₺349,99",
+            "Special Offer 19": "₺349,99",
+            "Special Offer 18": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748923590265,
@@ -53886,6 +53921,16 @@
       "Premium Features": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749229340608,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749078140241,

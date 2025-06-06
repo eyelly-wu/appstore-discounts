@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-05T23:23:08.348Z</updated>
+    <updated>2025-06-06T17:23:04.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-05T23:23:08.349Z</updated>
+        <updated>2025-06-06T17:23:04.424Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrThu, 05 Jun 2025 23:23:08 GMT</id>
+        <id>rankingtrFri, 06 Jun 2025 17:23:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-05T23:23:08.349Z</updated>
+        <updated>2025-06-06T17:23:04.424Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -50,13 +50,13 @@ feedId:99063474310237184+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1112</b>
+        <b>1114</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>911</b>
+        <b>913</b>
       </td>
       <td>
         <b>13</b>
@@ -67,13 +67,13 @@ feedId:99063474310237184+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1011</b>
+        <b>1013</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>839</b>
+        <b>841</b>
       </td>
       <td>
         <b>12</b>
@@ -92,6 +92,29 @@ feedId:99063474310237184+userId:73658201673997312
     <tr>
       <td>
         <b>1</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Premium Features</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id918609651">Money Pro: Personal Finance AR</a>
@@ -114,7 +137,30 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1028950091">The Greedy Cave</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Coupon of the Greedy Cave</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -137,30 +183,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Premium Features</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
@@ -177,7 +200,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -188,29 +211,6 @@ feedId:99063474310237184+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1028950091">The Greedy Cave</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Coupon of the Greedy Cave</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -582,6 +582,149 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayNav - No ads in videos!]]></title>
+        <id>PlayNav - No ads in videos!-tr-1749229340608</id>
+        <link href="https://apps.apple.com/tr/app/playnav-no-ads-in-videos/id6446178861?uo=4"/>
+        <updated>2025-06-06T17:02:20.608Z</updated>
+        <summary type="html"><![CDATA[Premium Features: ₺449,99 → ₺39,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/playnav-no-ads-in-videos/id6446178861?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ba/1a/fcba1a02-3654-b8f3-5710-7822bcde85d5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Premium Features：</strong><span>₺449,99</span> → <b>
+  <strong>₺39,99</strong>
+</b><span>[₺19,99 ~ ₺449,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Premium Features：<b>₺39,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Are you tired of interruptions caused by ads in your YouTube videos?
+
+The new YouTube PlayNav video browser will block all intrusive ads that appear while watching your videos, so you can enjoy your favorite videos smoothly and without interruptions.
+
+Plus, our app offers features you’ll love:
+• On-Screen Playback: Watch YouTube videos while using other apps.
+• Audio-Only Mode: Listen to any YouTube video with your screen locked.
+• Auto Shutdown: Set a sleep timer. (Premium)
+• Loop Mode: Automatically repeat your favorite videos. (Premium)
+• Learning Mode: Learn languages using subtitles. (Premium)
+
+It also includes essential features such as playlists, speed adjustment (improved), related videos, AirPlay, and more to enhance your video-watching experience.
+
+» HOW TO USE PLAYNAV?
+
+ON-SCREEN PLAYBACK (PIP) (Premium)
+
+Watch YouTube videos while using any other app. Once activated, the player will shrink on your screen, allowing you to move or hide it with a double tap.
+
+» How to activate it?
+1. While playing a video, tap the PIP icon in the upper-left corner (two small screen icons).
+2. While a video is playing, swipe up from the bottom of your iPhone, and the player will appear on your screen.
+
+AUDIO-ONLY MODE
+
+Listen to the audio of your favorite YouTube videos with your iPhone screen locked. Use it while exercising, walking, or before bed. Combine it with the auto shutdown feature to relax while listening to your favorite videos!
+
+» How to activate it?
+1. Enable On-Screen Playback.
+2. Then, lock your iPhone, and the audio will continue playing.
+
+AUTO SHUTDOWN
+
+Bedtime? Find your favorite YouTube video or playlist, set the auto shutdown timer, and let your favorite audio accompany you as you fall asleep.
+
+» How to activate it?
+1. Tap the Sleep icon (moon) in the player.
+2. Select the time you want for auto shutdown.
+3. You can combine it with Audio-Only Mode.
+
+LOOP MODE (REPEAT VIDEO)
+
+Want your video to play on repeat? Use Loop Mode to replay your video as many times as you like. You can also combine it with Audio-Only Mode.
+
+» How to activate it?
+1. Tap the Repeat icon. Your video will keep playing on loop until you disable it.
+
+LEARN LANGUAGES WITH SUBTITLES (LEARNING MODE)
+
+Now you can learn languages using subtitles! When you activate Learning Mode, you will see both the original subtitles and the translation in your language. You can also adjust the playback speed to better understand each word.
+
+» How to activate it?
+1 Search for videos in the language you are learning.
+2 Once your video starts playing, tap the Learning Mode button next to the video title.
+
+– TRY PLAYNAV NOW! –
+Enjoy all basic features for free and unlock Premium with a one-time purchase.
+
+Minimum requirements:
+• iOS 15 or higher.
+• 3G connection or higher.
+
+» Related keywords:
+YouTube, YouTube Music, YouTube Vanced, ad blocker, no subscription, skip YouTube ads, ad-free music, block pop-ups, adblock for YouTube, block pop-up ads, ad-free content, premium ad blocker, AdBlock Plus, remove ads, YouTube without ads.
+
+- Need help?
+Visit: playnav.vidiom.app or contact us at info@playnav.vidiom.app
+
+Terms of Service: playnav.vidiom.app/terms-of-service
+Privacy Policy: playnav.vidiom.app/privacy-policy
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/1b/a3/f41ba35e-2cd1-bfa1-1586-2fad3543c910/e56d11f2-8cdc-4e8a-97a1-8e00a0bdf908_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/fe/0e/88fe0ed8-2113-5dcd-c7ae-09f39ef6750a/febb8eb4-e913-44a6-829a-bdedac85315b_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/b3/b2/18b3b206-bb85-4773-a61d-5965a7b0e985/8af986d4-f22c-43a5-8c1c-1c5965a75fa2_Hotpot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/0c/84/410c8494-9e93-277d-feb2-af28220e5e97/c7bbd4b7-5d74-42fe-8ee1-858c90270f96_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/d6/2b/aed62b9b-53dc-59af-3fe5-28e7ecdbd296/6522e8f6-efb0-4ce5-a718-8b1e3079015f_Hotpot_4.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Greedy Cave]]></title>
+        <id>The Greedy Cave-tr-1749229340608</id>
+        <link href="https://apps.apple.com/tr/app/the-greedy-cave/id1028950091?uo=4"/>
+        <updated>2025-06-06T17:02:20.608Z</updated>
+        <summary type="html"><![CDATA[Coupon of the Greedy Cave: ₺129,99 → ₺39,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/the-greedy-cave/id1028950091?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/25/c4/e525c49e-ab0e-e37e-ed0a-5012404bc7d3/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Coupon of the Greedy Cave：</strong><span>₺129,99</span> → <b>
+  <strong>₺39,99</strong>
+</b><span>[₺39,99 ~ ₺179,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺4,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Coupon of the Greedy Cave：<b>₺39,99</b>
+  </li><li>
+    Package8：<b>₺2.299,99</b>
+  </li><li>
+    Package7：<b>₺1.299,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day. 
+
+Our story begins in a remote kingdom to the north, Iblis, an obscure and oft-forgotten place. It is a wild and barren land, a place where its people scrape a living from the earth, mining minerals for the lords of the south. On occasion, adventurers would stop by for the night but never linger. Until one day, a fledgling adventurer lost his way and stumbled into a hole. The story might have ended then had he not come back, but return he did, with sacks of gold and glittering treasure. 
+
+Like a fierce gale from the north, news of his fame and fortune fanned across the kingdoms overnight, and kings sent their bravest warriors and adventurers to clear the cavern of monsters in search of treasure. Even peasants wanting a part of this newfound wealth partook in these expeditions. In no time at all, a bustling town had sprung up in this forgotten place. People set up camps, and formed their own groups to explore the cave. Clever merchants not missing this opportunity, built taverns and shops near the cave, selling equipment and potions to eager adventurers. At first, everything seemed fine. As explorers delved into the caves, they encountered new creatures and discovered new treasures. Mysteries continued to pour forth from the cave, yet nobody knew where the source of the secrets lay. However, as the explorations continued, the balance of wealth beyond the cave began to waver, and cracks appeared among those adventurers who had previously worked arm-in-arm. The latecomers or weak, limited to wandering the upper levels of the cave, could only watch as the veteran adventurers brought treasure after treasure from the deep. They began harboring dark thoughts as they watched the veteran adventurers grow arrogant from their largesse, ordering people around, hoarding secrets from the rest. The place became a festering pool of suspicions and greed, mired in a jealous rage. 
+
+It started with an adventurer disappearing in the cave. Rumors circulated he had found some legendary treasure and hoarded it for himself. Others said he had been guided to another world by some mysterious magic force in the cave. Still, the unspoken belief was that he had been murdered by a rival party and was buried somewhere beneath the caverns. Nobody knows exactly what happened, but people have continued to disappear ever since. As more people have gone missing, some adventurers have called it quits, others cling to hope, and a few continue to wait and see. Which brings us to you, an ordinary young man, coming into this extraordinary circumstance with purposes unknown to others. May you find what you seek in ...
+
+--------------------------------------------------------
+In " The Greedy Cave", you are a brave adventurer tasked with exploring a mysterious cave and battling all kinds of monsters.
+
+Use your wits to defeat them, learn different skills, gain mighty equipment, challenge evil monster bosses, and decipher the mystery surrounding this cave...
+
+Game Features
+·Randomly generated cave levels provide a different game experience every time!                     
+·Hundreds of monsters to defeat!
+·Hundreds of equipment to collect!
+·Hundreds of quests and achievements to conquer!
+·Enchant/Reform/Level up/Gold collecting, and more abundant systems to explore!
+
+Contact us
+bd@avalongames.com.cn
+https://www.facebook.com/greedycave/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d8/82/80/d8828029-b4ad-d826-3477-2ef28fab831b/3fe518d5-97e2-47b7-9726-3f8537303757_1242x2208bb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3c/7b/27/3c7b2770-1da5-973c-601d-5126a080086c/0d0f8b31-e3b8-415c-9298-731a9e04ba17_1242x2208bb__U00281_U0029.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/16/5c/3d165c74-7c41-79c9-cb89-fa61498a1765/84f61603-c557-47fb-a32c-50fe07aadb37_1242x2208bb__U00282_U0029.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5a/1e/57/5a1e5738-0143-f680-6c33-4e3a5bbe53b0/1bba7ce0-8a29-43be-a954-33623d955331_1242x2208bb__U00283_U0029.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/65/a3/c8/65a3c84c-03c4-6a2e-750b-52e8f7a75531/b29142cf-39ed-4921-a207-bac4de93715a_1242x2208bb__U00284_U0029.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/40/30/67/403067b0-2cf8-17fb-8cf3-654f5f18947e/4097713c-e632-4cf1-b79d-cd1cd68bf79b_2048x2732bb.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/50/14/3e/50143e10-1086-9a17-0d37-37487a198792/2500cb7b-fab2-4690-b303-61a3d676c2d2_2048x2732bb__U00281_U0029.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/61/76/d3/6176d382-b6f0-a650-b081-d098e7864fa6/3ac1f178-06bd-4653-a6b9-b67e6ee45b12_2048x2732bb__U00282_U0029.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/80/de/85/80de85df-71f7-9c60-5c46-cd5eb42aff04/dd752b98-76af-49ad-98b2-58fc62bdf6d4_2048x2732bb__U00283_U0029.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/cc/b2/56/ccb25637-0099-a2c4-71a2-60f242eaf284/8ab99853-a1fc-4a7d-8bd7-97c8afc3d7a4_2048x2732bb__U00284_U0029.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DayCost Pro - Personal Finance]]></title>
@@ -1492,245 +1635,5 @@ Turn on and off the main panel filter view
 The shutter timer is set up from three sec. to 15 sec.
 About section and link to support page
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/6e/58/c06e5881-ce6b-0937-c609-58d2f8557c29/6f1b0132-9e9f-4d6c-9a4e-665b22853abb_IMG_0371.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/d2/c6/e0d2c615-fa3a-9184-a794-f99d8e498feb/d4427147-6b62-4596-af09-4a35b87832b7_IMG_0361.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/35/2e/54352e36-df06-92d2-7382-616163bbb956/41a9bd83-f212-49a7-b859-89839d95947d_IMG_0367.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/43/52/f14352db-757c-16d0-ac24-bb0307170978/009c4331-a38f-4fa4-9a48-324d6c3297b7_IMG_0370.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/a0/ce/05a0ce88-5d87-920e-4ce6-65dcf6a299d0/9f7c8b2e-4e28-40e3-af67-9e4c8cc4c87f_IMG_0355.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/51/3e/29/513e2968-5f23-18ef-5e55-6f3ea87d4d27/6025441a-c5a3-4c3b-992a-a0810e756e7b_IMG_0366.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/a8/42/fba8424c-3bd8-c7a7-27bf-44f2594d50ec/8ade7d85-8601-4b85-ad46-71f78a576f70_IMG_0358.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/71/c2/5971c217-ec0d-d3c3-35d1-7ca62761fe4b/3029f292-94ef-4c72-8b3f-719e026963d7_IMG_0364.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/1b/94/9f1b949b-7f73-6f9e-d20b-e87a38107d24/dfa9dad6-f006-4129-81e3-df4e75edc5df_IMG_0354.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/f1/99/faf199e4-5393-4915-9245-e76cd195a1be/b7d4c8f2-3fdf-418e-9614-e6ff4611804a_IMG_0363.PNG/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c1/01/c5/c101c5cd-820e-f6a1-c7a2-acc2e7941d81/c01ad8dc-2249-4a9c-99dc-dbdacce6d0ef_IMG_4837.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/c0/47/ebc04760-d923-61a0-2b42-9faf46dfed1b/e237afaa-91ab-4b7d-9743-d08d84e8007e_IMG_4838.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/96/89/f69689c0-95c7-cff1-83bb-7e5d0ff3a5e6/027e9775-3cca-49a0-bef6-5b85a44014ce_IMG_4839.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a9/e1/44/a9e1440f-2c05-4ed8-5b7b-d9660dea11cf/40afaf66-c845-40ee-bd57-8f9dec3c3b25_IMG_4840.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/77/f1/5e77f16c-4330-d0a5-42ba-97d21ded51f0/2cacf49f-ca2e-4e0b-a709-d5d128a67e7d_IMG_4841.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/d6/f3/58d6f321-4ba3-07a7-0cbf-70f532c05659/65cf9bb7-586d-4a7a-a956-dca5b790d254_IMG_4842.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/a2/cf/7aa2cf8a-114b-caa2-798d-2166cbfd94b3/0d110993-d0ce-4f7d-915e-13824cc14b14_IMG_4845.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/1f/06/ba1f068b-46bd-ab58-d3d4-a14b4cfa18a6/19b42da0-02d3-4156-ae7c-80d0e31f8350_IMG_4846.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/c4/40/49c4405c-a2da-797c-4bbb-2e7068f6df35/d354edf7-fb27-4ccd-830a-d7ba6f3e2c73_IMG_4852.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9a/ca/ee/9acaee9a-3a6a-46bf-b378-0f39eae40c86/485059ea-3015-4324-ad9e-c9b7ee96674e_IMG_4859.PNG/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayNav - No ads in videos!]]></title>
-        <id>PlayNav - No ads in videos!-tr-1748966562420</id>
-        <link href="https://apps.apple.com/tr/app/playnav-no-ads-in-videos/id6446178861?uo=4"/>
-        <updated>2025-06-03T16:02:42.420Z</updated>
-        <summary type="html"><![CDATA[Premium Features: ₺129,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/playnav-no-ads-in-videos/id6446178861?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ba/1a/fcba1a02-3654-b8f3-5710-7822bcde85d5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Premium Features：</strong><span>₺129,99</span> → <b>
-  <strong>₺39,99</strong>
-</b><span>[₺39,99 ~ ₺229,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Premium Features：<b>₺39,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Are you tired of interruptions caused by ads in your YouTube videos?
-
-The new YouTube PlayNav video browser will block all intrusive ads that appear while watching your videos, so you can enjoy your favorite videos smoothly and without interruptions.
-
-Plus, our app offers features you’ll love:
-• On-Screen Playback: Watch YouTube videos while using other apps.
-• Audio-Only Mode: Listen to any YouTube video with your screen locked.
-• Auto Shutdown: Set a sleep timer. (Premium)
-• Loop Mode: Automatically repeat your favorite videos. (Premium)
-• Learning Mode: Learn languages using subtitles. (Premium)
-
-It also includes essential features such as playlists, speed adjustment (improved), related videos, AirPlay, and more to enhance your video-watching experience.
-
-» HOW TO USE PLAYNAV?
-
-ON-SCREEN PLAYBACK (PIP) (Premium)
-
-Watch YouTube videos while using any other app. Once activated, the player will shrink on your screen, allowing you to move or hide it with a double tap.
-
-» How to activate it?
-1. While playing a video, tap the PIP icon in the upper-left corner (two small screen icons).
-2. While a video is playing, swipe up from the bottom of your iPhone, and the player will appear on your screen.
-
-AUDIO-ONLY MODE
-
-Listen to the audio of your favorite YouTube videos with your iPhone screen locked. Use it while exercising, walking, or before bed. Combine it with the auto shutdown feature to relax while listening to your favorite videos!
-
-» How to activate it?
-1. Enable On-Screen Playback.
-2. Then, lock your iPhone, and the audio will continue playing.
-
-AUTO SHUTDOWN
-
-Bedtime? Find your favorite YouTube video or playlist, set the auto shutdown timer, and let your favorite audio accompany you as you fall asleep.
-
-» How to activate it?
-1. Tap the Sleep icon (moon) in the player.
-2. Select the time you want for auto shutdown.
-3. You can combine it with Audio-Only Mode.
-
-LOOP MODE (REPEAT VIDEO)
-
-Want your video to play on repeat? Use Loop Mode to replay your video as many times as you like. You can also combine it with Audio-Only Mode.
-
-» How to activate it?
-1. Tap the Repeat icon. Your video will keep playing on loop until you disable it.
-
-LEARN LANGUAGES WITH SUBTITLES (LEARNING MODE)
-
-Now you can learn languages using subtitles! When you activate Learning Mode, you will see both the original subtitles and the translation in your language. You can also adjust the playback speed to better understand each word.
-
-» How to activate it?
-1 Search for videos in the language you are learning.
-2 Once your video starts playing, tap the Learning Mode button next to the video title.
-
-– TRY PLAYNAV NOW! –
-Enjoy all basic features for free and unlock Premium with a one-time purchase.
-
-Minimum requirements:
-• iOS 15 or higher.
-• 3G connection or higher.
-
-» Related keywords:
-YouTube, YouTube Music, YouTube Vanced, ad blocker, no subscription, skip YouTube ads, ad-free music, block pop-ups, adblock for YouTube, block pop-up ads, ad-free content, premium ad blocker, AdBlock Plus, remove ads, YouTube without ads.
-
-- Need help?
-Visit: playnav.vidiom.app or contact us at info@playnav.vidiom.app
-
-Terms of Service: playnav.vidiom.app/terms-of-service
-Privacy Policy: playnav.vidiom.app/privacy-policy
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/1b/a3/f41ba35e-2cd1-bfa1-1586-2fad3543c910/e56d11f2-8cdc-4e8a-97a1-8e00a0bdf908_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/fe/0e/88fe0ed8-2113-5dcd-c7ae-09f39ef6750a/febb8eb4-e913-44a6-829a-bdedac85315b_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/b3/b2/18b3b206-bb85-4773-a61d-5965a7b0e985/8af986d4-f22c-43a5-8c1c-1c5965a75fa2_Hotpot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/0c/84/410c8494-9e93-277d-feb2-af28220e5e97/c7bbd4b7-5d74-42fe-8ee1-858c90270f96_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/d6/2b/aed62b9b-53dc-59af-3fe5-28e7ecdbd296/6522e8f6-efb0-4ce5-a718-8b1e3079015f_Hotpot_4.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hitman: Blood Money — Reprisal]]></title>
-        <id>Hitman: Blood Money — Reprisal-tr-1748952224277</id>
-        <link href="https://apps.apple.com/tr/app/hitman-blood-money-reprisal/id1631331207?uo=4"/>
-        <updated>2025-06-03T12:03:44.277Z</updated>
-        <summary type="html"><![CDATA[Full Game Unlock: ₺699,99 → ₺429,00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/hitman-blood-money-reprisal/id1631331207?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/60/35/18603563-c232-6de9-9993-2db7ac1e70e3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Full Game Unlock：</strong><span>₺699,99</span> → <b>
-  <strong>₺429,00</strong>
-</b><span>[₺429,00 ~ ₺699,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺429,00</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Full Game Unlock：<b>₺429,00</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  You are Agent 47 — a trained killer caught in the crosshairs of a rival agency, “The Franchise”.
-
-Embark on an daring mission to take out a shadowy conspiracy’s lethal architects, and employ every tool at your disposal to get the job done while keeping a low profile. Infiltrate, execute, and escape undetected.
-
-Featuring gameplay improvements inspired by later games in the series, Reprisal is an artful redesign of a stealth-action classic — complete with a fully customisable touchscreen interface and full gamepad support.
-
-EXECUTION IS EVERYTHING
-Become a master of disguise, ingenuity and improvisation. With multiple ways to approach each objective, Blood Money’s sandbox missions encourage experimentation, creativity, and repeat playthroughs.
-
-THE ULTIMATE PROFESSIONAL
-Hit hard with an arsenal of upgradable weapons. Perform silent, witness-free kills, or manipulate the environment to engineer tragic “accidents”. The cleaner the hit, the better the payoff.
- 
-INTRODUCING INSTINCT MODE
-The devil is in the details. Inspired by later HITMAN games, Instinct Mode highlights targets, guards and mission-critical points of interest for stealthy kills and quick getaways — the hallmarks of a professional assassin.
-
-ONE STEP AHEAD
-An all-new minimap offers situational awareness in real-time, while added alerts warn players when 47 is trespassing or arousing suspicion.
-
-COMPLETE CONTROL
-Tailor the touchscreen controls, connect a gamepad, or utilise full keyboard and mouse support. Whatever your playstyle, complete control is always at your fingertips.
-
-We recommend playing Hitman: Blood Money — Reprisal on iOS 16 or later. You need 3.9GB of free space on your device, though we recommend at least double this to avoid initial installation issues.
-
-Supported iPhones:
-
- • iPhone 8 Plus and later
- • iPhone SE 2 (2020) and later
-
-Supported iPads:
-
- • iPad mini 5 (2019) and later
- • iPad Air 3 (2019) and later
- • iPad 7 (2019) and later
- • iPad Pro 1st gen (2015), 12.9" model only
- • iPad Pro 2nd gen (2017) and later
-
-• If you require assistance, please contact our support team at support@feralinteractive.com
-
-Hitman: Blood Money © 2000-2024 IO Interactive A/S. IO Interactive, IOI, HITMAN are registered trademarks of IO Interactive A/S. Developed for and published on iOS by Feral Interactive. iOS and the iOS logo are trademarks of Apple Inc., registered in the U.S. and other countries. Feral and the Feral logo are trademarks of Feral Interactive Ltd. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1c/e6/53/1ce6535b-ea0a-fe76-4824-80929a647724/c056553a-41df-4e6b-ae7c-1e2e29457b3c_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_1_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/f0/0a/3cf00a87-2ba5-1ee5-c229-0b4dc2f96ea6/84d6d83d-ff7f-490d-b754-e2eb5edc136f_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_2_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/54/ac/ba54ac93-b9c3-3732-c139-06f93822edaf/e8b8bab9-2fb6-4b39-a1d2-d6a3acf5cf33_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_3_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/a1/29/c2a1297e-9305-d077-25c1-185aba8e3891/8b6b110d-2161-430b-8514-dc0c31b0a4df_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_4_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/89/20/a2892095-a406-8e1c-9954-af2d69b1f6db/72057d87-ddce-48f3-b1a4-ae824299ac27_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_5_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/c3/74/84c37467-76a5-53e8-860f-5df22c2e1a50/187c8542-0bba-4e4b-b0ec-9c2c5c41638d_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_6_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e7/d1/2a/e7d12a82-90ea-c79c-b94a-c43dc712ed3d/8ccbda1e-89bb-4431-bc87-f1dae3e92763_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_7_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/a1/9a/60a19a68-f335-3c25-66c3-ac13df7b26fb/ee908e9a-7784-446e-9bb5-9881edd296be_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_8_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b4/f4/fcb4f477-1926-a1bc-e739-c8e3ef69735b/90588447-e923-469e-a14c-b4e7cd7101ff_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_9_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/e9/5c/d6e95cf1-90ae-5d95-5822-26c09be15af0/7b301549-c66a-4562-a637-f0949b8c5a1f_itmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_10_EN.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/5e/08/275e08e5-4b17-d5df-e902-18c9c6d09a40/cd42009e-7746-47f8-a823-798d6bf78ff1_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_1_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/06/12/f606124d-888a-7bb5-9b95-7de95cf0e1a9/c69c9e42-15f8-446c-849d-2ab28ede3f3d_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_2_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/8b/d7/da8bd783-e464-4a3b-ef03-083cb39c8651/09c02f65-5901-4c0e-92a3-d83a4b8c0609_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_3_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/48/5a/74485aa8-0a4b-a3d2-fc30-1c3b9eb02933/c9b42c8b-38d6-4aa1-b2d8-39007d882955_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_4_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/8c/f9/c18cf92f-ec2f-ca20-7dec-2e9c948cf5f7/6391b511-1e3a-4a46-8939-3a70a697cb25_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_5_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/19/4b/b6194b2e-925a-d2b6-4d9d-5184a01f5de6/bb9e4c98-cafe-45ee-bb70-5cd7bc1bb61f_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_6_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/f7/3c/6ef73cf6-509e-6c1c-b9e8-28ea3eabe9f8/bb1ac864-34ec-48a9-ad77-e9a95f1b0dc3_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_7_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/29/87/ff2987a7-d6c0-ab29-af05-55e6f22abe0f/c26bd0d6-19d0-4f10-91d1-ad82daf8bec8_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_8_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/ba/9b/16ba9b02-96cd-3b34-dc05-052396f495b4/a656ff7e-c561-41fe-a10e-1ef2a0f06bc9_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_9_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/63/be/b0/63beb0cb-5098-c21e-1981-a05213024a6e/eb24684a-4f9d-45dc-aaa9-1d05c2a0d4f0_manbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_10_EN.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day R Premium]]></title>
-        <id>Day R Premium-tr-1748944947826</id>
-        <link href="https://apps.apple.com/tr/app/day-r-premium/id1038014543?uo=4"/>
-        <updated>2025-06-03T10:02:27.826Z</updated>
-        <summary type="html"><![CDATA[Handful of caps: ₺99,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/day-r-premium/id1038014543?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/40/cb/e040cbb8-04ca-9935-b2b1-def693d42b5b/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Handful of caps：</strong><span>₺99,99</span> → <b>
-  <strong>₺39,99</strong>
-</b><span>[₺39,99 ~ ₺99,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺129,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Handful of caps：<b>₺39,99</b>
-  </li><li>
-    Pile of caps：<b>₺229,99</b>
-  </li><li>
-    Sausepan of caps：<b>₺449,99</b>
-  </li><li>
-    Special pack：<b>₺229,99</b>
-  </li><li>
-    Great pack：<b>₺449,99</b>
-  </li><li>
-    Small pack：<b>₺39,99</b>
-  </li><li>
-    Useful pack：<b>₺129,99</b>
-  </li><li>
-    Standart pack：<b>₺99,99</b>
-  </li><li>
-    Case with caps：<b>₺899,99</b>
-  </li><li>
-    Survival kit：<b>₺39,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.
-
-Benefits of Premium version:
-- Unique pet Raven
-- Starter Kit
-- Caches of useful items in shelters
-- Expanded selection of perks
-- Chat without any limitations
-- Reduced waiting time between parcels
-- Access to all kinds and colors of map markers
-
-Can you survive in the world destroyed after a nuclear war? With radiation, hunger and diseases around you. You have to cross the whole country and save your family. Who knows if they are alive, or maybe radiation and deadly virus have already reached them? Reveal a secret of the apocalypse and get your memories back during a journey across the huge territory of the USSR in the 80th. 
-
-It is not easy to survive after apocalypse. You'll face the real hungry games! Monsters, zombie, thirst, uncountable diseases and injuries, blood-thirsty enemies – you have to fight it all. Craft all your resources: weapons, clothes, means of transport. 
-
-- Hardcore survival:
-Hunger, zombie and radiation won't give you a chance to relax.
-
-- Realistic world:
-The turn of the seasons, huge map of USSR and more than 2500 different towns and cities. Hunt animals, but be careful: even rats can injure you seriously! Explore the wilderness!
-
-- A lot of opportunities:
-Multicraft, obtaining skills, hundreds of crafting schemes, a lot of ammunition.
-
-- People and stories:
-Interesting quests and helpful allies. An open game world.
-
-- Improve your skills:
-Mechanics, medicine, chemistry and many others.
-
-- Cooperative mode:
-The Online mode  with a chat room, exchange of items and united fightings. Multiplayer survival game.
-
-Explore the abandoned houses and shelters. Find weapon and build transport using various materials.
-Remember everything you learnt on chemistry and physics! It is the most realistic surviving game! 
-
-Features: 
-- Сraft system – get resources, hunt, find useful objects or weapon and create your own one! 
-- Hardcore simulator of survival 
-- Journey across the wilderness map in the multiplayer mode 
-- Choose the difficulty mode: sandbox, real life or online
-War never changes. In 1985 USSR went down before an unknown enemy. In a few days the entire country became a radioactive wasteland - violence, hunger and diseases reign here now. When you no longer loose in the fight with the death, the other survivors wait for you in the cooperative - the Online mode let you survive together dealing with difficulties, talking in the chat room and sending gifts to each other.
-
-User agreement: http://tltgames.ru/license-agreement-en
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/90/cf/0690cf73-1247-f835-15f7-cba623e19edc/1aecd46d-7ce9-4d81-9254-f628456425f6_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/36/f3/1536f3f6-01ce-9d22-4a93-7c889e80169f/09283753-f39d-41a1-a45c-a7b4e867dbc8_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/d3/6c/4dd36ca1-e042-b715-68bc-a5e4424fefd4/7ac799fd-b463-489a-8852-6fe660cc8d23_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2b/6b/3e/2b6b3e51-7ff3-a731-3d71-60a6d3976f44/d21e96ef-0353-43b6-9539-930d16b25c30_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/38/88/133888c3-3156-e830-a8da-6c0b8ef4b4a3/f7cfb957-6f62-424f-892c-2aca9a521791_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c5/cd/d2/c5cdd2ce-4318-1ede-6e82-41078196699e/d5e07146-2bb5-4e91-a9fa-b47115572314_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/e4/52/43e452a4-9079-5620-938f-4248f571ad3f/31d40a46-fdda-4684-a8f8-574a13cd83ae_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/c3/62/64c362cf-6d16-57e3-d981-964ebf8a7de9/392e8dcd-788c-43d3-ab8e-8a47b6e0bf78_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/81/97/04/81970402-ffcd-b543-eb29-a5def3c23dff/ea5affda-de2e-4178-8d42-0abc18bce379_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/1b/a4/e91ba456-6548-115e-1d6a-5f31469aa27f/b57105d1-c058-481c-9008-6239d912b164_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/fc/d5/09fcd512-30de-f8ca-beaf-59367621c593/57245464-4ab4-4aca-85e8-dbe65afa71ae_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/94/32/4b943220-f995-7db5-99cd-7b037a58e291/0d67567b-fb97-4977-9bdf-f01902998a39_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/b9/3d/2cb93d5d-72aa-b278-d25f-cd322a95f96d/3fc94b42-ea47-42e4-a8a8-b2e85d29602c_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/a2/cc/a2a2cc70-edf9-ae7d-1be7-fe35d6cab765/c211749e-8593-4699-84cd-3cddb3820ef7_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d0/47/f4/d047f41e-562e-8192-efa2-a5a1ffdae62c/0f095350-5f04-4bf9-aa2e-2a62e5544f5d_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/33/cb/a2/33cba21c-0968-a18b-f647-77d7e57f8297/5f51ada7-eae5-4631-b4b5-d6b1822158e0_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ba/9f/bf/ba9fbf20-5eb7-c07a-3af5-86d8fdb3438d/084f61e7-8001-44e5-a622-f7010273991a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/8a/93/a78a93ca-2b68-084e-e956-6e02882a5009/4b0f2b43-fddf-4124-a341-ca895b5a41b0_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/61/66/ac616636-9b7e-985e-217e-b33e81c0f562/39947d08-9a25-4897-a887-06e31ecb8eff_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/09/c2/7809c277-e401-4b9f-1c32-dc945aa0bf71/a2c7551f-3f9e-443b-ad53-2cb0dd304dd0_9.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
