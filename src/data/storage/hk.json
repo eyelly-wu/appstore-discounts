@@ -2250,7 +2250,10 @@
       "Verdi: The Mutopia Collection": "HK$ 0.00",
       "Rameau: The Mutopia Collection": "HK$ 0.00",
       "Sousa: The Mutopia Collection": "HK$ 0.00",
-      "Gottschalk: The Mutopia Collection": "HK$ 0.00"
+      "Gottschalk: The Mutopia Collection": "HK$ 0.00",
+      "Bach: The Mutopia Collection": "HK$ 8.00",
+      "Beethoven: The Mutopia Collection": "HK$ 8.00",
+      "Joplin: The Mutopia Collection": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 188,
@@ -2277,9 +2280,31 @@
       "Verdi: The Mutopia Collection": "HK$ 0.00",
       "Rameau: The Mutopia Collection": "HK$ 0.00",
       "Sousa: The Mutopia Collection": "HK$ 0.00",
-      "Gottschalk: The Mutopia Collection": "HK$ 0.00"
+      "Gottschalk: The Mutopia Collection": "HK$ 0.00",
+      "Bach: The Mutopia Collection": "HK$ 8.00",
+      "Beethoven: The Mutopia Collection": "HK$ 8.00",
+      "Joplin: The Mutopia Collection": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749168565362,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "Bach: The Mutopia Collection": "HK$ 8.00",
+            "Beethoven: The Mutopia Collection": "HK$ 8.00",
+            "Brahms: The Mutopia Collection": "HK$ 0.00",
+            "Burgmüller: The Mutopia Collection": "HK$ 0.00",
+            "Chopin: The Mutopia Collection": "HK$ 8.00",
+            "Gottschalk: The Mutopia Collection": "HK$ 0.00",
+            "Haydn: The Mutopia Collection": "HK$ 0.00",
+            "Händel: The Mutopia Collection": "HK$ 0.00",
+            "Joplin: The Mutopia Collection": "HK$ 8.00",
+            "Liszt: The Mutopia Collection": "HK$ 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748837343128,
@@ -28305,6 +28330,27 @@
             "几个元宝": "HK$ 8.00",
             "一袋元宝": "HK$ 68.00"
           }
+        }
+      ]
+    ]
+  },
+  "1123436822": {
+    "name": "五色學倉頡 (1500 字)",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749168565362,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -55642,6 +55688,27 @@
           "timestamp": 1722784406759,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1576521142": {
+    "name": "SOULVARS",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749168565362,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
         }
       ]

@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1123436822,
+    name: {
+      mo: '五色學倉頡 (1500 字)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1576521142,
+    name: {
+      tw: 'SOULVARS',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1207354572,
     name: {
       mo: '色卡 - 設計專業的配色工具',
