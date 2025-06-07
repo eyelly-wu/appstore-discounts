@@ -2430,6 +2430,14 @@
     "history": [
       [
         {
+          "timestamp": 1749301688150,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "MyNetDiary Premium": "$69.99"
+          }
+        },
+        {
           "timestamp": 1749297790397,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -19078,6 +19086,25 @@
     "history": [
       [
         {
+          "timestamp": 1749301688150,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "12 Mo. Fongo Ultimate": "$99.99",
+            "3 Mo. Fongo Ultimate": "$29.99",
+            "6 Mo. Fongo Ultimate": "$54.99",
+            "1 Mo. Fongo Ultimate": "$12.99",
+            "12 Mo. Remove Ads": "$16.99",
+            "6 Mo. Remove Ads": "$9.99",
+            "3 Mo. Remove Ads": "$5.49",
+            "1 Mo. Remove Ads": "$2.79",
+            "12 Mo. Fongo Plus": "$84.99",
+            "12 Mo. Global Texting": "$27.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749000608311,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -21603,6 +21630,25 @@
       "Horse": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749301688150,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Free Checkpoints": "$0.99",
+            "Large Coin Pack": "$2.99",
+            "Medium Coin Pack": "$1.99",
+            "Small Coin Pack": "$0.99",
+            "Pig": "$0.99",
+            "Dog": "$0.99",
+            "Rooster": "$0.99",
+            "Monkey": "$0.99",
+            "Goat": "$0.99",
+            "Horse": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748818931978,
@@ -56574,6 +56620,20 @@
     "history": [
       [
         {
+          "timestamp": 1749301688150,
+          "price": 34.99,
+          "formattedPrice": "$34.99",
+          "inAppPurchases": {
+            "SkySafari Premium": "$29.99",
+            "SkySafari Premium Monthly": "$3.99",
+            "PGC Galaxy Database": "$0.00",
+            "GAIA Star Database": "$0.00",
+            "Apollo Lunar Missions": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748541785741,
           "price": 24.99,
           "formattedPrice": "$24.99",
@@ -72455,7 +72515,8 @@
       "Germany Carriage A": "$1.99",
       "Germany Locomotive B": "$1.99",
       "Germany Locomotive A": "$1.99",
-      "India Expansion Bundle": "$7.99"
+      "India Expansion Bundle": "$7.99",
+      "Japan Map": "$6.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -72482,10 +72543,28 @@
       "Germany Carriage A": "$1.99",
       "Germany Locomotive B": "$1.99",
       "Germany Locomotive A": "$1.99",
-      "India Expansion Bundle": "$7.99"
+      "India Expansion Bundle": "$7.99",
+      "Japan Map": "$6.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1749301688150,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$29.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$9.99",
+            "Europe Map": "$8.99",
+            "Ticket to Ride ChristmasBundle": "$4.99",
+            "Nordic Bundle": "$7.99",
+            "Japan Expansion Bundle": "$7.99",
+            "Nordic Map": "$6.99",
+            "Japan Map": "$6.99",
+            "LegendaryAsia Expansion Bundle": "$7.99"
+          }
+        },
         {
           "timestamp": 1749279730035,
           "price": 4.99,
