@@ -22156,6 +22156,27 @@
       ]
     ]
   },
+  "1108356827": {
+    "name": "Vincelot：一款互動式騎士冒險遊戲",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749294126560,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1108479411": {
     "name": "Driving Zone 2: Car Racing",
     "maxPriceInfo": {
@@ -25499,6 +25520,43 @@
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1256626606": {
+    "name": "iTHUMP/Toxic+",
+    "maxPriceInfo": {
+      "price": 59.99,
+      "formattedPrice": "USD 59.99",
+      "Pitata TH IAP": "USD 20.99",
+      "iTHUMP - BT Remote Interface": "USD 24.99",
+      "iTHUMP - Bluetooth Interface": "USD 14.99",
+      "iThump - Prevision Interface": "USD 99.99",
+      "iTHUMP - CUPP Interface": "USD 49.99"
+    },
+    "minPriceInfo": {
+      "price": 59.99,
+      "formattedPrice": "USD 59.99",
+      "Pitata TH IAP": "USD 20.99",
+      "iTHUMP - BT Remote Interface": "USD 24.99",
+      "iTHUMP - Bluetooth Interface": "USD 14.99",
+      "iThump - Prevision Interface": "USD 99.99",
+      "iTHUMP - CUPP Interface": "USD 49.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749294126560,
+          "price": 59.99,
+          "formattedPrice": "USD 59.99",
+          "inAppPurchases": {
+            "Pitata TH IAP": "USD 20.99",
+            "iTHUMP - BT Remote Interface": "USD 24.99",
+            "iTHUMP - Bluetooth Interface": "USD 14.99",
+            "iThump - Prevision Interface": "USD 99.99",
+            "iTHUMP - CUPP Interface": "USD 49.99"
+          }
         }
       ]
     ]

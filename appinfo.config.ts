@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1108356827,
+    name: {
+      mo: 'Vincelot：一款互動式騎士冒險遊戲',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1256626606,
+    name: {
+      mo: 'iTHUMP/Toxic+',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6664061289,
     name: {
       mo: '通勝 2025',
