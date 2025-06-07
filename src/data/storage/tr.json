@@ -34218,8 +34218,8 @@
       "PRO version discounted": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
       "Priority 10k for 1 month": "₺6,49",
       "Priority 100k for 1 month": "₺2,99",
       "Priority 10k for 1 year": "₺79,99",
@@ -34230,6 +34230,23 @@
       "PRO version discounted": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749315724953,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Priority 10k for 1 month": "₺6,49",
+            "Priority 100k for 1 month": "₺2,99",
+            "Priority 10k for 1 year": "₺79,99",
+            "Priority 100k for 1 year": "₺49,99",
+            "Priority 10k for lifetime": "₺249,99",
+            "Priority 100k for lifetime": "₺199,99",
+            "PRO version": "₺99,99",
+            "PRO version discounted": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
