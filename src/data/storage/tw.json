@@ -10534,6 +10534,25 @@
     "history": [
       [
         {
+          "timestamp": 1749337348684,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Procurement Director": "$30.00",
+            "Disaster Manager": "$30.00",
+            "Medical Coordinator": "$30.00",
+            "Ethics Watchdog": "$30.00",
+            "Chaos Engineer": "$30.00",
+            "Economic Forecaster": "$30.00",
+            "Situation Director": "$30.00",
+            "Outreach Coordinator": "$30.00",
+            "Fast Response EMTs": "$30.00",
+            "Strategic Fundraiser": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749304933536,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -48010,6 +48029,27 @@
           "timestamp": 1721960142187,
           "price": 320,
           "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1465870866": {
+    "name": "百貨公司物語2",
+    "maxPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "minPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749337348684,
+          "price": 190,
+          "formattedPrice": "$190.00",
           "inAppPurchases": {}
         }
       ]

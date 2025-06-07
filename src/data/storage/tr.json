@@ -35662,6 +35662,27 @@
       ]
     ]
   },
+  "1465870866": {
+    "name": "Mega Mall Story2",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749337348684,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1466120520": {
     "name": "iVerify Basic",
     "maxPriceInfo": {
@@ -56314,6 +56335,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749337348684,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747055497515,
