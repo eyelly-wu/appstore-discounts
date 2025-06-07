@@ -6592,6 +6592,23 @@
     "history": [
       [
         {
+          "timestamp": 1749276173309,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Superpower 10": "HK$ 18.00",
+            "Unlock all level packs including future updates": "HK$ 32.00",
+            "Superpower 500": "HK$ 148.00",
+            "Superpower 20": "HK$ 32.00",
+            "Superpower 50": "HK$ 58.00",
+            "Unlock \"Bamboo Chutes\" level pack": "HK$ 18.00",
+            "Magnetic Stars Tiny Pack": "HK$ 32.00",
+            "Superpower Unlimited": "HK$ 188.00",
+            "Unlock \"Rocket Science\" level pack": "HK$ 18.00",
+            "Unlock \"Bath Time\" level pack": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1749272536699,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -29955,6 +29972,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749276173309,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "6财富币": "HK$ 8.00",
+            "128财富币": "HK$ 148.00",
+            "88财富币": "HK$ 98.00",
+            "198财富币": "HK$ 228.00",
+            "168财富币": "HK$ 188.00",
+            "1998财富币": "HK$ 2,288.00",
+            "1598财富币": "HK$ 1,888.00",
+            "898财富币": "HK$ 988.00",
+            "418财富币": "HK$ 488.00",
+            "98财富币": "HK$ 118.00"
+          }
+        },
         {
           "timestamp": 1749272536699,
           "price": 32,
@@ -76199,6 +76233,27 @@
             "一小堆鑽石": "HK$ 32.00",
             "一大堆鑽石": "HK$ 98.00"
           }
+        }
+      ]
+    ]
+  },
+  "6664061289": {
+    "name": "通勝 2025",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749276173309,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
         }
       ]
     ]

@@ -52851,6 +52851,23 @@
     "history": [
       [
         {
+          "timestamp": 1749276173309,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Ticket to Ride ChristmasBundle": "₺179,99",
+            "Round the World Ticket": "₺1.299,99",
+            "Europe Expansion": "₺449,99",
+            "Europe Map": "₺399,99",
+            "1910 Ticket Pack": "₺179,99",
+            "Legendary Asia Map": "₺249,99",
+            "Japan Expansion Bundle": "₺299,99",
+            "San Francisco Expansion Bundle": "₺299,99",
+            "LegendaryAsia Expansion Bundle": "₺299,99",
+            "Nordic Bundle": "₺349,99"
+          }
+        },
+        {
           "timestamp": 1749272536699,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -57377,6 +57394,27 @@
           "timestamp": 1749129079535,
           "price": 4.99,
           "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6664061289": {
+    "name": "通勝 2025",
+    "maxPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "minPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749276173309,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
           "inAppPurchases": {}
         }
       ]
