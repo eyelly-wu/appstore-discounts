@@ -23727,7 +23727,9 @@
       "[小箱水晶]": "$690.00",
       "貪婪洞窟點券": "$320.00",
       "Package4": "$320.00",
-      "超值禮包1": "$30.00"
+      "超值禮包1": "$30.00",
+      "超值禮包8": "$1,490.00",
+      "超值禮包7": "$990.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -23738,11 +23740,25 @@
       "[小袋水晶]": "$120.00",
       "[大箱水晶]": "$1,490.00",
       "[小箱水晶]": "$690.00",
-      "貪婪洞窟點券": "$90.00",
+      "貪婪洞窟點券": "$30.00",
       "Package4": "$320.00",
-      "超值禮包1": "$30.00"
+      "超值禮包1": "$30.00",
+      "超值禮包8": "$1,490.00",
+      "超值禮包7": "$990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749297790397,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "貪婪洞窟點券": "$30.00",
+            "超值禮包8": "$1,490.00",
+            "超值禮包7": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747109016368,
@@ -48485,6 +48501,22 @@
       "Starseeker Token": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749297790397,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Fantasy Beach Bundle": "$390.00",
+            "Starseeker Token": "$320.00",
+            "Enchanted Forest Marine Bundle": "$390.00",
+            "LA Monstropolis Marine Bundle": "$390.00",
+            "The Rainbow Bundle": "$390.00",
+            "Victorian London Marine Bundle": "$390.00",
+            "The Slam Dunk Bundle": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749204144122,

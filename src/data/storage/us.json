@@ -2425,9 +2425,19 @@
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99",
-      "MyNetDiary Premium": "$69.99"
+      "MyNetDiary Premium": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749297790397,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "MyNetDiary Premium": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
