@@ -53,9 +53,9 @@ async function controller() {
     regionStorageAppInfo,
   })
 
-  // await pushTelegramNotification(regionDiscountInfo)
+  await pushTelegramNotification(regionDiscountInfo)
 
-  // await pushDingTalkNotification(regionDiscountInfo)
+  await pushDingTalkNotification(regionDiscountInfo)
 
   end('controller')
   summarize()
