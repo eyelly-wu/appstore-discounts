@@ -27734,6 +27734,25 @@
     "history": [
       [
         {
+          "timestamp": 1749380991254,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Rate": "USD 0.00",
+            "Info": "USD 0.00",
+            "Tuner": "USD 0.00",
+            "Chromakey": "USD 0.00",
+            "Unlock All": "USD 7.99",
+            "Paint": "USD 0.00",
+            "Erase": "USD 0.99",
+            "Blend": "USD 0.99",
+            "Distortion": "USD 0.00",
+            "Magnifier": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748019744975,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -35345,7 +35364,9 @@
       "旅行家": "USD 9.99",
       "980玉符": "USD 14.99",
       "1280玉符": "USD 19.99",
-      "1980玉符": "USD 29.99"
+      "1980玉符": "USD 29.99",
+      "30元新手禮包​": "USD 4.99",
+      "6元新手禮包​​": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -35375,9 +35396,29 @@
       "旅行家": "USD 9.99",
       "980玉符": "USD 14.99",
       "1280玉符": "USD 19.99",
-      "1980玉符": "USD 29.99"
+      "1980玉符": "USD 29.99",
+      "30元新手禮包​": "USD 4.99",
+      "6元新手禮包​​": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749380991254,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "30元新手禮包​": "USD 4.99",
+            "6元新手禮包​​": "USD 0.99",
+            "演武大會68元通行證": "USD 9.99",
+            "尊享月俸": "USD 4.99",
+            "禮包11": "USD 49.99",
+            "禮包9": "USD 29.99",
+            "禮包7": "USD 14.99",
+            "禮包6": "USD 9.99",
+            "禮包8": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748854971148,
