@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 294379237,
+    name: {
+      mo: 'PokerCruncher - Advanced Odds',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1601194499,
+    name: {
+      mo: '勇者鬥惡龍 創世小玩家',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1465870866,
     name: {
       mo: '百貨公司物語2',

@@ -107,6 +107,27 @@
       ]
     ]
   },
+  "294379237": {
+    "name": "PokerCruncher - Advanced Odds",
+    "maxPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "minPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749413560175,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "294934058": {
     "name": "HotSchedules",
     "maxPriceInfo": {
@@ -45769,6 +45790,43 @@
           "price": 299.99,
           "formattedPrice": "₺299,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1601194499": {
+    "name": "DRAGON QUEST BUILDERS",
+    "maxPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99",
+      "All-in-One Pack": "₺249,99",
+      "New Content! Pixel Ring": "₺129,99",
+      "Boss Monster Model Set": "₺129,99",
+      "New Content! Astronomy Set": "₺129,99",
+      "New Content! Magic Carpet": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99",
+      "All-in-One Pack": "₺249,99",
+      "New Content! Pixel Ring": "₺129,99",
+      "Boss Monster Model Set": "₺129,99",
+      "New Content! Astronomy Set": "₺129,99",
+      "New Content! Magic Carpet": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749413560175,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "All-in-One Pack": "₺249,99",
+            "New Content! Pixel Ring": "₺129,99",
+            "Boss Monster Model Set": "₺129,99",
+            "New Content! Astronomy Set": "₺129,99",
+            "New Content! Magic Carpet": "₺129,99"
+          }
         }
       ]
     ]

@@ -85,6 +85,27 @@
       ]
     ]
   },
+  "294379237": {
+    "name": "PokerCruncher - Advanced Odds",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749413560175,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "294934058": {
     "name": "HotSchedules",
     "maxPriceInfo": {
@@ -60342,6 +60363,43 @@
           "price": 6.99,
           "formattedPrice": "$6.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1601194499": {
+    "name": "DRAGON QUEST BUILDERS",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "All-in-One Pack": "$5.99",
+      "New Content! Magic Carpet": "$2.99",
+      "New Content! Astronomy Set": "$2.99",
+      "New Content! Pixel Ring": "$2.99",
+      "Boss Monster Model Set": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "All-in-One Pack": "$5.99",
+      "New Content! Magic Carpet": "$2.99",
+      "New Content! Astronomy Set": "$2.99",
+      "New Content! Pixel Ring": "$2.99",
+      "Boss Monster Model Set": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749413560175,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "All-in-One Pack": "$5.99",
+            "New Content! Magic Carpet": "$2.99",
+            "New Content! Astronomy Set": "$2.99",
+            "New Content! Pixel Ring": "$2.99",
+            "Boss Monster Model Set": "$2.99"
+          }
         }
       ]
     ]

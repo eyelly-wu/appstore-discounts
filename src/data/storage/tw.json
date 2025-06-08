@@ -54,6 +54,27 @@
       ]
     ]
   },
+  "294379237": {
+    "name": "PokerCruncher - Advanced Odds",
+    "maxPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749413560175,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "294934058": {
     "name": "HotSchedules",
     "maxPriceInfo": {
@@ -57556,6 +57577,43 @@
           "price": 220,
           "formattedPrice": "$220.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1601194499": {
+    "name": "勇者鬥惡龍 創世小玩家",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "追加道具組": "$190.00",
+      "追加道具・魔毯": "$90.00",
+      "追加道具・點陣戒指": "$90.00",
+      "追加道具・行星儀": "$90.00",
+      "追加道具・頭目怪物組": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "追加道具組": "$190.00",
+      "追加道具・魔毯": "$90.00",
+      "追加道具・點陣戒指": "$90.00",
+      "追加道具・行星儀": "$90.00",
+      "追加道具・頭目怪物組": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749413560175,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "追加道具組": "$190.00",
+            "追加道具・魔毯": "$90.00",
+            "追加道具・點陣戒指": "$90.00",
+            "追加道具・行星儀": "$90.00",
+            "追加道具・頭目怪物組": "$90.00"
+          }
         }
       ]
     ]
