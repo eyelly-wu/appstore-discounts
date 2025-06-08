@@ -222,4 +222,19 @@ declare global {
     /** 格式为 YYYY-MM */
     month: string
   }
+
+  export type SponsorType = 'platinum' | 'gold' | 'silver' | 'bronze'
+
+  type Sponsor = {
+    url: string
+    logo: string
+    expireTime: string
+  }
+
+  type TypeSponsors = {
+    type: SponsorType
+    sponsors: Sponsor[]
+  }
+
+  type Sponsors = TypeSponsors[]
 }

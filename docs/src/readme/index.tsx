@@ -9,6 +9,7 @@ import Principle from './Principle'
 import Contribution from './Contribution'
 import StarHistory from './StarHistory'
 import License from './License'
+import Sponsors from './Sponsors'
 
 export default function Doc(props) {
   initI18n(props.locale)
@@ -19,6 +20,7 @@ export default function Doc(props) {
       <TableOfContents text={t('目录')} open={false} />
       <Vision />
       <Feature />
+      <Sponsors />
       <Subscription />
       <Focus />
       <Principle />
