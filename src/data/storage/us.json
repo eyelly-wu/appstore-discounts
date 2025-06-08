@@ -49753,16 +49753,30 @@
       "formattedPrice": "$0.99",
       "MyTracks Premium": "$9.99",
       "300 Altitude Query Times": "$3.99",
-      "100 Altitude Query Times": "$2.99"
+      "100 Altitude Query Times": "$2.99",
+      "Lifetime Premium": "$9.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "MyTracks Premium": "$9.99",
       "300 Altitude Query Times": "$3.99",
-      "100 Altitude Query Times": "$2.99"
+      "100 Altitude Query Times": "$2.99",
+      "Lifetime Premium": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749370479379,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Lifetime Premium": "$9.99",
+            "300 Altitude Query Times": "$3.99",
+            "100 Altitude Query Times": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1726453574516,
