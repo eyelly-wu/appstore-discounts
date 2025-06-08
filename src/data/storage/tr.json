@@ -16875,6 +16875,14 @@
     "history": [
       [
         {
+          "timestamp": 1749424279054,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749164539197,
           "price": 0,
           "formattedPrice": "Free",
@@ -34386,6 +34394,23 @@
     "history": [
       [
         {
+          "timestamp": 1749424279054,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Priority 10k for 1 month": "₺6,49",
+            "Priority 100k for 1 month": "₺2,99",
+            "Priority 10k for 1 year": "₺79,99",
+            "Priority 100k for 1 year": "₺49,99",
+            "Priority 10k for lifetime": "₺249,99",
+            "Priority 100k for lifetime": "₺199,99",
+            "PRO version": "₺99,99",
+            "PRO version discounted": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749315724953,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -43961,14 +43986,22 @@
   "1576521142": {
     "name": "SOULVARS",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749424279054,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749168565362,
@@ -54382,6 +54415,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749424279054,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749250937106,
