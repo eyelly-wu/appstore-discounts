@@ -21240,6 +21240,14 @@
     "history": [
       [
         {
+          "timestamp": 1749391832097,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749132148195,
           "price": 0,
           "formattedPrice": "免費",
@@ -54860,14 +54868,22 @@
   "1576521142": {
     "name": "SOULVARS",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749391832097,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749168565362,
@@ -72082,6 +72098,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749391832097,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749218549598,
