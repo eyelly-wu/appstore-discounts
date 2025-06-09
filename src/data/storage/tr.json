@@ -15831,7 +15831,8 @@
       "Extra Large Tokens Pack": "₺499,99",
       "Extra Large Money Pack": "₺349,99",
       "Promo Bundle": "₺999,99",
-      "Medium Money Pack": "₺229,99"
+      "Medium Money Pack": "₺229,99",
+      "Limited Time Offer": "₺699,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -15849,9 +15850,25 @@
       "Extra Large Tokens Pack": "₺499,99",
       "Extra Large Money Pack": "₺349,99",
       "Promo Bundle": "₺999,99",
-      "Medium Money Pack": "₺229,99"
+      "Medium Money Pack": "₺179,99",
+      "Limited Time Offer": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749460479892,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Limited Time Offer": "₺699,99",
+            "Extra Large Tokens Pack": "₺499,99",
+            "Extra Large Money Pack": "₺349,99",
+            "Promo Bundle": "₺999,99",
+            "Starter Pack": "₺129,99",
+            "Medium Money Pack": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746626555033,
@@ -52683,6 +52700,21 @@
       "Annual Pro": "₺1.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749460479892,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Advanced Package": "₺999,99",
+            "Intermediate Package": "₺599,99",
+            "Monthly Pro": "₺249,99",
+            "Basic Package": "₺249,99",
+            "Quarterly Pro": "₺699,99",
+            "Annual Pro": "₺1.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749055417533,
