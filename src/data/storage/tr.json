@@ -15856,6 +15856,22 @@
     "history": [
       [
         {
+          "timestamp": 1749464047049,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Starter Pack": "₺229,99",
+            "Largo Sniper Rifle": "₺39,99",
+            "Brutus Sniper Rifle": "₺249,99",
+            "Small Money Pack": "₺39,99",
+            "Aria Sniper Rifle": "₺449,99",
+            "Aria Gold Sniper Rifle": "₺999,99",
+            "Small Tokens Pack": "₺39,99",
+            "The Merry Maker Rifle": "₺699,99",
+            "Dragun": "₺699,99"
+          }
+        },
+        {
           "timestamp": 1749460479892,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -55399,6 +55415,23 @@
     "history": [
       [
         {
+          "timestamp": 1749464047049,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "UH-60": "₺39,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Airbus A350-1000": "₺179,99",
+            "Airbus A380": "₺99,99",
+            "Global scenery - 12 months": "₺399,99",
+            "Boeing 747-400": "₺99,99",
+            "Boeing 777-300ER": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1749431102053,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -56421,10 +56454,18 @@
       "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749464047049,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745384546601,
@@ -57765,6 +57806,18 @@
       "买断制VIP": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749464047049,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "买断制VIP": "₺449,99",
+            "月度VIP": "₺39,99",
+            "1年VIP": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747967497151,

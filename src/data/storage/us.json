@@ -6083,6 +6083,23 @@
     "history": [
       [
         {
+          "timestamp": 1749464047049,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        },
+        {
           "timestamp": 1749443075326,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -10332,6 +10349,25 @@
       "Richman 4 Fun Treasure package": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749464047049,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Richman 4 Fun US Adventure": "$0.99",
+            "「Japan & Hong Kong Package」": "$0.99",
+            "Richman 4 Fun Chinese Paladin package": "$0.99",
+            "Richman 4 fun SWD package": "$0.99",
+            "Richman 4 Fun  PARIS & LONDON": "$0.99",
+            "Richman 4 fun korea package": "$0.99",
+            "Richman 4 fun Paradise & Dinosaur Island": "$0.99",
+            "Richman 4 Fun ChinesePaladin5 package": "$0.99",
+            "Richman 4 Fun  Hawaii & South Pole Island": "$0.99",
+            "900,000 Yuanbao": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749290537698,
@@ -27094,6 +27130,22 @@
       "90 Days SVIP": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749464047049,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "545 Days SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99",
+            "1-Year SVIP": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747613405520,
@@ -51210,6 +51262,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749464047049,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "The Complete Collection": "$34.99",
+            "New York 2121 Board": "$5.99",
+            "Explorer Pack": "$10.99",
+            "1935 Atlantic City Board": "$5.99",
+            "Snowdrop Valley Board": "$5.99",
+            "1935 Atlantic City": "$7.99",
+            "Monstropolis Board": "$5.99",
+            "Snowdrop Valley": "$7.99",
+            "New York 2121": "$7.99",
+            "L.A. Monstropolis": "$7.99"
+          }
+        },
         {
           "timestamp": 1749460479892,
           "price": 4.99,
@@ -76413,10 +76482,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749464047049,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745384546601,
@@ -77445,7 +77522,8 @@
       "Season MLB 1989": "$0.99",
       "Season MLB 2009": "$0.99",
       "Season MLB 1991": "$0.99",
-      "Season MLB 1935": "$0.99"
+      "Season MLB 1935": "$0.99",
+      "Season MLB 1992": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -77497,9 +77575,29 @@
       "Season MLB 1989": "$0.99",
       "Season MLB 2009": "$0.99",
       "Season MLB 1991": "$0.99",
-      "Season MLB 1935": "$0.99"
+      "Season MLB 1935": "$0.99",
+      "Season MLB 1992": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749464047049,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Bundle MLB 2010s": "$4.99",
+            "Season MLB 2024": "$0.99",
+            "Season MLB 2021": "$0.99",
+            "Season MLB 1992": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749431102053,
@@ -79410,6 +79508,18 @@
       "买断制VIP": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749464047049,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "买断制VIP": "$9.99",
+            "月度VIP": "$0.99",
+            "1年VIP": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747967497151,
