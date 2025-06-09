@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-09T16:37:02.518Z</updated>
+    <updated>2025-06-09T19:31:10.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T16:37:02.518Z</updated>
+        <updated>2025-06-09T19:31:10.883Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrMon, 09 Jun 2025 16:37:02 GMT</id>
+        <id>rankingtrMon, 09 Jun 2025 19:31:10 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T16:37:02.518Z</updated>
+        <updated>2025-06-09T19:31:10.883Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -266,6 +266,29 @@ feedId:99063474310237184+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id1067198688">彩云天气Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>SVIP auto-renew annually</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id1094038347">Only You Are Here</a>
       </td>
       <td>
@@ -290,7 +313,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1304822713">Infinity Tank Battle</a>
@@ -307,7 +330,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
@@ -330,7 +353,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -353,7 +376,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439187947">Rebel Inc.</a>
@@ -376,7 +399,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1449893235">Earthquake Network</a>
@@ -393,7 +416,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1453820315">This Is the Police 2</a>
@@ -410,7 +433,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1519571900">Luwian</a>
@@ -427,7 +450,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -444,7 +467,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -461,7 +484,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1640627334">Resident Evil Village for Mac</a>
@@ -488,7 +511,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1659271912">Train Dispatcher!2</a>
@@ -505,7 +528,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6450980545">Resident Evil Village</a>
@@ -534,7 +557,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6462360082">Resident Evil 4</a>
@@ -565,7 +588,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
@@ -582,7 +605,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -599,7 +622,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6739975257">TuneShift</a>
@@ -616,7 +639,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -633,7 +656,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -768,6 +791,78 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彩云天气Pro]]></title>
+        <id>彩云天气Pro-tr-1749496209231</id>
+        <link href="https://apps.apple.com/tr/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688?uo=4"/>
+        <updated>2025-06-09T19:10:09.231Z</updated>
+        <summary type="html"><![CDATA[SVIP auto-renew annually: ₺299,99 → ₺29,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/18/59/ea1859b9-a4b7-ac57-7720-d5e480e46ada/AppIcon-pro-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>SVIP auto-renew annually：</strong><span>₺299,99</span> → <b>
+  <strong>₺29,99</strong>
+</b><span>[₺29,99 ~ ₺299,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺699,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    SVIP auto-renew annually：<b>₺29,99</b>
+  </li><li>
+    SVIP auto-renew yearly：<b>₺399,99</b>
+  </li><li>
+    90 Days SVIP：<b>₺129,99</b>
+  </li><li>
+    Annual Special SVIP：<b>₺599,99</b>
+  </li><li>
+    545 Days SVIP：<b>₺599,99</b>
+  </li><li>
+    3-Year SVIP：<b>₺999,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Differences from the free version:
+- exclusive rain notification
+- no Ads
+
+Expect the Unexpected with this Beautiful and Easy-to-use Weather App
+
+Accurate Minute to Minute Rainfall Forecast - When will the rain start and when is it going to stop? Know about the weather in advance and plan your day out properly!
+
+
+Street-level accuracy: No more imprecise forecasts based on a national or city level! Your exclusive weather forecast for every block in the neighborhood is here!
+
+Multiple Location Selections: Street-level accurate forecasts to keep an eye on your loved ones!
+
+
+China Rainfall Map - We use the National Meteorological Radar to produce our accurate forecast. Just take a glimpse to know exactly where and how heavy the rain will be!
+
+
+China Air Pollution Map - Is the pollution growing stronger or fading away? Where is it heading to? Just take a look at this map and get the answer to all of your questions!
+
+Real-time satellite imagery
+From the astronaut's point of view, tracing the flowing cloud and glittering days, and Help yourself judge the weather
+
+Omni-directional weather map
+Look at the evolution trend of precipitation, temperature, dew point temperature, humidity and visibility in the next two days.
+
+Weather Feedback - If you feel that our forecast is not completely accurate, please tap the feedback button to help us improve!
+
+
+------
+A big thank you to the "Swarma Club" and our partners for their long-term and unfailing support!
+
+
+Automatic renewal service:
+1. Service name：svip auto-renew monthly, svip auto-renew annually.
+2. Price：9 RMB / Month, 90 RMB / Year.
+3. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+4. You can manually open the Apple mobile phone 'Settings' - > enter 'iTunes Store and App Store - > click 'Apple ID', select 'view Apple ID', enter the 'account settings' page, click 'subscription', select 'ColorfulClouds Pro continuous subscription', and cancel subscriptions to end it. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+5. Term of use: https://caiyunapp.com/h5/agreement/vipprotocal.html?ostype=ios_pro&lang=en_US
+6. Privacy policy: https://caiyunapp.com/h5/agreement/privacy.html?ostype=ios_pro&lang=en_US
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/bb/f8/4ebbf80b-01a2-96f9-dd5d-987371ad317c/1659a64f-378e-4750-8a10-963e28c4d4d3_5.5_U5bf8_U82f1_U6587-_U5206_U949f_U7ea7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/a1/8f/29a18fb1-d7b4-ea47-fa21-f4e1f8839bc9/2277d8a0-2859-491e-8402-4e09ee5719f9_5.5_U5bf8_U82f1_U6587-_U96f7_U8fbe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/c5/bf/d1c5bfb4-330c-16e5-e484-11eb98f77904/4545a43b-b050-43f4-b333-d01194f927a6_5.5_U5bf8_U82f1_U6587-_U536b_U661f.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/89/d0/2f89d014-49df-024a-cccf-d178cfa8cb02/ea7ec244-1185-43c3-bc3a-cdb7cad1562c_5.5_U5bf8_U82f1_U6587-48_U5c0f_U65f6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/cb/4e/a2cb4ef9-c0e6-face-6bc6-5cba461b4a0c/567de3fd-b0a4-4cbf-a67b-90440dd6141d_5.5_U5bf8_U82f1_U6587-_U7a7a_U6c14_U8d28_U91cf.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/fb/87/effb878e-9f79-1a90-46b0-b8a23c854942/3b642941-3478-48e3-bdb0-fc32ea14f19f_en1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/72/a2/a672a2ff-495e-f794-9e56-2dd1f803a58e/bbd39543-e933-4d13-985a-6ef08a986e0f_en2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d4/01/a3d4012c-2b98-e37a-ddaf-c433fdec934e/11efc89f-4a59-43f2-ab1b-14a53cd85d2e_en3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/7c/df/947cdf01-171c-8029-fdfd-5d00f5001003/75501396-501e-4ff0-bd9e-1ef3063a30e5_en4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/bf/c3/0dbfc3a0-4499-8231-1a3d-d73922253b73/6961b9e5-1ae4-40b5-934e-d67c6a58925e_en5.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Only You Are Here]]></title>
@@ -1214,148 +1309,5 @@ Terms and conditions: https://www.sismo.app/terms-conditions
 </h2><h2>All Price Information</h2><p>
   Price：<b>Free</b>
 </p><h2>Application Description</h2><p>Classic Maze game is a classic puzzle game, perfect for training your brain during a short break. It is designed as a very simple single player game played by sliding through fun retro mazes. Play a quick game and challenge 500 mazes to become the maze king.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayNav - No ads in videos!]]></title>
-        <id>PlayNav - No ads in videos!-tr-1749229340608</id>
-        <link href="https://apps.apple.com/tr/app/playnav-no-ads-in-videos/id6446178861?uo=4"/>
-        <updated>2025-06-06T17:02:20.608Z</updated>
-        <summary type="html"><![CDATA[Premium Features: ₺449,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/playnav-no-ads-in-videos/id6446178861?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ba/1a/fcba1a02-3654-b8f3-5710-7822bcde85d5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Premium Features：</strong><span>₺449,99</span> → <b>
-  <strong>₺39,99</strong>
-</b><span>[₺19,99 ~ ₺449,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Premium Features：<b>₺39,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Are you tired of interruptions caused by ads in your YouTube videos?
-
-The new YouTube PlayNav video browser will block all intrusive ads that appear while watching your videos, so you can enjoy your favorite videos smoothly and without interruptions.
-
-Plus, our app offers features you’ll love:
-• On-Screen Playback: Watch YouTube videos while using other apps.
-• Audio-Only Mode: Listen to any YouTube video with your screen locked.
-• Auto Shutdown: Set a sleep timer. (Premium)
-• Loop Mode: Automatically repeat your favorite videos. (Premium)
-• Learning Mode: Learn languages using subtitles. (Premium)
-
-It also includes essential features such as playlists, speed adjustment (improved), related videos, AirPlay, and more to enhance your video-watching experience.
-
-» HOW TO USE PLAYNAV?
-
-ON-SCREEN PLAYBACK (PIP) (Premium)
-
-Watch YouTube videos while using any other app. Once activated, the player will shrink on your screen, allowing you to move or hide it with a double tap.
-
-» How to activate it?
-1. While playing a video, tap the PIP icon in the upper-left corner (two small screen icons).
-2. While a video is playing, swipe up from the bottom of your iPhone, and the player will appear on your screen.
-
-AUDIO-ONLY MODE
-
-Listen to the audio of your favorite YouTube videos with your iPhone screen locked. Use it while exercising, walking, or before bed. Combine it with the auto shutdown feature to relax while listening to your favorite videos!
-
-» How to activate it?
-1. Enable On-Screen Playback.
-2. Then, lock your iPhone, and the audio will continue playing.
-
-AUTO SHUTDOWN
-
-Bedtime? Find your favorite YouTube video or playlist, set the auto shutdown timer, and let your favorite audio accompany you as you fall asleep.
-
-» How to activate it?
-1. Tap the Sleep icon (moon) in the player.
-2. Select the time you want for auto shutdown.
-3. You can combine it with Audio-Only Mode.
-
-LOOP MODE (REPEAT VIDEO)
-
-Want your video to play on repeat? Use Loop Mode to replay your video as many times as you like. You can also combine it with Audio-Only Mode.
-
-» How to activate it?
-1. Tap the Repeat icon. Your video will keep playing on loop until you disable it.
-
-LEARN LANGUAGES WITH SUBTITLES (LEARNING MODE)
-
-Now you can learn languages using subtitles! When you activate Learning Mode, you will see both the original subtitles and the translation in your language. You can also adjust the playback speed to better understand each word.
-
-» How to activate it?
-1 Search for videos in the language you are learning.
-2 Once your video starts playing, tap the Learning Mode button next to the video title.
-
-– TRY PLAYNAV NOW! –
-Enjoy all basic features for free and unlock Premium with a one-time purchase.
-
-Minimum requirements:
-• iOS 15 or higher.
-• 3G connection or higher.
-
-» Related keywords:
-YouTube, YouTube Music, YouTube Vanced, ad blocker, no subscription, skip YouTube ads, ad-free music, block pop-ups, adblock for YouTube, block pop-up ads, ad-free content, premium ad blocker, AdBlock Plus, remove ads, YouTube without ads.
-
-- Need help?
-Visit: playnav.vidiom.app or contact us at info@playnav.vidiom.app
-
-Terms of Service: playnav.vidiom.app/terms-of-service
-Privacy Policy: playnav.vidiom.app/privacy-policy
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/1b/a3/f41ba35e-2cd1-bfa1-1586-2fad3543c910/e56d11f2-8cdc-4e8a-97a1-8e00a0bdf908_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/fe/0e/88fe0ed8-2113-5dcd-c7ae-09f39ef6750a/febb8eb4-e913-44a6-829a-bdedac85315b_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/b3/b2/18b3b206-bb85-4773-a61d-5965a7b0e985/8af986d4-f22c-43a5-8c1c-1c5965a75fa2_Hotpot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/0c/84/410c8494-9e93-277d-feb2-af28220e5e97/c7bbd4b7-5d74-42fe-8ee1-858c90270f96_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/d6/2b/aed62b9b-53dc-59af-3fe5-28e7ecdbd296/6522e8f6-efb0-4ce5-a718-8b1e3079015f_Hotpot_4.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Greedy Cave]]></title>
-        <id>The Greedy Cave-tr-1749229340608</id>
-        <link href="https://apps.apple.com/tr/app/the-greedy-cave/id1028950091?uo=4"/>
-        <updated>2025-06-06T17:02:20.608Z</updated>
-        <summary type="html"><![CDATA[Coupon of the Greedy Cave: ₺129,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/the-greedy-cave/id1028950091?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/25/c4/e525c49e-ab0e-e37e-ed0a-5012404bc7d3/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Coupon of the Greedy Cave：</strong><span>₺129,99</span> → <b>
-  <strong>₺39,99</strong>
-</b><span>[₺39,99 ~ ₺179,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺4,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Coupon of the Greedy Cave：<b>₺39,99</b>
-  </li><li>
-    Package8：<b>₺2.299,99</b>
-  </li><li>
-    Package7：<b>₺1.299,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day. 
-
-Our story begins in a remote kingdom to the north, Iblis, an obscure and oft-forgotten place. It is a wild and barren land, a place where its people scrape a living from the earth, mining minerals for the lords of the south. On occasion, adventurers would stop by for the night but never linger. Until one day, a fledgling adventurer lost his way and stumbled into a hole. The story might have ended then had he not come back, but return he did, with sacks of gold and glittering treasure. 
-
-Like a fierce gale from the north, news of his fame and fortune fanned across the kingdoms overnight, and kings sent their bravest warriors and adventurers to clear the cavern of monsters in search of treasure. Even peasants wanting a part of this newfound wealth partook in these expeditions. In no time at all, a bustling town had sprung up in this forgotten place. People set up camps, and formed their own groups to explore the cave. Clever merchants not missing this opportunity, built taverns and shops near the cave, selling equipment and potions to eager adventurers. At first, everything seemed fine. As explorers delved into the caves, they encountered new creatures and discovered new treasures. Mysteries continued to pour forth from the cave, yet nobody knew where the source of the secrets lay. However, as the explorations continued, the balance of wealth beyond the cave began to waver, and cracks appeared among those adventurers who had previously worked arm-in-arm. The latecomers or weak, limited to wandering the upper levels of the cave, could only watch as the veteran adventurers brought treasure after treasure from the deep. They began harboring dark thoughts as they watched the veteran adventurers grow arrogant from their largesse, ordering people around, hoarding secrets from the rest. The place became a festering pool of suspicions and greed, mired in a jealous rage. 
-
-It started with an adventurer disappearing in the cave. Rumors circulated he had found some legendary treasure and hoarded it for himself. Others said he had been guided to another world by some mysterious magic force in the cave. Still, the unspoken belief was that he had been murdered by a rival party and was buried somewhere beneath the caverns. Nobody knows exactly what happened, but people have continued to disappear ever since. As more people have gone missing, some adventurers have called it quits, others cling to hope, and a few continue to wait and see. Which brings us to you, an ordinary young man, coming into this extraordinary circumstance with purposes unknown to others. May you find what you seek in ...
-
---------------------------------------------------------
-In " The Greedy Cave", you are a brave adventurer tasked with exploring a mysterious cave and battling all kinds of monsters.
-
-Use your wits to defeat them, learn different skills, gain mighty equipment, challenge evil monster bosses, and decipher the mystery surrounding this cave...
-
-Game Features
-·Randomly generated cave levels provide a different game experience every time!                     
-·Hundreds of monsters to defeat!
-·Hundreds of equipment to collect!
-·Hundreds of quests and achievements to conquer!
-·Enchant/Reform/Level up/Gold collecting, and more abundant systems to explore!
-
-Contact us
-bd@avalongames.com.cn
-https://www.facebook.com/greedycave/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d8/82/80/d8828029-b4ad-d826-3477-2ef28fab831b/3fe518d5-97e2-47b7-9726-3f8537303757_1242x2208bb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3c/7b/27/3c7b2770-1da5-973c-601d-5126a080086c/0d0f8b31-e3b8-415c-9298-731a9e04ba17_1242x2208bb__U00281_U0029.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/16/5c/3d165c74-7c41-79c9-cb89-fa61498a1765/84f61603-c557-47fb-a32c-50fe07aadb37_1242x2208bb__U00282_U0029.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5a/1e/57/5a1e5738-0143-f680-6c33-4e3a5bbe53b0/1bba7ce0-8a29-43be-a954-33623d955331_1242x2208bb__U00283_U0029.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/65/a3/c8/65a3c84c-03c4-6a2e-750b-52e8f7a75531/b29142cf-39ed-4921-a207-bac4de93715a_1242x2208bb__U00284_U0029.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/40/30/67/403067b0-2cf8-17fb-8cf3-654f5f18947e/4097713c-e632-4cf1-b79d-cd1cd68bf79b_2048x2732bb.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/50/14/3e/50143e10-1086-9a17-0d37-37487a198792/2500cb7b-fab2-4690-b303-61a3d676c2d2_2048x2732bb__U00281_U0029.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/61/76/d3/6176d382-b6f0-a650-b081-d098e7864fa6/3ac1f178-06bd-4653-a6b9-b67e6ee45b12_2048x2732bb__U00282_U0029.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/80/de/85/80de85df-71f7-9c60-5c46-cd5eb42aff04/dd752b98-76af-49ad-98b2-58fc62bdf6d4_2048x2732bb__U00283_U0029.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/cc/b2/56/ccb25637-0099-a2c4-71a2-60f242eaf284/8ab99853-a1fc-4a7d-8bd7-97c8afc3d7a4_2048x2732bb__U00284_U0029.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
