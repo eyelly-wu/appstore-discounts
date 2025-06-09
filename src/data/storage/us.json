@@ -61822,11 +61822,21 @@
       "Orbit Pack": "$4.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "Orbit Pack": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749482023197,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Orbit Pack": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
