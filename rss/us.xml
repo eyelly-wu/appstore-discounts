@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-09T16:37:02.513Z</updated>
+    <updated>2025-06-09T22:33:13.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T16:37:02.513Z</updated>
+        <updated>2025-06-09T22:33:13.056Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 09 Jun 2025 16:37:02 GMT</id>
+        <id>rankingusMon, 09 Jun 2025 22:33:13 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T16:37:02.513Z</updated>
+        <updated>2025-06-09T22:33:13.057Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1121</b>
+        <b>1122</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>920</b>
+        <b>921</b>
       </td>
       <td>
         <b>13</b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1022</b>
+        <b>1023</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>846</b>
+        <b>847</b>
       </td>
       <td>
         <b>12</b>
@@ -306,14 +306,20 @@ feedId:49753370488353792+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
+        <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>The Ultimate Life Collection</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -323,7 +329,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
+        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
       </td>
       <td>
         <ul>
@@ -340,7 +346,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
+        <a href="https://apps.apple.com/us/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
       </td>
       <td>
         <ul>
@@ -357,7 +363,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1612952507">AeroPads - Pads & Soundscapes</a>
+        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -374,7 +380,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+        <a href="https://apps.apple.com/us/app/id1612952507">AeroPads - Pads & Soundscapes</a>
       </td>
       <td>
         <ul>
@@ -389,6 +395,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>16</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1640627334">Resident Evil Village for Mac</a>
@@ -415,7 +438,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1659271912">Train Dispatcher!2</a>
@@ -432,7 +455,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450980545">Resident Evil Village</a>
@@ -461,7 +484,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6462360082">Resident Evil 4</a>
@@ -492,7 +515,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
@@ -509,7 +532,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -526,7 +549,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -543,7 +566,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -678,6 +701,97 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Game of Life 2]]></title>
+        <id>The Game of Life 2-us-1749507150926</id>
+        <link href="https://apps.apple.com/us/app/the-game-of-life-2/id1512751689?uo=4"/>
+        <updated>2025-06-09T22:12:30.926Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Life Collection: $34.99 → $19.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-game-of-life-2/id1512751689?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/5e/71/ad5e71f4-563c-53be-8c4a-46eb591446e7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>The Ultimate Life Collection：</strong><span>$34.99</span> → <b>
+  <strong>$19.99</strong>
+</b><span>[$19.99 ~ $34.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$4.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    The Ultimate Life Collection：<b>$19.99</b>
+  </li><li>
+    Mothgirl Outfit：<b>$0.99</b>
+  </li><li>
+    Tunneler Ship：<b>$0.99</b>
+  </li><li>
+    Foxman Bike：<b>$0.99</b>
+  </li><li>
+    Action Car Avatar：<b>$0.99</b>
+  </li><li>
+    Super Pet Avatar：<b>$0.99</b>
+  </li><li>
+    Magical Girl Outfit：<b>$0.99</b>
+  </li><li>
+    Skyscraper Avatar：<b>$0.99</b>
+  </li><li>
+    Foxman Outfit：<b>$0.99</b>
+  </li><li>
+    Super Hero World Bundle：<b>$7.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Live 1000 lives in the official sequel to the classic family board game, The Game of Life! Will you be a Video Blogger or an Astronomer? Play now!
+
+Voted "Best Digital Board Game” in the Pocket Gamer Awards 2021
+Played by over 50 Million Families Worldwide
+
+Customise your peg, hop in your eco car and race your friends and family through The Game of Life 2! It’s a contemporary sequel to the classic family favourite board game, The Game of Life. With an added crossroad moment and new ways to win, what will you choose? Earn points for Knowledge and Happiness as well as Wealth. Go to College, or don’t. Get married early, save it for later, or stay single! Have kids, adopt pets, do both or neither. The choices are all yours, and every decision counts!
+
+Features
+
+The Game of Life 2 digital board game is the award-winning sequel to the original Hasbro board game, The Game of Life.
+• A GAME FOR UP 4 PLAYERS - Join 3 of your favourite people and live your dreams
+• *NEW*  VIDEO CHAT AND PLAY - Live every life face-to-face with in-game video chat
+• AN AD-FREE GAME - Enjoy the complete game with no interruptions
+• 6 TRANSLATIONS - English, French, Spanish, German, Italian and Brazilian Portuguese
+• SINGLE PLAYER - Take on our challenging AI
+• ONLINE MULTIPLAYER - Connect with fans, or invite friends and family to a private game
+• PASS & PLAY - No internet? No problem! Pass a single device between players for a wifi-free experience
+
+How to play
+
+CUSTOMISE your character
+Customise your pink, blue or newly available purple peg with a style all of your own.
+
+SPIN THE SPINNER
+The game starts with a big decision. Will you go to College or straight into work? In this classic simulation, what will your friends and family choose?
+
+It’s your LIFE PATH
+Get married or don’t, have kids, adopt pets, or both! Work as a Pet Groomer, then qualify and become a Wind Turbine Technician! The choices are yours!
+
+More WAYS TO WIN
+Earn points for every choice you make! Every choice increases your wealth, happiness or knowledge, so every decision is valid.
+
+RETIRE your way
+Continue living the life of your dreams! Relax in a luxury home, or hit the road and fulfil your bucket list! Unlike the classic board game, you can choose to venture on!
+
+Earn REWARDS to UNLOCK new items
+Unlock new pegs, outfits and vehicles by playing the game and earning rewards!
+
+In-game Video Chat
+Recreate the magic! Gather around the board with in-game video chat in Online Multiplayer Mode. It’s super easy to set-up and play:
+
+• Create your free private account
+• Invite your friends and family to chat groups
+• Start games straight from those chats
+• Play face-to-face wherever you are
+
+It’s simple, seamless fun for everyone.
+
+The Ultimate Life Collection
+Venture into a collection of 10 amazing fantasy worlds. Live life in enchanted worlds, make friends with dinosaurs in the Age of Giants and launch into the futuristic Lunar Age! Every new world features new Outfits, Vehicles, Jobs, Properties and more!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/23/0e/87230e1e-d18c-5054-7dbe-57b3c4e01a97/1de387bc-6eb0-4af5-bc54-a28878cee462_gol2_screenshots_SW_2208x1242_01_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/29/80/5729807f-83a8-1e87-0adc-2028260b4235/fe0dfded-af7f-4eab-b26e-34d9e7a9fc50_gol2_screenshots_SW_2208x1242_02_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/4a/52/c54a5291-78c9-b2d3-ac2e-b7cd6db65b1c/67495bfc-d632-4d72-a6ac-085062e1c35a_gol2_screenshots_SW_2208x1242_03_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d1/eb/bcd1eba1-e67a-bba4-70c2-70de69fec3cf/6828e707-065e-4f85-a11d-94f8988a29c6_gol2_screenshots_SW_2208x1242_04_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4d/21/c74d21ac-18ed-abb9-3bbc-c8b7cfa85382/b0d3d0e1-6901-4362-b9d0-c3016fd9a1ad_gol2_screenshots_SW_2208x1242_05_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/4c/80/104c8096-f93b-1aa5-6819-23efc8bf51d3/24ea73c2-3440-4cd0-88c7-995445ca99f0_gol2_screenshots_SW_2208x1242_06_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/6a/9c/fa6a9c46-76c9-e384-56a5-b9eefd1cff7b/0823ae56-91aa-4979-b4c2-c13d249d8888_gol2_screenshots_SW_2208x1242_07_eng.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/82/11/9982114e-e738-9e6c-63ce-0477a4eebbf6/6f1d8610-9c32-4268-ae47-c764107448e9_gol2_screenshots_SW_2732x2048_01_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/ff/c0/91ffc08d-7958-a446-9f44-26f416b050fb/1295fc37-e50b-4a02-8899-e77348cc91ea_gol2_screenshots_SW_2732x2048_02_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/3a/7d/783a7de9-c132-15c1-cd74-d2f41117c6a9/c45ff9b9-9b3b-4e84-993c-0c55e508121b_gol2_screenshots_SW_2732x2048_03_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/10/29/991029b6-95f1-9c26-2c3c-dd4661721835/d139892c-887b-485c-a583-3af0a40ad0e4_gol2_screenshots_SW_2732x2048_04_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/9d/56/469d56b1-d72f-7359-082d-2644417ef5ee/9b7b7733-7c55-4f62-a16c-5f9a029246df_gol2_screenshots_SW_2732x2048_05_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/2f/68/172f681a-4a73-ee62-74d0-f5c06a9740e5/8432a777-6cf2-465c-9eab-17885ecdc67b_gol2_screenshots_SW_2732x2048_06_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/93/3a/72933a8a-c305-0721-f33e-617db7ae4f4e/1c6e6487-8117-4d27-8ff2-ef4cbef4b6a6_gol2_screenshots_SW_2732x2048_07_eng.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Only You Are Here]]></title>
@@ -1052,201 +1166,5 @@ Terms of Use: www.mynetdiary.com/terms.html
 </h2><h2>All Price Information</h2><p>
   Price：<b>Free</b>
 </p><h2>Application Description</h2><p>Classic Maze game is a classic puzzle game, perfect for training your brain during a short break. It is designed as a very simple single player game played by sliding through fun retro mazes. Play a quick game and challenge 500 mazes to become the maze king.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayNav - No ads in videos!]]></title>
-        <id>PlayNav - No ads in videos!-us-1749229340608</id>
-        <link href="https://apps.apple.com/us/app/playnav-no-ads-in-videos/id6446178861?uo=4"/>
-        <updated>2025-06-06T17:02:20.608Z</updated>
-        <summary type="html"><![CDATA[Premium Features: $9.99 → $0.79]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/playnav-no-ads-in-videos/id6446178861?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ba/1a/fcba1a02-3654-b8f3-5710-7822bcde85d5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Premium Features：</strong><span>$9.99</span> → <b>
-  <strong>$0.79</strong>
-</b><span>[$0.49 ~ $9.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Premium Features：<b>$0.79</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Are you tired of interruptions caused by ads in your YouTube videos?
-
-The new YouTube PlayNav video browser will block all intrusive ads that appear while watching your videos, so you can enjoy your favorite videos smoothly and without interruptions.
-
-Plus, our app offers features you’ll love:
-• On-Screen Playback: Watch YouTube videos while using other apps.
-• Audio-Only Mode: Listen to any YouTube video with your screen locked.
-• Auto Shutdown: Set a sleep timer. (Premium)
-• Loop Mode: Automatically repeat your favorite videos.
-• Learning Mode: Learn languages using subtitles. (Premium)
-
-It also includes essential features such as playlists, speed adjustment (improved), related videos, AirPlay, and more to enhance your video-watching experience.
-
-» HOW TO USE PLAYNAV?
-
-ON-SCREEN PLAYBACK (PIP) (Premium)
-
-Watch YouTube videos while using any other app. Once activated, the player will shrink on your screen, allowing you to move or hide it with a double tap.
-
-» How to activate it?
-1. While playing a video, tap the PIP icon in the upper-left corner (two small screen icons).
-2. While a video is playing, swipe up from the bottom of your iPhone, and the player will appear on your screen.
-
-AUDIO-ONLY MODE
-
-Listen to the audio of your favorite YouTube videos with your iPhone screen locked. Use it while exercising, walking, or before bed. Combine it with the auto shutdown feature to relax while listening to your favorite videos!
-
-» How to activate it?
-1. Enable On-Screen Playback.
-2. Then, lock your iPhone, and the audio will continue playing.
-
-AUTO SHUTDOWN
-
-Bedtime? Find your favorite YouTube video or playlist, set the auto shutdown timer, and let your favorite audio accompany you as you fall asleep.
-
-» How to activate it?
-1. Tap the Sleep icon (moon) in the player.
-2. Select the time you want for auto shutdown.
-3. You can combine it with Audio-Only Mode.
-
-LOOP MODE (REPEAT VIDEO)
-
-Want your video to play on repeat? Use Loop Mode to replay your video as many times as you like. You can also combine it with Audio-Only Mode.
-
-» How to activate it?
-1. Tap the Repeat icon. Your video will keep playing on loop until you disable it.
-
-LEARN LANGUAGES WITH SUBTITLES (LEARNING MODE)
-
-Now you can learn languages using subtitles! When you activate Learning Mode, you will see both the original subtitles and the translation in your language. You can also adjust the playback speed to better understand each word.
-
-» How to activate it?
-1 Search for videos in the language you are learning.
-2 Once your video starts playing, tap the Learning Mode button next to the video title.
-
-– TRY PLAYNAV NOW! –
-Enjoy all basic features for free and unlock Premium with a one-time purchase.
-
-Minimum requirements:
-• iOS 15 or higher.
-• 3G connection or higher.
-
-» Related keywords:
-YouTube, YouTube Music, YouTube Vanced, ad blocker, no subscription, skip YouTube ads, ad-free music, block pop-ups, adblock for YouTube, block pop-up ads, ad-free content, premium ad blocker, AdBlock Plus, remove ads, YouTube without ads.
-
-- Need help?
-Visit: playnav.vidiom.app or contact us at info@playnav.vidiom.app
-
-Terms of Service: playnav.vidiom.app/terms-of-service
-Privacy Policy: playnav.vidiom.app/privacy-policy
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/1b/a3/f41ba35e-2cd1-bfa1-1586-2fad3543c910/e56d11f2-8cdc-4e8a-97a1-8e00a0bdf908_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/fe/0e/88fe0ed8-2113-5dcd-c7ae-09f39ef6750a/febb8eb4-e913-44a6-829a-bdedac85315b_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/b3/b2/18b3b206-bb85-4773-a61d-5965a7b0e985/8af986d4-f22c-43a5-8c1c-1c5965a75fa2_Hotpot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/0c/84/410c8494-9e93-277d-feb2-af28220e5e97/c7bbd4b7-5d74-42fe-8ee1-858c90270f96_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/d6/2b/aed62b9b-53dc-59af-3fe5-28e7ecdbd296/6522e8f6-efb0-4ce5-a718-8b1e3079015f_Hotpot_4.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Money Pro: Personal Finance AR]]></title>
-        <id>Money Pro: Personal Finance AR-us-1749229340608</id>
-        <link href="https://apps.apple.com/us/app/money-pro-personal-finance-ar/id918609651?uo=4"/>
-        <updated>2025-06-06T17:02:20.608Z</updated>
-        <summary type="html"><![CDATA[PLUS: $19.99 → $4.99<br/>GOLD: $39.99 → $9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/money-pro-personal-finance-ar/id918609651?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/cf/4f/d6cf4fa3-3fe5-4bdb-497c-e557448ffcc5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>PLUS：</strong><span>$19.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $19.99]</span>
-  </li><li>
-    <strong>GOLD：</strong><span>$39.99</span> → <b>
-  <strong>$9.99</strong>
-</b><span>[$9.99 ~ $39.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    PLUS：<b>$4.99</b>
-  </li><li>
-    GOLD：<b>$9.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  EASY BUDGET. Cut your expenses with Money Pro®!
-Expense tracker, budget planner & account manager - all in one app to get your finances under control. Money Pro works great for personal & family expense tracking.
-
-Easy sync and iPhone/iPad versions combined in one app. Money Pro is the next generation of the Money app (over 2 million downloads worldwide).
-
-FEATURES:
-
-Simple and Secure
-- quick and easy expense/income entries: save your time
-- password & backups of your data
-
-Income and Expense Tracker
-- split transactions: split one payment into multiple categories, keep it all organized
-- search by amount, category, description, payee, cheque number, etc
-- recurring expenses with custom periodicity
-- calendar for scheduling bills and expenses for the whole year ahead
-- notifications & alerts for bills due
-- tracking expenses with family members and cross-platform syncing* (PLUS or GOLD subscription required)
-- multiple profiles for organized tracking of personal and family finances
-- attachment of receipt (or any other) photos: keep important bills captured
-
-Budget Planner
-- flexible structure of categories & subcategories with over 1,500 built-in icons
-- custom periodicity: start your budget from any date
-- visual indicators for budget spending
-- transaction list for each category: access your bills with ease 
-- transferring the leftover of the previous budget period to the current one to limit your spending
-- unique icons with your photos
-
-Account Manager
-- easy management of an unlimited number of accounts
-- balance change history
-- additional fields for organizing your records: payee, description, check #, class (personal/business travel expenses). 
-- import of bank statements (files: OFX, CSV)
-- online banking (GOLD subscription required)
-
-Insightful Analytics
-- eight different reports
-- filter customization
-- quick and easy date selection
-
-Augmented Reality
-- build three-dimensional charts right on your table with AR reports (GOLD subscription required)
-
-Goals
-- set your goals and achieve them
-- visualize your goal progress with a trend chart
-- four Goal types: Save money, Pay off debt, Reduce expenses, Increase income (GOLD subscription required for last three)
-
-More
-- calculator and currency converter
-- print and export to PDF, QIF, CSV formats
-- multiple currencies & automatic update of exchange rates
-- iCloud sync for iPhone, iPad, Mac (no subscription)
-- support service & user guide (https://money.pro/guide/)
-
-PLUS subscription
-- 1 Month of PLUS: $4.99
-
-GOLD subscription
-- 1 Month of GOLD: $9.99
-
-In all the countries (except the USA), actual charges will be converted to the local currency. Payment will be charged to iTunes Account at confirmation of purchase. 
-Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. 
-Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
-Subscriptions may be managed by the user, and auto-renewal may be turned off by going to the user's Account Settings after purchase.
-
-Terms & Privacy
-- http://ibearsoft.com/privacy.html
-- http://ibearsoft.com/terms.html
-
-Money Pro is a Universal app. Pay once and use it on your iPhone, iPad, and Apple Watch.
-
-*See App Support for further details
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b2/92/cf/b292cf75-ef58-971f-b1b4-1fdf3b08d609/d5dd1a0f-78b7-4cef-b5e9-e7c95611c038_iphone_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0c/d0/4a/0cd04ae7-069c-dfab-7326-cacca49f91ed/c0b3fd34-3f41-43c9-9cc8-11841b2d8350_iphone_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/67/9f/9f/679f9fb8-8c0c-cb36-51e8-13eb08e8f930/7570242a-fdc8-4837-a539-a9c3fff5a340_iphone_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/7c/1b/437c1b04-e021-f8e5-b067-b5a01ffc138b/88922bab-c576-43f9-be17-c46856f5269f_iphone_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a9/d4/be/a9d4be1f-9489-c4ea-edbb-f9a1c81ed801/cfa801fd-0b48-40a5-a773-888f815e0ddf_iphone_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ff/98/f8/ff98f8ac-2fc3-e44b-0a1b-7a35627c2b0c/a90c575e-b896-4ecf-a002-4d67e6af0e81_iphone_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/53/86/3253866a-a941-4b80-7891-d834367b0f6f/92a9f0ef-01fd-4b54-a8da-5f7449ec51c7_iphone_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/54/9a/09549a71-431c-939f-22df-0d75fea9eec7/0ab5648e-16fb-4f3d-8351-b38b3f717115_iphone_9.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/24/1f/17/241f1799-3df9-c71b-5be4-972328dddf19/cdbb0e14-74f7-4fa1-a388-1e42e05408d7_ipad1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8d/19/81/8d1981ce-cf14-20d9-d4bb-5853164e8b6c/d8ec949d-33e0-42a5-b49b-b1087f644d9d_ipad2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/da/59/98/da5998cc-cf15-2db2-4932-81e3901ef5e8/a0a7a58c-de9a-45ba-82d2-eed8406409f0_ipad3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ee/b5/b5/eeb5b56c-a080-199f-006b-63cb93958e7c/96967a4c-f275-40a6-b496-7d0704f13131_ipad4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/00/9d/38/009d38ff-21fd-5765-ae2c-28859d5876e4/1c7d64cd-852f-490f-b824-1bf2781f3628_ipad5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cc/4c/ce/cc4cceb6-ee8c-780d-eaab-86c1ba09a029/fd1a4aa4-a362-43ae-b918-c255dfb22f11_ipad7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d3/46/5c/d3465c5a-fec5-5c40-b196-8c4b44f4cc75/c6d4e3c1-16bd-4d73-a573-3c2bbc7fc673_ipad8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/24/3a/1b/243a1b78-31c4-ac9f-3a38-003678c3d33a/54009a8f-84d5-4f7a-8390-ce1d348a55e9_ipad9.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
