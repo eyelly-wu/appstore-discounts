@@ -12037,6 +12037,23 @@
     "history": [
       [
         {
+          "timestamp": 1749439044822,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Mix It Up": "₺0,00",
+            "Just For Kids": "₺0,00",
+            "The Ellen Show": "₺0,00",
+            "Super Heroes": "₺99,99",
+            "Friends": "₺129,99",
+            "Build Your Own Deck": "₺129,99",
+            "Wish You Were Here": "₺99,99",
+            "Happy Holidays": "₺99,99",
+            "Adult Supervision": "₺99,99",
+            "As Seen On TV": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1749431102053,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -16327,6 +16344,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749439044822,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ultimate Access": "₺4.499,99",
+            "Font Access": "₺1.799,99",
+            "Pro Access": "₺2.999,99",
+            "Abstract Theme 5": "₺39,99",
+            "Abstract Theme 4": "₺39,99",
+            "Abstract Theme 2": "₺39,99",
+            "Abstract Theme 3": "₺39,99",
+            "Abstract Theme 1": "₺39,99"
+          }
+        },
         {
           "timestamp": 1749431102053,
           "price": 99.99,
@@ -27944,14 +27976,27 @@
       "Golden Pass": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 449.99,
-      "formattedPrice": "₺449,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "500 Tickets": "₺449,99",
       "200 Tickets": "₺229,99",
       "50 Tickets": "₺99,99",
       "Golden Pass": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749439044822,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "500 Tickets": "₺449,99",
+            "200 Tickets": "₺229,99",
+            "50 Tickets": "₺99,99",
+            "Golden Pass": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,

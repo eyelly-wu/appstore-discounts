@@ -2129,6 +2129,23 @@
     "history": [
       [
         {
+          "timestamp": 1749439044822,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "连续包年": "USD 39.99",
+            "连续包季": "USD 9.99",
+            "空间会员·365G-3年（活动）": "USD 79.99",
+            "空间会员·365G-1年（活动）": "USD 39.99",
+            "专业会员·无限版-1个月（活动）": "USD 14.99",
+            "专业会员·无限版-12个月（活动）": "USD 149.99",
+            "专业会员·10人版-12个月（活动）": "USD 79.99",
+            "专业会员·10人版-1个月（活动）": "USD 7.99",
+            "专业会员·5人版-1个月（活动）": "USD 4.99",
+            "专业会员·5人版-12个月（活动）": "USD 49.99"
+          }
+        },
+        {
           "timestamp": 1749431102053,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -26325,6 +26342,23 @@
     "history": [
       [
         {
+          "timestamp": 1749439044822,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Miku": "USD 9.99",
+            "ConneR": "USD 9.99",
+            "Xenon": "USD 9.99",
+            "9 Characters": "USD 34.99",
+            "CAPSO": "USD 9.99",
+            "Cherry": "USD 9.99",
+            "Nora": "USD 9.99",
+            "Emotion Samples 01": "USD 4.99",
+            "JOE": "USD 9.99",
+            "Game Disc vol.1": "USD 4.99"
+          }
+        },
+        {
           "timestamp": 1749431102053,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -26877,14 +26911,27 @@
       "黃金認證": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "500張 換購券": "USD 9.99",
       "200張 換購券": "USD 4.99",
       "50張 換購券": "USD 1.99",
       "黃金認證": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749439044822,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "500張 換購券": "USD 9.99",
+            "200張 換購券": "USD 4.99",
+            "50張 換購券": "USD 1.99",
+            "黃金認證": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
