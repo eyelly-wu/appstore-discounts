@@ -346,6 +346,22 @@
     "history": [
       [
         {
+          "timestamp": 1749510724459,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Dance Pack Too": "₺39,99",
+            "Alien Pack": "₺39,99",
+            "Tyrannosaurus Rex Skin Pack": "₺39,99",
+            "Halloween Skin Pack": "₺39,99",
+            "Medieval Pack": "₺39,99",
+            "Holiday Skin Pack": "₺39,99",
+            "Ice Monster Skin Pack": "₺39,99",
+            "Japanese Skin Pack": "₺39,99",
+            "Shark Pack": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1749507150926,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -19802,6 +19818,23 @@
     "history": [
       [
         {
+          "timestamp": 1749510724459,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Handful of caps": "₺39,99",
+            "Pile of caps": "₺229,99",
+            "Sausepan of caps": "₺449,99",
+            "Special pack": "₺229,99",
+            "Small pack": "₺39,99",
+            "Great pack": "₺449,99",
+            "Useful pack": "₺129,99",
+            "Standart pack": "₺99,99",
+            "Case with caps": "₺899,99",
+            "Survival kit": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1749507150926,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -21682,7 +21715,8 @@
       "DLC \"Time\"": "₺39,99",
       "Donation III": "₺4.499,99",
       "Donation II": "₺999,99",
-      "Donation I": "₺229,99"
+      "Donation I": "₺229,99",
+      "\"Time\"": "₺19,99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -21690,9 +21724,23 @@
       "DLC \"Time\"": "₺19,99",
       "Donation III": "₺229,99",
       "Donation II": "₺99,99",
-      "Donation I": "₺39,99"
+      "Donation I": "₺39,99",
+      "\"Time\"": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749510724459,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "\"Time\"": "₺19,99",
+            "Donation III": "₺229,99",
+            "Donation II": "₺99,99",
+            "Donation I": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749485749492,
@@ -33107,8 +33155,8 @@
       "The Exile": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
       "Forbidden Bundle": "₺299,99",
       "The Dancer": "₺99,99",
       "The Ghoul": "₺99,99",
@@ -33116,6 +33164,20 @@
       "The Exile": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749510724459,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Forbidden Bundle": "₺299,99",
+            "The Dancer": "₺99,99",
+            "The Ghoul": "₺99,99",
+            "The Priest": "₺99,99",
+            "The Exile": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747774936582,
@@ -57194,6 +57256,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749510724459,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749337348684,

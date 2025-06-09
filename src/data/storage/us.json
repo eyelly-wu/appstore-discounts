@@ -27819,7 +27819,8 @@
       "DLC \"Time\"": "$0.99",
       "Donation III": "$99.99",
       "Donation I": "$4.99",
-      "Donation II": "$24.99"
+      "Donation II": "$24.99",
+      "\"Time\"": "$0.49"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -27827,10 +27828,22 @@
       "DLC \"Time\"": "$0.49",
       "Donation III": "$4.99",
       "Donation I": "$0.99",
-      "Donation II": "$1.99"
+      "Donation II": "$1.99",
+      "\"Time\"": "$0.49"
     },
     "history": [
       [
+        {
+          "timestamp": 1749510724459,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "\"Time\"": "$0.49",
+            "Donation I": "$0.99",
+            "Donation III": "$4.99",
+            "Donation II": "$1.99"
+          }
+        },
         {
           "timestamp": 1749485749492,
           "price": 0.29,
@@ -53609,6 +53622,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749510724459,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Fairytale Kingdom Bundle": "$7.99",
+            "Fairytale Kingdom": "$5.99",
+            "The Ultimate Life Collection": "$34.99",
+            "Haunted Hills Bundle": "$7.99",
+            "Haunted Hills World": "$5.99",
+            "Frozen Lands Bundle": "$7.99",
+            "Frozen Lands": "$5.99",
+            "Lunar Age World": "$5.99",
+            "Sandy Shores Bundle": "$7.99",
+            "Lunar Age Bundle": "$7.99"
+          }
+        },
         {
           "timestamp": 1749507150926,
           "price": 4.99,

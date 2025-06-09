@@ -27106,7 +27106,8 @@
       "DLC \"Time\"": "HK$ 8.00",
       "Donation III": "HK$ 788.00",
       "Donation II": "HK$ 188.00",
-      "Donation I": "HK$ 38.00"
+      "Donation I": "HK$ 38.00",
+      "\"Time\"": "HK$ 2.00"
     },
     "minPriceInfo": {
       "price": 2,
@@ -27114,10 +27115,22 @@
       "DLC \"Time\"": "HK$ 2.00",
       "Donation III": "HK$ 38.00",
       "Donation II": "HK$ 18.00",
-      "Donation I": "HK$ 8.00"
+      "Donation I": "HK$ 8.00",
+      "\"Time\"": "HK$ 2.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1749510724459,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "\"Time\"": "HK$ 2.00",
+            "Donation III": "HK$ 38.00",
+            "Donation II": "HK$ 18.00",
+            "Donation I": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1749485749492,
           "price": 2,
@@ -43514,6 +43527,21 @@
     "history": [
       [
         {
+          "timestamp": 1749510724459,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Early Unlock Cheats": "HK$ 88.00",
+            "All Advisors Unlock": "HK$ 88.00",
+            "Command Pack": "HK$ 58.00",
+            "Region Tour": "HK$ 32.00",
+            "Early Unlock Cheats (discount)": "HK$ 38.00",
+            "戰役 + 挑戰": "HK$ 38.00",
+            "場景包": "HK$ 38.00",
+            "黑暗洞窟擴展": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1749507150926,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -50363,6 +50391,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749510724459,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "每日外刊": "HK$ 73.00",
+            "VIP连续包季": "HK$ 63.00",
+            "2年联合VIP会员": "HK$ 228.00",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "HK$ 228.00",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "HK$ 228.00",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "HK$ 228.00",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "HK$ 228.00",
+            "林小鹿英语精读（1-7季合集升级版）": "HK$ 588.00",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "HK$ 228.00"
+          }
+        },
         {
           "timestamp": 1749507150926,
           "price": 8,

@@ -21868,7 +21868,8 @@
       "Donation III": "USD 99.99",
       "Donation II": "USD 24.99",
       "Donation I": "USD 4.99",
-      "DLC \"Time\"": "USD 0.99"
+      "DLC \"Time\"": "USD 0.99",
+      "\"Time\"": "USD 0.49"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -21876,10 +21877,22 @@
       "Donation III": "USD 4.99",
       "Donation II": "USD 1.99",
       "Donation I": "USD 0.99",
-      "DLC \"Time\"": "USD 0.49"
+      "DLC \"Time\"": "USD 0.49",
+      "\"Time\"": "USD 0.49"
     },
     "history": [
       [
+        {
+          "timestamp": 1749510724459,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Donation III": "USD 4.99",
+            "Donation II": "USD 1.99",
+            "Donation I": "USD 0.99",
+            "\"Time\"": "USD 0.49"
+          }
+        },
         {
           "timestamp": 1749485749492,
           "price": 0.29,
