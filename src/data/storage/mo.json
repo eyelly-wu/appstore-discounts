@@ -31947,8 +31947,8 @@
       "The Dancer": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "USD 6.99",
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
       "Forbidden Bundle": "USD 6.99",
       "The Exile": "USD 4.99",
       "The Ghoul": "USD 1.99",
@@ -31956,6 +31956,20 @@
       "The Dancer": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749478389158,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Forbidden Bundle": "USD 6.99",
+            "The Exile": "USD 4.99",
+            "The Ghoul": "USD 1.99",
+            "The Priest": "USD 1.99",
+            "The Dancer": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747774936582,
@@ -55525,6 +55539,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749478389158,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749304933536,
