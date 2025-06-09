@@ -21600,11 +21600,24 @@
       "price": 9.99,
       "formattedPrice": "₺9,99",
       "DLC \"Time\"": "₺19,99",
-      "Donation III": "₺449,99",
-      "Donation II": "₺229,99",
-      "Donation I": "₺99,99"
+      "Donation III": "₺229,99",
+      "Donation II": "₺99,99",
+      "Donation I": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749485749492,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "DLC \"Time\"": "₺19,99",
+            "Donation III": "₺229,99",
+            "Donation II": "₺99,99",
+            "Donation I": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746014625155,

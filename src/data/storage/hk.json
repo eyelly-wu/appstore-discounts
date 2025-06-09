@@ -27091,11 +27091,24 @@
       "price": 2,
       "formattedPrice": "HK$ 2.00",
       "DLC \"Time\"": "HK$ 2.00",
-      "Donation III": "HK$ 88.00",
-      "Donation II": "HK$ 38.00",
-      "Donation I": "HK$ 18.00"
+      "Donation III": "HK$ 38.00",
+      "Donation II": "HK$ 18.00",
+      "Donation I": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749485749492,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "DLC \"Time\"": "HK$ 2.00",
+            "Donation III": "HK$ 38.00",
+            "Donation II": "HK$ 18.00",
+            "Donation I": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745836547210,
@@ -60307,11 +60320,21 @@
       "Orbit Pack": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "Orbit Pack": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749485749492,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Orbit Pack": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

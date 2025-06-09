@@ -3663,6 +3663,20 @@
     "history": [
       [
         {
+          "timestamp": 1749485749492,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Premium": "$360.00",
+            "Super Powers": "$90.00",
+            "Pack of 100 Credits": "$90.00",
+            "Pack of 550 Credits": "$390.00",
+            "Pack of 450 Credits": "$499.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749464047049,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -13094,6 +13108,25 @@
       "大型英雄包": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749485749492,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "骷心巫龍": "$220.00",
+            "黑龍灰霸齒": "$220.00",
+            "大型英雄包 2": "$390.00",
+            "倪浮世": "$30.00",
+            "剎陀羅": "$90.00",
+            "庫紹": "$90.00",
+            "但丁": "$150.00",
+            "英雄包 1": "$60.00",
+            "帝娥翠": "$30.00",
+            "英雄包 3": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749304933536,
@@ -27669,11 +27702,24 @@
       "price": 10,
       "formattedPrice": "$10.00",
       "DLC \"Time\"": "$20.00",
-      "Donation III": "$320.00",
-      "Donation II": "$150.00",
-      "Donation I": "$60.00"
+      "Donation III": "$150.00",
+      "Donation II": "$60.00",
+      "Donation I": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749485749492,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "DLC \"Time\"": "$20.00",
+            "Donation III": "$150.00",
+            "Donation II": "$60.00",
+            "Donation I": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746018554643,
@@ -73331,6 +73377,25 @@
       "Boeing 737-900": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749485749492,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "The Aircraft Bundle": "$590.00",
+            "Global scenery - 12 months": "$390.00",
+            "Airbus A380": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "UH-60": "$30.00",
+            "Boeing 747-400": "$60.00",
+            "CRJ900": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749443075326,

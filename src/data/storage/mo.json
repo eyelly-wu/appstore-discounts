@@ -6812,6 +6812,25 @@
     "history": [
       [
         {
+          "timestamp": 1749485749492,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Minecraft Store Item 20": "USD 19.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749443075326,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -21833,12 +21852,25 @@
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29",
-      "Donation III": "USD 9.99",
-      "Donation II": "USD 4.99",
-      "Donation I": "USD 1.99",
+      "Donation III": "USD 4.99",
+      "Donation II": "USD 1.99",
+      "Donation I": "USD 0.99",
       "DLC \"Time\"": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749485749492,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Donation III": "USD 4.99",
+            "Donation II": "USD 1.99",
+            "Donation I": "USD 0.99",
+            "DLC \"Time\"": "USD 0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748696886839,
@@ -46960,11 +46992,21 @@
       "Orbit Pack": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99",
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
       "Orbit Pack": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749485749492,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Orbit Pack": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

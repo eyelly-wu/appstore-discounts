@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-09T15:34:12.281Z</updated>
+    <updated>2025-06-09T16:37:02.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T15:34:12.281Z</updated>
+        <updated>2025-06-09T16:37:02.513Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 09 Jun 2025 15:34:12 GMT</id>
+        <id>rankingusMon, 09 Jun 2025 16:37:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T15:34:12.281Z</updated>
+        <updated>2025-06-09T16:37:02.513Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -245,14 +245,24 @@ feedId:49753370488353792+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1304822713">Infinity Tank Battle</a>
+        <a href="https://apps.apple.com/us/app/id1094038347">Only You Are Here</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Donation I</i>：<b>1</b>
+              </li><li>
+                <i>Donation III</i>：<b>1</b>
+              </li><li>
+                <i>Donation II</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -262,7 +272,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1453820315">This Is the Police 2</a>
+        <a href="https://apps.apple.com/us/app/id1304822713">Infinity Tank Battle</a>
       </td>
       <td>
         <ul>
@@ -279,7 +289,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
+        <a href="https://apps.apple.com/us/app/id1453820315">This Is the Police 2</a>
       </td>
       <td>
         <ul>
@@ -296,7 +306,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
+        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
       </td>
       <td>
         <ul>
@@ -313,7 +323,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
+        <a href="https://apps.apple.com/us/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
       </td>
       <td>
         <ul>
@@ -330,7 +340,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1612952507">AeroPads - Pads & Soundscapes</a>
+        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -347,7 +357,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+        <a href="https://apps.apple.com/us/app/id1612952507">AeroPads - Pads & Soundscapes</a>
       </td>
       <td>
         <ul>
@@ -362,6 +372,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>15</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1640627334">Resident Evil Village for Mac</a>
@@ -388,7 +415,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1659271912">Train Dispatcher!2</a>
@@ -405,7 +432,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450980545">Resident Evil Village</a>
@@ -434,7 +461,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6462360082">Resident Evil 4</a>
@@ -465,7 +492,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
@@ -482,7 +509,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -499,7 +526,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -516,7 +543,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -651,6 +678,48 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Only You Are Here]]></title>
+        <id>Only You Are Here-us-1749485749492</id>
+        <link href="https://apps.apple.com/us/app/only-you-are-here/id1094038347?uo=4"/>
+        <updated>2025-06-09T16:15:49.492Z</updated>
+        <summary type="html"><![CDATA[Donation I: $1.99 → $0.99<br/>Donation III: $9.99 → $4.99<br/>Donation II: $4.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/only-you-are-here/id1094038347?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/ad/86/71ad8614-4b11-7618-985b-8b0a50dc436c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Donation I：</strong><span>$1.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $4.99]</span>
+  </li><li>
+    <strong>Donation III：</strong><span>$9.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $99.99]</span>
+  </li><li>
+    <strong>Donation II：</strong><span>$4.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $24.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$0.29</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    DLC "Time"：<b>$0.49</b>
+  </li><li>
+    Donation I：<b>$0.99</b>
+  </li><li>
+    Donation III：<b>$4.99</b>
+  </li><li>
+    Donation II：<b>$1.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  The Secret Elevator Remastered — an atmospheric adventure with first-person horror elements. 
+
+Take on the role of a person trapped inside their dream. This place is filled with a mix of memories and nightmares. To get out, you have to open a small door.
+
+Immerse yourself in the game's history, walk through many endings, and discover the key secret.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/15/d1/dd15d1fc-79ea-83d1-ba5f-8cc7ebfa5b8a/bf9676f6-9ace-41ac-a39a-9e05298a750c_TSER_screenshot_iPhone_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f3/29/e7/f329e751-3eb8-46b0-d3fd-0d5991bc26a5/33dd8550-65fe-4a65-958d-0150b5736999_TSER_screenshot_iPhone_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/39/5c/d1/395cd148-89fb-0fdd-7cc2-ed826f363d81/155803a1-99f7-49b6-b3a4-74cf15f6ba28_TSER_screenshot_iPhone_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/26/99/01/269901dd-e2b1-a6fb-95bf-c6435dbb0a45/522966c1-58ab-4a21-906a-af6bdc6f5086_TSER_screenshot_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/28/eb/51/28eb5111-a0d5-4819-ef39-1ac373c2f11b/f44130ed-f194-4b83-92df-ffd5a5531d91_TSER_screenshot_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c0/2d/23/c02d2337-3e4c-c0c4-0f74-5888630691a3/158864da-e931-4bfa-ae9d-06dbe0b52b9c_TSER_screenshot_iPad_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/46/ee/2f46eef3-0ee6-6ed8-f343-af5a68cdfd19/5cc70d3a-8048-406c-92cf-94f16743345f_TSER_screenshot_iPad_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6b/fa/51/6bfa51f9-3804-8391-2139-4eeeba3fb3b0/49c12c58-c876-4469-a9a9-9f87aa8e018a_TSER_screenshot_iPad_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c0/56/ac/c056ac73-af86-a73d-c90f-b36d11a144a1/4159ca69-97a1-44b0-9cb7-0a5462f27be7_TSER_screenshot_iPad_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/26/eb/64/26eb6486-a7cc-6040-9368-e7a6c266c55e/4e54d565-b1a4-4586-b09c-a502933bf730_TSER_screenshot_iPad_05.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AeroPads - Pads & Soundscapes]]></title>
