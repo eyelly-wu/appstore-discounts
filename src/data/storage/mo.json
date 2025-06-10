@@ -57369,5 +57369,26 @@
         }
       ]
     ]
+  },
+  "6501973975": {
+    "name": "休息日",
+    "maxPriceInfo": {
+      "price": 2.49,
+      "formattedPrice": "USD 2.49"
+    },
+    "minPriceInfo": {
+      "price": 2.49,
+      "formattedPrice": "USD 2.49"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749543468857,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
   }
 }

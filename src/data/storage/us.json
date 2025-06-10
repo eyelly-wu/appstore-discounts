@@ -2134,7 +2134,8 @@
       "Tiong Bahru HipstaPak": "$0.99",
       "Impressionist SnapPak": "$0.99",
       "Fitzroy HipstaPak": "$0.99",
-      "Levi's Photo Workshop Holiday GoodPak": "$0.99"
+      "Levi's Photo Workshop Holiday GoodPak": "$0.99",
+      "Príncipe Real HipstaPak": "$1.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -2159,9 +2160,29 @@
       "Tiong Bahru HipstaPak": "$0.99",
       "Impressionist SnapPak": "$0.99",
       "Fitzroy HipstaPak": "$0.99",
-      "Levi's Photo Workshop Holiday GoodPak": "$0.99"
+      "Levi's Photo Workshop Holiday GoodPak": "$0.99",
+      "Príncipe Real HipstaPak": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749543468857,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Príncipe Real HipstaPak": "$1.99",
+            "Coyoacán HipstaPak": "$1.99",
+            "Ohara HipstaPak": "$1.99",
+            "RetroPak 2022": "$6.99",
+            "RetroPak 2023": "$9.99",
+            "RetroPak Twenty-One": "$4.99",
+            "Highland Park HipstaPak": "$0.99",
+            "Pilsen HipstaPak": "$0.99",
+            "Tiong Bahru HipstaPak": "$0.99",
+            "Impressionist SnapPak": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749225760759,
@@ -43548,6 +43569,23 @@
     "history": [
       [
         {
+          "timestamp": 1749543468857,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "UPGRADE PRO": "$6.99",
+            "FUJI SERIES FILM": "$4.99",
+            "KODAK SERIES FILM": "$5.99",
+            "WEDDING SERIES FILM": "$4.99",
+            "RETRO SERIES FILM": "$4.99",
+            "IU SERIES FILM": "$4.99",
+            "LOMO SERIES": "$4.99",
+            "UPGRADE PRO VERSION": "$59.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746482536593,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -49034,6 +49072,25 @@
       "First Purchase: Magic Package": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749543468857,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "$19.99",
+            "Dynasty Pet": "$14.99",
+            "Ultimate Amulet": "$5.99",
+            "Ultimate Ring": "$5.99",
+            "Ultimate Pet": "$5.99",
+            "Ultimate Ancient": "$12.99",
+            "Royal Rune": "$2.99",
+            "Norths Warden Pet Pack": "$14.99",
+            "Norths Warden Set": "$19.99",
+            "Black Friday Combo Items": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749363570416,
@@ -80946,6 +81003,27 @@
           "timestamp": 1749276173309,
           "price": 9.99,
           "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6501973975": {
+    "name": "Off Day",
+    "maxPriceInfo": {
+      "price": 2.49,
+      "formattedPrice": "$2.49"
+    },
+    "minPriceInfo": {
+      "price": 2.49,
+      "formattedPrice": "$2.49"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749543468857,
+          "price": 2.49,
+          "formattedPrice": "$2.49",
           "inAppPurchases": {}
         }
       ]

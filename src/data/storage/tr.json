@@ -13357,6 +13357,25 @@
     "history": [
       [
         {
+          "timestamp": 1749543468857,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "₺179,99",
+            "Ayatsugu_Otowa Collection": "₺179,99",
+            "Sherwin Collection": "₺179,99",
+            "Capchii Collection": "₺179,99",
+            "VII Bundle 06": "₺599,99",
+            "VII Bundle 05": "₺499,99",
+            "VII Bundle 03": "₺299,99",
+            "VII Bundle 02": "₺229,99",
+            "VII Bundle 04": "₺399,99",
+            "VII Bundle 01": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746730938705,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -15969,6 +15988,21 @@
       "Limited Time Offer": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749543468857,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Limited Time Offer": "₺699,99",
+            "Extra Large Tokens Pack": "₺499,99",
+            "Extra Large Money Pack": "₺349,99",
+            "Promo Bundle": "₺999,99",
+            "Starter Pack": "₺129,99",
+            "Medium Money Pack": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749464047049,
@@ -59070,6 +59104,27 @@
           "timestamp": 1749276173309,
           "price": 449.99,
           "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6501973975": {
+    "name": "Off Day",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749543468857,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]

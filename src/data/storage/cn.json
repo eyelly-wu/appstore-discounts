@@ -58237,5 +58237,26 @@
         }
       ]
     ]
+  },
+  "6501973975": {
+    "name": "休息日",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749543468857,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
   }
 }

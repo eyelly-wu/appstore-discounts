@@ -53159,6 +53159,25 @@
     "history": [
       [
         {
+          "timestamp": 1749543468857,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "The Ultimate Life Collection": "HK$ 148.00",
+            "Mothgirl Outfit": "HK$ 8.00",
+            "Tunneler Ship": "HK$ 8.00",
+            "Foxman Bike": "HK$ 8.00",
+            "Action Car Avatar": "HK$ 8.00",
+            "Super Pet Avatar": "HK$ 8.00",
+            "Magical Girl Outfit": "HK$ 8.00",
+            "Skyscraper Avatar": "HK$ 8.00",
+            "Foxman Outfit": "HK$ 8.00",
+            "Super Hero World Bundle": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749096403951,
           "price": 28,
           "formattedPrice": "HK$ 28.00",
@@ -77608,6 +77627,27 @@
           "timestamp": 1749276173309,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6501973975": {
+    "name": "休息日",
+    "maxPriceInfo": {
+      "price": 19,
+      "formattedPrice": "HK$ 19.00"
+    },
+    "minPriceInfo": {
+      "price": 19,
+      "formattedPrice": "HK$ 19.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749543468857,
+          "price": 19,
+          "formattedPrice": "HK$ 19.00",
           "inAppPurchases": {}
         }
       ]
