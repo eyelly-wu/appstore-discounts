@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-10T10:35:09.432Z</updated>
+    <updated>2025-06-10T19:31:12.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-10T10:35:09.433Z</updated>
+        <updated>2025-06-10T19:31:12.046Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrTue, 10 Jun 2025 10:35:09 GMT</id>
+        <id>rankingtrTue, 10 Jun 2025 19:31:12 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-10T10:35:09.434Z</updated>
+        <updated>2025-06-10T19:31:12.046Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -94,6 +94,29 @@ feedId:99063474310237184+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id1038014543">Day R Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Handful of caps</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
       </td>
       <td>
@@ -114,7 +137,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id904278510">Hitman Sniper</a>
@@ -137,7 +160,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id918609651">Money Pro: Personal Finance AR</a>
@@ -160,7 +183,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1028950091">The Greedy Cave</a>
@@ -175,29 +198,6 @@ feedId:99063474310237184+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Coupon of the Greedy Cave</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1038014543">Day R Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Handful of caps</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -831,6 +831,91 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day R Premium]]></title>
+        <id>Day R Premium-tr-1749582596092</id>
+        <link href="https://apps.apple.com/tr/app/day-r-premium/id1038014543?uo=4"/>
+        <updated>2025-06-10T19:09:56.092Z</updated>
+        <summary type="html"><![CDATA[Handful of caps: ₺99,99 → ₺39,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/day-r-premium/id1038014543?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/40/cb/e040cbb8-04ca-9935-b2b1-def693d42b5b/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Handful of caps：</strong><span>₺99,99</span> → <b>
+  <strong>₺39,99</strong>
+</b><span>[₺39,99 ~ ₺99,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺129,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Handful of caps：<b>₺39,99</b>
+  </li><li>
+    Pile of caps：<b>₺229,99</b>
+  </li><li>
+    Sausepan of caps：<b>₺449,99</b>
+  </li><li>
+    Special pack：<b>₺229,99</b>
+  </li><li>
+    Small pack：<b>₺39,99</b>
+  </li><li>
+    Great pack：<b>₺449,99</b>
+  </li><li>
+    Useful pack：<b>₺129,99</b>
+  </li><li>
+    Standart pack：<b>₺99,99</b>
+  </li><li>
+    Case with caps：<b>₺899,99</b>
+  </li><li>
+    Survival kit：<b>₺39,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.
+
+Benefits of Premium version:
+- Unique pet Raven
+- Starter Kit
+- Caches of useful items in shelters
+- Expanded selection of perks
+- Chat without any limitations
+- Reduced waiting time between parcels
+- Access to all kinds and colors of map markers
+
+Can you survive in the world destroyed after a nuclear war? With radiation, hunger and diseases around you. You have to cross the whole country and save your family. Who knows if they are alive, or maybe radiation and deadly virus have already reached them? Reveal a secret of the apocalypse and get your memories back during a journey across the huge territory of the USSR in the 80th. 
+
+It is not easy to survive after apocalypse. You'll face the real hungry games! Monsters, zombie, thirst, uncountable diseases and injuries, blood-thirsty enemies – you have to fight it all. Craft all your resources: weapons, clothes, means of transport. 
+
+- Hardcore survival:
+Hunger, zombie and radiation won't give you a chance to relax.
+
+- Realistic world:
+The turn of the seasons, huge map of USSR and more than 2500 different towns and cities. Hunt animals, but be careful: even rats can injure you seriously! Explore the wilderness!
+
+- A lot of opportunities:
+Multicraft, obtaining skills, hundreds of crafting schemes, a lot of ammunition.
+
+- People and stories:
+Interesting quests and helpful allies. An open game world.
+
+- Improve your skills:
+Mechanics, medicine, chemistry and many others.
+
+- Cooperative mode:
+The Online mode  with a chat room, exchange of items and united fightings. Multiplayer survival game.
+
+Explore the abandoned houses and shelters. Find weapon and build transport using various materials.
+Remember everything you learnt on chemistry and physics! It is the most realistic surviving game! 
+
+Features: 
+- Сraft system – get resources, hunt, find useful objects or weapon and create your own one! 
+- Hardcore simulator of survival 
+- Journey across the wilderness map in the multiplayer mode 
+- Choose the difficulty mode: sandbox, real life or online
+War never changes. In 1985 USSR went down before an unknown enemy. In a few days the entire country became a radioactive wasteland - violence, hunger and diseases reign here now. When you no longer loose in the fight with the death, the other survivors wait for you in the cooperative - the Online mode let you survive together dealing with difficulties, talking in the chat room and sending gifts to each other.
+
+User agreement: http://tltgames.ru/license-agreement-en
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/90/cf/0690cf73-1247-f835-15f7-cba623e19edc/1aecd46d-7ce9-4d81-9254-f628456425f6_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/36/f3/1536f3f6-01ce-9d22-4a93-7c889e80169f/09283753-f39d-41a1-a45c-a7b4e867dbc8_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/d3/6c/4dd36ca1-e042-b715-68bc-a5e4424fefd4/7ac799fd-b463-489a-8852-6fe660cc8d23_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2b/6b/3e/2b6b3e51-7ff3-a731-3d71-60a6d3976f44/d21e96ef-0353-43b6-9539-930d16b25c30_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/38/88/133888c3-3156-e830-a8da-6c0b8ef4b4a3/f7cfb957-6f62-424f-892c-2aca9a521791_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c5/cd/d2/c5cdd2ce-4318-1ede-6e82-41078196699e/d5e07146-2bb5-4e91-a9fa-b47115572314_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/e4/52/43e452a4-9079-5620-938f-4248f571ad3f/31d40a46-fdda-4684-a8f8-574a13cd83ae_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/c3/62/64c362cf-6d16-57e3-d981-964ebf8a7de9/392e8dcd-788c-43d3-ab8e-8a47b6e0bf78_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/81/97/04/81970402-ffcd-b543-eb29-a5def3c23dff/ea5affda-de2e-4178-8d42-0abc18bce379_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/1b/a4/e91ba456-6548-115e-1d6a-5f31469aa27f/b57105d1-c058-481c-9008-6239d912b164_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/fc/d5/09fcd512-30de-f8ca-beaf-59367621c593/57245464-4ab4-4aca-85e8-dbe65afa71ae_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/94/32/4b943220-f995-7db5-99cd-7b037a58e291/0d67567b-fb97-4977-9bdf-f01902998a39_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/b9/3d/2cb93d5d-72aa-b278-d25f-cd322a95f96d/3fc94b42-ea47-42e4-a8a8-b2e85d29602c_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/a2/cc/a2a2cc70-edf9-ae7d-1be7-fe35d6cab765/c211749e-8593-4699-84cd-3cddb3820ef7_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d0/47/f4/d047f41e-562e-8192-efa2-a5a1ffdae62c/0f095350-5f04-4bf9-aa2e-2a62e5544f5d_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/33/cb/a2/33cba21c-0968-a18b-f647-77d7e57f8297/5f51ada7-eae5-4631-b4b5-d6b1822158e0_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ba/9f/bf/ba9fbf20-5eb7-c07a-3af5-86d8fdb3438d/084f61e7-8001-44e5-a622-f7010273991a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/8a/93/a78a93ca-2b68-084e-e956-6e02882a5009/4b0f2b43-fddf-4124-a341-ca895b5a41b0_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/61/66/ac616636-9b7e-985e-217e-b33e81c0f562/39947d08-9a25-4897-a887-06e31ecb8eff_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/09/c2/7809c277-e401-4b9f-1c32-dc945aa0bf71/a2c7551f-3f9e-443b-ad53-2cb0dd304dd0_9.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Game of Life 2]]></title>
@@ -1550,70 +1635,5 @@ Let TuneShift be your professional music management tool for the perfect Apple M
 
 隐私条款：https://www.yuque.com/woshixiongda/vdwyc2/gpyq6twirk1u9w2u
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/79/7b/26797b55-20be-e38f-039b-a09662947318/6e0c7c45-23d6-47e0-b6de-943dad34902d__U753b_U677f.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/48/49/8c4849c1-4e0a-2993-2536-f3925866054f/d329f8a7-698c-4a28-9747-3c9d713b0d8b__U753b_U677f_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/66/53/e8665383-c55a-1428-6eba-045565252037/3400cbc1-ba7d-4dd9-9942-0be1d2e0dfc4__U753b_U677f_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/2b/95/f92b9567-5e94-71c6-6d07-61618cf4d943/cd33096b-6a13-4ada-8f04-57dafce61611__U753b_U677f_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/cd/75/3fcd7569-bd4a-efc0-dda0-ce84b86187f4/fc649eb8-aa80-4710-b1d4-df6537d05d35__U753b_U677f_4.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/f4/20/87f420a9-602e-5e5e-3f4e-1f985f420b34/130da694-cb89-4fd8-bc60-6858298db544_Group_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/3a/72/cf3a7271-e946-ecaa-d86c-84c3632a5bac/1c0bd52f-658c-43a3-aff7-4531958bdc65_Group_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/d1/c6/9bd1c618-b331-6aad-aeb1-2487ddde14cd/0601c076-7cd7-4d48-a2bf-524300bbf888_Group_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/0f/b3/cc0fb3e3-85fd-c422-bc0e-d9ab4faac151/9313222c-9639-4eec-bc2e-2affb487362f_Group_5.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earthquake Network]]></title>
-        <id>Earthquake Network-tr-1749315724953</id>
-        <link href="https://apps.apple.com/tr/app/earthquake-network/id1449893235?uo=4"/>
-        <updated>2025-06-07T17:02:04.953Z</updated>
-        <summary type="html"><![CDATA[Price: ₺99,99 → ₺49,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/earthquake-network/id1449893235?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/b1/5c/e6b15c00-1ec6-aed8-d5de-92b2e6465bf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺99,99</span> → <b>
-  <strong>₺49,99</strong>
-</b><span>[₺49,99 ~ ₺99,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺49,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Priority 10k for 1 month：<b>₺6,49</b>
-  </li><li>
-    Priority 100k for 1 month：<b>₺2,99</b>
-  </li><li>
-    Priority 10k for 1 year：<b>₺79,99</b>
-  </li><li>
-    Priority 100k for 1 year：<b>₺49,99</b>
-  </li><li>
-    Priority 10k for lifetime：<b>₺249,99</b>
-  </li><li>
-    Priority 100k for lifetime：<b>₺199,99</b>
-  </li><li>
-    PRO version：<b>₺99,99</b>
-  </li><li>
-    PRO version discounted：<b>₺99,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Earthquake Network is the most comprehensive app on earthquakes and for most world countries it is the only earthquake early warning system for receiving real time alerts.
-
-Earthquake Network gives you:
-
-- Real time alerts if you live close to the epicentre
-- Alerts seconds in advances if you live far from the epicentre
-- Real time user reports on felt earthquakes
-- Free earthquake data from 21 seismic networks including U.S., Puerto Rico, India, Indonesia, Turkey, Mexico, Chile, Peru, Ecuador, Argentina, Venezuela, Dominican Republic, Colombia, Costa Rica, Nicaragua, China, New Zeland, Japan, Italy, Croatia, Spain and Greece
-
-The Earthquake Network research project (https://www.sismo.app) aims at developing a smartphone-based earthquake early warning system able to detect earthquakes in real time and to alert the population in advance. Smartphones are able to detect earthquakes thanks to the accelerometer on-board each device. When an earthquake is detected, users with the application installed are immediatly alerted. Since earthquake waves travel at around 5 km/s it is possible to alert the population not yet reached by the damaging waves of the earthquake. For the scientific details about the project please refer to the scientific paper on Frontiers at https://bit.ly/2C8B5HI
-
-Subscriptions:
-
-When an earthquake is detected in real time by smartphones near the epicenter, the server sends an alert to all users with the app. Alerting all users can take up to 10 seconds since it is not technically feasible to do so instantly. Now you can join the priority lists of the first 10,000 or 100,000 people alerted in real time. The following subscriptions are available:
-
-- Subscription 10k for 1 year
-- Subscription 10k for 1 month 
-
-- Subscription 100k for 1 year
-- Subscription 100k for 1 month 
-
-• Payment will be charged to iTunes Account at confirmation of purchase
-• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
-• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
-• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
-• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
-
-Privacy: https://www.sismo.app/privacy
-
-Terms and conditions: https://www.sismo.app/terms-conditions
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/9b/7c/299b7cdf-700f-bfe2-43e2-1a1c3cc360e7/f5e1c307-f530-43c1-9960-efcebbce612e_screen_EN_5.5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/4a/d7/0b4ad7e7-0890-6475-f5f1-c9ef5e060602/f5517e8b-960f-4c68-baf9-9e34dca7480b_screen3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/bb/1c/7fbb1c9e-2a04-6551-4783-6beb6c86da54/9ee700c3-6562-4b5d-a982-0f14fc714aa8_screen_5.5_en_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/d2/4e/09d24eb8-9472-79bb-c1ea-67940feab572/1eb33779-4e66-476d-a016-b32b386d7e93_screen_5.5_en_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/99/69/76996918-088d-9540-f676-6f45a8332abf/a2d45dc4-06dc-4387-8c34-66dfc8d9b168_screen6.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
