@@ -44352,8 +44352,8 @@
       "The Exile": "$4.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "Forbidden Bundle": "$6.99",
       "The Dancer": "$1.99",
       "The Ghoul": "$1.99",
@@ -44361,6 +44361,20 @@
       "The Exile": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749525225041,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Forbidden Bundle": "$6.99",
+            "The Dancer": "$1.99",
+            "The Priest": "$1.99",
+            "The Ghoul": "$1.99",
+            "The Exile": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747774936582,
@@ -77249,6 +77263,14 @@
     "history": [
       [
         {
+          "timestamp": 1749525225041,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749363570416,
           "price": 0,
           "formattedPrice": "Free",
@@ -77855,6 +77877,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749525225041,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Bundle MLB 2010s": "$4.99",
+            "1,000,000 PP for OOTP Go 26!": "$499.99",
+            "Season MLB 2024": "$0.99",
+            "Season MLB 2021": "$0.99"
+          }
+        },
         {
           "timestamp": 1749517352752,
           "price": 9.99,
