@@ -506,7 +506,7 @@
 |693|1472184189|自动|❌|The White Door|The White Door|The White Door|The White Door|The White Door|
 |692|1478611992|自动|❌|Farming Simulator 20|Farming Simulator 20|Farming Simulator 20|Farming Simulator 20|Farming Simulator 20|
 |691|1498550832|自动|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|
-|690|6739975257|自动|乐桥|樂橋|樂橋|樂橋|TuneShift|TuneShift|
+|690|6739975257|自动|乐桥|乐桥|乐桥|乐桥|TuneShift|TuneShift|
 |689|6670190133|自动|❌|哆啦A夢的銅鑼燒店物語|哆啦A夢的銅鑼燒店物語|哆啦A夢的銅鑼燒店物語|Doraemon Dorayaki Shop Story|Doraemon Dorayaki Shop Story|
 |688|6744862281|自动|iPlayer - 本地音乐播放器&离线音乐专业版|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|
 |687|6473001577|自动|❌|Aerofly FS Global|Aerofly FS Global|Aerofly FS Global|Aerofly FS Global|Aerofly FS Global|

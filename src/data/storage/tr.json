@@ -16596,6 +16596,25 @@
     "history": [
       [
         {
+          "timestamp": 1749568413844,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Font Access": "₺1.799,99",
+            "Pro Access": "₺2.999,99",
+            "Ultimate Access": "₺4.499,99",
+            "Abstract Theme 5": "₺39,99",
+            "Abstract Theme 4": "₺39,99",
+            "Abstract Theme 2": "₺39,99",
+            "Abstract Theme 3": "₺39,99",
+            "Abstract Theme 1": "₺39,99",
+            "Abstract Theme Bundle": "₺129,99",
+            "Great Art Bundle": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749439044822,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -55818,13 +55837,31 @@
     "name": "TuneShift",
     "maxPriceInfo": {
       "price": 179.99,
-      "formattedPrice": "₺179,99"
+      "formattedPrice": "₺179,99",
+      "年度订阅": "₺179,99",
+      "乐桥终身会员": "₺349,99",
+      "连续按月订阅": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "年度订阅": "₺179,99",
+      "乐桥终身会员": "₺349,99",
+      "连续按月订阅": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749568413844,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "年度订阅": "₺179,99",
+            "乐桥终身会员": "₺349,99",
+            "连续按月订阅": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749380991254,

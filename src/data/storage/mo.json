@@ -3330,6 +3330,21 @@
     "history": [
       [
         {
+          "timestamp": 1749568413844,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Super Powers": "USD 11.99",
+            "Badoo Premium": "USD 17.99",
+            "pack of 550 Badoo credits": "USD 12.99",
+            "pack of 100 Badoo credits": "USD 2.99",
+            "1350 Badoo Credits": "USD 24.99",
+            "3050 Badoo Credits": "USD 48.00",
+            "450 Badoo Credits": "USD 15.49",
+            "250 Badoo Credits": "USD 4.99"
+          }
+        },
+        {
           "timestamp": 1749564780293,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -54981,16 +54996,34 @@
     ]
   },
   "6739975257": {
-    "name": "樂橋",
+    "name": "乐桥",
     "maxPriceInfo": {
       "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "formattedPrice": "USD 3.99",
+      "年度订阅": "USD 3.99",
+      "乐桥终身会员": "USD 7.99",
+      "连续按月订阅": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "年度订阅": "USD 3.99",
+      "乐桥终身会员": "USD 7.99",
+      "连续按月订阅": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749568413844,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "年度订阅": "USD 3.99",
+            "乐桥终身会员": "USD 7.99",
+            "连续按月订阅": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748599355554,

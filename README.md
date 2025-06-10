@@ -503,7 +503,7 @@ So far, we've covered `6` `Countries or Regions` and  `1124` `Apps` <br />Push n
 |693|1472184189|Automatic|❌|The White Door|The White Door|The White Door|The White Door|The White Door|
 |692|1478611992|Automatic|❌|Farming Simulator 20|Farming Simulator 20|Farming Simulator 20|Farming Simulator 20|Farming Simulator 20|
 |691|1498550832|Automatic|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|
-|690|6739975257|Automatic|乐桥|樂橋|樂橋|樂橋|TuneShift|TuneShift|
+|690|6739975257|Automatic|乐桥|乐桥|乐桥|乐桥|TuneShift|TuneShift|
 |689|6670190133|Automatic|❌|哆啦A夢的銅鑼燒店物語|哆啦A夢的銅鑼燒店物語|哆啦A夢的銅鑼燒店物語|Doraemon Dorayaki Shop Story|Doraemon Dorayaki Shop Story|
 |688|6744862281|Automatic|iPlayer - 本地音乐播放器&离线音乐专业版|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|
 |687|6473001577|Automatic|❌|Aerofly FS Global|Aerofly FS Global|Aerofly FS Global|Aerofly FS Global|Aerofly FS Global|

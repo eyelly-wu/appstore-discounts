@@ -21946,6 +21946,25 @@
     "history": [
       [
         {
+          "timestamp": 1749568413844,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "HK$ 0.00",
+            "ThemeA0B1C0": "HK$ 0.00",
+            "ThemeA1B0C0": "HK$ 0.00",
+            "ThemeA0B1C1": "HK$ 0.00",
+            "ThemeA1B0C1": "HK$ 0.00",
+            "ThemeA1B1C0": "HK$ 0.00",
+            "ThemeA2B0C0": "HK$ 0.00",
+            "主题大礼包": "HK$ 32.00",
+            "ThemeA2B0C1": "HK$ 32.00",
+            "ThemeA2B1C0": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749385300783,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -73559,16 +73578,34 @@
     ]
   },
   "6739975257": {
-    "name": "樂橋",
+    "name": "乐桥",
     "maxPriceInfo": {
       "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "formattedPrice": "HK$ 32.00",
+      "年度订阅": "HK$ 32.00",
+      "乐桥终身会员": "HK$ 58.00",
+      "连续按月订阅": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "年度订阅": "HK$ 32.00",
+      "乐桥终身会员": "HK$ 58.00",
+      "连续按月订阅": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749568413844,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "年度订阅": "HK$ 32.00",
+            "乐桥终身会员": "HK$ 58.00",
+            "连续按月订阅": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748599355554,
