@@ -862,7 +862,8 @@
       "Pilsen HipstaPak": "¥8.00",
       "Tiong Bahru HipstaPak": "¥8.00",
       "Impressionist SnapPak": "¥8.00",
-      "Fitzroy HipstaPak": "¥8.00"
+      "Fitzroy HipstaPak": "¥8.00",
+      "Príncipe Real HipstaPak": "¥15.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -886,9 +887,29 @@
       "Pilsen HipstaPak": "¥8.00",
       "Tiong Bahru HipstaPak": "¥8.00",
       "Impressionist SnapPak": "¥8.00",
-      "Fitzroy HipstaPak": "¥8.00"
+      "Fitzroy HipstaPak": "¥8.00",
+      "Príncipe Real HipstaPak": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749536312861,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Príncipe Real HipstaPak": "¥15.00",
+            "Coyoacán HipstaPak": "¥15.00",
+            "Ohara HipstaPak": "¥15.00",
+            "RetroPak 2022": "¥48.00",
+            "RetroPak 2023": "¥68.00",
+            "RetroPak Twenty-One": "¥38.00",
+            "Highland Park HipstaPak": "¥8.00",
+            "Pilsen HipstaPak": "¥8.00",
+            "Tiong Bahru HipstaPak": "¥8.00",
+            "Impressionist SnapPak": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748934161402,
@@ -44304,6 +44325,24 @@
     "history": [
       [
         {
+          "timestamp": 1749536312861,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "史诗礼包": "¥158.00",
+            "坐骑礼包504": "¥208.00",
+            "限时礼包": "¥30.00",
+            "进阶礼包": "¥178.00",
+            "饰品礼包": "¥193.00",
+            "周年献礼": "¥60.00",
+            "限时特惠": "¥12.00",
+            "升级好礼": "¥163.00",
+            "卓越豪礼": "¥18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749247330718,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -52082,7 +52121,7 @@
     ]
   },
   "6740246950": {
-    "name": "花皮 - 同城约会/无面具社交/解压/释放/正念/素颜",
+    "name": "花皮 - 同城约会，无面具社交，解压释放正念素颜",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
