@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-06-09T16:37:02.500Z</updated>
+    <updated>2025-06-10T04:42:17.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T16:37:02.500Z</updated>
+        <updated>2025-06-10T04:42:17.420Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:73536165737884672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoMon, 09 Jun 2025 16:37:02 GMT</id>
+        <id>rankingmoTue, 10 Jun 2025 04:42:17 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T16:37:02.500Z</updated>
+        <updated>2025-06-10T04:42:17.421Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -50,13 +50,13 @@ feedId:73536165737884672+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1121</b>
+        <b>1122</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>920</b>
+        <b>921</b>
       </td>
       <td>
         <b>13</b>
@@ -67,13 +67,13 @@ feedId:73536165737884672+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>1026</b>
+        <b>1027</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>847</b>
+        <b>848</b>
       </td>
       <td>
         <b>12</b>
@@ -226,14 +226,20 @@ feedId:73536165737884672+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1304822713">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
+        <a href="https://apps.apple.com/mo/app/id1238247658">Cluedo: Classic Edition</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Ultimate Detective Collection</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -243,7 +249,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1439886655">Cultist Simulator</a>
+        <a href="https://apps.apple.com/mo/app/id1304822713">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
       </td>
       <td>
         <ul>
@@ -260,7 +266,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1453820315">This Is the Police 2</a>
+        <a href="https://apps.apple.com/mo/app/id1439886655">Cultist Simulator</a>
       </td>
       <td>
         <ul>
@@ -277,7 +283,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1519571900">Luwian</a>
+        <a href="https://apps.apple.com/mo/app/id1453820315">This Is the Police 2</a>
       </td>
       <td>
         <ul>
@@ -294,7 +300,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
+        <a href="https://apps.apple.com/mo/app/id1519571900">Luwian</a>
       </td>
       <td>
         <ul>
@@ -311,7 +317,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1612952507">AeroPads - Pads & Soundscapes</a>
+        <a href="https://apps.apple.com/mo/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
       </td>
       <td>
         <ul>
@@ -328,7 +334,7 @@ feedId:73536165737884672+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+        <a href="https://apps.apple.com/mo/app/id1612952507">AeroPads - Pads & Soundscapes</a>
       </td>
       <td>
         <ul>
@@ -343,6 +349,23 @@ feedId:73536165737884672+userId:73658201673997312
     <tr>
       <td>
         <b>14</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1640627334">Resident Evil Village for Mac</a>
@@ -369,7 +392,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6450980545">Resident Evil Village</a>
@@ -398,7 +421,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6462360082">Resident Evil 4</a>
@@ -437,7 +460,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6740471827">手錶經典迷宮遊戲</a>
@@ -454,7 +477,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -471,7 +494,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -488,7 +511,7 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -623,6 +646,62 @@ feedId:73536165737884672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cluedo: Classic Edition]]></title>
+        <id>Cluedo: Classic Edition-mo-1749529299346</id>
+        <link href="https://apps.apple.com/mo/app/cluedo-classic-edition/id1238247658?uo=4"/>
+        <updated>2025-06-10T04:21:39.346Z</updated>
+        <summary type="html"><![CDATA[Ultimate Detective Collection: USD 19.99 → USD 14.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/cluedo-classic-edition/id1238247658?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/c6/e3/49c6e375-99ed-17ec-a77f-1c941abd917c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Ultimate Detective Collection：</strong><span>USD 19.99</span> → <b>
+  <strong>USD 14.99</strong>
+</b><span>[USD 14.99 ~ USD 19.99]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>USD 6.99</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    Snowy Peaks Theme：<b>USD 6.99</b>
+  </li><li>
+    Ultimate Detective's Package：<b>USD 34.99</b>
+  </li><li>
+    Ultimate Detective Collection：<b>USD 14.99</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  THE ORIGINAL HASBRO BOARD GAME - It’s the classic murder mystery! Who did it? With what weapon? In which room? There’s a high-risk party at the mansion and every guest is a suspect. Roll the dice, become a detective and let Cluedo begin!
+
+•        A PREMIUM DIGITAL BOARD GAME - There are no ads, no pop-ups and no pay-to-win limits. Once you buy the app, that’s it: unlimited multiplayer fun for you and your family and nothing to stop you solving the crime!
+
+•        A BRAIN TEASER - Test your detective skills. At the start of each game, Cluedo will take one suspect, one weapon, and one room from the deck, and deal the rest to the players. If you ask: “was it Colonel Mustard with the Rope in the Drawing Room”, a player holding the Colonel, the Rope or the Drawing Room must show you their card. Enter every room in search of answers!
+
+•        CLUESHEET & HINT SYSTEM - Who committed murder?! Don’t risk letting the criminal escape! Use your virtual cluesheet companion to make a note of the suspects, weapons and rooms you can eliminate. The ideal companion for every detective: cluesheet helps you make your deductions, perfect your strategy and solve the mystery.
+
+•        FAMILY FRIENDLY - It’s the original family board game by Hasbro, suitable for all players 8 years and over. With no adverts or necessary in-app purchases it’s multiplayer fun for kids and adults. With the whole board game on your mobile you can take Cluedo wherever you go! Roll the dice and solve the mystery!
+
+•        SINGLE PLAYER - Put your brain to the test against a guest list of AI murder suspects, online or offline! Choose your character, choose your opponents and let no criminal escape the mansion!
+
+•        ONLINE MULTIPLAYER - Play Cluedo with your friends and find out who’s guilty on mobile, PC or Nintendo Switch! Don’t let distance stop your board game night. Play on the go, or curl up in an armchair and settle down for a night of crime and detective work, wherever you are!
+
+•        10 ADDITIONAL THEMES - Explore ten different themed boards with Cluedo's Ultimate Detective’s Package. Listed under “Editor’s Choice” for the Most Stylish Game, our exclusive original themes are hand crafted by our studio artists. 
+o        Tudor Mansion: The guests at this party have turned out to be a lethal combination!
+o        Vampire Castle: In a household where every suspect is a monster, who committed the crime?
+o        Egyptian Adventure: Solve the crime, from the dark tombs of pharaohs to the crumbling pyramids!
+o        Hollywood: In a land where life is an act, can you find the truth in the fairytale?
+o        Murder Express: Challenge your friends to solve a mystery based on a classic Agatha Christie novel!
+o        Sherlock: Become the great detective and solve a crime on the dark streets of London!
+o        Snowy Peaks: Old friends have been reunited. Tensions are running high, but whose grudge ran that deep?
+o        Tropical Mystery: Someone has rocked this boat in a big way! It’s a luxury race to the answer!
+o        Venetian Masquerade: Historic Venice is beautiful, but crime lurks beneath the surface!
+o        Wild West: From the jailhouse to the saloon, the story of Dr. Black’s end will spread far and wide. Only you can discover the truth!
+
+
+About Marmalade Game Studio
+At Marmalade Game Studio we make quality, premium multiplayer board games. Play our classic games, including Monopoly and The Game of Life 2, anywhere on your mobile! Enjoy with your friends and family whether you’re together or apart. You can find the fun with people you know or players around the world. Our games are ad-free, family friendly fun. For quality time, look for the Marmalade Game Studio logo.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/96/dd/6096dd17-f5cb-29f4-1abe-0c8ecb6f3efe/330265f0-988e-4483-8304-bf0929d10267_A_screenshots_main_1242x2208_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/27/fb/8c27fb69-6bb2-0415-e993-0aef030883fc/26bf69d0-a2d4-45b2-b260-572f98f960ba_A_screenshots_main_1242x2208_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/8a/17/318a1718-bf1a-4fbc-110f-d482fbb5dec6/76c45d0b-9adf-4ead-a88a-ad4ef1b5b56b_A_screenshots_main_1242x2208_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b4/10/1d/b4101dfa-adce-d465-fdfb-b7206f065409/e06482df-f174-4d13-9f2f-e09762477ef2_A_screenshots_main_1242x2208_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/fe/0b/57fe0ba7-db6c-4ad6-5b31-d2b82dfc4668/e4f9d5ae-6bdf-494a-9064-365cf69607e3_A_screenshots_main_1242x2208_5_eng.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/ce/d7/38ced7e2-3014-30ac-3149-02a2437f1dc1/f74ae9f8-bf51-4917-937f-22a67052b2f3_A_screenshots_main_1242x2208_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/a8/d3/e9a8d31f-ed0d-9d13-d0f2-01a55d867c29/9a6f6172-d164-4cdf-89fe-bc7552451f1f_clue_screenshots_apple_arcade_1242x2208_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f0/8f/75/f08f7561-b65e-c5c6-1276-27aa27828736/a421e5b9-4959-4de4-bc96-e839f154f7ae_clue_screenshots_apple_arcade_1242x2208_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/02/e3/ca/02e3caa3-8aa8-e025-e0bc-ccb66d733a27/ed7d73f1-bafa-405a-92c5-66cc15d4257e_A_screenshots_main_2048x2732_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/e4/f5/cce4f5e4-b3e8-1072-5c95-c9b219b06b31/be5b52db-1bc9-4784-941b-fd3d602448e2_A_screenshots_main_2048x2732_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/67/bc/fe67bc8c-efff-2849-1b2f-104b09f242e6/b22cdb63-fa32-4b8d-a14d-6337ec2bc7b0_A_screenshots_main_2048x2732_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/36/37/22363735-6bdd-b1a9-73df-6e1338cb2b9e/9c60dcbc-fb34-4749-a3cc-6ec47be76aed_A_screenshots_main_2048x2732_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/9d/b3/a39db37d-ce7a-7992-069e-6994387ac9a7/fef82d1c-ea76-469f-9680-429e0a098695_A_screenshots_main_2048x2732_5_eng.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/02/a3/0a02a357-5cda-8942-cd1c-843986c6e176/cf6ef44c-9b97-4088-aa9f-bacd696ff028_A_screenshots_main_2048x2732_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/54/54/61/5454616e-bb84-b880-af85-5ac65186c50c/d2a75f6f-19c5-4f3e-ac86-8334d0dfb400_clue_screenshots_apple_arcade_2048x2732_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/e2/70/42e2704b-7602-bd67-6483-9c15db7d0fc2/7f77e34c-a1cc-4675-8f39-a692fc59e2ea_clue_screenshots_apple_arcade_2048x2732_7.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Only You Are Here]]></title>
@@ -947,176 +1026,5 @@ Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 隐私条款：https://www.yuque.com/woshixiongda/vdwyc2/gpyq6twirk1u9w2u
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/79/7b/26797b55-20be-e38f-039b-a09662947318/6e0c7c45-23d6-47e0-b6de-943dad34902d__U753b_U677f.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/48/49/8c4849c1-4e0a-2993-2536-f3925866054f/d329f8a7-698c-4a28-9747-3c9d713b0d8b__U753b_U677f_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/66/53/e8665383-c55a-1428-6eba-045565252037/3400cbc1-ba7d-4dd9-9942-0be1d2e0dfc4__U753b_U677f_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/2b/95/f92b9567-5e94-71c6-6d07-61618cf4d943/cd33096b-6a13-4ada-8f04-57dafce61611__U753b_U677f_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/cd/75/3fcd7569-bd4a-efc0-dda0-ce84b86187f4/fc649eb8-aa80-4710-b1d4-df6537d05d35__U753b_U677f_4.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/f4/20/87f420a9-602e-5e5e-3f4e-1f985f420b34/130da694-cb89-4fd8-bc60-6858298db544_Group_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/3a/72/cf3a7271-e946-ecaa-d86c-84c3632a5bac/1c0bd52f-658c-43a3-aff7-4531958bdc65_Group_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/d1/c6/9bd1c618-b331-6aad-aeb1-2487ddde14cd/0601c076-7cd7-4d48-a2bf-524300bbf888_Group_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/0f/b3/cc0fb3e3-85fd-c422-bc0e-d9ab4faac151/9313222c-9639-4eec-bc2e-2affb487362f_Group_5.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王國保衛戰：起源 Kingdom Rush Origins]]></title>
-        <id>王國保衛戰：起源 Kingdom Rush Origins-mo-1749266485972</id>
-        <link href="https://apps.apple.com/mo/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E8%B5%B7%E6%BA%90-kingdom-rush-origins/id904737816?uo=4"/>
-        <updated>2025-06-07T03:21:25.972Z</updated>
-        <summary type="html"><![CDATA[一箱寶石: USD 19.99 → USD 9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E8%B5%B7%E6%BA%90-kingdom-rush-origins/id904737816?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/75/2a/5d752a9d-1edb-ad0b-a801-f2556646f477/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>一箱寶石：</strong><span>USD 19.99</span> → <b>
-  <strong>USD 9.99</strong>
-</b><span>[USD 9.99 ~ USD 19.99]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>USD 2.99</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    Big Hero Pack 3：<b>USD 14.99</b>
-  </li><li>
-    一倉庫寶石：<b>USD 49.99</b>
-  </li><li>
-    一車寶石：<b>USD 19.99</b>
-  </li><li>
-    一箱寶石：<b>USD 9.99</b>
-  </li><li>
-    一桶寶石：<b>USD 4.99</b>
-  </li><li>
-    一袋寶石：<b>USD 2.99</b>
-  </li><li>
-    威爾伯：<b>USD 6.99</b>
-  </li><li>
-    怖鹿獅：<b>USD 4.99</b>
-  </li><li>
-    凌 .：<b>USD 4.99</b>
-  </li><li>
-    英雄包 9：<b>USD 7.99</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  "***2015年DICE最佳行動遊戲提名***
-
-最讓人愛不釋手的塔防遊戲，全新冒險前傳重磅回歸——歡迎來到《王國保衛戰：起源》！
-
-《王國保衛戰》系列廣受好評：iPhone, iPod touch與iPad上排名第一的戰略遊戲系列，獲得Apple編輯推薦獎、IGN編輯推薦獎、Slide To Play必玩遊戲、GameInformer金獎、148Apps編輯推薦、Jay is Games年度遊戲獎、Pocket Gamer金獎、CNET最佳iPad遊戲、CNET編輯推薦獎、Gamezebo評分4.5/5、Touch Arcade評分4.5/5、Venturebeat評分94/100。
-
-看看大家怎麼評價《王國保衛戰：起源》：
-
-「《王國保衛戰》系列是最讚的塔防系列遊戲之一，第三部的“起源”還是那麼好玩。」——美國《娛樂周刊》 
-
-「這些年我玩了很多塔防遊戲，但是沒有一款遊戲像《王國保衛戰》系列這樣抓住了我的心。」——The Verge 
-
-「《王國保衛戰：起源》高清版保留了原汁原味的內容，簡直完美。」——148Apps 
-
-「畫面精美，玩法超棒，音樂好聽，還有趣味彩蛋。喜歡塔防遊戲的玩家，一定要下載這一款遊戲。」——TUAW 
-
-「這款讓人沉浸的塔防遊戲，能滿足你所有對新遊戲的期待：新的防禦塔、新的英雄，還有超讚的玩法。」——Kotaku 
-
-「如果你愛好塔防遊戲，你應該熟悉《王國保衛戰》和它的續作《王國保衛戰：前線》。第三部作品現已發佈，沒錯，它就是迄今為止最讚的作品。」——Gamezebo 
-
-《王國保衛戰：起源》是獲獎遊戲《王國保衛戰》冒險系列的第三部作品，受到數百萬玩家的喜愛，贏得全球遊戲玩家和評論的讚賞。在威之難企圖用力量寶石威脅王國之前，踏上回到起點的旅程，體驗更多快如閃電、引人入勝的玩法，一切都使這款作品成為塔防遊戲的重要基石。在這部激動人心的續作中，憑藉全新的防禦塔、英雄和法術，指揮你的精靈軍隊，守護神秘的土地，免受海蛇、邪惡巫師和一大波豺狼部落族人的侵擾，消滅全部壞蛋。
-
-《王國保衛戰：起源》帶來有趣的新內容與功能，同時保留了眾多玩家喜愛的標誌性視覺元素。
-
-遊戲特色 
-· 重返《王國保衛戰》的世界：探訪神秘的精靈森林、神奇的仙境和古城的浮空遺跡！
-· 用全新的防禦塔和部隊釋放精靈的力量！精靈弓箭手、秘法師、石環德魯伊和精靈步兵一起組成軍隊的中堅 
-· 發現具有18種技能的8個新防禦塔特別升級！讓精靈射手、符文巨熊、魔法巫師和精靈巨樹為你消滅敵人。
-· 拿起武器，對抗30種敵人，加入史詩級頭目戰鬥！正面抗擊成群的豺狼人、巨型蜘蛛和可怕的暮光軍隊。
-· 掌控升級16個傳奇英雄和他們強大的力量與法術！
-· 施出雷電，召喚援軍，用每個英雄獨特的力量去消滅大批敵人！
-· 70個成就、新手與老玩家都可選擇3種難度模式，讓你沉浸在快樂的遊戲中。
-· 體驗不同的遊戲模式——經典、鋼鐵和英雄模式——證明自己戰術大師的勇氣。
-· 在升級的地精商店內，用轉去的寶石購買全新升級的裝備。
-· 參考百科全書了解你的敵人和防禦塔"
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/22/67/27/2267277d-f01e-132b-1909-3d236ae36a6e/8a40ca76-529e-47fd-9f21-92aa6939e5de_screenshots_2208x12420043.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/0e/02/e5/0e02e5a8-3a56-2bf7-953a-9340ebfaccb1/9c3d566f-7cc3-4f38-b382-7b67ac8e722f_screenshots_2208x12420044.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/82/a8/d1/82a8d1ec-a5ff-c454-85ee-da42d8b1adbc/63069352-9d76-49d1-8f1b-0060372370e0_screenshots_2208x12420045.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c7/2b/8b/c72b8b95-8eef-291c-1381-a19c4cb85eaa/28b997b6-c78b-463c-9e51-15abcfb83cb5_screenshots_2208x12420046.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/60/c7/42/60c7420e-a271-1fdd-4d9c-36066d129f95/e65f7838-6ea3-4785-adf2-2b8b8165fd48_screenshots_2208x12420047.png/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayNav - 影片內無廣告！]]></title>
-        <id>PlayNav - 影片內無廣告！-mo-1749229340608</id>
-        <link href="https://apps.apple.com/mo/app/playnav-%E5%BD%B1%E7%89%87%E5%85%A7%E7%84%A1%E5%BB%A3%E5%91%8A/id6446178861?uo=4"/>
-        <updated>2025-06-06T17:02:20.608Z</updated>
-        <summary type="html"><![CDATA[高級功能: USD 9.99 → USD 0.79]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/playnav-%E5%BD%B1%E7%89%87%E5%85%A7%E7%84%A1%E5%BB%A3%E5%91%8A/id6446178861?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ba/1a/fcba1a02-3654-b8f3-5710-7822bcde85d5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>高級功能：</strong><span>USD 9.99</span> → <b>
-  <strong>USD 0.79</strong>
-</b><span>[USD 0.49 ~ USD 9.99]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    高級功能：<b>USD 0.79</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  你是否厭倦了 YouTube 影片中的廣告打擾
-
-全新的 YouTube PlayNav 影片瀏覽器將屏蔽觀看影片時出現的所有侵入式廣告，讓你可以流暢無阻地享受喜愛的影片
-
-此外，我們的應用還提供你會喜歡的功能
-
-• 畫中畫播放：在使用其他應用時觀看 YouTube 影片
-• 僅音頻模式：在鎖屏狀態下播放任何 YouTube 影片的音頻
-• 自動關閉：設置睡眠計時器（Premium）
-• 循環模式：自動重複播放你最喜歡的影片（Premium）
-• 學習模式：通過字幕學習語言（Premium）
-
-此外，還包括播放清單、速度調整、相關影片、AirPlay 等實用功能，讓你的觀影體驗更上一層樓
-
-如何使用 PlayNav
-
-畫中畫播放（PIP）(Premium)
-
-在使用其他應用時觀看 YouTube 影片。啟用後播放器會縮小到螢幕上，你可以隨意移動或雙擊隱藏它
-
-如何啟用
-	1.	播放影片時，點擊左上角的 PIP 圖示（兩個小螢幕圖示）
-	2.	影片播放時，從 iPhone 底部向上滑動，播放器將顯示在螢幕上
-
-僅音頻模式
-
-在 iPhone 螢幕鎖定的情況下，收聽你最喜歡的 YouTube 影片音頻。可用於運動、散步或睡前。搭配自動關閉功能，讓你放鬆聆聽喜愛的影片
-
-如何啟用
-	1.	啟用畫中畫播放
-	2.	然後鎖定 iPhone，音頻將繼續播放
-
-自動關閉
-
-睡覺時間？到 YouTube 選擇你喜歡的影片或播放清單，設置自動關閉計時器，讓你在喜愛的音頻陪伴下入睡
-
-如何啟用
-	1.	在播放器中點擊睡眠圖示（月亮）
-	2.	選擇自動關閉的時間
-	3.	可與僅音頻模式結合使用
-
-循環模式（重複播放影片）
-
-想讓你的影片循環播放嗎？啟用循環模式，讓影片無限循環播放。也可與僅音頻模式結合使用
-
-如何啟用
-	1.	點擊重複圖示，影片將持續循環播放，直到你手動關閉
-
-學習模式（通過字幕學習語言）
-
-現在，你可以通過字幕學習語言！啟用學習模式後，你將看到原始字幕和你的語言翻譯。還可以調整播放速度，更好地理解每個單詞
-
-如何啟用
-	1.	搜索你學習語言的影片
-	2.	影片播放後，點擊標題旁的學習模式按鈕
-
-– 現在試用 PLAYNAV！–
-
-免費享受所有基本功能，並通過一次性購買解鎖 Premium 功能。
-
-最低要求
-• iOS 15 或更高版本
-• 3G 或更快的網路連接
-
-相關關鍵詞
-YouTube、YouTube Music、YouTube Vanced、廣告攔截器、無需訂閱、跳過 YouTube 廣告、無廣告音樂、屏蔽彈窗、YouTube 的 AdBlock、屏蔽彈窗廣告、無廣告內容、高級廣告攔截器、AdBlock Plus、移除廣告、無廣告 YouTube
-
-需要幫助
-訪問 playnav.vidiom.app 或聯繫我們 info@playnav.vidiom.app
-
-服務條款 playnav.vidiom.app/terms-of-service
-隱私政策 playnav.vidiom.app/privacy-policy
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/1b/f0/b71bf0e9-8dd4-9c0d-3bd1-0e3e6ac97381/973cb385-8418-414c-bd09-cc82a5fc8d14_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/a9/00/78a900a2-7d51-e3fd-9199-e9c61a35f32b/c68d1dd7-34e0-4f98-ba2f-f236a06d046d_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/65/c3/5365c387-c655-8e83-14e9-e20083d91f17/26c1d40d-6248-4914-b1ba-071e398203d9_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/5a/73/845a73e1-1a26-df2b-43ad-fd5eb710bb61/42eddfff-d78e-4e10-b01d-c4d6624891fb_Hotpot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/e6/9b/74e69bea-d543-ebad-7fa9-0a44fc6eeab8/4f98a2e1-d800-4817-8727-81d5b787a70a_Hotpot_4.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
