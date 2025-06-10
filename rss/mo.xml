@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-06-10T04:42:17.419Z</updated>
+    <updated>2025-06-10T14:34:08.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-10T04:42:17.420Z</updated>
+        <updated>2025-06-10T14:34:08.685Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:73536165737884672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoTue, 10 Jun 2025 04:42:17 GMT</id>
+        <id>rankingmoTue, 10 Jun 2025 14:34:08 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-10T04:42:17.421Z</updated>
+        <updated>2025-06-10T14:34:08.685Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -50,13 +50,13 @@ feedId:73536165737884672+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1122</b>
+        <b>1124</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>921</b>
+        <b>923</b>
       </td>
       <td>
         <b>13</b>
@@ -67,13 +67,13 @@ feedId:73536165737884672+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>1027</b>
+        <b>1029</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>848</b>
+        <b>850</b>
       </td>
       <td>
         <b>12</b>
@@ -94,6 +94,31 @@ feedId:73536165737884672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/mo/app/id403684733">Badoo進階版</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>450 Badoo Credits</i>：<b>2</b>
+              </li><li>
+                <i>3050 Badoo Credits</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/mo/app/id6446178861">PlayNav - 影片內無廣告！</a>
       </td>
       <td>
@@ -106,31 +131,6 @@ feedId:73536165737884672+userId:73658201673997312
             <span>App 內購買項目</span><ol>
               <li>
                 <i>高級功能</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/mo/app/id403684733">Badoo進階版</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買項目</span><ol>
-              <li>
-                <i>450 Badoo Credits</i>：<b>1</b>
-              </li><li>
-                <i>3050 Badoo Credits</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -648,6 +648,55 @@ feedId:73536165737884672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Badoo進階版]]></title>
+        <id>Badoo進階版-mo-1749564780293</id>
+        <link href="https://apps.apple.com/mo/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4"/>
+        <updated>2025-06-10T14:13:00.293Z</updated>
+        <summary type="html"><![CDATA[450 Badoo Credits: USD 15.49 → USD 9.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/a5/da/e9a5da19-45c4-e620-b2ed-13275c6b7848/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>450 Badoo Credits：</strong><span>USD 15.49</span> → <b>
+  <strong>USD 9.99</strong>
+</b><span>[USD 9.99 ~ USD 15.49]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>USD 2.99</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    1350 Badoo Credits：<b>USD 24.99</b>
+  </li><li>
+    3050 Badoo Credits：<b>USD 49.99</b>
+  </li><li>
+    450 Badoo Credits：<b>USD 9.99</b>
+  </li><li>
+    250 Badoo Credits：<b>USD 4.99</b>
+  </li><li>
+    Lifetime Badoo Premium：<b>USD 79.99</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Badoo是全球最大的約會平台，會員人數過億。全世界每天都有無數人在這裡聊天、約會、交友、調情。目前Badoo尊享服務正在限時優惠中！您可以看到哪些人喜歡您，提升個人檔案，並享受其他特權。
+
+除了 Badoo尊享服務功能外，您還可以：
+- 聊天，調情，認識新朋友 
+- 看看附近的Badoo會員 
+- 定期享受新功能 
+- 放鬆，安全認證讓您不再受到虛假賬號的困擾 
+- 滑動瀏覽個人檔案 
+
+馬上加入，在Badoo找到意中人吧！
+
+費用通過您的iTunes賬號收取。訂閱會自動更新，您可以在已付費期間結束前至少24小時關閉自動更新，也可以在購買後，前往iTunes商店設定關閉自動更新。
+如果您不再購買Badoo尊享服務，仍可以繼續免費使用Badoo。
+
+您的私人資料受到Badoo保護。請參見我們的隱私權政策及條款：
+
+https://www.badoo.com/privacy 
+https://badoo.com/terms
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/4a/bc/d44abc26-c385-72c7-a74c-9a3f755e186a/0_APP_IPHONE_55_0.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ff/37/abff3752-57b3-3984-22bc-30114fa7bb1b/1_APP_IPHONE_55_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/79/9c/dc799c19-cfd1-647c-3029-fed5a25a1834/2_APP_IPHONE_55_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/b4/c7/1db4c791-dd92-d5f8-28e5-dbec2dcad0cf/3_APP_IPHONE_55_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/47/4a/d3474a69-0f28-2b4f-46db-7f2bb7c40228/4_APP_IPHONE_55_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/9a/f1/7f9af1c0-1cb4-9a81-ab67-5ab34d0ab317/5_APP_IPHONE_55_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/8e/4a/028e4ad6-0d0e-a4d4-0619-4a519d19a4ef/0_APP_IPAD_PRO_129_0.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/9f/0a/7c9f0a97-925d-2c36-1388-504c18f0917f/1_APP_IPAD_PRO_129_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/f5/0a/33f50a10-3bef-54af-a851-2706b81402da/2_APP_IPAD_PRO_129_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/38/1b/12381b52-8e13-17b3-105a-a93b1844082b/3_APP_IPAD_PRO_129_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/00/d2/4b00d2af-ec7c-9dd8-59b0-c3072b4a22c9/4_APP_IPAD_PRO_129_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/2c/a7/892ca7bf-46f0-17b0-7f4f-9b2df6fb9745/5_APP_IPAD_PRO_129_5.jpg/576x768bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cluedo: Classic Edition]]></title>
         <id>Cluedo: Classic Edition-mo-1749529299346</id>
         <link href="https://apps.apple.com/mo/app/cluedo-classic-edition/id1238247658?uo=4"/>
@@ -988,43 +1037,5 @@ Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 無盡坦克大戰, 是個跨平台遊戲, 你可以在不同平台上找到它的蹤影.
 遊戲會不定期更新, 目標是1000張地圖.
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d3/97/39/d397394f-6455-5762-a369-94ccd1f030cf/mzl.sgnubxwr.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d5/3e/13/d53e1317-8bc2-0bd9-74af-257f1b31e6b7/mzl.etarzjuq.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/dd/8a/21/dd8a2181-5710-21c7-f3d4-ed3fce72164e/mzl.wiywputp.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/12/d7/bb/12d7bb21-ee6d-f68a-5c25-3fb731a83db7/mzl.nckqtigq.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/48/cd/ca/48cdca63-9b1d-e451-0778-0f63254feb3f/mzl.thiqxlwr.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/eb/f4/d8ebf414-0f3e-6d17-4692-3757e3ba1a6a/mzl.kovtpvof.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/87/cd/63/87cd63f9-59fb-74ec-431c-770e08b41483/mzl.wwsautyl.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/50/33/6f/50336f68-3ff1-4d59-d414-16370a1670f4/mzl.fjetjfpw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b0/74/8b/b0748bc9-1b78-b117-1ad9-79f7fe970382/mzl.isbctkel.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/23/77/d623777c-14bd-a152-5221-fdc309433f65/mzl.qobglbai.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[灵感卡片 - 创意笔记]]></title>
-        <id>灵感卡片 - 创意笔记-mo-1749304933536</id>
-        <link href="https://apps.apple.com/mo/app/%E7%81%B5%E6%84%9F%E5%8D%A1%E7%89%87-%E5%88%9B%E6%84%8F%E7%AC%94%E8%AE%B0/id6447693393?uo=4"/>
-        <updated>2025-06-07T14:02:13.536Z</updated>
-        <summary type="html"><![CDATA[价格: USD 0.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E7%81%B5%E6%84%9F%E5%8D%A1%E7%89%87-%E5%88%9B%E6%84%8F%E7%AC%94%E8%AE%B0/id6447693393?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/a9/42/2ea942a6-20a9-ac8f-c3ac-43141a4bd5d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 0.99</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ USD 0.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>
-  灵感卡片——让创意随行，捕捉您生活中的每个灵感瞬间。
-
-这款简约实用的笔记应用，专为帮助您高效记录、整理和管理灵感而设计。无论您是在工作学习中，还是在日常生活中，小灵感都能成为您的得力助手。
-
-一次下载，终身免费试用。
-
-主要功能：
-
-灵活笔记：轻松创建、编辑和整理笔记，支持添加标签、排序和多种显示方式（单列、双列、三列）。
-语音笔记：碎碎念的福音。
-笔记关联：让有趣的笔记在一起。
-极简主题：提供多种极简主题，让您的笔记更美观大方，呈现出最佳阅读效果。
-笔记置顶与分享：随时查看重要信息，将笔记置顶，一键分享至社交平台与好友共享创意。
-字体调整：自由调整字体大小，适应不同阅读需求，提高阅读舒适度。
-支持check list：流畅的原生交互体验
-跨平台支持：
-小灵感支持多平台（手机、平板等），后续提供实时云同步功能，确保您的笔记数据安全，随时随地访问。
-
-快来下载灵感卡片，让创意随行，一起探索无限可能！
-
-隐私条款：https://www.yuque.com/woshixiongda/vdwyc2/gpyq6twirk1u9w2u
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/79/7b/26797b55-20be-e38f-039b-a09662947318/6e0c7c45-23d6-47e0-b6de-943dad34902d__U753b_U677f.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/48/49/8c4849c1-4e0a-2993-2536-f3925866054f/d329f8a7-698c-4a28-9747-3c9d713b0d8b__U753b_U677f_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/66/53/e8665383-c55a-1428-6eba-045565252037/3400cbc1-ba7d-4dd9-9942-0be1d2e0dfc4__U753b_U677f_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/2b/95/f92b9567-5e94-71c6-6d07-61618cf4d943/cd33096b-6a13-4ada-8f04-57dafce61611__U753b_U677f_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/cd/75/3fcd7569-bd4a-efc0-dda0-ce84b86187f4/fc649eb8-aa80-4710-b1d4-df6537d05d35__U753b_U677f_4.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/f4/20/87f420a9-602e-5e5e-3f4e-1f985f420b34/130da694-cb89-4fd8-bc60-6858298db544_Group_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/3a/72/cf3a7271-e946-ecaa-d86c-84c3632a5bac/1c0bd52f-658c-43a3-aff7-4531958bdc65_Group_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/d1/c6/9bd1c618-b331-6aad-aeb1-2487ddde14cd/0601c076-7cd7-4d48-a2bf-524300bbf888_Group_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/0f/b3/cc0fb3e3-85fd-c422-bc0e-d9ab4faac151/9313222c-9639-4eec-bc2e-2affb487362f_Group_5.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
