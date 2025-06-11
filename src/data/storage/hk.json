@@ -12137,6 +12137,25 @@
     "history": [
       [
         {
+          "timestamp": 1749611567188,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "HK$ 8.00",
+            "Skatepark: The Factory": "HK$ 8.00",
+            "Skatepark: The Berrics": "HK$ 18.00",
+            "Skatepark 6 Pack": "HK$ 38.00",
+            "Skatepark: Inbound": "HK$ 8.00",
+            "Skatepark: The Valley": "HK$ 8.00",
+            "Sandbox Monthly": "HK$ 38.00",
+            "Skatepark: Havasu": "HK$ 18.00",
+            "SLS 2016 Course Pack": "HK$ 18.00",
+            "Skatepark of Tampa": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747884020298,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -73219,10 +73238,18 @@
       "formattedPrice": "HK$ 98.00"
     },
     "minPriceInfo": {
-      "price": 98,
-      "formattedPrice": "HK$ 98.00"
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749611567188,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
