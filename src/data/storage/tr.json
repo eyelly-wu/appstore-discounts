@@ -47748,10 +47748,18 @@
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99",
-      "Orbit Pack": "₺229,99"
+      "Orbit Pack": "₺99,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1749654843218,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orbit Pack": "₺99,99"
+          }
+        },
         {
           "timestamp": 1749597110487,
           "price": 249.99,
