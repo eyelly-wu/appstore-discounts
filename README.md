@@ -493,7 +493,7 @@ So far, we've covered `6` `Countries or Regions` and  `1125` `Apps` <br />Push n
 |704|6698876690|Automatic|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|
 |703|6742457882|Automatic|Deco: Wallpaper Creator|Deco: Wallpaper Creator|Deco: Wallpaper Creator|Deco: Wallpaper Creator|Deco: Wallpaper Creator|Deco: Wallpaper Creator|
 |702|6471914901|Automatic|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|
-|701|300132735|Automatic|专业万年历 - 十三行作品|專業萬年曆 - 十三行作品|專業萬年曆 - 十三行作品|專業萬年曆 - 十三行作品|專業萬年曆 - 十三行作品|專業萬年曆 - 十三行作品|
+|701|300132735|Automatic|专业万年历经典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|
 |700|430234732|Automatic|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|
 |699|602990197|Automatic|❌|METAL SLUG X|METAL SLUG X|METAL SLUG X|METAL SLUG X|METAL SLUG X|
 |698|898697688|Automatic|五十音輕鬆學：聯想記憶|五十音輕鬆學：聯想記憶|五十音輕鬆學：聯想記憶|五十音輕鬆學：聯想記憶|五十音輕鬆學：聯想記憶|五十音輕鬆學：聯想記憶|
