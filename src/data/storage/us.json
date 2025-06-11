@@ -24856,7 +24856,7 @@
       "[A big package of crystals]": "$9.99",
       "[A chest of crystals]": "$19.99",
       "Package4": "$9.99",
-      "Coupon of the Greedy Cave": "$3.99",
+      "Coupon of the Greedy Cave": "$9.99",
       "[A big chest of crystals]": "$49.99",
       "Package8": "$49.99",
       "Package7": "$29.99"
@@ -24876,6 +24876,23 @@
       "Package7": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749648484563,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "[A heap of crystals]": "$0.99",
+            "[A box of crystals]": "$2.99",
+            "[A package of crystals]": "$3.99",
+            "[A big package of crystals]": "$9.99",
+            "[A chest of crystals]": "$19.99",
+            "Coupon of the Greedy Cave": "$9.99",
+            "Package4": "$9.99",
+            "[A big chest of crystals]": "$49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748752099287,
@@ -31565,6 +31582,23 @@
     "history": [
       [
         {
+          "timestamp": 1749648484563,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "Rebirth EXP increase": "$8.99",
+            "180 Rubies": "$2.99",
+            "1100 Rebirth Stones": "$3.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Ring Package": "$24.99"
+          }
+        },
+        {
           "timestamp": 1749615718607,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -37298,6 +37332,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749648484563,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Monster Succession": "$4.99",
+            "Awakened Irea Package": "$4.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Awakening Viper Package": "$4.99",
+            "Original Lord Complete Package": "$26.99",
+            "Original Facility Package": "$8.99",
+            "Original Monster Package": "$8.99"
+          }
+        },
         {
           "timestamp": 1749615718607,
           "price": 3.99,
