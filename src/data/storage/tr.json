@@ -44846,6 +44846,14 @@
     "history": [
       [
         {
+          "timestamp": 1749603724130,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749424279054,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -56045,6 +56053,18 @@
       "连续按月订阅": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749603724130,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "年度订阅": "₺179,99",
+            "乐桥终身会员": "₺349,99",
+            "连续按月订阅": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749568413844,

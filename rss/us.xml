@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-10T08:38:16.736Z</updated>
+    <updated>2025-06-11T01:23:13.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-10T08:38:16.738Z</updated>
+        <updated>2025-06-11T01:23:13.059Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 10 Jun 2025 08:38:16 GMT</id>
+        <id>rankingusWed, 11 Jun 2025 01:23:13 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-10T08:38:16.738Z</updated>
+        <updated>2025-06-11T01:23:13.059Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1124</b>
+        <b>1125</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>923</b>
+        <b>924</b>
       </td>
       <td>
         <b>13</b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1025</b>
+        <b>1026</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>849</b>
+        <b>850</b>
       </td>
       <td>
         <b>12</b>
@@ -403,7 +403,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
+        <a href="https://apps.apple.com/us/app/id1576521142">SOULVARS</a>
       </td>
       <td>
         <ul>
@@ -420,7 +420,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1612952507">AeroPads - Pads & Soundscapes</a>
+        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -437,7 +437,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+        <a href="https://apps.apple.com/us/app/id1612952507">AeroPads - Pads & Soundscapes</a>
       </td>
       <td>
         <ul>
@@ -452,6 +452,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>19</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1640627334">Resident Evil Village for Mac</a>
@@ -478,7 +495,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1659271912">Train Dispatcher!2</a>
@@ -495,7 +512,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450980545">Resident Evil Village</a>
@@ -524,7 +541,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6462360082">Resident Evil 4</a>
@@ -555,7 +572,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
@@ -572,7 +589,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -589,7 +606,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -606,10 +623,27 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6742457882">Deco: Wallpaper Creator</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>28</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6739975257">TuneShift</a>
       </td>
       <td>
         <ul>
@@ -741,6 +775,102 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOULVARS]]></title>
+        <id>SOULVARS-us-1749603724130</id>
+        <link href="https://apps.apple.com/us/app/soulvars/id1576521142?uo=4"/>
+        <updated>2025-06-11T01:02:04.130Z</updated>
+        <summary type="html"><![CDATA[Price: $4.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/soulvars/id1576521142?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/30/65/64306537-c70a-ca1f-a810-5d6d5168c31f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$4.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $4.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h2>Application Description</h2><p>
+  Deck-Building JRPG "SOULVARS" is now available!
+
+15-20 hours of playtime (+50h to go deeper)
+Dynamic pixel animation and battles and a rich customization system
+
+No In-App Purchases. 
+
+While having a deep strategic sense, the vertically held smartphone controls allow for simple and exhilarating battles, training, dungeon exploration, and collection of random enchanted items.
+
+▼ Story
+A world line in which even the fictitious concept of the soul can be converted into data.
+In return, people's lives are threatened by the sudden appearance of deformities.
+The protagonists use the Soul Driver, a device that converts souls into data.
+They are responsible for the elimination of the deformities that threaten people, and work in a certain town...
+
+▼System Overview
+Number of save slots: 3 (Saved in device and manual save)
+Estimated scenario completion time: 14 to 20 hours
+50 to 100+ hours of post-clearance challenge
+
+Features
+Soul bits (handbills), which are the data of the soul power that resides in gear (equipment),
+Players can combine them in battle to make special attacks and combos in a successive manner. 
+The characters are characterized by their action with dots that move around.
+
+▼Gear and Soul Bits
+Soul bits (hand cards) can be drawn from gear (equipment) and used as actions during battle.
+The combination of main weapon, subweapon, armor, and accessories
+Strategy (deck) is determined.
+
+▼Arts
+During a battle, only one soul bit can be selected on the first turn, but
+The number of soul bits that can be selected at one time increases depending on the opponent's weaknesses, guarding, evading, buffing, debuffing, and various other conditions.
+The combination of soul bits (cards in hand) selected at the same time activates a skill called Arts.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a3/71/2d/a3712db9-5d94-ed5e-aefb-734698edee9e/d02c33e1-8e86-452e-b4eb-c7ed84a579bd_SOULVARS-2022-0416-131859.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/48/62/57/48625769-25f5-03e2-5037-b6639ceb341c/f0c9bfce-7cfd-4d50-bbf1-1696f649d8fe_SOULVARS-2022-0416-131930.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/74/d8/cb/74d8cbb6-a175-5a73-0d22-ab766aa1bfb6/7543d88e-2ce5-468e-9bf3-b3105e933592_SOULVARS-2022-0416-132003.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ab/f8/97/abf8970a-2659-4b18-955e-6360cb808e35/28bb8636-f96e-4d81-9d31-0f0d71d722a1_SOULVARS-2022-0416-132636.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/09/8b/70/098b70ba-4c3e-94fd-d5a6-ea5288ceb3ae/691b97d3-f358-47af-86db-092b9da7a0b8_SOULVARS-2022-0416-132756.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/46/01/25/46012562-f420-8630-58b9-c6dbf3eecf2a/929290b8-91d0-42bb-9f8e-3035cbae5f85_SOULVARS-2022-0416-132759.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a8/87/b4/a887b40e-13c9-31bd-7ba0-91d9bdd7fe08/bcc4c464-6056-4501-a0de-1d31e3e8ef1f_SOULVARS-2022-0416-132651.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TuneShift]]></title>
+        <id>TuneShift-us-1749603724130</id>
+        <link href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4"/>
+        <updated>2025-06-11T01:02:04.130Z</updated>
+        <summary type="html"><![CDATA[Price: $3.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/4d/38/2a4d389e-27de-f390-a2d4-c1042930fe76/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$3.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $3.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    年度订阅：<b>$3.99</b>
+  </li><li>
+    乐桥终身会员：<b>$7.99</b>
+  </li><li>
+    连续按月订阅：<b>$1.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Revitalize your Apple Music library! TuneShift intelligently matches your cherished music from NetEase Cloud Music and QQ Music to Apple Music platform.
+
+Say goodbye to tedious manual searching. With just a few simple steps, rediscover your complete music collection on Apple Music. Our smart engine ensures you find the closest matches to your original favorites.
+
+Core Advantages:
+• Premium music matching engine for precise track identification
+• Preserve complete collection structure and playback order
+• Real-time progress display
+• Minimalist design with one-click operation
+
+Privacy Protection:
+We prioritize user privacy, strictly adhering to privacy protocols to ensure your account information remains secure.
+
+Why Choose TuneShift:
+
+Professional music identification technology
+Superior matching accuracy
+Swift processing efficiency
+User-friendly interface
+Let TuneShift be your professional music management tool for the perfect Apple Music experience!
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FILCA - Vintage Film Camera]]></title>
@@ -1243,88 +1373,5 @@ Infinity Tank Battle will continue update, our target is over 1000 map. And this
 
 隐私条款：https://www.yuque.com/woshixiongda/vdwyc2/gpyq6twirk1u9w2u
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/79/7b/26797b55-20be-e38f-039b-a09662947318/6e0c7c45-23d6-47e0-b6de-943dad34902d__U753b_U677f.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/48/49/8c4849c1-4e0a-2993-2536-f3925866054f/d329f8a7-698c-4a28-9747-3c9d713b0d8b__U753b_U677f_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/66/53/e8665383-c55a-1428-6eba-045565252037/3400cbc1-ba7d-4dd9-9942-0be1d2e0dfc4__U753b_U677f_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/2b/95/f92b9567-5e94-71c6-6d07-61618cf4d943/cd33096b-6a13-4ada-8f04-57dafce61611__U753b_U677f_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/cd/75/3fcd7569-bd4a-efc0-dda0-ce84b86187f4/fc649eb8-aa80-4710-b1d4-df6537d05d35__U753b_U677f_4.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/f4/20/87f420a9-602e-5e5e-3f4e-1f985f420b34/130da694-cb89-4fd8-bc60-6858298db544_Group_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/3a/72/cf3a7271-e946-ecaa-d86c-84c3632a5bac/1c0bd52f-658c-43a3-aff7-4531958bdc65_Group_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/d1/c6/9bd1c618-b331-6aad-aeb1-2487ddde14cd/0601c076-7cd7-4d48-a2bf-524300bbf888_Group_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/0f/b3/cc0fb3e3-85fd-c422-bc0e-d9ab4faac151/9313222c-9639-4eec-bc2e-2affb487362f_Group_5.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calorie Counter PRO MyNetDiary]]></title>
-        <id>Calorie Counter PRO MyNetDiary-us-1749297790397</id>
-        <link href="https://apps.apple.com/us/app/calorie-counter-pro-mynetdiary/id352247139?uo=4"/>
-        <updated>2025-06-07T12:03:10.397Z</updated>
-        <summary type="html"><![CDATA[MyNetDiary Premium: $69.99 → $8.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/calorie-counter-pro-mynetdiary/id352247139?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/05/a0/b905a06c-64f4-c054-f10b-0e75c4ea2fb5/AppIconPro-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>MyNetDiary Premium：</strong><span>$69.99</span> → <b>
-  <strong>$8.99</strong>
-</b><span>[$8.99 ~ $69.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$3.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    MyNetDiary Premium：<b>$8.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Track calories, food, and macros with ease! MyNetDiary has a free barcode scanner, personal diet plans, and AI Meal Scan for instant logging — all in a smart, simple-to-use app. 
-
-USERS SAY…
-
-The best
-Love this app! The best out of many food tracking apps that I have tried over the years. Love that it is free! The breakdown of the meal and daily nutrition is very informative. Try it you will love it!
-
-LOVE LOVE LOVE THIS APP
-Best app for tracking food, exercise! Consistently losing weight! I love how it shows you if you're on target for your goal. Great layout, great look, easy to use!!! I highly recommend this app if you're looking to be a healthier you!!!
-
-Fast, intuitive, user friendly
-I have tried other calorie tracking programs over the years and this app is by far the best I've come across. I highly recommend it. The free version is very good and I am now enjoying the extra functions through a paid subscription.
-
-RECOGNIZED EXCELLENCE
-• Ranked #1 in Forbes Health’s Best Weight Loss Apps of 2025.
-• Rated #1 by the American Journal of Preventive Medicine.
-• Praised by The New York Times as “simpler, quicker, and better-looking” than other apps.
-• Featured in Today’s Dietitian, alongside WW and Noom.
-
-DIFFERENT FROM OTHER DIET APPS
-• Simple & Generous Features: Packed with free tools, no ads.
-• Lightning-Fast Logging: Barcode scanner and AI Meal Scan make tracking effortless.
-• Verified Food Database: Over 1.7 million items with 108 nutrients for accuracy.
-• Privacy Focused: No account required.
-
-MyNetDiary puts you in control. You can pick a diet or a meal plan, follow our registered dietitians' easy tips, and follow the app's guidance. Or, you can turn them off and simply use MyNetDiary as the best free calorie-counting app in the world.
-
-PROVEN SUCCESS
-• Active members lose an average of 1.4 lbs/week
-• Over 25 million users have chosen MyNetDiary, many switched from other diet apps
-
-A few of the free version features:
-• Easy food, exercise, and water tracking.
-• Daily coaching tips and meal reminders.
-• Customizable dashboard for your goals.
-• iOS Health integration and Apple Watch support.
-• Shopping lists, nutrition articles, and how-to videos.
-
-SPECIAL PRO APP FEATURES
-• Up to 108 nutrients tracked
-• Plan macros
-• Full set of charts
-• Timestamps
-• Carb tracking
-
-If you need more support, MyNetDiary Premium provides all the guidance and features you may need. At your fingertips, you'll find:
-
-• Premium Diets, 600+ full-flavored Premium Recipes and Menus by RDs, including low-carb, keto, high-protein, Mediterranean, vegetarian, and more - with diet planners, guides, and feedback.
-• Intermittent fasting - full-featured, with fasting timer and different protocols.
-• Macros planning and cycling.
-• Planning and tracking up to 108 nutrients, including omegas and aminos.
-• Recipe import tool - easily load internet recipes and calculate complete nutrition.
-• Integrations with top fitness trackers - Fitbit, Garmin, and Withings.
-• In-depth reporting and analysis tools to improve your diet.
-
-Subscription Terms:
-The subscription period will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current subscription period. To turn this function off, turn off auto-renew in your iTunes account. Renewal payments will differ depending on subscription and pricing at the time of renewal. Your iTunes account will be charged when the purchase is confirmed.
-
-Privacy Policy: www.mynetdiary.com/privacy.html
-Terms of Use: www.mynetdiary.com/terms.html
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/fa/97/77fa9799-510a-b8fa-8c6f-02bb6816e8cb/b6e679b3-ee7e-4575-8e1a-f3b3b9fa921a_Screen_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/d3/fb/05d3fbd0-1391-e2d9-64b3-7f9248d34126/70ed9fe0-d03d-4ff4-9a02-7cf7c9af602d_Screen_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/e1/f3/99e1f363-f0f9-0c8f-5456-38ee55fe92f9/96daa0f1-6b5e-46d1-afff-e96e947a349a_Screen_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/e8/bc/85e8bc5a-ec08-bb69-ff33-a8dc7d8d54b4/ff522954-5593-411e-8fef-230574cc533c_Screen_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/52/3a/c0523a87-51d7-e244-51ab-bff843147a4d/5314493e-674b-49b2-88c4-489ce0d7c9f7_Screen_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/6f/e0/2f6fe0d5-94fc-0e2b-229a-4b23555dd053/393405a5-1aad-49fd-9fa1-6f6aa8e05cea_Screen_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/e9/f3/10e9f314-c498-0dc4-42ad-8ee95d548994/99d376bd-5853-4149-9be8-3fc62a321424_Screen_08.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/48/81/684881b8-2805-2130-33f5-d5dc0d405994/7146ba39-1443-44e6-8c9e-20a48fbe5000_Screen_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/56/f4/a056f483-baea-b1f4-2c8e-088b6165b160/b7ceaa29-67a2-48f3-be17-2b6bb5702ab9_Screen_09.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/97/e2/f697e284-2117-e766-30f5-0d65ef1d60e0/f14ca282-cd3d-455e-8eec-f459d71f9ed1_Screen_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/e0/cc/4ae0cc83-f6dc-df8d-1fc2-a0deb24d6341/c7de4cda-f3e0-4cd4-a185-5158fd872988_Screen_01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/b3/2e/0fb32e68-73b3-344d-14ce-7e578d30a804/8b26b7fc-2fe0-4e83-ae00-52d729805b39_Screen_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/3e/03/b73e0382-66eb-6acb-e8df-e04ea5f03f7c/2310293b-81f6-4d6b-a181-f111649ee94f_Screen_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/db/46/67db46ac-b64c-8518-011a-47dc80150667/7489bfc2-2625-46e6-9b00-e8c7f02c989d_Screen_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/42/03/06420381-c68a-6ecc-92cc-a66e8037f19f/d80a7aba-a78f-43ef-aa63-add41fdb7853_Screen_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/cb/f3/37cbf3d7-866f-3e1f-cf4a-517fced16a05/ab932558-1ea9-4e3c-a34f-0233a55b0768_Screen_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/91/2f/a6912fdb-ee72-6bdb-3cd7-97a0a1b44de9/87ba38fe-2c96-4aa7-85ab-217789b20140_Screen_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/56/ca/8c56caed-31d6-2d76-c80d-566fb6ef4c8a/763e548c-c583-4a8e-b5ec-4254c33d9b35_Screen_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/9c/4b/449c4bcb-90e8-2ed6-3771-79b24a9a7585/59ec4a73-a0ef-4e97-9708-5294a3d81201_Screen_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/93/60/ce936090-05a1-efac-d31a-4c68a3146454/1f9edcb4-c4a0-47c6-b037-220eb171d735_Screen_10.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

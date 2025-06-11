@@ -645,6 +645,25 @@
     "history": [
       [
         {
+          "timestamp": 1749603724130,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "1000 coins": "$0.99",
+            "10,000 coins": "$1.99",
+            "30,000 coins": "$2.99",
+            "1000 candies": "$0.99",
+            "500 eggs": "$0.99",
+            "10000 candies": "$2.99",
+            "5000 eggs": "$1.99",
+            "100,000 gold": "$1.99",
+            "10,000 gold": "$0.99",
+            "15000 eggs": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749312141376,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -58588,6 +58607,14 @@
     "history": [
       [
         {
+          "timestamp": 1749603724130,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749439044822,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -76095,6 +76122,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749603724130,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "年度订阅": "$3.99",
+            "乐桥终身会员": "$7.99",
+            "连续按月订阅": "$1.99"
+          }
+        },
         {
           "timestamp": 1749568413844,
           "price": 3.99,
