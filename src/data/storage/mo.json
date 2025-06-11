@@ -15638,6 +15638,25 @@
     "history": [
       [
         {
+          "timestamp": 1749640289997,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "12 Mo. Fongo Ultimate": "USD 99.99",
+            "3 Mo. Fongo Ultimate": "USD 29.99",
+            "6 Mo. Fongo Ultimate": "USD 54.99",
+            "1 Mo. Fongo Ultimate": "USD 12.99",
+            "12 Mo. Remove Ads": "USD 16.99",
+            "6 Mo. Remove Ads": "USD 9.99",
+            "3 Mo. Remove Ads": "USD 5.49",
+            "1 Mo. Remove Ads": "USD 2.79",
+            "12 Mo. Fongo Plus": "USD 84.99",
+            "12 Mo. Global Texting": "USD 27.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748440944770,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -38468,6 +38487,22 @@
     "history": [
       [
         {
+          "timestamp": 1749640289997,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Fantasy Beach Bundle": "USD 11.99",
+            "Starseeker Token": "USD 9.99",
+            "Enchanted Forest Marine Bundle": "USD 11.99",
+            "LA Monstropolis Marine Bundle": "USD 11.99",
+            "The Rainbow Bundle": "USD 11.99",
+            "Victorian London Marine Bundle": "USD 11.99",
+            "The Slam Dunk Bundle": "USD 6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749449986703,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -57933,6 +57968,27 @@
           "timestamp": 1749543468857,
           "price": 2.49,
           "formattedPrice": "USD 2.49",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6745421021": {
+    "name": "ScanAgent",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749640289997,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]

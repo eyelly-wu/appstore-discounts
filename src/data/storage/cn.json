@@ -58756,5 +58756,26 @@
         }
       ]
     ]
+  },
+  "6745421021": {
+    "name": "ScanAgent",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749640289997,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
   }
 }

@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6745421021,
+    name: {
+      tw: 'ScanAgent',
+    },
+    addType: 'auto',
+  },
+  {
     id: 993483096,
     name: {
       mo: '拼音助手专业版 - 最好的普通話真人發聲字典',
