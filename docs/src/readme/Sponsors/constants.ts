@@ -6,27 +6,27 @@ const sponsor: Sponsor = {
   expireTime: '2024-06-10T00:00:00.000Z',
 }
 
-function getSponsors() {
-  const length = Math.ceil(Math.random() * 5)
+function getSponsors(number = 0) {
+  const length = number || Math.ceil(Math.random() * 3)
   return Array(length).fill(sponsor)
 }
 
 export const sponsors: Sponsors = [
   {
     type: 'platinum',
-    sponsors: getSponsors(),
+    sponsors: getSponsors(1),
   },
   {
     type: 'gold',
-    sponsors: getSponsors(),
+    sponsors: getSponsors(2),
   },
   {
     type: 'silver',
-    sponsors: getSponsors(),
+    sponsors: getSponsors(3),
   },
   {
     type: 'bronze',
-    sponsors: getSponsors(),
+    sponsors: getSponsors(5),
   },
 ]
 
@@ -42,12 +42,8 @@ export const getSponsorTypeName = (type: SponsorType, tProp?: Translate) => {
 }
 
 export const wrapperWidth = 800
-export const sponsorWidth = 190
-export const sponsorHeight = 80
 export const sponsorSpace = 10
 export const sponsorTypeHeight = 68
-export const sponsorRowSpan = 3
-export const sponsorRowGap = Math.floor(sponsorWidth / 4)
 export const bottomSpace = sponsorTypeHeight / 2
 
 export const sponsorTypeColorMap: Record<SponsorType, string> = {
@@ -55,4 +51,33 @@ export const sponsorTypeColorMap: Record<SponsorType, string> = {
   gold: '#DAA520',
   silver: '#708090',
   bronze: '#A0522D',
+}
+
+export const sponsorTypeRowSpanMap: Record<SponsorType, number> = {
+  platinum: 1,
+  gold: 2,
+  silver: 3,
+  bronze: 4,
+}
+
+export const sponsorTypeSizeMap: Record<
+  SponsorType,
+  { width: number; height: number }
+> = {
+  platinum: {
+    width: 380,
+    height: 140,
+  },
+  gold: {
+    width: 280,
+    height: 140,
+  },
+  silver: {
+    width: 190,
+    height: 85,
+  },
+  bronze: {
+    width: 120,
+    height: 60,
+  },
 }

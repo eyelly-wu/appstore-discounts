@@ -3,11 +3,11 @@ import { isEmpty, chunk } from 'lodash'
 import {
   bottomSpace,
   sponsors,
-  sponsorRowSpan,
   sponsorTypeHeight,
-  sponsorHeight,
   sponsorSpace,
   getSponsorTypeName,
+  sponsorTypeRowSpanMap,
+  sponsorTypeSizeMap,
 } from './constants'
 import { DisplaySponsors } from './types'
 
@@ -19,6 +19,9 @@ export function getRenderInfo() {
   const displaySponsors = sponsors.reduce((res, typeSponsorInfo) => {
     const { type, sponsors = [] } = typeSponsorInfo
 
+    const sponsorRowSpan = sponsorTypeRowSpanMap[type]
+    const { height } = sponsorTypeSizeMap[type]
+
     const displaySponsors = sponsors.filter((sponsor) => {
       const { expireTime } = sponsor
       return now.isBefore(expireTime)
@@ -29,7 +32,7 @@ export function getRenderInfo() {
       const sponsors = chunk(displaySponsors, sponsorRowSpan)
       allHeight +=
         sponsorTypeHeight +
-        sponsors.length * sponsorHeight +
+        sponsors.length * height +
         (sponsors.length - 1) * sponsorSpace
 
       res.push({
