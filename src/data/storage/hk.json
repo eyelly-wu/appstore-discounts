@@ -17535,6 +17535,14 @@
     "history": [
       [
         {
+          "timestamp": 1749651110325,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746799336853,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -22056,6 +22064,23 @@
     "history": [
       [
         {
+          "timestamp": 1749651110325,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "HK$ 0.00",
+            "ThemeA0B1C0": "HK$ 0.00",
+            "ThemeA1B0C0": "HK$ 0.00",
+            "ThemeA0B1C1": "HK$ 0.00",
+            "ThemeA1B0C1": "HK$ 0.00",
+            "ThemeA1B1C0": "HK$ 0.00",
+            "ThemeA2B0C0": "HK$ 0.00",
+            "主题大礼包": "HK$ 32.00",
+            "ThemeA2B0C1": "HK$ 32.00",
+            "ThemeA2B1C0": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1749572152978,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -24132,10 +24157,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749651110325,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -28126,10 +28159,18 @@
       "formattedPrice": "HK$ 228.00"
     },
     "minPriceInfo": {
-      "price": 228,
-      "formattedPrice": "HK$ 228.00"
+      "price": 199,
+      "formattedPrice": "HK$ 199.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749651110325,
+          "price": 199,
+          "formattedPrice": "HK$ 199.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
@@ -30386,10 +30427,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749651110325,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
@@ -44249,10 +44298,18 @@
       "formattedPrice": "HK$ 428.00"
     },
     "minPriceInfo": {
-      "price": 428,
-      "formattedPrice": "HK$ 428.00"
+      "price": 279,
+      "formattedPrice": "HK$ 279.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749651110325,
+          "price": 279,
+          "formattedPrice": "HK$ 279.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
@@ -62715,6 +62772,25 @@
     "history": [
       [
         {
+          "timestamp": 1749651110325,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "自建武将皮肤4": "HK$ 32.00",
+            "自建武将皮肤3": "HK$ 88.00",
+            "自建武将皮肤2": "HK$ 32.00",
+            "自创武将皮肤1": "HK$ 88.00",
+            "一袋碎片": "HK$ 388.00",
+            "一堆碎片": "HK$ 32.00",
+            "自定义武将席位6": "HK$ 32.00",
+            "自定义武将席位4": "HK$ 32.00",
+            "自定义武将席位5": "HK$ 32.00",
+            "自定义武将席位3": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748379732727,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -63875,6 +63951,14 @@
       "formattedPrice": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749651110325,
+          "price": 12,
+          "formattedPrice": "HK$ 12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745935349811,
