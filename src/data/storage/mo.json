@@ -22605,7 +22605,9 @@
       "黑铁礼包": "USD 1.99",
       "特权签到礼包": "USD 3.99",
       "至尊等级基金XI": "USD 99.99",
-      "至尊闯关基金XI": "USD 99.99"
+      "至尊闯关基金XI": "USD 99.99",
+      "闯关基金XII": "USD 49.99",
+      "至尊闯关基金XII": "USD 99.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -22624,9 +22626,30 @@
       "黑铁礼包": "USD 1.99",
       "特权签到礼包": "USD 3.99",
       "至尊等级基金XI": "USD 99.99",
-      "至尊闯关基金XI": "USD 99.99"
+      "至尊闯关基金XI": "USD 99.99",
+      "闯关基金XII": "USD 49.99",
+      "至尊闯关基金XII": "USD 99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749665880279,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "6480根火柴": "USD 99.99",
+            "60根火柴": "USD 0.99",
+            "1元礼包": "USD 0.99",
+            "1680根火柴": "USD 24.99",
+            "闯关基金XII": "USD 49.99",
+            "至尊闯关基金XII": "USD 99.99",
+            "1元首充礼包": "USD 0.99",
+            "王者礼包": "USD 29.99",
+            "黄金礼包": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749247330718,
@@ -40261,6 +40284,27 @@
           "timestamp": 1745568184983,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1492041611": {
+    "name": "FINAL FANTASY V",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749665880279,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
           "inAppPurchases": {}
         }
       ]
