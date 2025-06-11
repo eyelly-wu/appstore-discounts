@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-11T20:35:02.709Z</updated>
+    <updated>2025-06-11T23:34:14.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-11T20:35:02.709Z</updated>
+        <updated>2025-06-11T23:34:14.861Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrWed, 11 Jun 2025 20:35:02 GMT</id>
+        <id>rankingtrWed, 11 Jun 2025 23:34:14 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-11T20:35:02.709Z</updated>
+        <updated>2025-06-11T23:34:14.861Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -312,7 +312,7 @@ feedId:99063474310237184+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
+        <a href="https://apps.apple.com/tr/app/id703265535">FocusDots · Focus What Matters</a>
       </td>
       <td>
         <ul>
@@ -327,6 +327,40 @@ feedId:99063474310237184+userId:73658201673997312
     <tr>
       <td>
         <b>12</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1012298403">Don't Starve: Pocket Edition</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1067198688">彩云天气Pro</a>
@@ -349,7 +383,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1094038347">Only You Are Here</a>
@@ -376,7 +410,41 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>16</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1108032375">Rise of the Tomb Raider™</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1147297267">Don't Starve: Shipwrecked</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1304822713">Infinity Tank Battle</a>
@@ -393,7 +461,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
@@ -416,7 +484,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -439,7 +507,24 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>21</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1439569401">Shadow of the Tomb Raider</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439886655">Cultist Simulator</a>
@@ -456,7 +541,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1449893235">Earthquake Network</a>
@@ -473,7 +558,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1453820315">This Is the Police 2</a>
@@ -490,7 +575,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
@@ -513,7 +598,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1519571900">Luwian</a>
@@ -530,7 +615,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -547,7 +632,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1523146826">Everybody's RPG: Reboot</a>
@@ -564,7 +649,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1576521142">SOULVARS</a>
@@ -581,7 +666,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1610668825">FyTube - YouTube Without Ads</a>
@@ -598,7 +683,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1640627334">Resident Evil Village for Mac</a>
@@ -625,7 +710,24 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>32</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1642715290">Little Big Workshop</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1659271912">Train Dispatcher!2</a>
@@ -642,7 +744,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6450980545">Resident Evil Village</a>
@@ -671,7 +773,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6462360082">Resident Evil 4</a>
@@ -702,7 +804,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
@@ -719,7 +821,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -736,7 +838,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -753,7 +855,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -770,7 +872,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -787,7 +889,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6449251957">Motorsport Manager 4</a>
@@ -928,6 +1030,269 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Starve: Shipwrecked]]></title>
+        <id>Don't Starve: Shipwrecked-tr-1749683597801</id>
+        <link href="https://apps.apple.com/tr/app/dont-starve-shipwrecked/id1147297267?uo=4"/>
+        <updated>2025-06-11T23:13:17.801Z</updated>
+        <summary type="html"><![CDATA[Price: ₺229,99 → ₺129,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/dont-starve-shipwrecked/id1147297267?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/c3/2f/50c32f11-b48c-7176-a546-c400127ee431/AppIcon-1x_U007emarketing-0-10-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺229,99</span> → <b>
+  <strong>₺129,99</strong>
+</b><span>[₺129,99 ~ ₺229,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺129,99</b>
+</p><h2>Application Description</h2><p>
+  Klei Entertainment has partnered with our friends at CAPY, creators of Superbrothers: Sword and Sworcery, Super Time Force and Below; to bring fans of Don’t Starve the latest single-player expansion: Don’t Starve: Shipwrecked!
+
+In Don't Starve: Shipwrecked, Wilson finds himself stranded in a tropical archipelago. He must learn to survive all over again in this new environment filled with new biomes, seasons, and creatures.
+
+Don’t let the tropical breeze lull you into a false sense of security - the world might be different, but it is still equal parts unforgiving and uncompromising. You will quickly find these islands are full to the brim with things that want to kill you.
+
+Key Features:
+
+Navigate the Open Ocean: Craft a boat and set sail for adventure! 
+
+Explore an Entirely New World: The entire world is different. Explore new biomes filled with new resources. Scavenge for new sources of food. Run for your life from a host of new creatures. 
+
+Brave New Seasons: A set of tropically inspired seasons will try their hardest to kill you. 
+
+Craft New Recipes: Build an array of new gadgets to help yourself survive these harsh islands.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b1/4e/2c/b14e2c52-702e-5dc0-d830-86be2d09a111/mzl.efdzzscr.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b3/3a/31/b33a315d-2706-5ffb-b3da-f15c2db4c1b7/mzl.eqyjfkec.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/6a/e7/506ae759-5d59-9aaf-5f5e-c3fdaf5213fc/mzl.hbtdgyvv.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b2/be/8f/b2be8fac-a1d9-cfa4-f641-59c7986dc5a9/mzl.qgaroymg.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7c/1c/b1/7c1cb1ec-fe08-23f5-abae-945ea74103f8/mzl.ftamkfkk.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9f/d3/02/9fd30213-9060-8cb4-0cd4-3fbba3d8e090/mzl.oukgmfmo.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/09/02/06/09020683-ed31-c09c-2382-3166a7f329cb/mzl.yuqzlvnd.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/b5/3b/22b53b2f-83a4-68c1-6cce-0113c2f5f5d0/mzl.bkqfiamk.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/32/90/69/3290690a-c70a-6ecf-d1ec-cd1eea7aceee/mzl.wufvdaxu.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/9e/97/b69e9743-d018-4682-9990-077c7a436fdb/mzl.gdipxdjk.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Big Workshop]]></title>
+        <id>Little Big Workshop-tr-1749683597801</id>
+        <link href="https://apps.apple.com/tr/app/little-big-workshop/id1642715290?uo=4"/>
+        <updated>2025-06-11T23:13:17.801Z</updated>
+        <summary type="html"><![CDATA[Price: ₺69,99 → ₺11,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/little-big-workshop/id1642715290?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/78/a6/ae78a6a8-fd0d-502a-2ce4-f7b82960a79a/AppIcon-1x_U007epad-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺69,99</span> → <b>
+  <strong>₺11,99</strong>
+</b><span>[₺11,99 ~ ₺69,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺11,99</b>
+</p><h2>Application Description</h2><p>
+  Imagine a magical factory, appearing right in your living room. A carefully planned masterpiece, where diligent workers throw together anything customers want. Rubber ducks and dressers, drones and electric guitars, scooters and other wonderful goods can be created from many different materials and sold for hard cash – cash you invest right back into your factory to get more machines, more workers and grow your business. In Little Big Workshop you become a factory tycoon!
+
+Real factories - made FUN
+You are the Big Boss and it’s time to take charge of your very own tabletop factory. Organize the factory floor, manage your workers, purchase machinery, and design efficient production lines - all within the time-limit and to your client's satisfaction! 
+
+An open-ended sandbox-experience
+Take it easy, it’s a sandbox-experience where you think, ponder and poke at things until you get it to work the way you’d like. Supply products to clients and an ever-changing market, as you produce over 50 unique product types, built from multiple parts and pieces - all of which can be created with different materials and production methods. No two factories should ever look the same.
+
+Tiny hands, big dreams
+Start out with just a small workshop and expand to a desk-filling factory. Unlock ever fancier machines, add even more production methods, and most of all, more room. Soon enough you’ll be running multiple production lines, producing hundreds of advanced products each day, and watching with joy as your cute workers do the actual work.
+
+Features:
+- Varying industries and a wide range of products
+- Focus on practical problems, not on values, economics, or logistics
+- Organize all steps of the production on a blueprint
+- Factories grow as you unlock more desk space
+- Fully simulated Day/Night-cycle
+- Take care of your workers! Work them too hard and they drop like flies
+- Cute model-town art-style
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d2/5b/f6/d25bf669-3939-4be6-59d8-5e6a8163eebb/44b68f78-c57c-456c-be1e-9ce021f90c86_LBW_Screenshot_05_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/03/6c/ca/036cca56-0c08-88f5-d984-506e35fe59d7/86c56321-dfbd-443c-b23f-5f7c3a0bdafb_LBW_Screenshot_04_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/84/15/6e8415ef-79f6-6db7-e116-abf3a45d49b4/ebfdd1e2-c7d7-40ff-9913-7ad5179ba09b_LBW_Screenshot_06_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ee/5c/f2/ee5cf2fc-e9d2-3627-3ca9-101bfc7310d1/76b94868-defd-43bc-862d-30e2f4baa7a4_LBW_Screenshot_07_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/81/0a/8e/810a8ee9-65b9-75e6-1420-0051c9479efa/5d93b14a-8132-4181-a99b-c94eb35aad59_LBW_Screenshot_06_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/76/39/30/763930df-5517-ffcb-bd5e-72b82ad4530e/3135147c-ca50-404e-a258-cb9dd6b5f5d2_LBW_Screenshot_08_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/30/81/8e/30818eb2-5180-7683-3784-757659ded14f/ea2b609a-f958-498b-8aee-0bceb9b4d377_LBW_Screenshot_07_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c3/cf/f6/c3cff6d4-9b2a-e18a-89e2-2c44902c7b1c/d7126d42-1ba1-43d8-b4f0-bd52b74eb4f2_LBW_Screenshot_09_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/1d/e7/a71de762-7247-3fd3-7df1-cd966503da1f/cfcbc043-af1e-4976-9740-210982737dd1_LBW_Screenshot_08_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/3c/bf/b33cbf55-14e7-0a7c-23e4-f97b85471606/cc75c69f-bc7c-4481-9c89-bdc04231f791_LBW_Screenshot_10_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/dd/18/60/dd186062-48c2-da23-70d3-e812bf24b0b8/eb399a9a-961b-4814-8a42-431ba9bbe79e_LBW_Screenshot_09_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2a/1b/15/2a1b1520-f5e4-4676-8c33-e5e05e3d017a/c9b05abf-9935-4cc8-be39-7fa4f9cd9795_LBW_Screenshot_01_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/59/58/07/595807cf-a599-fce2-a9a7-b93d184838ce/9ed82810-c4ac-4886-b562-f8f368dab408_LBW_Screenshot_10_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a4/aa/63/a4aa63ea-303a-63e4-dd32-4bcefe8380e4/4515a289-ce21-44f6-9724-9aecb27770bf_LBW_Screenshot_02_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6c/93/a4/6c93a409-60b9-ebf6-1ec4-fc29716bedf9/fa41dd44-aab6-46dd-b0db-82867d3ee958_LBW_Screenshot_03_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ef/c8/47/efc847f9-8284-ab1e-2f90-f50ff91afe25/13055c88-573a-4526-ae06-52d997be8ebe_LBW_Screenshot_02_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/c5/35/ddc535d3-959d-e06c-b611-ab8b0057645d/999c3d83-8e9f-465f-9e80-6464b5754ba3_LBW_Screenshot_04_2208x1242.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/6f/26/b56f26f7-3cbf-f858-71b5-0a7f55795d1d/20a5f646-f670-49b3-ae97-71dd1c95f6ce_LBW_Screenshot_06_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9d/37/84/9d378439-45c4-d8b1-7b40-e3e8715693f1/f06b19f2-88d3-4467-acf7-5913f978b6ee_LBW_Screenshot_07_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/b2/d1/38b2d13d-01d8-206d-9442-047dd2175974/747952e0-2a24-4709-a66c-7285e92bf59d_LBW_Screenshot_08_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b6/c6/71/b6c67143-5bca-bf00-0fd1-7385dd4231b5/bff133b2-bb06-4a0e-a13f-9e09deff40cf_LBW_Screenshot_09_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5c/c9/c6/5cc9c67a-1f1d-cad6-7b09-c154572bbe7c/c1c6c0d2-060b-4353-a62d-3c31e3c0bd76_LBW_Screenshot_10_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/88/b1/36/88b1367e-e84a-a86c-ec16-10c47670e694/18e2d764-663a-4a2e-ad65-e1fca0891d58_LBW_Screenshot_01_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2f/60/c8/2f60c8e8-ee02-fe9f-54f6-91ba70dd5088/cbe78db1-b440-4c56-b748-287fc446bc75_LBW_Screenshot_02_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/96/86/98/968698d1-f099-1d64-a63e-3616d89ba2fa/2115bf40-44ca-4196-b809-f4630a0bb5ca_LBW_Screenshot_03_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/54/ea/8454eaa6-4460-5cdc-2f77-4fd9c6923ebc/6d9517ab-bceb-4ebe-86a6-8b9652c26f70_LBW_Screenshot_04_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/25/95/f1/2595f1b9-7b86-15c2-e66f-997c31f5037c/d09dfc11-c087-4120-9989-e5865dd84572_LBW_Screenshot_05_2732x2048.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Starve: Pocket Edition]]></title>
+        <id>Don't Starve: Pocket Edition-tr-1749683597801</id>
+        <link href="https://apps.apple.com/tr/app/dont-starve-pocket-edition/id1012298403?uo=4"/>
+        <updated>2025-06-11T23:13:17.801Z</updated>
+        <summary type="html"><![CDATA[Price: ₺229,99 → ₺39,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/dont-starve-pocket-edition/id1012298403?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/29/5e/03295e4c-5637-9419-83e5-e9939e90370c/Normal_Icon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺229,99</span> → <b>
+  <strong>₺39,99</strong>
+</b><span>[₺39,99 ~ ₺229,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺39,99</b>
+</p><h2>Application Description</h2><p>
+  ***NOTE: Don't Starve requires iOS 8 and at least an iPhone 5, iPad 3, or iPad mini 2. Due to memory constraints, it will not run on older devices.***
+
+Don’t Starve: Pocket Edition, brings the hit PC game enjoyed by over 4 million players to the iPhone and iPad. Now you can experience the uncompromising wilderness survival game full of science and magic on the go! 
+
+Play as Wilson, an intrepid Gentleman Scientist who has been trapped and transported to a mysterious wilderness world. Wilson must learn to exploit his environment and its inhabitants if he ever hopes to escape and find his way back home. 
+
+Enter a strange and unexplored world full of strange creatures, dangers, and surprises. Gather resources to craft items and structures that match your survival style. Play your way as you unravel the mysteries of this strange land. 
+
+********************************************************
+
+Awards:
+- Independent Games Festival: Grand Prize Nominee
+- Independent Games Festival: Excellence in Design Nominee
+- Independent Games Festival: Audience Award Nominee
+- Capsule Computers: Editor’s Choice
+- Indie Game Reviewer: Game of the Year
+
+Key Features:
+
+Optimized for Touch: New intuitive touch interface lets you explore, fight, craft and manage inventory with ease.
+
+Uncompromising Survival & World Exploration: No instructions. No help. No hand holding. Start with nothing and craft, hunt, research, farm and fight to survive.
+
+Dark and Whimsical Visuals: 2D characters and odd creatures inhabiting a unique 3D world.
+
+Randomly Generated New Worlds: Want a new map? No problem! At any time you can generate a new living and breathing world that hates you and wants you to die.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ad/79/ac/ad79acb5-d49c-1431-e83c-07d3ebb2da5e/mzl.obvbznip.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/50/68/9d/50689d23-fb6a-a24f-b656-74e808306f93/mzl.mkhmcdcj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/df/36/31/df363182-94e4-1885-9f0b-2549b08e7f1b/mzl.jlaneoam.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/de/31/4e/de314e67-66ec-9493-33b7-4f1e7f8e5086/c4a59f5f-f7a9-497f-aa23-b473b260cfa5_iOS_5.5_Screenshot_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/e2/b1/38/e2b13879-557d-33ec-d499-7bc7f56e60d0/828dc3c8-a8da-4270-8fc8-55458e022251_iOS_5.5_Screenshot_6.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/94/35/40/94354024-8f75-d723-0686-d9f375afb4ce/33321d74-28d5-4090-988f-feddea8d5a88_iOS_5.5_Screenshot_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d2/54/ae/d254aed0-a280-8883-375e-3e33e9d47d40/5d60b37e-85d8-4cef-bfde-9d5181324530_iOS_12.9_Screenshot_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/64/a9/51/64a95198-9fdd-7871-a897-fb83ec337462/3544c68d-7a9f-4d54-b4f0-518e69622ee9_iOS_12.9_Screenshot_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/10/ae/ca/10aecaca-2505-4f3b-1f36-f239e84f1766/8adad03d-9597-4494-a67d-12e381aa6723_iOS_12.9_Screenshot_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/81/a8/36/81a836fc-6e4b-c777-58ce-9d9dd527c429/83d9c755-b168-4640-b6dc-9946f97a6b27_iOS_12.9_Screenshot_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/bf/ac/ff/bfacffb8-0c63-a8b9-51c2-e071e4b2d45b/a5102227-7ae4-40e8-a930-10d04b27a0cc_iOS_12.9_Screenshot_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/bc/db/fd/bcdbfdd7-dcb0-672d-d5a5-4f706a540f13/adc925cc-83ea-41e4-a131-6e5ba914b3d6_iOS_12.9_Screenshot_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b6/3b/f9/b63bf9c7-f7fe-9421-a522-82ee73f7e237/fcc57b72-e220-44d8-80ab-5bd33927e35f_iOS_12.9_Screenshot_7.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rise of the Tomb Raider™]]></title>
+        <id>Rise of the Tomb Raider™-tr-1749683597801</id>
+        <link href="https://apps.apple.com/tr/app/rise-of-the-tomb-raider/id1108032375?mt=12&amp;uo=4"/>
+        <updated>2025-06-11T23:13:17.801Z</updated>
+        <summary type="html"><![CDATA[Price: ₺1.299,99 → ₺829,00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/rise-of-the-tomb-raider/id1108032375?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/01/14/3c/01143c4f-1cfd-bec3-b909-4de46b0c9be8/GameIcon.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>₺1.299,99</span> → <b>
+  <strong>₺829,00</strong>
+</b><span>[₺829,00 ~ ₺1.299,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺829,00</b>
+</p><h2>Application Description</h2><p>
+  Discover the legend within.
+
+Before you buy, please expand this description and check that your computer matches or exceeds each of the requirements listed.
+
+In the breathtaking sequel to Tomb Raider, Lara Croft becomes more than a survivor as she embarks upon her first great expedition to explore the earth’s most ancient and remote regions and uncover the secret of immortality. 
+
+Harness Lara’s growing talents in a dramatic action-adventure ranging from Syria’s sun-baked ruins to Siberia’s frozen mountains. Play as the young archaeologist as she conquers tombs, outpaces rivals, and establishes her legend.
+
+THE COMPLETE ADVENTURE
+Rise of the Tomb Raider: 20 Year Celebration equips the base game with its entire collection of DLC. 
+Uncover the secrets of Croft Manor in Blood Ties, find the truth behind a mythic terror in Baba Yaga: The Temple of the Witch, prevent a lethal outbreak in Cold Darkness, and face waves of supernatural enemies in Lara’s Nightmare. In Endurance Mode, survive the harsh Siberian wilderness alone or co-operatively with another player.
+
+Important information regarding Rise of the Tomb Raider:
+
+The game is officially supported on the following Macs. To check your Mac model and when it was released, select About This Mac from the Apple menu on your menu bar.
+
+ ◦ All 13" MacBook Pros released since 2016
+ ◦ All 15" MacBook Pros released since Late 2013 with a 2.3GHz processor or better
+ ◦ All 21.5" iMacs released since 2017
+ ◦ All 27" iMacs released since Late 2013 (models with an Nvidia GT 755M graphics card are not officially supported) (1)
+ ◦ All Mac Pros released since Late 2013
+
+(1) Late 2012 models with a 2GB Nvidia 680MX graphics card are also supported.
+
+The following Macs are capable of running the game but do not consistently meet the standards required for official support.
+
+ ◦ All 15" MacBook Pros released since Late 2013
+ ◦ All 21.5" iMacs released since Late 2013 with a 2.3GHz processor or better (models with an Nvidia 750M graphics card are not supported).
+
+• Minimum System Requirements:
+ ◦ Processor: 2.3GHz
+ ◦ RAM: 8GB
+ ◦ Graphics: 1.5GB
+ ◦ macOS: 10.13.4
+ ◦ Free Space: 36GB
+
+Check the Feral website for more detailed specifications.
+
+• If you require assistance, please contact our support team at support@feralinteractive.com
+
+• Supports over 100 different models of gamepad. For a full list check the Feral support site.
+
+• This game is not currently supported on volumes formatted as Case-sensitive.
+
+• You can find out more about the game on the Rise of the Tomb Raider mini-site at feralinteractive.com/riseofthetombraider
+
+RISE OF THE TOMB RAIDER © 2018 Square Enix Ltd. All Rights Reserved. RISE OF THE TOMB RAIDER, TOMB RAIDER, CRYSTAL DYNAMICS, the CRYSTAL DYNAMICS logo, EIDOS, the EIDOS logo and LARA CROFT are registered trademarks or trademarks of Square Enix Ltd. SQUARE ENIX and the SQUARE ENIX logo are registered trademarks or trademarks of Square Enix Holdings Co., Ltd. Developed for and published on macOS by Feral Interactive Ltd. Mac and macOS are trademarks of Apple Inc., registered in the U.S. and other countries. Feral and the Feral logo are trademarks of Feral Interactive Ltd. All other marks are property of their respective owners. All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/18/5c/04/185c044e-cd1e-50f4-3fa3-4ba820e5b7e8/contsched.wsqnoxlm.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/d5/99/39/d599396d-c2ee-976b-1fde-84222abcb66e/contsched.ehghrxtj.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/d9/0d/a2/d90da244-c9df-12b5-d8e5-affe106fe123/contsched.sfdzqibx.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b7/8e/5e/b78e5ec8-9acd-0bbb-fd84-b3cdd287a459/contsched.txchbacy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5e/5d/3d/5e5d3dba-967e-277d-7e8e-61b4ed14e3c8/contsched.lidinrtw.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c6/db/60/c6db6079-d89c-751b-0155-baeb1bf47006/screenshot_mac_6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/70/78/a7/7078a7d2-68fb-fd09-fd0c-7a8a1b14d087/screenshot_mac_7.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a9/9f/6d/a99f6dad-4e77-433e-4452-d5e4bfc2a992/screenshot_mac_8.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/5c/42/14/5c421425-481b-67a5-3c5f-1d2de0f3897f/screenshot_mac_9.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/41/d8/51/41d85182-892e-41ea-8190-c989ca9ec703/screenshot_mac_10.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow of the Tomb Raider]]></title>
+        <id>Shadow of the Tomb Raider-tr-1749683597801</id>
+        <link href="https://apps.apple.com/tr/app/shadow-of-the-tomb-raider/id1439569401?mt=12&amp;uo=4"/>
+        <updated>2025-06-11T23:13:17.801Z</updated>
+        <summary type="html"><![CDATA[Price: ₺2.499,99 → ₺1.099,00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/shadow-of-the-tomb-raider/id1439569401?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/28/ff/f1/28fff100-ce79-042a-dd36-68ce380cd77c/GameIcon.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>₺2.499,99</span> → <b>
+  <strong>₺1.099,00</strong>
+</b><span>[₺1.099,00 ~ ₺2.499,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺1.099,00</b>
+</p><h2>Application Description</h2><p>
+  Before you buy, please expand this description and check that your computer matches or exceeds each of the requirements listed.
+
+In the spectacular action-adventure puzzle game and thrilling finale to the Tomb Raider origins trilogy, Lara Croft must save the world from a Mayan apocalypse and shape her destiny to become the Tomb Raider.
+
+Important information regarding Shadow of the Tomb Raider:
+
+The game is officially supported on the following Macs. To check your Mac model and when it was released, select About This Mac from the Apple menu on your menu bar.
+
+ • All 15” MacBook Pros released since Late 2016
+ • All 13” MacBook Pros released since 2016
+ • All Mac minis released since 2018
+ • All 21.5” iMacs released since 2017
+ • All 27” iMacs released since Late 2014
+ • All 27" iMac Pros released since Late 2017
+ • All Mac Pros released since Late 2013
+
+The following Macs are capable of running the game but do not consistently meet the standards required for official support.
+
+ • All 13" MacBook Airs released since 2018
+ • All 12" MacBooks released since Early 2016
+ • All Mac minis released since Late 2012
+ • All 21.5" iMacs released since Late 2015 with an Intel Iris Pro Graphics 6200 graphics card 
+
+• Minimum System Requirements:
+ ◦ Processor: 2GHz
+ ◦ RAM: 8GB
+ ◦ Graphics: 1.5GB
+ ◦ macOS: 10.15
+ ◦ Free Space: 40GB
+
+Check the Feral website for more detailed specifications.
+
+• This game is not currently supported on volumes formatted as Case-sensitive.
+
+SHADOW OF THE TOMB RAIDER © 2018, 2019 Square Enix Limited. Developed by Eidos Interactive Corporation. All rights reserved. SHADOW OF THE TOMB RAIDER, TOMB RAIDER, CRYSTAL DYNAMICS, the CRYSTAL DYNAMICS logo, EIDOS-MONTRÉAL, the EIDOS-MONTRÉAL logo, and LARA CROFT are registered trademarks or trademarks of Square Enix Limited. SQUARE ENIX and the SQUARE ENIX logo are registered trademarks or trademarks of Square Enix Holdings Co., Ltd. Developed for and published on macOS by Feral Interactive Ltd. Mac and macOS are trademarks of Apple Inc., registered in the U.S. and other countries. Feral and the Feral logo are trademarks of Feral Interactive Ltd. All other marks are property of their respective owners. All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7e/de/9c/7ede9cbb-9d87-1d79-3a7c-636afb208b64/screenshot_mac_1_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/02/fb/88/02fb88c7-a606-4278-a226-7dffdc3e5154/screenshot_mac_2_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bd/a2/82/bda282d4-6cc1-d0dd-ff67-63f29292ceec/screenshot_mac_3_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6f/88/4e/6f884e42-f017-3562-d2f0-c488bca10a85/screenshot_mac_4_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/7d/c1/c87dc130-010c-779c-a414-a9e036728234/screenshot_mac_5_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/cb/74/e8/cb74e8d9-b85c-0e0f-f460-1461c3b9df7a/screenshot_mac_6_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0b/d1/97/0bd1975e-d1f4-b2db-bced-04af4cc30e78/screenshot_mac_7_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d6/3a/41/d63a418b-c4bf-60b3-57fe-cd7a9a6c9d6f/screenshot_mac_8_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/29/84/fb29849d-8440-3c9f-3950-0326a138315d/screenshot_mac_9_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/c9/bd/d9c9bdca-af6d-f77a-c679-f14b6443310c/screenshot_mac_10_en.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FocusDots · Focus What Matters]]></title>
+        <id>FocusDots · Focus What Matters-tr-1749683597801</id>
+        <link href="https://apps.apple.com/tr/app/focusdots-focus-what-matters/id703265535?uo=4"/>
+        <updated>2025-06-11T23:13:17.801Z</updated>
+        <summary type="html"><![CDATA[Price: ₺99,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/focusdots-focus-what-matters/id703265535?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/5f/f2/5c5ff2c2-8aef-dd3e-4087-0b648e068bf3/AppIcon-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺99,99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ ₺99,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h2>Application Description</h2><p>
+  A Simple Time Management App That Will Increase Your Productivity
+
+Keeping yourself focused on tasks can be not easy sometimes. FocusDots is a beautifully designed timer to improve your focus on tasks and discard activity that can divert your attention. 
+
+FocusDots is a simple time management app with four easy steps:
+1) Decide on a single task to be done.
+2) Start FocusDots and work on the task until the timer finishes (25 minutes).
+3) Take a short break (5 minutes).
+4) After completing four Dots, go for a longer break (15 minutes)
+
+Features
+- Elegant minimalist design
+- Daily Summary
+- Beautiful crafted design themes
+- Quotes to inspire and motivate you
+- Custom timer duration for your tasks
+
+
+Thank you for choosing FocusDots! We sincerely appreciate your support and hope that our app helps you enhance your productivity and time management skills. If you have any feedback or suggestions, we'd love to hear from you!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ae/dc/11/aedc1144-2eef-15ea-1495-76d1a2123e42/605f621a-1356-4395-a207-4d7a89b41252_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/31/c0/1e/31c01e7d-ce13-4462-1b15-8fa0c6059220/f7f31807-7535-4adf-815b-1df9f22ef251_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b7/26/ef/b726ef21-9379-d51d-61e7-9bb9770c0dbd/53030e38-f263-4af6-b46e-4db04d0be2a6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ea/c3/62/eac36217-9aa5-14d9-907b-3a0c2e7101c0/d04f6a2a-3600-459b-b576-498596c451cd_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1a/d9/45/1ad94533-b97c-7709-646f-9dd0719089a0/07cdb4ab-2afd-40fb-a675-e5c471e3c756_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c7/a4/45/c7a44535-a303-dc89-aaa5-558d2578d794/8ba99bba-3eac-402c-bf73-47cfa316a305_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/de/a5/71/dea57135-90b8-4727-4d72-19360022855d/8992dc54-397b-4ecc-9e03-922d19608ff5_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ba/21/daba21fc-ab50-8cbe-41e5-f0ff6c5e807b/fc7d9f7e-5e40-4747-bea5-74c59e2a10d9_2.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FyTube - YouTube Without Ads]]></title>
