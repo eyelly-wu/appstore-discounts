@@ -20690,7 +20690,8 @@
       "Extra Large Money Pack": "$9.99",
       "Extra Large Tokens Pack": "$11.99",
       "Promo Bundle": "$24.99",
-      "Medium Money Pack": "$4.99"
+      "Medium Money Pack": "$4.99",
+      "Limited Time Offer": "$15.00"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -20707,9 +20708,25 @@
       "Extra Large Money Pack": "$7.99",
       "Extra Large Tokens Pack": "$11.99",
       "Promo Bundle": "$24.99",
-      "Medium Money Pack": "$4.99"
+      "Medium Money Pack": "$3.99",
+      "Limited Time Offer": "$15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749679922212,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Limited Time Offer": "$15.00",
+            "Extra Large Tokens Pack": "$11.99",
+            "Extra Large Money Pack": "$7.99",
+            "Promo Bundle": "$24.99",
+            "Starter Pack": "$2.99",
+            "Medium Money Pack": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747951345446,
