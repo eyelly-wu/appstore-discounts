@@ -24947,6 +24947,23 @@
     "history": [
       [
         {
+          "timestamp": 1749672783458,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Fistful of Gems": "₺229,99",
+            "Genius Big Deal Pack": "₺99,99",
+            "Boxer Big Deal Pack": "₺99,99",
+            "Promote Pack 3": "₺349,99",
+            "Buy 100 Gems": "₺39,99",
+            "Promote Pack 5": "₺699,99",
+            "Promote Pack 4": "₺449,99",
+            "Promote Pack 2": "₺229,99",
+            "Promote Pack 1": "₺129,99",
+            "Double backpack slots": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1749668999815,
           "price": 9.99,
           "formattedPrice": "₺9,99",
@@ -47494,6 +47511,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749672783458,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749099750373,
