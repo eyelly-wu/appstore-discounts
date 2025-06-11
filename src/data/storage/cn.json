@@ -410,7 +410,8 @@
       "Unlock All Tier 5": "¥1,698.00",
       "Unlock All Tier 7": "¥2,298.00",
       "Unlock All Tier 4": "¥1,298.00",
-      "Reference Files Module": "¥98.00"
+      "Reference Files Module": "¥98.00",
+      "IR Module": "¥328.00"
     },
     "minPriceInfo": {
       "price": 148,
@@ -435,9 +436,29 @@
       "Unlock All Tier 5": "¥1,698.00",
       "Unlock All Tier 7": "¥2,298.00",
       "Unlock All Tier 4": "¥1,298.00",
-      "Reference Files Module": "¥98.00"
+      "Reference Files Module": "¥98.00",
+      "IR Module": "¥328.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749636850577,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "¥58.00",
+            "ETC Module": "¥38.00",
+            "SoundScope VR": "¥168.00",
+            "Transfer Function": "¥328.00",
+            "Phase Meter": "¥58.00",
+            "IR Module": "¥328.00",
+            "LARSA": "¥198.00",
+            "SPL Graph Module": "¥68.00",
+            "Surround Generator": "¥298.00",
+            "Reference Files Module": "¥98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749431102053,
@@ -20297,6 +20318,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749636850577,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "炼金术士的坩埚": "¥30.00",
+            "一把宝石": "¥6.00",
+            "一袋宝石": "¥18.00",
+            "一堆宝石": "¥68.00",
+            "沉船中的宝匣": "¥198.00",
+            "精英卷轴": "¥68.00",
+            "矮人国王宝藏": "¥328.00",
+            "红龙的藏宝箱": "¥648.00",
+            "秘术沙漏": "¥68.00",
+            "混沌沙漏": "¥68.00"
+          }
+        },
         {
           "timestamp": 1749572152978,
           "price": 1,
