@@ -3997,29 +3997,20 @@
           "range": "[HK$ 8.00 ~ HK$ 148.00]"
         }
       ]
-    },
+    }
+  ],
+  "mo": [
     {
-      "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d8/82/80/d8828029-b4ad-d826-3477-2ef28fab831b/3fe518d5-97e2-47b7-9726-3f8537303757_1242x2208bb.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3c/7b/27/3c7b2770-1da5-973c-601d-5126a080086c/0d0f8b31-e3b8-415c-9298-731a9e04ba17_1242x2208bb__U00281_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/16/5c/3d165c74-7c41-79c9-cb89-fa61498a1765/84f61603-c557-47fb-a32c-50fe07aadb37_1242x2208bb__U00282_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5a/1e/57/5a1e5738-0143-f680-6c33-4e3a5bbe53b0/1bba7ce0-8a29-43be-a954-33623d955331_1242x2208bb__U00283_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/65/a3/c8/65a3c84c-03c4-6a2e-750b-52e8f7a75531/b29142cf-39ed-4921-a207-bac4de93715a_1242x2208bb__U00284_U0029.png/392x696bb.png"
+      "isGameCenterEnabled": true,
+      "features": [
+        "gameCenter",
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/40/30/67/403067b0-2cf8-17fb-8cf3-654f5f18947e/4097713c-e632-4cf1-b79d-cd1cd68bf79b_2048x2732bb.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/50/14/3e/50143e10-1086-9a17-0d37-37487a198792/2500cb7b-fab2-4690-b303-61a3d676c2d2_2048x2732bb__U00281_U0029.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/61/76/d3/6176d382-b6f0-a650-b081-d098e7864fa6/3ac1f178-06bd-4653-a6b9-b67e6ee45b12_2048x2732bb__U00282_U0029.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/80/de/85/80de85df-71f7-9c60-5c46-cd5eb42aff04/dd752b98-76af-49ad-98b2-58fc62bdf6d4_2048x2732bb__U00283_U0029.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/cc/b2/56/ccb25637-0099-a2c4-71a2-60f242eaf284/8ab99853-a1fc-4a7d-8bd7-97c8afc3d7a4_2048x2732bb__U00284_U0029.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/25/c4/e525c49e-ab0e-e37e-ed0a-5012404bc7d3/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/25/c4/e525c49e-ab0e-e37e-ed0a-5012404bc7d3/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/25/c4/e525c49e-ab0e-e37e-ed0a-5012404bc7d3/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/hk/developer/avalongames/id671601536?uo=4",
       "supportedDevices": [
+        "iPhone5-iPhone5",
+        "iPadFourthGen-iPadFourthGen",
+        "iPadFourthGen4G-iPadFourthGen4G",
+        "iPhone5c-iPhone5c",
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
         "iPadAirCellular-iPadAirCellular",
@@ -4135,90 +4126,133 @@
         "iPadAir13M3-iPadAir13M3",
         "iPadAir13M3Cellular-iPadAir13M3Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [
-        "偶爾/輕度的暴力卡通或幻想",
-        "偶爾/輕度的恐怖或驚嚇題材",
-        "偶爾/輕度的成人或性暗示題材",
-        "偶爾/輕度的粗俗用語或低俗幽默",
-        "偶爾/輕度的現實生活暴力"
+        "偶爾/輕度的暴力卡通或幻想"
       ],
       "kind": "software",
-      "minimumOsVersion": "10.0",
-      "sellerUrl": "https://www.facebook.com/greedycave/",
-      "averageUserRatingForCurrentVersion": 4.15385,
-      "averageUserRating": 4.15385,
-      "trackCensoredName": "貪婪洞窟：猿神降临",
+      "artistViewUrl": "https://apps.apple.com/mo/developer/ironhide-s-a/id558612918?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/91/53/de9153dd-653c-e8dc-51bc-6018cc35b50b/822f0b37-135c-4b09-9398-ecfee027d5b1_2208x1242_5-zh-tw.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/0f/d0/dd0fd04e-8132-604b-b171-95e06bb4d947/10a8a69e-f126-42a4-a714-b44639c71873_2208x1242_2-zh-tw.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/92/a0/c6/92a0c67a-5879-3d40-806c-ce89c194d219/f5d557b2-8b0a-4455-ad54-5875200b2c8d_2208x1242_4-zh-tw.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/28/e7/4d/28e74d1f-45e3-ed64-8c76-d4896da280d5/cde13322-d468-47e7-9177-ceb7896d6312_2208x1242_3-zh-tw.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/df/e2/a9dfe293-f633-6816-68ae-427757d3147b/86f5d183-59aa-4c95-a352-24ddaba7a56c_2208x1242_1-zh-tw.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/03/b0/4903b0aa-84e5-7831-74a9-ff27b26a4c36/zh-Hant_iPhone_04.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/1c/4c/1c1c4c91-6498-642b-bd28-e41b25c17cff/zh-Hant_iPhone_05.png/406x228bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0c/2b/0c/0c2b0cd6-35b7-eab2-3ab2-61fedd498c92/b176156c-a9ef-443c-bee6-bab7b3b4deec_2732x2048_5-zh-tw.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/b8/c7/87b8c771-def4-a791-0ac2-ce7eb6357da6/28f5abfd-8c06-4d7d-905d-cbcf17ab84b4_2732x2048_2-zh-tw.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d0/1d/19/d01d190e-fb08-b846-90f9-ea480098eb2a/08e24119-6757-4458-bf71-7240ac371ad1_2732x2048_4-zh-tw.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8b/6d/a1/8b6da151-ec81-d378-6819-fa6f22e35359/7a30a9d8-9199-46f9-a0cd-a4347dc443ee_2732x2048_3-zh-tw.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/d8/fc/c4d8fc7d-df71-7af4-0fff-aaf9e922332b/cb8b5eb0-e1a9-40c4-b17b-2996edfd9775_2732x2048_1-zh-tw.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d9/a2/98/d9a29891-b4aa-0bbc-b1b5-143d7b6275fe/63c64062-48e3-468a-b858-c6ac51462e29_2732x2048bb__U00281_U0029.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/31/a1/44/31a14474-cac1-e895-ec12-cb3b15330aae/47b0430f-a870-42ab-a94d-11fec7c5fa64_2732x2048bb.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "price": 2.99,
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "genreIds": [
+        "6014",
+        "7001",
+        "6016",
+        "7017"
+      ],
+      "trackId": 1056920931,
+      "trackName": "Iron Marines",
+      "bundleId": "com.ironhidegames.ironmarines",
+      "releaseDate": "2017-09-13T15:34:38Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ironhide S.A.",
+      "currentVersionReleaseDate": "2022-08-23T17:23:34Z",
+      "releaseNotes": "Fix stage rewards",
+      "version": "1.8.2",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "這是遊戲創作者繼獲獎作品Kingdom Rush（王國保衛戰）三部曲之後的又一超凡太空奇幻歷險之作。即時，動態以及深度策略的遊戲模式將帶你穿越到不可思議的未知星球。沉浸式擬真遊戲場景，過癮的遊戲玩法，以及超凡絕佳的藝術感和一絲詼諧幽默感帶你進入激烈的戰爭世界。勇猛的士兵，威猛的機甲人和強大的外星人通通等你來統率，並肩迎接最強挑戰。\n\n招募和訓練銀河系中最偉大的英雄，率領他們參與幾乎不可能完成的危險任務，發動他們強大的力量和能力。即使是在戰鬥最激烈的時候你也可通過改變自己部隊的角色而進行戰略調整，突擊隊員調整為狙擊兵，火焰噴射器調整為導彈發射器。通過炸彈襲擊，智能地雷，支援部隊，砲塔和各種特種武器轉變戰鬥態勢。\n\n機器人軍隊整裝待發;星際戰艦墜毀了;到處是巨大怪物，未知的種族;所向披靡的攻擊;絕望的營救;無所畏懼地破壞行動正在銀河之中發生......銀河系需要你的統領。\n\n銀河系需要鋼鐵戰隊\n\n遊戲特色\n\n指导你的部队参加3个不同世界的21次任务。準備好發動英勇的攻擊，堅守陣地，拯救平民，潛入超級計算機和各種英雄的物品。每個任務需要新的戰術和行動才能取得勝利。\n\n通過17次終結式特別行動的戰術規則測試你的機智。每個關卡通過傷痕銘記挑戰。諒你也不敢。\n\n解鎖不可能模式。僅對大無畏敢死隊開放。諒你絕對不敢。\n\n在史詩戰鬥中擊敗巨大而非凡的頭目。這些頭目卑鄙而異常地巨大，他們決心要將你碾碎。鋼鐵戰隊，整裝待發！\n\n40+升級以提升你的戰略，同時授予你的部隊防禦無人機，凝固汽油彈火箭，反彈爆炸和更多的器械可使用。\n\n14位具有出色能力的英雄聽從你的調遣。將他們訓練到極致出色，否則惹惱他們後果自負。\n\n8種可向敵人發動進攻的特種武器，讓你的戰術更加具有深度。還有什麼比得上一個瞄準了的導彈？對50枚高爆炸炸彈的軌道炮襲擊！\n\n完成70+成就中的任何成就，贏得你應得的獎勵\n\n選擇你的遊戲困難模式，找到屬於你的公平挑戰：休閒，普通或老兵別太狂妄了要么狂妄一點你自己決定！！",
+      "averageUserRating": 4.89189,
+      "trackCensoredName": "Iron Marines",
+      "trackViewUrl": "https://apps.apple.com/mo/app/iron-marines/id1056920931?uo=4",
+      "contentAdvisoryRating": "9+",
+      "sellerUrl": "http://ironmarines.com",
+      "averageUserRatingForCurrentVersion": 4.89189,
       "languageCodesISO2A": [
         "EN",
-        "DE",
         "JA",
         "KO",
         "RU",
         "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "405064704",
-      "formattedPrice": "HK$ 8.00",
-      "contentAdvisoryRating": "12+",
-      "userRatingCountForCurrentVersion": 182,
-      "trackViewUrl": "https://apps.apple.com/hk/app/%E8%B2%AA%E5%A9%AA%E6%B4%9E%E7%AA%9F-%E7%8C%BF%E7%A5%9E%E9%99%8D%E4%B8%B4/id1028950091?uo=4",
-      "trackContentRating": "12+",
-      "artistId": 671601536,
-      "artistName": "AvalonGames",
+      "fileSizeBytes": "1224199168",
+      "formattedPrice": "USD 2.99",
+      "userRatingCountForCurrentVersion": 37,
+      "trackContentRating": "9+",
+      "minimumOsVersion": "10.0",
       "genres": [
         "遊戲",
-        "角色扮演",
+        "動作",
         "娛樂",
-        "冒險"
+        "策略"
       ],
-      "price": 8,
-      "bundleId": "com.avalon.cave",
-      "genreIds": [
-        "6014",
-        "7014",
-        "6016",
-        "7002"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Games",
-      "primaryGenreId": 6014,
-      "trackId": 1028950091,
-      "trackName": "貪婪洞窟：猿神降临",
-      "releaseDate": "2016-01-31T21:11:03Z",
-      "sellerName": "AvalonGames",
-      "currentVersionReleaseDate": "2024-12-19T16:03:42Z",
-      "releaseNotes": "性能優化。\n新增英雄【猿神】悟空",
-      "version": "4.1.13",
-      "wrapperType": "software",
-      "currency": "HKD",
-      "description": "《貪婪洞窟》全新英雄[猿神]悟空出世，獨特雙符文圖紙效果，掃平洞窟一切妖魔鬼怪。\n\n【簡介】\n《貪婪洞窟》是一款地牢探險Roguelike手游。遊戲整體畫風神秘而詭異，共有4種不同難度，400層隨機地形迷宮，60多種不同的怪物和BOSS，300多件隨機屬性的可收集裝備， 20000+字的線索式劇情。還有更多獨特有趣的玩法等你發現！\n\n【遊戲背景】\n在崇尚刀劍與魔法的彌爾頓大陸，一名冒險者在廢棄多年的礦坑中發現了大量的金子和財寶，一夜之間他收穫了從未想像的財富和名聲。\n消息隨著北風迅速吹遍了整個大陸，各地的人蜂擁至此地卻又心懷鬼胎。\n你，芸芸眾生中的一個普通年輕人，也帶著旁人看不透的目的，來到了這個地方……\n\n【遊戲特色】\n-探索隨機洞窟\n你永遠不知道下一層洞窟會有什麼——寶藏、迷霧、陷阱、密室？還是強大首領？遊戲中充滿了不確定性，玩家只有依靠自己的計謀與膽量，才能以最小的犧牲換取最大的收穫。\n\n-找尋捲軸 及時逃脫\n逃脫捲軸是你離開洞窟唯一的物品，請務必盡快找到它！因為在洞窟內死亡後你將一無所獲——所有辛苦打怪升級的經驗、守財奴般積攢的金幣、讓你欣喜若狂的頂級寶物都將伴隨你的死亡埋葬。\n\n-寶箱遍地也暗藏殺機\n在洞窟中有許多奇珍異寶等你發現，密室寶藏更不能錯過。但是要小心那些看守寶藏的怪物，它們可是等著你上鉤呢！甚至還有偽裝成寶箱的怪物，讓你防不勝防！\n\n-角色養成 裝備收集\n在洞窟中消滅怪物能提升角色等級，合理分配屬性點與技能點將讓你更加從容面對洞窟的危險；升級、改造、附魔、點金你的裝備，以面對更具難度的探險，甚至挑戰邪惡首領，解開埋藏在洞窟的無盡秘密！\n\n-寵物相伴 一起冒險\n全新上線寵物系統，冒險之旅不再孤獨！在冒險的旅途中，你將會在不同的際遇下，遇上這些寵物。它們各具特色，也有專屬自己的獨特能力，帶上它們一起去冒險吧！",
-      "userRatingCount": 182,
+      "artistId": 558612918,
+      "artistName": "Ironhide S.A.",
+      "userRatingCount": 37,
       "inAppPurchases": {
-        "[小堆水晶]": "HK$ 8.00",
-        "[小盒水晶]": "HK$ 22.00",
-        "[小袋水晶]": "HK$ 32.00",
-        "[大袋水晶]": "HK$ 88.00",
-        "[大箱水晶]": "HK$ 388.00",
-        "[小箱水晶]": "HK$ 148.00",
-        "貪婪洞窟點券": "HK$ 32.00",
-        "Package4": "HK$ 88.00"
+        "英雄超能博士": "USD 2.99",
+        "英雄藍色飛龍": "USD 4.99",
+        "英雄虛空獵手": "USD 2.99",
+        "英雄風刃": "USD 0.99",
+        "英雄司珀羅": "USD 2.99",
+        "英雄羅爺": "USD 0.99",
+        "英雄鐵甲馬克": "USD 4.99",
+        "英雄命運女俠": "USD 0.99",
+        "英雄達爾文": "USD 0.99",
+        "英雄自由獵人": "USD 2.99"
       },
-      "timestamp": 1749363570416,
+      "timestamp": 1749622742098,
       "discounts": [
         {
           "type": "inAppPurchase",
-          "name": "貪婪洞窟點券",
-          "from": "HK$ 88.00",
-          "to": "HK$ 32.00",
-          "range": "[HK$ 8.00 ~ HK$ 148.00]"
+          "name": "英雄超能博士",
+          "from": "USD 4.99",
+          "to": "USD 2.99",
+          "range": "[USD 2.99 ~ USD 4.99]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "英雄藍色飛龍",
+          "from": "USD 6.99",
+          "to": "USD 4.99",
+          "range": "[USD 4.99 ~ USD 6.99]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "英雄羅爺",
+          "from": "USD 2.99",
+          "to": "USD 0.99",
+          "range": "[USD 0.99 ~ USD 2.99]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "英雄鐵甲馬克",
+          "from": "USD 6.99",
+          "to": "USD 4.99",
+          "range": "[USD 4.99 ~ USD 6.99]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "英雄自由獵人",
+          "from": "USD 4.99",
+          "to": "USD 2.99",
+          "range": "[USD 2.99 ~ USD 4.99]"
         }
       ]
-    }
-  ],
-  "mo": [
+    },
     {
       "features": [
         "gameCenter",
@@ -11835,28 +11869,33 @@
           "range": "[Free ~ $9.99]"
         }
       ]
-    },
+    }
+  ],
+  "tr": [
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/79/7b/26797b55-20be-e38f-039b-a09662947318/6e0c7c45-23d6-47e0-b6de-943dad34902d__U753b_U677f.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/48/49/8c4849c1-4e0a-2993-2536-f3925866054f/d329f8a7-698c-4a28-9747-3c9d713b0d8b__U753b_U677f_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/66/53/e8665383-c55a-1428-6eba-045565252037/3400cbc1-ba7d-4dd9-9942-0be1d2e0dfc4__U753b_U677f_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/2b/95/f92b9567-5e94-71c6-6d07-61618cf4d943/cd33096b-6a13-4ada-8f04-57dafce61611__U753b_U677f_5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/cd/75/3fcd7569-bd4a-efc0-dda0-ce84b86187f4/fc649eb8-aa80-4710-b1d4-df6537d05d35__U753b_U677f_4.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/f4/20/87f420a9-602e-5e5e-3f4e-1f985f420b34/130da694-cb89-4fd8-bc60-6858298db544_Group_6.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/3a/72/cf3a7271-e946-ecaa-d86c-84c3632a5bac/1c0bd52f-658c-43a3-aff7-4531958bdc65_Group_3.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/d1/c6/9bd1c618-b331-6aad-aeb1-2487ddde14cd/0601c076-7cd7-4d48-a2bf-524300bbf888_Group_4.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/0f/b3/cc0fb3e3-85fd-c422-bc0e-d9ab4faac151/9313222c-9639-4eec-bc2e-2affb487362f_Group_5.png/576x768bb.png"
-      ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/a9/42/2ea942a6-20a9-ac8f-c3ac-43141a4bd5d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/2f/73/572f736e-01bb-0350-e01e-10b27a29daba/4e65f90a-f4f0-4984-bbea-eeb6ce7e79ff_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/1d/a8/721da87c-9e9b-5067-e090-da14770902f9/2ba5b27d-6e12-4261-806f-58f728470a3b_4.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/45/59/c24559c0-b7c9-731f-9b2c-29896c7d69eb/65f7b50f-874c-4a56-abcc-5dfefea7987b_FeatureImage.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/53/75/a75375f0-e5cc-2099-11ca-e249ac80a1b3/9e80e2a6-d3b2-4dc2-a736-79fb54c6bd36_2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/f7/5d/81f75d80-f417-4fe8-0d65-2c6af7ba98e8/41706b87-c615-448c-9c52-b018dd10d18d_3.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/e4/1b/a7e41bad-5ca9-c26f-8e9d-0b64e44fb512/22fcca1c-f9eb-4301-8497-0ad43f5bb621_5.png/552x414bb.png"
+      ],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/8a/93/788a93e8-0611-e8a4-a8bb-127ea1ca7cd3/70b8f36f-46ad-4f55-bb44-26b1e1d42d90_1.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/0c/0f/df0c0f1b-b800-355e-e534-877d19d3ad6e/197b9078-d617-4bf1-ae75-a32666c0e221_2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/36/84/da36845b-602b-4129-904b-4819e9a79cde/acae3ebf-4877-4010-b0c6-c5d2fa892453_FeaturingImage.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/7b/38/d17b387b-b95d-8fd1-de10-4b4a8534eceb/5dc173a9-d936-4bec-b601-fb16eab3942c_3.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/1c/c1/c01cc19a-ac47-a7a7-67ad-81d5020e0e1e/6f8fa231-827b-43d7-a412-284fba943dae_4.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/9a/e0/489ae001-4876-7503-4d52-09a484de1ee3/b12a712a-9dda-4bc2-a642-3d15ccc0163f_5.png/406x228bb.png"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": true,
       "features": [
+        "gameCenter",
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -11973,64 +12012,85 @@
         "iPadAir13M3-iPadAir13M3",
         "iPadAir13M3Cellular-iPadAir13M3Cellular"
       ],
+      "advisories": [
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Profanity or Crude Humour",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+      ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/%E5%A3%AB%E9%AD%81-%E5%86%AF/id1448202398?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/a9/42/2ea942a6-20a9-ac8f-c3ac-43141a4bd5d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/a9/42/2ea942a6-20a9-ac8f-c3ac-43141a4bd5d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 5,
-      "fileSizeBytes": "28949504",
-      "sellerUrl": "https://www.yuque.com/woshixiongda/vdwyc2/gpyq6twirk1u9w2u",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 4,
-      "trackContentRating": "4+",
+      "artistViewUrl": "https://apps.apple.com/tr/developer/playsport-games-ltd/id663406869?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "PT",
+        "ES"
       ],
-      "artistId": 1448202398,
-      "artistName": "士魁 冯",
+      "fileSizeBytes": "510243840",
+      "averageUserRatingForCurrentVersion": 4.22222,
+      "formattedPrice": "₺229,99",
+      "userRatingCountForCurrentVersion": 9,
+      "trackContentRating": "12+",
+      "artistId": 663406869,
+      "artistName": "Playsport Games Ltd",
       "genres": [
-        "Reference",
-        "Utilities"
+        "Games",
+        "Sports",
+        "Sports",
+        "Racing"
       ],
-      "price": 0,
-      "bundleId": "top.tlien.OnePage",
-      "genreIds": [
-        "6006",
-        "6002"
-      ],
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
+      "price": 229.99,
+      "bundleId": "com.playsportgames.mmm2023",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "releaseDate": "2023-09-13T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "士魁 冯",
-      "trackId": 6447693393,
-      "trackName": "灵感卡片 - 创意笔记",
-      "releaseDate": "2023-04-15T07:00:00Z",
-      "currentVersionReleaseDate": "2025-06-07T13:26:12Z",
-      "releaseNotes": "1. 支持语音笔记\n2. 支持关闭震动反馈\n3. 深夜优化，呵护眼睛\n4. 默认标签设置\n5. 自定义标签排序\n6. 自定义笔记排序\n7. 自定义图片排序",
-      "version": "2.618",
+      "trackId": 6449251957,
+      "trackName": "Motorsport Manager 4",
+      "sellerName": "Playsport Games Ltd",
+      "currentVersionReleaseDate": "2024-10-21T10:16:31Z",
+      "releaseNotes": "Fixed issue with Researched and Developed achievement not always being rewarded.",
+      "version": "2024.1.2",
       "wrapperType": "software",
-      "currency": "USD",
-      "description": "灵感卡片——让创意随行，捕捉您生活中的每个灵感瞬间。\n\n这款简约实用的笔记应用，专为帮助您高效记录、整理和管理灵感而设计。无论您是在工作学习中，还是在日常生活中，小灵感都能成为您的得力助手。\n\n一次下载，终身免费试用。\n\n主要功能：\n\n灵活笔记：轻松创建、编辑和整理笔记，支持添加标签、排序和多种显示方式（单列、双列、三列）。\n语音笔记：碎碎念的福音。\n笔记关联：让有趣的笔记在一起。\n极简主题：提供多种极简主题，让您的笔记更美观大方，呈现出最佳阅读效果。\n笔记置顶与分享：随时查看重要信息，将笔记置顶，一键分享至社交平台与好友共享创意。\n字体调整：自由调整字体大小，适应不同阅读需求，提高阅读舒适度。\n支持check list：流畅的原生交互体验\n跨平台支持：\n小灵感支持多平台（手机、平板等），后续提供实时云同步功能，确保您的笔记数据安全，随时随地访问。\n\n快来下载灵感卡片，让创意随行，一起探索无限可能！\n\n隐私条款：https://www.yuque.com/woshixiongda/vdwyc2/gpyq6twirk1u9w2u",
-      "minimumOsVersion": "15.6",
-      "trackCensoredName": "灵感卡片 - 创意笔记",
-      "trackViewUrl": "https://apps.apple.com/us/app/%E7%81%B5%E6%84%9F%E5%8D%A1%E7%89%87-%E5%88%9B%E6%84%8F%E7%AC%94%E8%AE%B0/id6447693393?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
-      "userRatingCount": 4,
-      "inAppPurchases": {},
-      "timestamp": 1749363570416,
+      "currency": "TRY",
+      "description": "MOTORSPORT MANAGER 4: MASTER RACE STRATEGY\n\nBUILD YOUR RACING DYNASTY\nImmerse yourself in the captivating journey of constructing your motorsport empire from the ground up, where every choice holds the key to your success.\n\nASSEMBLE YOUR DREAM TEAM\nHand-pick exceptional drivers and engineer a world-class racing powerhouse. Collaborate closely with drivers to secure pole positions and craft pitstop strategies that lead to race domination.\n\nREAL-TIME STRATEGY UNFOLDS\nExperience the adrenaline-pumping action of races in real-time or navigate through intricate strategy screens. Swiftly adapt to ever-changing weather, unexpected crashes, and the emergence of safety cars.\n\nUNLEASH VARIETY ON THE TRACK\nEmbark on thrilling GT and Endurance racing adventures across six distinct championships. Immerse yourself in the iconic beauty of Monaco's settings, rendered in breathtaking artistry.\n\nDRIVERS TAKE CENTER STAGE\nStep into the shoes of promising new drivers, delve into their statistics, and cultivate pivotal relationships. Navigate the revamped HQ, seize upgrade opportunities, and master the new part development system for an immersive journey.\n\nYOUR JOURNEY, YOUR CHALLENGE\nEmbark on a motorsport odyssey where every choice shapes your destiny. Witness dynamic AI team movements and adjust the difficulty level as the game evolves with you.\n\nSEIZE CONTROL, MAKE HISTORY\nIt's your opportunity to rewrite the annals of racing lore and etch your name into the history of motorsport. Motorsport Manager 4 empowers you like never before.",
+      "trackCensoredName": "Motorsport Manager 4",
+      "trackViewUrl": "https://apps.apple.com/tr/app/motorsport-manager-4/id6449251957?uo=4",
+      "contentAdvisoryRating": "12+",
+      "minimumOsVersion": "13.0",
+      "averageUserRating": 4.22222,
+      "genreIds": [
+        "6014",
+        "6004",
+        "7016",
+        "7013"
+      ],
+      "userRatingCount": 9,
+      "inAppPurchases": {
+        "Bundle": "₺229,99",
+        "Pre registration bundle": "₺249,99",
+        "Premium livery bundle": "₺249,99",
+        "Game Editor": "₺249,99",
+        "Very Large Investment": "₺129,99",
+        "Large Investment": "₺129,99",
+        "Huge Investment": "₺229,99",
+        "Investment": "₺99,99",
+        "Chairman's Payment": "₺249,99"
+      },
+      "timestamp": 1749622742098,
       "discounts": [
         {
-          "type": "price",
-          "name": "Price",
-          "from": "$0.99",
-          "to": "Free",
-          "range": "[Free ~ $0.99]"
+          "type": "inAppPurchase",
+          "name": "Bundle",
+          "from": "₺449,99",
+          "to": "₺229,99",
+          "range": "[₺229,99 ~ ₺449,99]"
         }
       ]
-    }
-  ],
-  "tr": [
+    },
     {
       "isGameCenterEnabled": true,
       "features": [
