@@ -1882,7 +1882,16 @@
       "Chopin: The Mutopia Collection": "USD 0.99",
       "Gottschalk: The Mutopia Collection": "USD 0.00",
       "Händel: The Mutopia Collection": "USD 0.00",
-      "Joplin: The Mutopia Collection": "USD 0.99"
+      "Joplin: The Mutopia Collection": "USD 0.99",
+      "forScore Pro + 家人共享": "USD 24.99",
+      "forScore Pro 30-Day Pass": "USD 2.99",
+      "Haydn: String Quartets": "USD 1.99",
+      "Christmas Carol Collection": "USD 1.99",
+      "Bach: Cello Suites": "USD 1.99",
+      "Vivaldi: The Four Seasons": "USD 1.99",
+      "Mozart: Twelve Duets": "USD 1.99",
+      "The Mutopia Piano Collection": "USD 4.99",
+      "Voluntary Upgrade": "USD 7.99"
     },
     "minPriceInfo": {
       "price": 24.99,
@@ -1902,9 +1911,37 @@
       "Chopin: The Mutopia Collection": "USD 0.99",
       "Gottschalk: The Mutopia Collection": "USD 0.00",
       "Händel: The Mutopia Collection": "USD 0.00",
-      "Joplin: The Mutopia Collection": "USD 0.99"
+      "Joplin: The Mutopia Collection": "USD 0.99",
+      "forScore Pro + 家人共享": "USD 24.99",
+      "forScore Pro 30-Day Pass": "USD 2.99",
+      "Haydn: String Quartets": "USD 1.99",
+      "Christmas Carol Collection": "USD 1.99",
+      "Bach: Cello Suites": "USD 1.99",
+      "Vivaldi: The Four Seasons": "USD 1.99",
+      "Mozart: Twelve Duets": "USD 1.99",
+      "The Mutopia Piano Collection": "USD 4.99",
+      "Voluntary Upgrade": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749644729428,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {
+            "forScore Pro + 家人共享": "USD 24.99",
+            "forScore Pro 30-Day Pass": "USD 2.99",
+            "Haydn: String Quartets": "USD 1.99",
+            "Christmas Carol Collection": "USD 1.99",
+            "Bach: Cello Suites": "USD 1.99",
+            "Vivaldi: The Four Seasons": "USD 1.99",
+            "Mozart: Twelve Duets": "USD 1.99",
+            "The Mutopia Piano Collection": "USD 4.99",
+            "forScore Pro": "USD 14.99",
+            "Voluntary Upgrade": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748642527162,
@@ -2127,6 +2164,25 @@
       "基础会员12个月（活动）": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749644729428,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "空间会员·365G-3年（活动）": "USD 79.99",
+            "空间会员·365G-1年（活动）": "USD 39.99",
+            "专业会员·无限版-1个月（活动）": "USD 14.99",
+            "专业会员·无限版-12个月（活动）": "USD 149.99",
+            "专业会员·10人版-12个月（活动）": "USD 79.99",
+            "专业会员·10人版-1个月（活动）": "USD 7.99",
+            "专业会员·5人版-1个月（活动）": "USD 4.99",
+            "专业会员·5人版-12个月（活动）": "USD 49.99",
+            "基础会员1个月（活动）": "USD 1.99",
+            "基础会员12个月（活动）": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749439044822,
@@ -15637,6 +15693,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749644729428,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "USD 2.79",
+            "1 Mo. Fongo Plus": "USD 9.99",
+            "1 Mo. Global Texting": "USD 3.99",
+            "3 Mo. CAN Texting": "USD 5.49",
+            "12 Mo. Fongo Ultimate": "USD 99.99",
+            "3 Mo. Fongo Ultimate": "USD 29.99",
+            "6 Mo. Fongo Ultimate": "USD 54.99",
+            "1 Mo. Fongo Ultimate": "USD 12.99",
+            "12 Mo. Remove Ads": "USD 16.99",
+            "6 Mo. Remove Ads": "USD 9.99"
+          }
+        },
         {
           "timestamp": 1749640289997,
           "price": 4.99,
@@ -38486,6 +38559,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749644729428,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Theme Collection": "USD 19.99",
+            "Explorer Pack": "USD 10.99",
+            "The Complete Collection": "USD 34.99",
+            "City Break": "USD 1.99",
+            "Victorian London Board": "USD 5.99",
+            "Welcome Offer": "USD 19.99",
+            "New York 2121 Board": "USD 5.99",
+            "Orient Express": "USD 2.99"
+          }
+        },
         {
           "timestamp": 1749640289997,
           "price": 4.99,
