@@ -13920,7 +13920,13 @@
       "700 Aces Limited Time Offer": "₺229,99",
       "Racing Prodigy X30 La Conca L4": "₺699,99",
       "Racing Prodigy X30 Atlanta": "₺699,99",
-      "Racing Prodigy X30 Kart Dubai": "₺699,99"
+      "Racing Prodigy X30 Kart Dubai": "₺699,99",
+      "Racing Prodigy X30 B. Vegas": "₺699,99",
+      "10 Pack Qualifying Tyres": "₺39,99",
+      "Figo 100 Octane Fuel Pack - 20": "₺179,99",
+      "Le Cont Hards - 40 Tyre Pack": "₺179,99",
+      "Le Cont Mediums - 40 Tyre Pack": "₺179,99",
+      "Le Cont Softs - 40 Tyres Pack": "₺179,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -13934,9 +13940,34 @@
       "700 Aces Limited Time Offer": "₺229,99",
       "Racing Prodigy X30 La Conca L4": "₺699,99",
       "Racing Prodigy X30 Atlanta": "₺699,99",
-      "Racing Prodigy X30 Kart Dubai": "₺699,99"
+      "Racing Prodigy X30 Kart Dubai": "₺699,99",
+      "Racing Prodigy X30 B. Vegas": "₺699,99",
+      "10 Pack Qualifying Tyres": "₺39,99",
+      "Figo 100 Octane Fuel Pack - 20": "₺179,99",
+      "Le Cont Hards - 40 Tyre Pack": "₺179,99",
+      "Le Cont Mediums - 40 Tyre Pack": "₺179,99",
+      "Le Cont Softs - 40 Tyres Pack": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749762726384,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "₺699,99",
+            "Racing Prodigy X30 Atlanta": "₺699,99",
+            "Racing Prodigy X30 Kart Dubai": "₺699,99",
+            "Racing Prodigy X30 B. Vegas": "₺699,99",
+            "Racing Prodigy 50 Quali Tyres": "₺229,99",
+            "10 Pack Qualifying Tyres": "₺39,99",
+            "Figo 100 Octane Fuel Pack - 20": "₺179,99",
+            "Le Cont Hards - 40 Tyre Pack": "₺179,99",
+            "Le Cont Mediums - 40 Tyre Pack": "₺179,99",
+            "Le Cont Softs - 40 Tyres Pack": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747483401154,
@@ -37877,7 +37908,8 @@
       "The Werewolf": "₺129,99",
       "Forest Hike": "₺99,99",
       "Paris, La Belle Epoque Board": "₺249,99",
-      "The Unicorn": "₺129,99"
+      "The Unicorn": "₺129,99",
+      "Speed Die": "₺229,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -37931,9 +37963,25 @@
       "The Werewolf": "₺129,99",
       "Forest Hike": "₺99,99",
       "Paris, La Belle Epoque Board": "₺249,99",
-      "The Unicorn": "₺129,99"
+      "The Unicorn": "₺129,99",
+      "Speed Die": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749762726384,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Speed Die": "₺229,99",
+            "Fantasy Beach Bundle": "₺499,99",
+            "Starseeker Token": "₺449,99",
+            "Enchanted Forest Marine Bundle": "₺499,99",
+            "LA Monstropolis Marine Bundle": "₺499,99",
+            "The Rainbow Bundle": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749759261922,
@@ -41042,6 +41090,25 @@
       "Super Hero World": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749762726384,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {
+            "The Ultimate Life Collection": "₺899,99",
+            "Mothgirl Outfit": "₺39,99",
+            "Tunneler Ship": "₺39,99",
+            "Foxman Bike": "₺39,99",
+            "Action Car Avatar": "₺39,99",
+            "Super Pet Avatar": "₺39,99",
+            "Magical Girl Outfit": "₺39,99",
+            "Skyscraper Avatar": "₺39,99",
+            "Foxman Outfit": "₺39,99",
+            "Super Hero World Bundle": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749759261922,

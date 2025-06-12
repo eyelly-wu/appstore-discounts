@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-12T17:33:06.264Z</updated>
+    <updated>2025-06-12T21:34:09.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T17:33:06.264Z</updated>
+        <updated>2025-06-12T21:34:09.032Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrThu, 12 Jun 2025 17:33:06 GMT</id>
+        <id>rankingtrThu, 12 Jun 2025 21:34:09 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T17:33:06.264Z</updated>
+        <updated>2025-06-12T21:34:09.032Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -117,6 +117,29 @@ feedId:99063474310237184+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>The Ultimate Life Collection</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
       </td>
       <td>
@@ -137,7 +160,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6739975257">TuneShift</a>
@@ -160,7 +183,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id904278510">Hitman Sniper</a>
@@ -183,7 +206,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id918609651">Money Pro: Personal Finance AR</a>
@@ -206,7 +229,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1028950091">The Greedy Cave</a>
@@ -229,7 +252,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439187947">Rebel Inc.</a>
@@ -244,29 +267,6 @@ feedId:99063474310237184+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Command Pack</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>8</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>The Ultimate Life Collection</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -1059,6 +1059,97 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Game of Life 2]]></title>
+        <id>The Game of Life 2-tr-1749762726384</id>
+        <link href="https://apps.apple.com/tr/app/the-game-of-life-2/id1512751689?uo=4"/>
+        <updated>2025-06-12T21:12:06.384Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Life Collection: ₺1.299,99 → ₺899,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/the-game-of-life-2/id1512751689?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/5e/71/ad5e71f4-563c-53be-8c4a-46eb591446e7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>The Ultimate Life Collection：</strong><span>₺1.299,99</span> → <b>
+  <strong>₺899,99</strong>
+</b><span>[₺899,99 ~ ₺1.299,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺79,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    The Ultimate Life Collection：<b>₺899,99</b>
+  </li><li>
+    Mothgirl Outfit：<b>₺39,99</b>
+  </li><li>
+    Tunneler Ship：<b>₺39,99</b>
+  </li><li>
+    Foxman Bike：<b>₺39,99</b>
+  </li><li>
+    Action Car Avatar：<b>₺39,99</b>
+  </li><li>
+    Super Pet Avatar：<b>₺39,99</b>
+  </li><li>
+    Magical Girl Outfit：<b>₺39,99</b>
+  </li><li>
+    Skyscraper Avatar：<b>₺39,99</b>
+  </li><li>
+    Foxman Outfit：<b>₺39,99</b>
+  </li><li>
+    Super Hero World Bundle：<b>₺249,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Live 1000 lives in the official sequel to the classic family board game, The Game of Life! Will you be a Video Blogger or an Astronomer? Play now!
+
+Voted "Best Digital Board Game” in the Pocket Gamer Awards 2021
+Played by over 50 Million Families Worldwide
+
+Customise your peg, hop in your eco car and race your friends and family through The Game of Life 2! It’s a contemporary sequel to the classic family favourite board game, The Game of Life. With an added crossroad moment and new ways to win, what will you choose? Earn points for Knowledge and Happiness as well as Wealth. Go to College, or don’t. Get married early, save it for later, or stay single! Have kids, adopt pets, do both or neither. The choices are all yours, and every decision counts!
+
+Features
+
+The Game of Life 2 digital board game is the award-winning sequel to the original Hasbro board game, The Game of Life.
+• A GAME FOR UP 4 PLAYERS - Join 3 of your favourite people and live your dreams
+• *NEW*  VIDEO CHAT AND PLAY - Live every life face-to-face with in-game video chat
+• AN AD-FREE GAME - Enjoy the complete game with no interruptions
+• 6 TRANSLATIONS - English, French, Spanish, German, Italian and Brazilian Portuguese
+• SINGLE PLAYER - Take on our challenging AI
+• ONLINE MULTIPLAYER - Connect with fans, or invite friends and family to a private game
+• PASS & PLAY - No internet? No problem! Pass a single device between players for a wifi-free experience
+
+How to play
+
+CUSTOMISE your character
+Customise your pink, blue or newly available purple peg with a style all of your own.
+
+SPIN THE SPINNER
+The game starts with a big decision. Will you go to College or straight into work? In this classic simulation, what will your friends and family choose?
+
+It’s your LIFE PATH
+Get married or don’t, have kids, adopt pets, or both! Work as a Pet Groomer, then qualify and become a Wind Turbine Technician! The choices are yours!
+
+More WAYS TO WIN
+Earn points for every choice you make! Every choice increases your wealth, happiness or knowledge, so every decision is valid.
+
+RETIRE your way
+Continue living the life of your dreams! Relax in a luxury home, or hit the road and fulfil your bucket list! Unlike the classic board game, you can choose to venture on!
+
+Earn REWARDS to UNLOCK new items
+Unlock new pegs, outfits and vehicles by playing the game and earning rewards!
+
+In-game Video Chat
+Recreate the magic! Gather around the board with in-game video chat in Online Multiplayer Mode. It’s super easy to set-up and play:
+
+• Create your free private account
+• Invite your friends and family to chat groups
+• Start games straight from those chats
+• Play face-to-face wherever you are
+
+It’s simple, seamless fun for everyone.
+
+The Ultimate Life Collection
+Venture into a collection of 10 amazing fantasy worlds. Live life in enchanted worlds, make friends with dinosaurs in the Age of Giants and launch into the futuristic Lunar Age! Every new world features new Outfits, Vehicles, Jobs, Properties and more!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/23/0e/87230e1e-d18c-5054-7dbe-57b3c4e01a97/1de387bc-6eb0-4af5-bc54-a28878cee462_gol2_screenshots_SW_2208x1242_01_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/29/80/5729807f-83a8-1e87-0adc-2028260b4235/fe0dfded-af7f-4eab-b26e-34d9e7a9fc50_gol2_screenshots_SW_2208x1242_02_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/4a/52/c54a5291-78c9-b2d3-ac2e-b7cd6db65b1c/67495bfc-d632-4d72-a6ac-085062e1c35a_gol2_screenshots_SW_2208x1242_03_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d1/eb/bcd1eba1-e67a-bba4-70c2-70de69fec3cf/6828e707-065e-4f85-a11d-94f8988a29c6_gol2_screenshots_SW_2208x1242_04_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4d/21/c74d21ac-18ed-abb9-3bbc-c8b7cfa85382/b0d3d0e1-6901-4362-b9d0-c3016fd9a1ad_gol2_screenshots_SW_2208x1242_05_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/4c/80/104c8096-f93b-1aa5-6819-23efc8bf51d3/24ea73c2-3440-4cd0-88c7-995445ca99f0_gol2_screenshots_SW_2208x1242_06_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/6a/9c/fa6a9c46-76c9-e384-56a5-b9eefd1cff7b/0823ae56-91aa-4979-b4c2-c13d249d8888_gol2_screenshots_SW_2208x1242_07_eng.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/82/11/9982114e-e738-9e6c-63ce-0477a4eebbf6/6f1d8610-9c32-4268-ae47-c764107448e9_gol2_screenshots_SW_2732x2048_01_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/ff/c0/91ffc08d-7958-a446-9f44-26f416b050fb/1295fc37-e50b-4a02-8899-e77348cc91ea_gol2_screenshots_SW_2732x2048_02_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/3a/7d/783a7de9-c132-15c1-cd74-d2f41117c6a9/c45ff9b9-9b3b-4e84-993c-0c55e508121b_gol2_screenshots_SW_2732x2048_03_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/10/29/991029b6-95f1-9c26-2c3c-dd4661721835/d139892c-887b-485c-a583-3af0a40ad0e4_gol2_screenshots_SW_2732x2048_04_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/9d/56/469d56b1-d72f-7359-082d-2644417ef5ee/9b7b7733-7c55-4f62-a16c-5f9a029246df_gol2_screenshots_SW_2732x2048_05_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/2f/68/172f681a-4a73-ee62-74d0-f5c06a9740e5/8432a777-6cf2-465c-9eab-17885ecdc67b_gol2_screenshots_SW_2732x2048_06_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/93/3a/72933a8a-c305-0721-f33e-617db7ae4f4e/1c6e6487-8117-4d27-8ff2-ef4cbef4b6a6_gol2_screenshots_SW_2732x2048_07_eng.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Motorsport Manager 4]]></title>
@@ -2476,77 +2567,5 @@ War never changes. In 1985 USSR went down before an unknown enemy. In a few days
 
 User agreement: http://tltgames.ru/license-agreement-en
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/90/cf/0690cf73-1247-f835-15f7-cba623e19edc/1aecd46d-7ce9-4d81-9254-f628456425f6_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/36/f3/1536f3f6-01ce-9d22-4a93-7c889e80169f/09283753-f39d-41a1-a45c-a7b4e867dbc8_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/d3/6c/4dd36ca1-e042-b715-68bc-a5e4424fefd4/7ac799fd-b463-489a-8852-6fe660cc8d23_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2b/6b/3e/2b6b3e51-7ff3-a731-3d71-60a6d3976f44/d21e96ef-0353-43b6-9539-930d16b25c30_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/38/88/133888c3-3156-e830-a8da-6c0b8ef4b4a3/f7cfb957-6f62-424f-892c-2aca9a521791_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c5/cd/d2/c5cdd2ce-4318-1ede-6e82-41078196699e/d5e07146-2bb5-4e91-a9fa-b47115572314_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/e4/52/43e452a4-9079-5620-938f-4248f571ad3f/31d40a46-fdda-4684-a8f8-574a13cd83ae_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/c3/62/64c362cf-6d16-57e3-d981-964ebf8a7de9/392e8dcd-788c-43d3-ab8e-8a47b6e0bf78_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/81/97/04/81970402-ffcd-b543-eb29-a5def3c23dff/ea5affda-de2e-4178-8d42-0abc18bce379_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/1b/a4/e91ba456-6548-115e-1d6a-5f31469aa27f/b57105d1-c058-481c-9008-6239d912b164_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/fc/d5/09fcd512-30de-f8ca-beaf-59367621c593/57245464-4ab4-4aca-85e8-dbe65afa71ae_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/94/32/4b943220-f995-7db5-99cd-7b037a58e291/0d67567b-fb97-4977-9bdf-f01902998a39_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/b9/3d/2cb93d5d-72aa-b278-d25f-cd322a95f96d/3fc94b42-ea47-42e4-a8a8-b2e85d29602c_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/a2/cc/a2a2cc70-edf9-ae7d-1be7-fe35d6cab765/c211749e-8593-4699-84cd-3cddb3820ef7_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d0/47/f4/d047f41e-562e-8192-efa2-a5a1ffdae62c/0f095350-5f04-4bf9-aa2e-2a62e5544f5d_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/33/cb/a2/33cba21c-0968-a18b-f647-77d7e57f8297/5f51ada7-eae5-4631-b4b5-d6b1822158e0_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ba/9f/bf/ba9fbf20-5eb7-c07a-3af5-86d8fdb3438d/084f61e7-8001-44e5-a622-f7010273991a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/8a/93/a78a93ca-2b68-084e-e956-6e02882a5009/4b0f2b43-fddf-4124-a341-ca895b5a41b0_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/61/66/ac616636-9b7e-985e-217e-b33e81c0f562/39947d08-9a25-4897-a887-06e31ecb8eff_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/09/c2/7809c277-e401-4b9f-1c32-dc945aa0bf71/a2c7551f-3f9e-443b-ad53-2cb0dd304dd0_9.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彩云天气Pro]]></title>
-        <id>彩云天气Pro-tr-1749496209231</id>
-        <link href="https://apps.apple.com/tr/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688?uo=4"/>
-        <updated>2025-06-09T19:10:09.231Z</updated>
-        <summary type="html"><![CDATA[SVIP auto-renew annually: ₺299,99 → ₺29,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/18/59/ea1859b9-a4b7-ac57-7720-d5e480e46ada/AppIcon-pro-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>SVIP auto-renew annually：</strong><span>₺299,99</span> → <b>
-  <strong>₺29,99</strong>
-</b><span>[₺29,99 ~ ₺299,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺699,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    SVIP auto-renew annually：<b>₺29,99</b>
-  </li><li>
-    SVIP auto-renew yearly：<b>₺399,99</b>
-  </li><li>
-    90 Days SVIP：<b>₺129,99</b>
-  </li><li>
-    Annual Special SVIP：<b>₺599,99</b>
-  </li><li>
-    545 Days SVIP：<b>₺599,99</b>
-  </li><li>
-    3-Year SVIP：<b>₺999,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Differences from the free version:
-- exclusive rain notification
-- no Ads
-
-Expect the Unexpected with this Beautiful and Easy-to-use Weather App
-
-Accurate Minute to Minute Rainfall Forecast - When will the rain start and when is it going to stop? Know about the weather in advance and plan your day out properly!
-
-
-Street-level accuracy: No more imprecise forecasts based on a national or city level! Your exclusive weather forecast for every block in the neighborhood is here!
-
-Multiple Location Selections: Street-level accurate forecasts to keep an eye on your loved ones!
-
-
-China Rainfall Map - We use the National Meteorological Radar to produce our accurate forecast. Just take a glimpse to know exactly where and how heavy the rain will be!
-
-
-China Air Pollution Map - Is the pollution growing stronger or fading away? Where is it heading to? Just take a look at this map and get the answer to all of your questions!
-
-Real-time satellite imagery
-From the astronaut's point of view, tracing the flowing cloud and glittering days, and Help yourself judge the weather
-
-Omni-directional weather map
-Look at the evolution trend of precipitation, temperature, dew point temperature, humidity and visibility in the next two days.
-
-Weather Feedback - If you feel that our forecast is not completely accurate, please tap the feedback button to help us improve!
-
-
-------
-A big thank you to the "Swarma Club" and our partners for their long-term and unfailing support!
-
-
-Automatic renewal service:
-1. Service name：svip auto-renew monthly, svip auto-renew annually.
-2. Price：9 RMB / Month, 90 RMB / Year.
-3. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
-4. You can manually open the Apple mobile phone 'Settings' - > enter 'iTunes Store and App Store - > click 'Apple ID', select 'view Apple ID', enter the 'account settings' page, click 'subscription', select 'ColorfulClouds Pro continuous subscription', and cancel subscriptions to end it. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-5. Term of use: https://caiyunapp.com/h5/agreement/vipprotocal.html?ostype=ios_pro&lang=en_US
-6. Privacy policy: https://caiyunapp.com/h5/agreement/privacy.html?ostype=ios_pro&lang=en_US
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/bb/f8/4ebbf80b-01a2-96f9-dd5d-987371ad317c/1659a64f-378e-4750-8a10-963e28c4d4d3_5.5_U5bf8_U82f1_U6587-_U5206_U949f_U7ea7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/a1/8f/29a18fb1-d7b4-ea47-fa21-f4e1f8839bc9/2277d8a0-2859-491e-8402-4e09ee5719f9_5.5_U5bf8_U82f1_U6587-_U96f7_U8fbe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/c5/bf/d1c5bfb4-330c-16e5-e484-11eb98f77904/4545a43b-b050-43f4-b333-d01194f927a6_5.5_U5bf8_U82f1_U6587-_U536b_U661f.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/89/d0/2f89d014-49df-024a-cccf-d178cfa8cb02/ea7ec244-1185-43c3-bc3a-cdb7cad1562c_5.5_U5bf8_U82f1_U6587-48_U5c0f_U65f6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/cb/4e/a2cb4ef9-c0e6-face-6bc6-5cba461b4a0c/567de3fd-b0a4-4cbf-a67b-90440dd6141d_5.5_U5bf8_U82f1_U6587-_U7a7a_U6c14_U8d28_U91cf.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/fb/87/effb878e-9f79-1a90-46b0-b8a23c854942/3b642941-3478-48e3-bdb0-fc32ea14f19f_en1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/72/a2/a672a2ff-495e-f794-9e56-2dd1f803a58e/bbd39543-e933-4d13-985a-6ef08a986e0f_en2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d4/01/a3d4012c-2b98-e37a-ddaf-c433fdec934e/11efc89f-4a59-43f2-ab1b-14a53cd85d2e_en3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/7c/df/947cdf01-171c-8029-fdfd-5d00f5001003/75501396-501e-4ff0-bd9e-1ef3063a30e5_en4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/bf/c3/0dbfc3a0-4499-8231-1a3d-d73922253b73/6961b9e5-1ae4-40b5-934e-d67c6a58925e_en5.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

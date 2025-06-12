@@ -36205,7 +36205,13 @@
       "Rate": "$0.00",
       "Paint": "$0.00",
       "Distortion": "$0.00",
-      "Rotate": "$0.00"
+      "Rotate": "$0.00",
+      "Remove the Ad": "$30.00",
+      "Dub and Audio": "$30.00",
+      "Pixelate": "$30.00",
+      "Filter": "$30.00",
+      "Add Text": "$30.00",
+      "Convert into Gif": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -36219,9 +36225,34 @@
       "Rate": "$0.00",
       "Paint": "$0.00",
       "Distortion": "$0.00",
-      "Rotate": "$0.00"
+      "Rotate": "$0.00",
+      "Remove the Ad": "$30.00",
+      "Dub and Audio": "$30.00",
+      "Pixelate": "$30.00",
+      "Filter": "$30.00",
+      "Add Text": "$30.00",
+      "Convert into Gif": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749762726384,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Remove the Ad": "$30.00",
+            "Crop": "$0.00",
+            "Dub and Audio": "$30.00",
+            "Pixelate": "$30.00",
+            "Filter": "$30.00",
+            "Add Text": "$30.00",
+            "Convert into Gif": "$30.00",
+            "Splice": "$0.00",
+            "Border": "$30.00",
+            "Sticker": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
