@@ -18664,6 +18664,25 @@
     "history": [
       [
         {
+          "timestamp": 1749744940156,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "12 Mo. Fongo Ultimate": "$2,990.00",
+            "3 Mo. Fongo Ultimate": "$990.00",
+            "6 Mo. Fongo Ultimate": "$1,990.00",
+            "1 Mo. Fongo Ultimate": "$390.00",
+            "12 Mo. Remove Ads": "$590.00",
+            "6 Mo. Remove Ads": "$320.00",
+            "3 Mo. Remove Ads": "$190.00",
+            "1 Mo. Remove Ads": "$90.00",
+            "12 Mo. Fongo Plus": "$2,990.00",
+            "12 Mo. Global Texting": "$990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749346246039,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -50186,7 +50205,8 @@
       "The Rainbow Bundle": "$390.00",
       "Atlantic City Dice": "$150.00",
       "Fantasy Beach Bundle": "$390.00",
-      "Starseeker Token": "$320.00"
+      "Starseeker Token": "$320.00",
+      "Paris, La Belle Epoque Board": "$190.00"
     },
     "minPriceInfo": {
       "price": 150,
@@ -50215,9 +50235,28 @@
       "The Rainbow Bundle": "$390.00",
       "Atlantic City Dice": "$150.00",
       "Fantasy Beach Bundle": "$390.00",
-      "Starseeker Token": "$320.00"
+      "Starseeker Token": "$320.00",
+      "Paris, La Belle Epoque Board": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749744940156,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Paris, La Belle Epoque Board": "$190.00",
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "Theme Collection": "$690.00",
+            "Welcome Offer": "$690.00",
+            "New York 2121 Board": "$190.00",
+            "Cherry Blossom Tokyo Board": "$190.00",
+            "Promotion": "$590.00",
+            "New York 2121": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749346246039,
