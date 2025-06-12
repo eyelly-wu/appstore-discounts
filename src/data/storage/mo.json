@@ -32918,6 +32918,37 @@
       ]
     ]
   },
+  "1442035374": {
+    "name": "圍棋師傅",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "KataGo引擎": "USD 14.99",
+      "人類模仿功能": "USD 5.99",
+      "200個硬幣": "USD 0.49"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "KataGo引擎": "USD 14.99",
+      "人類模仿功能": "USD 5.99",
+      "200個硬幣": "USD 0.49"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749697861787,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "KataGo引擎": "USD 14.99",
+            "人類模仿功能": "USD 5.99",
+            "200個硬幣": "USD 0.49"
+          }
+        }
+      ]
+    ]
+  },
   "1442620678": {
     "name": "Surge 5",
     "maxPriceInfo": {
@@ -53770,6 +53801,16 @@
       "勇者鬥惡龍X　沉睡的勇者與引導的盟友　OFFLINE": "USD 11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749697861787,
+          "price": 17.99,
+          "formattedPrice": "USD 17.99",
+          "inAppPurchases": {
+            "勇者鬥惡龍X　沉睡的勇者與引導的盟友　OFFLINE": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748246722624,

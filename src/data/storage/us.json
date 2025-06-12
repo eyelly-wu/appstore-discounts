@@ -17633,6 +17633,14 @@
     "history": [
       [
         {
+          "timestamp": 1749697861787,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746847016133,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -19965,6 +19973,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749697861787,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Box of Sunshine Elixir": "$1.99",
+            "Bottle of Sunshine Elixir": "$0.99",
+            "Small pot of Crystal": "$4.99",
+            "Large bag of Crystal": "$10.99",
+            "Shovelful of Crystal": "$0.99",
+            "Cartful of Crystal": "$21.99",
+            "Advanced Bonus Pack": "$6.99",
+            "Deluxe Pack": "$18.99",
+            "Select Pack": "$12.99",
+            "Elite Package": "$9.99"
+          }
+        },
         {
           "timestamp": 1749690084188,
           "price": 3.99,
@@ -24722,10 +24747,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749697861787,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -30536,10 +30569,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749697861787,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
@@ -45221,6 +45262,37 @@
           "price": 0.29,
           "formattedPrice": "$0.29",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1442035374": {
+    "name": "A Master of Go",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "KataGo Engine": "$14.99",
+      "KataGo Human Imitation": "$5.99",
+      "200 coins": "$0.49"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "KataGo Engine": "$14.99",
+      "KataGo Human Imitation": "$5.99",
+      "200 coins": "$0.49"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749697861787,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "KataGo Engine": "$14.99",
+            "KataGo Human Imitation": "$5.99",
+            "200 coins": "$0.49"
+          }
         }
       ]
     ]
@@ -62964,6 +63036,14 @@
     "history": [
       [
         {
+          "timestamp": 1749697861787,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Orbit Pack": "$4.99"
+          }
+        },
+        {
           "timestamp": 1749654843218,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -66418,6 +66498,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749697861787,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745983031540,
