@@ -4,12 +4,11 @@ import Top from './Top'
 import Vision from './Vision'
 import Feature from './Feature'
 import Subscription from './Subscription'
-import Focus from './Focus'
 import Principle from './Principle'
-import Contribution from './Contribution'
 import StarHistory from './StarHistory'
 import License from './License'
 import Sponsors from './Sponsors'
+import RelateDoc from './RelateDoc'
 
 export default function Doc(props) {
   initI18n(props.locale)
@@ -22,9 +21,8 @@ export default function Doc(props) {
       <Feature />
       <Sponsors />
       <Subscription />
-      <Focus />
       <Principle />
-      <Contribution />
+      <RelateDoc />
       <StarHistory />
       <License />
     </>

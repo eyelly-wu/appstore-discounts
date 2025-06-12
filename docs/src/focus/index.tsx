@@ -9,6 +9,7 @@ import React, {
 import { getRegionNameMap, regions, appConfig } from 'appinfo.config'
 import { getCountryOrRegionText, getAppText, getAppStoreText } from '../utils'
 import { getStorageAppInfo } from '@/data/storage'
+import initI18n from '../i18n'
 
 function getDeleteContent(content: string, showDelete = false) {
   return showDelete
@@ -16,7 +17,9 @@ function getDeleteContent(content: string, showDelete = false) {
     : content
 }
 
-export default function Focus() {
+export default function Focus(props) {
+  initI18n(props.locale)
+
   const countryOrRegionText = getCountryOrRegionText()
   const appText = getAppText()
   const regionStorageAppInfo = getStorageAppInfo(regions)

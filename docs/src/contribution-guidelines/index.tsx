@@ -1,14 +1,6 @@
-import React, {
-  H1,
-  H2,
-  Table,
-  Break,
-  BlockQuote,
-  List,
-  CodeBlock,
-} from 'jsx-to-md'
+import React, { H1, H2, List, TableOfContents } from 'jsx-to-md'
 import { getCountryOrRegionText, getAppText, getAppStoreText } from '../utils'
-import { getStorageAppInfo } from '@/data/storage'
+import initI18n from '../i18n'
 
 function getCodeOrId(type: 'code' | 'id') {
   const appStoreText = getAppStoreText()
@@ -53,12 +45,14 @@ function getCodeOrId(type: 'code' | 'id') {
   ] as string[]
 }
 
-export default function AppList() {
+export default function AppList(props) {
+  initI18n(props.locale)
   const countryOrRegionText = getCountryOrRegionText()
   const appText = getAppText()
 
   return (
     <>
+      <TableOfContents text={t('目录')} open={false} />
       <H1>{t('如何参与贡献')}</H1>
       <H2>1. {t('补充{0}或{1}', countryOrRegionText, appText)}</H2>
       {t(
