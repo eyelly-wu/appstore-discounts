@@ -5189,6 +5189,17 @@
     "history": [
       [
         {
+          "timestamp": 1749759261922,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "8mm Pro": "$39.99",
+            "Countdown Theme": "$0.00",
+            "Silent Film Theme": "$0.00",
+            "Light Leak Theme": "$0.00"
+          }
+        },
+        {
           "timestamp": 1749748312202,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -14180,6 +14191,23 @@
     "history": [
       [
         {
+          "timestamp": 1749759261922,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        },
+        {
           "timestamp": 1749748312202,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -17505,6 +17533,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749759261922,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "$3.99",
+            "Rayark Selection Vol.2": "$3.99",
+            "V.K Collection": "$3.99",
+            "Forgotten Hourglass": "$9.99",
+            "Cytus Selection Vol.1": "$3.99",
+            "Knight Iris": "$3.99",
+            "Cytus Selection Vol.2": "$3.99",
+            "M2U X NICODE Collection": "$3.99",
+            "MILI Collection": "$3.99",
+            "Rayark Selection Vol.3": "$3.99"
+          }
+        },
         {
           "timestamp": 1749748312202,
           "price": 1.99,
@@ -22824,6 +22869,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749759261922,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Forever friends": "$6.99",
+            "Music collection sp01": "$0.00",
+            "奇怪的试题集": "$0.99",
+            "Music Collection 01": "$1.99",
+            "小酒仙节拍器": "$0.99",
+            "Music Collection 04": "$2.99",
+            "Subscription Ticket 1~5": "$8.99",
+            "和风主题": "$3.99",
+            "Music Collection 03": "$2.99",
+            "HOUSE风格主题包B": "$3.99"
+          }
+        },
         {
           "timestamp": 1749748312202,
           "price": 0.99,
@@ -59034,6 +59096,20 @@
     "history": [
       [
         {
+          "timestamp": 1749759261922,
+          "price": 49.99,
+          "formattedPrice": "$49.99",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "$3.99",
+            "SkySafari Premium": "$29.99",
+            "PGC Galaxy Database": "$0.00",
+            "GAIA Star Database": "$0.00",
+            "Apollo Lunar Missions": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749658572332,
           "price": 39.99,
           "formattedPrice": "$39.99",
@@ -77309,17 +77385,33 @@
       "formattedPrice": "$3.99",
       "年度订阅": "$3.99",
       "乐桥终身会员": "$7.99",
-      "连续按月订阅": "$1.99"
+      "连续按月订阅": "$1.99",
+      "月度高级订阅": "$1.99",
+      "年度高级订阅": "$4.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "年度订阅": "$3.99",
       "乐桥终身会员": "$3.99",
-      "连续按月订阅": "$1.99"
+      "连续按月订阅": "$1.99",
+      "月度高级订阅": "$1.99",
+      "年度高级订阅": "$4.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1749759261922,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "月度高级订阅": "$1.99",
+            "年度高级订阅": "$4.99",
+            "年度订阅": "$3.99",
+            "乐桥终身会员": "$3.99",
+            "连续按月订阅": "$1.99"
+          }
+        },
         {
           "timestamp": 1749723256322,
           "price": 0,

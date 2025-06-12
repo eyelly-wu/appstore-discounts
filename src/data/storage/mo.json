@@ -26147,6 +26147,23 @@
     "history": [
       [
         {
+          "timestamp": 1749759261922,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "USD 7.99",
+            "Mega Tower Bundle": "USD 15.99",
+            "Mega Heroe Bundle": "USD 17.99",
+            "Hero Beresad": "USD 6.99",
+            "Hammerhold Campaign!": "USD 7.99",
+            "Tower Grim Cemetery": "USD 2.99",
+            "Tower Blazing Gem": "USD 4.99",
+            "Hero Tank": "USD 5.99",
+            "Hero Mortemis": "USD 2.99",
+            "Hero Eiskalt": "USD 5.99"
+          }
+        },
+        {
           "timestamp": 1749748312202,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -44400,6 +44417,20 @@
     "history": [
       [
         {
+          "timestamp": 1749759261922,
+          "price": 49.99,
+          "formattedPrice": "USD 49.99",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "USD 3.99",
+            "SkySafari Premium": "USD 29.99",
+            "Apollo Lunar Missions": "USD 0.00",
+            "GAIA Star Database": "USD 0.00",
+            "PGC Galaxy Database": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749658572332,
           "price": 39.99,
           "formattedPrice": "USD 39.99",
@@ -55938,16 +55969,34 @@
       "formattedPrice": "USD 3.99",
       "年度订阅": "USD 3.99",
       "乐桥终身会员": "USD 7.99",
-      "连续按月订阅": "USD 1.99"
+      "连续按月订阅": "USD 1.99",
+      "月度高级订阅": "USD 1.99",
+      "年度高级订阅": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "年度订阅": "USD 3.99",
       "乐桥终身会员": "USD 3.99",
-      "连续按月订阅": "USD 1.99"
+      "连续按月订阅": "USD 1.99",
+      "月度高级订阅": "USD 1.99",
+      "年度高级订阅": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749759261922,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高级订阅": "USD 1.99",
+            "年度高级订阅": "USD 4.99",
+            "年度订阅": "USD 3.99",
+            "乐桥终身会员": "USD 3.99",
+            "连续按月订阅": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749723256322,

@@ -293,6 +293,21 @@
     "history": [
       [
         {
+          "timestamp": 1749759261922,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Dance Pack Too": "HK$ 8.00",
+            "Tyrannosaurus Rex Skin Pack": "HK$ 8.00",
+            "Alien Pack": "HK$ 8.00",
+            "Halloween Skin Pack": "HK$ 8.00",
+            "Retro Games SkinPack": "HK$ 8.00",
+            "Medieval Pack": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747908161753,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -23500,6 +23515,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749759261922,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "纯净模式1个月": "HK$ 8.00",
+            "纯净模式12个月": "HK$ 58.00",
+            "纯净模式6个月": "HK$ 38.00",
+            "纯净模式永久": "HK$ 228.00",
+            "金紫会员永久": "HK$ 288.00",
+            "金紫会员6个月": "HK$ 58.00",
+            "金紫会员12个月": "HK$ 88.00",
+            "金紫会员1个月": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1749748312202,
           "price": 8,
@@ -57436,6 +57466,20 @@
     "history": [
       [
         {
+          "timestamp": 1749759261922,
+          "price": 388,
+          "formattedPrice": "HK$ 388.00",
+          "inAppPurchases": {
+            "PGC Galaxy Database": "HK$ 0.00",
+            "SkySafari Premium": "HK$ 228.00",
+            "GAIA Star Database": "HK$ 0.00",
+            "SkySafari Premium Monthly": "HK$ 33.00",
+            "Apollo Lunar Missions": "HK$ 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749301688150,
           "price": 288,
           "formattedPrice": "HK$ 288.00",
@@ -74515,16 +74559,34 @@
       "formattedPrice": "HK$ 32.00",
       "年度订阅": "HK$ 32.00",
       "乐桥终身会员": "HK$ 58.00",
-      "连续按月订阅": "HK$ 18.00"
+      "连续按月订阅": "HK$ 18.00",
+      "月度高级订阅": "HK$ 18.00",
+      "年度高级订阅": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "年度订阅": "HK$ 32.00",
       "乐桥终身会员": "HK$ 32.00",
-      "连续按月订阅": "HK$ 18.00"
+      "连续按月订阅": "HK$ 18.00",
+      "月度高级订阅": "HK$ 18.00",
+      "年度高级订阅": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749759261922,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高级订阅": "HK$ 18.00",
+            "年度高级订阅": "HK$ 38.00",
+            "年度订阅": "HK$ 32.00",
+            "乐桥终身会员": "HK$ 32.00",
+            "连续按月订阅": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749723256322,
