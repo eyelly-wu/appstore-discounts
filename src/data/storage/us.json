@@ -5181,12 +5181,25 @@
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99",
-      "8mm Pro": "$39.99",
+      "8mm Pro": "$9.99",
       "Countdown Theme": "$0.00",
       "Silent Film Theme": "$0.00",
       "Light Leak Theme": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749748312202,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "8mm Pro": "$9.99",
+            "Silent Film Theme": "$0.00",
+            "Light Leak Theme": "$0.00",
+            "Countdown Theme": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -14167,6 +14180,25 @@
     "history": [
       [
         {
+          "timestamp": 1749748312202,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Vault Of Gems": "$49.99",
+            "Wagon Of Gems": "$19.99",
+            "Chest Of Gems": "$9.99",
+            "Barrel Of Gems": "$4.99",
+            "Bag Of Gems": "$2.99",
+            "Special Offer Saitam": "$2.99",
+            "Big Hero Pack 2": "$12.99",
+            "Saitam": "$4.99",
+            "Big Hero Pack": "$9.99",
+            "Hero Pack 5": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748956326764,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -17472,6 +17504,25 @@
       "VII Bundle 01": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749748312202,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "$3.99",
+            "Ayatsugu_Otowa Collection": "$3.99",
+            "Sherwin Collection": "$3.99",
+            "Capchii Collection": "$3.99",
+            "VII Bundle 06": "$12.99",
+            "VII Bundle 05": "$10.99",
+            "VII Bundle 03": "$6.99",
+            "VII Bundle 02": "$4.99",
+            "VII Bundle 04": "$8.99",
+            "VII Bundle 01": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749636850577,
@@ -22772,6 +22823,25 @@
       "ThemeA2B1C0": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749748312202,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "$0.00",
+            "ThemeA0B1C0": "$0.00",
+            "ThemeA1B0C0": "$0.00",
+            "ThemeA0B1C1": "$0.00",
+            "ThemeA1B0C1": "$0.00",
+            "ThemeA1B1C0": "$0.00",
+            "ThemeA2B0C0": "$0.00",
+            "主题大礼包": "$3.99",
+            "ThemeA2B0C1": "$3.99",
+            "ThemeA2B1C0": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749114152712,

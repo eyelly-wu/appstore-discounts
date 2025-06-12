@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-12T10:35:13.017Z</updated>
+    <updated>2025-06-12T17:33:06.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T10:35:13.017Z</updated>
+        <updated>2025-06-12T17:33:06.264Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrThu, 12 Jun 2025 10:35:13 GMT</id>
+        <id>rankingtrThu, 12 Jun 2025 17:33:06 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T10:35:13.017Z</updated>
+        <updated>2025-06-12T17:33:06.264Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -50,13 +50,13 @@ feedId:99063474310237184+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1129</b>
+        <b>1130</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>928</b>
+        <b>929</b>
       </td>
       <td>
         <b>13</b>
@@ -67,13 +67,13 @@ feedId:99063474310237184+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1027</b>
+        <b>1028</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>855</b>
+        <b>856</b>
       </td>
       <td>
         <b>12</b>
@@ -255,6 +255,29 @@ feedId:99063474310237184+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>The Ultimate Life Collection</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id1612952507">AeroPads - Pads & Soundscapes</a>
       </td>
       <td>
@@ -275,7 +298,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -298,7 +321,30 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6449251957">Motorsport Manager 4</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Bundle</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
@@ -315,7 +361,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id406541444">8mm Vintage Camera</a>
@@ -338,7 +384,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id703265535">FocusDots · Focus What Matters</a>
@@ -355,7 +401,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -372,7 +418,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -389,7 +435,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1067198688">彩云天气Pro</a>
@@ -412,7 +458,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1094038347">Only You Are Here</a>
@@ -439,7 +485,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1108032375">Rise of the Tomb Raider™</a>
@@ -456,7 +502,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -473,7 +519,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1304822713">Infinity Tank Battle</a>
@@ -490,7 +536,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
@@ -513,7 +559,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -536,7 +582,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439569401">Shadow of the Tomb Raider</a>
@@ -553,7 +599,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439886655">Cultist Simulator</a>
@@ -570,7 +616,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1449893235">Earthquake Network</a>
@@ -587,7 +633,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1453820315">This Is the Police 2</a>
@@ -604,30 +650,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>The Ultimate Life Collection</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1519571900">Luwian</a>
@@ -644,7 +667,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -661,7 +684,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1523146826">Everybody's RPG: Reboot</a>
@@ -678,7 +701,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1576521142">SOULVARS</a>
@@ -695,7 +718,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1610668825">FyTube - YouTube Without Ads</a>
@@ -712,7 +735,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1640627334">Resident Evil Village for Mac</a>
@@ -739,7 +762,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1642715290">Little Big Workshop</a>
@@ -756,7 +779,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1659271912">Train Dispatcher!2</a>
@@ -773,7 +796,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6450980545">Resident Evil Village</a>
@@ -802,7 +825,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6462360082">Resident Evil 4</a>
@@ -833,7 +856,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
@@ -850,7 +873,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -867,7 +890,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -884,7 +907,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -901,7 +924,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -912,29 +935,6 @@ feedId:99063474310237184+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>42</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id6449251957">Motorsport Manager 4</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Bundle</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1059,6 +1059,152 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorsport Manager 4]]></title>
+        <id>Motorsport Manager 4-tr-1749748312202</id>
+        <link href="https://apps.apple.com/tr/app/motorsport-manager-4/id6449251957?uo=4"/>
+        <updated>2025-06-12T17:11:52.202Z</updated>
+        <summary type="html"><![CDATA[Bundle: ₺449,99 → ₺229,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/motorsport-manager-4/id6449251957?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Bundle：</strong><span>₺449,99</span> → <b>
+  <strong>₺229,99</strong>
+</b><span>[₺229,99 ~ ₺449,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺229,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Very Large Investment：<b>₺129,99</b>
+  </li><li>
+    Huge Investment：<b>₺229,99</b>
+  </li><li>
+    Bundle：<b>₺229,99</b>
+  </li><li>
+    Investment：<b>₺99,99</b>
+  </li><li>
+    Large Investment：<b>₺129,99</b>
+  </li><li>
+    Premium livery bundle：<b>₺249,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  MOTORSPORT MANAGER 4: MASTER RACE STRATEGY
+
+BUILD YOUR RACING DYNASTY
+Immerse yourself in the captivating journey of constructing your motorsport empire from the ground up, where every choice holds the key to your success.
+
+ASSEMBLE YOUR DREAM TEAM
+Hand-pick exceptional drivers and engineer a world-class racing powerhouse. Collaborate closely with drivers to secure pole positions and craft pitstop strategies that lead to race domination.
+
+REAL-TIME STRATEGY UNFOLDS
+Experience the adrenaline-pumping action of races in real-time or navigate through intricate strategy screens. Swiftly adapt to ever-changing weather, unexpected crashes, and the emergence of safety cars.
+
+UNLEASH VARIETY ON THE TRACK
+Embark on thrilling GT and Endurance racing adventures across six distinct championships. Immerse yourself in the iconic beauty of Monaco's settings, rendered in breathtaking artistry.
+
+DRIVERS TAKE CENTER STAGE
+Step into the shoes of promising new drivers, delve into their statistics, and cultivate pivotal relationships. Navigate the revamped HQ, seize upgrade opportunities, and master the new part development system for an immersive journey.
+
+YOUR JOURNEY, YOUR CHALLENGE
+Embark on a motorsport odyssey where every choice shapes your destiny. Witness dynamic AI team movements and adjust the difficulty level as the game evolves with you.
+
+SEIZE CONTROL, MAKE HISTORY
+It's your opportunity to rewrite the annals of racing lore and etch your name into the history of motorsport. Motorsport Manager 4 empowers you like never before.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/8a/93/788a93e8-0611-e8a4-a8bb-127ea1ca7cd3/70b8f36f-46ad-4f55-bb44-26b1e1d42d90_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/0c/0f/df0c0f1b-b800-355e-e534-877d19d3ad6e/197b9078-d617-4bf1-ae75-a32666c0e221_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/36/84/da36845b-602b-4129-904b-4819e9a79cde/acae3ebf-4877-4010-b0c6-c5d2fa892453_FeaturingImage.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/7b/38/d17b387b-b95d-8fd1-de10-4b4a8534eceb/5dc173a9-d936-4bec-b601-fb16eab3942c_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/1c/c1/c01cc19a-ac47-a7a7-67ad-81d5020e0e1e/6f8fa231-827b-43d7-a412-284fba943dae_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/9a/e0/489ae001-4876-7503-4d52-09a484de1ee3/b12a712a-9dda-4bc2-a642-3d15ccc0163f_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/2f/73/572f736e-01bb-0350-e01e-10b27a29daba/4e65f90a-f4f0-4984-bbea-eeb6ce7e79ff_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/1d/a8/721da87c-9e9b-5067-e090-da14770902f9/2ba5b27d-6e12-4261-806f-58f728470a3b_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/45/59/c24559c0-b7c9-731f-9b2c-29896c7d69eb/65f7b50f-874c-4a56-abcc-5dfefea7987b_FeatureImage.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/53/75/a75375f0-e5cc-2099-11ca-e249ac80a1b3/9e80e2a6-d3b2-4dc2-a736-79fb54c6bd36_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/f7/5d/81f75d80-f417-4fe8-0d65-2c6af7ba98e8/41706b87-c615-448c-9c52-b018dd10d18d_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/e4/1b/a7e41bad-5ca9-c26f-8e9d-0b64e44fb512/22fcca1c-f9eb-4301-8497-0ad43f5bb621_5.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Game of Life 2]]></title>
+        <id>The Game of Life 2-tr-1749748312202</id>
+        <link href="https://apps.apple.com/tr/app/the-game-of-life-2/id1512751689?uo=4"/>
+        <updated>2025-06-12T17:11:52.202Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Life Collection: ₺1.299,99 → ₺899,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/the-game-of-life-2/id1512751689?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/5e/71/ad5e71f4-563c-53be-8c4a-46eb591446e7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>The Ultimate Life Collection：</strong><span>₺1.299,99</span> → <b>
+  <strong>₺899,99</strong>
+</b><span>[₺899,99 ~ ₺1.299,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺79,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    The Ultimate Life Collection：<b>₺899,99</b>
+  </li><li>
+    Mothgirl Outfit：<b>₺39,99</b>
+  </li><li>
+    Tunneler Ship：<b>₺39,99</b>
+  </li><li>
+    Foxman Bike：<b>₺39,99</b>
+  </li><li>
+    Action Car Avatar：<b>₺39,99</b>
+  </li><li>
+    Super Pet Avatar：<b>₺39,99</b>
+  </li><li>
+    Magical Girl Outfit：<b>₺39,99</b>
+  </li><li>
+    Skyscraper Avatar：<b>₺39,99</b>
+  </li><li>
+    Foxman Outfit：<b>₺39,99</b>
+  </li><li>
+    Super Hero World Bundle：<b>₺249,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Live 1000 lives in the official sequel to the classic family board game, The Game of Life! Will you be a Video Blogger or an Astronomer? Play now!
+
+Voted "Best Digital Board Game” in the Pocket Gamer Awards 2021
+Played by over 50 Million Families Worldwide
+
+Customise your peg, hop in your eco car and race your friends and family through The Game of Life 2! It’s a contemporary sequel to the classic family favourite board game, The Game of Life. With an added crossroad moment and new ways to win, what will you choose? Earn points for Knowledge and Happiness as well as Wealth. Go to College, or don’t. Get married early, save it for later, or stay single! Have kids, adopt pets, do both or neither. The choices are all yours, and every decision counts!
+
+Features
+
+The Game of Life 2 digital board game is the award-winning sequel to the original Hasbro board game, The Game of Life.
+• A GAME FOR UP 4 PLAYERS - Join 3 of your favourite people and live your dreams
+• *NEW*  VIDEO CHAT AND PLAY - Live every life face-to-face with in-game video chat
+• AN AD-FREE GAME - Enjoy the complete game with no interruptions
+• 6 TRANSLATIONS - English, French, Spanish, German, Italian and Brazilian Portuguese
+• SINGLE PLAYER - Take on our challenging AI
+• ONLINE MULTIPLAYER - Connect with fans, or invite friends and family to a private game
+• PASS & PLAY - No internet? No problem! Pass a single device between players for a wifi-free experience
+
+How to play
+
+CUSTOMISE your character
+Customise your pink, blue or newly available purple peg with a style all of your own.
+
+SPIN THE SPINNER
+The game starts with a big decision. Will you go to College or straight into work? In this classic simulation, what will your friends and family choose?
+
+It’s your LIFE PATH
+Get married or don’t, have kids, adopt pets, or both! Work as a Pet Groomer, then qualify and become a Wind Turbine Technician! The choices are yours!
+
+More WAYS TO WIN
+Earn points for every choice you make! Every choice increases your wealth, happiness or knowledge, so every decision is valid.
+
+RETIRE your way
+Continue living the life of your dreams! Relax in a luxury home, or hit the road and fulfil your bucket list! Unlike the classic board game, you can choose to venture on!
+
+Earn REWARDS to UNLOCK new items
+Unlock new pegs, outfits and vehicles by playing the game and earning rewards!
+
+In-game Video Chat
+Recreate the magic! Gather around the board with in-game video chat in Online Multiplayer Mode. It’s super easy to set-up and play:
+
+• Create your free private account
+• Invite your friends and family to chat groups
+• Start games straight from those chats
+• Play face-to-face wherever you are
+
+It’s simple, seamless fun for everyone.
+
+The Ultimate Life Collection
+Venture into a collection of 10 amazing fantasy worlds. Live life in enchanted worlds, make friends with dinosaurs in the Age of Giants and launch into the futuristic Lunar Age! Every new world features new Outfits, Vehicles, Jobs, Properties and more!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/23/0e/87230e1e-d18c-5054-7dbe-57b3c4e01a97/1de387bc-6eb0-4af5-bc54-a28878cee462_gol2_screenshots_SW_2208x1242_01_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/29/80/5729807f-83a8-1e87-0adc-2028260b4235/fe0dfded-af7f-4eab-b26e-34d9e7a9fc50_gol2_screenshots_SW_2208x1242_02_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/4a/52/c54a5291-78c9-b2d3-ac2e-b7cd6db65b1c/67495bfc-d632-4d72-a6ac-085062e1c35a_gol2_screenshots_SW_2208x1242_03_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d1/eb/bcd1eba1-e67a-bba4-70c2-70de69fec3cf/6828e707-065e-4f85-a11d-94f8988a29c6_gol2_screenshots_SW_2208x1242_04_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4d/21/c74d21ac-18ed-abb9-3bbc-c8b7cfa85382/b0d3d0e1-6901-4362-b9d0-c3016fd9a1ad_gol2_screenshots_SW_2208x1242_05_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/4c/80/104c8096-f93b-1aa5-6819-23efc8bf51d3/24ea73c2-3440-4cd0-88c7-995445ca99f0_gol2_screenshots_SW_2208x1242_06_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/6a/9c/fa6a9c46-76c9-e384-56a5-b9eefd1cff7b/0823ae56-91aa-4979-b4c2-c13d249d8888_gol2_screenshots_SW_2208x1242_07_eng.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/82/11/9982114e-e738-9e6c-63ce-0477a4eebbf6/6f1d8610-9c32-4268-ae47-c764107448e9_gol2_screenshots_SW_2732x2048_01_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/ff/c0/91ffc08d-7958-a446-9f44-26f416b050fb/1295fc37-e50b-4a02-8899-e77348cc91ea_gol2_screenshots_SW_2732x2048_02_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/3a/7d/783a7de9-c132-15c1-cd74-d2f41117c6a9/c45ff9b9-9b3b-4e84-993c-0c55e508121b_gol2_screenshots_SW_2732x2048_03_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/10/29/991029b6-95f1-9c26-2c3c-dd4661721835/d139892c-887b-485c-a583-3af0a40ad0e4_gol2_screenshots_SW_2732x2048_04_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/9d/56/469d56b1-d72f-7359-082d-2644417ef5ee/9b7b7733-7c55-4f62-a16c-5f9a029246df_gol2_screenshots_SW_2732x2048_05_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/2f/68/172f681a-4a73-ee62-74d0-f5c06a9740e5/8432a777-6cf2-465c-9eab-17885ecdc67b_gol2_screenshots_SW_2732x2048_06_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/93/3a/72933a8a-c305-0721-f33e-617db7ae4f4e/1c6e6487-8117-4d27-8ff2-ef4cbef4b6a6_gol2_screenshots_SW_2732x2048_07_eng.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TuneShift]]></title>
@@ -2402,100 +2548,5 @@ Automatic renewal service:
 5. Term of use: https://caiyunapp.com/h5/agreement/vipprotocal.html?ostype=ios_pro&lang=en_US
 6. Privacy policy: https://caiyunapp.com/h5/agreement/privacy.html?ostype=ios_pro&lang=en_US
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/bb/f8/4ebbf80b-01a2-96f9-dd5d-987371ad317c/1659a64f-378e-4750-8a10-963e28c4d4d3_5.5_U5bf8_U82f1_U6587-_U5206_U949f_U7ea7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/a1/8f/29a18fb1-d7b4-ea47-fa21-f4e1f8839bc9/2277d8a0-2859-491e-8402-4e09ee5719f9_5.5_U5bf8_U82f1_U6587-_U96f7_U8fbe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/c5/bf/d1c5bfb4-330c-16e5-e484-11eb98f77904/4545a43b-b050-43f4-b333-d01194f927a6_5.5_U5bf8_U82f1_U6587-_U536b_U661f.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/89/d0/2f89d014-49df-024a-cccf-d178cfa8cb02/ea7ec244-1185-43c3-bc3a-cdb7cad1562c_5.5_U5bf8_U82f1_U6587-48_U5c0f_U65f6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/cb/4e/a2cb4ef9-c0e6-face-6bc6-5cba461b4a0c/567de3fd-b0a4-4cbf-a67b-90440dd6141d_5.5_U5bf8_U82f1_U6587-_U7a7a_U6c14_U8d28_U91cf.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/fb/87/effb878e-9f79-1a90-46b0-b8a23c854942/3b642941-3478-48e3-bdb0-fc32ea14f19f_en1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/72/a2/a672a2ff-495e-f794-9e56-2dd1f803a58e/bbd39543-e933-4d13-985a-6ef08a986e0f_en2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d4/01/a3d4012c-2b98-e37a-ddaf-c433fdec934e/11efc89f-4a59-43f2-ab1b-14a53cd85d2e_en3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/7c/df/947cdf01-171c-8029-fdfd-5d00f5001003/75501396-501e-4ff0-bd9e-1ef3063a30e5_en4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/bf/c3/0dbfc3a0-4499-8231-1a3d-d73922253b73/6961b9e5-1ae4-40b5-934e-d67c6a58925e_en5.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only You Are Here]]></title>
-        <id>Only You Are Here-tr-1749485749492</id>
-        <link href="https://apps.apple.com/tr/app/only-you-are-here/id1094038347?uo=4"/>
-        <updated>2025-06-09T16:15:49.492Z</updated>
-        <summary type="html"><![CDATA[Donation III: ₺449,99 → ₺229,99<br/>Donation II: ₺229,99 → ₺99,99<br/>Donation I: ₺99,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/only-you-are-here/id1094038347?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/ad/86/71ad8614-4b11-7618-985b-8b0a50dc436c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Donation III：</strong><span>₺449,99</span> → <b>
-  <strong>₺229,99</strong>
-</b><span>[₺229,99 ~ ₺4.499,99]</span>
-  </li><li>
-    <strong>Donation II：</strong><span>₺229,99</span> → <b>
-  <strong>₺99,99</strong>
-</b><span>[₺99,99 ~ ₺999,99]</span>
-  </li><li>
-    <strong>Donation I：</strong><span>₺99,99</span> → <b>
-  <strong>₺39,99</strong>
-</b><span>[₺39,99 ~ ₺229,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺9,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    DLC "Time"：<b>₺19,99</b>
-  </li><li>
-    Donation III：<b>₺229,99</b>
-  </li><li>
-    Donation II：<b>₺99,99</b>
-  </li><li>
-    Donation I：<b>₺39,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  The Secret Elevator Remastered — an atmospheric adventure with first-person horror elements. 
-
-Take on the role of a person trapped inside their dream. This place is filled with a mix of memories and nightmares. To get out, you have to open a small door.
-
-Immerse yourself in the game's history, walk through many endings, and discover the key secret.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/15/d1/dd15d1fc-79ea-83d1-ba5f-8cc7ebfa5b8a/bf9676f6-9ace-41ac-a39a-9e05298a750c_TSER_screenshot_iPhone_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f3/29/e7/f329e751-3eb8-46b0-d3fd-0d5991bc26a5/33dd8550-65fe-4a65-958d-0150b5736999_TSER_screenshot_iPhone_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/39/5c/d1/395cd148-89fb-0fdd-7cc2-ed826f363d81/155803a1-99f7-49b6-b3a4-74cf15f6ba28_TSER_screenshot_iPhone_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/26/99/01/269901dd-e2b1-a6fb-95bf-c6435dbb0a45/522966c1-58ab-4a21-906a-af6bdc6f5086_TSER_screenshot_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/28/eb/51/28eb5111-a0d5-4819-ef39-1ac373c2f11b/f44130ed-f194-4b83-92df-ffd5a5531d91_TSER_screenshot_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c0/2d/23/c02d2337-3e4c-c0c4-0f74-5888630691a3/158864da-e931-4bfa-ae9d-06dbe0b52b9c_TSER_screenshot_iPad_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/46/ee/2f46eef3-0ee6-6ed8-f343-af5a68cdfd19/5cc70d3a-8048-406c-92cf-94f16743345f_TSER_screenshot_iPad_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6b/fa/51/6bfa51f9-3804-8391-2139-4eeeba3fb3b0/49c12c58-c876-4469-a9a9-9f87aa8e018a_TSER_screenshot_iPad_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c0/56/ac/c056ac73-af86-a73d-c90f-b36d11a144a1/4159ca69-97a1-44b0-9cb7-0a5462f27be7_TSER_screenshot_iPad_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/26/eb/64/26eb6486-a7cc-6040-9368-e7a6c266c55e/4e54d565-b1a4-4586-b09c-a502933bf730_TSER_screenshot_iPad_05.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AeroPads - Pads & Soundscapes]]></title>
-        <id>AeroPads - Pads &amp; Soundscapes-tr-1749482023197</id>
-        <link href="https://apps.apple.com/tr/app/aeropads-pads-soundscapes/id1612952507?uo=4"/>
-        <updated>2025-06-09T15:13:43.197Z</updated>
-        <summary type="html"><![CDATA[Price: ₺249,99 → ₺129,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/aeropads-pads-soundscapes/id1612952507?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/c5/21/5cc521aa-5311-774d-74a1-ae9981ad94a2/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺249,99</span> → <b>
-  <strong>₺129,99</strong>
-</b><span>[₺129,99 ~ ₺249,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺129,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Orbit Pack：<b>₺229,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Have you ever struggled to find confidence on stage or inspiration in the studio? AeroPads cues immersive pads and soundscapes that inspire and equip you to perform and write your best.
-
-ENHANCE YOUR SOUND. ENGAGE YOUR AUDIENCE.
-Every musician has experienced an empty mix or an awkward transition. When using AeroPads, you instantly add more dimension and character to your sound. With a more immersive mix and the ability to perform smooth and seamless transitions, you will feel more confident while your audience will be more engaged.
-
-FOR EVERY MUSICIAN.
-Pads and soundscapes are a versatile accompaniment to nearly any style of music. Whether you are a soloist or full band, AeroPads will take your sound to the next level. Rock bands, worship teams, wedding singers, producers, songwriters, and instrumentalists are just a few of the many types of musicians that have loved using AeroPads.
-
-DESIGNED FOR THE STAGE. INSPIRED BY SPACE.
-AeroPads features creative and immersive soundscapes paired with a beautiful and intuitive interface, all inspired by the pinnacle of exploration and inspiration: outer space.
-
-CREATIVITY THAT SPARKS CREATIVITY.
-AeroPads aren't your typical pads. Most pads out there are really boring or insanely obnoxious. However, AeroPads features thoughtfully crafted soundscapes that are meticulously fine-tuned with the perfect amount of harmonic and textural movement. Simply put, AeroPads won't step on the toes of your arrangement or get on the nerves of your sound guy (like most other pads out there).
-
-
-Highlighted Features:
-- A beautiful space-inspired interface with a simple and intuitive design.
-- Live View: Every key and three of your favorite patches are instantly accessible (best suited for experimentation, free-flowing sets, and songwriting).
-- Setlist View: Plan and build a detailed setlist (best suited for structured sets and seamless transitions).
-- The iconic Atmosphere Soundpack which includes five unique patches named after and inspired by the layers of Earth's atmosphere. 
-- Three patches can be added to Live View to be made instantly accessible, so there's no need to dig through menus to just to change a patch when performing live.
-- Additional patches and Soundpacks available for purchase.
-- Key-specific pads in multiple tonalities: major, minor, and neutral.
-- Concert pitch adjustment.
-
-
-How to Use:
-01. Cue a pad that matches the key of your musical arrangement.
-02. Play overtop of the accompanying pads and soundcapes.
-03. Enjoy the boost of audience engagement, musician confidence, and creative inspiration.
-
-Pads and soundscapes are intended as a subtle accompaniment to musical arrangements/performances. They are designed to be cued according to the key of the arrangement. Once cued, you'll hear a droning pad centered around the root note with additional harmonic textures within the selected key. The only time a pad's key should change within a song is in the instance of a key change. For best results, mix AeroPads appropriately within the overall mix. When mixed too loud, AeroPads may compete with melodies and the arrangement. When mixed too quietly, AeroPads may be less effective. When mixed appropriately, they will sound awesome.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/5c/14/535c1429-4375-85d7-5de1-939a7f9aa551/58d19abd-380f-4c60-baad-aa33af36c344_A.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/99/3f/ae993f6e-5515-b959-2134-5cde56b8e4c4/d96015a2-a249-42f2-9bd3-113804eb338d_B.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/60/70/fb6070d2-4605-40e8-1a66-1d10f636cbc9/5afd5fd8-62b2-44ff-9eb7-d36bbd0bb307_C.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/23/da/a623da00-e3c9-6e31-12c1-185827128032/d5d52cc2-d4da-4d45-983b-8cbeff664f65_D.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/be/e4/67bee4e8-553b-d741-a86c-505899f4c149/dceedd5b-b92d-46bf-b344-e15ae64331b5_E.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/40/b8/7a40b87e-da43-b5f3-c5d9-66e5fc39f1ac/4072a7df-6bca-4e84-bbde-7f8733d60ab1_F.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
