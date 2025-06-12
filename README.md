@@ -80,7 +80,7 @@ After the above process, if there is discount information, friends who subscribe
 # Related Documents
 
 * [❤️ The currently tracked  `Country or Region`  and corresponding App list](https://github.com/eyelly-wu/appstore-discounts/blob/main/docs/dist/FOCUS.md)
-* [🤝 How to Contribute](https://github.com/eyelly-wu/appstore-discounts/blob/dev/docs/dist/CONTRIBUTION_GUIDELINES.md)
+* [🤝 How to Contribute](https://github.com/eyelly-wu/appstore-discounts/blob/main/docs/dist/CONTRIBUTION_GUIDELINES.md)
 
 
 # Star History

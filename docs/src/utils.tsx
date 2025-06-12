@@ -19,7 +19,7 @@ export function getDocHref(
   let version = `main`
 
   // only in dev branch
-  const DEV_FILENAMES = ['CONTRIBUTION_GUIDELINES']
+  const DEV_FILENAMES = []
 
   if (DEV_FILENAMES.includes(filename)) {
     version = 'dev'
