@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-12T07:34:14.572Z</updated>
+    <updated>2025-06-12T10:35:13.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T07:34:14.574Z</updated>
+        <updated>2025-06-12T10:35:13.011Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 12 Jun 2025 07:34:14 GMT</id>
+        <id>rankingusThu, 12 Jun 2025 10:35:13 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T07:34:14.574Z</updated>
+        <updated>2025-06-12T10:35:13.011Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -186,6 +186,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id6739975257">TuneShift</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>乐桥终身会员</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
       </td>
       <td>
@@ -200,7 +223,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id352247139">Calorie Counter PRO MyNetDiary</a>
@@ -223,7 +246,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id703265535">FocusDots · Focus What Matters</a>
@@ -240,7 +263,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id904278510">Hitman Sniper</a>
@@ -265,7 +288,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id918609651">Money Pro: Personal Finance AR</a>
@@ -290,7 +313,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -307,7 +330,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -324,7 +347,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1028950091">The Greedy Cave</a>
@@ -347,7 +370,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1056920931">Iron Marines: RTS offline game</a>
@@ -380,7 +403,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1094038347">Only You Are Here</a>
@@ -407,7 +430,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -424,7 +447,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1304822713">Infinity Tank Battle</a>
@@ -441,7 +464,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1436429074">FILCA - Vintage Film Camera</a>
@@ -464,7 +487,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439886655">Cultist Simulator</a>
@@ -481,7 +504,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453820315">This Is the Police 2</a>
@@ -498,7 +521,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
@@ -521,7 +544,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
@@ -538,7 +561,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -555,7 +578,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
@@ -572,7 +595,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576521142">SOULVARS</a>
@@ -589,7 +612,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -606,7 +629,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
@@ -623,7 +646,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -640,7 +663,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1640627334">Resident Evil Village for Mac</a>
@@ -667,7 +690,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642715290">Little Big Workshop</a>
@@ -684,7 +707,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1659271912">Train Dispatcher!2</a>
@@ -701,7 +724,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450980545">Resident Evil Village</a>
@@ -730,7 +753,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6462360082">Resident Evil 4</a>
@@ -761,7 +784,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
@@ -778,7 +801,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -795,7 +818,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -812,27 +835,10 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id6742457882">Deco: Wallpaper Creator</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6739975257">TuneShift</a>
+        <a href="https://apps.apple.com/us/app/id6742457882">Deco: Wallpaper Creator</a>
       </td>
       <td>
         <ul>
@@ -981,6 +987,53 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TuneShift]]></title>
+        <id>TuneShift-us-1749723256322</id>
+        <link href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4"/>
+        <updated>2025-06-12T10:14:16.322Z</updated>
+        <summary type="html"><![CDATA[乐桥终身会员: $7.99 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/ab/57/34ab5745-f407-2cee-34be-8de2b61baa42/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>乐桥终身会员：</strong><span>$7.99</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$3.99 ~ $7.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    年度订阅：<b>$3.99</b>
+  </li><li>
+    乐桥终身会员：<b>$3.99</b>
+  </li><li>
+    连续按月订阅：<b>$1.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Revitalize your Apple Music library! TuneShift intelligently matches your cherished music from NetEase Cloud Music and QQ Music to Apple Music platform.
+
+Say goodbye to tedious manual searching. With just a few simple steps, rediscover your complete music collection on Apple Music. Our smart engine ensures you find the closest matches to your original favorites.
+
+Core Advantages:
+• Premium music matching engine for precise track identification
+• Preserve complete collection structure and playback order
+• Real-time progress display
+• Minimalist design with one-click operation
+
+Privacy Protection:
+We prioritize user privacy, strictly adhering to privacy protocols to ensure your account information remains secure.
+
+Why Choose TuneShift:
+
+Professional music identification technology
+Superior matching accuracy
+Swift processing efficiency
+User-friendly interface
+Let TuneShift be your professional music management tool for the perfect Apple Music experience!
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Iron Marines: RTS offline game]]></title>
@@ -2040,102 +2093,5 @@ How to Use:
 
 Pads and soundscapes are intended as a subtle accompaniment to musical arrangements/performances. They are designed to be cued according to the key of the arrangement. Once cued, you'll hear a droning pad centered around the root note with additional harmonic textures within the selected key. The only time a pad's key should change within a song is in the instance of a key change. For best results, mix AeroPads appropriately within the overall mix. When mixed too loud, AeroPads may compete with melodies and the arrangement. When mixed too quietly, AeroPads may be less effective. When mixed appropriately, they will sound awesome.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/5c/14/535c1429-4375-85d7-5de1-939a7f9aa551/58d19abd-380f-4c60-baad-aa33af36c344_A.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/99/3f/ae993f6e-5515-b959-2134-5cde56b8e4c4/d96015a2-a249-42f2-9bd3-113804eb338d_B.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/60/70/fb6070d2-4605-40e8-1a66-1d10f636cbc9/5afd5fd8-62b2-44ff-9eb7-d36bbd0bb307_C.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/23/da/a623da00-e3c9-6e31-12c1-185827128032/d5d52cc2-d4da-4d45-983b-8cbeff664f65_D.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/be/e4/67bee4e8-553b-d741-a86c-505899f4c149/dceedd5b-b92d-46bf-b344-e15ae64331b5_E.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/40/b8/7a40b87e-da43-b5f3-c5d9-66e5fc39f1ac/4072a7df-6bca-4e84-bbde-7f8733d60ab1_F.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赛博神医-猜病每日挑战小测验]]></title>
-        <id>赛博神医-猜病每日挑战小测验-us-1749464047049</id>
-        <link href="https://apps.apple.com/us/app/%E8%B5%9B%E5%8D%9A%E7%A5%9E%E5%8C%BB-%E7%8C%9C%E7%97%85%E6%AF%8F%E6%97%A5%E6%8C%91%E6%88%98%E5%B0%8F%E6%B5%8B%E9%AA%8C/id6744998205?uo=4"/>
-        <updated>2025-06-09T10:14:07.049Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E8%B5%9B%E5%8D%9A%E7%A5%9E%E5%8C%BB-%E7%8C%9C%E7%97%85%E6%AF%8F%E6%97%A5%E6%8C%91%E6%88%98%E5%B0%8F%E6%B5%8B%E9%AA%8C/id6744998205?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/53/2f/85532f7b-20af-6f40-429e-3f246a7e4ed4/AppIcon-0-1x_U007epad-0-1-85-220-0.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    买断制VIP：<b>$9.99</b>
-  </li><li>
-    月度VIP：<b>$0.99</b>
-  </li><li>
-    1年VIP：<b>$1.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  想尝试医生护士的日常，却没时间读医学院？
-这款应用让你随时随地体验医生护士的日常生活！
-医疗模拟新体验，轻松解锁白大褂技能！
-
-1. 【速诊挑战】
-1. 面对真实病例，60秒内给出诊断
-2. 越准越快，评级越高（S级大神就是你！）
-3. 从菜鸟到专家，四级难度逐步挑战
-4. 解锁医生职称，从实习医生晋升到主任医师
-2. 【赛博护士】
-1. 与难缠的患者实时对话，每次对话都是独特体验
-2. 遇见各类"脾气"患者——焦虑的、生气的、怀疑的，用沟通技巧征服他们
-3. 通过选择合适的回应，提升患者好感度，达95%即可通关
-4. 患者情绪实时变化，你的每句话都在影响治疗结果
-3. 【赛博医生】
-1. 当一次赛博医生，对话诊断患者疾病；
-2. 多样化病例库：每个难度对应不同疾病类型，从常见病到罕见疾病
-3. 计时挑战：在有限时间内完成诊断，考验反应速度和专业判断
-
-特色功能
-1. 医学情景高度还原：基于真实医疗场景设计
-2. 多样化患者反应：不再是固定剧本，每次对话都充满惊喜
-3. 进度保存：随时暂停，随时继续你的医疗生涯
-4. 无需专业知识：即使零医学背景也能轻松上手
-
-用户真实评价
-"下班后的解压神器！通关的成就感比打游戏还爽！" 
-"原来哄病人开心这么有技巧，学到了!" 
-"医学生表示很实用，临床实习前的热身工具" 
-不需要医学背景，不需要专业知识，只要你对医疗世界有一点好奇心，这款应用就能带给你全新体验。
-立即下载，今天就成为口袋里的神医！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deco: Wallpaper Creator]]></title>
-        <id>Deco: Wallpaper Creator-us-1749464047049</id>
-        <link href="https://apps.apple.com/us/app/deco-wallpaper-creator/id6742457882?uo=4"/>
-        <updated>2025-06-09T10:14:07.049Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/deco-wallpaper-creator/id6742457882?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/2b/6c/972b6c76-b046-01a4-3735-64f667dc2081/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-P3-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h2>Application Description</h2><p>
-  Deco: Wallpaper Your Way. Stop searching, start creating. Download Deco and design the wallpaper only you can imagine.
-
-Tired of boring backgrounds? Unleash your creativity with Deco and design stunning, unique wallpapers for your iPhone Lock Screen and Home Screen! Go way beyond the defaults and make your device truly yours.
-
-Create Your Vibe:
-
-Photos: Bring your memories to life! Use your own photos as backgrounds – Deco can even intelligently separate the subject* so your stickers tuck neatly behind (or in front of) it.
-Gradients: Blend gorgeous, smooth color transitions with an easy-to-use editor and inspiring presets. Perfect for subtle or vibrant looks.
-Stripes: Design chic and custom stripe patterns. You control the colors, angle, spacing, and background for endless possibilities. Presets help you get started fast.
-Color: Sometimes simple is best. Pick the exact solid color that matches your mood or theme.
-Image Playground: Feeling adventurous? Generate completely unique scenes using the magic of AI directly within Deco*.
-
-Add Your Personal Touch:
-Stickers: Layer on the fun! Add text, your favorite emoji, unique stickers (including Genmoji*). Place them anywhere you like – they'll look great even on different screen sizes!
-
-Simple, Powerful, Yours:
-Deco makes advanced customization easy and fun for everyone. It combines powerful features with a beautiful, intuitive interface. Deco won in the Swift Student Challenge 2025.
-
-(Subject Separation, Image Playground, and Genmoji require compatible devices and iOS versions supporting these Apple Intelligence features.)
-
-(iPadOS support and optional iCloud Sync planned for future updates.)
-
-Privacy Policy: https://docs.aethers.world/deco/privacypolicy
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p>]]></content>
     </entry>
 </feed>

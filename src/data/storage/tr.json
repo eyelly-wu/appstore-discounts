@@ -3487,12 +3487,25 @@
     "minPriceInfo": {
       "price": 179.99,
       "formattedPrice": "₺179,99",
-      "8mm Pro": "₺1.799,99",
+      "8mm Pro": "₺119,99",
       "Silent Film Theme": "₺0,00",
       "Countdown Theme": "₺0,00",
       "Light Leak Theme": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749723256322,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "8mm Pro": "₺119,99",
+            "Silent Film Theme": "₺0,00",
+            "Light Leak Theme": "₺0,00",
+            "Countdown Theme": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -36738,6 +36751,23 @@
     "history": [
       [
         {
+          "timestamp": 1749723256322,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "VIP连续包季": "₺53,99",
+            "每日外刊": "₺57,99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "₺1.299,99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "₺1.299,99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "₺1.299,99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "₺1.299,99",
+            "林小鹿英语精读（1-7季合集升级版）": "₺2.999,99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "₺1.299,99",
+            "林小鹿经济学人精读": "₺899,99",
+            "精听党 | 英语六级真题精品课": "₺349,99"
+          }
+        },
+        {
           "timestamp": 1749719616136,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -56716,10 +56746,22 @@
       "price": 0,
       "formattedPrice": "Free",
       "年度订阅": "₺179,99",
-      "乐桥终身会员": "₺349,99",
+      "乐桥终身会员": "₺179,99",
       "连续按月订阅": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749723256322,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "年度订阅": "₺179,99",
+            "乐桥终身会员": "₺179,99",
+            "连续按月订阅": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749603724130,
@@ -59618,6 +59660,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749723256322,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Very Large Investment": "₺129,99",
+            "Huge Investment": "₺229,99",
+            "Bundle": "₺449,99",
+            "Game Editor": "₺249,99",
+            "Investment": "₺99,99",
+            "Large Investment": "₺129,99",
+            "Premium livery bundle": "₺249,99",
+            "Chairman's Payment": "₺249,99",
+            "Pre registration bundle": "₺249,99"
+          }
+        },
         {
           "timestamp": 1749719616136,
           "price": 229.99,

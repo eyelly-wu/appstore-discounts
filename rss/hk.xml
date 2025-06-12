@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-12T04:31:32.091Z</updated>
+    <updated>2025-06-12T10:35:12.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T04:31:32.092Z</updated>
+        <updated>2025-06-12T10:35:12.984Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:67474973430475776+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkThu, 12 Jun 2025 04:31:32 GMT</id>
+        <id>rankinghkThu, 12 Jun 2025 10:35:12 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T04:31:32.093Z</updated>
+        <updated>2025-06-12T10:35:12.984Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -163,6 +163,29 @@ feedId:67474973430475776+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id6739975257">乐桥</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>乐桥终身会员</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
       </td>
       <td>
@@ -177,7 +200,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id352247139">Calorie Counter PRO MyNetDiary</a>
@@ -200,7 +223,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id403684733">Badoo進階版</a>
@@ -223,7 +246,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id703265535">FocusDots · 專注於當下</a>
@@ -240,7 +263,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
@@ -265,7 +288,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -282,7 +305,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -299,7 +322,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1038014543">Day R Premium: last world war</a>
@@ -322,7 +345,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1094038347">Only You Are Here</a>
@@ -349,7 +372,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1108032375">Rise of the Tomb Raider™</a>
@@ -366,7 +389,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -383,7 +406,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1238247658">Cluedo: Classic Edition</a>
@@ -406,7 +429,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1304822713">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
@@ -423,7 +446,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1439569401">Shadow of the Tomb Raider</a>
@@ -440,7 +463,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1439886655">Cultist Simulator</a>
@@ -457,7 +480,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1453820315">This Is the Police 2</a>
@@ -474,7 +497,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1512751689">The Game of Life 2</a>
@@ -497,7 +520,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1519571900">Luwian</a>
@@ -514,7 +537,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -531,7 +554,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1523146826">全民RPG：重啟</a>
@@ -548,7 +571,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1576521142">SOULVARS</a>
@@ -565,7 +588,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
@@ -582,7 +605,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -599,7 +622,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1640627334">Resident Evil Village for Mac</a>
@@ -626,7 +649,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1642715290">Little Big Workshop</a>
@@ -643,7 +666,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6450980545">Resident Evil Village</a>
@@ -672,7 +695,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6462360082">Resident Evil 4</a>
@@ -707,7 +730,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6469114836">スイカゲーム-Aladdin X</a>
@@ -730,7 +753,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6740471827">手錶經典迷宮遊戲</a>
@@ -747,7 +770,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -764,7 +787,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -781,27 +804,10 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/hk/app/id6742457882">Deco: Wallpaper Creator</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6739975257">乐桥</a>
+        <a href="https://apps.apple.com/hk/app/id6742457882">Deco: Wallpaper Creator</a>
       </td>
       <td>
         <ul>
@@ -950,6 +956,54 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乐桥]]></title>
+        <id>乐桥-hk-1749723256322</id>
+        <link href="https://apps.apple.com/hk/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4"/>
+        <updated>2025-06-12T10:14:16.322Z</updated>
+        <summary type="html"><![CDATA[乐桥终身会员: HK$ 58.00 → HK$ 32.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/ab/57/34ab5745-f407-2cee-34be-8de2b61baa42/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>乐桥终身会员：</strong><span>HK$ 58.00</span> → <b>
+  <strong>HK$ 32.00</strong>
+</b><span>[HK$ 32.00 ~ HK$ 58.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    年度订阅：<b>HK$ 32.00</b>
+  </li><li>
+    乐桥终身会员：<b>HK$ 32.00</b>
+  </li><li>
+    连续按月订阅：<b>HK$ 18.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  为您的 Apple Music 音乐库注入新活力！乐桥(TuneShift) 让您轻松拥有完整的音乐收藏，将网易云音乐和QQ音乐上珍藏的音乐智能匹配到 Apple Music 平台。
+
+告别繁琐的手动搜索，只需简单几步，让您在 Apple Music 上重获完整音乐库。我们的智能引擎确保您能找到最贴近原版的音乐作品。
+
+核心优势：
+
+• 顶级音乐匹配引擎，精准定位您喜爱的曲目
+• 完整保留原始收藏结构和播放顺序
+• 实时进度展示，随时掌握处理状态
+• 简约设计，一键操作，体验流畅
+
+隐私保护：
+我们始终将用户隐私放在首位，严格遵守隐私协议，确保您的账号信息安全可靠。
+
+为什么选择乐桥：
+
+专业的音乐识别技术
+优质的匹配成功率
+快速的处理效率
+人性化的操作流程
+让乐桥成为您的专业音乐管理工具，享受完美的 Apple Music 体验！
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Badoo進階版]]></title>
@@ -1735,102 +1789,5 @@ Expand your knowledge with the DLCs: New Legacies, New Ascensions, New Mechanics
 
 If you encounter any issue with the game, please click on “Contact us” at the bottom of this page and give us as many details as possible regarding the issue and your device: https://playdigious.helpshift.com/hc/en/11-cultist-simulator/?p=ios
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/8a/a8/dc/8aa8dc78-ea28-dab6-1996-780292a1ad6f/77d332a6-e575-4c9c-8971-cfde8184c682_app_store_screenies_-_iphone_5_2208x1242_-_5_outwit_the_authorities.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/95/1e/12/951e124f-8465-94f6-f9dc-b121dcc4ff3c/b90386ab-e5fe-4e50-a134-c208f5a8d3a4_app_store_screenies_-_iphone_5_2208x1242_-_1_110k_words.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/60/28/ab/6028abcd-7e6b-ee06-c048-86c16665b36e/d56eb06a-369c-44c9-8353-cba5d392a0ab_app_store_screenies_-_iphone_5_2208x1242_-_4_unravel_arcane_mysteries.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/83/2f/6a/832f6a73-52e0-e039-0bcc-76540eea76fb/ee2a1972-7f26-4c33-80a4-853bc9ce593b_app_store_screenies_-_iphone_5_2208x1242_-_2_bafta_nominated.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/02/9d/ca/029dca17-50ea-7d6d-d2d3-595d902db745/80f7b96c-ac74-40d0-a74f-1f995b7ba77a_app_store_screenies_-_iphone_5_2208x1242_-_3_write_your_own_story.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/92/93/68/9293680e-18e1-97d5-cdba-1ccf15867b50/3abe3a6b-0bbf-4a3e-a375-bcb67bf3c6f7_app_store_screenies_-_iphone_5_2208x1242_-_6_seize_forbidden_treasures.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/dd/20/04/dd2004a8-2aab-d876-2405-0dd78e4c9e83/33bf1e28-a73c-460d-b0fc-e9614bf4c6dc_app_store_screenies_-_iphone_5_2208x1242_-_8_feed_on_your_disciples.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/87/48/ec/8748ec80-3f61-e7bc-27cc-fbe3b622f900/8ec85158-a7ed-4f39-abaf-7547dec74cfe_app_store_screenies_-_iphone_5_2208x1242_-_7_summon_alien_gods.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9d/80/0a/9d800a82-7828-6fc8-912b-26bccc96c3f2/91c4454d-a4bf-4a01-8859-8a72f0f5c718_exile_launch_dlc_promo_5_2732_x_2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9b/67/3a/9b673a15-7970-f3a7-4389-9876ed342254/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/30/2c/e8/302ce872-c877-eec7-ccc0-fb62278dca3b/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6c/00/0d/6c000da1-2529-7db0-7d9a-521581bb32bd/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/29/ac/35/29ac3572-49ed-3d51-5921-0bbb2a5f9d23/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f9/a7/d9/f9a7d9b4-74e1-b8bc-3a06-0a8289994805/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ac/dd/8f/acdd8f46-1231-dfba-acb2-2289db5bfea9/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9e/f5/c6/9ef5c63d-5b66-6441-35d5-1e94e5418988/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/91/94/67/9194677f-ce6e-627e-d644-58019228c670/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赛博神医-猜病每日挑战小测验]]></title>
-        <id>赛博神医-猜病每日挑战小测验-hk-1749464047049</id>
-        <link href="https://apps.apple.com/hk/app/%E8%B5%9B%E5%8D%9A%E7%A5%9E%E5%8C%BB-%E7%8C%9C%E7%97%85%E6%AF%8F%E6%97%A5%E6%8C%91%E6%88%98%E5%B0%8F%E6%B5%8B%E9%AA%8C/id6744998205?uo=4"/>
-        <updated>2025-06-09T10:14:07.049Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 8.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E8%B5%9B%E5%8D%9A%E7%A5%9E%E5%8C%BB-%E7%8C%9C%E7%97%85%E6%AF%8F%E6%97%A5%E6%8C%91%E6%88%98%E5%B0%8F%E6%B5%8B%E9%AA%8C/id6744998205?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/53/2f/85532f7b-20af-6f40-429e-3f246a7e4ed4/AppIcon-0-1x_U007epad-0-1-85-220-0.jpeg/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 8.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ HK$ 8.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    月度VIP：<b>HK$ 8.00</b>
-  </li><li>
-    1年VIP：<b>HK$ 18.00</b>
-  </li><li>
-    买断制VIP：<b>HK$ 88.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  想尝试医生护士的日常，却没时间读医学院？
-这款应用让你随时随地体验医生护士的日常生活！
-医疗模拟新体验，轻松解锁白大褂技能！
-
-1. 【速诊挑战】
-1. 面对真实病例，60秒内给出诊断
-2. 越准越快，评级越高（S级大神就是你！）
-3. 从菜鸟到专家，四级难度逐步挑战
-4. 解锁医生职称，从实习医生晋升到主任医师
-2. 【赛博护士】
-1. 与难缠的患者实时对话，每次对话都是独特体验
-2. 遇见各类"脾气"患者——焦虑的、生气的、怀疑的，用沟通技巧征服他们
-3. 通过选择合适的回应，提升患者好感度，达95%即可通关
-4. 患者情绪实时变化，你的每句话都在影响治疗结果
-3. 【赛博医生】
-1. 当一次赛博医生，对话诊断患者疾病；
-2. 多样化病例库：每个难度对应不同疾病类型，从常见病到罕见疾病
-3. 计时挑战：在有限时间内完成诊断，考验反应速度和专业判断
-
-特色功能
-1. 医学情景高度还原：基于真实医疗场景设计
-2. 多样化患者反应：不再是固定剧本，每次对话都充满惊喜
-3. 进度保存：随时暂停，随时继续你的医疗生涯
-4. 无需专业知识：即使零医学背景也能轻松上手
-
-用户真实评价
-"下班后的解压神器！通关的成就感比打游戏还爽！" 
-"原来哄病人开心这么有技巧，学到了!" 
-"医学生表示很实用，临床实习前的热身工具" 
-不需要医学背景，不需要专业知识，只要你对医疗世界有一点好奇心，这款应用就能带给你全新体验。
-立即下载，今天就成为口袋里的神医！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deco: Wallpaper Creator]]></title>
-        <id>Deco: Wallpaper Creator-hk-1749464047049</id>
-        <link href="https://apps.apple.com/hk/app/deco-wallpaper-creator/id6742457882?uo=4"/>
-        <updated>2025-06-09T10:14:07.049Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 22.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/deco-wallpaper-creator/id6742457882?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/2b/6c/972b6c76-b046-01a4-3735-64f667dc2081/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-P3-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 22.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 22.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 8.00</b>
-</p><h2>应用描述</h2><p>
-  Deco: Wallpaper Your Way. Stop searching, start creating. Download Deco and design the wallpaper only you can imagine.
-
-Tired of boring backgrounds? Unleash your creativity with Deco and design stunning, unique wallpapers for your iPhone Lock Screen and Home Screen! Go way beyond the defaults and make your device truly yours.
-
-Create Your Vibe:
-
-Photos: Bring your memories to life! Use your own photos as backgrounds – Deco can even intelligently separate the subject* so your stickers tuck neatly behind (or in front of) it.
-Gradients: Blend gorgeous, smooth color transitions with an easy-to-use editor and inspiring presets. Perfect for subtle or vibrant looks.
-Stripes: Design chic and custom stripe patterns. You control the colors, angle, spacing, and background for endless possibilities. Presets help you get started fast.
-Color: Sometimes simple is best. Pick the exact solid color that matches your mood or theme.
-Image Playground: Feeling adventurous? Generate completely unique scenes using the magic of AI directly within Deco*.
-
-Add Your Personal Touch:
-Stickers: Layer on the fun! Add text, your favorite emoji, unique stickers (including Genmoji*). Place them anywhere you like – they'll look great even on different screen sizes!
-
-Simple, Powerful, Yours:
-Deco makes advanced customization easy and fun for everyone. It combines powerful features with a beautiful, intuitive interface. Deco won in the Swift Student Challenge 2025.
-
-(Subject Separation, Image Playground, and Genmoji require compatible devices and iOS versions supporting these Apple Intelligence features.)
-
-(iPadOS support and optional iCloud Sync planned for future updates.)
-
-Privacy Policy: https://docs.aethers.world/deco/privacypolicy
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p>]]></content>
     </entry>
 </feed>

@@ -13907,6 +13907,25 @@
     "history": [
       [
         {
+          "timestamp": 1749723256322,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "USD 3.99",
+            "Ayatsugu_Otowa Collection": "USD 3.99",
+            "Sherwin Collection": "USD 3.99",
+            "Capchii Collection": "USD 3.99",
+            "VII Bundle 06": "USD 12.99",
+            "VII Bundle 05": "USD 10.99",
+            "VII Bundle 03": "USD 6.99",
+            "VII Bundle 02": "USD 4.99",
+            "VII Bundle 04": "USD 8.99",
+            "VII Bundle 01": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749553861289,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -55817,10 +55836,22 @@
       "price": 0,
       "formattedPrice": "免費",
       "年度订阅": "USD 3.99",
-      "乐桥终身会员": "USD 7.99",
+      "乐桥终身会员": "USD 3.99",
       "连续按月订阅": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749723256322,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度订阅": "USD 3.99",
+            "乐桥终身会员": "USD 3.99",
+            "连续按月订阅": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749603724130,
