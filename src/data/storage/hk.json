@@ -21080,6 +21080,14 @@
     "history": [
       [
         {
+          "timestamp": 1749719616136,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748251078667,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -22032,6 +22040,14 @@
       "formattedPrice": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749719616136,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748251078667,
@@ -60329,8 +60345,8 @@
   "1601194499": {
     "name": "勇者鬥惡龍 創世小玩家",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00",
+      "price": 228,
+      "formattedPrice": "HK$ 228.00",
       "追加道具組": "HK$ 48.00",
       "追加道具・魔毯": "HK$ 22.00",
       "追加道具・點陣戒指": "HK$ 22.00",
@@ -60347,6 +60363,20 @@
       "追加道具・行星儀": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749719616136,
+          "price": 228,
+          "formattedPrice": "HK$ 228.00",
+          "inAppPurchases": {
+            "追加道具組": "HK$ 48.00",
+            "追加道具・魔毯": "HK$ 22.00",
+            "追加道具・點陣戒指": "HK$ 22.00",
+            "追加道具・頭目怪物組": "HK$ 22.00",
+            "追加道具・行星儀": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749413560175,

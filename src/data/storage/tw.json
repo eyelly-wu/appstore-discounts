@@ -20943,6 +20943,14 @@
     "history": [
       [
         {
+          "timestamp": 1749719616136,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748251078667,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -22237,6 +22245,14 @@
       "formattedPrice": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749719616136,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748251078667,
@@ -29918,6 +29934,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749719616136,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Purchase game": "$30.00",
+            "Props Tip: Temple corner": "$30.00",
+            "Props Tip: Pyramid": "$30.00",
+            "Props Tip: flower": "$30.00",
+            "Get tips on holographic camera": "$30.00",
+            "Get tips about two weeks mesh box factory eye": "$30.00",
+            "Get tips about the triangle blocks (1-6)": "$30.00",
+            "Get tips on the bucket": "$30.00",
+            "Get tips on stone-eyed": "$30.00",
+            "Get tips about this mysterious stone": "$30.00"
+          }
+        },
         {
           "timestamp": 1749716244670,
           "price": 30,
@@ -58957,8 +58990,8 @@
   "1601194499": {
     "name": "勇者鬥惡龍 創世小玩家",
     "maxPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00",
+      "price": 990,
+      "formattedPrice": "$990.00",
       "追加道具組": "$190.00",
       "追加道具・魔毯": "$90.00",
       "追加道具・點陣戒指": "$90.00",
@@ -58975,6 +59008,20 @@
       "追加道具・頭目怪物組": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749719616136,
+          "price": 990,
+          "formattedPrice": "$990.00",
+          "inAppPurchases": {
+            "追加道具組": "$190.00",
+            "追加道具・魔毯": "$90.00",
+            "追加道具・點陣戒指": "$90.00",
+            "追加道具・行星儀": "$90.00",
+            "追加道具・頭目怪物組": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749413560175,
