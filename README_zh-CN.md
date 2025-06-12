@@ -45,19 +45,19 @@
 
 # 如何订阅
 
-> 友情提示:
+> 友情提示:  
 > 通过 `RSS` 和 `Telegram` 订阅需要科学上网才能有好的体验，[了解如何科学上网](https://github.com/eyelly-wu/vpn)
-
+    
 ## RSS
 
-| 编码 | 国家或地区 | RSS 源                                                                         |
-| :--- | :--------- | :----------------------------------------------------------------------------- |
-| cn   | 中国大陆   | https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/cn.xml |
-| hk   | 中国香港   | https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/hk.xml |
-| mo   | 中国澳门   | https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/mo.xml |
-| tw   | 中国台湾   | https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/tw.xml |
-| us   | 美国       | https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/us.xml |
-| tr   | 土耳其     | https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/tr.xml |
+|编码|国家或地区|RSS 源|
+|:-|:-|:-|
+|cn|中国大陆|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/cn.xml|
+|hk|中国香港|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/hk.xml|
+|mo|中国澳门|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/mo.xml|
+|tw|中国台湾|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/tw.xml|
+|us|美国|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/us.xml|
+|tr|土耳其|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/tr.xml|
 
 ## Telegram
 点击 [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel") 订阅
@@ -68,15 +68,15 @@
 1. 获取付费排行榜的应用信息
 2. 更新跟踪的应用列表
 3. 获取应用最新价格信息
-   1. 通过 [iTunes Search API](https://developer.apple.com/library/`archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1) 获取应用详细信息和 `应用本体` 的价格
+   1. 通过 [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1) 获取应用详细信息和 `应用本体` 的价格
    2. 基于上一步获取的应用详情链接，解析链接获取 `App 内购买项目` 的价格
 4. 读取已存储价格信息
 5. 计算出折扣信息
 6. 储存最新价格信息
 7. 更新 `RSS` 文件
-8. 推送通知到 `Telegram`
-9. 推送通知到 `钉钉`
-10. 更新 `README.md`
+8. 推送通知到 `Telegram` 
+9. 推送通知到 `钉钉` 
+10. 更新 `README.md` 
 11. 提交 `Git` 更新
 
 以上流程走完，如果有折扣信息，订阅了 `RSS 源` 和 `Telegram 频道` 的朋友，会收到推送
