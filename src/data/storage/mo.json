@@ -55293,6 +55293,23 @@
     "history": [
       [
         {
+          "timestamp": 1749776554690,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "USD 1.99",
+            "Vervaet Hydro Trike 5x5": "USD 1.99",
+            "Kubota RTV-XG850 SIDEKICK": "USD 1.99",
+            "Case IH Austoft 8800 Multi-Row": "USD 1.99",
+            "Krone BiG Pack 1290 HDP VC": "USD 0.99",
+            "Kotte PQ 32000": "USD 0.99",
+            "KINZE 3665 Blue Drive": "USD 0.99",
+            "Versatile 4WD 620": "USD 1.99",
+            "Amazone CITAN 15001-C": "USD 0.99",
+            "Claas Xerion 5000": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1749769958859,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -56006,7 +56023,7 @@
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99",
-      "年度订阅": "USD 3.99",
+      "年度订阅": "USD 9.99",
       "乐桥终身会员": "USD 7.99",
       "连续按月订阅": "USD 1.99",
       "月度高级订阅": "USD 1.99",
@@ -56023,6 +56040,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749776554690,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高级订阅": "USD 1.99",
+            "年度高级订阅": "USD 4.99",
+            "年度订阅": "USD 9.99",
+            "乐桥终身会员": "USD 3.99",
+            "连续按月订阅": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1749759261922,
           "price": 0,

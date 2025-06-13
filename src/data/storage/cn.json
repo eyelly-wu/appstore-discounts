@@ -1738,6 +1738,25 @@
     "history": [
       [
         {
+          "timestamp": 1749776554690,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro + 家人共享": "¥168.00",
+            "forScore Pro 30-Day Pass": "¥22.00",
+            "Haydn: String Quartets": "¥15.00",
+            "Christmas Carol Collection": "¥15.00",
+            "Bach: Cello Suites": "¥15.00",
+            "Vivaldi: The Four Seasons": "¥15.00",
+            "Mozart: Twelve Duets": "¥15.00",
+            "The Mutopia Piano Collection": "¥38.00",
+            "forScore Pro": "¥98.00",
+            "Voluntary Upgrade": "¥58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749225760759,
           "price": 168,
           "formattedPrice": "¥168.00",
@@ -21257,6 +21276,25 @@
       "商会支援计划五": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749776554690,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "普通商会签约": "¥40.00",
+            "刘备连衣裙礼包": "¥6.00",
+            "每日特权礼包": "¥6.00",
+            "300钻石": "¥30.00",
+            "60钻石": "¥6.00",
+            "每日招财礼包": "¥12.00",
+            "6480钻石": "¥648.00",
+            "980钻石": "¥98.00",
+            "高级商会签约": "¥243.00",
+            "每日特惠礼包一": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749654843218,
@@ -55887,7 +55925,7 @@
     "maxPriceInfo": {
       "price": 28,
       "formattedPrice": "¥28.00",
-      "年度订阅": "¥28.00",
+      "年度订阅": "¥68.00",
       "乐桥终身会员": "¥58.00",
       "连续按月订阅": "¥12.00",
       "月度高级订阅": "¥12.00",
@@ -55904,6 +55942,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749776554690,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "连续按月订阅": "¥12.00",
+            "乐桥终身会员": "¥28.00",
+            "年度订阅": "¥68.00",
+            "月度高级订阅": "¥12.00",
+            "年度高级订阅": "¥38.00"
+          }
+        },
         {
           "timestamp": 1749759261922,
           "price": 0,

@@ -10372,6 +10372,25 @@
     "history": [
       [
         {
+          "timestamp": 1749776554690,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "₺39,99",
+            "Classic Tack Tower Skin": "₺99,99",
+            "Classic Super Monkey Skin Sale": "₺39,99",
+            "Classic Super Monkey Skin": "₺99,99",
+            "Classic Ice Tower Skin Sale": "₺39,99",
+            "Classic Ice Tower Skin": "₺99,99",
+            "Classic Bomb Tower Skin Sale": "₺39,99",
+            "Classic Bomb Tower Skin": "₺99,99",
+            "Classic Dart Monkey Skin Sale": "₺39,99",
+            "Classic Dart Monkey Skin": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746658943078,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -17952,6 +17971,25 @@
       "ThemeA2B1C0": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749776554690,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "₺0,00",
+            "ThemeA0B1C0": "₺0,00",
+            "ThemeA1B0C0": "₺0,00",
+            "ThemeA0B1C1": "₺0,00",
+            "ThemeA1B0C1": "₺0,00",
+            "ThemeA1B1C0": "₺0,00",
+            "ThemeA2B0C0": "₺0,00",
+            "主题大礼包": "₺179,99",
+            "ThemeA2B0C1": "₺179,99",
+            "ThemeA2B1C0": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748030555725,
@@ -38046,6 +38084,23 @@
     "history": [
       [
         {
+          "timestamp": 1749776554690,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "Orient Express": "₺129,99",
+            "New York 2121 Board": "₺249,99",
+            "Golden Dice": "₺229,99",
+            "The Complete Collection": "₺1.499,99",
+            "The Unicorn": "₺129,99",
+            "The Rainbow Bundle": "₺499,99",
+            "Victorian London Board": "₺249,99",
+            "Theme Collection": "₺899,99",
+            "Lava Dice": "₺229,99"
+          }
+        },
+        {
           "timestamp": 1749766333968,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -57156,7 +57211,7 @@
     "maxPriceInfo": {
       "price": 179.99,
       "formattedPrice": "₺179,99",
-      "年度订阅": "₺179,99",
+      "年度订阅": "₺449,99",
       "乐桥终身会员": "₺349,99",
       "连续按月订阅": "₺99,99",
       "月度高级订阅": "₺99,99",
@@ -57172,6 +57227,20 @@
       "年度高级订阅": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749776554690,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "月度高级订阅": "₺99,99",
+            "年度高级订阅": "₺229,99",
+            "年度订阅": "₺449,99",
+            "乐桥终身会员": "₺349,99",
+            "连续按月订阅": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749759261922,
