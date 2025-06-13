@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-13T10:35:01.389Z</updated>
+    <updated>2025-06-13T23:34:20.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T10:35:01.390Z</updated>
+        <updated>2025-06-13T23:34:20.049Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrFri, 13 Jun 2025 10:35:01 GMT</id>
+        <id>rankingtrFri, 13 Jun 2025 23:34:20 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T10:35:01.390Z</updated>
+        <updated>2025-06-13T23:34:20.050Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -50,13 +50,13 @@ feedId:99063474310237184+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1131</b>
+        <b>1133</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>930</b>
+        <b>932</b>
       </td>
       <td>
         <b>13</b>
@@ -67,13 +67,13 @@ feedId:99063474310237184+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1028</b>
+        <b>1030</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>856</b>
+        <b>858</b>
       </td>
       <td>
         <b>12</b>
@@ -117,6 +117,31 @@ feedId:99063474310237184+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id6739975257">TuneShift</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>4</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>乐桥终身会员</i>：<b>1</b>
+              </li><li>
+                <i>Annual Premium Subscription</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id918609651">Money Pro: Personal Finance AR</a>
       </td>
       <td>
@@ -139,7 +164,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1038014543">Day R Premium</a>
@@ -162,7 +187,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
@@ -177,29 +202,6 @@ feedId:99063474310237184+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Premium Features</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id6739975257">TuneShift</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>3</b>
-          </li><li>
-            <span>Price</span>：<b>2</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>乐桥终身会员</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -326,6 +328,23 @@ feedId:99063474310237184+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id6449251957">Motorsport Manager 4</a>
       </td>
       <td>
@@ -346,7 +365,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
@@ -363,7 +382,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id406541444">8mm Vintage Camera</a>
@@ -386,7 +405,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id510249014">Level HD.</a>
@@ -403,7 +422,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id703265535">FocusDots · Focus What Matters</a>
@@ -420,7 +439,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -437,7 +456,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -454,7 +473,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1067198688">彩云天气Pro</a>
@@ -477,7 +496,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1094038347">Only You Are Here</a>
@@ -504,7 +523,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1108032375">Rise of the Tomb Raider™</a>
@@ -521,7 +540,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -538,7 +557,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1304822713">Infinity Tank Battle</a>
@@ -555,7 +574,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
@@ -578,7 +597,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -601,7 +620,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439569401">Shadow of the Tomb Raider</a>
@@ -618,7 +637,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439886655">Cultist Simulator</a>
@@ -635,7 +654,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1449893235">Earthquake Network</a>
@@ -652,7 +671,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1453820315">This Is the Police 2</a>
@@ -669,7 +688,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1519571900">Luwian</a>
@@ -686,7 +705,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -703,7 +722,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1523146826">Everybody's RPG: Reboot</a>
@@ -720,7 +739,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1576521142">SOULVARS</a>
@@ -737,7 +756,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1601194499">DRAGON QUEST BUILDERS</a>
@@ -754,7 +773,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1610668825">FyTube - YouTube Without Ads</a>
@@ -771,7 +790,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1640627334">Resident Evil Village for Mac</a>
@@ -798,7 +817,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1642715290">Little Big Workshop</a>
@@ -815,7 +834,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1659271912">Train Dispatcher!2</a>
@@ -832,7 +851,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6450980545">Resident Evil Village</a>
@@ -861,7 +880,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6462360082">Resident Evil 4</a>
@@ -886,23 +905,6 @@ feedId:99063474310237184+userId:73658201673997312
                 <i>Weapon Upgrade Ticket x3 (A)</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>40</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -1095,6 +1097,75 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TuneShift]]></title>
+        <id>TuneShift-tr-1749856393276</id>
+        <link href="https://apps.apple.com/tr/app/tuneshift/id6739975257?uo=4"/>
+        <updated>2025-06-13T23:13:13.276Z</updated>
+        <summary type="html"><![CDATA[Annual Premium Subscription: ₺229,99 → ₺179,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/tuneshift/id6739975257?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/eb/36/15eb36ae-ea66-ed28-4dbe-159dda3bb4ae/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Annual Premium Subscription：</strong><span>₺229,99</span> → <b>
+  <strong>₺179,99</strong>
+</b><span>[₺179,99 ~ ₺229,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    月度高级订阅：<b>₺99,99</b>
+  </li><li>
+    Annual Premium Subscription：<b>₺179,99</b>
+  </li><li>
+    年度订阅：<b>₺449,99</b>
+  </li><li>
+    乐桥终身会员：<b>₺349,99</b>
+  </li><li>
+    连续按月订阅：<b>₺99,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Revitalize your Apple Music library! TuneShift intelligently matches your cherished music from NetEase Cloud Music and QQ Music to Apple Music platform.
+
+Say goodbye to tedious manual searching. With just a few simple steps, rediscover your complete music collection on Apple Music. Our smart engine ensures you find the closest matches to your original favorites.
+
+Core Advantages:
+• Premium music matching engine for precise track identification
+• Preserve complete collection structure and playback order
+• Real-time progress display
+• Minimalist design with one-click operation
+
+Privacy Protection:
+We prioritize user privacy, strictly adhering to privacy protocols to ensure your account information remains secure.
+
+Why Choose TuneShift:
+
+Professional music identification technology
+Superior matching accuracy
+Swift processing efficiency
+User-friendly interface
+Let TuneShift be your professional music management tool for the perfect Apple Music experience!
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classic Maze Game for Watch]]></title>
+        <id>Classic Maze Game for Watch-tr-1749856393276</id>
+        <link href="https://apps.apple.com/tr/app/classic-maze-game-for-watch/id6740471827?uo=4"/>
+        <updated>2025-06-13T23:13:13.276Z</updated>
+        <summary type="html"><![CDATA[Price: ₺4,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/classic-maze-game-for-watch/id6740471827?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/3b/ce9e3bbb-4f79-a61f-7e66-68d02617d17f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺4,99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ ₺4,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h2>Application Description</h2><p>Classic Maze game is a classic puzzle game, perfect for training your brain during a short break. It is designed as a very simple single player game played by sliding through fun retro mazes. Play a quick game and challenge 500 mazes to become the maze king.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Money Pro: Personal Finance AR]]></title>
@@ -2506,90 +2577,5 @@ Swift processing efficiency
 User-friendly interface
 Let TuneShift be your professional music management tool for the perfect Apple Music experience!
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day R Premium]]></title>
-        <id>Day R Premium-tr-1749582596092</id>
-        <link href="https://apps.apple.com/tr/app/day-r-premium/id1038014543?uo=4"/>
-        <updated>2025-06-10T19:09:56.092Z</updated>
-        <summary type="html"><![CDATA[Handful of caps: ₺99,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/day-r-premium/id1038014543?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/40/cb/e040cbb8-04ca-9935-b2b1-def693d42b5b/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Handful of caps：</strong><span>₺99,99</span> → <b>
-  <strong>₺39,99</strong>
-</b><span>[₺39,99 ~ ₺99,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺129,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Handful of caps：<b>₺39,99</b>
-  </li><li>
-    Pile of caps：<b>₺229,99</b>
-  </li><li>
-    Sausepan of caps：<b>₺449,99</b>
-  </li><li>
-    Special pack：<b>₺229,99</b>
-  </li><li>
-    Small pack：<b>₺39,99</b>
-  </li><li>
-    Great pack：<b>₺449,99</b>
-  </li><li>
-    Useful pack：<b>₺129,99</b>
-  </li><li>
-    Standart pack：<b>₺99,99</b>
-  </li><li>
-    Case with caps：<b>₺899,99</b>
-  </li><li>
-    Survival kit：<b>₺39,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.
-
-Benefits of Premium version:
-- Unique pet Raven
-- Starter Kit
-- Caches of useful items in shelters
-- Expanded selection of perks
-- Chat without any limitations
-- Reduced waiting time between parcels
-- Access to all kinds and colors of map markers
-
-Can you survive in the world destroyed after a nuclear war? With radiation, hunger and diseases around you. You have to cross the whole country and save your family. Who knows if they are alive, or maybe radiation and deadly virus have already reached them? Reveal a secret of the apocalypse and get your memories back during a journey across the huge territory of the USSR in the 80th. 
-
-It is not easy to survive after apocalypse. You'll face the real hungry games! Monsters, zombie, thirst, uncountable diseases and injuries, blood-thirsty enemies – you have to fight it all. Craft all your resources: weapons, clothes, means of transport. 
-
-- Hardcore survival:
-Hunger, zombie and radiation won't give you a chance to relax.
-
-- Realistic world:
-The turn of the seasons, huge map of USSR and more than 2500 different towns and cities. Hunt animals, but be careful: even rats can injure you seriously! Explore the wilderness!
-
-- A lot of opportunities:
-Multicraft, obtaining skills, hundreds of crafting schemes, a lot of ammunition.
-
-- People and stories:
-Interesting quests and helpful allies. An open game world.
-
-- Improve your skills:
-Mechanics, medicine, chemistry and many others.
-
-- Cooperative mode:
-The Online mode  with a chat room, exchange of items and united fightings. Multiplayer survival game.
-
-Explore the abandoned houses and shelters. Find weapon and build transport using various materials.
-Remember everything you learnt on chemistry and physics! It is the most realistic surviving game! 
-
-Features: 
-- Сraft system – get resources, hunt, find useful objects or weapon and create your own one! 
-- Hardcore simulator of survival 
-- Journey across the wilderness map in the multiplayer mode 
-- Choose the difficulty mode: sandbox, real life or online
-War never changes. In 1985 USSR went down before an unknown enemy. In a few days the entire country became a radioactive wasteland - violence, hunger and diseases reign here now. When you no longer loose in the fight with the death, the other survivors wait for you in the cooperative - the Online mode let you survive together dealing with difficulties, talking in the chat room and sending gifts to each other.
-
-User agreement: http://tltgames.ru/license-agreement-en
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/90/cf/0690cf73-1247-f835-15f7-cba623e19edc/1aecd46d-7ce9-4d81-9254-f628456425f6_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/36/f3/1536f3f6-01ce-9d22-4a93-7c889e80169f/09283753-f39d-41a1-a45c-a7b4e867dbc8_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/d3/6c/4dd36ca1-e042-b715-68bc-a5e4424fefd4/7ac799fd-b463-489a-8852-6fe660cc8d23_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2b/6b/3e/2b6b3e51-7ff3-a731-3d71-60a6d3976f44/d21e96ef-0353-43b6-9539-930d16b25c30_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/38/88/133888c3-3156-e830-a8da-6c0b8ef4b4a3/f7cfb957-6f62-424f-892c-2aca9a521791_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c5/cd/d2/c5cdd2ce-4318-1ede-6e82-41078196699e/d5e07146-2bb5-4e91-a9fa-b47115572314_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/e4/52/43e452a4-9079-5620-938f-4248f571ad3f/31d40a46-fdda-4684-a8f8-574a13cd83ae_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/c3/62/64c362cf-6d16-57e3-d981-964ebf8a7de9/392e8dcd-788c-43d3-ab8e-8a47b6e0bf78_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/81/97/04/81970402-ffcd-b543-eb29-a5def3c23dff/ea5affda-de2e-4178-8d42-0abc18bce379_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/1b/a4/e91ba456-6548-115e-1d6a-5f31469aa27f/b57105d1-c058-481c-9008-6239d912b164_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/fc/d5/09fcd512-30de-f8ca-beaf-59367621c593/57245464-4ab4-4aca-85e8-dbe65afa71ae_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/94/32/4b943220-f995-7db5-99cd-7b037a58e291/0d67567b-fb97-4977-9bdf-f01902998a39_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/b9/3d/2cb93d5d-72aa-b278-d25f-cd322a95f96d/3fc94b42-ea47-42e4-a8a8-b2e85d29602c_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/a2/cc/a2a2cc70-edf9-ae7d-1be7-fe35d6cab765/c211749e-8593-4699-84cd-3cddb3820ef7_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d0/47/f4/d047f41e-562e-8192-efa2-a5a1ffdae62c/0f095350-5f04-4bf9-aa2e-2a62e5544f5d_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/33/cb/a2/33cba21c-0968-a18b-f647-77d7e57f8297/5f51ada7-eae5-4631-b4b5-d6b1822158e0_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ba/9f/bf/ba9fbf20-5eb7-c07a-3af5-86d8fdb3438d/084f61e7-8001-44e5-a622-f7010273991a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/8a/93/a78a93ca-2b68-084e-e956-6e02882a5009/4b0f2b43-fddf-4124-a341-ca895b5a41b0_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/61/66/ac616636-9b7e-985e-217e-b33e81c0f562/39947d08-9a25-4897-a887-06e31ecb8eff_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/09/c2/7809c277-e401-4b9f-1c32-dc945aa0bf71/a2c7551f-3f9e-443b-ad53-2cb0dd304dd0_9.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
