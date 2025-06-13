@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-13T08:38:14.741Z</updated>
+    <updated>2025-06-13T10:35:01.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T08:38:14.741Z</updated>
+        <updated>2025-06-13T10:35:01.390Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrFri, 13 Jun 2025 08:38:14 GMT</id>
+        <id>rankingtrFri, 13 Jun 2025 10:35:01 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T08:38:14.742Z</updated>
+        <updated>2025-06-13T10:35:01.390Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -117,6 +117,31 @@ feedId:99063474310237184+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id918609651">Money Pro: Personal Finance AR</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>PLUS</i>：<b>3</b>
+              </li><li>
+                <i>GOLD</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id1038014543">Day R Premium</a>
       </td>
       <td>
@@ -137,7 +162,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
@@ -160,7 +185,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6739975257">TuneShift</a>
@@ -183,7 +208,7 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id904278510">Hitman Sniper</a>
@@ -198,29 +223,6 @@ feedId:99063474310237184+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Starter Pack</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id918609651">Money Pro: Personal Finance AR</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>PLUS</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -1093,6 +1095,109 @@ feedId:99063474310237184+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Money Pro: Personal Finance AR]]></title>
+        <id>Money Pro: Personal Finance AR-tr-1749809625415</id>
+        <link href="https://apps.apple.com/tr/app/money-pro-personal-finance-ar/id918609651?uo=4"/>
+        <updated>2025-06-13T10:13:45.415Z</updated>
+        <summary type="html"><![CDATA[PLUS: ₺799,99 → ₺199,99<br/>GOLD: ₺1.499,99 → ₺399,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/money-pro-personal-finance-ar/id918609651?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/cf/4f/d6cf4fa3-3fe5-4bdb-497c-e557448ffcc5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>PLUS：</strong><span>₺799,99</span> → <b>
+  <strong>₺199,99</strong>
+</b><span>[₺199,99 ~ ₺999,99]</span>
+  </li><li>
+    <strong>GOLD：</strong><span>₺1.499,99</span> → <b>
+  <strong>₺399,99</strong>
+</b><span>[₺399,99 ~ ₺1.499,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺39,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    PLUS：<b>₺199,99</b>
+  </li><li>
+    GOLD：<b>₺399,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  EASY BUDGET. Cut your expenses with Money Pro®!
+Expense tracker, budget planner & account manager - all in one app to get your finances under control. Money Pro works great for personal & family expense tracking.
+
+Easy sync and iPhone/iPad versions combined in one app. Money Pro is the next generation of the Money app (over 2 million downloads worldwide).
+
+FEATURES:
+
+Simple and Secure
+- quick and easy expense/income entries: save your time
+- password & backups of your data
+
+Income and Expense Tracker
+- split transactions: split one payment into multiple categories, keep it all organized
+- search by amount, category, description, payee, cheque number, etc
+- recurring expenses with custom periodicity
+- calendar for scheduling bills and expenses for the whole year ahead
+- notifications & alerts for bills due
+- tracking expenses with family members and cross-platform syncing* (PLUS or GOLD subscription required)
+- multiple profiles for organized tracking of personal and family finances
+- attachment of receipt (or any other) photos: keep important bills captured
+
+Budget Planner
+- flexible structure of categories & subcategories with over 1,500 built-in icons
+- custom periodicity: start your budget from any date
+- visual indicators for budget spending
+- transaction list for each category: access your bills with ease 
+- transferring the leftover of the previous budget period to the current one to limit your spending
+- unique icons with your photos
+
+Account Manager
+- easy management of an unlimited number of accounts
+- balance change history
+- additional fields for organizing your records: payee, description, check #, class (personal/business travel expenses). 
+- import of bank statements (files: OFX, CSV)
+- online banking (GOLD subscription required)
+
+Insightful Analytics
+- eight different reports
+- filter customization
+- quick and easy date selection
+
+Augmented Reality
+- build three-dimensional charts right on your table with AR reports (GOLD subscription required)
+
+Goals
+- set your goals and achieve them
+- visualize your goal progress with a trend chart
+- four Goal types: Save money, Pay off debt, Reduce expenses, Increase income (GOLD subscription required for last three)
+
+More
+- calculator and currency converter
+- print and export to PDF, QIF, CSV formats
+- multiple currencies & automatic update of exchange rates
+- iCloud sync for iPhone, iPad, Mac (no subscription)
+- support service & user guide (https://money.pro/guide/)
+
+PLUS subscription
+- 1 Month of PLUS: $4.99
+
+GOLD subscription
+- 1 Month of GOLD: $9.99
+
+In all the countries (except the USA), actual charges will be converted to the local currency. Payment will be charged to iTunes Account at confirmation of purchase. 
+Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. 
+Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+Subscriptions may be managed by the user, and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+
+Terms & Privacy
+- http://ibearsoft.com/privacy.html
+- http://ibearsoft.com/terms.html
+
+Money Pro is a Universal app. Pay once and use it on your iPhone, iPad, and Apple Watch.
+
+*See App Support for further details
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7d/34/a6/7d34a6a6-c0f6-3831-d340-cbc395dcf66a/4494576b-75c8-420a-876b-5b3bc930e286_iphone_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8e/ef/e8/8eefe864-6953-3c9a-89da-7ca71b963af3/2b8e42cf-d3fb-4dae-8242-e50cf8a031ac_iphone_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7c/62/9c/7c629c73-b7f8-350c-fc0b-3e2ba1ffe7d8/b4ad4e2e-5b27-4939-bbca-f40e8e35d22f_iphone_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/e6/10/38e61068-3689-f4d0-5683-14028974d76e/136586c3-17bd-4b14-9f62-65fbd418a068_iphone_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/d6/b6/6dd6b696-ff39-67f8-c045-eeab7dfab1ab/2c99c5af-b844-4ec6-9b6f-2495acaff365_iphone_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/0f/67/640f6754-6d60-2412-3eb8-a8cbd1f28ea7/c181d6fc-b3b7-4aa0-8201-f233b9a09b9c_iphone_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/1e/68/6d1e680e-8d41-2e99-8b16-947c05761b29/1272fbfd-430f-40c8-8fdf-5ec3335f3aaf_iphone_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/89/0f/ff890f99-cd55-c3ae-0d6f-831e6aac371f/9b32e789-7bea-4b05-902a-b017ac89ba30_iphone_9.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/2a/89/d42a89b9-4823-87aa-e92c-e0599f0f136c/c43997a3-ad97-4edb-8f6d-ffb6a9b18503_ipad1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/86/2f/88862fe6-4cb4-2e51-6106-7eaa0a7a033b/9e7617a6-1f54-45a8-911f-465767c021a6_ipad2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8c/1a/c2/8c1ac2a6-2f14-1019-208e-b315afff717b/14deb199-8cd9-4c28-b549-290969c4e050_ipad3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b4/65/70/b46570f2-7f09-ad72-8297-8986d44323d7/e693b6c7-f871-41cd-844d-fb27474639b8_ipad4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8d/49/f8/8d49f8f9-6273-1ca4-28a5-8f411169f328/bbce33e8-1bf5-4ec5-8f76-fcbc7dbe0e29_ipad5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/c9/17/50c917d5-9171-3f43-4642-9419c502a2df/c6a93c3d-f3ea-49aa-ae85-544ed8b24e9d_ipad7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f0/81/03/f08103f2-524e-f490-6f4d-4c3632d2a6dd/dcf54e5d-84dd-4972-b488-f08d72c98292_ipad8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ac/a9/31/aca93156-6b06-2457-d3d1-47d819a0af5c/97367d85-a952-4176-ad4e-be1d05a4899a_ipad9.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Game of Life 2]]></title>
@@ -2486,96 +2591,5 @@ War never changes. In 1985 USSR went down before an unknown enemy. In a few days
 
 User agreement: http://tltgames.ru/license-agreement-en
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/90/cf/0690cf73-1247-f835-15f7-cba623e19edc/1aecd46d-7ce9-4d81-9254-f628456425f6_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/36/f3/1536f3f6-01ce-9d22-4a93-7c889e80169f/09283753-f39d-41a1-a45c-a7b4e867dbc8_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/d3/6c/4dd36ca1-e042-b715-68bc-a5e4424fefd4/7ac799fd-b463-489a-8852-6fe660cc8d23_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2b/6b/3e/2b6b3e51-7ff3-a731-3d71-60a6d3976f44/d21e96ef-0353-43b6-9539-930d16b25c30_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/38/88/133888c3-3156-e830-a8da-6c0b8ef4b4a3/f7cfb957-6f62-424f-892c-2aca9a521791_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c5/cd/d2/c5cdd2ce-4318-1ede-6e82-41078196699e/d5e07146-2bb5-4e91-a9fa-b47115572314_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/e4/52/43e452a4-9079-5620-938f-4248f571ad3f/31d40a46-fdda-4684-a8f8-574a13cd83ae_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/c3/62/64c362cf-6d16-57e3-d981-964ebf8a7de9/392e8dcd-788c-43d3-ab8e-8a47b6e0bf78_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/81/97/04/81970402-ffcd-b543-eb29-a5def3c23dff/ea5affda-de2e-4178-8d42-0abc18bce379_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/1b/a4/e91ba456-6548-115e-1d6a-5f31469aa27f/b57105d1-c058-481c-9008-6239d912b164_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/fc/d5/09fcd512-30de-f8ca-beaf-59367621c593/57245464-4ab4-4aca-85e8-dbe65afa71ae_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/94/32/4b943220-f995-7db5-99cd-7b037a58e291/0d67567b-fb97-4977-9bdf-f01902998a39_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/b9/3d/2cb93d5d-72aa-b278-d25f-cd322a95f96d/3fc94b42-ea47-42e4-a8a8-b2e85d29602c_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/a2/cc/a2a2cc70-edf9-ae7d-1be7-fe35d6cab765/c211749e-8593-4699-84cd-3cddb3820ef7_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d0/47/f4/d047f41e-562e-8192-efa2-a5a1ffdae62c/0f095350-5f04-4bf9-aa2e-2a62e5544f5d_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/33/cb/a2/33cba21c-0968-a18b-f647-77d7e57f8297/5f51ada7-eae5-4631-b4b5-d6b1822158e0_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ba/9f/bf/ba9fbf20-5eb7-c07a-3af5-86d8fdb3438d/084f61e7-8001-44e5-a622-f7010273991a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/8a/93/a78a93ca-2b68-084e-e956-6e02882a5009/4b0f2b43-fddf-4124-a341-ca895b5a41b0_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/61/66/ac616636-9b7e-985e-217e-b33e81c0f562/39947d08-9a25-4897-a887-06e31ecb8eff_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/09/c2/7809c277-e401-4b9f-1c32-dc945aa0bf71/a2c7551f-3f9e-443b-ad53-2cb0dd304dd0_9.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Game of Life 2]]></title>
-        <id>The Game of Life 2-tr-1749550436345</id>
-        <link href="https://apps.apple.com/tr/app/the-game-of-life-2/id1512751689?uo=4"/>
-        <updated>2025-06-10T10:13:56.345Z</updated>
-        <summary type="html"><![CDATA[The Ultimate Life Collection: ₺1.299,99 → ₺899,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/the-game-of-life-2/id1512751689?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/5e/71/ad5e71f4-563c-53be-8c4a-46eb591446e7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>The Ultimate Life Collection：</strong><span>₺1.299,99</span> → <b>
-  <strong>₺899,99</strong>
-</b><span>[₺899,99 ~ ₺1.299,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺79,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    The Ultimate Life Collection：<b>₺899,99</b>
-  </li><li>
-    Mothgirl Outfit：<b>₺39,99</b>
-  </li><li>
-    Tunneler Ship：<b>₺39,99</b>
-  </li><li>
-    Foxman Bike：<b>₺39,99</b>
-  </li><li>
-    Action Car Avatar：<b>₺39,99</b>
-  </li><li>
-    Super Pet Avatar：<b>₺39,99</b>
-  </li><li>
-    Magical Girl Outfit：<b>₺39,99</b>
-  </li><li>
-    Skyscraper Avatar：<b>₺39,99</b>
-  </li><li>
-    Foxman Outfit：<b>₺39,99</b>
-  </li><li>
-    Super Hero World Bundle：<b>₺249,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Live 1000 lives in the official sequel to the classic family board game, The Game of Life! Will you be a Video Blogger or an Astronomer? Play now!
-
-Voted "Best Digital Board Game” in the Pocket Gamer Awards 2021
-Played by over 50 Million Families Worldwide
-
-Customise your peg, hop in your eco car and race your friends and family through The Game of Life 2! It’s a contemporary sequel to the classic family favourite board game, The Game of Life. With an added crossroad moment and new ways to win, what will you choose? Earn points for Knowledge and Happiness as well as Wealth. Go to College, or don’t. Get married early, save it for later, or stay single! Have kids, adopt pets, do both or neither. The choices are all yours, and every decision counts!
-
-Features
-
-The Game of Life 2 digital board game is the award-winning sequel to the original Hasbro board game, The Game of Life.
-• A GAME FOR UP 4 PLAYERS - Join 3 of your favourite people and live your dreams
-• *NEW*  VIDEO CHAT AND PLAY - Live every life face-to-face with in-game video chat
-• AN AD-FREE GAME - Enjoy the complete game with no interruptions
-• 6 TRANSLATIONS - English, French, Spanish, German, Italian and Brazilian Portuguese
-• SINGLE PLAYER - Take on our challenging AI
-• ONLINE MULTIPLAYER - Connect with fans, or invite friends and family to a private game
-• PASS & PLAY - No internet? No problem! Pass a single device between players for a wifi-free experience
-
-How to play
-
-CUSTOMISE your character
-Customise your pink, blue or newly available purple peg with a style all of your own.
-
-SPIN THE SPINNER
-The game starts with a big decision. Will you go to College or straight into work? In this classic simulation, what will your friends and family choose?
-
-It’s your LIFE PATH
-Get married or don’t, have kids, adopt pets, or both! Work as a Pet Groomer, then qualify and become a Wind Turbine Technician! The choices are yours!
-
-More WAYS TO WIN
-Earn points for every choice you make! Every choice increases your wealth, happiness or knowledge, so every decision is valid.
-
-RETIRE your way
-Continue living the life of your dreams! Relax in a luxury home, or hit the road and fulfil your bucket list! Unlike the classic board game, you can choose to venture on!
-
-Earn REWARDS to UNLOCK new items
-Unlock new pegs, outfits and vehicles by playing the game and earning rewards!
-
-In-game Video Chat
-Recreate the magic! Gather around the board with in-game video chat in Online Multiplayer Mode. It’s super easy to set-up and play:
-
-• Create your free private account
-• Invite your friends and family to chat groups
-• Start games straight from those chats
-• Play face-to-face wherever you are
-
-It’s simple, seamless fun for everyone.
-
-The Ultimate Life Collection
-Venture into a collection of 10 amazing fantasy worlds. Live life in enchanted worlds, make friends with dinosaurs in the Age of Giants and launch into the futuristic Lunar Age! Every new world features new Outfits, Vehicles, Jobs, Properties and more!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/23/0e/87230e1e-d18c-5054-7dbe-57b3c4e01a97/1de387bc-6eb0-4af5-bc54-a28878cee462_gol2_screenshots_SW_2208x1242_01_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/29/80/5729807f-83a8-1e87-0adc-2028260b4235/fe0dfded-af7f-4eab-b26e-34d9e7a9fc50_gol2_screenshots_SW_2208x1242_02_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/4a/52/c54a5291-78c9-b2d3-ac2e-b7cd6db65b1c/67495bfc-d632-4d72-a6ac-085062e1c35a_gol2_screenshots_SW_2208x1242_03_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d1/eb/bcd1eba1-e67a-bba4-70c2-70de69fec3cf/6828e707-065e-4f85-a11d-94f8988a29c6_gol2_screenshots_SW_2208x1242_04_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4d/21/c74d21ac-18ed-abb9-3bbc-c8b7cfa85382/b0d3d0e1-6901-4362-b9d0-c3016fd9a1ad_gol2_screenshots_SW_2208x1242_05_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/4c/80/104c8096-f93b-1aa5-6819-23efc8bf51d3/24ea73c2-3440-4cd0-88c7-995445ca99f0_gol2_screenshots_SW_2208x1242_06_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/6a/9c/fa6a9c46-76c9-e384-56a5-b9eefd1cff7b/0823ae56-91aa-4979-b4c2-c13d249d8888_gol2_screenshots_SW_2208x1242_07_eng.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/82/11/9982114e-e738-9e6c-63ce-0477a4eebbf6/6f1d8610-9c32-4268-ae47-c764107448e9_gol2_screenshots_SW_2732x2048_01_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/ff/c0/91ffc08d-7958-a446-9f44-26f416b050fb/1295fc37-e50b-4a02-8899-e77348cc91ea_gol2_screenshots_SW_2732x2048_02_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/3a/7d/783a7de9-c132-15c1-cd74-d2f41117c6a9/c45ff9b9-9b3b-4e84-993c-0c55e508121b_gol2_screenshots_SW_2732x2048_03_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/10/29/991029b6-95f1-9c26-2c3c-dd4661721835/d139892c-887b-485c-a583-3af0a40ad0e4_gol2_screenshots_SW_2732x2048_04_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/9d/56/469d56b1-d72f-7359-082d-2644417ef5ee/9b7b7733-7c55-4f62-a16c-5f9a029246df_gol2_screenshots_SW_2732x2048_05_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/2f/68/172f681a-4a73-ee62-74d0-f5c06a9740e5/8432a777-6cf2-465c-9eab-17885ecdc67b_gol2_screenshots_SW_2732x2048_06_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/93/3a/72933a8a-c305-0721-f33e-617db7ae4f4e/1c6e6487-8117-4d27-8ff2-ef4cbef4b6a6_gol2_screenshots_SW_2732x2048_07_eng.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
