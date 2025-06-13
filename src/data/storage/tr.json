@@ -17070,6 +17070,21 @@
     "history": [
       [
         {
+          "timestamp": 1749831326855,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ultimate Access": "₺4.499,99",
+            "Font Access": "₺1.799,99",
+            "Pro Access": "₺2.999,99",
+            "Abstract Theme 5": "₺39,99",
+            "Abstract Theme 4": "₺39,99",
+            "Abstract Theme 2": "₺39,99",
+            "Abstract Theme 3": "₺39,99",
+            "Abstract Theme 1": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1749827594721,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -27263,7 +27278,8 @@
       "Hero Murglun": "₺179,99",
       "Hero Margosa": "₺129,99",
       "Hero Dianyun": "₺249,99",
-      "Tower Shaolin Temple": "₺129,99"
+      "Tower Shaolin Temple": "₺129,99",
+      "Hero Eiskalt": "₺249,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -27292,9 +27308,29 @@
       "Hero Murglun": "₺179,99",
       "Hero Margosa": "₺39,99",
       "Hero Dianyun": "₺249,99",
-      "Tower Shaolin Temple": "₺129,99"
+      "Tower Shaolin Temple": "₺129,99",
+      "Hero Eiskalt": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749831326855,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hero Beresad": "₺299,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Tower Blazing Gem": "₺229,99",
+            "Mega Tower Bundle": "₺699,99",
+            "Hero Mortemis": "₺129,99",
+            "Pirate Kings Campaign!": "₺349,99",
+            "Hero Eiskalt": "₺249,99",
+            "Tower Grim Cemetery": "₺129,99",
+            "Hero Jack'O Lantern": "₺129,99",
+            "Tower Deep Devil's Reef": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749615718607,
