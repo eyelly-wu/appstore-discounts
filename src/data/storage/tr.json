@@ -12442,6 +12442,23 @@
     "history": [
       [
         {
+          "timestamp": 1749813052621,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Mix It Up": "₺0,00",
+            "Just For Kids": "₺0,00",
+            "The Ellen Show": "₺0,00",
+            "Super Heroes": "₺99,99",
+            "Friends": "₺129,99",
+            "Build Your Own Deck": "₺129,99",
+            "Wish You Were Here": "₺99,99",
+            "Happy Holidays": "₺99,99",
+            "Adult Supervision": "₺99,99",
+            "As Seen On TV": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1749809625415,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -17293,6 +17310,15 @@
     "history": [
       [
         {
+          "timestamp": 1749813052621,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "PLUS": "₺799,99",
+            "GOLD": "₺1.499,99"
+          }
+        },
+        {
           "timestamp": 1749809625415,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -18653,6 +18679,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749813052621,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包年": "₺159,99",
+            "金牛会员尊享版连续包月": "₺12,99",
+            "问财专业版连续包月": "₺999,99",
+            "问财进阶版连续包月": "₺399,99",
+            "598花币": "₺3.999,99",
+            "299花币": "₺1.799,99",
+            "早盘选股宝连续包月": "₺1.299,99",
+            "机构探测器连续包月": "₺379,99",
+            "金牛情报连续包月": "₺219,99",
+            "分时顶底连续包季": "₺389,99"
+          }
+        },
         {
           "timestamp": 1749809625415,
           "price": 4.99,
@@ -24100,6 +24143,23 @@
     "history": [
       [
         {
+          "timestamp": 1749813052621,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺129,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺229,99",
+            "Pile O Monkey Money": "₺229,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Double Cash Mode": "₺399,99",
+            "Paragon Unlock": "₺229,99",
+            "Tower and Paragon Unlock": "₺449,99",
+            "Vault O Monkey Money": "₺899,99"
+          }
+        },
+        {
           "timestamp": 1749809625415,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -26081,6 +26141,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749813052621,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Feature Package": "₺179,99",
+            "Element Package": "₺699,99",
+            "Automatic Package": "₺699,99",
+            "Element EXP increase": "₺399,99",
+            "Rebirth EXP increase": "₺399,99",
+            "Rebirth Package": "₺1.999,99",
+            "12000 Rubies": "₺3.999,99",
+            "50000 Rebirth Stones": "₺3.999,99",
+            "250 Hell Stones": "₺1.999,99",
+            "120 Hell Stones": "₺999,99"
+          }
+        },
         {
           "timestamp": 1749809625415,
           "price": 39.99,
@@ -61224,6 +61301,27 @@
           "timestamp": 1749543468857,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6474401925": {
+    "name": "电工宝典",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749813052621,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
           "inAppPurchases": {}
         }
       ]
