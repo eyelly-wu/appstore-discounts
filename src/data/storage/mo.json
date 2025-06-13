@@ -1274,7 +1274,8 @@
       "Pilsen HipstaPak": "USD 0.99",
       "Tiong Bahru HipstaPak": "USD 0.99",
       "Impressionist SnapPak": "USD 0.99",
-      "Fitzroy HipstaPak": "USD 0.99"
+      "Fitzroy HipstaPak": "USD 0.99",
+      "Príncipe Real HipstaPak": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -1301,9 +1302,29 @@
       "Pilsen HipstaPak": "USD 0.99",
       "Tiong Bahru HipstaPak": "USD 0.99",
       "Impressionist SnapPak": "USD 0.99",
-      "Fitzroy HipstaPak": "USD 0.99"
+      "Fitzroy HipstaPak": "USD 0.99",
+      "Príncipe Real HipstaPak": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749788455941,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Príncipe Real HipstaPak": "USD 1.99",
+            "Coyoacán HipstaPak": "USD 1.99",
+            "Ohara HipstaPak": "USD 1.99",
+            "RetroPak 2022": "USD 6.99",
+            "RetroPak 2023": "USD 9.99",
+            "RetroPak Twenty-One": "USD 4.99",
+            "Highland Park HipstaPak": "USD 0.99",
+            "Pilsen HipstaPak": "USD 0.99",
+            "Tiong Bahru HipstaPak": "USD 0.99",
+            "Impressionist SnapPak": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747940529582,
@@ -6963,6 +6984,25 @@
       "Minecraft Store Item 1": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749788455941,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Minecraft Store Item 20": "USD 19.99",
+            "Minecon - Skin Pack": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749654843218,

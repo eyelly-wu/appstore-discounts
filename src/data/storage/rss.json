@@ -7622,15 +7622,10 @@
           "range": "[USD 9.99 ~ USD 15.49]"
         }
       ]
-    },
+    }
+  ],
+  "tw": [
     {
-      "artistViewUrl": "https://apps.apple.com/mo/developer/marmalade-game-studio/id988365603?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/c6/e3/49c6e375-99ed-17ec-a77f-1c941abd917c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/c6/e3/49c6e375-99ed-17ec-a77f-1c941abd917c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -7747,101 +7742,116 @@
         "iPadAir13M3-iPadAir13M3",
         "iPadAir13M3Cellular-iPadAir13M3Cellular"
       ],
-      "advisories": [
-        "偶爾/輕度的現實生活暴力"
+      "features": [
+        "gameCenter",
+        "iosUniversal"
       ],
+      "advisories": [
+        "頻繁/強烈的成人/性暗示題材",
+        "偶而/輕微的酒精、菸草或藥物使用或相關內容",
+        "偶而/輕微的現實暴力"
+      ],
+      "isGameCenterEnabled": true,
       "kind": "software",
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/96/dd/6096dd17-f5cb-29f4-1abe-0c8ecb6f3efe/330265f0-988e-4483-8304-bf0929d10267_A_screenshots_main_1242x2208_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/27/fb/8c27fb69-6bb2-0415-e993-0aef030883fc/26bf69d0-a2d4-45b2-b260-572f98f960ba_A_screenshots_main_1242x2208_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/8a/17/318a1718-bf1a-4fbc-110f-d482fbb5dec6/76c45d0b-9adf-4ead-a88a-ad4ef1b5b56b_A_screenshots_main_1242x2208_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b4/10/1d/b4101dfa-adce-d465-fdfb-b7206f065409/e06482df-f174-4d13-9f2f-e09762477ef2_A_screenshots_main_1242x2208_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/fe/0b/57fe0ba7-db6c-4ad6-5b31-d2b82dfc4668/e4f9d5ae-6bdf-494a-9064-365cf69607e3_A_screenshots_main_1242x2208_5_eng.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/ce/d7/38ced7e2-3014-30ac-3149-02a2437f1dc1/f74ae9f8-bf51-4917-937f-22a67052b2f3_A_screenshots_main_1242x2208_6.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/a8/d3/e9a8d31f-ed0d-9d13-d0f2-01a55d867c29/9a6f6172-d164-4cdf-89fe-bc7552451f1f_clue_screenshots_apple_arcade_1242x2208_6.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f0/8f/75/f08f7561-b65e-c5c6-1276-27aa27828736/a421e5b9-4959-4de4-bc96-e839f154f7ae_clue_screenshots_apple_arcade_1242x2208_7.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/f5/14/4ff514b0-f939-df13-8087-84bd3217e009/mzl.bzdlkeau.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/12/32/43/123243f6-2ada-46b6-9d40-ef5d52b2c8c2/mzl.stqiidrz.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/64/69/52/6469521c-8e46-de39-d39d-f26221900223/mzl.zczjlcvd.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/af/3a/f4/af3af49d-e212-394a-aff8-e2b62d4f586b/mzl.qnyhsiqe.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/a0/f6/6ea0f61c-0214-ff61-ca59-542f41383ef1/mzl.jluxebmf.png/406x228bb.png"
       ],
       "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/02/e3/ca/02e3caa3-8aa8-e025-e0bc-ccb66d733a27/ed7d73f1-bafa-405a-92c5-66cc15d4257e_A_screenshots_main_2048x2732_1.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/e4/f5/cce4f5e4-b3e8-1072-5c95-c9b219b06b31/be5b52db-1bc9-4784-941b-fd3d602448e2_A_screenshots_main_2048x2732_2.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/67/bc/fe67bc8c-efff-2849-1b2f-104b09f242e6/b22cdb63-fa32-4b8d-a14d-6337ec2bc7b0_A_screenshots_main_2048x2732_3.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/36/37/22363735-6bdd-b1a9-73df-6e1338cb2b9e/9c60dcbc-fb34-4749-a3cc-6ec47be76aed_A_screenshots_main_2048x2732_4.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/9d/b3/a39db37d-ce7a-7992-069e-6994387ac9a7/fef82d1c-ea76-469f-9680-429e0a098695_A_screenshots_main_2048x2732_5_eng.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/02/a3/0a02a357-5cda-8942-cd1c-843986c6e176/cf6ef44c-9b97-4088-aa9f-bacd696ff028_A_screenshots_main_2048x2732_6.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/54/54/61/5454616e-bb84-b880-af85-5ac65186c50c/d2a75f6f-19c5-4f3e-ac86-8334d0dfb400_clue_screenshots_apple_arcade_2048x2732_6.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/e2/70/42e2704b-7602-bd67-6483-9c15db7d0fc2/7f77e34c-a1cc-4675-8f39-a692fc59e2ea_clue_screenshots_apple_arcade_2048x2732_7.png/576x768bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/70/d1/ba70d194-83d5-194f-cb52-8de9fcf5d781/mzl.evgrgmwz.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/25/e2/2a25e257-0979-20b7-48cc-f5798fb338bf/mzl.etsyiapq.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/e7/88/cae78850-19a1-d2fc-a4d8-3777b03245f4/mzl.zybyctyl.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/45/0c/a1/450ca19e-b8ef-e8d7-a9cc-66dd9dbd8f89/mzl.ldamlibv.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/81/a9/d381a9b2-4758-8ac9-e361-3e6ada871f3b/mzl.pftqxiws.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/c6/e3/49c6e375-99ed-17ec-a77f-1c941abd917c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "trackCensoredName": "Cluedo: Classic Edition",
-      "trackViewUrl": "https://apps.apple.com/mo/app/cluedo-classic-edition/id1238247658?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 5,
-      "minimumOsVersion": "11.0",
-      "price": 6.99,
-      "bundleId": "com.marmalade.cluedogameRotW",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/tw/developer/deca-live-operations-gmbh/id1464120176?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "12.0",
+      "artistId": 1464120176,
+      "artistName": "Deca Live Operations GmbH",
+      "genres": [
+        "遊戲",
+        "策略",
+        "動作"
+      ],
+      "price": 30,
+      "trackId": 904278510,
+      "trackName": "刺客任務：狙擊 (Hitman Sniper)",
+      "bundleId": "com.squareenixmontreal.hitmansniper",
+      "releaseDate": "2015-06-03T14:20:27Z",
+      "releaseNotes": "- 小修復和改進",
       "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Games",
-      "primaryGenreId": 6014,
-      "trackId": 1238247658,
-      "trackName": "Cluedo: Classic Edition",
+      "sellerName": "Deca Live Operations GmbH",
       "genreIds": [
         "6014",
         "7017",
-        "7004",
-        "6016"
+        "7001"
       ],
-      "sellerName": "Marmalade Game Studio Limited",
-      "currentVersionReleaseDate": "2024-01-12T22:30:40Z",
-      "releaseNotes": "Bug fixes and improvements",
-      "version": "2.10.1",
+      "currentVersionReleaseDate": "2025-03-11T08:42:01Z",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "version": "1.15",
       "wrapperType": "software",
-      "currency": "USD",
-      "description": "THE ORIGINAL HASBRO BOARD GAME - It’s the classic murder mystery! Who did it? With what weapon? In which room? There’s a high-risk party at the mansion and every guest is a suspect. Roll the dice, become a detective and let Cluedo begin!\n\n•        A PREMIUM DIGITAL BOARD GAME - There are no ads, no pop-ups and no pay-to-win limits. Once you buy the app, that’s it: unlimited multiplayer fun for you and your family and nothing to stop you solving the crime!\n\n•        A BRAIN TEASER - Test your detective skills. At the start of each game, Cluedo will take one suspect, one weapon, and one room from the deck, and deal the rest to the players. If you ask: “was it Colonel Mustard with the Rope in the Drawing Room”, a player holding the Colonel, the Rope or the Drawing Room must show you their card. Enter every room in search of answers!\n\n•        CLUESHEET & HINT SYSTEM - Who committed murder?! Don’t risk letting the criminal escape! Use your virtual cluesheet companion to make a note of the suspects, weapons and rooms you can eliminate. The ideal companion for every detective: cluesheet helps you make your deductions, perfect your strategy and solve the mystery.\n\n•        FAMILY FRIENDLY - It’s the original family board game by Hasbro, suitable for all players 8 years and over. With no adverts or necessary in-app purchases it’s multiplayer fun for kids and adults. With the whole board game on your mobile you can take Cluedo wherever you go! Roll the dice and solve the mystery!\n\n•        SINGLE PLAYER - Put your brain to the test against a guest list of AI murder suspects, online or offline! Choose your character, choose your opponents and let no criminal escape the mansion!\n\n•        ONLINE MULTIPLAYER - Play Cluedo with your friends and find out who’s guilty on mobile, PC or Nintendo Switch! Don’t let distance stop your board game night. Play on the go, or curl up in an armchair and settle down for a night of crime and detective work, wherever you are!\n\n•        10 ADDITIONAL THEMES - Explore ten different themed boards with Cluedo's Ultimate Detective’s Package. Listed under “Editor’s Choice” for the Most Stylish Game, our exclusive original themes are hand crafted by our studio artists. \no        Tudor Mansion: The guests at this party have turned out to be a lethal combination!\no        Vampire Castle: In a household where every suspect is a monster, who committed the crime?\no        Egyptian Adventure: Solve the crime, from the dark tombs of pharaohs to the crumbling pyramids!\no        Hollywood: In a land where life is an act, can you find the truth in the fairytale?\no        Murder Express: Challenge your friends to solve a mystery based on a classic Agatha Christie novel!\no        Sherlock: Become the great detective and solve a crime on the dark streets of London!\no        Snowy Peaks: Old friends have been reunited. Tensions are running high, but whose grudge ran that deep?\no        Tropical Mystery: Someone has rocked this boat in a big way! It’s a luxury race to the answer!\no        Venetian Masquerade: Historic Venice is beautiful, but crime lurks beneath the surface!\no        Wild West: From the jailhouse to the saloon, the story of Dr. Black’s end will spread far and wide. Only you can discover the truth!\n\n\nAbout Marmalade Game Studio\nAt Marmalade Game Studio we make quality, premium multiplayer board games. Play our classic games, including Monopoly and The Game of Life 2, anywhere on your mobile! Enjoy with your friends and family whether you’re together or apart. You can find the fun with people you know or players around the world. Our games are ad-free, family friendly fun. For quality time, look for the Marmalade Game Studio logo.",
+      "currency": "TWD",
+      "description": "成為終極無聲殺手\n進入《Hitman Sniper》，扮演探員 47（Agent 47），體驗最震撼的狙擊手遊。\n\n黑山共和國的戰略任務\n磨練策略技巧，精心策劃一場完美暗殺。\n\n死亡谷挑戰模式\n準備迎接無窮的動作考驗，測試你的僵屍獵人技巧和射擊速度。\n\n超過 150 個任務和 10 份合同\n揭露秘密與詭計，精進你的完美暗殺技巧。\n\n16 種獨一無二的槍砲\n消滅目標、收集武器零件，完成設計突擊可解鎖最強大的槍砲。\n\n與好友一較高下，競逐排行榜冠軍\n衝高分數，升上合同殺手排行第一名，成為全世界最出色的無聲殺手。",
       "languageCodesISO2A": [
         "EN",
         "FR",
         "DE",
         "IT",
         "JA",
+        "KO",
         "PT",
+        "RU",
         "ZH",
-        "ES"
+        "ES",
+        "TH",
+        "ZH",
+        "TR"
       ],
-      "fileSizeBytes": "1446521856",
-      "formattedPrice": "USD 6.99",
-      "userRatingCountForCurrentVersion": 4,
-      "trackContentRating": "12+",
-      "sellerUrl": "https://www.marmaladegamestudio.com",
-      "averageUserRatingForCurrentVersion": 5,
-      "releaseDate": "2017-05-26T23:22:27Z",
-      "genres": [
-        "遊戲",
-        "策略",
-        "桌遊類",
-        "娛樂"
-      ],
-      "artistId": 988365603,
-      "artistName": "Marmalade Game Studio",
-      "userRatingCount": 4,
+      "fileSizeBytes": "1056589824",
+      "formattedPrice": "$30.00",
+      "userRatingCountForCurrentVersion": 547,
+      "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.65265,
+      "sellerUrl": "https://decagames.com",
+      "trackCensoredName": "刺客任務：狙擊 (Hitman Sniper)",
+      "trackViewUrl": "https://apps.apple.com/tw/app/%E5%88%BA%E5%AE%A2%E4%BB%BB%E5%8B%99-%E7%8B%99%E6%93%8A-hitman-sniper/id904278510?uo=4",
+      "averageUserRating": 4.65265,
+      "contentAdvisoryRating": "17+",
+      "userRatingCount": 547,
       "inAppPurchases": {
-        "Snowy Peaks Theme": "USD 6.99",
-        "Ultimate Detective's Package": "USD 34.99",
-        "Ultimate Detective Collection": "USD 14.99"
+        "Limited Time Offer": "$490.00",
+        "超大型代幣包": "$390.00",
+        "超大型金錢包": "$290.00",
+        "促銷包": "$790.00",
+        "新手包": "$90.00",
+        "中型金錢包": "$120.00"
       },
-      "timestamp": 1749529299346,
+      "timestamp": 1749788455941,
       "discounts": [
         {
           "type": "inAppPurchase",
-          "name": "Ultimate Detective Collection",
-          "from": "USD 19.99",
-          "to": "USD 14.99",
-          "range": "[USD 14.99 ~ USD 19.99]"
+          "name": "超大型金錢包",
+          "from": "$320.00",
+          "to": "$290.00",
+          "range": "[$290.00 ~ $320.00]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "新手包",
+          "from": "$150.00",
+          "to": "$90.00",
+          "range": "[$90.00 ~ $150.00]"
         }
       ]
-    }
-  ],
-  "tw": [
+    },
     {
       "features": [
         "iosUniversal"
