@@ -18072,6 +18072,23 @@
     "history": [
       [
         {
+          "timestamp": 1749795525843,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "700 Aces": "$9.99",
+            "Race Pass": "$4.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "15000 Aces": "$99.99",
+            "Le Cont Softs - 40 Tyres Pack": "$3.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99"
+          }
+        },
+        {
           "timestamp": 1749791578148,
           "price": 0,
           "formattedPrice": "Free",
@@ -55862,14 +55879,22 @@
   "1519571900": {
     "name": "Luwian",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 5.99,
+      "formattedPrice": "$5.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749795525843,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749114152712,

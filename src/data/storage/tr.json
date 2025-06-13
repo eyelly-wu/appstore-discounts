@@ -41889,14 +41889,22 @@
   "1519571900": {
     "name": "Luwian",
     "maxPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749795525843,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749114152712,

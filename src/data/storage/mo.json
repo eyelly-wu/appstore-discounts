@@ -17432,6 +17432,22 @@
     "history": [
       [
         {
+          "timestamp": 1749795525843,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Ultimate Access": "USD 139.99",
+            "Font Access": "USD 53.99",
+            "Pro Access": "USD 96.99",
+            "Abstract Theme 5": "USD 0.99",
+            "Abstract Theme 4": "USD 0.99",
+            "Abstract Theme 2": "USD 0.99",
+            "Abstract Theme 3": "USD 0.99",
+            "Abstract Theme 1": "USD 0.99",
+            "Abstract Theme Bundle": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1749791578148,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -41631,14 +41647,22 @@
   "1519571900": {
     "name": "Luwian",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749795525843,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749114152712,
