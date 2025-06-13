@@ -7,6 +7,7 @@ import {
   wrapperWidth,
 } from './constants'
 import { getRenderInfo } from './getRenderInfo'
+import { scrapeless } from './sponsors'
 
 export default function Sponsors() {
   const { existSponsors, displaySponsors, allHeight } = getRenderInfo()
@@ -16,6 +17,23 @@ export default function Sponsors() {
   const divProps = {
     xmlns: 'http://www.w3.org/1999/xhtml',
   } as any
+
+  const tempProps = {
+    align: 'center',
+  }
+
+  const { name, logo, url } = scrapeless
+
+  return (
+    <>
+      <H1>{t('赞助商')}</H1>
+      <p {...tempProps}>
+        <a href={url}>
+          <img width="85" height="85" src={logo} alt={name} />
+        </a>
+      </p>
+    </>
+  )
 
   return (
     <>
