@@ -226,6 +226,7 @@ declare global {
   export type SponsorType = 'platinum' | 'gold' | 'silver' | 'bronze'
 
   type Sponsor = {
+    name: string
     url: string
     logo: string
     expireTime: string

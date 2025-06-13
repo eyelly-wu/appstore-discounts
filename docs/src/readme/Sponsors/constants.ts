@@ -1,6 +1,8 @@
 import { Translate } from 'i18n-pro'
+import { scrapeless } from './sponsors'
 
 const sponsor: Sponsor = {
+  name: 'appstore-discounts',
   url: 'https://github.com/appstore-discounts/appstore-discounts',
   logo: 'https://i.ibb.co/v4rvfCHT/WX20250608-214702-2x.png',
   expireTime: '2024-06-10T00:00:00.000Z',
@@ -22,7 +24,7 @@ export const sponsors: Sponsors = [
   },
   {
     type: 'silver',
-    sponsors: getSponsors(3),
+    sponsors: [scrapeless, ...getSponsors(2)],
   },
   {
     type: 'bronze',

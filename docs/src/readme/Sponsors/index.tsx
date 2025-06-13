@@ -72,7 +72,7 @@ export default function Sponsors() {
                           }}
                         >
                           {sponsors.map((sponsor) => {
-                            const { url, logo } = sponsor
+                            const { url, logo, name } = sponsor
 
                             return (
                               <a
@@ -83,7 +83,7 @@ export default function Sponsors() {
                               >
                                 <img
                                   src={logo}
-                                  alt={url}
+                                  alt={name}
                                   style={{
                                     width: width,
                                     height: height,

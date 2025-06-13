@@ -1,6 +1,21 @@
 import React, { H1, Link, List, render } from 'jsx-to-md'
+import { scrapeless } from './Sponsors/sponsors'
+import dayjs from 'dayjs'
 
 export default function Principle() {
+  const { expireTime, name, url } = scrapeless
+  const showScrapelessSponsorTips = dayjs().isBefore(expireTime)
+  const scrapelessSponsorTips = showScrapelessSponsorTips
+    ? `（${t(
+        '由{0}提供数据抓取能力',
+        ` ${render(
+          <Link href={url} title={name}>
+            Scrapeless
+          </Link>,
+        )} `,
+      )}）`
+    : ''
+
   return (
     <>
       <H1>{t('运行机制及流程')}</H1>
@@ -31,7 +46,7 @@ export default function Principle() {
                 '基于上一步获取的应用详情链接，解析链接获取{1}的价格',
                 ' `App ID` ',
                 ` \`${t('App 内购买项目')}\` `,
-              ),
+              ) + scrapelessSponsorTips,
             ],
           ],
           t('读取已存储价格信息'),
