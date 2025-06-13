@@ -45434,6 +45434,22 @@
     "history": [
       [
         {
+          "timestamp": 1749802635734,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "史诗礼包": "¥158.00",
+            "坐骑礼包504": "¥208.00",
+            "限时礼包": "¥30.00",
+            "进阶礼包": "¥178.00",
+            "饰品礼包": "¥193.00",
+            "周年献礼": "¥60.00",
+            "限时特惠": "¥12.00",
+            "升级好礼": "¥163.00",
+            "卓越豪礼": "¥18.00"
+          }
+        },
+        {
           "timestamp": 1749762726384,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -59754,6 +59770,27 @@
           "timestamp": 1749640289997,
           "price": 28,
           "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6612011484": {
+    "name": "怪物乐土",
+    "maxPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749802635734,
+          "price": 12,
+          "formattedPrice": "¥12.00",
           "inAppPurchases": {}
         }
       ]
