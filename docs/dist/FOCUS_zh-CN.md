@@ -783,7 +783,7 @@
 |357|1500098830|自动|❌|視頻大師 Pro|視頻大師 Pro|視頻大師 Pro|❌|Video Master Pro|
 |356|1503486239|自动|❌|大富翁10|大富翁10|大富翁10|Richman10|Richman10|
 |355|1504662191|自动|❌|❌|❌|❌|❌|Monarşi|
-|354|1504760106|自动|❌|Eco inc. Earth Planet|Eco inc. Earth Planet|Eco inc. Earth Planet|Eco inc.|Eco inc.|
+|354|1504760106|自动|❌|Eco inc.|Eco inc.|Eco inc.|Eco inc.|Eco inc.|
 |353|1504952058|自动|❌|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|
 |352|1505636751|自动|❌|TeleGuard|TeleGuard|TeleGuard|TeleGuard|TeleGuard|
 |351|1509344823|自动|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|
