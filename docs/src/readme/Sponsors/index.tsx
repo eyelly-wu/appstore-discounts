@@ -29,7 +29,12 @@ export default function Sponsors() {
       <H1>{t('赞助商')}</H1>
       <p {...tempProps}>
         <a href={url}>
-          <img width="85" height="85" src={logo} alt={name} />
+          <img
+            width="85"
+            height="85"
+            src="https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/refs/heads/main/docs/src/readme/Sponsors/sponsors/scrapeless/logo.png"
+            alt={name}
+          />
         </a>
       </p>
     </>
