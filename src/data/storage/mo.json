@@ -14254,6 +14254,14 @@
     "history": [
       [
         {
+          "timestamp": 1749823964128,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749651110325,
           "price": 0,
           "formattedPrice": "免費",
@@ -55528,6 +55536,14 @@
     "history": [
       [
         {
+          "timestamp": 1749823964128,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749391832097,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -56136,10 +56152,22 @@
       "乐桥终身会员": "USD 3.99",
       "连续按月订阅": "USD 1.99",
       "月度高级订阅": "USD 1.99",
-      "年度高级订阅": "USD 4.99"
+      "年度高级订阅": "USD 3.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1749823964128,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高级订阅": "USD 1.99",
+            "年度高级订阅": "USD 3.99",
+            "年度订阅": "USD 9.99",
+            "乐桥终身会员": "USD 7.99",
+            "连续按月订阅": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1749784361183,
           "price": 0,
@@ -56531,6 +56559,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749823964128,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749464047049,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-13T08:38:14.731Z</updated>
+    <updated>2025-06-13T14:33:16.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T08:38:14.733Z</updated>
+        <updated>2025-06-13T14:33:16.912Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 13 Jun 2025 08:38:14 GMT</id>
+        <id>rankingcnFri, 13 Jun 2025 14:33:16 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T08:38:14.733Z</updated>
+        <updated>2025-06-13T14:33:16.912Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1131</b>
+        <b>1132</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>930</b>
+        <b>931</b>
       </td>
       <td>
         <b>13</b>
@@ -67,13 +67,13 @@ feedId:49753297431966720+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>618</b>
+        <b>619</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>456</b>
+        <b>457</b>
       </td>
       <td>
         <b>11</b>
@@ -142,6 +142,31 @@ feedId:49753297431966720+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id6739975257">乐桥</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>4</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>乐桥终身会员</i>：<b>1</b>
+              </li><li>
+                <i>年度高级订阅</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
       </td>
       <td>
@@ -154,29 +179,6 @@ feedId:49753297431966720+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>高级功能</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6739975257">乐桥</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>2</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>乐桥终身会员</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -213,6 +215,23 @@ feedId:49753297431966720+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
       </td>
       <td>
@@ -227,7 +246,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id352247139">Calorie Counter PRO MyNetDiary</a>
@@ -250,7 +269,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id388624839">扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别</a>
@@ -273,7 +292,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id510249014">水平仪 HD</a>
@@ -290,7 +309,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id703265535">FocusDots · 专注于当下</a>
@@ -307,7 +326,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
@@ -324,7 +343,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
@@ -347,7 +366,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1304822713">无尽坦克大战 - 八位元单机王者 完美模拟穿越旧经典电视手游</a>
@@ -364,7 +383,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -387,7 +406,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1519571900">Luwian</a>
@@ -404,7 +423,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -421,7 +440,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -438,7 +457,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
@@ -461,27 +480,10 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6744837914">块块爱消除-手表游戏经典快乐休闲益智</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
+        <a href="https://apps.apple.com/cn/app/id6744837914">块块爱消除-手表游戏经典快乐休闲益智</a>
       </td>
       <td>
         <ul>
@@ -680,6 +682,76 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乐桥]]></title>
+        <id>乐桥-cn-1749823964128</id>
+        <link href="https://apps.apple.com/cn/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4"/>
+        <updated>2025-06-13T14:12:44.128Z</updated>
+        <summary type="html"><![CDATA[年度高级订阅: ¥38.00 → ¥28.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/eb/36/15eb36ae-ea66-ed28-4dbe-159dda3bb4ae/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>年度高级订阅：</strong><span>¥38.00</span> → <b>
+  <strong>¥28.00</strong>
+</b><span>[¥28.00 ~ ¥38.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    连续按月订阅：<b>¥12.00</b>
+  </li><li>
+    乐桥终身会员：<b>¥58.00</b>
+  </li><li>
+    年度订阅：<b>¥68.00</b>
+  </li><li>
+    月度高级订阅：<b>¥12.00</b>
+  </li><li>
+    年度高级订阅：<b>¥28.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  为您的 Apple Music 音乐库注入新活力！乐桥(TuneShift) 让您轻松拥有完整的音乐收藏，将网易云音乐和QQ音乐上珍藏的音乐智能匹配到 Apple Music 平台。
+
+告别繁琐的手动搜索，只需简单几步，让您在 Apple Music 上重获完整音乐库。我们的智能引擎确保您能找到最贴近原版的音乐作品。
+
+核心优势：
+
+• 顶级音乐匹配引擎，精准定位您喜爱的曲目
+• 完整保留原始收藏结构和播放顺序
+• 实时进度展示，随时掌握处理状态
+• 简约设计，一键操作，体验流畅
+
+隐私保护：
+我们始终将用户隐私放在首位，严格遵守隐私协议，确保您的账号信息安全可靠。
+
+为什么选择乐桥：
+
+专业的音乐识别技术
+优质的匹配成功率
+快速的处理效率
+人性化的操作流程
+让乐桥成为您的专业音乐管理工具，享受完美的 Apple Music 体验！
+
+使用条款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手表经典迷宫游戏]]></title>
+        <id>手表经典迷宫游戏-cn-1749823964128</id>
+        <link href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E7%BB%8F%E5%85%B8%E8%BF%B7%E5%AE%AB%E6%B8%B8%E6%88%8F/id6740471827?uo=4"/>
+        <updated>2025-06-13T14:12:44.128Z</updated>
+        <summary type="html"><![CDATA[价格: ¥1.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E7%BB%8F%E5%85%B8%E8%BF%B7%E5%AE%AB%E6%B8%B8%E6%88%8F/id6740471827?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/3b/ce9e3bbb-4f79-a61f-7e66-68d02617d17f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥1.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥1.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h2>应用描述</h2><p>经典迷宫游戏是一款经典的益智游戏，非常适合在短暂休息时训练您的大脑。它设计为一​​款非常简单的单人游戏，通过滑过有趣的复古迷宫来玩。快速玩一局，挑战 500 个迷宫，成为迷宫之王。</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜]]></title>
