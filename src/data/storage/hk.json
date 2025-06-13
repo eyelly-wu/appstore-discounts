@@ -75129,7 +75129,8 @@
       "乐桥终身会员": "HK$ 58.00",
       "连续按月订阅": "HK$ 18.00",
       "月度高级订阅": "HK$ 18.00",
-      "年度高级订阅": "HK$ 38.00"
+      "年度高级订阅": "HK$ 38.00",
+      "Annual Premium Subscription": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -75138,9 +75139,24 @@
       "乐桥终身会员": "HK$ 32.00",
       "连续按月订阅": "HK$ 18.00",
       "月度高级订阅": "HK$ 18.00",
-      "年度高级订阅": "HK$ 32.00"
+      "年度高级订阅": "HK$ 32.00",
+      "Annual Premium Subscription": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749841809069,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高级订阅": "HK$ 18.00",
+            "Annual Premium Subscription": "HK$ 32.00",
+            "年度订阅": "HK$ 88.00",
+            "乐桥终身会员": "HK$ 58.00",
+            "连续按月订阅": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749823964128,

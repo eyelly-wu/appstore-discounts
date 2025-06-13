@@ -56199,7 +56199,8 @@
       "乐桥终身会员": "USD 7.99",
       "连续按月订阅": "USD 1.99",
       "月度高级订阅": "USD 1.99",
-      "年度高级订阅": "USD 4.99"
+      "年度高级订阅": "USD 4.99",
+      "Annual Premium Subscription": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -56208,9 +56209,24 @@
       "乐桥终身会员": "USD 3.99",
       "连续按月订阅": "USD 1.99",
       "月度高级订阅": "USD 1.99",
-      "年度高级订阅": "USD 3.99"
+      "年度高级订阅": "USD 3.99",
+      "Annual Premium Subscription": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749841809069,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高级订阅": "USD 1.99",
+            "Annual Premium Subscription": "USD 3.99",
+            "年度订阅": "USD 9.99",
+            "乐桥终身会员": "USD 7.99",
+            "连续按月订阅": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749823964128,
