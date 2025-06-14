@@ -37,6 +37,7 @@ export default function Sponsors() {
           />
         </a>
       </p>
+      <Break />
     </>
   )
 

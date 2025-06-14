@@ -50,6 +50,7 @@ Become the trusted savings assistant for  `App Store`  users, helping more peopl
     <img width="85" height="85" src="https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/refs/heads/main/docs/src/readme/Sponsors/sponsors/scrapeless/logo.png" alt="Scrapeless - Effortless Web Scraping Toolkit for Business and Developers" />
   </a>
 </p>
+
 # How to Subscribe
 
 ## RSS
