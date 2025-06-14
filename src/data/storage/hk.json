@@ -713,7 +713,10 @@
       "Orchestral Sweeteners": "HK$ 48.00",
       "Buzz Feiten Pack": "HK$ 48.00",
       "Harmonica Sweeteners": "HK$ 88.00",
-      "World Sweetener Pack": "HK$ 88.00"
+      "World Sweetener Pack": "HK$ 88.00",
+      "Steel Guitar Sweeteners": "HK$ 118.00",
+      "Misc Stringed Sweeteners": "HK$ 32.00",
+      "Keyboard Sweeteners": "HK$ 148.00"
     },
     "minPriceInfo": {
       "price": 88,
@@ -727,9 +730,31 @@
       "Orchestral Sweeteners": "HK$ 48.00",
       "Buzz Feiten Pack": "HK$ 48.00",
       "Harmonica Sweeteners": "HK$ 88.00",
-      "World Sweetener Pack": "HK$ 88.00"
+      "World Sweetener Pack": "HK$ 88.00",
+      "Steel Guitar Sweeteners": "HK$ 118.00",
+      "Misc Stringed Sweeteners": "HK$ 32.00",
+      "Keyboard Sweeteners": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749885074727,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "World Sweetener Pack": "HK$ 88.00",
+            "Steel Guitar Sweeteners": "HK$ 118.00",
+            "Orchestral Sweeteners": "HK$ 48.00",
+            "Misc Stringed Sweeteners": "HK$ 32.00",
+            "Keyboard Sweeteners": "HK$ 148.00",
+            "Harp Sweeteners": "HK$ 48.00",
+            "Harmonica Sweeteners": "HK$ 88.00",
+            "Guitar & Bass Sweeteners": "HK$ 48.00",
+            "Buzz Feiten Pack": "HK$ 48.00",
+            "Extended Frequency Modes": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748170931091,
