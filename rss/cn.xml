@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
+    <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-13T15:34:12.358Z</updated>
+    <updated>2025-06-14T17:31:14.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -10,7 +10,7 @@
         <uri>https://github.com/eyelly-wu</uri>
     </author>
     <link rel="alternate" href="https://apps.apple.com/cn/app"/>
-    <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/eyelly-wu/appstore-discounts)
+    <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/appstore-discounts/appstore-discounts)
 feedId:49753297431966720+userId:73658201673997312
 </subtitle>
     <logo>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</logo>
@@ -19,18 +19,18 @@ feedId:49753297431966720+userId:73658201673997312
     <entry>
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
-        <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T15:34:12.359Z</updated>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2025-06-14T17:31:14.404Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
-</ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
+</ul><h1>找到我们</h1><a href="https://github.com/appstore-discounts/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 13 Jun 2025 15:34:12 GMT</id>
-        <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T15:34:12.360Z</updated>
+        <id>rankingcnSat, 14 Jun 2025 17:31:14 GMT</id>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2025-06-14T17:31:14.404Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,16 +50,16 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1132</b>
+        <b>1135</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>931</b>
+        <b>934</b>
       </td>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
     </tr>
     <tr>
@@ -67,16 +67,16 @@ feedId:49753297431966720+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>619</b>
+        <b>621</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>457</b>
+        <b>459</b>
       </td>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
     </tr>
   </tbody>
@@ -94,7 +94,9 @@ feedId:49753297431966720+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1551263854">打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业</a>
+        <del>
+          <a href="https://apps.apple.com/cn/app/id1551263854">打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -167,6 +169,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id388624839">扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>扫描全能王高级帐户</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
       </td>
       <td>
@@ -179,29 +204,6 @@ feedId:49753297431966720+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>高级功能</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id388624839">扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>扫描全能王高级帐户</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -595,7 +597,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1576329230">传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说</a>
+        <a href="https://apps.apple.com/cn/app/id1551263854">打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -604,16 +606,16 @@ feedId:49753297431966720+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/cn/app/id1576329230">传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
+        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -622,7 +624,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -631,7 +633,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -640,7 +642,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
+        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -649,7 +651,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
+        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -658,7 +660,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -667,7 +669,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -676,12 +678,119 @@ feedId:49753297431966720+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id488674899">雨雷達-實時天氣圖。 亞洲和中國。°</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别]]></title>
+        <id>扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别-cn-1749920995136</id>
+        <link href="https://apps.apple.com/cn/app/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B-%E5%AE%98%E6%96%B9%E5%87%BA%E5%93%811%E5%85%83%E7%95%85%E7%94%A8%E7%89%88-%E6%89%AB%E6%8F%8Fpdf%E6%96%87%E4%BB%B6-%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/id388624839?uo=4"/>
+        <updated>2025-06-14T17:09:55.136Z</updated>
+        <summary type="html"><![CDATA[扫描全能王高级帐户: ¥343.00 → ¥328.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B-%E5%AE%98%E6%96%B9%E5%87%BA%E5%93%811%E5%85%83%E7%95%85%E7%94%A8%E7%89%88-%E6%89%AB%E6%8F%8Fpdf%E6%96%87%E4%BB%B6-%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/id388624839?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/cf/e1/41cfe154-3967-2196-4cbd-19ea37accfe5/AppIconPlus-0-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>扫描全能王高级帐户：</strong><span>¥343.00</span> → <b>
+  <strong>¥328.00</strong>
+</b><span>[¥328.00 ~ ¥343.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥1.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    扫描全能王高级帐户：<b>¥328.00</b>
+  </li><li>
+    3000点券+6次抽奖机会：<b>¥38.00</b>
+  </li><li>
+    600点券+1次抽奖机会：<b>¥8.00</b>
+  </li><li>
+    3000点券：<b>¥38.00</b>
+  </li><li>
+    十页传真：<b>¥58.00</b>
+  </li><li>
+    一页传真：<b>¥8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  扫描全能王是一款集文件扫描、图片文字提取识别、PDF 内容编辑、PDF 分割合并、PDF 转 Word、电子签名等功能于一体的智能扫描软件。自动扫描，生成高清扫描件，支持JPEG、PDF 等多格式保存，还能将扫描件一键转换为 Word/ Excel/ PPT 等多种格式文档，通过手机、平板电脑、电脑等多设备同步查看。
+
+-----功能亮点-----
+【手机扫描仪】
+手机拍纸质文档，智能去除杂乱背景，生成高清JPEG、PDF文件。默认自动扫描，对准纸质文档自动拍照，解放双手。
+支持多种图像优化模式，可手动调节图像参数，将纸质文件快速转为清晰的扫描件。
+
+【图片转文字利器】
+智能 OCR 识别文字，即使搜索对象是图片，也能输入关键词轻松定位，高亮显示。
+支持识别中、英、日、韩、葡、法等 41 种语言，还能一键复制、编辑图片上的文字，支持导出为 Word/Text/TXT 格式。
+
+【个人文档管家】
+支持一键导入 PDF、图片、表格等多类型电子文档；标签归类，多文件夹保存，一站式管理保存工作、学习、生活中各类资料。
+手机、平板、电脑等多设备端，随时同步查看管理文档。
+
+【PDF 编辑修改】
+自由组合 PDF 文档，对多个文件进行页面删除、顺序调整、插入支持、页面合并等操作。
+支持一键涂抹、添加批注，轻松编辑文档；高级账户还能设置智能水印铺满，一键生成电子签名等功能，确保文档安全。
+
+【PDF格式转换】
+PDF、Word、Excel、PPT 和图像文档之间格式互相转换，一键分享或下载到本地；
+格式转换后可保持文本、图像等文档的原始布局，实现版面还原。
+
+
+
+----他们都在用扫描全能王做什么----
+● 职场人士：随时扫描手边合同、公司证件、开会 PPT 等，一键保存或分享PDF，随时查找翻阅，非常给力的办公软件
+● 学生：课堂扫描笔记、白板、PPT，复习找资料快速又方便；线上提交纸质材料、个人证件扫描件，高清又专业
+● 老师：扫描课堂白板内容、学生考卷错题整理，发给家长同步教学进度，老师用心家长安心
+● 医生：疑难病症资料随时扫描记录，同行交流会议 PPT 留存，整理留档，也方便给其他医院科室共同交流
+● 设计师：扫描保存设计手稿，一键提取线稿，随时捕捉灵感初现时的大胆想象
+……
+
+-----升级高级帐户，享更多强大功能-----
+● 纸质文档一键转换 Word/Excel，轻松整理各类报表报告；
+● 拍图识字，提取图片或扫描件中的文字，一键复制导出，快速整理资料；
+● PDF 加密、添加电子签名、一键铺满水印等，分享协作高效安全；
+● 支持身份证、护照、企业三证、户口本等近百种证件扫描，1：1 生成高清扫描件，可用于证照资料提交、电子开户等；
+● 10G 超大云空间，文件夹分类标签管理，查找使用更方便。
+
+一经确认购买订阅产品，iTunes会直接扣除相关订阅所需费用。
+
+扫描全能王高级帐户可通过iTunes帐户信用卡直接付费订购。若当前订购周期（一个月／一年）结束前24小时内仍未取消续订，将会自动续订下个周期的高级帐户。
+
+在当前订购周期内，无法取消当前周期的使用。您可以通过iTunes帐户的设置来管理或取消购买。
+
+您的试用会立即结束，如果您付费购买了产品内的订阅。
+关于服务条款：
+https://www.camscanner.com/app/service?language=zh-cn
+关于隐私政策：
+https://www.camscanner.com/app/privacy?language=zh-cn
+
+----使用建议----
+为确保你能获得清晰的扫描图，请在拍照时：
+● 光线充足，尽量避免抖动
+● 尽量使图片占满拍摄屏幕
+
+若你喜欢扫描全能王，或者有其他任何意见，请花一点时间给我们写评论，或发邮件至isupport@camscanner.com，这将帮助我们不断改进产品，给你更好的使用体验！
+
+----关注我们 ----
+在新浪微博上关注我们 @扫描全能王
+在微信上关注我们，搜索公众号：扫描全能王
+在Twitter上关注我们 @CamScanner
+在Facebook 上关注我们：CamScanner
+在Google+上关注我们：CamScanner
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0a/02/5d/0a025d87-0717-f230-7a6c-37d857420a0a/7f83901c-5273-4344-916d-857c770c1fda_9.__U7b80_U4f53_U4e2d_U65875.5-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9b/8e/d2/9b8ed2f7-ee0e-9c10-3b78-91bc3b594dc8/350a759c-a74c-478c-84c4-433f45905095_9.__U7b80_U4f53_U4e2d_U65875.5-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/72/63/9d/72639db9-97fe-adff-dc5b-e95a29f5edd7/0ffd2170-a1ee-4394-bce1-dfd8012f8ae0_9.__U7b80_U4f53_U4e2d_U65875.5-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bd/d9/ee/bdd9eefd-f568-9796-a42d-ccd454053c19/424b1fb3-4fb0-4626-a3b3-4567bdf207e1_9.__U7b80_U4f53_U4e2d_U65875.5-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/8c/ad/3d8cadd5-bbb2-22dc-3dd7-cd4e425123a6/ed0a4c47-59dc-4ac5-8520-8ad8f8829721_9.__U7b80_U4f53_U4e2d_U65875.5-6.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别]]></title>
@@ -1192,205 +1301,5 @@ Level. URL scheme is "EWBubbleLevel://"
 人性化的操作流程
 让乐桥成为您的专业音乐管理工具，享受完美的 Apple Music 体验！
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FocusDots · 专注于当下]]></title>
-        <id>FocusDots · 专注于当下-cn-1749651110325</id>
-        <link href="https://apps.apple.com/cn/app/focusdots-%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%BD%93%E4%B8%8B/id703265535?uo=4"/>
-        <updated>2025-06-11T14:11:50.325Z</updated>
-        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/focusdots-%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%BD%93%E4%B8%8B/id703265535?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/5f/f2/5c5ff2c2-8aef-dd3e-4087-0b648e068bf3/AppIcon-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥15.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥15.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h2>应用描述</h2><p>
-  感谢您使用FocusDots！这是一个简单的时间管理应用，将提高您的工作效率。
-
-有时候，保持注意力集中在任务上可能并不容易。FocusDots是一个精美设计的计时器，旨在提高您对任务的专注，并丢弃可能分散注意力的活动。
-
-FocusDots是一个简单的时间管理应用，包含四个简单的步骤：
-
-1) 决定要完成的单个任务。
-2) 启动FocusDots并在计时器结束前（25分钟）专注于该任务。
-3) 休息一下（5分钟）。
-4) 完成四个Dots后，休息更长时间（15分钟）。
-
-特点：
-- 优雅的极简设计
-- 每日总结
-- 精美设计主题
-- 激励引用语
-- 可为您的任务自定义计时器时长
-
-感谢您选择FocusDots！我们由衷感谢您的支持，希望我们的应用能帮助您提高生产力和时间管理技巧。如果您有任何反馈或建议，我们非常乐意听取！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/39/ea/0a39eafd-421b-223e-825e-9d6b81b50668/c6a8bebd-3ae0-492e-accf-41f05e480f90_0__U2013_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/17/7c/b3/177cb366-ab59-6412-7647-28fb5d5d8933/e324b6e6-e9c0-4cb8-9055-ee4a7bee2049_1__U2013_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7d/81/81/7d818112-847b-9586-0d36-b46f33744d5a/4e390f07-7a39-4ddd-9ba4-1f1b4ae8dc44_2__U2013_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/a1/5e/4aa15e13-29a0-383c-1338-96dde7397087/ebd86c06-286a-4ffa-bcbe-c57433703236_3__U2013_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d6/02/7b/d6027bcd-638b-91a6-662b-ff1ce19bf5a9/cb08a10b-200a-4f9d-8ddd-a85641f14164_4__U2013_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/94/cb/bd/94cbbd7a-c188-b069-3eac-ee57f83b43a3/eb145635-6e64-4a5a-a152-d3088b7cdb77_5__U2013_1.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/de/a5/71/dea57135-90b8-4727-4d72-19360022855d/8992dc54-397b-4ecc-9e03-922d19608ff5_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ba/21/daba21fc-ab50-8cbe-41e5-f0ff6c5e807b/fc7d9f7e-5e40-4747-bea5-74c59e2a10d9_2.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controller for HomeKit]]></title>
-        <id>Controller for HomeKit-cn-1749615718607</id>
-        <link href="https://apps.apple.com/cn/app/controller-for-homekit/id1198176727?uo=4"/>
-        <updated>2025-06-11T04:21:58.607Z</updated>
-        <summary type="html"><![CDATA[Lifetime license: ¥698.00 → ¥328.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/controller-for-homekit/id1198176727?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e3/e1/67e3e168-2a73-eb82-446c-e8a6e056530b/AppIcon-1-0-1x_U007epad-0-9-0-P3-85-220-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>Lifetime license：</strong><span>¥698.00</span> → <b>
-  <strong>¥328.00</strong>
-</b><span>[¥328.00 ~ ¥698.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    PRO yearly subscription：<b>¥228.00</b>
-  </li><li>
-    Lifetime license：<b>¥328.00</b>
-  </li><li>
-    Monthly Subscription：<b>¥35.00</b>
-  </li><li>
-    Yearly Subscription：<b>¥138.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Experience and control your Apple Home in a whole new way with Controller for HomeKit. Our app combines all the familiar HomeKit features with numerous additional enhancements, offering you a user-friendly interface, unparalleled control, and flexibility.
-
-* FLOOR PLAN: Create a detailed floor plan of your home using the LiDAR sensor on your iPhone or iPad and control your HomeKit accessories directly through the floor plan.
-* COMPLEX AUTOMATIONS: Utilize advanced triggers and conditions for custom automations that are perfectly tailored to your needs.
-* NOTIFICATIONS: Create custom notifications to stay informed about important events in your home.
-* BACKUPS: Secure your setup and restore it easily when needed.
-* SMART FOLDERS: Organize your devices and automations effortlessly with smart folders and custom filters.
-* WORKFLOWS: Optimize your daily routines with workflows that go beyond the capabilities of Apple Home.
-* SETUP CODES: Securely store your HomeKit and Matter codes in the app, so they are always at hand and never lost.
-* MAINTENANCE: Keep track of your setup, quickly identifying which batteries need to be replaced, which devices are unreachable, or which automations are broken.
-* LOGS: Monitor all activities and changes in your smart home.
-* WIDGETS: Control your devices faster and easier with convenient widgets or quickly jump into your floor plan.
-
-Unlock the full potential of your smart home with Controller for HomeKit. Download the app now and experience how simple and intuitive home automation can be.
-
-For more information, visit our website: https://www.controllerforhomekit.com
-
-Privacy Policy: 
-https://controllerforhomekit.com/privacy-en/
-
-Terms of Use: 
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/89/99/eb8999ec-0245-1c15-b1f5-ea49fe930c76/35282cae-390d-47d8-b4f7-1a944a3d5e17_01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/0c/cf/e10ccf7f-19f1-b1e5-ed88-89937558835e/ae93a330-3a1f-4ff0-b3ef-7a8c5f0aff49_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/cb/9d/5bcb9d06-e422-39b0-ce03-517abfe60fc4/e404657a-bc5f-446a-aebd-175624200d84_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/94/00/d0940019-0b83-57ae-199c-297416c5d5fc/83b8bddc-13b1-4a9c-a491-3cbd63ff07b2_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/34/19/ad3419f6-46fa-e2ab-48ef-d488829fff05/067b78fc-d797-4a3c-8f61-fb5fedcec1a2_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/69/b1/8769b11d-34b5-619c-fed4-6c2386119bec/fc27cfc1-733c-4b5d-baca-3285406cf137_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ea/fb/fceafb4c-5ae1-892f-6c1a-d066b24c4591/40bf8022-4191-4fc4-9df7-c08c350b8429_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/b5/ae9ab58f-37ac-be22-134a-f256723563f0/bbc81b0a-825a-4865-9d1f-1b6135a6f255_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/fc/74/c2fc748b-3248-b9d3-cf01-fa4bbd341050/c4cdf412-7fd9-4e50-b3a9-115ca0a7149c_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/ce/ec/e5ceec46-bf19-6035-ee14-0972f0a1892a/a3e7ea1b-4fad-4f81-907a-57bb3ca08a63_10.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乐桥]]></title>
-        <id>乐桥-cn-1749603724130</id>
-        <link href="https://apps.apple.com/cn/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4"/>
-        <updated>2025-06-11T01:02:04.130Z</updated>
-        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/4d/38/2a4d389e-27de-f390-a2d4-c1042930fe76/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥28.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥28.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    年度订阅：<b>¥28.00</b>
-  </li><li>
-    乐桥终身会员：<b>¥58.00</b>
-  </li><li>
-    连续按月订阅：<b>¥12.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  为您的 Apple Music 音乐库注入新活力！乐桥(TuneShift) 让您轻松拥有完整的音乐收藏，将网易云音乐和QQ音乐上珍藏的音乐智能匹配到 Apple Music 平台。
-
-告别繁琐的手动搜索，只需简单几步，让您在 Apple Music 上重获完整音乐库。我们的智能引擎确保您能找到最贴近原版的音乐作品。
-
-核心优势：
-
-• 顶级音乐匹配引擎，精准定位您喜爱的曲目
-• 完整保留原始收藏结构和播放顺序
-• 实时进度展示，随时掌握处理状态
-• 简约设计，一键操作，体验流畅
-
-隐私保护：
-我们始终将用户隐私放在首位，严格遵守隐私协议，确保您的账号信息安全可靠。
-
-为什么选择乐桥：
-
-专业的音乐识别技术
-优质的匹配成功率
-快速的处理效率
-人性化的操作流程
-让乐桥成为您的专业音乐管理工具，享受完美的 Apple Music 体验！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜]]></title>
-        <id>传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜-cn-1749575469799</id>
-        <link href="https://apps.apple.com/cn/app/%E4%BC%A0%E5%A5%87%E9%AB%98%E7%88%8699999-%E6%94%BB%E9%80%9F9999%E5%80%8Dpc%E5%90%8C%E6%AC%BE%E4%B8%89%E8%81%8C%E4%B8%9A-%E6%88%98%E6%97%A0%E4%B8%8D%E8%83%9C/id1603421749?uo=4"/>
-        <updated>2025-06-10T17:11:09.799Z</updated>
-        <summary type="html"><![CDATA[限时礼包: ¥208.00 → ¥30.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%BC%A0%E5%A5%87%E9%AB%98%E7%88%8699999-%E6%94%BB%E9%80%9F9999%E5%80%8Dpc%E5%90%8C%E6%AC%BE%E4%B8%89%E8%81%8C%E4%B8%9A-%E6%88%98%E6%97%A0%E4%B8%8D%E8%83%9C/id1603421749?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/be/32/b6be32c9-5129-0d69-3f29-45f6f6dfbe7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>限时礼包：</strong><span>¥208.00</span> → <b>
-  <strong>¥30.00</strong>
-</b><span>[¥30.00 ~ ¥208.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>¥1.00</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    史诗礼包：<b>¥158.00</b>
-  </li><li>
-    坐骑礼包504：<b>¥208.00</b>
-  </li><li>
-    限时礼包：<b>¥30.00</b>
-  </li><li>
-    进阶礼包：<b>¥178.00</b>
-  </li><li>
-    饰品礼包：<b>¥193.00</b>
-  </li><li>
-    周年献礼：<b>¥60.00</b>
-  </li><li>
-    限时特惠：<b>¥12.00</b>
-  </li><li>
-    升级好礼：<b>¥163.00</b>
-  </li><li>
-    卓越豪礼：<b>¥18.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  金蛇新春贺岁，传奇耀世启幕！
-蛇年限定版官方盛大首发，超变玩法复古体验！
-全新合击绝技现世，经典玩法焕新升级！
-
-游戏特色
-【超变玩法 装备靠打】
-稀有装备打怪掉落，更有虎年限定装备，等你获取！
-
-【沙城攻坚 策略对决】
-肉盾堵门，抢占复活点，多元策略沙城齐现，等你来战！
-
-【周末狂欢 燃爆全场】
-狂欢启幕，世界BOSS，狂野挖矿等数十种活动限时开启，海量道具、神装等你来拿！
-
-【神宠养成 战力狂飙】
-神宠特色养成，进阶觉醒，战力飞升！
-
-【合击绝技 焕新登场】
-新版合击绝技，更华丽的特效及更强大的威力定能助你横扫战场！
-
-【热血烧猪 经典还原】
-端游经典玩法，带你重温经典旧时光，正版原生体验！
-
-【超强打击 刀刀切割】
-真实打击，刀刀切割，小怪满屏不用抢！
-
-【专属神装 时刻惊喜】
-一怪一专属神装，打怪即出，惊喜不断，时刻欢呼！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/fd/ab/8dfdab7c-acdb-dd68-b67b-fd8d5a0569be/1242-1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/16/c6/2316c642-797a-da16-ecb8-65ce7b5bd73b/1242-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/bf/d0/41bfd077-4131-b9dc-75e5-7c16b5b4243c/1242-3.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/0e/cf/130ecfac-1220-c208-9daf-f2f295a65fa0/2048-1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/f9/aa/65f9aab4-bcc8-b739-14ac-473da1f8f772/2048-2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/40/6d/b2406dfb-d431-901b-53a8-3d0a73d69841/2048-3.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
