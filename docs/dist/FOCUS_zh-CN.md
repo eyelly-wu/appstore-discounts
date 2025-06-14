@@ -806,7 +806,7 @@
 |335|1544722749|自动|拣爱|❌|❌|❌|❌|❌|
 |334|1548185534|自动|❌|Musical Maze|Musical Maze|Musical Maze|Musical Maze|Musical Maze|
 |333|1551207253|自动|❌|Papa's Mocharia To Go!|Papa's Mocharia To Go!|Papa's Mocharia To Go!|Papa's Mocharia To Go!|Papa's Mocharia To Go!|
-|332|1551263854|自动|打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业|❌|❌|❌|❌|❌|
+|332| ~~1551263854~~ |自动| ~~打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |331|1555857229|自动|2048 for watch|2048_watch|2048_watch|2048_watch|2048_watch|2048_watch|
 |330|1556671822|自动|合成大西瓜 for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|
 |329|1559869450|自动|❌|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|❌|❌|

@@ -5777,6 +5777,7 @@ export const part1AppConfig: AppConfig[] = [
       cn: '打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1555857229,
