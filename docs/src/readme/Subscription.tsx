@@ -53,7 +53,7 @@ export default function Subscription() {
             res.push({
               region,
               name,
-              rss: `https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/${region}.xml`,
+              rss: `https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/${region}.xml`,
             })
             return res
           },

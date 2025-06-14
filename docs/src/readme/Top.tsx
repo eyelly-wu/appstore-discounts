@@ -22,10 +22,6 @@ export default function Top() {
         <Image {...imageObj['github-stars']} />
       </Link>
       <Break />
-      <Link {...linkObj['last-commit']}>
-        <Image {...imageObj['last-commit']} />
-      </Link>
-      <Break />
       <Link {...linkObj['github-issues']}>
         <Image {...imageObj['github-issues']} />
       </Link>

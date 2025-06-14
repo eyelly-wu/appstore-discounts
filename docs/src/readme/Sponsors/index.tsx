@@ -105,9 +105,16 @@ export default function Sponsors() {
       <H1>{title}</H1>
       <Break />
       <Break />
-      <a href={codeUrl} target="_blank">
-        <img src={svgUrl} alt={title} />
-      </a>
+      <div
+        {...(() => ({
+          align: 'center',
+        }))()}
+      >
+        <a href={codeUrl} target="_blank">
+          <img src={svgUrl} alt={title} />
+        </a>
+      </div>
+
       <Break />
       <Break />
     </>

@@ -60,9 +60,9 @@
   "lint-staged": {
     "*.{ts,tsx,js}": "eslint --fix -f table"
   },
-  "homepage": "https://github.com/eyelly-wu/appstore-discounts",
+  "homepage": "https://github.com/appstore-discounts/appstore-discounts",
   "bugs": {
-    "url": "https://github.com/eyelly-wu/appstore-discounts/issues"
+    "url": "https://github.com/appstore-discounts/appstore-discounts/issues"
   },
   "codeNameMap": {
     "en": "",
