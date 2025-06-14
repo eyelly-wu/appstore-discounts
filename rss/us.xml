@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-13T14:33:16.947Z</updated>
+    <updated>2025-06-14T03:50:36.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T14:33:16.947Z</updated>
+        <updated>2025-06-14T03:50:36.132Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 13 Jun 2025 14:33:16 GMT</id>
+        <id>rankingusSat, 14 Jun 2025 03:50:36 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T14:33:16.947Z</updated>
+        <updated>2025-06-14T03:50:36.132Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -50,16 +50,16 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1132</b>
+        <b>1133</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>931</b>
+        <b>932</b>
       </td>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
     </tr>
     <tr>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1031</b>
+        <b>1032</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>855</b>
+        <b>856</b>
       </td>
       <td>
         <b>12</b>
@@ -140,6 +140,31 @@ feedId:49753370488353792+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id6739975257">TuneShift</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>乐桥终身会员</i>：<b>1</b>
+              </li><li>
+                <i>Annual Premium Subscription</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id918609651">Money Pro: Personal Finance AR</a>
       </td>
       <td>
@@ -162,7 +187,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1038014543">Day R Premium: last world war</a>
@@ -185,7 +210,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -208,30 +233,24 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6739975257">TuneShift</a>
+        <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>乐桥终身会员</i>：<b>1</b>
-              </li>
-            </ol>
+            <span>Price</span>：<b>2</b>
           </li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
@@ -248,7 +267,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id352247139">Calorie Counter PRO MyNetDiary</a>
@@ -271,7 +290,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id406541444">8mm Vintage Camera</a>
@@ -294,7 +313,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id510249014">Level HD.</a>
@@ -311,7 +330,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id703265535">FocusDots · Focus What Matters</a>
@@ -328,7 +347,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id904278510">Hitman Sniper</a>
@@ -353,7 +372,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -370,7 +389,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -387,7 +406,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1028950091">The Greedy Cave</a>
@@ -410,7 +429,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1056920931">Iron Marines: RTS offline game</a>
@@ -443,7 +462,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1094038347">Only You Are Here</a>
@@ -470,7 +489,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -487,7 +506,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1304822713">Infinity Tank Battle</a>
@@ -504,7 +523,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1436429074">FILCA - Vintage Film Camera</a>
@@ -527,7 +546,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439886655">Cultist Simulator</a>
@@ -544,7 +563,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453820315">This Is the Police 2</a>
@@ -561,7 +580,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
@@ -584,7 +603,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
@@ -601,7 +620,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -618,7 +637,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
@@ -635,7 +654,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576521142">SOULVARS</a>
@@ -652,7 +671,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -669,7 +688,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
@@ -686,7 +705,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -703,7 +722,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1640627334">Resident Evil Village for Mac</a>
@@ -730,7 +749,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642715290">Little Big Workshop</a>
@@ -747,7 +766,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1659271912">Train Dispatcher!2</a>
@@ -764,7 +783,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450980545">Resident Evil Village</a>
@@ -793,7 +812,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6462360082">Resident Evil 4</a>
@@ -818,23 +837,6 @@ feedId:49753370488353792+userId:73658201673997312
                 <i>Weapon Upgrade Ticket x1 (A)</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>36</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -1027,6 +1029,75 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TuneShift]]></title>
+        <id>TuneShift-us-1749872358174</id>
+        <link href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4"/>
+        <updated>2025-06-14T03:39:18.174Z</updated>
+        <summary type="html"><![CDATA[Annual Premium Subscription: $4.99 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/eb/36/15eb36ae-ea66-ed28-4dbe-159dda3bb4ae/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Annual Premium Subscription：</strong><span>$4.99</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$3.99 ~ $4.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    月度高级订阅：<b>$1.99</b>
+  </li><li>
+    Annual Premium Subscription：<b>$3.99</b>
+  </li><li>
+    年度订阅：<b>$9.99</b>
+  </li><li>
+    乐桥终身会员：<b>$7.99</b>
+  </li><li>
+    连续按月订阅：<b>$1.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Revitalize your Apple Music library! TuneShift intelligently matches your cherished music from NetEase Cloud Music and QQ Music to Apple Music platform.
+
+Say goodbye to tedious manual searching. With just a few simple steps, rediscover your complete music collection on Apple Music. Our smart engine ensures you find the closest matches to your original favorites.
+
+Core Advantages:
+• Premium music matching engine for precise track identification
+• Preserve complete collection structure and playback order
+• Real-time progress display
+• Minimalist design with one-click operation
+
+Privacy Protection:
+We prioritize user privacy, strictly adhering to privacy protocols to ensure your account information remains secure.
+
+Why Choose TuneShift:
+
+Professional music identification technology
+Superior matching accuracy
+Swift processing efficiency
+User-friendly interface
+Let TuneShift be your professional music management tool for the perfect Apple Music experience!
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classic Maze Game for Watch]]></title>
+        <id>Classic Maze Game for Watch-us-1749872358174</id>
+        <link href="https://apps.apple.com/us/app/classic-maze-game-for-watch/id6740471827?uo=4"/>
+        <updated>2025-06-14T03:39:18.174Z</updated>
+        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/classic-maze-game-for-watch/id6740471827?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/3b/ce9e3bbb-4f79-a61f-7e66-68d02617d17f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$0.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $0.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h2>Application Description</h2><p>Classic Maze game is a classic puzzle game, perfect for training your brain during a short break. It is designed as a very simple single player game played by sliding through fun retro mazes. Play a quick game and challenge 500 mazes to become the maze king.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Money Pro: Personal Finance AR]]></title>
@@ -1838,237 +1909,5 @@ How to Use:
 
 Pads and soundscapes are intended as a subtle accompaniment to musical arrangements/performances. They are designed to be cued according to the key of the arrangement. Once cued, you'll hear a droning pad centered around the root note with additional harmonic textures within the selected key. The only time a pad's key should change within a song is in the instance of a key change. For best results, mix AeroPads appropriately within the overall mix. When mixed too loud, AeroPads may compete with melodies and the arrangement. When mixed too quietly, AeroPads may be less effective. When mixed appropriately, they will sound awesome.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/5c/14/535c1429-4375-85d7-5de1-939a7f9aa551/58d19abd-380f-4c60-baad-aa33af36c344_A.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/99/3f/ae993f6e-5515-b959-2134-5cde56b8e4c4/d96015a2-a249-42f2-9bd3-113804eb338d_B.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/60/70/fb6070d2-4605-40e8-1a66-1d10f636cbc9/5afd5fd8-62b2-44ff-9eb7-d36bbd0bb307_C.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/23/da/a623da00-e3c9-6e31-12c1-185827128032/d5d52cc2-d4da-4d45-983b-8cbeff664f65_D.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/be/e4/67bee4e8-553b-d741-a86c-505899f4c149/dceedd5b-b92d-46bf-b344-e15ae64331b5_E.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/40/b8/7a40b87e-da43-b5f3-c5d9-66e5fc39f1ac/4072a7df-6bca-4e84-bbde-7f8733d60ab1_F.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everybody's RPG: Reboot]]></title>
-        <id>Everybody's RPG: Reboot-us-1749611567188</id>
-        <link href="https://apps.apple.com/us/app/everybodys-rpg-reboot/id1523146826?uo=4"/>
-        <updated>2025-06-11T03:12:47.188Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/everybodys-rpg-reboot/id1523146826?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/15/77/19157700-6d49-ea3e-e341-7c15d8947d28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Daily Jewel Package：<b>$19.99</b>
-  </li><li>
-    Lite Daily Jewel Package：<b>$8.99</b>
-  </li><li>
-    Starter Package A：<b>$14.99</b>
-  </li><li>
-    Jewel Package D：<b>$44.99</b>
-  </li><li>
-    Jewel Package A：<b>$4.99</b>
-  </li><li>
-    Jewel Package F：<b>$89.99</b>
-  </li><li>
-    Jewel Package C：<b>$24.99</b>
-  </li><li>
-    Jewel Package B：<b>$8.99</b>
-  </li><li>
-    Jewel Package E：<b>$69.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Recruit legendary heroes and conquer endless stages!
-From auto battles to mining and upgrading!
-A true idle fantasy RPG that keeps growing even when you're away!
-
-* Build strategic teams with unique and powerful heroes!
-
-* Mine resources through the mining system! Get everything you need to craft gear!
-
-* Challenge powerful bosses and claim legendary rewards!
-
-* Progress automatically — perfect for busy players!
-
-* Tons of content: dungeons, relics, evolution, legendary equipment, and more!
-
-Download now and begin writing your own legend!
-Start playing now and collect your heroes!
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NARUTO: Ultimate Ninja STORM]]></title>
-        <id>NARUTO: Ultimate Ninja STORM-us-1749611567188</id>
-        <link href="https://apps.apple.com/us/app/naruto-ultimate-ninja-storm/id6479512734?uo=4"/>
-        <updated>2025-06-11T03:12:47.188Z</updated>
-        <summary type="html"><![CDATA[Price: $12.99 → $5.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/naruto-ultimate-ninja-storm/id6479512734?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ce/15/02ce1500-dc12-7b1c-27f7-10d38363777f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$12.99</span> → <b>
-  <strong>$5.99</strong>
-</b><span>[$5.99 ~ $12.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$5.99</b>
-</p><h2>Application Description</h2><p>
-  [Warning] Please Read Before Purchasing
-No refunds (including exchanges for other products, services, etc.) are available after purchase, regardless of the reason.
-Please ensure that your device is compatible via the app's Contact page (link below).
-https://bnfaq.channel.or.jp/title/3152
-
-You are purchasing a license for digital goods. For full terms and conditions, please see the License Agreement below.
-
-[Game Summary]
-A Naruto game full of 3D competitive action!
-NARUTO: Ultimate Ninja STORM finally makes its way to smartphones!
-Experience the stories and battles of Naruto's childhood through beautiful graphics!
-
-Game Content
-Ultimate Mission Mode
-Relive the stories and famous battles from Naruto's childhood! You can freely move around the Hidden Leaf Village and take on missions and mini games!
-
-Free Battle Mode
-In Free Battle Mode, you can choose from 25 unique characters from Naruto's childhood and 10 support characters to enjoy a variety of powerful ninjutsu actions and battles! 
-
-Changes for the App
-Easily activate ninjutsu, ultimate jutsu, and other actions with a tap! Even those playing the series for the first time can confidently enjoy the game!
-Plus, the following additional features and improvements have made the game easier to play:
-- New auto-save feature
-- New control mode selection for battle (casual/manual)
-- New battle assist feature (casual only)
-- Improved controls for battle and free movement
-- New retry feature for missions
-- Improved mini-game UI
-- Improved tutorial
-
-Play Notes
-- This game contains violent content.
-- Please pay attention to how long you play and avoid excessive gameplay.
-- 本遊戲部份內容涉及暴力情節
-- 請注意遊戲時間,避免沉迷
-
-[Number of Players]
-This is a single-player game only.
-
-[Storage]
-To download this app, you will need at least 3.5 GB of free space.
-When downloading, please ensure you have a strong internet connection and/or Wi-Fi environment.
-*Depending on your device, you may need more than the suggested storage amount.
- 
-[Online]
-- There is no online battle mode.
-- Aside from the initial game download, you can play offline.
-- An internet connection is required to back up and transfer game data.
-
-Bandai Namco Entertainment Inc. Website:
-https://bandainamcoent.co.jp/english/
-
-By downloading or installing this app, you agree to the Bandai Namco Entertainment Terms of Service.
-
-Terms of Service:
-https://legal.bandainamcoent.co.jp/terms/
-Privacy Policy:
-https://legal.bandainamcoent.co.jp/privacy/
-
-This application is distributed under the official rights from the license holder.
-
-©2002 MASASHI KISHIMOTO
-©Bandai Namco Entertainment Inc.
-
-Powered by "CRIWARE".
-CRIWARE is a trademark of CRI Middleware Co., Ltd.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ee/a2/dceea2c4-415d-e2d8-cf51-d6429248bb17/01-01-4_2208_U00d71242_EN20250321-1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/c2/19/30c219a7-f57c-f239-3ec5-79fd1af05c8c/02-01-4_2208_U00d71242_EN20250321-2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/94/24/10942475-f93d-c3e6-c00f-6a302ea183e2/d2433a98-9692-4d52-a023-c6c3305d587d_03-6_2208_U00d71242_EN.png/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOULVARS]]></title>
-        <id>SOULVARS-us-1749603724130</id>
-        <link href="https://apps.apple.com/us/app/soulvars/id1576521142?uo=4"/>
-        <updated>2025-06-11T01:02:04.130Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/soulvars/id1576521142?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/30/65/64306537-c70a-ca1f-a810-5d6d5168c31f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h2>Application Description</h2><p>
-  Deck-Building JRPG "SOULVARS" is now available!
-
-15-20 hours of playtime (+50h to go deeper)
-Dynamic pixel animation and battles and a rich customization system
-
-No In-App Purchases. 
-
-While having a deep strategic sense, the vertically held smartphone controls allow for simple and exhilarating battles, training, dungeon exploration, and collection of random enchanted items.
-
-▼ Story
-A world line in which even the fictitious concept of the soul can be converted into data.
-In return, people's lives are threatened by the sudden appearance of deformities.
-The protagonists use the Soul Driver, a device that converts souls into data.
-They are responsible for the elimination of the deformities that threaten people, and work in a certain town...
-
-▼System Overview
-Number of save slots: 3 (Saved in device and manual save)
-Estimated scenario completion time: 14 to 20 hours
-50 to 100+ hours of post-clearance challenge
-
-Features
-Soul bits (handbills), which are the data of the soul power that resides in gear (equipment),
-Players can combine them in battle to make special attacks and combos in a successive manner. 
-The characters are characterized by their action with dots that move around.
-
-▼Gear and Soul Bits
-Soul bits (hand cards) can be drawn from gear (equipment) and used as actions during battle.
-The combination of main weapon, subweapon, armor, and accessories
-Strategy (deck) is determined.
-
-▼Arts
-During a battle, only one soul bit can be selected on the first turn, but
-The number of soul bits that can be selected at one time increases depending on the opponent's weaknesses, guarding, evading, buffing, debuffing, and various other conditions.
-The combination of soul bits (cards in hand) selected at the same time activates a skill called Arts.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a3/71/2d/a3712db9-5d94-ed5e-aefb-734698edee9e/d02c33e1-8e86-452e-b4eb-c7ed84a579bd_SOULVARS-2022-0416-131859.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/48/62/57/48625769-25f5-03e2-5037-b6639ceb341c/f0c9bfce-7cfd-4d50-bbf1-1696f649d8fe_SOULVARS-2022-0416-131930.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/74/d8/cb/74d8cbb6-a175-5a73-0d22-ab766aa1bfb6/7543d88e-2ce5-468e-9bf3-b3105e933592_SOULVARS-2022-0416-132003.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ab/f8/97/abf8970a-2659-4b18-955e-6360cb808e35/28bb8636-f96e-4d81-9d31-0f0d71d722a1_SOULVARS-2022-0416-132636.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/09/8b/70/098b70ba-4c3e-94fd-d5a6-ea5288ceb3ae/691b97d3-f358-47af-86db-092b9da7a0b8_SOULVARS-2022-0416-132756.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/46/01/25/46012562-f420-8630-58b9-c6dbf3eecf2a/929290b8-91d0-42bb-9f8e-3035cbae5f85_SOULVARS-2022-0416-132759.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a8/87/b4/a887b40e-13c9-31bd-7ba0-91d9bdd7fe08/bcc4c464-6056-4501-a0de-1d31e3e8ef1f_SOULVARS-2022-0416-132651.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TuneShift]]></title>
-        <id>TuneShift-us-1749603724130</id>
-        <link href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4"/>
-        <updated>2025-06-11T01:02:04.130Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/4d/38/2a4d389e-27de-f390-a2d4-c1042930fe76/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $3.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    年度订阅：<b>$3.99</b>
-  </li><li>
-    乐桥终身会员：<b>$7.99</b>
-  </li><li>
-    连续按月订阅：<b>$1.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Revitalize your Apple Music library! TuneShift intelligently matches your cherished music from NetEase Cloud Music and QQ Music to Apple Music platform.
-
-Say goodbye to tedious manual searching. With just a few simple steps, rediscover your complete music collection on Apple Music. Our smart engine ensures you find the closest matches to your original favorites.
-
-Core Advantages:
-• Premium music matching engine for precise track identification
-• Preserve complete collection structure and playback order
-• Real-time progress display
-• Minimalist design with one-click operation
-
-Privacy Protection:
-We prioritize user privacy, strictly adhering to privacy protocols to ensure your account information remains secure.
-
-Why Choose TuneShift:
-
-Professional music identification technology
-Superior matching accuracy
-Swift processing efficiency
-User-friendly interface
-Let TuneShift be your professional music management tool for the perfect Apple Music experience!
-</p>]]></content>
     </entry>
 </feed>
