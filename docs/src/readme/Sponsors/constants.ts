@@ -16,15 +16,15 @@ function getSponsors(number = 0) {
 export const sponsors: Sponsors = [
   {
     type: 'platinum',
-    sponsors: getSponsors(1),
+    sponsors: getSponsors(3),
   },
   {
     type: 'gold',
-    sponsors: getSponsors(2),
+    sponsors: getSponsors(3),
   },
   {
     type: 'silver',
-    sponsors: [scrapeless, ...getSponsors(2)],
+    sponsors: [scrapeless, ...getSponsors(4)],
   },
   {
     type: 'bronze',
@@ -59,7 +59,7 @@ export const sponsorTypeRowSpanMap: Record<SponsorType, number> = {
   platinum: 1,
   gold: 2,
   silver: 3,
-  bronze: 4,
+  bronze: 5,
 }
 
 export const sponsorTypeSizeMap: Record<
@@ -68,7 +68,7 @@ export const sponsorTypeSizeMap: Record<
 > = {
   platinum: {
     width: 380,
-    height: 140,
+    height: 150,
   },
   gold: {
     width: 280,

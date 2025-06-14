@@ -8,13 +8,15 @@ import {
   getSponsorTypeName,
   sponsorTypeRowSpanMap,
   sponsorTypeSizeMap,
-} from './constants'
-import { DisplaySponsors } from './types'
+} from '../constants'
+import { DisplaySponsor, DisplaySponsors } from '../types'
+import getIndexX from './getIndexX'
 
-export function getRenderInfo() {
+export default function getRenderInfo() {
   const now = dayjs()
   let existSponsors = false
   let allHeight = bottomSpace
+  let y = 0
 
   const displaySponsors = sponsors.reduce((res, typeSponsorInfo) => {
     const { type, sponsors = [] } = typeSponsorInfo
@@ -23,13 +25,35 @@ export function getRenderInfo() {
     const { height } = sponsorTypeSizeMap[type]
 
     const displaySponsors = sponsors.filter((sponsor) => {
+      if (!sponsor) return false
       const { expireTime } = sponsor
       return now.isBefore(expireTime)
     })
 
     if (!isEmpty(displaySponsors)) {
+      const nameY = y + Math.ceil(sponsorTypeHeight / 2)
+      y += sponsorTypeHeight
       existSponsors = true
-      const sponsors = chunk(displaySponsors, sponsorRowSpan)
+      const sponsors = chunk(displaySponsors, sponsorRowSpan).map(
+        (rowSponsors) => {
+          const indexX = getIndexX(type, rowSponsors.length)
+
+          const newRowSponsors = rowSponsors.map((sponsor, i) => {
+            const x = indexX[i]
+
+            return {
+              ...sponsor,
+              x,
+              y,
+            } as DisplaySponsor
+          })
+
+          y += height
+
+          return newRowSponsors
+        },
+      )
+
       allHeight +=
         sponsorTypeHeight +
         sponsors.length * height +
@@ -38,6 +62,7 @@ export function getRenderInfo() {
       res.push({
         ...typeSponsorInfo,
         name: getSponsorTypeName(type),
+        y: nameY,
         sponsors,
       })
     }

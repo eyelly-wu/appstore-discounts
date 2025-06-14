@@ -45,11 +45,12 @@
 
 
 # 赞助商
-<p align="center">
-  <a href="https://www.scrapeless.com/en">
-    <img width="85" height="85" src="https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/refs/heads/main/docs/src/readme/Sponsors/sponsors/scrapeless/logo.png" alt="Scrapeless - Effortless Web Scraping Toolkit for Business and Developers" />
-  </a>
-</p>
+
+
+<a href="https://cdn.jsdelivr.net/gh/appstore-discounts/appstore-discounts@refs/heads/main/docs/src/readme/Sponsors/sponsors_zh-CN.svg" target="_blank">
+  <img src="https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/refs/heads/main/docs/src/readme/Sponsors/sponsors_zh-CN.svg" alt="赞助商" />
+</a>
+
 
 # 如何订阅
 

@@ -1,5 +1,5 @@
 import { resolve } from 'node:path'
-import { getBase64Image } from '../../utils'
+import getBase64Image from '../../utils/getBase64Image'
 
 const scrapeless: Sponsor = {
   name: 'Scrapeless - Effortless Web Scraping Toolkit for Business and Developers',

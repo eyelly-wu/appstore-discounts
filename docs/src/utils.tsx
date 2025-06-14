@@ -1,9 +1,16 @@
 import './i18n'
 import React, { Break, getAnchor, Link } from 'jsx-to-md'
 import { readFileSync } from 'fs'
-import en from './i18n/en.json'
 import packageInfo from '../../package.json'
 import { langs } from './constants'
+
+export function getLocaleName(localeProp?: string) {
+  const { codeNameMap } = packageInfo
+  const locale = localeProp || global.docLocale
+  const name = codeNameMap[locale]
+
+  return name
+}
 
 export function getDocHref(
   filename: string,

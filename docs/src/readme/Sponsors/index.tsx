@@ -1,51 +1,19 @@
-import { Break, H1 } from 'jsx-to-md'
-import React from 'react'
+import React, { Break, H1, render } from 'jsx-to-md'
 import {
   sponsorTypeColorMap,
-  sponsorTypeHeight,
   sponsorTypeSizeMap,
   wrapperWidth,
 } from './constants'
-import { getRenderInfo } from './getRenderInfo'
-import { scrapeless } from './sponsors'
+import { getRenderInfo } from './utils'
+import { saveSvg, getSvgUrl } from './utils'
 
 export default function Sponsors() {
   const { existSponsors, displaySponsors, allHeight } = getRenderInfo()
 
   if (!existSponsors) return
 
-  const divProps = {
-    xmlns: 'http://www.w3.org/1999/xhtml',
-  } as any
-
-  const tempProps = {
-    align: 'center',
-  }
-
-  const { name, logo, url } = scrapeless
-
-  return (
+  const svgContent = render(
     <>
-      <H1>{t('赞助商')}</H1>
-      <p {...tempProps}>
-        <a href={url}>
-          <img
-            width="85"
-            height="85"
-            src="https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/refs/heads/main/docs/src/readme/Sponsors/sponsors/scrapeless/logo.png"
-            alt={name}
-          />
-        </a>
-      </p>
-      <Break />
-    </>
-  )
-
-  return (
-    <>
-      <H1>{t('赞助商')}</H1>
-      <Break />
-      <Break />
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlnsXlink="http://www.w3.org/1999/xlink"
@@ -53,80 +21,93 @@ export default function Sponsors() {
         height={allHeight}
         style={{ backgroundColor: 'white' }}
       >
-        <foreignObject x="0" y="0" width="100%" height="100%">
-          <div
-            {...divProps}
-            style={{
-              width: '100%',
-              height: '100%',
-              display: 'flex',
-              justifyContent: 'center',
-            }}
-          >
-            <div>
-              {displaySponsors.map((displaySponsor) => {
-                const { type, name, sponsors: rowSponsors } = displaySponsor
-                const color = sponsorTypeColorMap[type]
-                const { width, height } = sponsorTypeSizeMap[type]
-                const gap = Math.floor(width / 4)
+        {displaySponsors.map((displaySponsor) => {
+          const { type, name, y, sponsors: rowSponsors } = displaySponsor
+          const color = sponsorTypeColorMap[type]
+          const { width, height } = sponsorTypeSizeMap[type]
 
+          return (
+            <>
+              <text
+                x="50%"
+                y={y}
+                text-anchor="middle"
+                dominant-baseline="middle"
+                font-size="20"
+                fill={color}
+              >
+                {name}
+              </text>
+              {rowSponsors.map((sponsors) => {
                 return (
                   <>
-                    <div
-                      style={{
-                        height: sponsorTypeHeight,
-                        display: 'flex',
-                        justifyContent: 'center',
-                        alignItems: 'center',
-                        fontWeight: 500,
-                        fontSize: 20,
-                        color,
-                      }}
-                    >
-                      {name}
-                    </div>
-                    {rowSponsors.map((sponsors) => {
-                      return (
-                        <div
-                          style={{
-                            display: 'flex',
-                            alignItems: 'center',
-                            justifyContent: 'center',
-                            gap,
-                          }}
-                        >
-                          {sponsors.map((sponsor) => {
-                            const { url, logo, name } = sponsor
+                    {sponsors.map((sponsor) => {
+                      const { url, logo, name, x, y } = sponsor
 
-                            return (
-                              <a
-                                key={url}
-                                href={url}
-                                target="_blank"
-                                style={{ cursor: 'pointer' }}
-                              >
-                                <img
-                                  src={logo}
-                                  alt={name}
-                                  style={{
-                                    width: width,
-                                    height: height,
-                                    objectFit: 'contain',
-                                  }}
-                                />
-                              </a>
-                            )
-                          })}
-                        </div>
+                      const aProps = {
+                        xlinkHref: url,
+                      } as any
+
+                      const imageProps = {
+                        xlinkHref: logo,
+                      } as any
+
+                      return (
+                        <a
+                          key={url}
+                          target="_blank"
+                          style={{ cursor: 'pointer' }}
+                          {...aProps}
+                        >
+                          <image
+                            x={x}
+                            y={y}
+                            width={width}
+                            height={height}
+                            {...imageProps}
+                          >
+                            <title>{name}</title>
+                          </image>
+                        </a>
                       )
                     })}
                   </>
                 )
               })}
-            </div>
-          </div>
-        </foreignObject>
+            </>
+          )
+        })}
       </svg>
+    </>,
+  )
+
+  const doSaveSvg = () => {
+    let success = true
+    try {
+      saveSvg(svgContent)
+    } catch (error) {
+      success = false
+    }
+
+    return success
+  }
+
+  const saveSuccess = doSaveSvg()
+
+  if (!saveSuccess) return null
+
+  const title = t('赞助商')
+  const codeUrl = getSvgUrl('code')
+  const svgUrl = getSvgUrl('svg')
+
+  return (
+    <>
+      <H1>{title}</H1>
+      <Break />
+      <Break />
+      <a href={codeUrl} target="_blank">
+        <img src={svgUrl} alt={title} />
+      </a>
       <Break />
       <Break />
     </>
