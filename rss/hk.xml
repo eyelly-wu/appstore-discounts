@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
+    <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-13T14:33:16.921Z</updated>
+    <updated>2025-06-14T12:33:34.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -10,7 +10,7 @@
         <uri>https://github.com/eyelly-wu</uri>
     </author>
     <link rel="alternate" href="https://apps.apple.com/hk/app"/>
-    <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/eyelly-wu/appstore-discounts)
+    <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/appstore-discounts/appstore-discounts)
 feedId:67474973430475776+userId:73658201673997312
 </subtitle>
     <logo>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</logo>
@@ -19,18 +19,18 @@ feedId:67474973430475776+userId:73658201673997312
     <entry>
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
-        <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T14:33:16.921Z</updated>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2025-06-14T12:33:34.533Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
-</ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
+</ul><h1>找到我们</h1><a href="https://github.com/appstore-discounts/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkFri, 13 Jun 2025 14:33:16 GMT</id>
-        <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T14:33:16.921Z</updated>
+        <id>rankinghkSat, 14 Jun 2025 12:33:34 GMT</id>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2025-06-14T12:33:34.533Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -50,16 +50,16 @@ feedId:67474973430475776+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1132</b>
+        <b>1134</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>931</b>
+        <b>933</b>
       </td>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
     </tr>
     <tr>
@@ -67,13 +67,13 @@ feedId:67474973430475776+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>1040</b>
+        <b>1042</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>861</b>
+        <b>863</b>
       </td>
       <td>
         <b>12</b>
@@ -165,6 +165,29 @@ feedId:67474973430475776+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id1238247658">Cluedo: Classic Edition</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Ultimate Detective Collection</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id1631331207">Hitman: Blood Money — Reprisal</a>
       </td>
       <td>
@@ -185,7 +208,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6740471827">手錶經典迷宮遊戲</a>
@@ -202,7 +225,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
@@ -219,7 +242,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id352247139">Calorie Counter PRO MyNetDiary</a>
@@ -242,7 +265,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id403684733">Badoo進階版</a>
@@ -265,7 +288,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id510249014">水準管 HD</a>
@@ -282,7 +305,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id703265535">FocusDots · 專注於當下</a>
@@ -299,7 +322,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
@@ -324,7 +347,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -341,7 +364,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -358,7 +381,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1038014543">Day R Premium: last world war</a>
@@ -381,7 +404,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1094038347">Only You Are Here</a>
@@ -408,7 +431,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1108032375">Rise of the Tomb Raider™</a>
@@ -425,7 +448,7 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -436,29 +459,6 @@ feedId:67474973430475776+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>18</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/hk/app/id1238247658">Cluedo: Classic Edition</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買項目</span><ol>
-              <li>
-                <i>Ultimate Detective Collection</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -975,6 +975,70 @@ feedId:67474973430475776+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cluedo: Classic Edition]]></title>
+        <id>Cluedo: Classic Edition-hk-1749903703659</id>
+        <link href="https://apps.apple.com/hk/app/cluedo-classic-edition/id1238247658?uo=4"/>
+        <updated>2025-06-14T12:21:43.659Z</updated>
+        <summary type="html"><![CDATA[Ultimate Detective Collection: HK$ 188.00 → HK$ 68.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/cluedo-classic-edition/id1238247658?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/c6/e3/49c6e375-99ed-17ec-a77f-1c941abd917c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Ultimate Detective Collection：</strong><span>HK$ 188.00</span> → <b>
+  <strong>HK$ 68.00</strong>
+</b><span>[HK$ 68.00 ~ HK$ 188.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 58.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    Ultimate Detective's Package：<b>HK$ 288.00</b>
+  </li><li>
+    Ultimate Detective’s Package：<b>HK$ 148.00</b>
+  </li><li>
+    Sherlock Theme：<b>HK$ 58.00</b>
+  </li><li>
+    Tropical Mystery Theme：<b>HK$ 58.00</b>
+  </li><li>
+    Murder Express train station：<b>HK$ 32.00</b>
+  </li><li>
+    Classic Mansion：<b>HK$ 32.00</b>
+  </li><li>
+    Ultimate Detective Collection：<b>HK$ 68.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  THE ORIGINAL HASBRO BOARD GAME - It’s the classic murder mystery! Who did it? With what weapon? In which room? There’s a high-risk party at the mansion and every guest is a suspect. Roll the dice, become a detective and let Cluedo begin!
+
+•        A PREMIUM DIGITAL BOARD GAME - There are no ads, no pop-ups and no pay-to-win limits. Once you buy the app, that’s it: unlimited multiplayer fun for you and your family and nothing to stop you solving the crime!
+
+•        A BRAIN TEASER - Test your detective skills. At the start of each game, Cluedo will take one suspect, one weapon, and one room from the deck, and deal the rest to the players. If you ask: “was it Colonel Mustard with the Rope in the Drawing Room”, a player holding the Colonel, the Rope or the Drawing Room must show you their card. Enter every room in search of answers!
+
+•        CLUESHEET & HINT SYSTEM - Who committed murder?! Don’t risk letting the criminal escape! Use your virtual cluesheet companion to make a note of the suspects, weapons and rooms you can eliminate. The ideal companion for every detective: cluesheet helps you make your deductions, perfect your strategy and solve the mystery.
+
+•        FAMILY FRIENDLY - It’s the original family board game by Hasbro, suitable for all players 8 years and over. With no adverts or necessary in-app purchases it’s multiplayer fun for kids and adults. With the whole board game on your mobile you can take Cluedo wherever you go! Roll the dice and solve the mystery!
+
+•        SINGLE PLAYER - Put your brain to the test against a guest list of AI murder suspects, online or offline! Choose your character, choose your opponents and let no criminal escape the mansion!
+
+•        ONLINE MULTIPLAYER - Play Cluedo with your friends and find out who’s guilty on mobile, PC or Nintendo Switch! Don’t let distance stop your board game night. Play on the go, or curl up in an armchair and settle down for a night of crime and detective work, wherever you are!
+
+•        10 ADDITIONAL THEMES - Explore ten different themed boards with Cluedo's Ultimate Detective’s Package. Listed under “Editor’s Choice” for the Most Stylish Game, our exclusive original themes are hand crafted by our studio artists. 
+o        Tudor Mansion: The guests at this party have turned out to be a lethal combination!
+o        Vampire Castle: In a household where every suspect is a monster, who committed the crime?
+o        Egyptian Adventure: Solve the crime, from the dark tombs of pharaohs to the crumbling pyramids!
+o        Hollywood: In a land where life is an act, can you find the truth in the fairytale?
+o        Murder Express: Challenge your friends to solve a mystery based on a classic Agatha Christie novel!
+o        Sherlock: Become the great detective and solve a crime on the dark streets of London!
+o        Snowy Peaks: Old friends have been reunited. Tensions are running high, but whose grudge ran that deep?
+o        Tropical Mystery: Someone has rocked this boat in a big way! It’s a luxury race to the answer!
+o        Venetian Masquerade: Historic Venice is beautiful, but crime lurks beneath the surface!
+o        Wild West: From the jailhouse to the saloon, the story of Dr. Black’s end will spread far and wide. Only you can discover the truth!
+
+
+About Marmalade Game Studio
+At Marmalade Game Studio we make quality, premium multiplayer board games. Play our classic games, including Monopoly and The Game of Life 2, anywhere on your mobile! Enjoy with your friends and family whether you’re together or apart. You can find the fun with people you know or players around the world. Our games are ad-free, family friendly fun. For quality time, look for the Marmalade Game Studio logo.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/96/dd/6096dd17-f5cb-29f4-1abe-0c8ecb6f3efe/330265f0-988e-4483-8304-bf0929d10267_A_screenshots_main_1242x2208_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/27/fb/8c27fb69-6bb2-0415-e993-0aef030883fc/26bf69d0-a2d4-45b2-b260-572f98f960ba_A_screenshots_main_1242x2208_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/8a/17/318a1718-bf1a-4fbc-110f-d482fbb5dec6/76c45d0b-9adf-4ead-a88a-ad4ef1b5b56b_A_screenshots_main_1242x2208_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b4/10/1d/b4101dfa-adce-d465-fdfb-b7206f065409/e06482df-f174-4d13-9f2f-e09762477ef2_A_screenshots_main_1242x2208_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/fe/0b/57fe0ba7-db6c-4ad6-5b31-d2b82dfc4668/e4f9d5ae-6bdf-494a-9064-365cf69607e3_A_screenshots_main_1242x2208_5_eng.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/ce/d7/38ced7e2-3014-30ac-3149-02a2437f1dc1/f74ae9f8-bf51-4917-937f-22a67052b2f3_A_screenshots_main_1242x2208_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/a8/d3/e9a8d31f-ed0d-9d13-d0f2-01a55d867c29/9a6f6172-d164-4cdf-89fe-bc7552451f1f_clue_screenshots_apple_arcade_1242x2208_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f0/8f/75/f08f7561-b65e-c5c6-1276-27aa27828736/a421e5b9-4959-4de4-bc96-e839f154f7ae_clue_screenshots_apple_arcade_1242x2208_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/02/e3/ca/02e3caa3-8aa8-e025-e0bc-ccb66d733a27/ed7d73f1-bafa-405a-92c5-66cc15d4257e_A_screenshots_main_2048x2732_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/e4/f5/cce4f5e4-b3e8-1072-5c95-c9b219b06b31/be5b52db-1bc9-4784-941b-fd3d602448e2_A_screenshots_main_2048x2732_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/67/bc/fe67bc8c-efff-2849-1b2f-104b09f242e6/b22cdb63-fa32-4b8d-a14d-6337ec2bc7b0_A_screenshots_main_2048x2732_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/36/37/22363735-6bdd-b1a9-73df-6e1338cb2b9e/9c60dcbc-fb34-4749-a3cc-6ec47be76aed_A_screenshots_main_2048x2732_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/9d/b3/a39db37d-ce7a-7992-069e-6994387ac9a7/fef82d1c-ea76-469f-9680-429e0a098695_A_screenshots_main_2048x2732_5_eng.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/02/a3/0a02a357-5cda-8942-cd1c-843986c6e176/cf6ef44c-9b97-4088-aa9f-bacd696ff028_A_screenshots_main_2048x2732_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/54/54/61/5454616e-bb84-b880-af85-5ac65186c50c/d2a75f6f-19c5-4f3e-ac86-8334d0dfb400_clue_screenshots_apple_arcade_2048x2732_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/e2/70/42e2704b-7602-bd67-6483-9c15db7d0fc2/7f77e34c-a1cc-4675-8f39-a692fc59e2ea_clue_screenshots_apple_arcade_2048x2732_7.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[乐桥]]></title>
@@ -1528,231 +1592,5 @@ FocusDots是一個簡單的時間管理應用，包含四個簡單的步驟：
 
 感謝您選擇FocusDots！我們由衷感謝您的支持，希望我們的應用能幫助您提高生產力和時間管理技巧。如果您有任何反饋或建議，我們非常樂意聽取！
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/f0/04/43f00472-2b4f-1bbe-f24d-8a0031f8ce5b/4dbcc262-6737-4442-858b-22fa348e3549_0__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/61/d6/64/61d66405-93e5-b25c-8c74-962e7a2c6b51/dee3ec66-a1ae-464c-833c-6add0e7fccc9_1__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/61/53/e961538c-4bcc-cefc-ecf2-bea284c353c4/40caa804-c214-4556-820b-5f8a5bc69dc5_2__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/bb/da/a6bbda55-a111-8f6c-40d3-28aef598a316/a31449e5-c435-4078-ac1b-e4c26e810dc6_3__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/00/41/a60041f2-d44c-35cc-7d65-a1200438ab21/f8534652-96aa-4eb0-9f1f-728bc0ac43bd_4__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/57/92/e6/5792e661-1de2-b874-4ad2-55733b603ae6/040b21bd-9d3f-44fb-b9ae-0a7cd89b94b0_5__U2013_2.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/de/a5/71/dea57135-90b8-4727-4d72-19360022855d/8992dc54-397b-4ecc-9e03-922d19608ff5_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ba/21/daba21fc-ab50-8cbe-41e5-f0ff6c5e807b/fc7d9f7e-5e40-4747-bea5-74c59e2a10d9_2.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全民RPG：重啟]]></title>
-        <id>全民RPG：重啟-hk-1749615718607</id>
-        <link href="https://apps.apple.com/hk/app/%E5%85%A8%E6%B0%91rpg-%E9%87%8D%E5%95%9F/id1523146826?uo=4"/>
-        <updated>2025-06-11T04:21:58.607Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 8.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E5%85%A8%E6%B0%91rpg-%E9%87%8D%E5%95%9F/id1523146826?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/15/77/19157700-6d49-ea3e-e341-7c15d8947d28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 8.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ HK$ 8.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    Daily Jewel Package：<b>HK$ 148.00</b>
-  </li><li>
-    Lite Daily Jewel Package：<b>HK$ 68.00</b>
-  </li><li>
-    Starter Package A：<b>HK$ 118.00</b>
-  </li><li>
-    Jewel Package D：<b>HK$ 368.00</b>
-  </li><li>
-    Jewel Package A：<b>HK$ 38.00</b>
-  </li><li>
-    Jewel Package F：<b>HK$ 688.00</b>
-  </li><li>
-    Jewel Package C：<b>HK$ 188.00</b>
-  </li><li>
-    Jewel Package B：<b>HK$ 68.00</b>
-  </li><li>
-    Jewel Package E：<b>HK$ 588.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  召集傳說英雄，挑戰無盡關卡！
-自動戰鬥、採礦、強化通通都有！
-真正的放置型奇幻 RPG，即使離線也能持續成長！
-
-* 組建擁有獨特技能的英雄戰隊，發揮戰略優勢！
-
-* 利用礦坑系統收集資源！打造裝備所需的一切盡在其中！
-
-* 挑戰強大的首領，獲得傳說級獎勵！
-
-* 自動成長系統，讓忙碌的你也能輕鬆遊玩！
-
-* 多樣化內容：地城、遺物、進化、傳說裝備等你來體驗！
-
-立即下載，開始書寫屬於你的傳奇！
-馬上開始遊戲，收集你的英雄吧！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NARUTO: Ultimate Ninja STORM]]></title>
-        <id>NARUTO: Ultimate Ninja STORM-hk-1749611567188</id>
-        <link href="https://apps.apple.com/hk/app/naruto-ultimate-ninja-storm/id6479512734?uo=4"/>
-        <updated>2025-06-11T03:12:47.188Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 98.00 → HK$ 48.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/naruto-ultimate-ninja-storm/id6479512734?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ce/15/02ce1500-dc12-7b1c-27f7-10d38363777f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 98.00</span> → <b>
-  <strong>HK$ 48.00</strong>
-</b><span>[HK$ 48.00 ~ HK$ 98.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 48.00</b>
-</p><h2>应用描述</h2><p>
-  [Warning] Please Read Before Purchasing
-No refunds (including exchanges for other products, services, etc.) are available after purchase, regardless of the reason.
-Please ensure that your device is compatible via the app's Contact page (link below).
-https://bnfaq.channel.or.jp/title/3152
-
-You are purchasing a license for digital goods. For full terms and conditions, please see the License Agreement below.
-
-[Game Summary]
-A Naruto game full of 3D competitive action!
-NARUTO: Ultimate Ninja STORM finally makes its way to smartphones!
-Experience the stories and battles of Naruto's childhood through beautiful graphics!
-
-Game Content
-Ultimate Mission Mode
-Relive the stories and famous battles from Naruto's childhood! You can freely move around the Hidden Leaf Village and take on missions and mini games!
-
-Free Battle Mode
-In Free Battle Mode, you can choose from 25 unique characters from Naruto's childhood and 10 support characters to enjoy a variety of powerful ninjutsu actions and battles! 
-
-Changes for the App
-Easily activate ninjutsu, ultimate jutsu, and other actions with a tap! Even those playing the series for the first time can confidently enjoy the game!
-Plus, the following additional features and improvements have made the game easier to play:
-- New auto-save feature
-- New control mode selection for battle (casual/manual)
-- New battle assist feature (casual only)
-- Improved controls for battle and free movement
-- New retry feature for missions
-- Improved mini-game UI
-- Improved tutorial
-
-Play Notes
-- This game contains violent content.
-- Please pay attention to how long you play and avoid excessive gameplay.
-- 本遊戲部份內容涉及暴力情節
-- 請注意遊戲時間,避免沉迷
-
-[Number of Players]
-This is a single-player game only.
-
-[Storage]
-To download this app, you will need at least 3.5 GB of free space.
-When downloading, please ensure you have a strong internet connection and/or Wi-Fi environment.
-*Depending on your device, you may need more than the suggested storage amount.
- 
-[Online]
-- There is no online battle mode.
-- Aside from the initial game download, you can play offline.
-- An internet connection is required to back up and transfer game data.
-
-Bandai Namco Entertainment Inc. Website:
-https://bandainamcoent.co.jp/english/
-
-By downloading or installing this app, you agree to the Bandai Namco Entertainment Terms of Service.
-
-Terms of Service:
-https://legal.bandainamcoent.co.jp/terms/
-Privacy Policy:
-https://legal.bandainamcoent.co.jp/privacy/
-
-This application is distributed under the official rights from the license holder.
-
-©2002 MASASHI KISHIMOTO
-©Bandai Namco Entertainment Inc.
-
-Powered by "CRIWARE".
-CRIWARE is a trademark of CRI Middleware Co., Ltd.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ee/a2/dceea2c4-415d-e2d8-cf51-d6429248bb17/01-01-4_2208_U00d71242_EN20250321-1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/c2/19/30c219a7-f57c-f239-3ec5-79fd1af05c8c/02-01-4_2208_U00d71242_EN20250321-2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/94/24/10942475-f93d-c3e6-c00f-6a302ea183e2/d2433a98-9692-4d52-a023-c6c3305d587d_03-6_2208_U00d71242_EN.png/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOULVARS]]></title>
-        <id>SOULVARS-hk-1749603724130</id>
-        <link href="https://apps.apple.com/hk/app/soulvars/id1576521142?uo=4"/>
-        <updated>2025-06-11T01:02:04.130Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/soulvars/id1576521142?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/30/65/64306537-c70a-ca1f-a810-5d6d5168c31f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 38.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b><span>[HK$ 18.00 ~ HK$ 38.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 18.00</b>
-</p><h2>应用描述</h2><p>
-  2022年在日本熱賣的獨立遊戲終於支援了繁體中文！
-獨創的戰鬥系統和生動的點陣圖動畫，加上以現代為舞台的硬派劇情，破關後還有更多深入要素的本格派RPG！
-戰鬥能以直向單手操控的簡單操作，爽快卻又充滿了深奧的戰略性，同時還包含了育成、探索、隨機強化道具的收集等豐富遊玩要素！
-
-・存檔數量：３（保存於裝置中）
-・主要故事劇情破關時間約14小時～20小時左右
-・遊戲破關後深入要素可以再玩50小時～100小時以上
-・遊戲內沒有課金要素
-
-【故事劇情】
-這是一個能將靈魂等概念變換為資訊的現代世界。
-但作為代價，異形在各地到處出現並威脅了人們的性命。
-主角們所持有的靈魂驅動器能將靈魂轉化為資訊並對抗異形，
-他們為了驅除街上的異形而來到了這個城市……
-
-【系統介紹】
-將裝備中的靈魂化為資訊，組合「靈魂碎片」(手牌)來進行戰鬥。
-在戰鬥中組合靈魂碎片(手牌)即可連續發出不同的招式，並且和一般的牌組構築遊戲不同的是，最多可同時控制3個角色來構築更多樣化的戰略，加上生動的點陣圖展開的精采戰鬥。
-
-■裝備和靈魂碎片
-根據裝備不同，在戰鬥中能使用的靈魂碎片(手牌)也會改變。
-裝備有主武器、副武器、裝甲、裝飾品等不同部位，根據組合來決定戰鬥中能使用的牌組。
-
-■戰技
-在戰鬥中，一開始的回合只能選擇1個靈魂碎片，
-但只要達成各種條件，下回合能使用的靈魂碎片就會增加。例如攻擊敵人弱點、防禦、迴避、增益、減益等行動都能增加行動次數。
-同時選擇不同靈魂碎片(手牌)，根據組合即可發動各種戰技(技能)。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ee/94/61/ee946171-ebd3-822a-b9ca-4b8d180f777f/d0e914ea-c2e9-4875-8b73-bb1584fd778e_SOULVARS-2022-1211-180932.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/48/8d/a1/488da18f-9971-d4d9-4625-6b4225f489ec/f77f4f89-7534-4e98-98bb-cea25b7b35a6_SOULVARS-2022-1211-180918.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f5/a1/ce/f5a1cee0-1bd2-fc7b-57e3-87c0ff331872/968b8d6f-267e-4cc5-89f8-e79f658245b5_SOULVARS-2022-1211-181029.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/36/ca/e8/36cae898-9d75-4c46-97ac-63ddf2bb959c/8881e264-e78b-4659-af56-0b8b910986fc_SOULVARS-2022-1211-181055.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/58/b6/0d/58b60db4-66c9-b266-0f49-ec6d63347c1d/6b7196b2-c137-4f21-8121-cf728adf8fcd_SOULVARS-2022-1211-180839.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/44/d8/82/44d882cb-ee23-40a5-f5b8-c1bc304f9e62/64860bf7-c1d9-4c87-a190-eaee770e9347_SOULVARS-2022-1211-182001.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f6/c3/0e/f6c30ee1-85b0-5707-5e77-c7d6ff54481b/fb9b1ebe-6181-4d0a-ba05-1a67b4c7ad3f_SOULVARS-2022-1211-181954.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fd/e1/22/fde122cf-b61e-2952-9cda-8dd76bdfb3f7/80ab9ecd-4959-4eb5-8705-dbbf115667b9_SOULVARS-2022-1211-181919.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/99/82/f0/9982f037-2106-04f3-1a78-e877d6016c45/c8f79499-9804-484b-848e-a91094428ffe_SOULVARS-2022-1211-181903.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/89/20/76/892076c4-c231-fc51-08e3-699228e1e3f2/90338734-0c04-49b8-bb15-17053e2d29dd_SOULVARS-2022-1211-181843.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乐桥]]></title>
-        <id>乐桥-hk-1749603724130</id>
-        <link href="https://apps.apple.com/hk/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4"/>
-        <updated>2025-06-11T01:02:04.130Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 32.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/4d/38/2a4d389e-27de-f390-a2d4-c1042930fe76/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 32.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ HK$ 32.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    年度订阅：<b>HK$ 32.00</b>
-  </li><li>
-    乐桥终身会员：<b>HK$ 58.00</b>
-  </li><li>
-    连续按月订阅：<b>HK$ 18.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  为您的 Apple Music 音乐库注入新活力！乐桥(TuneShift) 让您轻松拥有完整的音乐收藏，将网易云音乐和QQ音乐上珍藏的音乐智能匹配到 Apple Music 平台。
-
-告别繁琐的手动搜索，只需简单几步，让您在 Apple Music 上重获完整音乐库。我们的智能引擎确保您能找到最贴近原版的音乐作品。
-
-核心优势：
-
-• 顶级音乐匹配引擎，精准定位您喜爱的曲目
-• 完整保留原始收藏结构和播放顺序
-• 实时进度展示，随时掌握处理状态
-• 简约设计，一键操作，体验流畅
-
-隐私保护：
-我们始终将用户隐私放在首位，严格遵守隐私协议，确保您的账号信息安全可靠。
-
-为什么选择乐桥：
-
-专业的音乐识别技术
-优质的匹配成功率
-快速的处理效率
-人性化的操作流程
-让乐桥成为您的专业音乐管理工具，享受完美的 Apple Music 体验！
-</p>]]></content>
     </entry>
 </feed>
