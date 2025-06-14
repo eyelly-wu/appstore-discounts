@@ -16880,6 +16880,25 @@
     "history": [
       [
         {
+          "timestamp": 1749899379147,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "$120.00",
+            "Ayatsugu_Otowa Collection": "$120.00",
+            "Sherwin Collection": "$120.00",
+            "Capchii Collection": "$120.00",
+            "VII Bundle 06": "$390.00",
+            "VII Bundle 05": "$390.00",
+            "VII Bundle 03": "$220.00",
+            "VII Bundle 02": "$150.00",
+            "VII Bundle 04": "$290.00",
+            "VII Bundle 01": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749791578148,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -60821,6 +60840,27 @@
           "timestamp": 1745442137026,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1614740269": {
+    "name": "答题王 - 百科知识问答题库",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749899379147,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]
