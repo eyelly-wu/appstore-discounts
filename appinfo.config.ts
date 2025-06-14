@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1322446531,
+    name: {
+      mo: 'DAZZ FILM - Disposable Camera',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1614740269,
     name: {
       mo: '答题王 - 百科知识问答题库',
