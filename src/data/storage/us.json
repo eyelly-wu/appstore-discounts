@@ -55547,6 +55547,25 @@
     "history": [
       [
         {
+          "timestamp": 1749895938536,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Fairytale Kingdom Bundle": "$7.99",
+            "Fairytale Kingdom": "$5.99",
+            "The Ultimate Life Collection": "$34.99",
+            "Haunted Hills Bundle": "$7.99",
+            "Haunted Hills World": "$5.99",
+            "Frozen Lands Bundle": "$7.99",
+            "Frozen Lands": "$5.99",
+            "Lunar Age World": "$5.99",
+            "Sandy Shores Bundle": "$7.99",
+            "Sandy Shores": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749510724459,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -80626,7 +80645,9 @@
       "Season MLB 1991": "$0.99",
       "Season MLB 1935": "$0.99",
       "Season MLB 1992": "$0.99",
-      "Season MLB 2001": "$0.99"
+      "Season MLB 2001": "$0.99",
+      "Season MLB 1977": "$0.99",
+      "Season MLB 1987": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -80680,9 +80701,30 @@
       "Season MLB 1991": "$0.99",
       "Season MLB 1935": "$0.99",
       "Season MLB 1992": "$0.99",
-      "Season MLB 2001": "$0.99"
+      "Season MLB 2001": "$0.99",
+      "Season MLB 1977": "$0.99",
+      "Season MLB 1987": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749895938536,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 2017": "$0.99",
+            "Season MLB 1977": "$0.99",
+            "Season MLB 1987": "$0.99",
+            "Season MLB 2001": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749821180822,
