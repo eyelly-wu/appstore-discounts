@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-06-14T18:27:10.562Z</updated>
+    <updated>2025-06-15T14:31:14.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -12,6 +12,7 @@
     <link rel="alternate" href="https://apps.apple.com/tw/app"/>
     <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/appstore-discounts/appstore-discounts)
 feedId:73536236398899200+userId:73658201673997312
+feedId:157008546980077568+userId:73658201673997312
 </subtitle>
     <logo>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</logo>
     <icon>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</icon>
@@ -20,7 +21,7 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-14T18:27:10.563Z</updated>
+        <updated>2025-06-15T14:31:14.419Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +29,9 @@ feedId:73536236398899200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwSat, 14 Jun 2025 18:27:10 GMT</id>
+        <id>rankingtwSun, 15 Jun 2025 14:31:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-14T18:27:10.563Z</updated>
+        <updated>2025-06-15T14:31:14.419Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -50,13 +51,13 @@ feedId:73536236398899200+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1135</b>
+        <b>1136</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>934</b>
+        <b>935</b>
       </td>
       <td>
         <b>14</b>
@@ -67,13 +68,13 @@ feedId:73536236398899200+userId:73658201673997312
         <b>TW</b>
       </td>
       <td>
-        <b>1049</b>
+        <b>1050</b>
       </td>
       <td>
         <b>177</b>
       </td>
       <td>
-        <b>872</b>
+        <b>873</b>
       </td>
       <td>
         <b>12</b>
@@ -366,7 +367,7 @@ feedId:73536236398899200+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id703265535">FocusDots · 專注於當下</a>
+        <a href="https://apps.apple.com/tw/app/id646256209">照片橡皮擦</a>
       </td>
       <td>
         <ul>
@@ -381,6 +382,23 @@ feedId:73536236398899200+userId:73658201673997312
     <tr>
       <td>
         <b>14</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id703265535">FocusDots · 專注於當下</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id916976066">短語鍵盤</a>
@@ -405,7 +423,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -422,7 +440,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -439,7 +457,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1094038347">Only You Are Here</a>
@@ -466,7 +484,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1108032375">Rise of the Tomb Raider™</a>
@@ -483,7 +501,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -500,7 +518,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1198176727">Controller for HomeKit</a>
@@ -523,27 +541,10 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tw/app/id1304822713">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1439569401">Shadow of the Tomb Raider</a>
+        <a href="https://apps.apple.com/tw/app/id1230231705">The Witness</a>
       </td>
       <td>
         <ul>
@@ -560,7 +561,7 @@ feedId:73536236398899200+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1439886655">Cultist Simulator</a>
+        <a href="https://apps.apple.com/tw/app/id1304822713">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
       </td>
       <td>
         <ul>
@@ -575,6 +576,40 @@ feedId:73536236398899200+userId:73658201673997312
     <tr>
       <td>
         <b>24</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id1439569401">Shadow of the Tomb Raider</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>25</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id1439886655">Cultist Simulator</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1449893235">Earthquake Network</a>
@@ -597,7 +632,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1453820315">This Is the Police 2</a>
@@ -614,7 +649,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1519571900">Luwian</a>
@@ -631,7 +666,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -648,7 +683,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1523146826">全民RPG：重啟</a>
@@ -665,7 +700,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1576521142">SOULVARS</a>
@@ -682,7 +717,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -699,7 +734,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1640627334">Resident Evil Village for Mac</a>
@@ -726,7 +761,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1642715290">Little Big Workshop</a>
@@ -743,7 +778,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6449251957">Motorsport Manager 4</a>
@@ -766,7 +801,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6450980545">Resident Evil Village</a>
@@ -795,7 +830,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6462360082">Resident Evil 4</a>
@@ -826,7 +861,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -843,7 +878,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -860,7 +895,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -877,7 +912,7 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -1012,6 +1047,57 @@ feedId:73536236398899200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Witness]]></title>
+        <id>The Witness-tw-1749996631604</id>
+        <link href="https://apps.apple.com/tw/app/the-witness/id1230231705?uo=4"/>
+        <updated>2025-06-15T14:10:31.604Z</updated>
+        <summary type="html"><![CDATA[价格: $320.00 → $150.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/the-witness/id1230231705?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/3b/b3/a83bb3ed-719a-6839-a259-f17a11a9cc07/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$320.00</span> → <b>
+  <strong>$150.00</strong>
+</b><span>[$150.00 ~ $320.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>$150.00</b>
+</p><h2>应用描述</h2><p>
+  你獨自一人在一座陌生的島嶼醒來，島上充滿各種令人意想不到的謎題，等你來挑戰。
+
+你不記得自己是誰，也不記得是如何來到這裡，你唯一能做的就是探索這座島嶼，希望挖掘線索找回自己的記憶，想辦法找到回家的路。
+
+The Witness 是一個單人遊戲，玩家在一個含有數十個地點的開放世界裡探索並克服 500 道以上的謎題。這個遊戲相當敬重玩家的聰明才智，並珍惜他們寶貴的時間。這裡沒有濫竽充數的謎題，每道謎題都結合新的概念在裡面。所以，這是一個充滿創意的遊戲。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/28/8b/aa288bc2-99ce-095a-a116-60f4ed595ee7/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/40/14/ba4014cf-35b4-d173-697e-b126c3402e82/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/ec/80/50ec806c-1fda-f711-d752-0b53ffb986fb/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/18/61/ba18616d-68a1-4363-b09a-1995e5caf2ba/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/62/be/d362beec-a947-1b47-e97a-a7576b27bcab/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/aa/fb/97aafbe5-3fdd-91ed-f68f-d05dafa2dbb3/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/16/8b/3d/168b3d80-cd3f-a052-bda7-78360aa25db3/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/cc/3c/f4cc3cd1-852c-2492-93c4-85d20d53494f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/10/f4/dd10f4a6-84a1-5fc1-d913-f354a2272d2e/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/74/d3/d2/74d3d228-fa16-91ba-4e23-84f9125c4423/pr_source.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[照片橡皮擦]]></title>
+        <id>照片橡皮擦-tw-1749996631604</id>
+        <link href="https://apps.apple.com/tw/app/%E7%85%A7%E7%89%87%E6%A9%A1%E7%9A%AE%E6%93%A6/id646256209?uo=4"/>
+        <updated>2025-06-15T14:10:31.604Z</updated>
+        <summary type="html"><![CDATA[价格: $60.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E7%85%A7%E7%89%87%E6%A9%A1%E7%9A%AE%E6%93%A6/id646256209?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a4/03/d2/a403d209-a77a-bf3e-c823-47648105812e/AppIcon-1x_U007emarketing-85-220-4.jpeg/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$60.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ $60.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h2>应用描述</h2><p>
+  Photo Eraser易於刪除圖像中不需要的對像如刪除水印，日期戳，額外的文字，建築等等並保持原有的重要視覺效果不發生改變。  
+
+您只需以紅色去標記不需要的區域，Photo Eraser會在一分鐘內美化你的照片。
+
+  產品特點： 
+√ 刪除不需要的對象。 
+√ 從照片中刪除人。 
+√ 刪除文字，簽名等。
+ √ 讓肌膚瑕疵消失。
+ √ 完全非技術性的軟件，非常易用。
+
+   反饋： 任何建議將不勝感激，技術支持郵件Market@effectmatrix.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/90/fa/54/90fa5494-08e8-e52f-7a07-f6d9fcaa75cc/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/e3/bf/93/e3bf93a2-5243-1f45-84c7-dc371c718d7b/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/ee/a0/98/eea0986d-75c6-5955-7197-8efeaa1254e4/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/87/ae/7a/87ae7adc-17c3-e6be-941b-5c534479d121/pr_source.jpg/392x696bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Day R Premium: last world war]]></title>
@@ -1394,77 +1480,5 @@ feedId:73536236398899200+userId:73658201673997312
 與好友一較高下，競逐排行榜冠軍
 衝高分數，升上合同殺手排行第一名，成為全世界最出色的無聲殺手。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/f5/14/4ff514b0-f939-df13-8087-84bd3217e009/mzl.bzdlkeau.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/12/32/43/123243f6-2ada-46b6-9d40-ef5d52b2c8c2/mzl.stqiidrz.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/64/69/52/6469521c-8e46-de39-d39d-f26221900223/mzl.zczjlcvd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/af/3a/f4/af3af49d-e212-394a-aff8-e2b62d4f586b/mzl.qnyhsiqe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/a0/f6/6ea0f61c-0214-ff61-ca59-542f41383ef1/mzl.jluxebmf.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/70/d1/ba70d194-83d5-194f-cb52-8de9fcf5d781/mzl.evgrgmwz.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/25/e2/2a25e257-0979-20b7-48cc-f5798fb338bf/mzl.etsyiapq.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/e7/88/cae78850-19a1-d2fc-a4d8-3777b03245f4/mzl.zybyctyl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/45/0c/a1/450ca19e-b8ef-e8d7-a9cc-66dd9dbd8f89/mzl.ldamlibv.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/81/a9/d381a9b2-4758-8ac9-e361-3e6ada871f3b/mzl.pftqxiws.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水準管 HD]]></title>
-        <id>水準管 HD-tw-1749737566629</id>
-        <link href="https://apps.apple.com/tw/app/%E6%B0%B4%E6%BA%96%E7%AE%A1-hd/id510249014?uo=4"/>
-        <updated>2025-06-12T14:12:46.629Z</updated>
-        <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E6%B0%B4%E6%BA%96%E7%AE%A1-hd/id510249014?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/7a/5c/317a5c62-0c0f-38c8-b215-cbd1ab428d6b/AppIcon-EW-0-0-1x_U007emarketing-0-0-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$30.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $30.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>
-  精準水平儀,包含水平管及水平泡兩種測量方式。
-
-功能:
-√ 水平標尺及水平泡
-√ 支援 iPhone 和 iPad
-
-Level. URL scheme is "EWBubbleLevel://"
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/c3/7a/13c37a4e-517b-f191-b2ec-80c3e0a31598/mzl.rltbicsz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/dd/99/17dd9927-e6e4-b255-c946-f0346c7d2a1d/mzl.xuivbopz.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/ef/75/57ef75d3-0305-89f9-4b8f-4c2250a30368/mzl.oleqkngv.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/02/14/e50214c6-b531-221c-3a6d-02a80c7d64a5/mzl.rrvyeumo.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乐桥]]></title>
-        <id>乐桥-tw-1749723256322</id>
-        <link href="https://apps.apple.com/tw/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4"/>
-        <updated>2025-06-12T10:14:16.322Z</updated>
-        <summary type="html"><![CDATA[乐桥终身会员: $290.00 → $120.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/ab/57/34ab5745-f407-2cee-34be-8de2b61baa42/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>乐桥终身会员：</strong><span>$290.00</span> → <b>
-  <strong>$120.00</strong>
-</b><span>[$120.00 ~ $290.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    年度订阅：<b>$120.00</b>
-  </li><li>
-    乐桥终身会员：<b>$120.00</b>
-  </li><li>
-    连续按月订阅：<b>$60.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  为您的 Apple Music 音乐库注入新活力！乐桥(TuneShift) 让您轻松拥有完整的音乐收藏，将网易云音乐和QQ音乐上珍藏的音乐智能匹配到 Apple Music 平台。
-
-告别繁琐的手动搜索，只需简单几步，让您在 Apple Music 上重获完整音乐库。我们的智能引擎确保您能找到最贴近原版的音乐作品。
-
-核心优势：
-
-• 顶级音乐匹配引擎，精准定位您喜爱的曲目
-• 完整保留原始收藏结构和播放顺序
-• 实时进度展示，随时掌握处理状态
-• 简约设计，一键操作，体验流畅
-
-隐私保护：
-我们始终将用户隐私放在首位，严格遵守隐私协议，确保您的账号信息安全可靠。
-
-为什么选择乐桥：
-
-专业的音乐识别技术
-优质的匹配成功率
-快速的处理效率
-人性化的操作流程
-让乐桥成为您的专业音乐管理工具，享受完美的 Apple Music 体验！
-</p>]]></content>
     </entry>
 </feed>

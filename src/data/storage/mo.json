@@ -1308,6 +1308,23 @@
     "history": [
       [
         {
+          "timestamp": 1749996631604,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Príncipe Real HipstaPak": "USD 1.99",
+            "Coyoacán HipstaPak": "USD 1.99",
+            "Ohara HipstaPak": "USD 1.99",
+            "RetroPak 2022": "USD 6.99",
+            "RetroPak 2023": "USD 9.99",
+            "RetroPak Twenty-One": "USD 4.99",
+            "Highland Park HipstaPak": "USD 0.99",
+            "Pilsen HipstaPak": "USD 0.99",
+            "Tiong Bahru HipstaPak": "USD 0.99",
+            "Impressionist SnapPak": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1749964354919,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -9858,6 +9875,14 @@
     "history": [
       [
         {
+          "timestamp": 1749996631604,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749737566629,
           "price": 0,
           "formattedPrice": "免費",
@@ -13556,10 +13581,18 @@
       "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749996631604,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -26011,6 +26044,14 @@
       "formattedPrice": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749996631604,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748613743995,
@@ -55955,6 +55996,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749996631604,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749823964128,

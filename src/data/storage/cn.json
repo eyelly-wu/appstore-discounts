@@ -9446,6 +9446,14 @@
     "history": [
       [
         {
+          "timestamp": 1749996631604,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749737566629,
           "price": 0,
           "formattedPrice": "免费",
@@ -11784,10 +11792,18 @@
       "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749996631604,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -16956,6 +16972,18 @@
       "超值礼包7": "¥198.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749996631604,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "贪婪洞窟点券": "¥6.00",
+            "超值礼包8": "¥328.00",
+            "超值礼包7": "¥198.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746475353066,
@@ -56619,6 +56647,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749996631604,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749823964128,

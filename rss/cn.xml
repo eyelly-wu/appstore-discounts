@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-15T04:44:08.416Z</updated>
+    <updated>2025-06-15T14:31:14.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -12,6 +12,7 @@
     <link rel="alternate" href="https://apps.apple.com/cn/app"/>
     <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/appstore-discounts/appstore-discounts)
 feedId:49753297431966720+userId:73658201673997312
+feedId:157007849019630592+userId:73658201673997312
 </subtitle>
     <logo>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</logo>
     <icon>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</icon>
@@ -20,7 +21,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-15T04:44:08.417Z</updated>
+        <updated>2025-06-15T14:31:14.398Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +29,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSun, 15 Jun 2025 04:44:08 GMT</id>
+        <id>rankingcnSun, 15 Jun 2025 14:31:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-15T04:44:08.417Z</updated>
+        <updated>2025-06-15T14:31:14.398Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +51,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1135</b>
+        <b>1136</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>934</b>
+        <b>935</b>
       </td>
       <td>
         <b>14</b>
@@ -314,7 +315,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id703265535">FocusDots · 专注于当下</a>
+        <a href="https://apps.apple.com/cn/app/id646256209">Photo Eraser</a>
       </td>
       <td>
         <ul>
@@ -331,7 +332,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
+        <a href="https://apps.apple.com/cn/app/id703265535">FocusDots · 专注于当下</a>
       </td>
       <td>
         <ul>
@@ -346,6 +347,46 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>
         <b>13</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1028950091">贪婪洞窟：猿神降临</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>贪婪洞窟点券</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1055511498">Day One Journal</a>
@@ -368,7 +409,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
@@ -391,7 +432,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1304822713">无尽坦克大战 - 八位元单机王者 完美模拟穿越旧经典电视手游</a>
@@ -408,7 +449,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -431,7 +472,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1519571900">Luwian</a>
@@ -448,7 +489,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -465,7 +506,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -482,7 +523,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
@@ -505,7 +546,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744837914">块块爱消除-手表游戏经典快乐休闲益智</a>
@@ -522,7 +563,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -539,7 +580,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -556,7 +597,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -573,7 +614,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -716,6 +757,89 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo Eraser]]></title>
+        <id>Photo Eraser-cn-1749996631604</id>
+        <link href="https://apps.apple.com/cn/app/photo-eraser/id646256209?uo=4"/>
+        <updated>2025-06-15T14:10:31.604Z</updated>
+        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/photo-eraser/id646256209?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a4/03/d2/a403d209-a77a-bf3e-c823-47648105812e/AppIcon-1x_U007emarketing-85-220-4.jpeg/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥15.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥15.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h2>应用描述</h2><p>
+  Photo Eraser易于删除图像中不需要的对象如删除水印，日期戳，额外的文字，建筑等等并保持原有的重要视觉效果不发生改变。
+
+您只需以红色去标记不需要的区域，Photo Eraser会在一分钟内美化你的照片。
+
+产品特点：
+- 删除不需要的对象。
+- 从照片中删除人。
+- 删除文字，签名等。
+- 让肌肤瑕疵消失。
+- 完全非技术性的软件，非常易用。
+
+
+反馈：
+任何建议将不胜感激，技术支持邮件：market@effectmatrix.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/97/f3/86/97f3865c-b9ad-2cc7-e2ad-88d10362dfca/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/3f/05/1c/3f051cba-845d-fb71-2a54-36fb79e2f073/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/18/4f/e0/184fe098-c3d0-54b3-641c-e8cef72f6178/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/b2/52/08/b25208fc-2374-63df-da3a-b5aaae4521ca/pr_source.jpg/392x696bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贪婪洞窟：猿神降临]]></title>
+        <id>贪婪洞窟：猿神降临-cn-1749996631604</id>
+        <link href="https://apps.apple.com/cn/app/%E8%B4%AA%E5%A9%AA%E6%B4%9E%E7%AA%9F-%E7%8C%BF%E7%A5%9E%E9%99%8D%E4%B8%B4/id1028950091?uo=4"/>
+        <updated>2025-06-15T14:10:31.604Z</updated>
+        <summary type="html"><![CDATA[贪婪洞窟点券: ¥68.00 → ¥6.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E8%B4%AA%E5%A9%AA%E6%B4%9E%E7%AA%9F-%E7%8C%BF%E7%A5%9E%E9%99%8D%E4%B8%B4/id1028950091?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/25/c4/e525c49e-ab0e-e37e-ed0a-5012404bc7d3/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>贪婪洞窟点券：</strong><span>¥68.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥68.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥1.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    贪婪洞窟点券：<b>¥6.00</b>
+  </li><li>
+    超值礼包8：<b>¥328.00</b>
+  </li><li>
+    超值礼包7：<b>¥198.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  《贪婪洞窟》全新英雄[猿神]悟空出世，独特双符文图纸效果，扫平洞窟一切妖魔鬼怪。
+
+【简介】
+《贪婪洞窟》是一款地牢探险Roguelike手游。游戏整体画风神秘而诡异，共有4种不同难度，400层随机地形迷宫，60多种不同的怪物和BOSS，300多件随机属性的可收集装备， 20000+字的线索式剧情。还有更多独特有趣的玩法等你发现！
+
+【游戏背景】
+在崇尚刀剑与魔法的弥尔顿大陆，一名冒险者在废弃多年的矿坑中发现了大量的金子和财宝，一夜之间他收获了从未想象的财富和名声。
+消息随着北风迅速吹遍了整个大陆，各地的人蜂拥至此地却又心怀鬼胎。
+你，芸芸众生中的一个普通年轻人，也带着旁人看不透的目的，来到了这个地方……
+
+【游戏特色】
+-探索随机洞窟
+你永远不知道下一层洞窟会有什么——宝藏、迷雾、陷阱、密室？还是强大首领？游戏中充满了不确定性，玩家只有依靠自己的计谋与胆量，才能以最小的牺牲换取最大的收获。
+
+-找寻卷轴 及时逃脱
+逃脱卷轴是你离开洞窟唯一的物品，请务必尽快找到它！因为在洞窟内死亡后你将一无所获——所有辛苦打怪升级的经验、守财奴般积攒的金币、让你欣喜若狂的顶级宝物都将伴随你的死亡埋葬。
+
+-宝箱遍地也暗藏杀机
+在洞窟中有许多奇珍异宝等你发现，密室宝藏更不能错过。但是要小心那些看守宝藏的怪物，它们可是等着你上钩呢！甚至还有伪装成宝箱的怪物，让你防不胜防！
+
+-角色养成 装备收集
+在洞窟中消灭怪物能提升角色等级，合理分配属性点与技能点将让你更加从容面对洞窟的危险；升级、改造、附魔、点金你的装备，以面对更具难度的探险，甚至挑战邪恶首领，解开埋藏在洞窟的无尽秘密！
+
+-宠物相伴 一起冒险
+全新上线宠物系统，冒险之旅不再孤独！在冒险的旅途中，你将会在不同的际遇下，遇上这些宠物。它们各具特色，也有专属自己的独特能力，带上它们一起去冒险吧！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d6/5d/21d65de2-2ecb-b335-0bc7-4847ce63abd3/eba6035c-b4f0-409b-9377-a58fafc6b71a_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bf/49/31/bf4931cf-15c2-7169-8b1c-0fd4b2e0d92d/681ea451-dfab-4f92-862f-96aa2dd08b84_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/7b/15/847b1500-0212-a581-9adf-0882a09daa09/2f2ec185-38b1-43c8-b5c8-867e814fb1ff_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/67/44/a46744b3-9dc1-ced3-c07f-b901d575e0ed/78892d63-bbb6-4729-ac1b-e7a2be916cb0_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fa/8e/d1/fa8ed130-fcde-b758-3469-9a3ce45ed62e/5e7248b4-5caf-4144-9016-03ca8e813fe9_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/ee/d5/84eed573-05b4-f9e3-cf67-bb03fe7f61d8/94aa25cc-2af9-43e9-8d61-3cac02b9becc_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bc/96/54/bc965473-de7c-1bc4-d1e4-f4c702d6ee44/c5e84ffb-00da-486d-adb1-d95294c54863_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/9a/98/649a98fe-b69a-ad08-57ab-457fd1fc7ebf/eed1cb00-bb13-432a-92de-b93fc14ecaea_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f0/c9/bb/f0c9bb84-6cd4-7abf-6789-18375667befd/9dd381e4-0b41-47c1-b89d-2109f04321b9_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9b/35/ef/9b35ef5c-8286-b2b0-47be-df8080807b4d/aa4b6a56-3d5f-409a-b6cd-feed3679791d_5.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Day One Journal]]></title>
@@ -1266,140 +1390,5 @@ https://www.camscanner.com/app/privacy?language=zh-cn
 【神装靠打-兄弟情深，全民攻沙】经典重现，再创辉煌！
 【自由交易-散人天堂，秒成土豪】炫酷特效，战力飙升！
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/0c/1c/e60c1cd2-c4d9-0854-f71a-144e0330b747/1242x2208-1_U00283_U0029.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/9b/be/119bbe66-3842-c294-ef16-d6b5a45bde32/0f857775-497c-440b-a2c6-087dcd5a8984_1242-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/6f/92/f56f9292-df56-0d8b-99a2-3eb21a0fc164/c904b185-9228-49c4-b547-776875cdfa9f_1242-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/fd/91/6bfd91f3-8b2d-c965-2864-bf5986dec861/c400548f-0d1f-4dde-9956-906b57fdece0_1242-4.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/d5/a1/1ed5a1b4-ad69-8d2d-871e-093eff425b75/2048x2732-1_U00281_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/d0/4d/87d04d2d-01be-1c8c-471b-7decab21464e/8506d209-c1ea-460e-813a-47b7be3c2e9c_2048-2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/2c/df/cf2cdff0-1e16-1001-f93d-a13633bbbb66/99fc848d-e287-431e-a423-24f8fb67a6dd_2048-3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/e9/05/72e90542-9185-416f-bff8-b9eb7146983e/e9dfebfc-a1d7-4970-a46f-7ef1e1034e35_2048-4.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鬼谷八荒]]></title>
-        <id>鬼谷八荒-cn-1749737566629</id>
-        <link href="https://apps.apple.com/cn/app/%E9%AC%BC%E8%B0%B7%E5%85%AB%E8%8D%92/id6737795387?uo=4"/>
-        <updated>2025-06-12T14:12:46.629Z</updated>
-        <summary type="html"><![CDATA[价格: ¥38.00 → ¥28.00<br/>五朵金花: ¥18.00 → ¥16.00<br/>不归玄境: ¥12.00 → ¥10.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%AC%BC%E8%B0%B7%E5%85%AB%E8%8D%92/id6737795387?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/8c/5c/ff8c5cfd-940a-5ebd-b217-d624b2d41683/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥38.00</span> → <b>
-  <strong>¥28.00</strong>
-</b><span>[¥28.00 ~ ¥38.00]</span>）
-</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>五朵金花：</strong><span>¥18.00</span> → <b>
-  <strong>¥16.00</strong>
-</b><span>[¥16.00 ~ ¥18.00]</span>
-  </li><li>
-    <strong>不归玄境：</strong><span>¥12.00</span> → <b>
-  <strong>¥10.00</strong>
-</b><span>[¥10.00 ~ ¥12.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>¥28.00</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    五朵金花：<b>¥16.00</b>
-  </li><li>
-    不归玄境：<b>¥10.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  《鬼谷八荒》是一款开放世界的沙盒修仙游戏。结合了修仙体系与山海经文化背景，体验从凡人一步步修行成长为强者的过程，与山海经中各种妖、兽战斗。你是否能坚守本心，与困难做斗争；慎做抉择，把握自己的命运。
-
-【遁入修仙世界，开启逆天人生】
-鬼谷八荒, 除了财侣法地，还有诡秘莫测的妖兽，危机重重的秘境，难以逾越的天堑，彩光四射的秘宝，等着被人发现。
-你将作为一个炼气期小修士从愚村出发，修炼，变强，危机中九死一生。每一次突破，你都能逆天改命，助你在旅途中披荆斩棘，跨越五大州，睥睨天下，再闯上天元山，向天道一问。
-【ai互动生态，给NPC完整的一生】
-我们构建了完整的NPC互动生态，他们“生活”在这里，有自己的朋友亲族关系网，自己的人生轨迹，不受玩家的进度限制，除非，你决定出手干涉。
-你可兼济天下，携手红颜；你可独善其身，快意恩仇；你亦可逆天而行，与全世界为敌。
-和NPC们切磋武艺，传授道心，拜师学艺，收徒授业。和NPC在拍卖场喊价厮杀，结束后拔刀相向或顺手牵羊。你将成为修仙界群像中的一部分，是大放异彩，还是默默修行，皆看你如何选择。
-【体验小说桥段，感受奇遇惊喜】
-英雄救美？爱人为你争风吃醋？五十年之约？卷入神秘组织的明争暗斗？遗迹遇宝？又惨遭夺宝？
-这些都有可能发生在你身上。
-除NPC交互之外，这里还有丰富的随机事件以及支线任务，在你的旅途中给予惊喜。它们或许会让你烦恼，喂你刀子，也可能让你化险为夷，甚至破而后立。在一步又一步的选择的过程中，你将谱写只属于你的，独一无二的故事。
-【打造最强宗门，攻城略地一统八荒】
-我们构建了宗门的经营玩法，身为弟子，长老以及宗主，将会有不同的体验。你可以加入大宗门，从最底层的弟子做起，一步步爬上权力的阶梯。也可以空降落魄的小宗门，力挽狂澜，带领宗门重振雄风。
-弟子可以完成宗门任务，在宗门大比中出战，或随同门出征作战，为宗门积累资源，为宗门赢取荣誉，为宗门扩张土地。
-长老可以管辖门下弟子，传道授业，分配任务职能，加速宗门成长，在宗门大战中指导弟子大杀四方。
-宗主则需要统筹全宗的秩序，制定侵略和防守计划，攻防灵矿等资源点，甚至占领他人宗门，夺取专属逆天改命和秘籍。
-一统八荒，只要你有宏图壮志和铁腕手段，不再只是幻想。
-【构筑独特流派，挑战妖兽神仙】
-闯荡这世界，需要有傍身之技。
-心法筑根基，武技/灵技探深浅，身法创机会，绝技造优势，神通定乾坤。不同秘籍有不同的特性。
-修仙者还有十二大灵根，对应不同的流派，你可以选择专精一路，或全面发展。十二种灵根都有对应的功法秘籍，排列组合可组成丰富的流派，孰强孰弱，皆由你评断。
-城镇琅琊阁，宗门功法阁，秘境，各种任务，甚至路边一个土坑里，都可能发现珍奇秘籍，充满惊喜。
-这个世界上还有上百种珍奇妖兽，无数修仙者，鬼怪，仙人供您检验自己的实力。挑战升仙擂台，冲击各大洲参玄榜，以此证明自己的实力。你能否踏破冥山的障碍一路向前？构筑的流派能否经历大浪淘沙的检验？
-【法宝器灵炼丹画符，三大神器伴前路】
-练好自身本领，也别忘了外力加持。
-开局三大神器，每一个都会给你带来一种独一无二的系统。双鱼佩可以复活自己和选中之人，昊天眼可以偷学妖兽技能，洞察更多信息，而炼妖壶则可以让你捕获BOSS成为你的小跟班，替你战斗或派遣寻求宝物。
-除了开局神器之外，你也能炼制你自己的法宝，并收服器灵与你一起战斗，此外器灵还会在探索中给予你陪伴，触发专属的奇遇等等。
-在这里，你还可以学习炼丹画符，堪舆风水，制作帮助你探索世界，整蛊仇人，战斗杀敌的种种道具。至于如何发挥它们真正的作用，皆看各位道友如何抉择。
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水平仪 HD]]></title>
-        <id>水平仪 HD-cn-1749737566629</id>
-        <link href="https://apps.apple.com/cn/app/%E6%B0%B4%E5%B9%B3%E4%BB%AA-hd/id510249014?uo=4"/>
-        <updated>2025-06-12T14:12:46.629Z</updated>
-        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%B0%B4%E5%B9%B3%E4%BB%AA-hd/id510249014?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/7a/5c/317a5c62-0c0f-38c8-b215-cbd1ab428d6b/AppIcon-EW-0-0-1x_U007emarketing-0-0-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥8.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥8.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h2>应用描述</h2><p>
-  精准水平仪,包含水平管及水平泡两种测量方式。
-
-功能:
-√ 水平标尺及水平泡
-√ 支持 iPhone 和 iPad
-
-Level. URL scheme is "EWBubbleLevel://"
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/c3/7a/13c37a4e-517b-f191-b2ec-80c3e0a31598/mzl.rltbicsz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/dd/99/17dd9927-e6e4-b255-c946-f0346c7d2a1d/mzl.xuivbopz.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/ef/75/57ef75d3-0305-89f9-4b8f-4c2250a30368/mzl.oleqkngv.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/02/14/e50214c6-b531-221c-3a6d-02a80c7d64a5/mzl.rrvyeumo.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乐桥]]></title>
-        <id>乐桥-cn-1749723256322</id>
-        <link href="https://apps.apple.com/cn/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4"/>
-        <updated>2025-06-12T10:14:16.322Z</updated>
-        <summary type="html"><![CDATA[乐桥终身会员: ¥58.00 → ¥28.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%B9%90%E6%A1%A5/id6739975257?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/ab/57/34ab5745-f407-2cee-34be-8de2b61baa42/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>乐桥终身会员：</strong><span>¥58.00</span> → <b>
-  <strong>¥28.00</strong>
-</b><span>[¥28.00 ~ ¥58.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    连续按月订阅：<b>¥12.00</b>
-  </li><li>
-    年度订阅：<b>¥28.00</b>
-  </li><li>
-    乐桥终身会员：<b>¥28.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  为您的 Apple Music 音乐库注入新活力！乐桥(TuneShift) 让您轻松拥有完整的音乐收藏，将网易云音乐和QQ音乐上珍藏的音乐智能匹配到 Apple Music 平台。
-
-告别繁琐的手动搜索，只需简单几步，让您在 Apple Music 上重获完整音乐库。我们的智能引擎确保您能找到最贴近原版的音乐作品。
-
-核心优势：
-
-• 顶级音乐匹配引擎，精准定位您喜爱的曲目
-• 完整保留原始收藏结构和播放顺序
-• 实时进度展示，随时掌握处理状态
-• 简约设计，一键操作，体验流畅
-
-隐私保护：
-我们始终将用户隐私放在首位，严格遵守隐私协议，确保您的账号信息安全可靠。
-
-为什么选择乐桥：
-
-专业的音乐识别技术
-优质的匹配成功率
-快速的处理效率
-人性化的操作流程
-让乐桥成为您的专业音乐管理工具，享受完美的 Apple Music 体验！
-</p>]]></content>
     </entry>
 </feed>
