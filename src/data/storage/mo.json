@@ -1308,6 +1308,25 @@
     "history": [
       [
         {
+          "timestamp": 1749961370215,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Príncipe Real HipstaPak": "USD 1.99",
+            "Coyoacán HipstaPak": "USD 1.99",
+            "Ohara HipstaPak": "USD 1.99",
+            "RetroPak 2022": "USD 6.99",
+            "RetroPak 2023": "USD 9.99",
+            "RetroPak Twenty-One": "USD 4.99",
+            "Highland Park HipstaPak": "USD 0.99",
+            "Pilsen HipstaPak": "USD 0.99",
+            "Tiong Bahru HipstaPak": "USD 0.99",
+            "Impressionist SnapPak": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749791578148,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -16914,7 +16933,8 @@
       "促銷包": "USD 24.99",
       "中型金錢包": "USD 4.99",
       "The Merry Maker Rifle": "USD 14.99",
-      "Small Blood Money Pack": "USD 1.99"
+      "Small Blood Money Pack": "USD 1.99",
+      "Limited Time Offer": "USD 15.00"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -16931,11 +16951,27 @@
       "超大型金錢包": "USD 7.99",
       "超大型代幣包": "USD 11.99",
       "促銷包": "USD 24.99",
-      "中型金錢包": "USD 4.99",
+      "中型金錢包": "USD 3.99",
       "The Merry Maker Rifle": "USD 14.99",
-      "Small Blood Money Pack": "USD 1.99"
+      "Small Blood Money Pack": "USD 1.99",
+      "Limited Time Offer": "USD 15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749961370215,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Limited Time Offer": "USD 15.00",
+            "超大型代幣包": "USD 11.99",
+            "超大型金錢包": "USD 7.99",
+            "促銷包": "USD 24.99",
+            "新手包": "USD 2.99",
+            "中型金錢包": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747967497151,
@@ -26122,6 +26158,16 @@
       "Classic Professor Plum": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749961370215,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Ultimate Detective Collection": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749529299346,
