@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6740482160,
+    name: {
+      tw: '《最終前哨: 終極版》',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1322446531,
     name: {
       mo: 'DAZZ FILM - Disposable Camera',

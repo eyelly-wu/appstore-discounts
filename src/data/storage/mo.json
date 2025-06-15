@@ -1308,6 +1308,23 @@
     "history": [
       [
         {
+          "timestamp": 1749964354919,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "USD 0.99",
+            "Portland HipstaPak": "USD 0.99",
+            "Mission Hipstapak": "USD 0.99",
+            "Shibuya HipstaPak": "USD 0.99",
+            "Camden HipstaPak": "USD 0.99",
+            "Soho HipstaPak": "USD 0.99",
+            "Foodie SnapPak": "USD 0.99",
+            "Bondi HipstaPak": "USD 0.99",
+            "Multi-Exposure Kit": "USD 0.99",
+            "America HipstaPak": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1749961370215,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -16959,6 +16976,23 @@
     "history": [
       [
         {
+          "timestamp": 1749964354919,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Aria Gold Sniper Rifle": "USD 24.99",
+            "Exorcist": "USD 14.99",
+            "Aria Sniper Rifle": "USD 9.99",
+            "Largo Sniper Rifle": "USD 0.99",
+            "新手包": "USD 4.99",
+            "Dragun": "USD 14.99",
+            "Jaeger Sniper Rifle": "USD 24.99",
+            "Brutus Sniper Rifle": "USD 5.99",
+            "Large Blood Money Pack": "USD 9.99",
+            "超大型金錢包": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1749961370215,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -26159,6 +26193,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749964354919,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Snowy Peaks Theme": "USD 6.99",
+            "Ultimate Detective's Package": "USD 34.99",
+            "Ultimate Detective Collection": "USD 14.99"
+          }
+        },
         {
           "timestamp": 1749961370215,
           "price": 6.99,
@@ -59290,6 +59334,27 @@
           "timestamp": 1749813052621,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740482160": {
+    "name": "《最終前哨: 終極版》",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749964354919,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]
