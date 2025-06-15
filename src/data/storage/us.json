@@ -38407,6 +38407,23 @@
     "history": [
       [
         {
+          "timestamp": 1749957548224,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Monster Succession": "$4.99",
+            "Awakened Irea Package": "$4.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Original Lord Complete Package": "$26.99",
+            "Awakening Viper Package": "$4.99",
+            "Original Facility Package": "$8.99",
+            "Original Monster Package": "$8.99"
+          }
+        },
+        {
           "timestamp": 1749949717605,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -46699,6 +46716,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749957548224,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$6.99"
+          }
+        },
         {
           "timestamp": 1749949717605,
           "price": 0,
@@ -60634,6 +60664,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749957548224,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749603724130,
