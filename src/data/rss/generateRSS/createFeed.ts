@@ -3,7 +3,7 @@ import { homepage } from '../../../../package.json'
 
 const followUserId = '73658201673997312'
 
-const followRegionFeedMap: Record<Region, string> = {
+const legacyFollowRegionFeedMap: Record<Region, string> = {
   cn: '49753297431966720',
   hk: '67474973430475776',
   mo: '73536165737884672',
@@ -12,13 +12,24 @@ const followRegionFeedMap: Record<Region, string> = {
   tr: '99063474310237184',
 }
 
+const followRegionFeedMap: Record<Region, string> = {
+  cn: '157007849019630592',
+  hk: '157008141708743680',
+  mo: '157008389768002560',
+  tw: '157008546980077568',
+  us: '157008699750812672',
+  tr: '157008924688563200',
+}
+
 export function createFeed(region: Region) {
   const appstoreIcon = 'https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png'
+  const legacyFollowFeedId = legacyFollowRegionFeedMap[region]
   const followFeedId = followRegionFeedMap[region]
 
   const feed = new Feed({
     title: `App Store Discounts（${region.toUpperCase()}）`,
     description: `App Store Discounts - Made with love by appstore-discounts(${homepage})
+feedId:${legacyFollowFeedId}+userId:${followUserId}
 feedId:${followFeedId}+userId:${followUserId}
 `,
     id: `${homepage}/rss/${region}.xml`,
