@@ -29154,6 +29154,27 @@
       ]
     ]
   },
+  "1076450419": {
+    "name": "漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750097888934,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1077134281": {
     "name": "节拍器 : Smart Metronome & Tuner+",
     "maxPriceInfo": {
@@ -77145,7 +77166,8 @@
       "连续按月订阅": "$60.00",
       "月度高级订阅": "$60.00",
       "年度高级订阅": "$150.00",
-      "Annual Premium Subscription": "$120.00"
+      "Annual Premium Subscription": "$120.00",
+      "月度高級訂閱": "$60.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -77155,9 +77177,22 @@
       "连续按月订阅": "$60.00",
       "月度高级订阅": "$60.00",
       "年度高级订阅": "$120.00",
-      "Annual Premium Subscription": "$120.00"
+      "Annual Premium Subscription": "$120.00",
+      "月度高級訂閱": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750097888934,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高級訂閱": "$60.00",
+            "Annual Premium Subscription": "$120.00",
+            "乐桥终身会员": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750068868138,

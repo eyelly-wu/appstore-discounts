@@ -29190,6 +29190,27 @@
       ]
     ]
   },
+  "1076450419": {
+    "name": "Chinese Pinyin: Learn Mandarin",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750097888934,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1077134281": {
     "name": "Smart Metronome & Tuner +",
     "maxPriceInfo": {
@@ -79343,7 +79364,8 @@
       "连续按月订阅": "$1.99",
       "月度高级订阅": "$1.99",
       "年度高级订阅": "$4.99",
-      "Annual Premium Subscription": "$4.99"
+      "Annual Premium Subscription": "$4.99",
+      "Monthly Premium Subscription": "$1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -79353,10 +79375,21 @@
       "连续按月订阅": "$1.99",
       "月度高级订阅": "$1.99",
       "年度高级订阅": "$4.99",
-      "Annual Premium Subscription": "$3.99"
+      "Annual Premium Subscription": "$3.99",
+      "Monthly Premium Subscription": "$1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750097888934,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Premium Subscription": "$1.99",
+            "Annual Premium Subscription": "$3.99",
+            "乐桥终身会员": "$7.99"
+          }
+        },
         {
           "timestamp": 1750068868138,
           "price": 0,
