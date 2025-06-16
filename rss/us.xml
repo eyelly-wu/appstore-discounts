@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-15T04:44:08.434Z</updated>
+    <updated>2025-06-16T03:29:10.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -12,6 +12,7 @@
     <link rel="alternate" href="https://apps.apple.com/us/app"/>
     <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/appstore-discounts/appstore-discounts)
 feedId:49753370488353792+userId:73658201673997312
+feedId:157008699750812672+userId:73658201673997312
 </subtitle>
     <logo>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</logo>
     <icon>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</icon>
@@ -20,7 +21,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-15T04:44:08.434Z</updated>
+        <updated>2025-06-16T03:29:10.229Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +29,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 15 Jun 2025 04:44:08 GMT</id>
+        <id>rankingusMon, 16 Jun 2025 03:29:10 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-15T04:44:08.434Z</updated>
+        <updated>2025-06-16T03:29:10.229Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -50,13 +51,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1135</b>
+        <b>1139</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>934</b>
+        <b>938</b>
       </td>
       <td>
         <b>14</b>
@@ -67,13 +68,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1034</b>
+        <b>1038</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>858</b>
+        <b>862</b>
       </td>
       <td>
         <b>12</b>
@@ -333,7 +334,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id703265535">FocusDots · Focus What Matters</a>
+        <a href="https://apps.apple.com/us/app/id646256209">Photo Eraser for iPhone</a>
       </td>
       <td>
         <ul>
@@ -348,6 +349,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>13</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id703265535">FocusDots · Focus What Matters</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id904278510">Hitman Sniper</a>
@@ -372,7 +390,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -389,7 +407,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -406,7 +424,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1028950091">The Greedy Cave</a>
@@ -429,7 +447,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1056920931">Iron Marines: RTS offline game</a>
@@ -462,7 +480,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1094038347">Only You Are Here</a>
@@ -489,7 +507,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -506,7 +524,24 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1304822713">Infinity Tank Battle</a>
@@ -523,7 +558,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1436429074">FILCA - Vintage Film Camera</a>
@@ -546,7 +581,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439886655">Cultist Simulator</a>
@@ -563,7 +598,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453820315">This Is the Police 2</a>
@@ -580,7 +615,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
@@ -603,7 +638,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
@@ -620,7 +655,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -637,7 +672,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
@@ -654,7 +689,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576521142">SOULVARS</a>
@@ -671,7 +706,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -688,7 +723,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
@@ -705,7 +740,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -722,7 +757,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1640627334">Resident Evil Village for Mac</a>
@@ -749,7 +784,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642715290">Little Big Workshop</a>
@@ -766,7 +801,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1659271912">Train Dispatcher!2</a>
@@ -783,7 +818,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450980545">Resident Evil Village</a>
@@ -812,7 +847,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6462360082">Resident Evil 4</a>
@@ -843,7 +878,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -860,7 +895,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -877,7 +912,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -894,7 +929,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -1029,6 +1064,67 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Witness]]></title>
+        <id>The Witness-us-1750043820849</id>
+        <link href="https://apps.apple.com/us/app/the-witness/id1230231705?uo=4"/>
+        <updated>2025-06-16T03:17:00.849Z</updated>
+        <summary type="html"><![CDATA[Price: $9.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-witness/id1230231705?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/3b/b3/a83bb3ed-719a-6839-a259-f17a11a9cc07/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$9.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $9.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$4.99</b>
+</p><h2>Application Description</h2><p>
+  You wake up, alone, on a strange island full of puzzles that will challenge and surprise you.
+
+You don't remember who you are, and you don't remember how you got here, but there's one thing you can do: explore the island in hope of discovering clues, regaining your memory, and somehow finding your way home.
+
+The Witness is a single-player game in an open world with dozens of locations to explore and over 500 puzzles. This game respects you as an intelligent player and it treats your time as precious. There's no filler; each of those puzzles brings its own new idea into the mix. So, this is a game full of ideas.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/28/8b/aa288bc2-99ce-095a-a116-60f4ed595ee7/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/40/14/ba4014cf-35b4-d173-697e-b126c3402e82/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/ec/80/50ec806c-1fda-f711-d752-0b53ffb986fb/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/18/61/ba18616d-68a1-4363-b09a-1995e5caf2ba/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/62/be/d362beec-a947-1b47-e97a-a7576b27bcab/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/aa/fb/97aafbe5-3fdd-91ed-f68f-d05dafa2dbb3/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/16/8b/3d/168b3d80-cd3f-a052-bda7-78360aa25db3/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/cc/3c/f4cc3cd1-852c-2492-93c4-85d20d53494f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/10/f4/dd10f4a6-84a1-5fc1-d913-f354a2272d2e/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/74/d3/d2/74d3d228-fa16-91ba-4e23-84f9125c4423/pr_source.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo Eraser for iPhone]]></title>
+        <id>Photo Eraser for iPhone-us-1750043820849</id>
+        <link href="https://apps.apple.com/us/app/photo-eraser-for-iphone/id646256209?uo=4"/>
+        <updated>2025-06-16T03:17:00.849Z</updated>
+        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/photo-eraser-for-iphone/id646256209?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a4/03/d2/a403d209-a77a-bf3e-c823-47648105812e/AppIcon-1x_U007emarketing-85-220-4.jpeg/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$1.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $1.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h2>Application Description</h2><p>
+  On Sale. Original $ 4.99.
+Photo Eraser magically remove unwanted objects from photos for iPhone and instantly fix your photos. Powered by the latest revolutionary photo InPaint algorithm, Photo Eraser performs the best among all other iPhone erasers that ruin your photos, including popular professional photo processing softwares. A variety of experiments shows the intelligent Photo Eraser will give you better and more natural, amazing results than any similar tools.
+
+Photo Eraser quickly remove unwanted objects from photos for iPhone, including logo, text, data stamp, watermark, acnes, people... without any specialist knowledge and instantly fix the photos automatically as if they were never there. InPaint, improve and repair your photos. It targets to be a simple yet effective photo healing app for all iPhone users. Get the magical photos done in seconds-to-minutes instead of minutes-to-hours. People all over the world use Photo Eraser for iPhone every day to beautify their photos. Free download Eraser for iPhone today to be more creativity!
+
+Easy to get use & started. You only need mark unwanted area by red color, Photo Eraser for iPhone will make your photo much better in a minute.   
+
+Photo Eraser for iPhone features highlights:  
+√ Remove watermarks, date stamps and much more unwanted objects from photos for iPhone. 
+√ Delete unwanted people from photo for iPhone.  
+√ Erase text, signatures and other undated objects from photos for iPhone.  
+√ Make skin imperfections vanish for iPhone.  
+√ Completely non-technical. 
+√  Support all iPhone device: iPhone 6s+, iPhone 6s, iPhone 6+, iPhone6, iPhone 5s, iPhone5c, iPhones 5, iPhones 4s, iPhone4, iPhone 3gs…
+
+• Reviews by our users:    
+- Works pretty well! by rfgf1  
+It does a fairly thorough job of removing things from the backgrounds of pictures, or objects that are not in the main focus of the original. Using the lasso and only straight lines and drawing a box around the object to be removed, is where I have seen my best results.
+- Amazing by Twon from VA
+Works great! I'm using a iPhone 6, IOS 8 
+
+Feedback:  Any suggestion will be appreciated, support email: market@effectmatrix.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/fe/73/45/fe7345dd-33f4-b6dc-a81e-11becf48d6c6/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/1c/00/da/1c00da51-8453-dacb-9754-311d4f5be976/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/cc/7a/0e/cc7a0e2f-70fb-b9ae-a8ba-dc0680f1ffcd/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/c7/25/7f/c7257f88-393b-76d3-d5b3-9d866a8100a6/pr_source.jpg/392x696bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
@@ -1432,218 +1528,5 @@ TikTok: @goodnotesapp
 Privacy policy: https://www.goodnotes.com/privacy-policy 
 Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Level HD.]]></title>
-        <id>Level HD.-us-1749784361183</id>
-        <link href="https://apps.apple.com/us/app/level-hd/id510249014?uo=4"/>
-        <updated>2025-06-13T03:12:41.183Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/level-hd/id510249014?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/7a/5c/317a5c62-0c0f-38c8-b215-cbd1ab428d6b/AppIcon-EW-0-0-1x_U007emarketing-0-0-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  √ Carpenter's level
-√ Supports iPhone and iPad
-
-Level. URL scheme is "EWBubbleLevel://"
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/c3/7a/13c37a4e-517b-f191-b2ec-80c3e0a31598/mzl.rltbicsz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/dd/99/17dd9927-e6e4-b255-c946-f0346c7d2a1d/mzl.xuivbopz.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/ef/75/57ef75d3-0305-89f9-4b8f-4c2250a30368/mzl.oleqkngv.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/02/14/e50214c6-b531-221c-3a6d-02a80c7d64a5/mzl.rrvyeumo.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8mm Vintage Camera]]></title>
-        <id>8mm Vintage Camera-us-1749748312202</id>
-        <link href="https://apps.apple.com/us/app/8mm-vintage-camera/id406541444?uo=4"/>
-        <updated>2025-06-12T17:11:52.202Z</updated>
-        <summary type="html"><![CDATA[8mm Pro: $39.99 → $9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/8mm-vintage-camera/id406541444?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/bc/0d/b1bc0df2-7e01-6902-90e9-417ac288b2eb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>8mm Pro：</strong><span>$39.99</span> → <b>
-  <strong>$9.99</strong>
-</b><span>[$9.99 ~ $39.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$3.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    8mm Pro：<b>$9.99</b>
-  </li><li>
-    Silent Film Theme：<b>$0.00</b>
-  </li><li>
-    Light Leak Theme：<b>$0.00</b>
-  </li><li>
-    Countdown Theme：<b>$0.00</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  8mm is so realistic it was even used to film scenes in the Oscar-winning documentary Searching for Sugar Man!
-
-We have established the de facto standard of real-time retro film emulation. It was featured by Apple in App of the Day, App of the Week, In the Director's Chair, App Store Essentials, etc.
-
-8mm Vintage Camera captures the beauty and magic of old-school vintage movies right through your viewfinder. Dust and scratches, retro colors, flickering, light leaks, and even frame shake, all can be instantly added with a single tap of the finger.
-
-SHOOT BOTH PHOTOS AND VIDEOS WITH SOPHISTICATED LIVE EFFECTS
-
-• Combine effects of film color, halation, dust & scratch, film grain, and softening to create authentic old-school movies
-• Adjust the strength of the effects to achieve your own unique visual style
-• 10 Lenses (frame) effects: Projector, Vignetting, Light Leak, Color Fringing, Super 8, Screen, 16mm, Tube, color negatives of Super 8 and 16mm
-• 21 Retro & Aged Films: 1920, Noir, 60s, 70s, Sakura, XPro, Siena, Pela, Indigo, Tuscan, Two-Color, 2-Strip, 3X, and monochromes
-• Additional 21 filters that emulate real historical films and expired films - available with the 8mm Pro subscription
-• Jitter Button to imitate real 8mm projectors frame shakes
-• Sound Switch to add projector sound for extra authenticity or mute the video for a silent movie effect.
-• Up to 4K 30fps with original unfiltered video recording on newer devices
-
-A COMPACT EDITOR FOR MOVIE CREATION
-
-- Apply film and frame effects to clips
-- Trim video, pan & zoom photo
-- Add a soundtrack from your music library
-- Choose from 5 unique themes with matching titles, transitions
-
-8MM PRO SUBSCRIPTION
-
-- You can subscribe or make a one-time purchase for unlimited access to all current filters and future updates
-- Start your subscription with a free 7-day trial. Once the trial is over, you’ll be charged an annual subscription fee
-- Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can go to your Settings > Apple ID > Subscriptions to turn auto-renew off
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/56/ff/0756ff81-bd44-bbb7-5aca-dfd59d07af0f/1668dbc8-251c-44c1-ae58-c562de8026b8_1x3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5a/db/fd/5adbfd1d-fa70-bf27-149b-189b1df98fa3/3e9846b9-04c5-4e58-8d36-45e49611ca17_Screen_Shot_2023-04-20_at_8.03.45_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/5d/45/8c5d4590-a860-0ab7-7b52-11fec3b2fff3/8fdff395-c64e-4c3e-b4fe-2009ccc728a3_Screen_Shot_2023-04-20_at_6.11.50_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/b8/84/b0b8845d-d368-4ead-887a-56fddc4bcfbf/f1db3448-8c98-4d91-8f6c-32a3367f0ea9_08.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4e/6d/3c/4e6d3ce2-e8c1-61b1-f9b3-68173ac4acfe/a93812a4-5de8-4d07-be86-cea49c7fb794_Screen_Shot_2023-04-20_at_8.01.52_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/b2/29/48b229cc-9336-6152-f679-962c50f8139d/caaa404c-0eaa-4c98-8d34-fbd51353ba34_Screen_Shot_2023-04-20_at_8.07.52_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/66/88/6e/66886eef-ae79-5a00-3d23-2cf02ef780da/7f1da2a6-5b33-4988-bab4-25663786369b_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/bc/4e/85bc4ea3-f98d-5ce9-dc6c-f3df0f7f28af/7125cce8-f844-4938-9d9e-a31af2374f3e_09.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/1e/fd/8c1efd97-2abc-d925-0bf0-e0872e085e44/9a6c596a-b01c-44f0-b4bc-bcfab9c4520e_Screen_Shot_2023-04-20_at_8.00.58_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/c8/af/1ac8afb9-d0ce-3eec-1531-38a32f7351cb/43aa7a13-3302-4012-ad9c-84a3699dc5c8_01.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/24/bb/6724bbe7-cf74-c3b5-be53-1269395197b8/14e87a1d-1f2b-4320-b167-8fbec037a34b_Screen_Shot_2022-10-18_at_10.29.39_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/07/a0/6207a067-2e48-a814-b447-949e47cad9c7/47ba82b7-782a-4ae3-906c-cadd8e10ad8b_Screen_Shot_2022-10-18_at_10.34.36_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/b4/5c/47b45c88-9631-8bad-a18d-5df82277b3ba/41f6287f-875f-47ff-851e-2fd4c798b6cf_Screen_Shot_2022-10-18_at_10.32.54_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/95/1b/06951b92-e1c7-c944-ad5f-a17ba52a1e84/da4d338b-221f-44ea-9e10-9926b0d6aea1_Screen_Shot_2022-10-18_at_10.36.49_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/76/66/b07666e2-88e2-b616-994b-6057504aca5b/19b6a9e3-4ff1-4d51-99fd-82c49e85a994_Screen_Shot_2022-10-18_at_10.38.38_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/a6/df/9aa6dfb5-2502-d158-2589-b88949817b12/dbc56f15-97f1-47a5-8a9a-91e245fc8646_Screen_Shot_2022-10-18_at_10.42.59_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/b0/8b/d8b08bfe-4846-4f80-7fb5-44351258f27f/c0cd9914-df70-45f5-b2d3-6b3b5a734e81_Screen_Shot_2022-10-18_at_10.44.13_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/e7/2f/09e72f0f-a461-f653-cc0a-6a1af135f5a1/864b20cd-bf45-445f-9f42-6d450fd7ec91_Screen_Shot_2022-10-18_at_10.45.01_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/ab/5c/1aab5c4d-1b45-ba75-01c3-c9fcac29f6b4/cf170b22-af0d-4323-8347-c36970935fc0_Screen_Shot_2022-10-18_at_10.45.52_AM.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TuneShift]]></title>
-        <id>TuneShift-us-1749723256322</id>
-        <link href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4"/>
-        <updated>2025-06-12T10:14:16.322Z</updated>
-        <summary type="html"><![CDATA[乐桥终身会员: $7.99 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/tuneshift/id6739975257?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/ab/57/34ab5745-f407-2cee-34be-8de2b61baa42/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>乐桥终身会员：</strong><span>$7.99</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$3.99 ~ $7.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    年度订阅：<b>$3.99</b>
-  </li><li>
-    乐桥终身会员：<b>$3.99</b>
-  </li><li>
-    连续按月订阅：<b>$1.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Revitalize your Apple Music library! TuneShift intelligently matches your cherished music from NetEase Cloud Music and QQ Music to Apple Music platform.
-
-Say goodbye to tedious manual searching. With just a few simple steps, rediscover your complete music collection on Apple Music. Our smart engine ensures you find the closest matches to your original favorites.
-
-Core Advantages:
-• Premium music matching engine for precise track identification
-• Preserve complete collection structure and playback order
-• Real-time progress display
-• Minimalist design with one-click operation
-
-Privacy Protection:
-We prioritize user privacy, strictly adhering to privacy protocols to ensure your account information remains secure.
-
-Why Choose TuneShift:
-
-Professional music identification technology
-Superior matching accuracy
-Swift processing efficiency
-User-friendly interface
-Let TuneShift be your professional music management tool for the perfect Apple Music experience!
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iron Marines: RTS offline game]]></title>
-        <id>Iron Marines: RTS offline game-us-1749712384032</id>
-        <link href="https://apps.apple.com/us/app/iron-marines-rts-offline-game/id1056920931?uo=4"/>
-        <updated>2025-06-12T07:13:04.032Z</updated>
-        <summary type="html"><![CDATA[Hero Dr.Graff: $4.99 → $2.99<br/>Hero Blue Dragon: $6.99 → $4.99<br/>Hero Sha'Tra: $4.99 → $2.99<br/>Hero Ajax: $2.99 → $0.99<br/>Hero Mark X: $6.99 → $4.99<br/>Hero Fate: $2.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/iron-marines-rts-offline-game/id1056920931?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Hero Dr.Graff：</strong><span>$4.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $4.99]</span>
-  </li><li>
-    <strong>Hero Blue Dragon：</strong><span>$6.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $6.99]</span>
-  </li><li>
-    <strong>Hero Sha'Tra：</strong><span>$4.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $4.99]</span>
-  </li><li>
-    <strong>Hero Ajax：</strong><span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>
-  </li><li>
-    <strong>Hero Mark X：</strong><span>$6.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $6.99]</span>
-  </li><li>
-    <strong>Hero Fate：</strong><span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$2.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Hero Dr.Graff：<b>$2.99</b>
-  </li><li>
-    Hero Blue Dragon：<b>$4.99</b>
-  </li><li>
-    Hero Sha'Tra：<b>$2.99</b>
-  </li><li>
-    Hero Ajax：<b>$0.99</b>
-  </li><li>
-    Hero Sparas：<b>$2.99</b>
-  </li><li>
-    Hero Roy：<b>$0.99</b>
-  </li><li>
-    Hero Mark X：<b>$4.99</b>
-  </li><li>
-    Hero Fate：<b>$0.99</b>
-  </li><li>
-    Hero Darwin：<b>$0.99</b>
-  </li><li>
-    Hero Trabuco：<b>$2.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  From the creators of the award winner, Kingdom Rush saga comes the most extraordinary space odyssey. Fight challenging real time strategy sci fi battles on amazing and unknown planets. Command brave soldiers, mighty mechas and powerful aliens against hordes of space monsters, swarms of insectoids and robot armies in a galaxy far far away.
-
-PLAN, ATTACK AND BEAT ALL THE ENEMIES ADAPTING YOUR STRATEGY by changing the role of your troops even in the thick of the combat, from ranger to sniper, from flamethrowers to missile launchers.
-
-ADAPT YOUR STRATEGY by changing the role of your troops even in the thick of battle, from ranger to sniper, from flamethrowers to missile launchers.
-
-RECRUIT AND TRAIN THE GREATEST HEROES in the galaxy, lead them into dangerous territory against near-impossible odds and unleash their mighty powers and abilities.
-
-TURN THE TIDE OF BATTLE with orbital strikes, intelligent mines, support troops, turrets and a wide array of special weapons.
-
-Armies of robots, crushed starships, gigantic monsters, unknown races, brave assaults, desperate rescues, audacious sabotages... the galaxy needs your command.
-
-The galaxy needs the Iron Marines
-
-FEATURES
-
-• 21 CAMPAIGN MISSIONS across three sci fi planets. Each action-packed challenge will have you improve your strategy to save the galaxy!
-• 17 SPECIAL OPERATIONS that will test if you have what it takes to battle your way through space.
-• 40+ UPGRADES to build the ultimate RTS army! Choose between Defense Drones, Napalm Rockets, Ricocheting Blasts, Lethal Weapons and many more.
-• +7 UNITS to bring into battle and give your hero some extra firepower!
-• 8 SPECIAL WEAPONS to unleash hell on your enemies and keep expanding your tactics like space itself! What’s better than a well-placed missile? An orbital strike of 50 high-explosive missiles!
-• DEFEAT UNIQUE BOSSES in epic battles. They are green, mean, killing machines!!! Well… some are machines and these aliens aren’t green… but they’re all massive and determined to crush you. Suit up, Marines!
-• 70+ ACHIEVEMENTS to complete and show everyone you’re the best RTS commander in the whole galaxy!
-• NO WI-FI IN SPACE? No worries, offline play guaranteed!
-• CHOOSE YOUR DIFFICULTY MODE: Casual, Normal or Veteran. Don’t get cocky! Or Do! Your choice!
-• IMPOSSIBLE MODE. Only for the most daring, reckless, all-out-of-bubblegum marines in space. We dare you!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7a/52/1c/7a521cbb-c7d3-8ec4-beeb-38a0e54c91dd/97160efd-9719-4160-bc1b-58a9149dae00_2208x1242_5-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1c/10/60/1c106049-704c-49e2-a3a9-131b1a4790c1/881bf49a-ee09-41e9-9634-579a1e40aed8_2208x1242_4-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8c/f7/76/8cf776e4-afb7-cd06-d013-c00d59ef35a1/d4810c7b-c49a-4fe0-98ad-a81b0bd111fc_2208x1242_2-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ff/05/e3/ff05e335-5676-a714-e2f2-168fc9ff9f39/1e63e89e-a014-4cc4-ba93-4ff51f13eb35_2208x1242_3-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/62/40/8f/62408f5f-ffeb-877e-100d-9d74329af5bf/311f6ebf-e7ab-4966-949d-62e81d8b7967_2208x1242_1-ENG.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/94/44/999444fb-cb53-0674-1ef5-3dc072149a7e/en-US_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/8f/db/c68fdb25-8930-7c89-c5cc-ccb81bba7737/en-US_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1c/1b/77/1c1b7764-bb96-4d9e-86d8-d162357fc1f2/f8249606-c251-4b56-a4bb-8a654b1c8deb_2732x2048_5-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/96/8b/9f/968b9f95-655b-316b-700e-530589ad3a03/52ff88db-d532-49dc-bac3-90fe4c0974d9_2732x2048_2-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/6e/3c/6c/6e3c6ce2-5750-4513-345c-2fa3d4227d73/a31260f9-91f3-404b-9feb-d8cdd52bb823_2732x2048_4-ENG__U00281_U0029.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9d/94/1b/9d941bca-fdb1-60f5-bc3d-3459acf86c42/3f979ae8-f794-4577-9f05-6281ad6ca4c4_2732x2048_3-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/4b/52/7e/4b527e02-bea6-319a-e913-caea77c487ab/89cad2d7-8080-4c70-bf94-1d48b178e545_2732x2048_1-ENG.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/d1/fe/c6d1fe4f-081c-3a3f-9cb8-0d7f2a0dafa8/en-US_iPadPro_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ff/dc/6a/ffdc6a0b-fd65-ccf4-bac6-b692dad98937/en-US_iPadPro_05.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
