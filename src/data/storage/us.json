@@ -13216,6 +13216,23 @@
     "history": [
       [
         {
+          "timestamp": 1750115513567,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "$0.99",
+            "Skatepark: The Factory": "$0.99",
+            "Skatepark: The Valley": "$0.99",
+            "Skatepark: Schoolyard": "$0.99",
+            "Skatepark 6 Pack": "$4.99",
+            "Unlimited Custom Images": "$4.99",
+            "Skatepark: The Warehouse": "$0.99",
+            "Skatepark: Inbound": "$0.99",
+            "Slow Motion Mode": "$0.99",
+            "Skatepark: Double Infinity": "$0.99"
+          }
+        },
+        {
           "timestamp": 1750111941150,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -29168,6 +29185,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750115513567,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "Quarterly SVIP": "$2.99",
+            "100 Days SVIP": "$2.99",
+            "545 Days SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "1-Year SVIP": "$12.99"
+          }
+        },
         {
           "timestamp": 1750111941150,
           "price": 14.99,
@@ -85871,6 +85902,48 @@
           "timestamp": 1750018368270,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449183990": {
+    "name": "DQM: The Dark Prince",
+    "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "$29.99"
+    },
+    "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "$29.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750115513567,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6667107639": {
+    "name": "HTML WYSIWYG",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750115513567,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]

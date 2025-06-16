@@ -1122,6 +1122,23 @@
     "history": [
       [
         {
+          "timestamp": 1750115513567,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "HK$ 58.00",
+            "ETC Module": "HK$ 48.00",
+            "SPL Graph Module": "HK$ 88.00",
+            "Polarity Test Module": "HK$ 32.00",
+            "SoundScope VR": "HK$ 188.00",
+            "IR Module": "HK$ 388.00",
+            "Speaker Distortion": "HK$ 48.00",
+            "VU Meter": "HK$ 22.00",
+            "Transmission Loss": "HK$ 368.00",
+            "SPL Traffic Light": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1750111941150,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -2320,6 +2337,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750115513567,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "MyNetDiary Premium": "HK$ 548.00"
+          }
+        },
         {
           "timestamp": 1750111941150,
           "price": 32,
@@ -29057,6 +29082,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750115513567,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6480根火柴": "HK$ 788.00",
+            "60根火柴": "HK$ 8.00",
+            "月度礼包": "HK$ 32.00",
+            "180根火柴": "HK$ 22.00",
+            "980根火柴": "HK$ 118.00",
+            "1元礼包": "HK$ 8.00",
+            "500根火柴": "HK$ 58.00",
+            "1680根火柴": "HK$ 188.00",
+            "超值礼包-1": "HK$ 22.00",
+            "成长基金": "HK$ 32.00"
+          }
+        },
         {
           "timestamp": 1750111941150,
           "price": 8,
@@ -56064,6 +56106,22 @@
     "history": [
       [
         {
+          "timestamp": 1750115513567,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "El Dorado World": "HK$ 38.00",
+            "The Ultimate Life Collection": "HK$ 148.00",
+            "Fairytale Kingdom Bundle": "HK$ 58.00",
+            "Fairytale Kingdom": "HK$ 38.00",
+            "Haunted Hills Bundle": "HK$ 58.00",
+            "Lunar Age Bundle": "HK$ 58.00",
+            "Lunar Age World": "HK$ 38.00",
+            "Frozen Lands": "HK$ 38.00",
+            "Haunted Hills World": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1750111941150,
           "price": 28,
           "formattedPrice": "HK$ 28.00",
@@ -81929,6 +81987,48 @@
           "timestamp": 1750018368270,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449183990": {
+    "name": "勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程",
+    "maxPriceInfo": {
+      "price": 228,
+      "formattedPrice": "HK$ 228.00"
+    },
+    "minPriceInfo": {
+      "price": 228,
+      "formattedPrice": "HK$ 228.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750115513567,
+          "price": 228,
+          "formattedPrice": "HK$ 228.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6667107639": {
+    "name": "HTML WYSIWYG",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750115513567,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]

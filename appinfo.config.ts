@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6449183990,
+    name: {
+      mo: '勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6667107639,
+    name: {
+      mo: 'HTML WYSIWYG',
+    },
+    addType: 'auto',
+  },
+  {
     id: 682170196,
     name: {
       mo: 'ChiWalking',

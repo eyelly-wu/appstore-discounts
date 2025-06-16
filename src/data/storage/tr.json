@@ -21317,6 +21317,23 @@
     "history": [
       [
         {
+          "timestamp": 1750115513567,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Handful of caps": "₺39,99",
+            "Pile of caps": "₺229,99",
+            "Sausepan of caps": "₺449,99",
+            "Special pack": "₺229,99",
+            "Small pack": "₺39,99",
+            "Great pack": "₺449,99",
+            "Useful pack": "₺129,99",
+            "Standart pack": "₺99,99",
+            "Case with caps": "₺899,99",
+            "Survival kit": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1750111941150,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -37671,6 +37688,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750115513567,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Flash Sale Ore Rune 2": "₺99,99",
+            "Flash Sale Star Rune 2": "₺99,99",
+            "Flash Sale Crystal 2": "₺129,99",
+            "First Purchase: Legendary Pack": "₺449,99",
+            "Piggy Bank": "₺129,99",
+            "Flash Sale Crystal 3": "₺99,99",
+            "Flash Sale Ore Rune 1": "₺129,99",
+            "Double Exp Package 1": "₺39,99",
+            "Flash Sale Star Rune 1": "₺129,99",
+            "Black Friday Inferno": "₺899,99"
+          }
+        },
         {
           "timestamp": 1750111941150,
           "price": 39.99,
@@ -63582,6 +63616,48 @@
           "timestamp": 1750018368270,
           "price": 2.99,
           "formattedPrice": "₺2,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449183990": {
+    "name": "DQM: The Dark Prince",
+    "maxPriceInfo": {
+      "price": 1299.99,
+      "formattedPrice": "₺1.299,99"
+    },
+    "minPriceInfo": {
+      "price": 1299.99,
+      "formattedPrice": "₺1.299,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750115513567,
+          "price": 1299.99,
+          "formattedPrice": "₺1.299,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6667107639": {
+    "name": "HTML WYSIWYG",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750115513567,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
           "inAppPurchases": {}
         }
       ]
