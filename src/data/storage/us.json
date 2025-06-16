@@ -2307,6 +2307,23 @@
     "history": [
       [
         {
+          "timestamp": 1750035845170,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$0.99",
+            "Portland HipstaPak": "$0.99",
+            "Shibuya HipstaPak": "$0.99",
+            "Camden HipstaPak": "$0.99",
+            "Mission Hipstapak": "$0.99",
+            "Soho HipstaPak": "$0.99",
+            "Bondi HipstaPak": "$0.99",
+            "Wicker Park HipstaPak": "$0.99",
+            "RetroPak One": "$1.99",
+            "Dali GoodPak": "$0.99"
+          }
+        },
+        {
           "timestamp": 1750029085113,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -6500,6 +6517,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750035845170,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Synth Lead": "$1.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$1.99",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        },
         {
           "timestamp": 1749961370215,
           "price": 14.99,
@@ -46913,6 +46947,19 @@
     "history": [
       [
         {
+          "timestamp": 1750035845170,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$6.99"
+          }
+        },
+        {
           "timestamp": 1749961370215,
           "price": 0,
           "formattedPrice": "Free",
@@ -66833,7 +66880,8 @@
       "若干笼包子": "$19.99",
       "一大笼包子": "$9.99",
       "一个庆丰包子": "$49.99",
-      "新手成长大礼包": "$3.99"
+      "新手成长大礼包": "$3.99",
+      "节日大礼包": "$29.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -66865,9 +66913,28 @@
       "若干笼包子": "$19.99",
       "一大笼包子": "$9.99",
       "一个庆丰包子": "$49.99",
-      "新手成长大礼包": "$3.99"
+      "新手成长大礼包": "$3.99",
+      "节日大礼包": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750035845170,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "心愿礼包": "$5.99",
+            "新手成长礼包": "$0.99",
+            "聚财盆": "$2.99",
+            "节日大礼包": "$29.99",
+            "超值月卡": "$3.99",
+            "新手成长大礼包": "$3.99",
+            "豪华月卡": "$9.99",
+            "犒赏令": "$9.99",
+            "SP武将碎片": "$39.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749723256322,
@@ -76926,6 +76993,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750035845170,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$29.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$9.99",
+            "Europe Map": "$8.99",
+            "Ticket to Ride ChristmasBundle": "$4.99",
+            "Nordic Bundle": "$7.99",
+            "Legendary Asia Map": "$6.99",
+            "San Francisco Expansion Bundle": "$7.99",
+            "LegendaryAsia Expansion Bundle": "$7.99",
+            "Nordic Map": "$6.99"
+          }
+        },
         {
           "timestamp": 1749971510343,
           "price": 4.99,
