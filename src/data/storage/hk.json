@@ -24485,7 +24485,8 @@
       "48 Gems": "HK$ 228.00",
       "150 Gems": "HK$ 588.00",
       "74 Gems": "HK$ 328.00",
-      "28 Gems": "HK$ 118.00"
+      "28 Gems": "HK$ 118.00",
+      "119 Gems": "HK$ 488.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -24496,9 +24497,27 @@
       "48 Gems": "HK$ 228.00",
       "150 Gems": "HK$ 588.00",
       "74 Gems": "HK$ 328.00",
-      "28 Gems": "HK$ 118.00"
+      "28 Gems": "HK$ 118.00",
+      "119 Gems": "HK$ 488.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750080515745,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "13 Gems": "HK$ 58.00",
+            "6 Gems": "HK$ 32.00",
+            "150 Gems": "HK$ 588.00",
+            "1 Gem": "HK$ 8.00",
+            "48 Gems": "HK$ 228.00",
+            "74 Gems": "HK$ 328.00",
+            "119 Gems": "HK$ 488.00",
+            "28 Gems": "HK$ 118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749737566629,
