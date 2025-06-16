@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-16T16:28:59.590Z</updated>
+    <updated>2025-06-16T20:32:16.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-16T16:28:59.590Z</updated>
+        <updated>2025-06-16T20:32:16.614Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrMon, 16 Jun 2025 16:28:59 GMT</id>
+        <id>rankingtrMon, 16 Jun 2025 20:32:16 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-16T16:28:59.590Z</updated>
+        <updated>2025-06-16T20:32:16.614Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1139</b>
+        <b>1140</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>938</b>
+        <b>939</b>
       </td>
       <td>
         <b>14</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1036</b>
+        <b>1037</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>864</b>
+        <b>865</b>
       </td>
       <td>
         <b>12</b>
@@ -260,6 +260,29 @@ feedId:157008924688563200+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id6449251957">Motorsport Manager 4</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Bundle</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id1028950091">The Greedy Cave</a>
       </td>
       <td>
@@ -280,7 +303,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -303,7 +326,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -326,7 +349,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
@@ -337,29 +360,6 @@ feedId:157008924688563200+userId:73658201673997312
             <span>Total Times</span>：<b>2</b>
           </li><li>
             <span>Price</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>12</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id6449251957">Motorsport Manager 4</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Bundle</i>：<b>2</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1189,6 +1189,61 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorsport Manager 4]]></title>
+        <id>Motorsport Manager 4-tr-1750104836612</id>
+        <link href="https://apps.apple.com/tr/app/motorsport-manager-4/id6449251957?uo=4"/>
+        <updated>2025-06-16T20:13:56.612Z</updated>
+        <summary type="html"><![CDATA[Bundle: ₺449,99 → ₺229,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/motorsport-manager-4/id6449251957?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Bundle：</strong><span>₺449,99</span> → <b>
+  <strong>₺229,99</strong>
+</b><span>[₺229,99 ~ ₺449,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺229,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Very Large Investment：<b>₺129,99</b>
+  </li><li>
+    Huge Investment：<b>₺229,99</b>
+  </li><li>
+    Bundle：<b>₺229,99</b>
+  </li><li>
+    Investment：<b>₺99,99</b>
+  </li><li>
+    Large Investment：<b>₺129,99</b>
+  </li><li>
+    Premium livery bundle：<b>₺249,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  MOTORSPORT MANAGER 4: MASTER RACE STRATEGY
+
+BUILD YOUR RACING DYNASTY
+Immerse yourself in the captivating journey of constructing your motorsport empire from the ground up, where every choice holds the key to your success.
+
+ASSEMBLE YOUR DREAM TEAM
+Hand-pick exceptional drivers and engineer a world-class racing powerhouse. Collaborate closely with drivers to secure pole positions and craft pitstop strategies that lead to race domination.
+
+REAL-TIME STRATEGY UNFOLDS
+Experience the adrenaline-pumping action of races in real-time or navigate through intricate strategy screens. Swiftly adapt to ever-changing weather, unexpected crashes, and the emergence of safety cars.
+
+UNLEASH VARIETY ON THE TRACK
+Embark on thrilling GT and Endurance racing adventures across six distinct championships. Immerse yourself in the iconic beauty of Monaco's settings, rendered in breathtaking artistry.
+
+DRIVERS TAKE CENTER STAGE
+Step into the shoes of promising new drivers, delve into their statistics, and cultivate pivotal relationships. Navigate the revamped HQ, seize upgrade opportunities, and master the new part development system for an immersive journey.
+
+YOUR JOURNEY, YOUR CHALLENGE
+Embark on a motorsport odyssey where every choice shapes your destiny. Witness dynamic AI team movements and adjust the difficulty level as the game evolves with you.
+
+SEIZE CONTROL, MAKE HISTORY
+It's your opportunity to rewrite the annals of racing lore and etch your name into the history of motorsport. Motorsport Manager 4 empowers you like never before.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/8a/93/788a93e8-0611-e8a4-a8bb-127ea1ca7cd3/70b8f36f-46ad-4f55-bb44-26b1e1d42d90_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/0c/0f/df0c0f1b-b800-355e-e534-877d19d3ad6e/197b9078-d617-4bf1-ae75-a32666c0e221_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/36/84/da36845b-602b-4129-904b-4819e9a79cde/acae3ebf-4877-4010-b0c6-c5d2fa892453_FeaturingImage.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/7b/38/d17b387b-b95d-8fd1-de10-4b4a8534eceb/5dc173a9-d936-4bec-b601-fb16eab3942c_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/1c/c1/c01cc19a-ac47-a7a7-67ad-81d5020e0e1e/6f8fa231-827b-43d7-a412-284fba943dae_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/9a/e0/489ae001-4876-7503-4d52-09a484de1ee3/b12a712a-9dda-4bc2-a642-3d15ccc0163f_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/2f/73/572f736e-01bb-0350-e01e-10b27a29daba/4e65f90a-f4f0-4984-bbea-eeb6ce7e79ff_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/1d/a8/721da87c-9e9b-5067-e090-da14770902f9/2ba5b27d-6e12-4261-806f-58f728470a3b_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/45/59/c24559c0-b7c9-731f-9b2c-29896c7d69eb/65f7b50f-874c-4a56-abcc-5dfefea7987b_FeatureImage.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/53/75/a75375f0-e5cc-2099-11ca-e249ac80a1b3/9e80e2a6-d3b2-4dc2-a736-79fb54c6bd36_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/f7/5d/81f75d80-f417-4fe8-0d65-2c6af7ba98e8/41706b87-c615-448c-9c52-b018dd10d18d_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/e4/1b/a7e41bad-5ca9-c26f-8e9d-0b64e44fb512/22fcca1c-f9eb-4301-8497-0ad43f5bb621_5.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iScore5 APHG]]></title>
