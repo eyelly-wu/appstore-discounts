@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 682170196,
+    name: {
+      mo: 'ChiWalking',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1076450419,
     name: {
       mo: '漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程',

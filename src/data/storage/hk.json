@@ -17967,6 +17967,37 @@
       ]
     ]
   },
+  "682170196": {
+    "name": "ChiWalking",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Increase your Energy": "HK$ 8.00",
+      "Strengthen Your Heart": "HK$ 8.00",
+      "Improve Your Balance": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Increase your Energy": "HK$ 8.00",
+      "Strengthen Your Heart": "HK$ 8.00",
+      "Improve Your Balance": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750108325195,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Increase your Energy": "HK$ 8.00",
+            "Strengthen Your Heart": "HK$ 8.00",
+            "Improve Your Balance": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
+  },
   "683353582": {
     "name": "Hong Kong Taxi Cards",
     "maxPriceInfo": {
@@ -22105,6 +22136,20 @@
     "history": [
       [
         {
+          "timestamp": 1750108325195,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Font Access": "HK$ 388.00",
+            "Pro Access": "HK$ 788.00",
+            "Ultimate Access": "HK$ 1,188.00",
+            "Abstract Theme 2": "HK$ 8.00",
+            "Abstract Theme 1": "HK$ 8.00",
+            "Abstract Theme Bundle": "HK$ 22.00",
+            "Great Art Bundle": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1750104836612,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -22335,6 +22380,17 @@
       "GOLD": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750108325195,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "PLUS": "HK$ 38.00",
+            "GOLD": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748635348272,

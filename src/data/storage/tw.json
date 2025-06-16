@@ -17495,6 +17495,37 @@
       ]
     ]
   },
+  "682170196": {
+    "name": "ChiWalking",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "Increase your Energy": "$30.00",
+      "Strengthen Your Heart": "$30.00",
+      "Improve Your Balance": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "Increase your Energy": "$30.00",
+      "Strengthen Your Heart": "$30.00",
+      "Improve Your Balance": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750108325195,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Increase your Energy": "$30.00",
+            "Strengthen Your Heart": "$30.00",
+            "Improve Your Balance": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "683353582": {
     "name": "Hong Kong Taxi Cards",
     "maxPriceInfo": {
@@ -56374,6 +56405,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750108325195,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "心岛日记心礼会员VIP（3个月）": "$220.00",
+            "心岛日记心礼会员VIP（12个月）": "$990.00",
+            "心岛日记心礼会员VIP（1个月）": "$90.00",
+            "购买12个海星": "$60.00",
+            "购买128个海星": "$690.00",
+            "购买68个海星": "$320.00"
+          }
+        },
         {
           "timestamp": 1750104836612,
           "price": 30,

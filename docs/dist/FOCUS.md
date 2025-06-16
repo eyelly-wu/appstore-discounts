@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1140` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1141` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1141|682170196|Automatic|ChiWalking|ChiWalking|ChiWalking|ChiWalking|ChiWalking|ChiWalking|
 |1140|1076450419|Automatic|汉语拼音字母表-学习中文普通话发音声调拼读基础入门教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|Chinese Pinyin: Learn Mandarin|Chinese Pinyin: Learn Mandarin|
 |1139|1490431826|Automatic|图片对比|图片对比|图片对比|图片对比|图片对比|图片对比|
 |1138|6747050164|Automatic|❌|BiR GüN DAHA|BiR GüN DAHA|BiR GüN DAHA|BiR GüN DAHA|BiR GüN DAHA|

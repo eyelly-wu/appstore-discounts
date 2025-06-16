@@ -17940,6 +17940,37 @@
       ]
     ]
   },
+  "682170196": {
+    "name": "ChiWalking",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Improve Your Balance": "$0.99",
+      "Strengthen Your Heart": "$0.99",
+      "Increase your Energy": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Improve Your Balance": "$0.99",
+      "Strengthen Your Heart": "$0.99",
+      "Increase your Energy": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750108325195,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Improve Your Balance": "$0.99",
+            "Strengthen Your Heart": "$0.99",
+            "Increase your Energy": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
   "683353582": {
     "name": "Hong Kong Taxi Cards",
     "maxPriceInfo": {
@@ -67627,6 +67658,25 @@
       "节日大礼包": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750108325195,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "自建武将皮肤4": "$3.99",
+            "自建武将皮肤3": "$9.99",
+            "自建武将皮肤2": "$3.99",
+            "自创武将皮肤1": "$9.99",
+            "一袋碎片": "$49.99",
+            "一堆碎片": "$3.99",
+            "自定义武将席位6": "$3.99",
+            "自定义武将席位4": "$3.99",
+            "自定义武将席位5": "$3.99",
+            "自定义武将席位3": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750035845170,
