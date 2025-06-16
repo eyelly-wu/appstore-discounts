@@ -26280,6 +26280,16 @@
     "history": [
       [
         {
+          "timestamp": 1750054807863,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Snowy Peaks Theme": "USD 6.99",
+            "Ultimate Detective's Package": "USD 34.99",
+            "Ultimate Detective Collection": "USD 14.99"
+          }
+        },
+        {
           "timestamp": 1750050918896,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -31915,6 +31925,16 @@
       "Card.Note Premiun": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750054807863,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748930593099,
@@ -41721,7 +41741,7 @@
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "USD 4.99",
-      "The Ultimate Life Collection": "USD 19.99",
+      "The Ultimate Life Collection": "USD 34.99",
       "Fairytale Kingdom Bundle": "USD 7.99",
       "Mothgirl Outfit": "USD 0.99",
       "Tunneler Ship": "USD 0.99",
@@ -41731,7 +41751,15 @@
       "Magical Girl Outfit": "USD 0.99",
       "Skyscraper Avatar": "USD 0.99",
       "Foxman Outfit": "USD 0.99",
-      "Super Hero World Bundle": "USD 7.99"
+      "Super Hero World Bundle": "USD 7.99",
+      "Fairtytale Kingdom Extras Pack": "USD 3.99",
+      "Fairytale Kingdom": "USD 4.99",
+      "Magic Book Avatar": "USD 0.99",
+      "Enchanted Tower Avatar": "USD 0.99",
+      "Fairy Avatar": "USD 0.99",
+      "Elf Outfit": "USD 0.99",
+      "Prince Outfit": "USD 0.99",
+      "Princess Outfit": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -41746,9 +41774,36 @@
       "Magical Girl Outfit": "USD 0.99",
       "Skyscraper Avatar": "USD 0.99",
       "Foxman Outfit": "USD 0.99",
-      "Super Hero World Bundle": "USD 7.99"
+      "Super Hero World Bundle": "USD 7.99",
+      "Fairtytale Kingdom Extras Pack": "USD 3.99",
+      "Fairytale Kingdom": "USD 4.99",
+      "Magic Book Avatar": "USD 0.99",
+      "Enchanted Tower Avatar": "USD 0.99",
+      "Fairy Avatar": "USD 0.99",
+      "Elf Outfit": "USD 0.99",
+      "Prince Outfit": "USD 0.99",
+      "Princess Outfit": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750054807863,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "The Ultimate Life Collection": "USD 34.99",
+            "Fairtytale Kingdom Extras Pack": "USD 3.99",
+            "Fairytale Kingdom": "USD 4.99",
+            "Fairytale Kingdom Bundle": "USD 7.99",
+            "Magic Book Avatar": "USD 0.99",
+            "Enchanted Tower Avatar": "USD 0.99",
+            "Fairy Avatar": "USD 0.99",
+            "Elf Outfit": "USD 0.99",
+            "Prince Outfit": "USD 0.99",
+            "Princess Outfit": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749553861289,

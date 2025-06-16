@@ -33747,6 +33747,16 @@
     "history": [
       [
         {
+          "timestamp": 1750054807863,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Card.Note Premiun": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748930593099,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -56329,6 +56339,21 @@
       "Annual Pro": "₺1.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750054807863,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Advanced Package": "₺899,99",
+            "Intermediate Package": "₺599,99",
+            "Monthly Pro": "₺249,99",
+            "Basic Package": "₺249,99",
+            "Quarterly Pro": "₺699,99",
+            "Annual Pro": "₺1.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749460479892,
