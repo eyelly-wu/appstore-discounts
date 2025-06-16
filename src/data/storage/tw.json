@@ -1147,7 +1147,17 @@
       "Transfer Function": "$1,490.00",
       "LARSA": "$990.00",
       "Phase Meter": "$290.00",
-      "SPL Traffic Light": "$320.00"
+      "SPL Traffic Light": "$320.00",
+      "HAA Link": "$320.00",
+      "HAA Pro Module": "$690.00",
+      "SPL Enhance": "$690.00",
+      "All-In Module Access": "$320.00",
+      "HAA Upgrade to Pro": "$13,000.00",
+      "HAA Pro Installer Calibration": "$15,000.00",
+      "HAA Home Theater": "$2,990.00",
+      "Unlock All Tier 5": "$7,990.00",
+      "Unlock All Tier 7": "$11,000.00",
+      "Unlock All Tier 4": "$6,990.00"
     },
     "minPriceInfo": {
       "price": 690,
@@ -1161,9 +1171,38 @@
       "Transfer Function": "$1,490.00",
       "LARSA": "$990.00",
       "Phase Meter": "$290.00",
-      "SPL Traffic Light": "$320.00"
+      "SPL Traffic Light": "$320.00",
+      "HAA Link": "$320.00",
+      "HAA Pro Module": "$690.00",
+      "SPL Enhance": "$690.00",
+      "All-In Module Access": "$320.00",
+      "HAA Upgrade to Pro": "$13,000.00",
+      "HAA Pro Installer Calibration": "$15,000.00",
+      "HAA Home Theater": "$2,990.00",
+      "Unlock All Tier 5": "$7,990.00",
+      "Unlock All Tier 7": "$11,000.00",
+      "Unlock All Tier 4": "$6,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750072279249,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {
+            "HAA Link": "$320.00",
+            "HAA Pro Module": "$690.00",
+            "SPL Enhance": "$690.00",
+            "All-In Module Access": "$320.00",
+            "HAA Upgrade to Pro": "$13,000.00",
+            "HAA Pro Installer Calibration": "$15,000.00",
+            "HAA Home Theater": "$2,990.00",
+            "Unlock All Tier 5": "$7,990.00",
+            "Unlock All Tier 7": "$11,000.00",
+            "Unlock All Tier 4": "$6,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746788532840,
@@ -26809,7 +26848,7 @@
       "Neon Rhapsody 限時挑戰書": "$90.00",
       "Colorful Meteor Shower 限時挑戰書": "$90.00",
       "Halv Selection 限時挑戰書": "$90.00",
-      "限時挑戰書": "$120.00",
+      "限時挑戰書": "$90.00",
       "擴充章節 Y": "$120.00",
       "支線第二章": "$120.00",
       "一瓶迴響之核": "$160.00",
@@ -26824,6 +26863,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750072279249,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "ULTRA BONK Hour 限時挑戰書": "$90.00",
+            "Radiant Star Trail 限時挑戰書": "$120.00",
+            "KALPA Collaboration 限時挑戰書": "$90.00",
+            "主線第八章": "$300.00",
+            "Glorious Chorus 限時挑戰書": "$90.00",
+            "Neon Rhapsody 限時挑戰書": "$90.00",
+            "Colorful Meteor Shower 限時挑戰書": "$90.00",
+            "Halv Selection 限時挑戰書": "$90.00",
+            "限時挑戰書": "$90.00",
+            "擴充章節 Y": "$120.00"
+          }
+        },
         {
           "timestamp": 1750047944322,
           "price": 60,
