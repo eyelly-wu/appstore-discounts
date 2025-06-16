@@ -6550,9 +6550,20 @@
           "range": "[免費 ~ $30.00]"
         }
       ]
-    },
+    }
+  ],
+  "us": [
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/34/8e/cf348ec7-06cf-a0f9-f047-3d1f11abaf46/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
+        "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
         "iPadAirCellular-iPadAirCellular",
@@ -6668,65 +6679,14 @@
         "iPadAir13M3-iPadAir13M3",
         "iPadAir13M3Cellular-iPadAir13M3Cellular"
       ],
-      "features": [
-        "gameCenter",
-        "iosUniversal"
-      ],
-      "advisories": [
-        "頻繁/強烈的成人/性暗示題材",
-        "偶而/輕微的酒精、菸草或藥物使用或相關內容",
-        "偶而/輕微的現實暴力"
-      ],
-      "isGameCenterEnabled": true,
+      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/f5/14/4ff514b0-f939-df13-8087-84bd3217e009/mzl.bzdlkeau.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/12/32/43/123243f6-2ada-46b6-9d40-ef5d52b2c8c2/mzl.stqiidrz.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/64/69/52/6469521c-8e46-de39-d39d-f26221900223/mzl.zczjlcvd.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/af/3a/f4/af3af49d-e212-394a-aff8-e2b62d4f586b/mzl.qnyhsiqe.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/a0/f6/6ea0f61c-0214-ff61-ca59-542f41383ef1/mzl.jluxebmf.png/406x228bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/70/d1/ba70d194-83d5-194f-cb52-8de9fcf5d781/mzl.evgrgmwz.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/25/e2/2a25e257-0979-20b7-48cc-f5798fb338bf/mzl.etsyiapq.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/e7/88/cae78850-19a1-d2fc-a4d8-3777b03245f4/mzl.zybyctyl.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/45/0c/a1/450ca19e-b8ef-e8d7-a9cc-66dd9dbd8f89/mzl.ldamlibv.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/81/a9/d381a9b2-4758-8ac9-e361-3e6ada871f3b/mzl.pftqxiws.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/tw/developer/deca-live-operations-gmbh/id1464120176?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "12.0",
-      "artistId": 1464120176,
-      "artistName": "Deca Live Operations GmbH",
-      "genres": [
-        "遊戲",
-        "策略",
-        "動作"
-      ],
-      "price": 30,
-      "trackId": 904278510,
-      "trackName": "刺客任務：狙擊 (Hitman Sniper)",
-      "bundleId": "com.squareenixmontreal.hitmansniper",
-      "releaseDate": "2015-06-03T14:20:27Z",
-      "releaseNotes": "- 小修復和改進",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Deca Live Operations GmbH",
-      "genreIds": [
-        "6014",
-        "7017",
-        "7001"
-      ],
-      "currentVersionReleaseDate": "2025-03-11T08:42:01Z",
-      "primaryGenreName": "Games",
-      "primaryGenreId": 6014,
-      "version": "1.15",
-      "wrapperType": "software",
-      "currency": "TWD",
-      "description": "成為終極無聲殺手\n進入《Hitman Sniper》，扮演探員 47（Agent 47），體驗最震撼的狙擊手遊。\n\n黑山共和國的戰略任務\n磨練策略技巧，精心策劃一場完美暗殺。\n\n死亡谷挑戰模式\n準備迎接無窮的動作考驗，測試你的僵屍獵人技巧和射擊速度。\n\n超過 150 個任務和 10 份合同\n揭露秘密與詭計，精進你的完美暗殺技巧。\n\n16 種獨一無二的槍砲\n消滅目標、收集武器零件，完成設計突擊可解鎖最強大的槍砲。\n\n與好友一較高下，競逐排行榜冠軍\n衝高分數，升上合同殺手排行第一名，成為全世界最出色的無聲殺手。",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/34/8e/cf348ec7-06cf-a0f9-f047-3d1f11abaf46/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/34/8e/cf348ec7-06cf-a0f9-f047-3d1f11abaf46/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/goodnotes-limited/id1708570616?uo=4",
+      "sellerUrl": "https://goodnotes.com/",
       "languageCodesISO2A": [
+        "NL",
         "EN",
         "FR",
         "DE",
@@ -6739,47 +6699,65 @@
         "ES",
         "TH",
         "ZH",
-        "TR"
+        "TR",
+        "VI"
       ],
-      "fileSizeBytes": "1056589824",
-      "formattedPrice": "$30.00",
-      "userRatingCountForCurrentVersion": 547,
-      "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.65265,
-      "sellerUrl": "https://decagames.com",
-      "trackCensoredName": "刺客任務：狙擊 (Hitman Sniper)",
-      "trackViewUrl": "https://apps.apple.com/tw/app/%E5%88%BA%E5%AE%A2%E4%BB%BB%E5%8B%99-%E7%8B%99%E6%93%8A-hitman-sniper/id904278510?uo=4",
-      "averageUserRating": 4.65265,
-      "contentAdvisoryRating": "17+",
-      "userRatingCount": 547,
+      "fileSizeBytes": "647549952",
+      "formattedPrice": "Free",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.72419,
+      "userRatingCountForCurrentVersion": 327730,
+      "artistId": 1708570616,
+      "artistName": "Goodnotes Limited",
+      "genres": [
+        "Productivity",
+        "Education"
+      ],
+      "price": 0,
+      "bundleId": "com.goodnotesapp.x",
+      "trackId": 1444383602,
+      "trackName": "Goodnotes 6: AI Notes & Docs",
+      "genreIds": [
+        "6007",
+        "6017"
+      ],
+      "releaseDate": "2019-01-15T09:36:27Z",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Goodnotes Limited",
+      "currentVersionReleaseDate": "2025-06-12T08:30:03Z",
+      "releaseNotes": "General bug fixes and stability improvements",
+      "version": "6.6.46",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. \n\nBoost Professional Efficiency and Productivity\n• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.\n• Import, annotate, and organize PDFs, documents, and meeting notes.\n• Transcribe audio recordings from meetings so you never miss a detail.\n• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.\n• Export and share notes via email, print, PDF, or images for easy collaboration.\n• Send files directly to your unique Goodnotes email for quick access on all devices.\n• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.\n• Convert handwriting to text for quick and clean professional notes.\n• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.\n\nPowerful Digital Notes and Study Tools\n• Use AI-powered study tools help you learn faster and retain more information.\n• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.\n• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.\n• Convert equations to LaTeX format for easy use in reports and presentations.\n• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.\n• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.\n• Collaborate in real time with classmates by working on the same document for group projects and study sessions\n• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.\n\nEnhance Creative Digital Planning\n• Design fully customizable notebooks, templates, and covers to fit your style.\n• Mix handwriting, text, stickers, images, and drawings in a single notebook.\n• Stay focused with Smart Timer, and boost your productivity.\n• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.\n• Organize your notes with unlimited folders and advanced search.\n• Get exclusive monthly downloads every month with a paid subscription.\n• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.\n\nExperience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.\n\nWebsite: www.goodnotes.com \nX: @goodnotesapp \nInstagram: @goodnotes.app \nPinterest: @goodnotesapp \nTikTok: @goodnotesapp \n\nPrivacy policy: https://www.goodnotes.com/privacy-policy \nTerms and Conditions: https://www.goodnotes.com/terms-and-conditions",
+      "minimumOsVersion": "17.5",
+      "trackViewUrl": "https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Goodnotes 6: AI Notes & Docs",
+      "averageUserRating": 4.72419,
+      "userRatingCount": 327730,
       "inAppPurchases": {
-        "Limited Time Offer": "$490.00",
-        "超大型代幣包": "$390.00",
-        "超大型金錢包": "$290.00",
-        "促銷包": "$790.00",
-        "新手包": "$90.00",
-        "中型金錢包": "$120.00"
+        "Goodnotes 6 (1 year)": "$11.99",
+        "GoodNotes 5 Unlock": "$9.99",
+        "Goodnotes 6 Free Trial": "$0.00",
+        "Goodnotes 6 One-Time Payment": "$28.99",
+        "Goodnotes 6 (1 Year)": "$11.99",
+        "Marketplace Content": "$1.99",
+        "Dotted Squares: Draft Papers": "$0.99"
       },
-      "timestamp": 1749788455941,
+      "timestamp": 1750047944322,
       "discounts": [
         {
           "type": "inAppPurchase",
-          "name": "超大型金錢包",
-          "from": "$320.00",
-          "to": "$290.00",
-          "range": "[$290.00 ~ $320.00]"
-        },
-        {
-          "type": "inAppPurchase",
-          "name": "新手包",
-          "from": "$150.00",
-          "to": "$90.00",
-          "range": "[$90.00 ~ $150.00]"
+          "name": "Marketplace Content",
+          "from": "$6.99",
+          "to": "$1.99",
+          "range": "[$1.99 ~ $10.99]"
         }
       ]
-    }
-  ],
-  "us": [
+    },
     {
       "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
