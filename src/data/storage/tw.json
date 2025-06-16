@@ -38434,6 +38434,25 @@
     "history": [
       [
         {
+          "timestamp": 1750111941150,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "茶具魔王皮膚卡牌包 C": "$150.00",
+            "茶具魔王皮膚卡牌包 B": "$150.00",
+            "茶具魔王皮膚卡牌包 A": "$150.00",
+            "小墮落勇士造型卡牌包": "$890.00",
+            "小勇士造型卡牌包": "$890.00",
+            "黑暗的魔王皮膚卡牌包": "$290.00",
+            "光芒的魔王皮膚卡牌包": "$290.00",
+            "魔王覺醒蛇女卡牌包": "$150.00",
+            "神話完整卡牌包": "$1,290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749862783633,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -52574,7 +52593,8 @@
       "Fantasy Beach Bundle": "$390.00",
       "Starseeker Token": "$320.00",
       "Paris, La Belle Epoque Board": "$190.00",
-      "Speed Die": "$150.00"
+      "Speed Die": "$150.00",
+      "VIP Offer": "$690.00"
     },
     "minPriceInfo": {
       "price": 150,
@@ -52605,9 +52625,28 @@
       "Fantasy Beach Bundle": "$390.00",
       "Starseeker Token": "$320.00",
       "Paris, La Belle Epoque Board": "$190.00",
-      "Speed Die": "$150.00"
+      "Speed Die": "$150.00",
+      "VIP Offer": "$690.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750111941150,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "VIP Offer": "$690.00",
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "Welcome Offer": "$690.00",
+            "Paris, La Belle Epoque Board": "$190.00",
+            "New York 2121 Board": "$190.00",
+            "Cherry Blossom Tokyo Board": "$190.00",
+            "Theme Collection": "$690.00",
+            "Promotion": "$590.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749920995136,
@@ -56406,6 +56445,18 @@
     "history": [
       [
         {
+          "timestamp": 1750111941150,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "600贝壳购买": "$30.00",
+            "购买12个海星": "$60.00",
+            "心岛日记心礼会员VIP（1个月）": "$90.00",
+            "心岛日记心礼会员VIP（3个月）": "$220.00",
+            "购买128个海星": "$690.00"
+          }
+        },
+        {
           "timestamp": 1750108325195,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -59476,6 +59527,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750111941150,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "女神祈禱好禮272": "$320.00",
+            "特權禮包271": "$320.00",
+            "女神幸運禮包270": "$490.00",
+            "女神祈禱好禮269": "$220.00",
+            "鑽石優惠禮包268": "$390.00",
+            "鑽石優惠禮包264": "$190.00",
+            "命運神殿禮包263": "$90.00"
+          }
+        },
         {
           "timestamp": 1750104836612,
           "price": 10,
