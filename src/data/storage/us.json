@@ -77244,6 +77244,23 @@
     "history": [
       [
         {
+          "timestamp": 1750068868138,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$29.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$9.99",
+            "Europe Map": "$8.99",
+            "Ticket to Ride ChristmasBundle": "$4.99",
+            "Nordic Bundle": "$7.99",
+            "Japan Expansion Bundle": "$7.99",
+            "San Francisco Expansion Bundle": "$7.99",
+            "Nordic Map": "$6.99",
+            "LegendaryAsia Expansion Bundle": "$7.99"
+          }
+        },
+        {
           "timestamp": 1750058092377,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -79268,6 +79285,18 @@
       "Annual Premium Subscription": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750068868138,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "月度高级订阅": "$1.99",
+            "Annual Premium Subscription": "$3.99",
+            "乐桥终身会员": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749872358174,
