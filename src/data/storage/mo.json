@@ -3572,7 +3572,12 @@
       "3050 Badoo Credits": "USD 49.99",
       "450 Badoo Credits": "USD 15.49",
       "250 Badoo Credits": "USD 4.99",
-      "Lifetime Badoo Premium": "USD 79.99"
+      "Lifetime Badoo Premium": "USD 79.99",
+      "rise up to first place": "USD 1.99",
+      "Contacts limit increase": "USD 1.99",
+      "Voting limit increase": "USD 1.99",
+      "Activate Super Powers - 1 month": "USD 8.99",
+      "Activate Super Powers - 3 months": "USD 18.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -3585,9 +3590,28 @@
       "3050 Badoo Credits": "USD 48.00",
       "450 Badoo Credits": "USD 9.99",
       "250 Badoo Credits": "USD 4.99",
-      "Lifetime Badoo Premium": "USD 79.99"
+      "Lifetime Badoo Premium": "USD 79.99",
+      "rise up to first place": "USD 1.99",
+      "Contacts limit increase": "USD 1.99",
+      "Voting limit increase": "USD 1.99",
+      "Activate Super Powers - 1 month": "USD 8.99",
+      "Activate Super Powers - 3 months": "USD 18.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750058092377,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "rise up to first place": "USD 1.99",
+            "Contacts limit increase": "USD 1.99",
+            "Voting limit increase": "USD 1.99",
+            "Activate Super Powers - 1 month": "USD 8.99",
+            "Activate Super Powers - 3 months": "USD 18.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749568413844,
@@ -21715,6 +21739,25 @@
     "history": [
       [
         {
+          "timestamp": 1750058092377,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "英雄超能博士": "USD 2.99",
+            "英雄藍色飛龍": "USD 4.99",
+            "英雄虛空獵手": "USD 2.99",
+            "英雄風刃": "USD 0.99",
+            "英雄司珀羅": "USD 2.99",
+            "英雄羅爺": "USD 0.99",
+            "英雄鐵甲馬克": "USD 4.99",
+            "英雄命運女俠": "USD 0.99",
+            "英雄達爾文": "USD 0.99",
+            "英雄自由獵人": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749862783633,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -28274,7 +28317,11 @@
       "Super Smashing Tip": "USD 16.99",
       "Super Mega Tip": "USD 9.99",
       "Mega Tip": "USD 5.99",
-      "Super Tip": "USD 4.99"
+      "Super Tip": "USD 4.99",
+      "Micro Tip": "USD 0.99",
+      "Small Tip": "USD 0.99",
+      "Medium Tip": "USD 1.99",
+      "Large Tip": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -28287,9 +28334,32 @@
       "Super Smashing Tip": "USD 16.99",
       "Super Mega Tip": "USD 9.99",
       "Mega Tip": "USD 5.99",
-      "Super Tip": "USD 4.99"
+      "Super Tip": "USD 4.99",
+      "Micro Tip": "USD 0.99",
+      "Small Tip": "USD 0.99",
+      "Medium Tip": "USD 1.99",
+      "Large Tip": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750058092377,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Micro Tip": "USD 0.99",
+            "Small Tip": "USD 0.99",
+            "Medium Tip": "USD 1.99",
+            "Large Tip": "USD 3.99",
+            "Super Tip": "USD 4.99",
+            "Mega Tip": "USD 5.99",
+            "Super Mega Tip": "USD 9.99",
+            "Super Smashing Tip": "USD 16.99",
+            "Super Mega Smashing Tip": "USD 30.99",
+            "The Ultimate Tip": "USD 54.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -41787,6 +41857,22 @@
     "history": [
       [
         {
+          "timestamp": 1750058092377,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "The Ultimate Life Collection": "USD 19.99",
+            "Fairytale Kingdom Bundle": "USD 7.99",
+            "Mothgirl Outfit": "USD 0.99",
+            "Tunneler Ship": "USD 0.99",
+            "Foxman Bike": "USD 0.99",
+            "Action Car Avatar": "USD 0.99",
+            "Super Pet Avatar": "USD 0.99",
+            "Magical Girl Outfit": "USD 0.99",
+            "Skyscraper Avatar": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1750054807863,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -54489,6 +54575,21 @@
       "年卡": "USD 46.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750058092377,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "高級加油包": "USD 19.99",
+            "中級加油包": "USD 12.99",
+            "月卡": "USD 6.00",
+            "初級加油包": "USD 5.99",
+            "季卡": "USD 15.00",
+            "年卡": "USD 46.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749460479892,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-16T06:32:07.490Z</updated>
+    <updated>2025-06-16T07:36:08.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-16T06:32:07.490Z</updated>
+        <updated>2025-06-16T07:36:08.150Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkMon, 16 Jun 2025 06:32:07 GMT</id>
+        <id>rankinghkMon, 16 Jun 2025 07:36:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-16T06:32:07.490Z</updated>
+        <updated>2025-06-16T07:36:08.151Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -907,6 +907,29 @@ feedId:157008141708743680+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>42</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id6456751953">ChatTan - AI Bot</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>高級加油包</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -1027,6 +1050,59 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatTan - AI Bot]]></title>
+        <id>ChatTan - AI Bot-hk-1750058092377</id>
+        <link href="https://apps.apple.com/hk/app/chattan-ai-bot/id6456751953?uo=4"/>
+        <updated>2025-06-16T07:14:52.377Z</updated>
+        <summary type="html"><![CDATA[高級加油包: HK$ 188.00 → HK$ 148.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/chattan-ai-bot/id6456751953?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d9/37/95d937ad-3d93-77ac-8cb8-eea13ba9a3f2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>高級加油包：</strong><span>HK$ 188.00</span> → <b>
+  <strong>HK$ 148.00</strong>
+</b><span>[HK$ 118.00 ~ HK$ 188.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 2.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    月卡：<b>HK$ 48.00</b>
+  </li><li>
+    年卡：<b>HK$ 368.00</b>
+  </li><li>
+    季卡：<b>HK$ 118.00</b>
+  </li><li>
+    初級加油包：<b>HK$ 48.00</b>
+  </li><li>
+    高級加油包：<b>HK$ 148.00</b>
+  </li><li>
+    中級加油包：<b>HK$ 98.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  讓我們與最先進的 AI 相遇！炭炭精選超級 AI 全家桶！
+
+『隨心所問』
+∙ ChatTan 能為你解答疑問、提供建議，助力學習、工作與生活高效提升~
+∙ 免費體驗初級模型，能滿足你的大多數日常任務
+∙ 升級尊享高級模型，各項能力大幅增強，驚艷不容錯過
+
+『創意無限』
+∙ 聯網：實時搜索互聯網、驗證來源並合併實時信息
+∙ 識圖：解析圖像內容，提供深度解讀
+∙ 繪圖：dalle3 點燃想像，創意繪畫
+∙ 語音：官方接口，支持多語種對話
+
+『感謝有你』
+∙ ChatTan 是炭炭的第二款產品，一路走來感謝所有用戶對炭炭的支持
+∙ 我們很開心能有機會做出更妙更有趣的產品，希望 ChatTan 能成為炭炭送給大家的禮物
+
+關於條款:
+隱私政策: https://mytan.maiseed.com.cn/docs/privacy-policy
+服務協議 (EULA): https://mytan.maiseed.com.cn/docs/terms-of-service
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/08/04/a1080440-b30f-1f62-199a-4c1edc4d53b4/d557849a-fb79-4d82-9e77-5704c6f7a47a_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/9d/01/8a9d0134-dd37-f670-8c76-39361a4aa2b1/b87c57c8-3b6d-4a66-b6a3-3ff99a5ffdac_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/ae/28/43ae2853-20d2-d6bd-bc9e-47eeb522e7f0/a9b2e8de-faa9-4c5a-a961-6f1cdb1ac6ce_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/0d/b7/e40db7ce-843c-17ee-41b6-cac3224c02f9/d35c898e-a33f-4122-b08a-9d95aa259c56_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/9a/a3/9b9aa3f4-d2c7-960f-2cef-595cd997b897/877f9bf3-7f6e-4f40-9f67-7a18725996d0_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/2a/81/712a818f-79fb-65c5-da54-616d15cc6a51/7b4c2ddc-ef53-4b99-ac51-c175de2fc081_6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/7e/72/d07e7252-f642-d44b-1504-e70a8ca6505e/d379469b-cc93-40ee-9f82-f7332623768a_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/29/e7/fd29e7a4-a01c-6087-2f44-1c8e8c2caa07/a9672c41-1849-4f40-bacc-6ef761a49103_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/32/29/4132299a-f921-c66d-c321-bcb2750243d3/e8baa1e9-8552-4c55-ba9f-616ee4e66557_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/dc/9a/f8dc9ada-d265-cce7-b52c-671584df38ab/1f88934d-9442-45dd-88bc-62a1d53091bd_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/42/c7/0b42c7a7-28c5-3af9-dee1-4786af1a1e3b/732fd4dc-17aa-4447-b671-84bb73fab877_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/73/56/36735656-22ff-9512-7d2f-ab7475120c66/c71fc198-2ef0-4129-ba45-a48c42b807be_6.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
