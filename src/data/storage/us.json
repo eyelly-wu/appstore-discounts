@@ -2910,6 +2910,14 @@
     "history": [
       [
         {
+          "timestamp": 1750173218085,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748710928217,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -22964,6 +22972,23 @@
     "history": [
       [
         {
+          "timestamp": 1750173218085,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "$2.99",
+            "Biomes Add-on": "$1.99",
+            "Abandoned Mines Add-on": "$0.99",
+            "Grottoes Add-on": "$0.99",
+            "Bosses & Monsters Add-on": "$7.99",
+            "Temples of 4 Elements Add-on": "$3.99",
+            "Lonely Mountain Add-on": "$6.99",
+            "Heart of Evil Add-on": "$6.99",
+            "Invasion Add-on": "$4.99",
+            "Wonderwood Add-on": "$8.99"
+          }
+        },
+        {
           "timestamp": 1750169590671,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -32081,6 +32106,23 @@
     "history": [
       [
         {
+          "timestamp": 1750173218085,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "$0.99",
+            "Get the main entrance lighthouse passcode": "$0.99",
+            "Props Tip: Pyramid": "$0.99",
+            "Props Tip: Temple corner": "$0.99",
+            "Props Tip: flower": "$0.99",
+            "Get coffin password": "$0.99",
+            "Pyramid obtain dial pointer display mode": "$0.99",
+            "Get inside the temple door password": "$0.99",
+            "Rockets get the door unlocking": "$0.99",
+            "Get the factory door unlock": "$0.99"
+          }
+        },
+        {
           "timestamp": 1750169590671,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -37174,6 +37216,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750173218085,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99",
+            "Marvelous Mix vol. 1": "$4.99"
+          }
+        },
         {
           "timestamp": 1750169590671,
           "price": 1.99,
@@ -62163,7 +62222,9 @@
       "Yellow menu color": "$0.99",
       "Stephan character": "$0.99",
       "Jack character": "$0.99",
-      "Reyna skin": "$0.99"
+      "Reyna skin": "$0.99",
+      "Purple menu color": "$3.99",
+      "Red menu color": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -62180,9 +62241,30 @@
       "Yellow menu color": "$0.99",
       "Stephan character": "$0.99",
       "Jack character": "$0.99",
-      "Reyna skin": "$0.99"
+      "Reyna skin": "$0.99",
+      "Purple menu color": "$3.99",
+      "Red menu color": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750173218085,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Daniel skin": "$0.99",
+            "Reyna skin": "$0.99",
+            "Jorge skin": "$0.99",
+            "Gloria skin": "$0.99",
+            "Purple menu color": "$3.99",
+            "Red menu color": "$1.99",
+            "Yellow menu color": "$0.99",
+            "James character": "$0.99",
+            "Lisa character": "$0.00",
+            "Elsa character": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749009979960,
