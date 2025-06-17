@@ -847,7 +847,7 @@
 |306|1614200925|自动|部落与弯刀|❌|❌|❌|❌|❌|
 |305| ~~1622869542~~ |自动| ~~❌~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ |
 |304|1624326561|自动|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|
-|303|1631859420|自动|❌|After Inc.|After Inc.|After Inc.|After Inc.|After Inc.|
+|303|1631859420|自动|❌|劫後公司|劫後公司|劫後公司|After Inc.|After Inc.|
 |302|1631867592|自动|❌|珍寶機場物語|珍寶機場物語|珍寶機場物語|Jumbo Airport Story|Jumbo Airport Story|
 |301|1633243177|自动|Ableton Note|Ableton Note|Ableton Note|Ableton Note|Ableton Note|Ableton Note|
 |300|1633253544|自动|消除星星 - 益智的星星消消乐经典手表游戏|消除星星-益智的星星消消樂經典手錶消除遊戲|消除星星-益智的星星消消樂經典手錶消除遊戲|消除星星-益智的星星消消樂經典手錶消除遊戲|Pop The Stars Game For Watch|Pop The Stars Game For Watch|

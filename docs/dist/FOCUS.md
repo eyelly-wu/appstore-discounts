@@ -847,7 +847,7 @@ So far, we've covered `6` `Countries or Regions` and  `1145` `Apps` <br />Push n
 |306|1614200925|Automatic|部落与弯刀|❌|❌|❌|❌|❌|
 |305| ~~1622869542~~ |Automatic| ~~❌~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ | ~~Kingdom Rush 5: Alliance TD~~ |
 |304|1624326561|Automatic|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|真武三国  英雄集结|
-|303|1631859420|Automatic|❌|After Inc.|After Inc.|After Inc.|After Inc.|After Inc.|
+|303|1631859420|Automatic|❌|劫後公司|劫後公司|劫後公司|After Inc.|After Inc.|
 |302|1631867592|Automatic|❌|珍寶機場物語|珍寶機場物語|珍寶機場物語|Jumbo Airport Story|Jumbo Airport Story|
 |301|1633243177|Automatic|Ableton Note|Ableton Note|Ableton Note|Ableton Note|Ableton Note|Ableton Note|
 |300|1633253544|Automatic|消除星星 - 益智的星星消消乐经典手表游戏|消除星星-益智的星星消消樂經典手錶消除遊戲|消除星星-益智的星星消消樂經典手錶消除遊戲|消除星星-益智的星星消消樂經典手錶消除遊戲|Pop The Stars Game For Watch|Pop The Stars Game For Watch|
