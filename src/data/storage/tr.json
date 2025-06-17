@@ -2236,6 +2236,14 @@
     "history": [
       [
         {
+          "timestamp": 1750169590671,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748710928217,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -10145,6 +10153,25 @@
       "Wheel Color Pack": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750169590671,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "₺39,99",
+            "SLS 2022: Jacksonville": "₺39,99",
+            "SLS 2021: World Championship": "₺39,99",
+            "SLS 2019: Sao Paulo": "₺39,99",
+            "SLS 2019: London": "₺39,99",
+            "Sandbox 1 Year": "₺439,99",
+            "Sandbox 3 Months": "₺174,99",
+            "Sandbox Monthly": "₺87,99",
+            "SLS 2018: World Championship": "₺39,99",
+            "Mountain of Bolts": "₺4.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750061913559,
@@ -28421,6 +28448,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750169590671,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Ultimate Detective Collection": "₺899,99"
+          }
+        },
         {
           "timestamp": 1750151670232,
           "price": 299.99,

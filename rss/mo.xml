@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-06-16T16:28:59.572Z</updated>
+    <updated>2025-06-17T14:34:19.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-16T16:28:59.573Z</updated>
+        <updated>2025-06-17T14:34:19.366Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoMon, 16 Jun 2025 16:28:59 GMT</id>
+        <id>rankingmoTue, 17 Jun 2025 14:34:19 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-16T16:28:59.573Z</updated>
+        <updated>2025-06-17T14:34:19.366Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -51,13 +51,13 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1139</b>
+        <b>1145</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>938</b>
+        <b>944</b>
       </td>
       <td>
         <b>14</b>
@@ -68,13 +68,13 @@ feedId:157008389768002560+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>1043</b>
+        <b>1049</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>864</b>
+        <b>870</b>
       </td>
       <td>
         <b>12</b>
@@ -535,7 +535,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1482339363">iScore5 APHG</a>
+        <a href="https://apps.apple.com/mo/app/id1453875289">Hyper Light Drifter</a>
       </td>
       <td>
         <ul>
@@ -550,6 +550,23 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>
         <b>24</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id1482339363">iScore5 APHG</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1512751689">The Game of Life 2</a>
@@ -572,7 +589,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1519571900">Luwian</a>
@@ -589,7 +606,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -606,7 +623,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1523146826">全民RPG：重啟</a>
@@ -623,7 +640,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1576521142">SOULVARS</a>
@@ -640,7 +657,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
@@ -657,7 +674,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -674,7 +691,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -691,7 +708,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1640627334">Resident Evil Village for Mac</a>
@@ -718,7 +735,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1642715290">Little Big Workshop</a>
@@ -735,7 +752,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6450980545">Resident Evil Village</a>
@@ -764,7 +781,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6462360082">Resident Evil 4</a>
@@ -803,7 +820,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -820,7 +837,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -837,7 +854,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -854,7 +871,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -871,7 +888,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6456751953">ChatTan - AI Bot</a>
@@ -1012,6 +1029,59 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyper Light Drifter]]></title>
+        <id>Hyper Light Drifter-mo-1750169590671</id>
+        <link href="https://apps.apple.com/mo/app/hyper-light-drifter/id1453875289?uo=4"/>
+        <updated>2025-06-17T14:13:10.671Z</updated>
+        <summary type="html"><![CDATA[价格: USD 4.99 → USD 2.49]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/hyper-light-drifter/id1453875289?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/37/e1/c337e14f-ffda-948e-cd37-c97548f34a23/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>USD 4.99</span> → <b>
+  <strong>USD 2.49</strong>
+</b><span>[USD 2.49 ~ USD 4.99]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>USD 2.49</b>
+</p><h2>应用描述</h2><p>
+  經典的砍殺遊戲終於推出 iOS 版，Heart Machine這款曾獲獎的遊戲現在以最精良且優質的特殊版本登場。
+
+
+► 在享有盛譽的獨立遊戲節（Independent Games Festival）中獲得觀眾人氣大獎以及最佳視覺美術獎。
+
+► 在最佳視覺設計、最佳音效以及最佳原創遊戲類別中獲得超過 14 項提名。
+
+► 9/10 Destructoid – 卓越表現的典範。儘管有缺失但仍瑕不掩瑜，且不至於對遊戲造成重大影響。
+
+► 9.5/10 Game Informer – 配樂、美術以及打鬥場景值得您沉浸其中並深入探索。
+
+► Eurogamer 推薦 – Heart Machine 開發的砍殺遊戲不僅充滿挑戰性，且非常細緻，畫面也十分漂亮。
+
+► 9/10 GameSpot – 不僅僅是單純的畫面漂亮；《光明旅者Hyper Light Drifter》所呈現的視覺效果可以指引您，且讓您放鬆。在緊張刺激的打鬥場景中，壯觀美景能讓您稍喘口氣。 
+
+► 8.5 Polygon – 無論是思考戰略的時刻或是驚險的動作場景，《光明旅者Hyper Light Drifter》取得了兩者之間的完美平衡。
+
+► Darkstation 5 顆星–上帝視角的動作角色扮演遊戲《光明旅者Hyper Light Drifter》非常棒：漂亮、迷人的世界供探索、遊戲操作靈敏、悅耳的配樂，並且對玩家有信心，相信他們可以自己想出遊戲進行的方式。
+
+
+黑暗且暴力的過往陰影籠罩著這片不羈之地，當中滿是寶藏與鮮血。這個世界的旅者是收藏家，專門收集遺忘的知識、失落的科技以及破碎的歷史。我們的旅者被一種無法滿足的疾病纏身，朝著時間埋葬之地深入挺進，希望能找到治癒重症的方法。
+
+《光明旅者Hyper Light Drifter》是動作冒險角色扮演遊戲，使用經典的16-bit 模式，再加上現代化的遊戲機制與更大規模的設計。探索這個美麗且廣大的荒廢之地，當中危機四伏且暗藏著失落科技。
+
+
+特色：
+
+● 支援 iPad Pro 120 fps 的畫面幀率/支援 iPhone 與 iPad 60 fps的畫面幀率。
+● 與 MFi 控制手把相容。
+● 遊戲中心（Game Center）成就。
+● 觸覺震動。
+● 從每一位角色到細緻的背景元素，一切都是手繪動畫的心血傑作。
+● 容易上手但難以駕馭；敵人又壞又多，處處危機讓您脆弱的身體不堪一擊，且盟友又寥寥可數。
+● 升級武器、學習新技能、探索裝備，在這個黑暗且暗藏細節的世界中，穿越一條條的路徑支線，揭開秘密。
+● 沉浸在由Disasterpeace 所作的美妙配樂中。
+● 不僅有原始遊戲中的所有內容，再加上更多武器、敵人以及特殊版本的區域。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/9d/b3/269db35f-1616-abad-1e09-83e7f1cc0eec/mzl.gunhfvjl.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/3a/5c/2f3a5cdb-9310-8968-68e5-dde3583dcef4/mzl.tpujouzf.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f1/ef/6b/f1ef6bd4-fdf5-961e-53dc-880558421164/mzl.rrnzasha.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/a9/d1/fba9d141-9063-675b-b926-0c5a5c61bc2d/mzl.tgzfzufy.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ed/3f/39/ed3f3926-9fab-7751-3c05-648ec427ab34/mzl.vrwkdxyn.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/9a/e9/0a9ae933-9300-4a3c-3406-a172ac80d31c/mzl.cjcfehcm.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3a/9f/8a/3a9f8a48-16b0-e2d2-0020-f6b1ed3e8e95/mzl.xmikvvje.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/67/02/ff/6702ffc1-05d2-45cb-4cc6-d099292f50c3/mzl.oaiaqfwr.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/36/3d/95/363d95e3-46ae-658e-1463-56c575532b42/mzl.xnnbkbar.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/33/63/f2/3363f2d3-fc72-49c0-232b-854090a4578b/mzl.xotpvxhi.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/7d/c3/e67dc3d9-9ff8-0179-4adb-88b1f63425e3/mzl.crprypij.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/26/75/d62675d8-3d8c-46f4-f49b-b47618199a86/mzl.vuiyocrv.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iScore5 APHG]]></title>
@@ -1559,89 +1629,5 @@ At Marmalade Game Studio we make quality, premium multiplayer board games. Play 
 與好友一較高下，競逐排行榜冠軍
 衝高分數，升上合同殺手排行第一名，成為全世界最出色的無聲殺手。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/f5/14/4ff514b0-f939-df13-8087-84bd3217e009/mzl.bzdlkeau.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/12/32/43/123243f6-2ada-46b6-9d40-ef5d52b2c8c2/mzl.stqiidrz.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/64/69/52/6469521c-8e46-de39-d39d-f26221900223/mzl.zczjlcvd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/af/3a/f4/af3af49d-e212-394a-aff8-e2b62d4f586b/mzl.qnyhsiqe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/a0/f6/6ea0f61c-0214-ff61-ca59-542f41383ef1/mzl.jluxebmf.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/70/d1/ba70d194-83d5-194f-cb52-8de9fcf5d781/mzl.evgrgmwz.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/25/e2/2a25e257-0979-20b7-48cc-f5798fb338bf/mzl.etsyiapq.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/e7/88/cae78850-19a1-d2fc-a4d8-3777b03245f4/mzl.zybyctyl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/45/0c/a1/450ca19e-b8ef-e8d7-a9cc-66dd9dbd8f89/mzl.ldamlibv.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/81/a9/d381a9b2-4758-8ac9-e361-3e6ada871f3b/mzl.pftqxiws.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iron Marines]]></title>
-        <id>Iron Marines-mo-1749856393276</id>
-        <link href="https://apps.apple.com/mo/app/iron-marines/id1056920931?uo=4"/>
-        <updated>2025-06-13T23:13:13.276Z</updated>
-        <summary type="html"><![CDATA[英雄超能博士: USD 4.99 → USD 2.99<br/>英雄藍色飛龍: USD 6.99 → USD 4.99<br/>英雄羅爺: USD 2.99 → USD 0.99<br/>英雄鐵甲馬克: USD 6.99 → USD 4.99<br/>英雄自由獵人: USD 4.99 → USD 2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/iron-marines/id1056920931?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>英雄超能博士：</strong><span>USD 4.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 4.99]</span>
-  </li><li>
-    <strong>英雄藍色飛龍：</strong><span>USD 6.99</span> → <b>
-  <strong>USD 4.99</strong>
-</b><span>[USD 4.99 ~ USD 6.99]</span>
-  </li><li>
-    <strong>英雄羅爺：</strong><span>USD 2.99</span> → <b>
-  <strong>USD 0.99</strong>
-</b><span>[USD 0.99 ~ USD 2.99]</span>
-  </li><li>
-    <strong>英雄鐵甲馬克：</strong><span>USD 6.99</span> → <b>
-  <strong>USD 4.99</strong>
-</b><span>[USD 4.99 ~ USD 6.99]</span>
-  </li><li>
-    <strong>英雄自由獵人：</strong><span>USD 4.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 4.99]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>USD 2.99</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    英雄超能博士：<b>USD 2.99</b>
-  </li><li>
-    英雄藍色飛龍：<b>USD 4.99</b>
-  </li><li>
-    英雄虛空獵手：<b>USD 2.99</b>
-  </li><li>
-    英雄風刃：<b>USD 0.99</b>
-  </li><li>
-    英雄司珀羅：<b>USD 2.99</b>
-  </li><li>
-    英雄羅爺：<b>USD 0.99</b>
-  </li><li>
-    英雄鐵甲馬克：<b>USD 4.99</b>
-  </li><li>
-    英雄命運女俠：<b>USD 0.99</b>
-  </li><li>
-    英雄達爾文：<b>USD 0.99</b>
-  </li><li>
-    英雄自由獵人：<b>USD 2.99</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  這是遊戲創作者繼獲獎作品Kingdom Rush（王國保衛戰）三部曲之後的又一超凡太空奇幻歷險之作。即時，動態以及深度策略的遊戲模式將帶你穿越到不可思議的未知星球。沉浸式擬真遊戲場景，過癮的遊戲玩法，以及超凡絕佳的藝術感和一絲詼諧幽默感帶你進入激烈的戰爭世界。勇猛的士兵，威猛的機甲人和強大的外星人通通等你來統率，並肩迎接最強挑戰。
-
-招募和訓練銀河系中最偉大的英雄，率領他們參與幾乎不可能完成的危險任務，發動他們強大的力量和能力。即使是在戰鬥最激烈的時候你也可通過改變自己部隊的角色而進行戰略調整，突擊隊員調整為狙擊兵，火焰噴射器調整為導彈發射器。通過炸彈襲擊，智能地雷，支援部隊，砲塔和各種特種武器轉變戰鬥態勢。
-
-機器人軍隊整裝待發;星際戰艦墜毀了;到處是巨大怪物，未知的種族;所向披靡的攻擊;絕望的營救;無所畏懼地破壞行動正在銀河之中發生......銀河系需要你的統領。
-
-銀河系需要鋼鐵戰隊
-
-遊戲特色
-
-指导你的部队参加3个不同世界的21次任务。準備好發動英勇的攻擊，堅守陣地，拯救平民，潛入超級計算機和各種英雄的物品。每個任務需要新的戰術和行動才能取得勝利。
-
-通過17次終結式特別行動的戰術規則測試你的機智。每個關卡通過傷痕銘記挑戰。諒你也不敢。
-
-解鎖不可能模式。僅對大無畏敢死隊開放。諒你絕對不敢。
-
-在史詩戰鬥中擊敗巨大而非凡的頭目。這些頭目卑鄙而異常地巨大，他們決心要將你碾碎。鋼鐵戰隊，整裝待發！
-
-40+升級以提升你的戰略，同時授予你的部隊防禦無人機，凝固汽油彈火箭，反彈爆炸和更多的器械可使用。
-
-14位具有出色能力的英雄聽從你的調遣。將他們訓練到極致出色，否則惹惱他們後果自負。
-
-8種可向敵人發動進攻的特種武器，讓你的戰術更加具有深度。還有什麼比得上一個瞄準了的導彈？對50枚高爆炸炸彈的軌道炮襲擊！
-
-完成70+成就中的任何成就，贏得你應得的獎勵
-
-選擇你的遊戲困難模式，找到屬於你的公平挑戰：休閒，普通或老兵別太狂妄了要么狂妄一點你自己決定！！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/91/53/de9153dd-653c-e8dc-51bc-6018cc35b50b/822f0b37-135c-4b09-9398-ecfee027d5b1_2208x1242_5-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/0f/d0/dd0fd04e-8132-604b-b171-95e06bb4d947/10a8a69e-f126-42a4-a714-b44639c71873_2208x1242_2-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/92/a0/c6/92a0c67a-5879-3d40-806c-ce89c194d219/f5d557b2-8b0a-4455-ad54-5875200b2c8d_2208x1242_4-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/28/e7/4d/28e74d1f-45e3-ed64-8c76-d4896da280d5/cde13322-d468-47e7-9177-ceb7896d6312_2208x1242_3-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/df/e2/a9dfe293-f633-6816-68ae-427757d3147b/86f5d183-59aa-4c95-a352-24ddaba7a56c_2208x1242_1-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/03/b0/4903b0aa-84e5-7831-74a9-ff27b26a4c36/zh-Hant_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/1c/4c/1c1c4c91-6498-642b-bd28-e41b25c17cff/zh-Hant_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0c/2b/0c/0c2b0cd6-35b7-eab2-3ab2-61fedd498c92/b176156c-a9ef-443c-bee6-bab7b3b4deec_2732x2048_5-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/b8/c7/87b8c771-def4-a791-0ac2-ce7eb6357da6/28f5abfd-8c06-4d7d-905d-cbcf17ab84b4_2732x2048_2-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d0/1d/19/d01d190e-fb08-b846-90f9-ea480098eb2a/08e24119-6757-4458-bf71-7240ac371ad1_2732x2048_4-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8b/6d/a1/8b6da151-ec81-d378-6819-fa6f22e35359/7a30a9d8-9199-46f9-a0cd-a4347dc443ee_2732x2048_3-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/d8/fc/c4d8fc7d-df71-7af4-0fff-aaf9e922332b/cb8b5eb0-e1a9-40c4-b17b-2996edfd9775_2732x2048_1-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d9/a2/98/d9a29891-b4aa-0bbc-b1b5-143d7b6275fe/63c64062-48e3-468a-b858-c6ac51462e29_2732x2048bb__U00281_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/31/a1/44/31a14474-cac1-e895-ec12-cb3b15330aae/47b0430f-a870-42ab-a94d-11fec7c5fa64_2732x2048bb.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
