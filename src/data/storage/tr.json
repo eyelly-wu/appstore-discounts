@@ -27480,9 +27480,22 @@
       "PRO yearly subscription": "₺579,99",
       "Yearly Subscription": "₺459,99",
       "Monthly Subscription": "₺109,99",
-      "Lifetime license": "₺3.999,99"
+      "Lifetime license": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750141120208,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "₺1.499,99",
+            "Lifetime license": "₺1.499,99",
+            "Monthly Subscription": "₺109,99",
+            "Yearly Subscription": "₺459,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746658943078,
@@ -37603,8 +37616,8 @@
   "1450144092": {
     "name": "三國志天下布武 - 單機戰棋策略遊戲",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "₺2,99",
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
       "演武大會68元通行證": "₺449,99",
       "尊享月俸": "₺229,99",
       "禮包11": "₺2.299,99",
@@ -37633,6 +37646,24 @@
       "6元新手禮包​​": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750141120208,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "30元新手禮包​": "₺229,99",
+            "6元新手禮包​​": "₺39,99",
+            "演武大會68元通行證": "₺449,99",
+            "尊享月俸": "₺229,99",
+            "禮包11": "₺2.299,99",
+            "禮包9": "₺1.299,99",
+            "禮包7": "₺699,99",
+            "禮包6": "₺449,99",
+            "禮包8": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749067335618,
@@ -46389,6 +46420,23 @@
     "history": [
       [
         {
+          "timestamp": 1750141120208,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Fun & Games Sports Mix 3 Pack": "₺39,99",
+            "Holiday Thanksgiving Pack": "₺39,99",
+            "Holiday Christmas Pack 2": "₺39,99",
+            "Generations Gen Z Pack": "₺39,99",
+            "Holiday Hannukah Pack": "₺39,99",
+            "Mystery Mix Pack 16": "₺39,99",
+            "Mystery Mix Pack 15": "₺39,99",
+            "Mystery Mix Pack 14": "₺39,99",
+            "Mystery Mix Pack 13": "₺39,99",
+            "Mystery Mix Pack 12": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1750134103969,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -53325,6 +53373,25 @@
       "Smelting Pack": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750141120208,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Nurse Pack": "₺229,99",
+            "Unlock Beholder": "₺129,99",
+            "Unlock Gumiho": "₺129,99",
+            "Season 3 Battle Pass": "₺99,99",
+            "Uniform Pack": "₺179,99",
+            "Unlock Baphomet": "₺129,99",
+            "Season 2 Battle Pass": "₺99,99",
+            "Monster Pack 2": "₺1.299,99",
+            "Info Pack": "₺599,99",
+            "Smelting Pack": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749809625415,
