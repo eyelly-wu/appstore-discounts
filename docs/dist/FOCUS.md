@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1145` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1146` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1146|1462058409|Automatic|Another Flamenco Compás App|Another Flamenco Compás App|Another Flamenco Compás App|Another Flamenco Compás App|Another Flamenco Compás App|Another Flamenco Compás App|
 |1145|1287138671|Automatic|❌|Thumper：便攜版|Thumper：便攜版|Thumper：便攜版|Thumper: Pocket Edition|Thumper: Pocket Edition|
 |1144|6747207796|Automatic|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|
 |1143|6449183990|Automatic|❌|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|DQM: The Dark Prince|DQM: The Dark Prince|
@@ -297,7 +298,7 @@ So far, we've covered `6` `Countries or Regions` and  `1145` `Apps` <br />Push n
 |856|6502455111|Automatic|❌|Lara Croft: Guardian of Light|Lara Croft: Guardian of Light|Lara Croft: Guardian of Light|Lara Croft: Guardian of Light|Lara Croft: Guardian of Light|
 |855|295462558|Automatic|❌|Toobz|Toobz|Toobz|Toobz|Toobz|
 |854|329233299|Automatic|Universe Splitter|Universe Splitter|Universe Splitter|Universe Splitter|Universe Splitter|Universe Splitter|
-|853|329981776|Automatic|❌|Sudoku ″|Sudoku ″|Sudoku ″|Sudoku ″|Sudoku ″|
+|853|329981776|Automatic|❌|Sudoku ′ No ads|Sudoku ′ No ads|Sudoku ′ No ads|Sudoku ′ No ads|Sudoku ′ No ads|
 |852|363738376|Automatic|forScore|forScore|forScore|forScore|forScore|forScore|
 |851|479431697|Automatic|❌|CHRONO TRIGGER (Upgrade Ver.)|CHRONO TRIGGER (Upgrade Ver.)|CHRONO TRIGGER (Upgrade Ver.)|CHRONO TRIGGER (Upgrade Ver.)|CHRONO TRIGGER (Upgrade Ver.)|
 |850|525176875|Automatic|太阳测量师(Sun Surveyor)|Sun Surveyor (太陽測量師)|Sun Surveyor (太陽測量師)|Sun Surveyor (太陽測量師)|Sun Surveyor (Sun & Moon)|Sun Surveyor (Sun & Moon)|

@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1462058409,
+    name: {
+      mo: 'Another Flamenco Compás App',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1287138671,
     name: {
       mo: 'Thumper：便攜版',
