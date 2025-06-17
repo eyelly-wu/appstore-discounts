@@ -24343,6 +24343,25 @@
     "history": [
       [
         {
+          "timestamp": 1750129987671,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "问财专业版连续包月": "$790.00",
+            "问财进阶版连续包月": "$320.00",
+            "598花币": "$2,990.00",
+            "299花币": "$1,290.00",
+            "早盘选股宝连续包月": "$1,290.00",
+            "机构探测器连续包月": "$560.00",
+            "金牛情报连续包月": "$340.00",
+            "分时顶底连续包季": "$600.00",
+            "波段雷达连续包季": "$1,350.00",
+            "主力密码连续包月": "$560.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749496209231,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -76505,7 +76524,9 @@
       "Farmet Fantom 1250 Pro": "$30.00",
       "JCB 541-70 AGRI PRO": "$60.00",
       "Vervaet Hydro Trike 5x5": "$60.00",
-      "JD 9000 Series + 390 Plus": "$60.00"
+      "JD 9000 Series + 390 Plus": "$60.00",
+      "Kubota RTV-XG850 SIDEKICK": "$60.00",
+      "Krone BiG Pack 1290 HDP VC": "$30.00"
     },
     "minPriceInfo": {
       "price": 220,
@@ -76528,10 +76549,29 @@
       "Farmet Fantom 1250 Pro": "$30.00",
       "JCB 541-70 AGRI PRO": "$60.00",
       "Vervaet Hydro Trike 5x5": "$60.00",
-      "JD 9000 Series + 390 Plus": "$60.00"
+      "JD 9000 Series + 390 Plus": "$60.00",
+      "Kubota RTV-XG850 SIDEKICK": "$60.00",
+      "Krone BiG Pack 1290 HDP VC": "$30.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1750129987671,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "$60.00",
+            "Vervaet Hydro Trike 5x5": "$60.00",
+            "Kubota RTV-XG850 SIDEKICK": "$60.00",
+            "Case IH Austoft 8800 Multi-Row": "$60.00",
+            "Krone BiG Pack 1290 HDP VC": "$30.00",
+            "Kotte PQ 32000": "$30.00",
+            "KINZE 3665 Blue Drive": "$30.00",
+            "Versatile 4WD 620": "$60.00",
+            "Amazone CITAN 15001-C": "$30.00",
+            "Claas Xerion 5000": "$60.00"
+          }
+        },
         {
           "timestamp": 1750100983765,
           "price": 220,
