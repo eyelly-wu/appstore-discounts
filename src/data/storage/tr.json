@@ -9519,6 +9519,23 @@
     "history": [
       [
         {
+          "timestamp": 1750201926797,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Necroa Virus Expansion Pack": "₺99,99",
+            "Unlock 7 Standard Plagues": "₺129,99",
+            "Unlock Virus": "₺39,99",
+            "Neurax Worm Expansion Pack": "₺99,99",
+            "Unlock All Genes": "₺349,99",
+            "Scenario Pack": "₺129,99",
+            "Simian Flu Expansion Pack": "₺99,99",
+            "Unlock Cheats": "₺449,99",
+            "Plague Pack": "₺599,99",
+            "Shadow Plague Expansion Pack": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1750198316396,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -38416,6 +38433,23 @@
     "history": [
       [
         {
+          "timestamp": 1750201926797,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Flash Sale Ore Rune 2": "₺99,99",
+            "Flash Sale Star Rune 2": "₺99,99",
+            "Flash Sale Crystal 2": "₺129,99",
+            "First Purchase: Legendary Pack": "₺449,99",
+            "Piggy Bank": "₺129,99",
+            "Flash Sale Crystal 3": "₺99,99",
+            "Flash Sale Ore Rune 1": "₺129,99",
+            "Double Exp Package 1": "₺39,99",
+            "Flash Sale Star Rune 1": "₺129,99",
+            "Black Friday Inferno": "₺899,99"
+          }
+        },
+        {
           "timestamp": 1750198316396,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -38919,6 +38953,14 @@
     "history": [
       [
         {
+          "timestamp": 1750201926797,
+          "price": 54.99,
+          "formattedPrice": "₺54,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749078140241,
           "price": 11.99,
           "formattedPrice": "₺11,99",
@@ -38971,10 +39013,18 @@
       "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750201926797,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747522922677,
@@ -49421,6 +49471,31 @@
           "price": 99.99,
           "formattedPrice": "₺99,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1581549121": {
+    "name": "Hundred Days",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99",
+      "Hundred Days - Napa Valley": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99",
+      "Hundred Days - Napa Valley": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750201926797,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Hundred Days - Napa Valley": "₺129,99"
+          }
         }
       ]
     ]
