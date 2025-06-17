@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1287138671,
+    name: {
+      mo: 'Thumper：便攜版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6747207796,
+    name: {
+      us: "PeeWee Purpdrank's Soundboard",
+    },
+    addType: 'auto',
+  },
+  {
     id: 6449183990,
     name: {
       mo: '勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程',

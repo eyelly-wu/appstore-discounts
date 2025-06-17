@@ -1,10 +1,12 @@
 
 # 关注焦点
-当前已收录 `6` 个 `国家或地区` 和 `1143` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `6` 个 `国家或地区` 和 `1145` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br />如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br />目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1145|1287138671|自动|❌|Thumper：便攜版|Thumper：便攜版|Thumper：便攜版|Thumper: Pocket Edition|Thumper: Pocket Edition|
+|1144|6747207796|自动|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|
 |1143|6449183990|自动|❌|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|DQM: The Dark Prince|DQM: The Dark Prince|
 |1142|6667107639|自动|❌|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|
 |1141|682170196|自动|ChiWalking|ChiWalking|ChiWalking|ChiWalking|ChiWalking|ChiWalking|
