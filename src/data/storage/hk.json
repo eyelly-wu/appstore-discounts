@@ -17236,7 +17236,17 @@
       "Around The World Bundle": "HK$ 58.00",
       "Travel Essentials Deck": "HK$ 18.00",
       "Around The World Bundle Sale": "HK$ 48.00",
-      "90s And 00s Cartoons Deck": "HK$ 18.00"
+      "90s And 00s Cartoons Deck": "HK$ 18.00",
+      "All The Right Moves": "HK$ 18.00",
+      "Broadway Baby": "HK$ 18.00",
+      "Favorite Fictional Characters": "HK$ 18.00",
+      "I'm With The Band": "HK$ 18.00",
+      "Movie Buff": "HK$ 18.00",
+      "Sports Legends": "HK$ 18.00",
+      "Take It Literally": "HK$ 18.00",
+      "That's So 90s": "HK$ 18.00",
+      "Totally 80s": "HK$ 18.00",
+      "As Seen On TV": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -17270,9 +17280,38 @@
       "Around The World Bundle": "HK$ 58.00",
       "Travel Essentials Deck": "HK$ 18.00",
       "Around The World Bundle Sale": "HK$ 48.00",
-      "90s And 00s Cartoons Deck": "HK$ 18.00"
+      "90s And 00s Cartoons Deck": "HK$ 18.00",
+      "All The Right Moves": "HK$ 18.00",
+      "Broadway Baby": "HK$ 18.00",
+      "Favorite Fictional Characters": "HK$ 18.00",
+      "I'm With The Band": "HK$ 18.00",
+      "Movie Buff": "HK$ 18.00",
+      "Sports Legends": "HK$ 18.00",
+      "Take It Literally": "HK$ 18.00",
+      "That's So 90s": "HK$ 18.00",
+      "Totally 80s": "HK$ 18.00",
+      "As Seen On TV": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750155233674,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "All The Right Moves": "HK$ 18.00",
+            "Broadway Baby": "HK$ 18.00",
+            "Favorite Fictional Characters": "HK$ 18.00",
+            "I'm With The Band": "HK$ 18.00",
+            "Movie Buff": "HK$ 18.00",
+            "Sports Legends": "HK$ 18.00",
+            "Take It Literally": "HK$ 18.00",
+            "That's So 90s": "HK$ 18.00",
+            "Totally 80s": "HK$ 18.00",
+            "As Seen On TV": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749439044822,
@@ -57397,7 +57436,9 @@
       "Jewel Package F": "HK$ 688.00",
       "Jewel Package C": "HK$ 188.00",
       "Jewel Package B": "HK$ 68.00",
-      "Jewel Package E": "HK$ 588.00"
+      "Jewel Package E": "HK$ 588.00",
+      "Starter Package B": "HK$ 388.00",
+      "Remove AD": "HK$ 68.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -57410,9 +57451,30 @@
       "Jewel Package F": "HK$ 688.00",
       "Jewel Package C": "HK$ 188.00",
       "Jewel Package B": "HK$ 68.00",
-      "Jewel Package E": "HK$ 588.00"
+      "Jewel Package E": "HK$ 588.00",
+      "Starter Package B": "HK$ 388.00",
+      "Remove AD": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750155233674,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Starter Package B": "HK$ 388.00",
+            "Daily Jewel Package": "HK$ 148.00",
+            "Lite Daily Jewel Package": "HK$ 68.00",
+            "Starter Package A": "HK$ 118.00",
+            "Remove AD": "HK$ 68.00",
+            "Jewel Package D": "HK$ 368.00",
+            "Jewel Package A": "HK$ 38.00",
+            "Jewel Package F": "HK$ 688.00",
+            "Jewel Package C": "HK$ 188.00",
+            "Jewel Package B": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749615718607,
@@ -77554,6 +77616,14 @@
       "formattedPrice": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750155233674,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749611567188,

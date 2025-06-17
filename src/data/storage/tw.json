@@ -56388,7 +56388,9 @@
       "Jewel Package F": "$2,990.00",
       "Jewel Package C": "$790.00",
       "Jewel Package B": "$290.00",
-      "Jewel Package E": "$2,290.00"
+      "Jewel Package E": "$2,290.00",
+      "Starter Package B": "$1,490.00",
+      "Remove AD": "$290.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -56401,9 +56403,30 @@
       "Jewel Package F": "$2,990.00",
       "Jewel Package C": "$790.00",
       "Jewel Package B": "$290.00",
-      "Jewel Package E": "$2,290.00"
+      "Jewel Package E": "$2,290.00",
+      "Starter Package B": "$1,490.00",
+      "Remove AD": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750155233674,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Starter Package B": "$1,490.00",
+            "Daily Jewel Package": "$690.00",
+            "Lite Daily Jewel Package": "$290.00",
+            "Starter Package A": "$490.00",
+            "Remove AD": "$290.00",
+            "Jewel Package D": "$1,490.00",
+            "Jewel Package A": "$150.00",
+            "Jewel Package F": "$2,990.00",
+            "Jewel Package C": "$790.00",
+            "Jewel Package B": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749615718607,
@@ -78166,6 +78189,14 @@
     "history": [
       [
         {
+          "timestamp": 1750155233674,
+          "price": 430,
+          "formattedPrice": "$430.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749611567188,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -78919,6 +78950,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750155233674,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$390.00",
+            "The Aircraft Bundle": "$590.00",
+            "Boeing 777-300ER": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Airbus A380": "$60.00",
+            "Boeing 737-900": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Boeing 737 MAX 9": "$60.00"
+          }
+        },
         {
           "timestamp": 1750122123850,
           "price": 120,

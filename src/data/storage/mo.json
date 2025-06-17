@@ -43772,7 +43772,9 @@
       "Jewel Package F": "USD 89.99",
       "Jewel Package C": "USD 24.99",
       "Jewel Package B": "USD 8.99",
-      "Jewel Package E": "USD 69.99"
+      "Jewel Package E": "USD 69.99",
+      "Starter Package B": "USD 49.99",
+      "Remove AD": "USD 8.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -43785,9 +43787,30 @@
       "Jewel Package F": "USD 89.99",
       "Jewel Package C": "USD 24.99",
       "Jewel Package B": "USD 8.99",
-      "Jewel Package E": "USD 69.99"
+      "Jewel Package E": "USD 69.99",
+      "Starter Package B": "USD 49.99",
+      "Remove AD": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750155233674,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Starter Package B": "USD 49.99",
+            "Daily Jewel Package": "USD 19.99",
+            "Lite Daily Jewel Package": "USD 8.99",
+            "Starter Package A": "USD 14.99",
+            "Remove AD": "USD 8.99",
+            "Jewel Package D": "USD 44.99",
+            "Jewel Package A": "USD 4.99",
+            "Jewel Package F": "USD 89.99",
+            "Jewel Package C": "USD 24.99",
+            "Jewel Package B": "USD 8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749615718607,
@@ -58001,6 +58024,14 @@
       "formattedPrice": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750155233674,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749611567188,
