@@ -55068,6 +55068,25 @@
     "history": [
       [
         {
+          "timestamp": 1750216315437,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750151670232,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -57855,10 +57874,18 @@
       "formattedPrice": "¥6.00"
     },
     "minPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00"
+      "price": 5,
+      "formattedPrice": "¥5.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750216315437,
+          "price": 5,
+          "formattedPrice": "¥5.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
