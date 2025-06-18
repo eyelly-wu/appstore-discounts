@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-18T08:39:16.033Z</updated>
+    <updated>2025-06-18T13:50:09.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-18T08:39:16.033Z</updated>
+        <updated>2025-06-18T13:50:09.334Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 18 Jun 2025 08:39:16 GMT</id>
+        <id>rankingusWed, 18 Jun 2025 13:50:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-18T08:39:16.033Z</updated>
+        <updated>2025-06-18T13:50:09.334Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,16 +51,16 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1147</b>
+        <b>1148</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>946</b>
+        <b>947</b>
       </td>
       <td>
-        <b>14</b>
+        <b>16</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1046</b>
+        <b>1047</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>870</b>
+        <b>871</b>
       </td>
       <td>
-        <b>12</b>
+        <b>14</b>
       </td>
     </tr>
   </tbody>
@@ -95,7 +95,9 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
+        <del>
+          <a href="https://apps.apple.com/us/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -686,7 +688,9 @@ feedId:157008699750812672+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
+        <del>
+          <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -760,7 +764,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1576521142">SOULVARS</a>
+        <a href="https://apps.apple.com/us/app/id1558391784">Filebar - media player</a>
       </td>
       <td>
         <ul>
@@ -768,6 +772,12 @@ feedId:157008699750812672+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Filebar Pro Lifetime</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -777,7 +787,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
+        <a href="https://apps.apple.com/us/app/id1576521142">SOULVARS</a>
       </td>
       <td>
         <ul>
@@ -794,7 +804,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
+        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -809,6 +819,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>37</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1624326561">真武三国  英雄集结</a>
@@ -831,7 +858,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -848,7 +875,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1640627334">Resident Evil Village for Mac</a>
@@ -875,7 +902,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642715290">Little Big Workshop</a>
@@ -892,7 +919,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1659271912">Train Dispatcher!2</a>
@@ -909,7 +936,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450980545">Resident Evil Village</a>
@@ -938,7 +965,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6462360082">Resident Evil 4</a>
@@ -969,7 +996,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -986,7 +1013,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -1003,7 +1030,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -1020,7 +1047,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -1037,7 +1064,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6456751953">ChatTan - AI Bot</a>
@@ -1060,7 +1087,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
@@ -1083,7 +1110,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6743487416">Gold Miner - Watch Games</a>
@@ -1131,7 +1158,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+        <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1140,16 +1167,16 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id533055404">Night Stars</a>
+        <a href="https://apps.apple.com/us/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
-      <td>Artificially Added</td>
+      <td>Automatically Added</td>
     </tr>
     <tr>
       <td>
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/us/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1158,7 +1185,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/us/app/id533055404">Night Stars</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1167,7 +1194,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1527841661">Sandbox Planet</a>
+        <a href="https://apps.apple.com/us/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1176,7 +1203,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id431033044">Phone Drive: File Storage Sync</a>
+        <a href="https://apps.apple.com/us/app/id505904421">AirDisk Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1185,7 +1212,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id456637671">Safety Photo+Video Pro</a>
+        <a href="https://apps.apple.com/us/app/id1527841661">Sandbox Planet</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1194,7 +1221,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id818394449">Timeline - World history</a>
+        <a href="https://apps.apple.com/us/app/id431033044">Phone Drive: File Storage Sync</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1203,7 +1230,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/us/app/id456637671">Safety Photo+Video Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1212,12 +1239,90 @@ feedId:157008699750812672+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id818394449">Timeline - World history</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1485101937">Juice Watch</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id488674899">RAIN RADAR °- sky weather NOAA</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filebar - media player]]></title>
+        <id>Filebar - media player-us-1750253311174</id>
+        <link href="https://apps.apple.com/us/app/filebar-media-player/id1558391784?uo=4"/>
+        <updated>2025-06-18T13:28:31.174Z</updated>
+        <summary type="html"><![CDATA[Price: $7.99 → Free<br/>Filebar Pro Lifetime: $9.99 → $6.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/filebar-media-player/id1558391784?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/79/e6/9479e699-87ef-1285-ac81-b9c11e6294df/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$7.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $7.99]</span>）
+</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Filebar Pro Lifetime：</strong><span>$9.99</span> → <b>
+  <strong>$6.99</strong>
+</b><span>[$6.99 ~ $9.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Filebar Pro Lifetime：<b>$6.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  # Filebar
+
+Filebar is a modern multimedia player that offers video player, music player, cloud services and file management features.
+
+## Main features
+
+
+### Video player
+
+Filebar offers a powerful video player that allows you to play more video formats, including standard MP4, M4V and MOV, plus MKV, AVI, WMV, FLV, OMG, OGV, 3GP, RMVB and more. You can browse and play videos from your mac, pc, NAS, FTP, and also support playing videos from media servers (such as Emby/Plex/Jellyfin media server), and you can also play videos from cloud services.
+
+
+### Music Player
+
+Filebar provides a nice local music player for playing local and cloud music, supported audio formats are MP3/M4A/FLAC.
+
+
+### Cloud Services
+
+Cloud services are another core feature of Filebar. With Filebar you can easily manage cloud services, including creating folders/deleting/playing/batch renaming/viewing information. It also provides support for remote protocols. The supported protocols are SMB, WebDAV, Synology, FTP, SFTP.
+
+
+### File Management
+
+Filebar also provides a file manager. You can manage your local and remote files: move, delete, edit, copy, upload, batch rename, etc.
+
+
+## Customer Support
+
+Feel free to contact us if your have any suggestions or ideas.
+
+- Website: https://fileball.app
+- Email: filebox.app@outlook.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2b/8c/7a/2b8c7a46-22d9-5bda-305f-96ad1f0d842b/ac90f6c7-b463-4cca-b04d-ed27ee7d82e9_iPhone_SE_3_-EN-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e8/0c/da/e80cdac6-7093-3f1a-8ae0-7e3c580214bb/6128abcb-1d99-4ff5-85fb-c36b5465ce33_iPhone_SE_3_-EN-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/90/cc/b0/90ccb04f-d938-c5f2-e9b6-abb367b438ef/e06dfa4e-16a6-4919-8ab0-17a2293c9d19_iPhone_SE_3_-EN-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7d/89/3c/7d893cff-4e17-1b09-92d9-efeabae58f44/cfdc3ca6-c232-464c-b5cb-6670ca4d7d53_iPhone_SE_3_-EN-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/2e/f8/ec2ef871-1e8f-dd60-f534-317ce6683809/9547092e-9fe8-45a8-a9f0-4206072e10cf_iPhone_SE_3_-EN-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/32/46/88324667-b9fe-a031-f44f-1921bc9ccd7e/c10ff563-a6e1-4a46-9b5f-b0525da9f2db_iPhone_SE_3_-EN-6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fc/d8/a3/fcd8a39c-fae8-ec29-15d3-32c2b782ff52/f5ec177d-9fdf-43ed-b6e8-792ceec70302_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.20.39.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/72/02/697202f0-4e59-acd6-0eea-54a9c58637f6/bd22a1fd-8a91-4609-aed2-921cfb69d21f_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.20.46.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/b1/c3/a4b1c323-7719-7b49-689a-9332a6849263/8636cbcf-389c-4377-8aa1-c2d96a317e50_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.20.50.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/45/91/c2459188-0ea4-2b35-986e-cac4ef96f456/tns.worhvhql.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Voice Recorder - Audio Record]]></title>

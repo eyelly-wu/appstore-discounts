@@ -803,7 +803,7 @@
 |353|1504952058|自动|❌|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|
 |352|1505636751|自动|❌|TeleGuard|TeleGuard|TeleGuard|TeleGuard|TeleGuard|
 |351|1509344823|自动|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|
-|350|1512751689|自动|❌|The Game of Life 2|The Game of Life 2|The Game of Life 2|The Game of Life 2|The Game of Life 2|
+|350| ~~1512751689~~ |自动| ~~❌~~ | ~~The Game of Life 2~~ | ~~The Game of Life 2~~ | ~~The Game of Life 2~~ | ~~The Game of Life 2~~ | ~~The Game of Life 2~~ |
 |349|1515215584|自动|RakugakiAR|RakugakiAR|RakugakiAR|RakugakiAR|RakugakiAR|RakugakiAR|
 |348|1515382132|自动|❌|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|
 |347|1516531425|自动|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|
@@ -970,7 +970,7 @@
 |186|1055511498|手动|Day One Journal|Day One Journal|Day One Journal|Day One Journal|Day One|Day One|
 |185|1208145167|手动|Picsew - 滚动截图 & 长图拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - Scrollshot & Collage|Picsew - Scrollshot & Collage|
 |184|1444636541|手动|Photomator|Photomator|Photomator|Photomator|Photomator – Photo Editor|Photomator|
-|183|1444383602|手动|Goodnotes 6：笔记，PDF，AI|Goodnotes 6：筆記，PDF，AI|Goodnotes 6：筆記，PDF，AI|Goodnotes 6：筆記，PDF，AI|Goodnotes 6: AI Notes & Docs|Goodnotes 6: AI Notes & Docs|
+|183| ~~1444383602~~ |手动| ~~Goodnotes 6：笔记，PDF，AI~~ | ~~Goodnotes 6：筆記，PDF，AI~~ | ~~Goodnotes 6：筆記，PDF，AI~~ | ~~Goodnotes 6：筆記，PDF，AI~~ | ~~Goodnotes 6: AI Notes & Docs~~ | ~~Goodnotes 6: AI Notes & Docs~~ |
 |182|1473785373|手动|钱迹记账-无广告自动记账软件 & 预算 & 资产管理|錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算|錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算|錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算|MoneyTrack: Expense & Budget|MoneyTrack: Expense & Budget|
 |181|1461652639|手动|网络调试精灵|TCP UDP Ping  Socket 網絡調試助手|TCP UDP Ping  Socket 網絡調試助手|TCP UDP Ping  Socket 網絡調試助手|iSocketTool|iSocketTool|
 |180|6499198824|手动|蜂软扫描 - 全能扫描仪|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|

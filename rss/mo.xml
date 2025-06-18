@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-06-18T08:39:16.018Z</updated>
+    <updated>2025-06-18T13:50:09.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-18T08:39:16.018Z</updated>
+        <updated>2025-06-18T13:50:09.319Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoWed, 18 Jun 2025 08:39:16 GMT</id>
+        <id>rankingmoWed, 18 Jun 2025 13:50:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-18T08:39:16.018Z</updated>
+        <updated>2025-06-18T13:50:09.319Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -51,16 +51,16 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1147</b>
+        <b>1148</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>946</b>
+        <b>947</b>
       </td>
       <td>
-        <b>14</b>
+        <b>16</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008389768002560+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>1051</b>
+        <b>1052</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>872</b>
+        <b>873</b>
       </td>
       <td>
-        <b>12</b>
+        <b>14</b>
       </td>
     </tr>
   </tbody>
@@ -100,13 +100,13 @@ feedId:157008389768002560+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>4</b>
+            <span>总次数</span>：<b>5</b>
           </li><li>
             <span>价格</span>：<b>0</b>
           </li><li>
             <span>App 內購買項目</span><ol>
               <li>
-                <i>450 Badoo Credits</i>：<b>2</b>
+                <i>450 Badoo Credits</i>：<b>3</b>
               </li><li>
                 <i>3050 Badoo Credits</i>：<b>2</b>
               </li>
@@ -118,6 +118,29 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>
         <b>2</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id904737816">王國保衛戰：起源 Kingdom Rush Origins</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>一箱寶石</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1056920931">Iron Marines</a>
@@ -148,7 +171,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1238247658">Cluedo: Classic Edition</a>
@@ -171,7 +194,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6446178861">PlayNav - 影片內無廣告！</a>
@@ -194,7 +217,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6739975257">乐桥</a>
@@ -211,29 +234,6 @@ feedId:157008389768002560+userId:73658201673997312
                 <i>乐桥终身会员</i>：<b>1</b>
               </li><li>
                 <i>年度高级订阅</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/mo/app/id904737816">王國保衛戰：起源 Kingdom Rush Origins</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買項目</span><ol>
-              <li>
-                <i>一箱寶石</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -586,7 +586,9 @@ feedId:157008389768002560+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1512751689">The Game of Life 2</a>
+        <del>
+          <a href="https://apps.apple.com/mo/app/id1512751689">The Game of Life 2</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -660,7 +662,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1576521142">SOULVARS</a>
+        <a href="https://apps.apple.com/mo/app/id1558391784">Filebar</a>
       </td>
       <td>
         <ul>
@@ -668,6 +670,12 @@ feedId:157008389768002560+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Filebar Pro Lifetime</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -677,7 +685,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
+        <a href="https://apps.apple.com/mo/app/id1576521142">SOULVARS</a>
       </td>
       <td>
         <ul>
@@ -694,7 +702,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1612952507">AeroPads - Pads & Soundscapes</a>
+        <a href="https://apps.apple.com/mo/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
       </td>
       <td>
         <ul>
@@ -711,7 +719,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+        <a href="https://apps.apple.com/mo/app/id1612952507">AeroPads - Pads & Soundscapes</a>
       </td>
       <td>
         <ul>
@@ -726,6 +734,23 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>
         <b>34</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id1631331207">Hitman: Blood Money — Reprisal</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1640627334">Resident Evil Village for Mac</a>
@@ -752,7 +777,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1642715290">Little Big Workshop</a>
@@ -769,7 +794,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6450980545">Resident Evil Village</a>
@@ -798,7 +823,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6462360082">Resident Evil 4</a>
@@ -837,7 +862,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -854,7 +879,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -871,7 +896,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -888,7 +913,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -905,7 +930,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6456751953">ChatTan - AI Bot</a>
@@ -928,7 +953,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6743487416">黃金礦工 - 手錶遊戲 經典複刻</a>
@@ -976,7 +1001,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+        <a href="https://apps.apple.com/mo/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -985,16 +1010,16 @@ feedId:157008389768002560+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/mo/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/mo/app/id1444383602">Goodnotes 6：筆記，PDF，AI</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1003,7 +1028,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/mo/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1012,7 +1037,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/mo/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1021,7 +1046,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
+        <a href="https://apps.apple.com/mo/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1030,7 +1055,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id456637671">安全監控照片+視頻Pro</a>
+        <a href="https://apps.apple.com/mo/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1039,7 +1064,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/mo/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1048,7 +1073,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/mo/app/id456637671">安全監控照片+視頻Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1057,12 +1082,215 @@ feedId:157008389768002560+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/mo/app/id818394449">时间轴-全球历史</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id1485101937">Juice Watch</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/mo/app/id488674899">雨雷達 ° -實時天氣圖</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王國保衛戰：起源 Kingdom Rush Origins]]></title>
+        <id>王國保衛戰：起源 Kingdom Rush Origins-mo-1750253311174</id>
+        <link href="https://apps.apple.com/mo/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E8%B5%B7%E6%BA%90-kingdom-rush-origins/id904737816?uo=4"/>
+        <updated>2025-06-18T13:28:31.174Z</updated>
+        <summary type="html"><![CDATA[一箱寶石: USD 19.99 → USD 9.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E8%B5%B7%E6%BA%90-kingdom-rush-origins/id904737816?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/75/2a/5d752a9d-1edb-ad0b-a801-f2556646f477/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>一箱寶石：</strong><span>USD 19.99</span> → <b>
+  <strong>USD 9.99</strong>
+</b><span>[USD 9.99 ~ USD 19.99]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>USD 2.99</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    Big Hero Pack 3：<b>USD 14.99</b>
+  </li><li>
+    一倉庫寶石：<b>USD 49.99</b>
+  </li><li>
+    一車寶石：<b>USD 19.99</b>
+  </li><li>
+    一箱寶石：<b>USD 9.99</b>
+  </li><li>
+    一桶寶石：<b>USD 4.99</b>
+  </li><li>
+    一袋寶石：<b>USD 2.99</b>
+  </li><li>
+    威爾伯：<b>USD 6.99</b>
+  </li><li>
+    怖鹿獅：<b>USD 4.99</b>
+  </li><li>
+    凌 .：<b>USD 4.99</b>
+  </li><li>
+    英雄包 9：<b>USD 7.99</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  "***2015年DICE最佳行動遊戲提名***
+
+最讓人愛不釋手的塔防遊戲，全新冒險前傳重磅回歸——歡迎來到《王國保衛戰：起源》！
+
+《王國保衛戰》系列廣受好評：iPhone, iPod touch與iPad上排名第一的戰略遊戲系列，獲得Apple編輯推薦獎、IGN編輯推薦獎、Slide To Play必玩遊戲、GameInformer金獎、148Apps編輯推薦、Jay is Games年度遊戲獎、Pocket Gamer金獎、CNET最佳iPad遊戲、CNET編輯推薦獎、Gamezebo評分4.5/5、Touch Arcade評分4.5/5、Venturebeat評分94/100。
+
+看看大家怎麼評價《王國保衛戰：起源》：
+
+「《王國保衛戰》系列是最讚的塔防系列遊戲之一，第三部的“起源”還是那麼好玩。」——美國《娛樂周刊》 
+
+「這些年我玩了很多塔防遊戲，但是沒有一款遊戲像《王國保衛戰》系列這樣抓住了我的心。」——The Verge 
+
+「《王國保衛戰：起源》高清版保留了原汁原味的內容，簡直完美。」——148Apps 
+
+「畫面精美，玩法超棒，音樂好聽，還有趣味彩蛋。喜歡塔防遊戲的玩家，一定要下載這一款遊戲。」——TUAW 
+
+「這款讓人沉浸的塔防遊戲，能滿足你所有對新遊戲的期待：新的防禦塔、新的英雄，還有超讚的玩法。」——Kotaku 
+
+「如果你愛好塔防遊戲，你應該熟悉《王國保衛戰》和它的續作《王國保衛戰：前線》。第三部作品現已發佈，沒錯，它就是迄今為止最讚的作品。」——Gamezebo 
+
+《王國保衛戰：起源》是獲獎遊戲《王國保衛戰》冒險系列的第三部作品，受到數百萬玩家的喜愛，贏得全球遊戲玩家和評論的讚賞。在威之難企圖用力量寶石威脅王國之前，踏上回到起點的旅程，體驗更多快如閃電、引人入勝的玩法，一切都使這款作品成為塔防遊戲的重要基石。在這部激動人心的續作中，憑藉全新的防禦塔、英雄和法術，指揮你的精靈軍隊，守護神秘的土地，免受海蛇、邪惡巫師和一大波豺狼部落族人的侵擾，消滅全部壞蛋。
+
+《王國保衛戰：起源》帶來有趣的新內容與功能，同時保留了眾多玩家喜愛的標誌性視覺元素。
+
+遊戲特色 
+· 重返《王國保衛戰》的世界：探訪神秘的精靈森林、神奇的仙境和古城的浮空遺跡！
+· 用全新的防禦塔和部隊釋放精靈的力量！精靈弓箭手、秘法師、石環德魯伊和精靈步兵一起組成軍隊的中堅 
+· 發現具有18種技能的8個新防禦塔特別升級！讓精靈射手、符文巨熊、魔法巫師和精靈巨樹為你消滅敵人。
+· 拿起武器，對抗30種敵人，加入史詩級頭目戰鬥！正面抗擊成群的豺狼人、巨型蜘蛛和可怕的暮光軍隊。
+· 掌控升級16個傳奇英雄和他們強大的力量與法術！
+· 施出雷電，召喚援軍，用每個英雄獨特的力量去消滅大批敵人！
+· 70個成就、新手與老玩家都可選擇3種難度模式，讓你沉浸在快樂的遊戲中。
+· 體驗不同的遊戲模式——經典、鋼鐵和英雄模式——證明自己戰術大師的勇氣。
+· 在升級的地精商店內，用轉去的寶石購買全新升級的裝備。
+· 參考百科全書了解你的敵人和防禦塔"
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/22/67/27/2267277d-f01e-132b-1909-3d236ae36a6e/8a40ca76-529e-47fd-9f21-92aa6939e5de_screenshots_2208x12420043.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/0e/02/e5/0e02e5a8-3a56-2bf7-953a-9340ebfaccb1/9c3d566f-7cc3-4f38-b382-7b67ac8e722f_screenshots_2208x12420044.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/82/a8/d1/82a8d1ec-a5ff-c454-85ee-da42d8b1adbc/63069352-9d76-49d1-8f1b-0060372370e0_screenshots_2208x12420045.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c7/2b/8b/c72b8b95-8eef-291c-1381-a19c4cb85eaa/28b997b6-c78b-463c-9e51-15abcfb83cb5_screenshots_2208x12420046.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/60/c7/42/60c7420e-a271-1fdd-4d9c-36066d129f95/e65f7838-6ea3-4785-adf2-2b8b8165fd48_screenshots_2208x12420047.png/406x228bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Badoo進階版]]></title>
+        <id>Badoo進階版-mo-1750253311174</id>
+        <link href="https://apps.apple.com/mo/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4"/>
+        <updated>2025-06-18T13:28:31.174Z</updated>
+        <summary type="html"><![CDATA[450 Badoo Credits: USD 15.49 → USD 9.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/badoo%E9%80%B2%E9%9A%8E%E7%89%88/id403684733?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/7e/a7/6d7ea75b-14c9-4d44-022c-a61f5a5a22f2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>450 Badoo Credits：</strong><span>USD 15.49</span> → <b>
+  <strong>USD 9.99</strong>
+</b><span>[USD 9.99 ~ USD 15.49]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>USD 2.99</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    1350 Badoo Credits：<b>USD 24.99</b>
+  </li><li>
+    3050 Badoo Credits：<b>USD 49.99</b>
+  </li><li>
+    450 Badoo Credits：<b>USD 9.99</b>
+  </li><li>
+    250 Badoo Credits：<b>USD 4.99</b>
+  </li><li>
+    Lifetime Badoo Premium：<b>USD 79.99</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Badoo是全球最大的約會平台，會員人數過億。全世界每天都有無數人在這裡聊天、約會、交友、調情。目前Badoo尊享服務正在限時優惠中！您可以看到哪些人喜歡您，提升個人檔案，並享受其他特權。
+
+除了 Badoo尊享服務功能外，您還可以：
+- 聊天，調情，認識新朋友 
+- 看看附近的Badoo會員 
+- 定期享受新功能 
+- 放鬆，安全認證讓您不再受到虛假賬號的困擾 
+- 滑動瀏覽個人檔案 
+
+馬上加入，在Badoo找到意中人吧！
+
+費用通過您的iTunes賬號收取。訂閱會自動更新，您可以在已付費期間結束前至少24小時關閉自動更新，也可以在購買後，前往iTunes商店設定關閉自動更新。
+如果您不再購買Badoo尊享服務，仍可以繼續免費使用Badoo。
+
+您的私人資料受到Badoo保護。請參見我們的隱私權政策及條款：
+
+https://www.badoo.com/privacy 
+https://badoo.com/terms
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/4a/bc/d44abc26-c385-72c7-a74c-9a3f755e186a/0_APP_IPHONE_55_0.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ff/37/abff3752-57b3-3984-22bc-30114fa7bb1b/1_APP_IPHONE_55_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/79/9c/dc799c19-cfd1-647c-3029-fed5a25a1834/2_APP_IPHONE_55_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/b4/c7/1db4c791-dd92-d5f8-28e5-dbec2dcad0cf/3_APP_IPHONE_55_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/47/4a/d3474a69-0f28-2b4f-46db-7f2bb7c40228/4_APP_IPHONE_55_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/9a/f1/7f9af1c0-1cb4-9a81-ab67-5ab34d0ab317/5_APP_IPHONE_55_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/8e/4a/028e4ad6-0d0e-a4d4-0619-4a519d19a4ef/0_APP_IPAD_PRO_129_0.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/9f/0a/7c9f0a97-925d-2c36-1388-504c18f0917f/1_APP_IPAD_PRO_129_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/f5/0a/33f50a10-3bef-54af-a851-2706b81402da/2_APP_IPAD_PRO_129_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/38/1b/12381b52-8e13-17b3-105a-a93b1844082b/3_APP_IPAD_PRO_129_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/00/d2/4b00d2af-ec7c-9dd8-59b0-c3072b4a22c9/4_APP_IPAD_PRO_129_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/2c/a7/892ca7bf-46f0-17b0-7f4f-9b2df6fb9745/5_APP_IPAD_PRO_129_5.jpg/576x768bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filebar]]></title>
+        <id>Filebar-mo-1750253311174</id>
+        <link href="https://apps.apple.com/mo/app/filebar/id1558391784?uo=4"/>
+        <updated>2025-06-18T13:28:31.174Z</updated>
+        <summary type="html"><![CDATA[价格: USD 7.99 → 免費<br/>Filebar Pro Lifetime: USD 9.99 → USD 6.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/filebar/id1558391784?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/79/e6/9479e699-87ef-1285-ac81-b9c11e6294df/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>USD 7.99</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ USD 7.99]</span>）
+</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Filebar Pro Lifetime：</strong><span>USD 9.99</span> → <b>
+  <strong>USD 6.99</strong>
+</b><span>[USD 6.99 ~ USD 9.99]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    Filebar Pro Lifetime：<b>USD 6.99</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  # Filebar
+
+Filebar 是一款現代化的多媒體播放器，提供影片播放器、音樂播放器、雲端服務和檔案管理的功能。
+
+## 主要功能
+
+
+### 影片播放器
+
+Filebar 提供了一個強大的視訊播放器，你可以播放更多的視訊格式，包括標準的MP4、M4V 和 MOV，還加上MKV、AVI、WMV、FLV、OMG、OGV、3GP、RMVB等。 您可以瀏覽播放你的mac、pc、NAS、FTP上的視頻，同時還支援播放媒體伺服器 （如Emby 媒體伺服器）上的視頻，您也可以播放來自雲端服務的視頻。
+
+
+### 音樂播放器
+
+Filebar 提供了一個漂亮的本地音樂播放器用來播放本地和雲端音樂，支援的音訊格式有 MP3/M4A/FLAC。
+
+
+### 雲端服務
+
+雲端服務是 Filebar 另一個核心功能，透過 Filebar 你可以方便管理雲端服務，包括 建立資料夾/刪除/播放/批次重新命名/檢視資訊。 同時也提供了遠端協定的支持，支援的協定有 SMB、WebDAV、Synology、FTP、SFTP。
+
+
+### 檔案管理
+
+同時 Filebar 也提供了一個檔案管理器。 您可以管理您的本機與遠端檔案：移動、刪除、編輯、複製、上傳、批次重新命名等等。
+
+
+## 客戶支持
+
+如果您有任何建議或想法，歡迎與我們聯繫。
+
+- 網址：https://fileball.app
+- 郵件：filebox.app@outlook.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b7/3a/4e/b73a4e2d-43d1-369f-b336-4ccb1e77dc52/88ac4568-22e6-42c7-8eae-dff98ba8c6a8_iPhone_SE_3_-HK-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f0/de/69/f0de69c5-9961-d089-90c8-d4dbc21ae541/665229c8-da9a-40d0-808a-e30e70eb4aa5_iPhone_SE_3_-HK-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/74/2f/43742fbf-3ad3-d814-82c4-e7a098c09f8e/8529351c-3cb6-425e-b6c6-06f5007eba0f_iPhone_SE_3_-HK-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/35/5f/48355fa7-01c4-23e6-d131-2af6e667ab85/0f457b74-59ce-4ffc-b35a-753621b278e0_iPhone_SE_3_-HK-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/07/be/d4/07bed410-cffd-2003-03b4-faf03be124f3/aa4c7a70-27ed-4716-8b6f-fc7e3e28dc02_iPhone_SE_3_-HK-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b2/0d/a4/b20da4b6-c399-53d9-e2cd-37d737f965e1/b1d6193a-b1fa-4529-a528-8c9a9119b99d_iPhone_SE_3_-HK-6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/9d/a7/bd9da78f-3b57-8068-bec2-fdc223843862/tns.epyhxcxe.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/98/30/589830c1-3c5b-7ab3-86f0-35ac5195582b/2ef22cfe-224f-47fe-8990-e8de8e24d785_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.17.26.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/30/88/2a30885c-298d-de80-f9d0-473efb7c601e/d83a205e-a272-4f39-963b-7528135be403_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.17.37.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/3e/dd/073eddbf-52bb-a0b0-6b72-ebbad45b577f/64aabad3-cec2-48a5-8c25-770c7ae2d411_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.18.23.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Voice Recorder - Audio Record]]></title>

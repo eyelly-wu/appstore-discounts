@@ -1165,6 +1165,25 @@
     "history": [
       [
         {
+          "timestamp": 1750253311174,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "HAA Link": "HK$ 88.00",
+            "HAA Pro Module": "HK$ 148.00",
+            "SPL Enhance": "HK$ 148.00",
+            "All-In Module Access": "HK$ 88.00",
+            "HAA Upgrade to Pro": "HK$ 2,888.00",
+            "HAA Pro Installer Calibration": "HK$ 3,888.00",
+            "HAA Home Theater": "HK$ 788.00",
+            "Unlock All Tier 5": "HK$ 1,888.00",
+            "Unlock All Tier 7": "HK$ 2,888.00",
+            "Unlock All Tier 4": "HK$ 1,488.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750115513567,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -29687,7 +29706,8 @@
       "至尊闯关基金XI": "HK$ 788.00",
       "首充1元": "HK$ 8.00",
       "闯关基金XII": "HK$ 388.00",
-      "至尊闯关基金XII": "HK$ 788.00"
+      "至尊闯关基金XII": "HK$ 788.00",
+      "首充68元": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -29714,9 +29734,29 @@
       "至尊闯关基金XI": "HK$ 788.00",
       "首充1元": "HK$ 8.00",
       "闯关基金XII": "HK$ 388.00",
-      "至尊闯关基金XII": "HK$ 788.00"
+      "至尊闯关基金XII": "HK$ 788.00",
+      "首充68元": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750253311174,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6480根火柴": "HK$ 788.00",
+            "60根火柴": "HK$ 8.00",
+            "月度礼包": "HK$ 32.00",
+            "180根火柴": "HK$ 22.00",
+            "980根火柴": "HK$ 118.00",
+            "首充1元": "HK$ 8.00",
+            "1元礼包": "HK$ 8.00",
+            "1元首充礼包": "HK$ 8.00",
+            "500根火柴": "HK$ 58.00",
+            "首充68元": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750115513567,
@@ -37842,6 +37882,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750253311174,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1750245088537,
           "price": 22,
@@ -60366,6 +60423,16 @@
     "history": [
       [
         {
+          "timestamp": 1750253311174,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750151670232,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -72785,6 +72852,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750253311174,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "群雄爭霸": "HK$ 18.00",
+            "自創武將": "HK$ 32.00",
+            "自創武將朝代特色兵種補丁": "HK$ 32.00",
+            "自創武將朝代服裝發飾素材補丁": "HK$ 32.00",
+            "江山美人": "HK$ 18.00",
+            "自創地圖": "HK$ 32.00",
+            "終身版": "HK$ 58.00",
+            "戰國七雄": "HK$ 32.00",
+            "楚漢爭霸": "HK$ 32.00",
+            "巾幗綻芳華": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1750208520900,
           "price": 0,
