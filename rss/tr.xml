@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-18T13:50:09.341Z</updated>
+    <updated>2025-06-18T16:27:31.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-18T13:50:09.341Z</updated>
+        <updated>2025-06-18T16:27:31.467Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrWed, 18 Jun 2025 13:50:09 GMT</id>
+        <id>rankingtrWed, 18 Jun 2025 16:27:31 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-18T13:50:09.341Z</updated>
+        <updated>2025-06-18T16:27:31.467Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -451,14 +451,20 @@ feedId:157008924688563200+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id646256209">Photo Eraser for iPhone</a>
+        <a href="https://apps.apple.com/tr/app/id519561306">ATracker PRO Time Tracker</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Web portal subscription</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -468,7 +474,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id703265535">FocusDots · Focus What Matters</a>
+        <a href="https://apps.apple.com/tr/app/id646256209">Photo Eraser for iPhone</a>
       </td>
       <td>
         <ul>
@@ -485,7 +491,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
+        <a href="https://apps.apple.com/tr/app/id703265535">FocusDots · Focus What Matters</a>
       </td>
       <td>
         <ul>
@@ -502,7 +508,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id936694037">Voice Recorder - Audio Record</a>
+        <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
       </td>
       <td>
         <ul>
@@ -519,7 +525,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1012298403">Don't Starve: Pocket Edition</a>
+        <a href="https://apps.apple.com/tr/app/id936694037">Voice Recorder - Audio Record</a>
       </td>
       <td>
         <ul>
@@ -534,6 +540,23 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>22</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1012298403">Don't Starve: Pocket Edition</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1067198688">彩云天气Pro</a>
@@ -556,7 +579,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1094038347">Only You Are Here</a>
@@ -583,7 +606,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1108032375">Rise of the Tomb Raider™</a>
@@ -600,7 +623,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -617,7 +640,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1198176727">Controller for HomeKit</a>
@@ -640,7 +663,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1230231705">The Witness</a>
@@ -657,7 +680,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1304822713">Infinity Tank Battle</a>
@@ -674,7 +697,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
@@ -697,7 +720,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -714,7 +737,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439569401">Shadow of the Tomb Raider</a>
@@ -731,7 +754,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439886655">Cultist Simulator</a>
@@ -748,7 +771,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1449893235">Earthquake Network</a>
@@ -765,7 +788,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1453820315">This Is the Police 2</a>
@@ -782,7 +805,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1453875289">Hyper Light Drifter</a>
@@ -799,7 +822,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1482339363">iScore5 APHG</a>
@@ -816,7 +839,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1519571900">Luwian</a>
@@ -833,7 +856,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -850,7 +873,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1523146826">Everybody's RPG: Reboot</a>
@@ -867,7 +890,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1558391784">Filebar - media player</a>
@@ -890,7 +913,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1576521142">SOULVARS</a>
@@ -907,7 +930,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1601194499">DRAGON QUEST BUILDERS</a>
@@ -924,7 +947,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1610668825">FyTube - YouTube Without Ads</a>
@@ -941,7 +964,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1640627334">Resident Evil Village for Mac</a>
@@ -968,7 +991,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1642715290">Little Big Workshop</a>
@@ -985,7 +1008,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1659271912">Train Dispatcher!2</a>
@@ -1002,7 +1025,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6450980545">Resident Evil Village</a>
@@ -1031,7 +1054,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6462360082">Resident Evil 4</a>
@@ -1062,7 +1085,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -1079,7 +1102,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -1096,7 +1119,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -1113,7 +1136,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -1130,7 +1153,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6456751953">ChatTan - AI Bot</a>
@@ -1289,6 +1312,92 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATracker PRO Time Tracker]]></title>
+        <id>ATracker PRO Time Tracker-tr-1750263350775</id>
+        <link href="https://apps.apple.com/tr/app/atracker-pro-time-tracker/id519561306?uo=4"/>
+        <updated>2025-06-18T16:15:50.775Z</updated>
+        <summary type="html"><![CDATA[Web portal subscription: ₺92,99 → ₺10,49]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/atracker-pro-time-tracker/id519561306?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/13/56/f0135639-9156-debd-7250-eccb0f9380da/ATrackerPROAppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Web portal subscription：</strong><span>₺92,99</span> → <b>
+  <strong>₺10,49</strong>
+</b><span>[₺10,49 ~ ₺92,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺229,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Web portal subscription：<b>₺10,49</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Life is precious and so is your time. And keeping that in mind, ATracker is here to help you achieve more of your goals, build a sustainable habit, and boost your productivity to a new height.
+
+ATracker is a simple yet very powerful time tracking app and productivity tool that allows you to use it with minimal setup. Having a track of your precious time has never been easier with our one-tap to start/stop time tracking. As the leading time tracking app, ATracker also offers bar or pie charts showcasing where your time went.
+
+Lots of features for self-development 
+The fully customizable user interface allows you to turn this habit tracker into your own. The tracking app also comes with the option of categorizing tasks with tags; data export; sync data between multiple devices for the shortest path towards self-improvement and the perfect boost of productivity.
+
+It's a fresh way to organize your day and make the most out of it … with just a few taps.
+
+SCOPE
+
+ATracker is a clean and minimalistic approach to,
+•	Track time of different tasks and projects at work
+•	Track time of School studies and projects
+•	Track time of Exercises
+•	Track time of Socializing
+•	Track time of Homemaking tasks
+•	Track time of Baby or child daily activities
+•	Hobby projects
+•	Or any activity people want to track and control
+
+We believe that time tracking should be effortless. 
+
+Here are some of the key features ATracker offers
+
+•	Start and stop tracking a task with just one tap.
+•	Overview of today's time spending on the Today tab.
+•	Interactive goal system for self-improvement.
+•	Complete activity log. Show activities on any given date. Add missed or modify existing activity.
+•	Customization of activities with hundreds of unique icons to choose from. You can also color code the activities for a personalized time tracking experience. 
+•	Ability to keep notes for each task entry.
+•	Statistics showed in bar charts and pie charts.
+•	Group tasks by tags and allow users to filter tasks by tag on the Today tab, as well as aggregate the data by tag in reporting.
+•	The activity timer does not stop even when the application is not running, or your mobile is in sleep mode.
+•	Set alarm for activities. The alarm will sound even when the app is not running.
+•	Widget to see your data on-screen at all times.
+•	Gesture support
+•	Full customization of UI with more skins and allow the user to use their own image as background.
+
+PRO FEATURES 
+
+With an only one-time investment, you will get to enjoy,
+- No Ads.
+- Unlimited tasks
+- Data export with PDF and CSV file.
+- Able to keep notes for each task entry. 
+- Full customization of UI with more skins and allow user to use own image as background.
+
+WEB SUBSCRIPTION
+With web subscription, ATracker supports sync across multiple devices. It also provides web access to ATracker services besides the app. This add-on is optional.
+• ATracker subscriptions purchased in-app renew monthly or yearly depending on your plan. Plan pricing may vary by country.
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+
+SUPPORT
+Visit https://support.wonderapps.se or contact us at support@wonderapps.se
+Terms of Service: https://atracker.pro/atracker_TOS.html
+Privacy Policy: https://atracker.pro/atracker_policy.html
+
+Life is precious and so is your Time. So, stop wasting your time and organize your life the right way NOW.
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Filebar - media player]]></title>

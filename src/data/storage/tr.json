@@ -9409,9 +9409,19 @@
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99",
-      "Web portal subscription": "₺92,99"
+      "Web portal subscription": "₺10,49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750263350775,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Web portal subscription": "₺10,49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746766943792,
