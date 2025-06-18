@@ -13661,6 +13661,25 @@
     "history": [
       [
         {
+          "timestamp": 1750234674826,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Kids Favs Bundle": "USD 5.99",
+            "Animation Bundle Sale": "USD 4.99",
+            "Animated Movies Deck": "USD 1.99",
+            "Animation Bundle": "USD 5.99",
+            "Kids Favs Bundle Sale": "USD 4.99",
+            "Around The World Bundle": "USD 6.99",
+            "Travel Essentials Deck": "USD 1.99",
+            "Around The World Bundle Sale": "USD 5.99",
+            "90s And 00s Cartoons Deck": "USD 1.99",
+            "Kids Family Bundle BYOD": "USD 6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748473340151,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -19430,6 +19449,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750234674826,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749055417533,
