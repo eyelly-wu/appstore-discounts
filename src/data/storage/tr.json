@@ -3385,6 +3385,21 @@
     "history": [
       [
         {
+          "timestamp": 1750270663987,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Pack of 100 Credits": "₺99,99",
+            "Pack of 550 Credits": "₺229,99",
+            "Badoo Premium": "₺15,99",
+            "Super Powers": "₺23,99",
+            "Premium": "₺19,99",
+            "Pack of 3050 Credits": "₺299,99",
+            "Pack of 1250 Credits": "₺449,99",
+            "Pack of 2750 Credits": "₺449,99"
+          }
+        },
+        {
           "timestamp": 1750266783708,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -61214,7 +61229,8 @@
       "月度高级订阅": "₺99,99",
       "年度高级订阅": "₺229,99",
       "Annual Premium Subscription": "₺229,99",
-      "Monthly Premium Subscription": "₺99,99"
+      "Monthly Premium Subscription": "₺99,99",
+      "TuneShift Lifetime Membership": "₺349,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -61225,9 +61241,22 @@
       "月度高级订阅": "₺99,99",
       "年度高级订阅": "₺229,99",
       "Annual Premium Subscription": "₺179,99",
-      "Monthly Premium Subscription": "₺99,99"
+      "Monthly Premium Subscription": "₺99,99",
+      "TuneShift Lifetime Membership": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750270663987,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Premium Subscription": "₺99,99",
+            "Annual Premium Subscription": "₺179,99",
+            "TuneShift Lifetime Membership": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750097888934,

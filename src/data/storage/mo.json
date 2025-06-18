@@ -58882,7 +58882,8 @@
       "月度高级订阅": "USD 1.99",
       "年度高级订阅": "USD 4.99",
       "Annual Premium Subscription": "USD 3.99",
-      "月度高級訂閱": "USD 1.99"
+      "月度高級訂閱": "USD 1.99",
+      "TuneShift Lifetime Membership": "USD 7.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -58893,9 +58894,22 @@
       "月度高级订阅": "USD 1.99",
       "年度高级订阅": "USD 3.99",
       "Annual Premium Subscription": "USD 3.99",
-      "月度高級訂閱": "USD 1.99"
+      "月度高級訂閱": "USD 1.99",
+      "TuneShift Lifetime Membership": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750270663987,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高級訂閱": "USD 1.99",
+            "Annual Premium Subscription": "USD 3.99",
+            "TuneShift Lifetime Membership": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750097888934,
