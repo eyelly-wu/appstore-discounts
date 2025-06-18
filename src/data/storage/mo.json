@@ -13661,6 +13661,23 @@
     "history": [
       [
         {
+          "timestamp": 1750238050082,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Just For Kids": "USD 0.00",
+            "Mix It Up": "USD 0.00",
+            "Happy Holidays": "USD 1.99",
+            "Build Your Own Deck": "USD 2.99",
+            "Super Heroes": "USD 1.99",
+            "The Ellen Show": "USD 0.00",
+            "Panda Express": "USD 1.99",
+            "Ocean Vacation": "USD 0.00",
+            "Express Yourself": "USD 1.99",
+            "Adult Supervision": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1750234674826,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -57498,7 +57515,7 @@
     ]
   },
   "6463616555": {
-    "name": "Ticket to Ride® The Board Game",
+    "name": "Ticket to Ride®",
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "USD 4.99",
