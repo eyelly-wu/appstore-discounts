@@ -1640,6 +1640,25 @@
     "history": [
       [
         {
+          "timestamp": 1750208520900,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "SPL Pro Module": "$7.99",
+            "SoundScope VR": "$24.99",
+            "SPL Graph Module": "$9.99",
+            "Polarity Test Module": "$3.99",
+            "ETC Module": "$5.99",
+            "SPL Traffic Light": "$9.99",
+            "Speaker Distortion": "$5.99",
+            "VU Meter": "$2.99",
+            "IR Module": "$49.99",
+            "All-In Module Access": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750047944322,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -38140,7 +38159,8 @@
       "Super Tip": "$4.99",
       "The Ultimate Tip": "$54.99",
       "Super Mega Smashing Tip": "$30.99",
-      "Super Smashing Tip": "$16.99"
+      "Super Smashing Tip": "$16.99",
+      "Large Tip": "$3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -38156,9 +38176,29 @@
       "Super Tip": "$4.99",
       "The Ultimate Tip": "$54.99",
       "Super Mega Smashing Tip": "$30.99",
-      "Super Smashing Tip": "$16.99"
+      "Super Smashing Tip": "$16.99",
+      "Large Tip": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750208520900,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Micro Tip": "$0.99",
+            "Small Tip": "$0.99",
+            "Medium Tip": "$1.99",
+            "Large Tip": "$3.99",
+            "Super Tip": "$4.99",
+            "Mega Tip": "$5.99",
+            "Super Mega Tip": "$9.99",
+            "Super Smashing Tip": "$16.99",
+            "Super Mega Smashing Tip": "$30.99",
+            "The Ultimate Tip": "$54.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749443075326,
@@ -64482,6 +64522,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750208520900,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "Tales of Valor": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "High-Quality Models": "$0.00",
+            "4 vs 4 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        },
         {
           "timestamp": 1750201926797,
           "price": 19.99,
