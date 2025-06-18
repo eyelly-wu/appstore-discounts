@@ -16529,14 +16529,22 @@
   "954982733": {
     "name": "Tuner T1 Pro",
     "maxPriceInfo": {
-      "price": 28,
-      "formattedPrice": "¥28.00"
+      "price": 38,
+      "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750255981109,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747846942060,
@@ -39580,6 +39588,22 @@
     "history": [
       [
         {
+          "timestamp": 1750255981109,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "每日英语听力VIP订阅": "¥88.00",
+            "《每日外刊》订阅": "¥63.00",
+            "长期VIP权限": "¥298.00",
+            "一年VIP权限": "¥128.00",
+            "《小王子》": "¥40.00",
+            "《了不起的盖茨比》": "¥40.00",
+            "推倒一切，重学英语": "¥98.00",
+            "《英语四级真题精品课》": "¥60.00",
+            "60天打造流利口语": "¥98.00"
+          }
+        },
+        {
           "timestamp": 1750253311174,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -43504,6 +43528,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750255981109,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747749745453,
@@ -54929,6 +54961,18 @@
     "history": [
       [
         {
+          "timestamp": 1750255981109,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "扩展内容《倩影萍踪》": "¥8.00",
+            "扩展内容《一统江湖》": "¥6.00",
+            "扩展内容《新颜绘梦》": "¥9.90"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746799336853,
           "price": 25,
           "formattedPrice": "¥25.00",
@@ -57070,6 +57114,14 @@
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750255981109,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746453743410,
