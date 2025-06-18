@@ -5751,6 +5751,7 @@ export const part1AppConfig: AppConfig[] = [
       us: 'The Game of Life 2',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1515215584,
@@ -6925,6 +6926,7 @@ export const part1AppConfig: AppConfig[] = [
   {
     id: 1444383602,
     name: 'Goodnotes 6',
+    allowNotification: false,
   },
   {
     id: 1473785373,
