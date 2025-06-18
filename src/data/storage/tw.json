@@ -4262,6 +4262,17 @@
     "history": [
       [
         {
+          "timestamp": 1750245088537,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Premium": "$360.00",
+            "Super Powers": "$360.00",
+            "Pack of 100 Credits": "$90.00",
+            "Pack of 550 Credits": "$390.00"
+          }
+        },
+        {
           "timestamp": 1750241623540,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -6672,6 +6683,27 @@
             "GOLD BAT": "$490.00",
             "Called Shot 50": "$320.00"
           }
+        }
+      ]
+    ]
+  },
+  "454679700": {
+    "name": "百貨公司物語",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750245088537,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -11784,6 +11816,25 @@
       "Strategic Fundraiser": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750245088537,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Procurement Director": "$30.00",
+            "Disaster Manager": "$30.00",
+            "Medical Coordinator": "$30.00",
+            "Ethics Watchdog": "$30.00",
+            "Chaos Engineer": "$30.00",
+            "Economic Forecaster": "$30.00",
+            "Situation Director": "$30.00",
+            "Outreach Coordinator": "$30.00",
+            "Fast Response EMTs": "$30.00",
+            "Strategic Fundraiser": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749920995136,
@@ -16929,6 +16980,25 @@
       "Wish You Were Here": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750245088537,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Kids Favs Bundle": "$190.00",
+            "Animation Bundle Sale": "$150.00",
+            "Animated Movies Deck": "$60.00",
+            "Animation Bundle": "$190.00",
+            "Kids Favs Bundle Sale": "$150.00",
+            "Around The World Bundle": "$220.00",
+            "Travel Essentials Deck": "$60.00",
+            "Around The World Bundle Sale": "$190.00",
+            "90s And 00s Cartoons Deck": "$60.00",
+            "Kids Family Bundle BYOD": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749920995136,
@@ -22205,6 +22275,25 @@
     "history": [
       [
         {
+          "timestamp": 1750245088537,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Big Hero Pack 3": "$490.00",
+            "一倉庫寶石": "$1,490.00",
+            "一車寶石": "$690.00",
+            "一箱寶石": "$320.00",
+            "一桶寶石": "$150.00",
+            "一袋寶石": "$90.00",
+            "威爾伯": "$220.00",
+            "怖鹿獅": "$150.00",
+            "凌 .": "$150.00",
+            "英雄包 9": "$290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749096403951,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -23044,6 +23133,17 @@
       "GOLD": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750245088537,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "PLUS": "$150.00",
+            "GOLD": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746982927984,

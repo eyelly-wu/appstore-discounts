@@ -7748,6 +7748,27 @@
       ]
     ]
   },
+  "454679700": {
+    "name": "百貨公司物語",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750245088537,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "456637671": {
     "name": "安全監控照片+視頻Pro",
     "maxPriceInfo": {
@@ -28024,6 +28045,19 @@
     "history": [
       [
         {
+          "timestamp": 1750245088537,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "特別禮包": "HK$ 38.00",
+            "英雄鐵甲馬克": "HK$ 58.00",
+            "英雄藍色飛龍": "HK$ 58.00",
+            "英雄超能博士": "HK$ 38.00",
+            "英雄桂英": "HK$ 22.00",
+            "英雄命運女俠": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1750241623540,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -37807,6 +37841,25 @@
       "Geometric Frame Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750245088537,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Design Frame Package": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Geometric Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Upgrade Deluxe Edition": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749529299346,
