@@ -4232,7 +4232,12 @@
       "3050 Badoo Credits": "$1,490.00",
       "450 Badoo Credits": "$320.00",
       "250 Badoo Credits": "$150.00",
-      "Lifetime Badoo Premium": "$2,490.00"
+      "Lifetime Badoo Premium": "$2,490.00",
+      "rise up to first place": "$60.00",
+      "Contacts limit increase": "$60.00",
+      "Voting limit increase": "$60.00",
+      "Activate Super Powers - 1 month": "$290.00",
+      "Activate Super Powers - 3 months": "$590.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -4247,10 +4252,27 @@
       "3050 Badoo Credits": "$1,490.00",
       "450 Badoo Credits": "$320.00",
       "250 Badoo Credits": "$150.00",
-      "Lifetime Badoo Premium": "$2,490.00"
+      "Lifetime Badoo Premium": "$2,490.00",
+      "rise up to first place": "$60.00",
+      "Contacts limit increase": "$60.00",
+      "Voting limit increase": "$60.00",
+      "Activate Super Powers - 1 month": "$290.00",
+      "Activate Super Powers - 3 months": "$590.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1750241623540,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "rise up to first place": "$60.00",
+            "Contacts limit increase": "$60.00",
+            "Voting limit increase": "$60.00",
+            "Activate Super Powers - 1 month": "$290.00",
+            "Activate Super Powers - 3 months": "$590.00"
+          }
+        },
         {
           "timestamp": 1750220509876,
           "price": 90,
