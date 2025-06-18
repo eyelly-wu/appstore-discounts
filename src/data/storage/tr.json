@@ -22452,10 +22452,18 @@
       "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750288345127,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746399731721,
@@ -35810,6 +35818,19 @@
     "history": [
       [
         {
+          "timestamp": 1750288345127,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Classic DLC Pack": "₺129,99",
+            "Retro Expansion Pack": "₺129,99",
+            "Gravel Track Pack": "₺129,99",
+            "Live Event Service": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745449345686,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -46007,6 +46028,14 @@
     "history": [
       [
         {
+          "timestamp": 1750288345127,
+          "price": 11.99,
+          "formattedPrice": "₺11,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747782130934,
           "price": 29.99,
           "formattedPrice": "₺29,99",
@@ -46042,6 +46071,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750288345127,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747782130934,
@@ -50126,8 +50163,8 @@
       "Reckless Car Pack": "₺129,99"
     },
     "minPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99",
+      "price": 11.99,
+      "formattedPrice": "₺11,99",
       "Content Bundle 1": "₺449,99",
       "Getaway Car Pack": "₺129,99",
       "Modified Monsters Car Pack": "₺129,99",
@@ -50141,6 +50178,25 @@
       "Reckless Car Pack": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750288345127,
+          "price": 11.99,
+          "formattedPrice": "₺11,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺449,99",
+            "Getaway Car Pack": "₺129,99",
+            "Content Bundle 2": "₺349,99",
+            "Modified Monsters Car Pack": "₺129,99",
+            "Steel & Wheels Pack": "₺99,99",
+            "Off-Road Car Pack": "₺129,99",
+            "Racing Heroes Car Pack": "₺129,99",
+            "American All-Stars Car Pack": "₺129,99",
+            "Rusty Rats Car Pack": "₺129,99",
+            "Goofy Roofs Pack": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750111941150,
