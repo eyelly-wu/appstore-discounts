@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-19T01:24:02.767Z</updated>
+    <updated>2025-06-19T03:34:14.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-19T01:24:02.768Z</updated>
+        <updated>2025-06-19T03:34:14.669Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 19 Jun 2025 01:24:02 GMT</id>
+        <id>rankingcnThu, 19 Jun 2025 03:34:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-19T01:24:02.769Z</updated>
+        <updated>2025-06-19T03:34:14.670Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1148</b>
+        <b>1149</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>947</b>
+        <b>948</b>
       </td>
       <td>
         <b>16</b>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>627</b>
+        <b>628</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>465</b>
+        <b>466</b>
       </td>
       <td>
         <b>13</b>
@@ -193,6 +193,31 @@ feedId:157007849019630592+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>超大英雄组合包</i>：<b>3</b>
+              </li><li>
+                <i>限时特惠</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
       </td>
       <td>
@@ -213,7 +238,32 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id319295332">TuneIn Radio Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>TuneIn Premium Pro</i>：<b>1</b>
+              </li><li>
+                <i>TuneIn Premium</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
@@ -236,32 +286,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>超大英雄组合包</i>：<b>2</b>
-              </li><li>
-                <i>限时特惠</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
@@ -272,29 +297,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>总次数</span>：<b>2</b>
           </li><li>
             <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>9</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id319295332">TuneIn Radio Pro</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>TuneIn Premium Pro</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -819,6 +821,45 @@ feedId:157007849019630592+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>38</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6550914957">打造世界-经典沙盒建造</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>DLC：英雄对决</i>：<b>1</b>
+              </li><li>
+                <i>DLC：怪物联盟</i>：<b>1</b>
+              </li><li>
+                <i>DLC：龙之神庙</i>：<b>1</b>
+              </li><li>
+                <i>DLC：贪婪洞窟</i>：<b>1</b>
+              </li><li>
+                <i>DLC：异界</i>：<b>1</b>
+              </li><li>
+                <i>DLC：外星入侵</i>：<b>1</b>
+              </li><li>
+                <i>DLC：邪恶之心</i>：<b>1</b>
+              </li><li>
+                <i>奇境森林</i>：<b>1</b>
+              </li><li>
+                <i>DLC：孤山世界</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -948,6 +989,251 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TuneIn Radio Pro]]></title>
+        <id>TuneIn Radio Pro-cn-1750302768824</id>
+        <link href="https://apps.apple.com/cn/app/tunein-radio-pro/id319295332?uo=4"/>
+        <updated>2025-06-19T03:12:48.824Z</updated>
+        <summary type="html"><![CDATA[TuneIn Premium: ¥518.00 → ¥73.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/tunein-radio-pro/id319295332?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/a0/46/87a046a2-29d0-b426-b3a2-b6f87c0b3009/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>TuneIn Premium：</strong><span>¥518.00</span> → <b>
+  <strong>¥73.00</strong>
+</b><span>[¥73.00 ~ ¥518.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥68.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    TuneIn Premium：<b>¥73.00</b>
+  </li><li>
+    TuneIn Premium Pro：<b>¥728.00</b>
+  </li><li>
+    TuneIn Premium (Pro)：<b>¥50.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  体育电台音乐电台新闻电台谈话电台
+
+TuneIn是真实的广播电台，集全世界最全的体育、新闻、音乐和谈话电台。
+
+只需动动手指，即可访问世界上最大的实时、点播和原创音频库，聆听最重要的讯息，发现那些动人的瞬间。
+
+通过体育实况、独家音乐频道、最具时效性的新闻、全球超过 570 万个播客和超过 100,000 个广播电台，随时拨动您的神经。
+
+TuneIn Premium 用户可以收听 NHL、Fox News Radio 的无广告新闻，以及各种不间断的无广告音乐电台。
+
+下载 TuneIn 的 5 大理由：
+
+1.不会错过任何一场体育赛事，
+在工作、居家、健身以及赶路时，皆可收听。实时收听和点播每一场 MLB 和 NHL 赛事报道以及体育漫谈– ，随时随地进入体育世界。
+
+2.海量音乐
+这里不仅仅有著名 DJ、时尚先锋和特邀嘉宾策划的独家音乐电台。发现每个流派的最佳新歌和艺术家，以及您最喜欢的所有歌曲和艺术家。
+
+3.视角独特的爆炸性新闻
+收听地方、全国以及全球 24 小时实时新闻播报。通过 TuneIn Premium 收听完全没有广告的 Fox News。
+
+4.所有您喜爱的播客
+从高居榜首的节目到新发现的优秀节目，让自己沉浸在谈话类节目中。关注经典节目，探索最受欢迎的热门歌曲，如 The Rachel Maddow 的 Bag Man、The Joe Rogan Experience 和 The Economist。
+
+5.世界上最强大的电台
+您的调频收音机望尘莫及！播放世界各地的 100,000+ AM、FM 和网络电台的节目。目前流行于 [ ]:[ ]。
+
+不仅仅是在iPhone 上大行其道
+TuneIn 可以在 200 个平台和设备上免费使用。在健身时，通过 Apple Watch 播放音乐。点击 TuneIn for CarPlay ，在驾车回家的路上对接车载系统。通过 Google Home、Amazon Echo 和 Alexa 让播客常伴左右。
+
+
+升级到 TuneIn Premium ，获得最佳体验
+• 无广告音乐
+• 无广告新闻
+• 当日最佳播客
+• 100,000 个电台
+
+
+通过应用程序订阅 TuneIn Radio Premium。如果您选择订阅，将根据您所在的国家/地区按月收取订阅费。订阅费将显示在应用程序中，直至完成付款。每月将会按照实时的订阅费进行自动续订，除非提前 24 小时关闭自动续订。系统将会在当前订阅期结束时，提前24小时通过您的 iTunes 帐户自动扣费。订阅费将按月收取。通过 iTunes 帐户设置，可以随时关闭自动续订。
+
+隐私政策：http://tunein.com/policies/privacy/
+使用条款：http://tunein.com/policies/
+
+TuneIn 使用 Nielsen测量软件，帮助进行市场研究，如Nielsen的电视收视率。关于 Neilsen 产品的更多信息及您的隐私，欢迎访问http://www.nielsen.com/digitalprivacy for more information。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/bc/f1/c1/bcf1c174-19aa-af66-2550-09968b76e86f/5a3331bb-6c9f-4902-a2b3-77dcc9215a6f_CN_8_news.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b5/b5/e1/b5b5e12c-dbf9-82b9-75c0-db71db675f7e/625c32c6-b603-4c87-babb-4fe51497b1fe_CN_8_radio.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/12/e3/2d/12e32da3-b8f4-d5e8-73dd-9c96634c1df5/b62d8759-99bd-452a-a631-68532dfe1b50_CN_8_music.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d7/44/f3/d744f39a-cd44-daab-671d-535184443930/ee5123e1-b9bd-44a6-a8b1-32d492b8cb53_ASO_TuneIn_iPhone8plus_07.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/29/6c/3c/296c3cbd-c251-3a9f-8f02-9246e5f04634/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/93/f5/56/93f5560a-9ec0-d3bb-61d2-bacbd6b1e95d/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d4/92/9b/d4929b97-f9eb-f9a2-bb3f-66a4a4f43cde/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/05/f9/7e/05f97e61-b28f-bf26-393b-a9a4ff1a934d/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/93/d9/e8/93d9e838-b302-3145-a1a6-cad6c350b6e6/pr_source.png/480x360bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王国保卫战4]]></title>
+        <id>王国保卫战4-cn-1750302768824</id>
+        <link href="https://apps.apple.com/cn/app/%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%984/id6444782083?uo=4"/>
+        <updated>2025-06-19T03:12:48.824Z</updated>
+        <summary type="html"><![CDATA[超大英雄组合包: ¥148.00 → ¥128.00<br/>限时特惠: ¥148.00 → ¥22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%984/id6444782083?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/b2/62/37b26252-e809-0016-eb2a-165c7911bf07/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>超大英雄组合包：</strong><span>¥148.00</span> → <b>
+  <strong>¥128.00</strong>
+</b><span>[¥128.00 ~ ¥148.00]</span>
+  </li><li>
+    <strong>限时特惠：</strong><span>¥148.00</span> → <b>
+  <strong>¥22.00</strong>
+</b><span>[¥22.00 ~ ¥148.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥30.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    超大防御塔组合包：<b>¥98.00</b>
+  </li><li>
+    哈默霍尔德战役！：<b>¥58.00</b>
+  </li><li>
+    海盗之王战役：<b>¥58.00</b>
+  </li><li>
+    超大英雄组合包：<b>¥128.00</b>
+  </li><li>
+    英雄 艾斯酷特：<b>¥38.00</b>
+  </li><li>
+    英雄 电云：<b>¥38.00</b>
+  </li><li>
+    英雄 贝雷萨德：<b>¥48.00</b>
+  </li><li>
+    限时特惠：<b>¥22.00</b>
+  </li><li>
+    防御塔 火光祭坛：<b>¥22.00</b>
+  </li><li>
+    防御塔 少林寺：<b>¥22.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  ===铁皮公司正版授权===
+===中国地区正式回归===
+
+战无不胜的巫师维兹南再度登场！踏上这场史诗之旅，组建军队，履行他那阴险的计划吧……哇哈哈。做好准备，让王国境内的臣民见识见识谁才是真正的老大！你将一路浴血奋战，征服新旧疆土，迎战各大帝国的劲敌，与强悍绝伦的BOSS们展开死斗——一切尽在这款充满幽默与史诗感的经典塔防游戏！
+
+游戏特色
+
+- 新增22种防御塔，每种都自带独一无二的特殊能力。
+- 你可以随心所欲挑选防御塔，打造出最具杀伤力的组合，阻拦敌人进军的步伐！
+- 42道挑战关卡，遍布三座大陆， 只等你来征服！
+- 17位骁勇善战的英雄任你发号施令，绝无一丝犹豫。
+- 超过60种强力敌人，让你绞尽脑汁，调动一切战术才能克敌制胜。
+- 在传奇般的BOSS战中打倒7位不可一世的敌人，保卫你的王国！
+- 新能力、新援军，帮你力克强敌。
+- 10多种饰品和器具，让你再多几成胜算。
+- 30种升级选择，让你的军队将潜力发挥得淋漓尽致。
+- 60多种成就、隐藏秘密和好玩的东西等你来探索！
+- 黑暗塔里没 Wi-Fi？别担心，离线玩就好！
+
+维兹南领主的最新动态：
+https://www.kingdomrushvengeance.com/
+
+使用条款：
+https://www.ironhidegames.com/TermsOfService
+
+隐私政策：
+https://www.ironhidegames.com/PrivacyPolicy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/f3/a0/1bf3a00f-986b-8a65-efae-57f9e70c780e/24c367e5-9847-4415-ad28-ed597679884a_KRV_Pirate-screenshots_iPhone-5.5_Simplified-chinese-0000.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/bd/c2/62bdc250-33ce-b6f9-9e07-27d214bcb417/509049e9-847f-472f-8b28-edbc2ed0e3ca_zh_Hans_iPhone_00.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ec/48/44ec4864-558b-6720-46e4-7a176c718fc0/99eeab76-5160-46c9-9bbb-193390b86116_02.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/77/ed/a577ed91-1622-08b2-d6ab-b4ccc1396ec5/d483bc57-95e1-44c3-b6d5-c8823673abcf_zh_Hans_iPhone_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/af/56/c4af566c-89db-ceb5-aa7c-7db736ac8dab/7131d8eb-0bbe-4afe-ab27-da91482e04be_zh_Hans_iPhone_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/79/0f/62790fd5-ab7d-c2a8-c06a-5a2d1b8d8ef0/d93da903-fd95-4283-96aa-cbad8a9e0fad_zh_Hans_iPhone_04.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/0a/cb/5d0acbfa-581a-1c48-3017-3a2d107690a8/26908417-e1e1-4a71-96b3-ab40ea37ba59_KRV_Pirates-screenshots_4_3_new_Simplified-chinese-0000.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/c6/a4/f8c6a451-db0f-5905-0783-aaf780e063bd/09572487-e349-4e4f-ba11-15035de048c8_zh_Hans_iPad_00.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/72/ad/c772ad26-0391-a273-1bf5-086134b19fe4/5fda9de3-1f79-4a57-9280-70270064d81c_02.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/47/bf/e947bf2f-a3f3-9857-dec6-c0085fbe7db2/17ef0e21-a96d-4d68-8d1a-a52279fbefe1_zh_Hans_iPad_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/e2/f9/eae2f9b2-8175-d331-c320-acf33e62bb4f/3c4bc1b2-9fe5-4ca9-b4ac-2ed35e3ccaed_zh_Hans_iPad_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/0a/1a/cf0a1a49-62f1-c8fc-9858-682287e1e4db/bc7a8ebe-9cff-4a72-bd95-d75b8d605039_zh_Hans_iPad_04.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打造世界-经典沙盒建造]]></title>
+        <id>打造世界-经典沙盒建造-cn-1750302768824</id>
+        <link href="https://apps.apple.com/cn/app/%E6%89%93%E9%80%A0%E4%B8%96%E7%95%8C-%E7%BB%8F%E5%85%B8%E6%B2%99%E7%9B%92%E5%BB%BA%E9%80%A0/id6550914957?uo=4"/>
+        <updated>2025-06-19T03:12:48.824Z</updated>
+        <summary type="html"><![CDATA[DLC：英雄对决: ¥8.00 → ¥6.00<br/>DLC：怪物联盟: ¥12.00 → ¥9.00<br/>DLC：龙之神庙: ¥9.00 → ¥7.00<br/>DLC：贪婪洞窟: ¥6.00 → ¥4.00<br/>DLC：异界: ¥8.00 → ¥6.00<br/>DLC：外星入侵: ¥8.00 → ¥6.00<br/>DLC：邪恶之心: ¥12.00 → ¥9.00<br/>奇境森林: ¥15.00 → ¥13.00<br/>DLC：孤山世界: ¥12.00 → ¥9.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%93%E9%80%A0%E4%B8%96%E7%95%8C-%E7%BB%8F%E5%85%B8%E6%B2%99%E7%9B%92%E5%BB%BA%E9%80%A0/id6550914957?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/da/13/63da13de-f588-8ae2-54c2-5b482baf422f/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>DLC：英雄对决：</strong><span>¥8.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥8.00]</span>
+  </li><li>
+    <strong>DLC：怪物联盟：</strong><span>¥12.00</span> → <b>
+  <strong>¥9.00</strong>
+</b><span>[¥9.00 ~ ¥12.00]</span>
+  </li><li>
+    <strong>DLC：龙之神庙：</strong><span>¥9.00</span> → <b>
+  <strong>¥7.00</strong>
+</b><span>[¥7.00 ~ ¥9.00]</span>
+  </li><li>
+    <strong>DLC：贪婪洞窟：</strong><span>¥6.00</span> → <b>
+  <strong>¥4.00</strong>
+</b><span>[¥4.00 ~ ¥6.00]</span>
+  </li><li>
+    <strong>DLC：异界：</strong><span>¥8.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥8.00]</span>
+  </li><li>
+    <strong>DLC：外星入侵：</strong><span>¥8.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥8.00]</span>
+  </li><li>
+    <strong>DLC：邪恶之心：</strong><span>¥12.00</span> → <b>
+  <strong>¥9.00</strong>
+</b><span>[¥9.00 ~ ¥12.00]</span>
+  </li><li>
+    <strong>奇境森林：</strong><span>¥15.00</span> → <b>
+  <strong>¥13.00</strong>
+</b><span>[¥13.00 ~ ¥15.00]</span>
+  </li><li>
+    <strong>DLC：孤山世界：</strong><span>¥12.00</span> → <b>
+  <strong>¥9.00</strong>
+</b><span>[¥9.00 ~ ¥12.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥18.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    DLC：姐妹连：<b>¥2.00</b>
+  </li><li>
+    DLC：英雄对决：<b>¥6.00</b>
+  </li><li>
+    DLC：怪物联盟：<b>¥9.00</b>
+  </li><li>
+    DLC：龙之神庙：<b>¥7.00</b>
+  </li><li>
+    DLC：贪婪洞窟：<b>¥4.00</b>
+  </li><li>
+    DLC：异界：<b>¥6.00</b>
+  </li><li>
+    DLC：外星入侵：<b>¥6.00</b>
+  </li><li>
+    DLC：邪恶之心：<b>¥9.00</b>
+  </li><li>
+    奇境森林：<b>¥13.00</b>
+  </li><li>
+    DLC：孤山世界：<b>¥9.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  《打造世界》结合了策略、方块建造沙盒以及塔防多种元素。游戏中，你不是一个人在战斗，需要带领矮人部落在这个充满危险生物的随机世界里进行探索，安排他们分工合作收集资源，制作需要的物品、武器和盔甲，以及建造城堡，来抵御危险生物的入侵。
+
+【世界探索、沙盒生存】
+游戏共有七个不同的世界（游戏本体4个地图+3个dlc地图），每个世界都是随机生成的岛屿，你可以在游戏中自由的改变地形地貌。不同世界有着各自的地理及生物特色，同时也暗藏各类怪物和BOSS。带上大聪明矮人征服各个世界吧！
+
+【资源采集、制作发展】
+游戏中挖掘矿藏、捕捉动物、打败敌人、种植农田等等方式获得原料；升级科技树，制作数百种完全不同的物品！要知道除了常规的武器、建筑材料、食物、炼金药水外，你甚至建造一个广大的矿井网，配上升降机和铁路，快速抵达藏有最珍贵金属的矿脉中。如何发展矮人部落，你可要好好思考一下。
+对了，必须得告诉你，游戏中存在各种魔法，比如打开传送门，提高矮人运输资源的效率；使用魔法之光照亮黑暗的洞穴吓跑怪物；使用降水或是魔法森林加快树木成长，或者是使用指南针魔法找到隐藏资源，从而帮助加快资源开采，探索世界。
+
+【自由建造、殖民管理】
+发展一个部落可没那么容易，你需要安排矮人们的衣食住行，可以直接控制矮人进行挖掘、砍伐、攻击、建造等操作，并在矮人与怪物和BOSS战斗时使用魔法帮助他们。
+在游戏刚开始时，你只有1位矮人，随着在这个世界的等级提升，会获得更多的矮人；而随着人数越来越多，部落规模也越来越大的。
+部落的发展，建筑是必不可少的，发挥你天马星空的想象吧，无论是建古代宫殿风格、还是想要征服天空的空中住宅、又或者是结合现代科技坚不可摧的堡垒，只要你脑洞够大，创造独属于你的矮人之家！
+
+【即时战略&塔防战斗】
+有些怪物会成群结队的来掠夺矮人资源，有些怪物会定期从传送门而来攻打矮人，你需要带领矮人建立攻防系统，在的堡垒周围的路上设满陷阱和导弹塔，抵抗成群结队入侵而来的敌人。
+
+【DLC拓展内容】
+丰富的DLC内容拓展既可以带你领略不一样的世界：融合中式风格元素的《龙之神庙》、家园领地保卫战的《孤山世界》、暗黑领主和矮人的终极决战《邪恶之心》，还可以让你在世界探索中增加更多乐趣：女矮人携宠物及新装备登场的《姐妹连》、在神秘的斯芬克斯的沙漠世界探索神庙的《废弃矿山》、充满了植物和古老的魔法的《贪婪洞窟》，召唤英雄战士和法师的《英雄对决》，对抗更加强大的地下深渊头目的《怪物联盟》。
+
+【联系我们】
+抖音：@良心工作室
+快手：@良心工作室
+B站：@良心工作室
+小红书：@良心工作室
+微博：@良心工作室官方
+Q群：320015298
+
+若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TuneIn Radio Pro]]></title>

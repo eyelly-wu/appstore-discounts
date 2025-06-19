@@ -2,10 +2,11 @@
   "month": "2025-06",
   "cn": {
     "319295332": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "TuneIn Premium Pro": 1
+        "TuneIn Premium Pro": 1,
+        "TuneIn Premium": 1
       }
     },
     "351850196": {
@@ -150,11 +151,11 @@
       }
     },
     "6444782083": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "超大英雄组合包": 2,
-        "限时特惠": 2
+        "超大英雄组合包": 3,
+        "限时特惠": 3
       }
     },
     "6446178861": {
@@ -219,6 +220,21 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6550914957": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "DLC：英雄对决": 1,
+        "DLC：怪物联盟": 1,
+        "DLC：龙之神庙": 1,
+        "DLC：贪婪洞窟": 1,
+        "DLC：异界": 1,
+        "DLC：外星入侵": 1,
+        "DLC：邪恶之心": 1,
+        "奇境森林": 1,
+        "DLC：孤山世界": 1
+      }
     }
   },
   "hk": {
@@ -1277,6 +1293,11 @@
         "Handful of caps": 2
       }
     },
+    "1055650930": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1056920931": {
       "all": 1,
       "price": 0,
@@ -1324,6 +1345,11 @@
       "inAppPurchase": {
         "UPGRADE PRO": 1
       }
+    },
+    "1437096541": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     },
     "1439886655": {
       "all": 1,
@@ -1374,6 +1400,16 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1537362903": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1538124245": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1558391784": {
       "all": 1,
       "price": 1,
@@ -1387,6 +1423,11 @@
       "inAppPurchase": {}
     },
     "1580067723": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1592505377": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
