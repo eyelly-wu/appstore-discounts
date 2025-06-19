@@ -31435,8 +31435,8 @@
       "神話完整卡牌包": "USD 39.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99",
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
       "DLC \"卡牌遊戲\"": "USD 3.99",
       "原版怪獸繼承卡牌包": "USD 17.99",
       "覺醒魔王完整卡牌包": "USD 26.99",
@@ -31459,6 +31459,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750342349525,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "USD 3.99",
+            "原版怪獸繼承卡牌包": "USD 17.99",
+            "覺醒魔王完整卡牌包": "USD 26.99",
+            "原版魔王完整卡牌包": "USD 26.99",
+            "怪獸繼承": "USD 4.99",
+            "原版地宮卡牌包": "USD 17.99",
+            "覺醒魔王卡牌包": "USD 17.99",
+            "原版魔王權能卡牌包": "USD 17.99",
+            "覺醒技能卡牌包": "USD 17.99",
+            "原版魔王加速卡牌包": "USD 8.99"
+          }
+        },
         {
           "timestamp": 1750302768824,
           "price": 3.99,
@@ -34568,6 +34585,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750342349525,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "All Advisors Unlock": "USD 9.99",
+            "Early Unlock Cheats": "USD 9.99",
+            "Command Pack": "USD 6.99",
+            "Early Unlock Cheats (discount)": "USD 4.99",
+            "Region Tour": "USD 3.99",
+            "戰役 + 挑戰": "USD 4.99",
+            "黑暗洞窟擴展": "USD 1.99",
+            "蔚藍堤壩擴展": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1750339607587,
           "price": 1.99,
@@ -45530,6 +45562,14 @@
     "history": [
       [
         {
+          "timestamp": 1750342349525,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750255981109,
           "price": 0,
           "formattedPrice": "免費",
@@ -46507,6 +46547,16 @@
       "Filebar Pro Lifetime": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750342349525,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750253311174,
