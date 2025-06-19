@@ -68,6 +68,34 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 344919689,
+    name: {
+      mo: 'HOOP i for Basketball Scores',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 928407252,
+    name: {
+      mo: '粵語字典專業版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1039733201,
+    name: {
+      mo: '生命 - LIFE',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6472669484,
+    name: {
+      mo: 'Redirect',
+    },
+    addType: 'auto',
+  },
+  {
     id: 302679851,
     name: {
       mo: '童畫',
