@@ -9121,6 +9121,25 @@
     "history": [
       [
         {
+          "timestamp": 1750324432065,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Chapter N": "$120.00",
+            "Chapter D": "$150.00",
+            "Chapter L": "$320.00",
+            "Chapter T": "$150.00",
+            "Chapter R": "$150.00",
+            "Chapter 0": "$150.00",
+            "Chapter K": "$150.00",
+            "Chapter 10": "$150.00",
+            "Chapter 9": "$150.00",
+            "Chapter S": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749117746507,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -23976,6 +23995,25 @@
       "Mia": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750324432065,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "$30.00",
+            "Large Coin Pack": "$90.00",
+            "Medium Coin Pack": "$60.00",
+            "Small Coin Pack": "$30.00",
+            "Pig": "$30.00",
+            "Dog": "$30.00",
+            "Rooster": "$30.00",
+            "Monkey": "$30.00",
+            "Goat": "$30.00",
+            "Horse": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749788455941,
@@ -77752,6 +77790,25 @@
     "history": [
       [
         {
+          "timestamp": 1750324432065,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "2025 Spring Forest Theme": "$30.00",
+            "2025 Spring Lawn Theme": "$50.00",
+            "2025 Spring Flower Theme": "$30.00",
+            "Lawn Theme": "$30.00",
+            "小灰": "$30.00",
+            "軟軟": "$30.00",
+            "招財": "$30.00",
+            "點點": "$30.00",
+            "Civet Theme": "$30.00",
+            "Tuxedo Theme": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749496209231,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -84994,6 +85051,27 @@
           "timestamp": 1750137190847,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449096759": {
+    "name": "Necro-Smith",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750324432065,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]

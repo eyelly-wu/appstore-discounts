@@ -40779,6 +40779,22 @@
     "history": [
       [
         {
+          "timestamp": 1750324432065,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "cyTus": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Valentine Stage": "$3.99"
+          }
+        },
+        {
           "timestamp": 1750306878199,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -88041,6 +88057,27 @@
           "timestamp": 1750137190847,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449096759": {
+    "name": "Necro-Smith",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750324432065,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]

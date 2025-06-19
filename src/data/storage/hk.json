@@ -3423,6 +3423,25 @@
     "history": [
       [
         {
+          "timestamp": 1750324432065,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "空间会员·365G-3年（活动）": "HK$ 588.00",
+            "空间会员·365G-1年（活动）": "HK$ 288.00",
+            "专业会员·无限版-1个月（活动）": "HK$ 118.00",
+            "专业会员·无限版-12个月（活动）": "HK$ 1,188.00",
+            "专业会员·10人版-12个月（活动）": "HK$ 588.00",
+            "专业会员·10人版-1个月（活动）": "HK$ 58.00",
+            "专业会员·5人版-1个月（活动）": "HK$ 38.00",
+            "专业会员·5人版-12个月（活动）": "HK$ 388.00",
+            "基础会员1个月（活动）": "HK$ 18.00",
+            "基础会员12个月（活动）": "HK$ 118.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750208520900,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -54842,6 +54861,25 @@
     "history": [
       [
         {
+          "timestamp": 1750324432065,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "肖维青英文原著精读课-纳尼亚传奇篇": "HK$ 228.00",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "HK$ 228.00",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "HK$ 228.00",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "HK$ 228.00",
+            "林小鹿英语精读（1-7季合集升级版）": "HK$ 588.00",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "HK$ 228.00",
+            "林小鹿经济学人精读": "HK$ 148.00",
+            "精听党 | 英语六级真题精品课": "HK$ 58.00",
+            "精听党 | 英语四级真题精品课": "HK$ 68.00",
+            "英语时文精读（新冠专题）": "HK$ 188.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749510724459,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -81582,10 +81620,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750324432065,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745406133842,
@@ -84191,6 +84237,27 @@
           "timestamp": 1750137190847,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449096759": {
+    "name": "Necro-Smith",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750324432065,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]
