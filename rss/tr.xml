@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-18T23:34:05.304Z</updated>
+    <updated>2025-06-19T01:24:02.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-18T23:34:05.305Z</updated>
+        <updated>2025-06-19T01:24:02.809Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrWed, 18 Jun 2025 23:34:05 GMT</id>
+        <id>rankingtrThu, 19 Jun 2025 01:24:02 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-18T23:34:05.306Z</updated>
+        <updated>2025-06-19T01:24:02.809Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -331,6 +331,23 @@ feedId:157008924688563200+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id1610668825">FyTube - YouTube Without Ads</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id1612952507">AeroPads - Pads & Soundscapes</a>
       </td>
       <td>
@@ -351,7 +368,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -374,7 +391,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
@@ -391,7 +408,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
@@ -408,7 +425,30 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id388624839">CamScanner + | PDF Scanner</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>CamScanner Premium</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id406541444">8mm Vintage Camera</a>
@@ -431,7 +471,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id510249014">Level HD.</a>
@@ -448,7 +488,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id519561306">ATracker PRO Time Tracker</a>
@@ -471,7 +511,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id646256209">Photo Eraser for iPhone</a>
@@ -488,7 +528,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id703265535">FocusDots · Focus What Matters</a>
@@ -505,7 +545,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -522,7 +562,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id936694037">Voice Recorder - Audio Record</a>
@@ -539,7 +579,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -556,7 +596,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1055650930">Codenames</a>
@@ -573,7 +613,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1067198688">彩云天气Pro</a>
@@ -596,7 +636,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1094038347">Only You Are Here</a>
@@ -623,7 +663,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1108032375">Rise of the Tomb Raider™</a>
@@ -640,7 +680,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -657,7 +697,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1198176727">Controller for HomeKit</a>
@@ -680,7 +720,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1230231705">The Witness</a>
@@ -697,7 +737,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1304822713">Infinity Tank Battle</a>
@@ -714,7 +754,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
@@ -737,7 +777,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -754,7 +794,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1437096541">Rush Rally 3</a>
@@ -771,7 +811,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439569401">Shadow of the Tomb Raider</a>
@@ -788,7 +828,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439886655">Cultist Simulator</a>
@@ -805,7 +845,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1449893235">Earthquake Network</a>
@@ -822,7 +862,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1453820315">This Is the Police 2</a>
@@ -839,7 +879,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1453875289">Hyper Light Drifter</a>
@@ -856,7 +896,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1482339363">iScore5 APHG</a>
@@ -873,7 +913,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1519571900">Luwian</a>
@@ -890,7 +930,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -907,7 +947,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1523146826">Everybody's RPG: Reboot</a>
@@ -924,7 +964,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1537362903">Neighbours back From Hell</a>
@@ -941,7 +981,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1538124245">where I put it</a>
@@ -958,7 +998,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1558391784">Filebar - media player</a>
@@ -981,7 +1021,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1576521142">SOULVARS</a>
@@ -998,7 +1038,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1592505377">Wreckfest</a>
@@ -1015,7 +1055,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1601194499">DRAGON QUEST BUILDERS</a>
@@ -1032,24 +1072,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1610668825">FyTube - YouTube Without Ads</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1640627334">Resident Evil Village for Mac</a>
@@ -1076,7 +1099,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1642715290">Little Big Workshop</a>
@@ -1093,7 +1116,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1659271912">Train Dispatcher!2</a>
@@ -1110,7 +1133,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6450980545">Resident Evil Village</a>
@@ -1139,7 +1162,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6462360082">Resident Evil 4</a>
@@ -1170,7 +1193,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -1187,7 +1210,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -1204,7 +1227,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -1221,7 +1244,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -1238,7 +1261,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6456751953">ChatTan - AI Bot</a>
@@ -1397,6 +1420,223 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FyTube - YouTube Without Ads]]></title>
+        <id>FyTube - YouTube Without Ads-tr-1750294930223</id>
+        <link href="https://apps.apple.com/tr/app/fytube-youtube-without-ads/id1610668825?uo=4"/>
+        <updated>2025-06-19T01:02:10.223Z</updated>
+        <summary type="html"><![CDATA[Price: ₺229,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/fytube-youtube-without-ads/id1610668825?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/30/99/043099d7-1dfb-74a4-841b-f5066d2ef923/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺229,99</span> → <b>
+  <strong>₺99,99</strong>
+</b><span>[Free ~ ₺899,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺99,99</b>
+</p><h2>Application Description</h2><p>
+  Our app connects to YouTube in real-time and lets you play any video with exclusive features designed just for you!
+Highlight Features:
+• Locked screen playback: Keep listening to your videos’ audio in the background.
+• Floating playback (PIP): Use other apps while watching your videos.
+• Sleep timer: Set an automatic shutdown and relax worry-free.
+• Loop mode: Play your favorite video on infinite repeat.
+It also includes:
+• Toggleable subtitles
+• Playback speed control
+• Quality selection and fullscreen mode
+• Smart search with real-time suggestions (predictive search)
+• Upload date filters: Day, week, month, or year
+FyTube is perfect for those who don’t want to miss a single video about their favorite topics.
+Explore, play, and enjoy your favorite content to the fullest — interruption-free!
+
+SPECIAL FEATURES
+FLOATING PLAYBACK
+Never stop watching! With this feature, you can keep watching your videos while using other apps .
+Just enter fullscreen mode and tap the PIP button — it’s the second icon at the top of the player.
+Your video will float on top of your screen no matter what app you open!
+
+LOCKED SCREEN PLAYBACK
+Listen without interruptions!
+Keep enjoying your video’s audio even when your screen is off. Perfect for listening to music, podcasts, or your favorite tunes while driving or relaxing.
+How to activate it?
+Just lock your device screen. You’ll instantly see the background player.
+Tap Play — and that’s it! The audio will keep going without pauses.
+
+SLEEP TIMER
+Fall asleep peacefully — your app will stop by itself!
+Enable this feature to automatically stop your videos after the time you choose. Perfect for sleeping or napping without worrying about stopping anything.
+How to activate it?
+Tap the timer button, choose how long you want it to run, and that’s it.
+Relax and let the app handle the rest!
+
+LOOP MODE
+Play your favorite video over and over again!
+Enable this feature to make the video repeat automatically as many times as you want.
+How to know if it’s on?
+The icon will turn red when active.
+(VoiceOver compatible: it will indicate whether it’s on or off.)
+Perfect for songs, meditations, or any content you love to repeat!
+Need help using these features? Visit: fydub.com/fytube
+
+BASIC FEATURES
+• Fullscreen high-quality video playback
+• Easy-to-use interface, friendly design
+• Skip forward or rewind anytime — never miss the best parts
+• Subtitle activation
+• Adjust playback speed to your preference
+• Change video quality
+• Smart search with real-time suggestions and upload date filters: day, week, month, year, all
+• Each video includes a related videos section to discover more interesting content
+• Discover the latest videos and stay up to date with the news
+• Our app connects directly to YouTube, letting you find any video
+• Enjoy content on any AirPlay-compatible device
+• VoiceOver compatible (enhanced descriptions)
+• No account required
+• We don’t store cache, cookies, or personal data without your permission — watch safely
+• Interface available in 29 languages
+• NO ADS, NO SUBSCRIPTIONS
+Get FyTube with a one-time payment and start a new streaming experience — ad-free and subscription-free.
+
+Minimum Requirements:
+• iOS 13 or later
+• 3G connection or higher
+
+Privacy Policy:
+https://fydub.com/privacy-policy_fytube
+Terms of Service:
+https://fydub.com/terms-of-service_fytube
+
+Keywords related to our app:
+youtube, youtube music, youtube vanced, ad blocker for YouTube, no subscription, skip ads on YouTube, music without ads, ad-free, YouTube app, adblocker for YouTube, block pop-ups, remove ads, block ads, adblock, content blocker, no ads, ad-free browser, block advertising, skip ads, ad-free music, YouTube without ads, videos without ads, etc.
+
+Have questions about how to use FyTube?
+Visit fydub.com/fytube or write to us — we’ll be happy to help. We reply to all emails: fytube@fydub.com
+
+FyTube works with YouTube.
+The YouTube name and logo are trademarks of Google, Inc. All rights reserved.
+© FyTube®
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d7/ee/65/d7ee65de-817d-d09a-afc0-7ee2f1dc39c7/0d4e582f-4607-4977-b946-d8738e6b02c7_IMG2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/81/a6/e181a61e-3419-a8d1-be16-af1371db25af/cb687937-1720-4c57-a770-989d7f56a9ee_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/14/0e/22140ee6-a8af-674b-608c-319990b31085/265ec771-5449-46fc-ad0f-1e2d5cdcc934_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/35/2d/8a352dc3-26f2-d6af-b2b4-c4f616fd393b/ae66b173-6b78-458b-972d-71413dd8ad96_imagen2-ok2.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CamScanner + | PDF Scanner]]></title>
+        <id>CamScanner + | PDF Scanner-tr-1750294930223</id>
+        <link href="https://apps.apple.com/tr/app/camscanner-pdf-scanner/id388624839?uo=4"/>
+        <updated>2025-06-19T01:02:10.223Z</updated>
+        <summary type="html"><![CDATA[CamScanner Premium: ₺329,99 → ₺129,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/camscanner-pdf-scanner/id388624839?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/cf/e1/41cfe154-3967-2196-4cbd-19ea37accfe5/AppIconPlus-0-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>CamScanner Premium：</strong><span>₺329,99</span> → <b>
+  <strong>₺129,99</strong>
+</b><span>[₺129,99 ~ ₺329,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺39,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    CamScanner Premium：<b>₺129,99</b>
+  </li><li>
+    3000 cp + Six chance to Draw：<b>₺229,99</b>
+  </li><li>
+    600 cp + One chance to Draw：<b>₺39,99</b>
+  </li><li>
+    3000 C-Points：<b>₺229,99</b>
+  </li><li>
+    Ten-page Fax：<b>₺399,99</b>
+  </li><li>
+    One-page Fax：<b>₺39,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Scan docs into clear & sharp image/PDF, to email, fax, print or save to cloud.
+
+* Over 200,000 new registrations per day
+* App Store Best of 2014
+* CamScanner, 50 Best iPhone Apps, 2013 Edition – TIME
+
+----Paid App Features----
+* All features that the free version has
+* Recognize and extract texts from a single page
+* Larger cloud space of 400M (200M for free version)
+* Export PDFs without watermark "Scanned by CamScanner"
+* Ad-free
+
+
+Features:
+
+*Mobile Scanner
+Use your phone camera to scan receipts, notes, invoices, whiteboard discussions, business cards, certificates, etc. 
+
+*Optimize Scan Quality
+Smart cropping and auto enhancing make the texts and graphics look clear and sharp. 
+
+*Extract Texts from Image
+OCR (optical character recognition) feature extracts texts from single page for further editing or sharing. (Paid app only)
+
+*Share PDF/JPEG Files
+Easily share documents in PDF or JPEG format with others via social media, email attachment or sending the doc link. 
+
+*AirPrint & Fax Documents
+Instantly print out docs in CamScanner with nearby printer via AirPrint; directly fax docs to over 30 countries from the app.
+
+*Collaboration
+Invite friends or colleagues to view and comment on your scans in a group. (Registrants only)
+
+*Advanced Editing
+Making annotations or adding customized watermark on docs are made available for you.
+
+*Secure Important Docs
+Set passcode for viewing important docs; meanwhile, when sending doc link, you can set password to protect it.
+
+*Sync across Platforms
+Sign up to sync documents on the go. Just sign in to any smartphone, tablet or computer (visit CamScanner website) you own and you can view, edit and share any document. 
+
+Premium Subscription Service:
+1. Edit OCR results and notes of the entire doc, exporting as .txt file
+2. Create Doc Collage for multiple pages
+3. Add 10G cloud space
+4. Add 40 extra collaborators
+5. Send doc link with password protection and expiration date
+6. Auto upload docs to Box, Google Drive, Dropbox, Evernote and OneDrive
+7. Batch download PDF files in web app
+8. Every benefit registrants enjoys
+9. Everything paid app offers
+
+Payment models for Premium subscription:
+-4.99 USD/month
+-49.99 USD/year
+
+• Payment will be charged to iTunes Account at confirmation of purchase.
+• Account will be charged for renewal within 24-hours prior to the end of the current subscription period.
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+• Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.
+
+For Terms of Use, please visit
+https://www.camscanner.com/app/service?language=en-us
+For Privacy Policy, please visit https://www.camscanner.com/app/privacy?language=en-us
+
+
+CamScanner users scan and manage 
+* Bill, Invoice, Contract, Tax Roll, Business Card…
+* Whiteboard, Memo, Script, Letter…
+* Blackboard, Note, PPT, Book, Article…
+* Credential, Certificate, Identity Documents…
+
+3rd Party Cloud Storage Services Supported:
+-Box, Google Drive, Evernote, Dropbox, OneDrive
+
+
+We’d love to hear your feedback: isupport@intsig.com
+Follow us on Twitter: @CamScanner
+Like us on Facebook: CamScanner
+Follow us on Google+: CamScanner
+
+Check out other INTSIG’s products:
+CamCard - Business Card Reader
+CamDictionary - Snap Translator
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/62/fb/4b62fb60-a509-9442-d74c-49ff105a9c5d/5d3f1bdd-4c4a-4a55-9fd5-8716ce47c623_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/31/29/70/3129701b-72b0-da8b-3e60-95fa71e6f875/ccb5b497-09f0-4aaa-b2e2-583e919bd12d_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/73/ae/75/73ae7540-0664-7ed5-83bb-7f8cafcf3168/676de223-454a-4af4-b7bf-9b90c2e06d43_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/82/db/f5/82dbf545-1d55-fb8b-af4a-ba8c2f8685db/e5921c4e-b540-4b95-9294-34dc282efe17_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/30/c2/3c/30c23cbc-d6a6-a203-4580-7f3c8c76b4bb/d3ad4b15-1e6b-4136-b9e1-562095ba7ddd_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/34/15/f6/3415f692-dde8-a7cb-2f05-dbe94561273a/7655b638-39be-498d-be60-1ef7dc562b04_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a3/2c/81/a32c8135-7cf7-f104-6925-ec020fc1f032/1c582de1-3bad-4a9d-a973-e94b5c8b0759_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/04/08/b904083a-e310-8800-bc70-a5aaa8cad206/b676d48d-e982-49ff-a144-2504ed765068_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-8.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Codenames]]></title>
