@@ -1165,6 +1165,25 @@
     "history": [
       [
         {
+          "timestamp": 1750306878199,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "HK$ 58.00",
+            "ETC Module": "HK$ 48.00",
+            "SPL Graph Module": "HK$ 88.00",
+            "Polarity Test Module": "HK$ 32.00",
+            "SoundScope VR": "HK$ 188.00",
+            "IR Module": "HK$ 388.00",
+            "Speaker Distortion": "HK$ 48.00",
+            "VU Meter": "HK$ 22.00",
+            "SPL Traffic Light": "HK$ 88.00",
+            "Impedance Module": "HK$ 228.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750255981109,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -14404,7 +14423,7 @@
       "一倉庫寶石": "HK$ 388.00",
       "一車寶石": "HK$ 148.00",
       "一桶寶石": "HK$ 38.00",
-      "一袋寶石": "HK$ 22.00",
+      "一袋寶石": "HK$ 38.00",
       "特別優惠大聖": "HK$ 22.00",
       "大型英雄包": "HK$ 88.00",
       "英雄包 5": "HK$ 38.00",
@@ -14413,7 +14432,9 @@
       "崗牢": "HK$ 22.00",
       "卡茲": "HK$ 38.00",
       "英雄包 4": "HK$ 38.00",
-      "英雄包 2": "HK$ 18.00"
+      "英雄包 2": "HK$ 18.00",
+      "一把寶石": "HK$ 22.00",
+      "巨蟹": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -14441,9 +14462,30 @@
       "崗牢": "HK$ 22.00",
       "卡茲": "HK$ 22.00",
       "英雄包 4": "HK$ 38.00",
-      "英雄包 2": "HK$ 18.00"
+      "英雄包 2": "HK$ 18.00",
+      "一把寶石": "HK$ 22.00",
+      "巨蟹": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750306878199,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "黑棘船長": "HK$ 8.00",
+            "倪浮世": "HK$ 8.00",
+            "帝娥翠": "HK$ 8.00",
+            "崗牢": "HK$ 22.00",
+            "剎陀羅": "HK$ 22.00",
+            "黑龍灰霸齒": "HK$ 58.00",
+            "一把寶石": "HK$ 22.00",
+            "一袋寶石": "HK$ 38.00",
+            "一箱寶石": "HK$ 88.00",
+            "巨蟹": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750223604781,
@@ -47018,6 +47060,23 @@
       "WEDDING SERIES FILM": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750306878199,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "UPGRADE PRO": "HK$ 53.00",
+            "FUJI SERIES FILM": "HK$ 38.00",
+            "KODAK SERIES FILM": "HK$ 48.00",
+            "WEDDING SERIES FILM": "HK$ 38.00",
+            "RETRO SERIES FILM": "HK$ 38.00",
+            "IU SERIES FILM": "HK$ 38.00",
+            "LOMO SERIES": "HK$ 38.00",
+            "UPGRADE PRO VERSION": "HK$ 488.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745798968722,
