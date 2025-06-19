@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-06-19T06:40:16.360Z</updated>
+    <updated>2025-06-19T13:48:07.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-19T06:40:16.361Z</updated>
+        <updated>2025-06-19T13:48:07.159Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwThu, 19 Jun 2025 06:40:16 GMT</id>
+        <id>rankingtwThu, 19 Jun 2025 13:48:07 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-19T06:40:16.362Z</updated>
+        <updated>2025-06-19T13:48:07.159Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -51,13 +51,13 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1149</b>
+        <b>1150</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>948</b>
+        <b>949</b>
       </td>
       <td>
         <b>16</b>
@@ -68,13 +68,13 @@ feedId:157008546980077568+userId:73658201673997312
         <b>TW</b>
       </td>
       <td>
-        <b>1063</b>
+        <b>1064</b>
       </td>
       <td>
         <b>177</b>
       </td>
       <td>
-        <b>886</b>
+        <b>887</b>
       </td>
       <td>
         <b>14</b>
@@ -373,14 +373,20 @@ feedId:157008546980077568+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id510249014">水準管 HD</a>
+        <a href="https://apps.apple.com/tw/app/id406541444">8mm Vintage Camera</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>8mm Pro</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -390,7 +396,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id646256209">照片橡皮擦</a>
+        <a href="https://apps.apple.com/tw/app/id510249014">水準管 HD</a>
       </td>
       <td>
         <ul>
@@ -407,7 +413,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id703265535">FocusDots · 專注於當下</a>
+        <a href="https://apps.apple.com/tw/app/id646256209">照片橡皮擦</a>
       </td>
       <td>
         <ul>
@@ -422,6 +428,23 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>
         <b>16</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id703265535">FocusDots · 專注於當下</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id916976066">短語鍵盤</a>
@@ -446,7 +469,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id918609651">Money Pro: 個人財務</a>
@@ -469,7 +492,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -486,7 +509,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id936694037">Voice Recorder - Audio Record</a>
@@ -503,7 +526,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -520,7 +543,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1055650930">Codenames</a>
@@ -537,7 +560,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1094038347">Only You Are Here</a>
@@ -564,7 +587,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1108032375">Rise of the Tomb Raider™</a>
@@ -581,7 +604,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -598,7 +621,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1198176727">Controller for HomeKit</a>
@@ -621,7 +644,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1230231705">The Witness</a>
@@ -638,7 +661,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1304822713">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
@@ -655,7 +678,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -672,7 +695,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1437096541">Rush Rally 3</a>
@@ -689,7 +712,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1439569401">Shadow of the Tomb Raider</a>
@@ -706,7 +729,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1439886655">Cultist Simulator</a>
@@ -723,7 +746,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1449893235">Earthquake Network</a>
@@ -746,7 +769,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1450144092">三國志天下布武 - 單機戰棋策略遊戲</a>
@@ -763,7 +786,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1453820315">This Is the Police 2</a>
@@ -780,7 +803,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1453875289">Hyper Light Drifter</a>
@@ -797,7 +820,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1482339363">iScore5 APHG</a>
@@ -814,7 +837,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1519571900">Luwian</a>
@@ -831,7 +854,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -848,7 +871,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1523146826">全民RPG：重啟</a>
@@ -865,7 +888,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1537362903">Neighbours back From Hell</a>
@@ -882,7 +905,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1538124245">where I put it</a>
@@ -899,7 +922,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1558391784">Filebar</a>
@@ -922,7 +945,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1576521142">SOULVARS</a>
@@ -939,7 +962,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1592505377">Wreckfest</a>
@@ -956,7 +979,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
@@ -973,7 +996,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -990,7 +1013,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1640627334">Resident Evil Village for Mac</a>
@@ -1017,7 +1040,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1642715290">Little Big Workshop</a>
@@ -1034,7 +1057,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6450980545">Resident Evil Village</a>
@@ -1063,7 +1086,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6462360082">Resident Evil 4</a>
@@ -1094,7 +1117,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -1111,7 +1134,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -1128,7 +1151,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -1145,7 +1168,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -1162,7 +1185,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6456751953">ChatTan - AI Bot</a>
@@ -1185,7 +1208,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6447090616">Whisper Notes - 離線AI語音輸入轉錄文字辨識</a>
@@ -1338,6 +1361,64 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8mm Vintage Camera]]></title>
+        <id>8mm Vintage Camera-tw-1750339607587</id>
+        <link href="https://apps.apple.com/tw/app/8mm-vintage-camera/id406541444?uo=4"/>
+        <updated>2025-06-19T13:26:47.587Z</updated>
+        <summary type="html"><![CDATA[8mm Pro: $1,290.00 → $300.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/8mm-vintage-camera/id406541444?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/bc/0d/b1bc0df2-7e01-6902-90e9-417ac288b2eb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>8mm Pro：</strong><span>$1,290.00</span> → <b>
+  <strong>$300.00</strong>
+</b><span>[$300.00 ~ $1,290.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>$120.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    倒計時主題：<b>$0.00</b>
+  </li><li>
+    炫光主題：<b>$0.00</b>
+  </li><li>
+    8mm Pro：<b>$300.00</b>
+  </li><li>
+    默片主題：<b>$0.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  8mm is so realistic it was even used to film scenes in the Oscar-winning documentary Searching for Sugar Man!
+
+We have established the de facto standard of real-time retro film emulation. It was featured by Apple in App of the Day, App of the Week, In the Director's Chair, App Store Essentials, etc.
+
+8mm Vintage Camera captures the beauty and magic of old-school vintage movies right through your viewfinder. Dust and scratches, retro colors, flickering, light leaks, and even frame shake, all can be instantly added with a single tap of the finger.
+
+SHOOT BOTH PHOTOS AND VIDEOS WITH SOPHISTICATED LIVE EFFECTS
+
+• Combine effects of film color, halation, dust & scratch, film grain, and softening to create authentic old-school movies
+• Adjust the strength of the effects to achieve your own unique visual style
+• 10 Lenses (frame) effects: Projector, Vignetting, Light Leak, Color Fringing, Super 8, Screen, 16mm, Tube, color negatives of Super 8 and 16mm
+• 21 Retro & Aged Films: 1920, Noir, 60s, 70s, Sakura, XPro, Siena, Pela, Indigo, Tuscan, Two-Color, 2-Strip, 3X, and monochromes
+• Additional 21 filters that emulate real historical films and expired films - available with the 8mm Pro subscription
+• Jitter Button to imitate real 8mm projectors frame shakes
+• Sound Switch to add projector sound for extra authenticity or mute the video for a silent movie effect.
+• Up to 4K 30fps with original unfiltered video recording on newer devices
+
+A COMPACT EDITOR FOR MOVIE CREATION
+
+- Apply film and frame effects to clips
+- Trim video, pan & zoom photo
+- Add a soundtrack from your music library
+- Choose from 5 unique themes with matching titles, transitions
+
+8MM PRO SUBSCRIPTION
+
+- You can subscribe or make a one-time purchase for unlimited access to all current filters and future updates
+- Start your subscription with a free 7-day trial. Once the trial is over, you’ll be charged an annual subscription fee
+- Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can go to your Settings > Apple ID > Subscriptions to turn auto-renew off
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/56/ff/0756ff81-bd44-bbb7-5aca-dfd59d07af0f/1668dbc8-251c-44c1-ae58-c562de8026b8_1x3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5a/db/fd/5adbfd1d-fa70-bf27-149b-189b1df98fa3/3e9846b9-04c5-4e58-8d36-45e49611ca17_Screen_Shot_2023-04-20_at_8.03.45_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/5d/45/8c5d4590-a860-0ab7-7b52-11fec3b2fff3/8fdff395-c64e-4c3e-b4fe-2009ccc728a3_Screen_Shot_2023-04-20_at_6.11.50_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/b8/84/b0b8845d-d368-4ead-887a-56fddc4bcfbf/f1db3448-8c98-4d91-8f6c-32a3367f0ea9_08.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4e/6d/3c/4e6d3ce2-e8c1-61b1-f9b3-68173ac4acfe/a93812a4-5de8-4d07-be86-cea49c7fb794_Screen_Shot_2023-04-20_at_8.01.52_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/b2/29/48b229cc-9336-6152-f679-962c50f8139d/caaa404c-0eaa-4c98-8d34-fbd51353ba34_Screen_Shot_2023-04-20_at_8.07.52_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/66/88/6e/66886eef-ae79-5a00-3d23-2cf02ef780da/7f1da2a6-5b33-4988-bab4-25663786369b_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/bc/4e/85bc4ea3-f98d-5ce9-dc6c-f3df0f7f28af/7125cce8-f844-4938-9d9e-a31af2374f3e_09.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/1e/fd/8c1efd97-2abc-d925-0bf0-e0872e085e44/9a6c596a-b01c-44f0-b4bc-bcfab9c4520e_Screen_Shot_2023-04-20_at_8.00.58_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/c8/af/1ac8afb9-d0ce-3eec-1531-38a32f7351cb/43aa7a13-3302-4012-ad9c-84a3699dc5c8_01.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/24/bb/6724bbe7-cf74-c3b5-be53-1269395197b8/14e87a1d-1f2b-4320-b167-8fbec037a34b_Screen_Shot_2022-10-18_at_10.29.39_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/07/a0/6207a067-2e48-a814-b447-949e47cad9c7/47ba82b7-782a-4ae3-906c-cadd8e10ad8b_Screen_Shot_2022-10-18_at_10.34.36_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/b4/5c/47b45c88-9631-8bad-a18d-5df82277b3ba/41f6287f-875f-47ff-851e-2fd4c798b6cf_Screen_Shot_2022-10-18_at_10.32.54_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/95/1b/06951b92-e1c7-c944-ad5f-a17ba52a1e84/da4d338b-221f-44ea-9e10-9926b0d6aea1_Screen_Shot_2022-10-18_at_10.36.49_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/76/66/b07666e2-88e2-b616-994b-6057504aca5b/19b6a9e3-4ff1-4d51-99fd-82c49e85a994_Screen_Shot_2022-10-18_at_10.38.38_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/a6/df/9aa6dfb5-2502-d158-2589-b88949817b12/dbc56f15-97f1-47a5-8a9a-91e245fc8646_Screen_Shot_2022-10-18_at_10.42.59_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/b0/8b/d8b08bfe-4846-4f80-7fb5-44351258f27f/c0cd9914-df70-45f5-b2d3-6b3b5a734e81_Screen_Shot_2022-10-18_at_10.44.13_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/e7/2f/09e72f0f-a461-f653-cc0a-6a1af135f5a1/864b20cd-bf45-445f-9f42-6d450fd7ec91_Screen_Shot_2022-10-18_at_10.45.01_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/ab/5c/1aab5c4d-1b45-ba75-01c3-c9fcac29f6b4/cf170b22-af0d-4323-8347-c36970935fc0_Screen_Shot_2022-10-18_at_10.45.52_AM.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Whisper Notes - 離線AI語音輸入轉錄文字辨識]]></title>

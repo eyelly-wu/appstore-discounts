@@ -4901,10 +4901,23 @@
       "formattedPrice": "$120.00",
       "倒計時主題": "$0.00",
       "炫光主題": "$0.00",
-      "8mm Pro": "$1,290.00",
+      "8mm Pro": "$300.00",
       "默片主題": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750339607587,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "倒計時主題": "$0.00",
+            "炫光主題": "$0.00",
+            "8mm Pro": "$300.00",
+            "默片主題": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -57632,6 +57645,25 @@
       "Remove AD": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750339607587,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Starter Package B": "$1,490.00",
+            "Daily Jewel Package": "$690.00",
+            "Lite Daily Jewel Package": "$290.00",
+            "Starter Package A": "$490.00",
+            "Remove AD": "$290.00",
+            "Jewel Package D": "$1,490.00",
+            "Jewel Package A": "$150.00",
+            "Jewel Package F": "$2,990.00",
+            "Jewel Package C": "$790.00",
+            "Jewel Package B": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750155233674,
