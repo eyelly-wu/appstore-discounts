@@ -21568,6 +21568,24 @@
     "history": [
       [
         {
+          "timestamp": 1750432373743,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "森日豪華禮包": "HK$ 148.00",
+            "森日精選禮包": "HK$ 98.00",
+            "Elite Package": "HK$ 88.00",
+            "Supreme Package": "HK$ 38.00",
+            "Advanced Package": "HK$ 22.00",
+            "Starter Package": "HK$ 8.00",
+            "年訂閱": "HK$ 330.00",
+            "月訂閱（早鳥）": "HK$ 35.00",
+            "年訂閱（早鳥）": "HK$ 200.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749443075326,
           "price": 0,
           "formattedPrice": "免費",
@@ -36440,7 +36458,15 @@
       "Starter Pack": "HK$ 22.00",
       "Tower Goblin War Zeppelin": "HK$ 58.00",
       "Hero Mortemis": "HK$ 22.00",
-      "Hero Tank": "HK$ 48.00"
+      "Hero Tank": "HK$ 48.00",
+      "Tower Ignis Altar": "HK$ 22.00",
+      "Hero Grosh": "HK$ 38.00",
+      "Special Offer 27": "HK$ 58.00",
+      "Special Offer 24": "HK$ 58.00",
+      "Special Offer 21": "HK$ 58.00",
+      "Special Offer 20": "HK$ 58.00",
+      "Special Offer 19": "HK$ 58.00",
+      "Special Offer 18": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -36459,9 +36485,36 @@
       "Starter Pack": "HK$ 22.00",
       "Tower Goblin War Zeppelin": "HK$ 38.00",
       "Hero Mortemis": "HK$ 22.00",
-      "Hero Tank": "HK$ 48.00"
+      "Hero Tank": "HK$ 48.00",
+      "Tower Ignis Altar": "HK$ 22.00",
+      "Hero Grosh": "HK$ 38.00",
+      "Special Offer 27": "HK$ 58.00",
+      "Special Offer 24": "HK$ 58.00",
+      "Special Offer 21": "HK$ 58.00",
+      "Special Offer 20": "HK$ 58.00",
+      "Special Offer 19": "HK$ 58.00",
+      "Special Offer 18": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750432373743,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "HK$ 58.00",
+            "Hammerhold Campaign!": "HK$ 58.00",
+            "Tower Ignis Altar": "HK$ 22.00",
+            "Hero Grosh": "HK$ 38.00",
+            "Special Offer 27": "HK$ 58.00",
+            "Special Offer 24": "HK$ 58.00",
+            "Special Offer 21": "HK$ 58.00",
+            "Special Offer 20": "HK$ 58.00",
+            "Special Offer 19": "HK$ 58.00",
+            "Special Offer 18": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750328022843,
@@ -78086,7 +78139,12 @@
       "2025 Spring Lawn Theme": "HK$ 12.00",
       "2025 Spring Flower Theme": "HK$ 8.00",
       "Orange Theme": "HK$ 8.00",
-      "Civet Theme": "HK$ 8.00"
+      "Civet Theme": "HK$ 8.00",
+      "Lawn Theme": "HK$ 8.00",
+      "小灰": "HK$ 8.00",
+      "軟軟": "HK$ 8.00",
+      "點點": "HK$ 8.00",
+      "Tuxedo Theme": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -78102,9 +78160,33 @@
       "2025 Spring Lawn Theme": "HK$ 12.00",
       "2025 Spring Flower Theme": "HK$ 8.00",
       "Orange Theme": "HK$ 8.00",
-      "Civet Theme": "HK$ 8.00"
+      "Civet Theme": "HK$ 8.00",
+      "Lawn Theme": "HK$ 8.00",
+      "小灰": "HK$ 8.00",
+      "軟軟": "HK$ 8.00",
+      "點點": "HK$ 8.00",
+      "Tuxedo Theme": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750432373743,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "2025 Spring Forest Theme": "HK$ 8.00",
+            "2025 Spring Lawn Theme": "HK$ 12.00",
+            "2025 Spring Flower Theme": "HK$ 8.00",
+            "Lawn Theme": "HK$ 8.00",
+            "小灰": "HK$ 8.00",
+            "軟軟": "HK$ 8.00",
+            "招財": "HK$ 8.00",
+            "點點": "HK$ 8.00",
+            "Civet Theme": "HK$ 8.00",
+            "Tuxedo Theme": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746903714978,
