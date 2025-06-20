@@ -14671,6 +14671,58 @@
       ]
     ]
   },
+  "567533074": {
+    "name": "Sonic Jump™",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "2,500 Ring Bundle": "$0.99",
+      "Silver": "$1.99",
+      "Tails": "$1.99",
+      "Knuckles": "$1.99",
+      "12,000 Ring Bundle": "$4.99",
+      "Amy": "$1.99",
+      "Rouge": "$1.99",
+      "Double Rings": "$2.99",
+      "15,000 Ring Bundle": "$4.99",
+      "Unlock Everything": "$20.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "2,500 Ring Bundle": "$0.99",
+      "Silver": "$1.99",
+      "Tails": "$1.99",
+      "Knuckles": "$1.99",
+      "12,000 Ring Bundle": "$4.99",
+      "Amy": "$1.99",
+      "Rouge": "$1.99",
+      "Double Rings": "$2.99",
+      "15,000 Ring Bundle": "$4.99",
+      "Unlock Everything": "$20.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750396427266,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2,500 Ring Bundle": "$0.99",
+            "Silver": "$1.99",
+            "Tails": "$1.99",
+            "Knuckles": "$1.99",
+            "12,000 Ring Bundle": "$4.99",
+            "Amy": "$1.99",
+            "Rouge": "$1.99",
+            "Double Rings": "$2.99",
+            "15,000 Ring Bundle": "$4.99",
+            "Unlock Everything": "$20.99"
+          }
+        }
+      ]
+    ]
+  },
   "575154654": {
     "name": "Pou",
     "maxPriceInfo": {
@@ -72583,6 +72635,27 @@
       [
         {
           "timestamp": 1748402466218,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1661136258": {
+    "name": "Minifigures Tracker",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750396427266,
           "price": 2.99,
           "formattedPrice": "$2.99",
           "inAppPurchases": {}
