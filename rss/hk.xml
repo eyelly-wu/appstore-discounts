@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-19T14:34:07.346Z</updated>
+    <updated>2025-06-20T07:34:02.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-19T14:34:07.347Z</updated>
+        <updated>2025-06-20T07:34:02.355Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkThu, 19 Jun 2025 14:34:07 GMT</id>
+        <id>rankinghkFri, 20 Jun 2025 07:34:02 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-19T14:34:07.347Z</updated>
+        <updated>2025-06-20T07:34:02.355Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,13 +51,13 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1150</b>
+        <b>1158</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>949</b>
+        <b>957</b>
       </td>
       <td>
         <b>16</b>
@@ -68,13 +68,13 @@ feedId:157008141708743680+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>1058</b>
+        <b>1066</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>879</b>
+        <b>887</b>
       </td>
       <td>
         <b>14</b>
@@ -397,6 +397,33 @@ feedId:157008141708743680+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id567533074">Sonic Jump™</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Tails</i>：<b>1</b>
+              </li><li>
+                <i>Rouge</i>：<b>1</b>
+              </li><li>
+                <i>Knuckles</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id646256209">照片橡皮擦</a>
       </td>
       <td>
@@ -411,7 +438,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id703265535">FocusDots · 專注於當下</a>
@@ -428,7 +455,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id918609651">Money Pro: 個人財務</a>
@@ -453,7 +480,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -470,7 +497,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id936694037">Voice Recorder - Audio Record</a>
@@ -487,7 +514,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -504,7 +531,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1055650930">Codenames</a>
@@ -521,7 +548,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1056920931">Iron Marines</a>
@@ -550,7 +577,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1094038347">Only You Are Here</a>
@@ -577,7 +604,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1108032375">Rise of the Tomb Raider™</a>
@@ -594,7 +621,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -611,7 +638,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1230231705">The Witness</a>
@@ -628,7 +655,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1304822713">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
@@ -645,7 +672,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1359652100">DungeonMaker</a>
@@ -662,7 +689,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -679,7 +706,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -702,7 +729,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1437096541">Rush Rally 3</a>
@@ -719,7 +746,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1439569401">Shadow of the Tomb Raider</a>
@@ -736,7 +763,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1439886655">Cultist Simulator</a>
@@ -753,7 +780,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1450144092">三國志天下布武 - 單機戰棋策略遊戲</a>
@@ -770,7 +797,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1453820315">This Is the Police 2</a>
@@ -787,7 +814,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1453875289">Hyper Light Drifter</a>
@@ -804,7 +831,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1464850921">每日英语阅读</a>
@@ -827,7 +854,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1482339363">iScore5 APHG</a>
@@ -844,7 +871,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <del>
@@ -869,7 +896,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1519571900">Luwian</a>
@@ -886,7 +913,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -903,7 +930,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1523146826">全民RPG：重啟</a>
@@ -920,7 +947,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1537362903">Neighbours back From Hell</a>
@@ -937,7 +964,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1538124245">where I put it</a>
@@ -954,7 +981,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1558391784">Filebar</a>
@@ -977,7 +1004,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1576521142">SOULVARS</a>
@@ -994,7 +1021,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1592505377">Wreckfest</a>
@@ -1011,7 +1038,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -1028,7 +1055,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1640627334">Resident Evil Village for Mac</a>
@@ -1055,7 +1082,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1642715290">Little Big Workshop</a>
@@ -1072,7 +1099,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6450980545">Resident Evil Village</a>
@@ -1101,7 +1128,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6462360082">Resident Evil 4</a>
@@ -1136,7 +1163,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6469114836">スイカゲーム-Aladdin X</a>
@@ -1159,7 +1186,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -1176,7 +1203,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -1193,7 +1220,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -1210,7 +1237,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -1227,7 +1254,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6456751953">ChatTan - AI Bot</a>
@@ -1250,7 +1277,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6449251957">Motorsport Manager 4</a>
@@ -1273,7 +1300,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6447090616">Whisper Notes - 離線AI語音輸入轉錄文字辨識</a>
@@ -1426,6 +1453,91 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonic Jump™]]></title>
+        <id>Sonic Jump™-hk-1750403551717</id>
+        <link href="https://apps.apple.com/hk/app/sonic-jump/id567533074?uo=4"/>
+        <updated>2025-06-20T07:12:31.717Z</updated>
+        <summary type="html"><![CDATA[Tails: HK$ 18.00 → HK$ 8.00<br/>Rouge: HK$ 18.00 → HK$ 8.00<br/>Knuckles: HK$ 18.00 → HK$ 8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/sonic-jump/id567533074?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/0c/8f/da0c8f70-72ae-be57-d3ad-a7e86a6fa726/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Tails：</strong><span>HK$ 18.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 18.00]</span>
+  </li><li>
+    <strong>Rouge：</strong><span>HK$ 18.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 18.00]</span>
+  </li><li>
+    <strong>Knuckles：</strong><span>HK$ 18.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 18.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 22.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    15,000 Ring Bundle：<b>HK$ 38.00</b>
+  </li><li>
+    Silver：<b>HK$ 18.00</b>
+  </li><li>
+    Vector：<b>HK$ 18.00</b>
+  </li><li>
+    Tails：<b>HK$ 8.00</b>
+  </li><li>
+    Rouge：<b>HK$ 8.00</b>
+  </li><li>
+    Shadow：<b>HK$ 8.00</b>
+  </li><li>
+    Knuckles：<b>HK$ 8.00</b>
+  </li><li>
+    Cream：<b>HK$ 8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Jump, spin and smash your way into the sky as you battle Dr. Eggman with Sonic and his friends! 
+
+Sonic Jump delivers brand new, arcade style adventures. Tilt and tap your way through Story levels and Arcade infinite modes. Visit new and classic Sonic levels for hours of fun. Challenge your friends across the world to see who can jump the farthest.
+
+PLAY WITH SONIC AND FRIENDS
+Play as Sonic or his friends Tails, Knuckles, Amy, Rouge, Silver and Blaze.   Master each characters special abilities and attacks!
+
+AMAZING WORLDS
+Jump across the legendary Green Hill Zone or take to new worlds including Mountain, Jungle, Blue Sky & Mechanical Zones.
+
+STORY AND ARCADE MODES
+Leap through 48 different levels on a quest to stop the evil Dr. Eggman or Jump until you drop in the infinite Arcade Mode.
+
+FUN CHALLENGES AND QUESTS
+You gotta go fast to beat each level and win big. Every level and both game modes have special rewards for completing special missions.
+
+UNLOCK POWERFUL ABILITIES 
+Collect rings as you play the game, or purchase them in store, to unlock characters, power ups and more.
+
+CHALLENGE THE WORLD
+Compete against players across the world to see who can jump highest in Arcade Mode or set epic scores on global leaderboards.
+
+CONSUMER REVIEWS
+- 4/4 “Whether you grew up with Sonic or not, Sonic Jump is a total blast.” - Slide to Play
+
+- 4/5 “The story mode and missions are the real draw… giving you a never-ending supply of reasons to keep jumping for the top.” - Digital Spy
+
+- 8/10 “Sonic Jump is an enjoyable little gem that took me by surprise.” - App Gamer
+
+- 4/5 “Sega has made Sonic Jump a proper standalone game well worth it for both fans, and non-fans of Sonic the Hedgehog.” - TouchGen
+
+- - - - -
+Privacy Policy: https://privacy.sega.com/en/sega-of-america-inc-privacy-policy
+Terms of Use: http://www.sega.com/terms
+
+Game apps are ad-supported and no in-app purchases are required to progress; ad-free play option available with in-app purchase.
+
+This game may include "Interest Based Ads" (please see http://www.sega.com/mprivacy#3IBADiscolure for more information)​ and may collect "Precise Location Data" ​(please see http://www.sega.com/mprivacy#5LocationDataDisclosure ​for more information)​.
+
+© SEGA. All rights reserved. SEGA, the SEGA logo, Sonic Jump™ are registered trademarks or trademarks of SEGA CORPORATION or its affiliates.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/3d/8c/f33d8cb6-3491-08ac-bb6f-2ed04e354e7d/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/52/c4/1c/52c41ce4-2a55-e13c-3d97-644421296194/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/63/d9/d563d963-5d9a-59e3-6a4e-bd950a819c63/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/77/3f/f0773f1b-a14e-03d0-5b47-8ccb6fe4de03/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/f3/2b/a2f32bed-1a6c-3b0b-7b94-1f13dec1b580/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/3c/16/4b3c165c-615c-d7fa-4173-8bc0d0ab2c0c/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/7c/06/e57c06ea-2ea3-fccb-1741-a0832a7c0cfe/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/2f/29/9e2f2915-ed2d-c306-34ef-1496f43f7d9a/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/d8/dd/c4d8dd2c-da3e-b593-66fa-559ab26aa5ec/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/78/3b/13/783b136a-f164-6316-5fa8-89c694c080d3/pr_source.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DungeonMaker]]></title>
@@ -2409,491 +2521,5 @@ https://www.camscanner.com/app/privacy?language=zh-tw
 ● 沉浸在由Disasterpeace 所作的美妙配樂中。
 ● 不僅有原始遊戲中的所有內容，再加上更多武器、敵人以及特殊版本的區域。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/9d/b3/269db35f-1616-abad-1e09-83e7f1cc0eec/mzl.gunhfvjl.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/3a/5c/2f3a5cdb-9310-8968-68e5-dde3583dcef4/mzl.tpujouzf.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f1/ef/6b/f1ef6bd4-fdf5-961e-53dc-880558421164/mzl.rrnzasha.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/a9/d1/fba9d141-9063-675b-b926-0c5a5c61bc2d/mzl.tgzfzufy.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ed/3f/39/ed3f3926-9fab-7751-3c05-648ec427ab34/mzl.vrwkdxyn.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/9a/e9/0a9ae933-9300-4a3c-3406-a172ac80d31c/mzl.cjcfehcm.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3a/9f/8a/3a9f8a48-16b0-e2d2-0020-f6b1ed3e8e95/mzl.xmikvvje.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/67/02/ff/6702ffc1-05d2-45cb-4cc6-d099292f50c3/mzl.oaiaqfwr.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/36/3d/95/363d95e3-46ae-658e-1463-56c575532b42/mzl.xnnbkbar.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/33/63/f2/3363f2d3-fc72-49c0-232b-854090a4578b/mzl.xotpvxhi.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/7d/c3/e67dc3d9-9ff8-0179-4adb-88b1f63425e3/mzl.crprypij.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/26/75/d62675d8-3d8c-46f4-f49b-b47618199a86/mzl.vuiyocrv.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三國志天下布武 - 單機戰棋策略遊戲]]></title>
-        <id>三國志天下布武 - 單機戰棋策略遊戲-hk-1750141120208</id>
-        <link href="https://apps.apple.com/hk/app/%E4%B8%89%E5%9C%8B%E5%BF%97%E5%A4%A9%E4%B8%8B%E5%B8%83%E6%AD%A6-%E5%96%AE%E6%A9%9F%E6%88%B0%E6%A3%8B%E7%AD%96%E7%95%A5%E9%81%8A%E6%88%B2/id1450144092?uo=4"/>
-        <updated>2025-06-17T06:18:40.208Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 8.00 → HK$ 2.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E4%B8%89%E5%9C%8B%E5%BF%97%E5%A4%A9%E4%B8%8B%E5%B8%83%E6%AD%A6-%E5%96%AE%E6%A9%9F%E6%88%B0%E6%A3%8B%E7%AD%96%E7%95%A5%E9%81%8A%E6%88%B2/id1450144092?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/50/c9/de50c9b9-d435-4f1a-7b33-13f183545476/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 8.00</span> → <b>
-  <strong>HK$ 2.00</strong>
-</b><span>[HK$ 2.00 ~ HK$ 8.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 2.00</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    68金玉：<b>HK$ 78.00</b>
-  </li><li>
-    30金玉：<b>HK$ 38.00</b>
-  </li><li>
-    6金玉：<b>HK$ 8.00</b>
-  </li><li>
-    198金玉：<b>HK$ 238.00</b>
-  </li><li>
-    648金玉：<b>HK$ 788.00</b>
-  </li><li>
-    一鍵買斷禮包：<b>HK$ 38.00</b>
-  </li><li>
-    328金玉：<b>HK$ 398.00</b>
-  </li><li>
-    月俸：<b>HK$ 22.00</b>
-  </li><li>
-    戰姬：<b>HK$ 788.00</b>
-  </li><li>
-    300玉符：<b>HK$ 38.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  這是我們開發的一款單機向SLG
-借鑒和學習了《三國志》、《霸王的大陸》系列，
-內容豐富耐玩，上手後極易沉迷，
-遊戲沒有大額付費，就算不付費也可以愉快的玩幾十個小時。
-但由於難度較高，強烈不建議新手上來就挑戰困難難度。
-
-【遊戲特點】
-豐富的戰鬥陣形和技能，
-在戰斗場景中山河、湖泊、城關等不同地形上有變化多端的戰術組合，
-加上天氣系統對戰局的影響，使得戰場玩法極具特色。
-
-根據面對敵人的情況不同，
-不同戰術可以形成各自的打法流派，
-常見的如搶城速攻流、近戰突擊流，單挑控制流、遠射連珠流等等。
-
-數十萬字原創遊戲文本，全部源自製作團隊對相關史料的分析提煉，
-各種武將列傳、軼事；各地的背景介紹，皆有可靠的依據出處。
-玩家玩遊戲的同時能感受到那個時代的文化氣息、社會風貌，
-從更豐富的層面帶玩家領略濃厚的歷史人文精神。
-
-【玩家攻略社区】 
-Facebook:三國志天下布武 
-
-Line:sanguo15
-
-
-
-【為什麼選擇開發這款遊戲】
-我從小便沉迷於《霸王的大陸》和光榮的《三國志》，
-但市面上很難找到類似玩法的手機遊戲。
-於是我做了一個，只是沒想到，這個歷程是如此的艱難。
-
-我常常跟同是做這類產品的朋友浪子交流，他說《漢末霸業》一路走來，一樣殊為不易，在這個年代想要有自己的堅持，必須付出相當的代價。
-
-經常有朋友問我，“為什麼不去做別的更賺錢的遊戲？”
-的確，我們的這款遊戲不怎麼賺錢，
-不充值都可以玩的很開心，充個幾十能嗨皮幾個月。
-
-朋友的這個問題，是對我的靈魂拷問。
-因為我的年紀已經不小了，拖家帶口的，這個問題必須正視。
-但朋友說的“那種賺錢的遊戲”，我不喜歡。
-
-朋友不理解我對這種遊戲的感情。
-在那個網吧還只有局域網的年代，
-這個品類的遊戲伴著我度過了無數個日日夜夜。
-為了統一全國殫精竭慮，以至於茶飯不思、夙夜難眠。
-那時的我，是沉浸的，是幸福的。
-而現在，我有機會能利用我的專業技能把這種感受發揚光大。
-把我自己對這種遊戲的理解傾注到產品之中，
-置於更大的平台之上，
-讓更多跟我同樣喜歡這類游戲的玩家體會到這種快樂，
-這是一種使命，一種榮譽。
-
-能做這個遊戲，是我人生中最幸福的事情。
-我還有很多關於它的想法，已經在心頭縈繞多年，
-我想要呈現的，還遠不止之前大家曾看到的。
-如果能賺錢，我會把這個遊戲一直做下去。
-如果賺不到，我就先去做點別的，用賺來的錢把這個遊戲繼續做下去。
-
-逝水東流，青山依舊，是非成敗，任人評說。
-我素未謀面的朋友們，祝你們玩得開心。
-
-
-
-——遊戲製作人：奶牛
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/2e/3b/7f2e3b0a-580a-cd2e-d81d-114d5679e995/7dff6192-9be8-43a0-9ac9-24cb2ba03460_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/3a/c1/cb3ac19e-053f-4add-a5ad-bc3384cc10d6/5214d48e-12fb-484c-89a9-2151d8acd186_7-_U6539.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/a3/3f/89a33f64-cdf5-9b13-f1be-2a1971342ccc/12c05816-b4e9-44e5-ad3e-ace4b0fe1b37_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/ed/7c/69ed7c06-951e-dcd7-447a-e5b244a42c41/427adc86-f8a8-4f11-bf11-7f76101a0451_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/0d/fa/4e0dfaa4-7286-e55b-5785-209fd28c3583/8890e387-2792-4b08-a51b-2def38f6f52b_6.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/46/17/b046177a-a132-ba00-e664-cdf814bf015a/eca942ed-8753-4e5f-bb8d-03419ddcc719_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/7b/e0/287be0b8-29df-df5f-4816-bed960ee819f/e378cfd2-8d30-485c-ab52-edd6954ff120_4.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/e2/e6/d7e2e609-5dfb-65a9-1660-f25323a2a8ea/829bb29f-5521-499e-930c-d6eaf83b09ca_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/ea/9e/b1ea9e23-dee8-a3b5-6ec1-4f2217aa5a81/57030d2a-9091-4c1c-93c1-ac3e905d7d81_7-_U6539.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/c7/68/b8c768db-a683-e98c-b2d0-93dc8434caad/fff891ca-a59c-43c3-924e-c3e86a9f52eb_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/c7/93/bfc7935c-c5c4-512f-1198-654acf200962/2378cc67-1192-4eb8-8c32-4494a4fa2e45_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/47/dc/6647dcbb-74ef-a483-5718-4b8189dd0cee/23c4864d-56ef-4923-ab45-0811f728023a_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/5f/13/545f1358-e8cc-81d5-ba5c-718714c865c8/df6c5264-6a18-45ca-a5d3-10c3de437dc7_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/08/2f/1c082fb3-3591-dae1-24bd-b3d79d960fb1/a091b246-6920-4bb4-b104-eccbff93cf5d_4.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calorie Counter PRO MyNetDiary]]></title>
-        <id>Calorie Counter PRO MyNetDiary-hk-1750111941150</id>
-        <link href="https://apps.apple.com/hk/app/calorie-counter-pro-mynetdiary/id352247139?uo=4"/>
-        <updated>2025-06-16T22:12:21.150Z</updated>
-        <summary type="html"><![CDATA[MyNetDiary Premium: HK$ 548.00 → HK$ 68.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/calorie-counter-pro-mynetdiary/id352247139?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/05/a0/b905a06c-64f4-c054-f10b-0e75c4ea2fb5/AppIconPro-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>MyNetDiary Premium：</strong><span>HK$ 548.00</span> → <b>
-  <strong>HK$ 68.00</strong>
-</b><span>[HK$ 68.00 ~ HK$ 548.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 32.00</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    MyNetDiary Premium：<b>HK$ 68.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Track calories, food, and macros with ease! MyNetDiary has a free barcode scanner, personal diet plans, and AI Meal Scan for instant logging — all in a smart, simple-to-use app. 
-
-USERS SAY…
-
-The best
-Love this app! The best out of many food tracking apps that I have tried over the years. Love that it is free! The breakdown of the meal and daily nutrition is very informative. Try it you will love it!
-
-LOVE LOVE LOVE THIS APP
-Best app for tracking food, exercise! Consistently losing weight! I love how it shows you if you're on target for your goal. Great layout, great look, easy to use!!! I highly recommend this app if you're looking to be a healthier you!!!
-
-Fast, intuitive, user friendly
-I have tried other calorie tracking programs over the years and this app is by far the best I've come across. I highly recommend it. The free version is very good and I am now enjoying the extra functions through a paid subscription.
-
-RECOGNIZED EXCELLENCE
-• Ranked #1 in Forbes Health’s Best Weight Loss Apps of 2025.
-• Rated #1 by the American Journal of Preventive Medicine.
-• Praised by The New York Times as “simpler, quicker, and better-looking” than other apps.
-• Featured in Today’s Dietitian, alongside WW and Noom.
-
-DIFFERENT FROM OTHER DIET APPS
-• Simple & Generous Features: Packed with free tools, no ads.
-• Lightning-Fast Logging: Barcode scanner and AI Meal Scan make tracking effortless.
-• Verified Food Database: Over 1.7 million items with 108 nutrients for accuracy.
-• Privacy Focused: No account required.
-
-MyNetDiary puts you in control. You can pick a diet or a meal plan, follow our registered dietitians' easy tips, and follow the app's guidance. Or, you can turn them off and simply use MyNetDiary as the best free calorie-counting app in the world.
-
-PROVEN SUCCESS
-• Active members lose an average of 1.4 lbs/week
-• Over 25 million users have chosen MyNetDiary, many switched from other diet apps
-
-A few of the free version features:
-• Easy food, exercise, and water tracking.
-• Daily coaching tips and meal reminders.
-• Customizable dashboard for your goals.
-• iOS Health integration and Apple Watch support.
-• Shopping lists, nutrition articles, and how-to videos.
-
-SPECIAL PRO APP FEATURES
-• Up to 108 nutrients tracked
-• Plan macros
-• Full set of charts
-• Timestamps
-• Carb tracking
-
-If you need more support, MyNetDiary Premium provides all the guidance and features you may need. At your fingertips, you'll find:
-
-• Premium Diets, 600+ full-flavored Premium Recipes and Menus by RDs, including low-carb, keto, high-protein, Mediterranean, vegetarian, and more - with diet planners, guides, and feedback.
-• Intermittent fasting - full-featured, with fasting timer and different protocols.
-• Macros planning and cycling.
-• Planning and tracking up to 108 nutrients, including omegas and aminos.
-• Recipe import tool - easily load internet recipes and calculate complete nutrition.
-• Integrations with top fitness trackers - Fitbit, Garmin, and Withings.
-• In-depth reporting and analysis tools to improve your diet.
-
-Subscription Terms:
-The subscription period will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current subscription period. To turn this function off, turn off auto-renew in your iTunes account. Renewal payments will differ depending on subscription and pricing at the time of renewal. Your iTunes account will be charged when the purchase is confirmed.
-
-Privacy Policy: www.mynetdiary.com/privacy.html
-Terms of Use: www.mynetdiary.com/terms.html
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/fa/97/77fa9799-510a-b8fa-8c6f-02bb6816e8cb/b6e679b3-ee7e-4575-8e1a-f3b3b9fa921a_Screen_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/d3/fb/05d3fbd0-1391-e2d9-64b3-7f9248d34126/70ed9fe0-d03d-4ff4-9a02-7cf7c9af602d_Screen_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/e1/f3/99e1f363-f0f9-0c8f-5456-38ee55fe92f9/96daa0f1-6b5e-46d1-afff-e96e947a349a_Screen_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/e8/bc/85e8bc5a-ec08-bb69-ff33-a8dc7d8d54b4/ff522954-5593-411e-8fef-230574cc533c_Screen_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/52/3a/c0523a87-51d7-e244-51ab-bff843147a4d/5314493e-674b-49b2-88c4-489ce0d7c9f7_Screen_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/6f/e0/2f6fe0d5-94fc-0e2b-229a-4b23555dd053/393405a5-1aad-49fd-9fa1-6f6aa8e05cea_Screen_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/e9/f3/10e9f314-c498-0dc4-42ad-8ee95d548994/99d376bd-5853-4149-9be8-3fc62a321424_Screen_08.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/48/81/684881b8-2805-2130-33f5-d5dc0d405994/7146ba39-1443-44e6-8c9e-20a48fbe5000_Screen_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/56/f4/a056f483-baea-b1f4-2c8e-088b6165b160/b7ceaa29-67a2-48f3-be17-2b6bb5702ab9_Screen_09.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/97/e2/f697e284-2117-e766-30f5-0d65ef1d60e0/f14ca282-cd3d-455e-8eec-f459d71f9ed1_Screen_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/e0/cc/4ae0cc83-f6dc-df8d-1fc2-a0deb24d6341/c7de4cda-f3e0-4cd4-a185-5158fd872988_Screen_01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/b3/2e/0fb32e68-73b3-344d-14ce-7e578d30a804/8b26b7fc-2fe0-4e83-ae00-52d729805b39_Screen_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/3e/03/b73e0382-66eb-6acb-e8df-e04ea5f03f7c/2310293b-81f6-4d6b-a181-f111649ee94f_Screen_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/db/46/67db46ac-b64c-8518-011a-47dc80150667/7489bfc2-2625-46e6-9b00-e8c7f02c989d_Screen_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/42/03/06420381-c68a-6ecc-92cc-a66e8037f19f/d80a7aba-a78f-43ef-aa63-add41fdb7853_Screen_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/cb/f3/37cbf3d7-866f-3e1f-cf4a-517fced16a05/ab932558-1ea9-4e3c-a34f-0233a55b0768_Screen_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/91/2f/a6912fdb-ee72-6bdb-3cd7-97a0a1b44de9/87ba38fe-2c96-4aa7-85ab-217789b20140_Screen_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/56/ca/8c56caed-31d6-2d76-c80d-566fb6ef4c8a/763e548c-c583-4a8e-b5ec-4254c33d9b35_Screen_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/9c/4b/449c4bcb-90e8-2ed6-3771-79b24a9a7585/59ec4a73-a0ef-4e97-9708-5294a3d81201_Screen_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/93/60/ce936090-05a1-efac-d31a-4c68a3146454/1f9edcb4-c4a0-47c6-b037-220eb171d735_Screen_10.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Money Pro: 個人財務]]></title>
-        <id>Money Pro: 個人財務-hk-1750108325195</id>
-        <link href="https://apps.apple.com/hk/app/money-pro-%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/id918609651?uo=4"/>
-        <updated>2025-06-16T21:12:05.195Z</updated>
-        <summary type="html"><![CDATA[PLUS: HK$ 148.00 → HK$ 38.00<br/>GOLD: HK$ 288.00 → HK$ 88.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/money-pro-%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/id918609651?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/cf/4f/d6cf4fa3-3fe5-4bdb-497c-e557448ffcc5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>PLUS：</strong><span>HK$ 148.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b><span>[HK$ 38.00 ~ HK$ 148.00]</span>
-  </li><li>
-    <strong>GOLD：</strong><span>HK$ 288.00</span> → <b>
-  <strong>HK$ 88.00</strong>
-</b><span>[HK$ 88.00 ~ HK$ 288.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 8.00</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    PLUS：<b>HK$ 38.00</b>
-  </li><li>
-    GOLD：<b>HK$ 88.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  輕鬆編列預算。 Money Pro® 讓您節省開銷！
-Money Pro 讓您集中規劃帳單、預算，並記錄帳號活動。 Money Pro 非常適合規劃家庭預算。
-
-可輕鬆同步資料，iPhone/iPad 版本完全整合。Money Pro 是新一代的 Money 應用程式（全球下載超過 200 萬次）。
-
-功能
-
-行事曆
-- 在每月行事曆標示帳單到期日
-- 可設定自定週期的重複性帳單
-- 可在行事曆上選取日期，以便篩選交易資料
-
-今日檢視
-- 一看就知道哪些帳單到期
-- 如果您有實際交易，可快速進行
-- Money Pro 可預測尚未手動排定的當日交易活動
-
-帳單到期通知
-- 整套提醒系統可通知您哪些帳單即將到期
-- 快速重新排程選項可協助您處理到期帳單（明天、3 天後、下週）
-
-預算
-- 建立收入和開銷的預算項目，並指定每個項目的預算限制
-- 您可設定每個週期的預算限制，以便逐月減少開銷
-- 您可加入每筆交易，並看到每個類別的個別進度和整體進度
-- 並監控預算超支的視覺指標
-- 選取您要分析的類別，檢視立即製作出來的預算趨勢圖表
-
-預算累計
-- 您可設定將當期的剩餘金額轉入下一期預算
-- 預算累計功能可在您前一期透支時自動限制支出
-
-支票簿登記
-- 集中管理不限數目的帳號（支票、儲蓄、信用卡等等）
-- 設定重複交易或只會出現一次的交易
-- 餘額變動記錄
-- 可用於整理記錄的其他欄位，包括收款人、說明、支票編號、等級（個人/出差開銷）
-- 收據照片附件
-
-帳戶調節
-- 您可先記錄交易資料，以後再清除 (調節)
-- 自動計算可用餘額和清算的餘額
-
-網路銀行 (GOLD 訂購)
-- 趕快連結銀行並下載個人財務資料
-
-輸入銀行對帳單 
-- 輸入交易記錄並讓個人帳戶永遠保持在最新狀態（支援檔案：.ofx, .csv）
-- Money Pro 可學習您的交易分類邏輯，並預測所輸入交易的類別
-
-交易分割
-- 您可將一筆交易分成多種類別。當您在多家大型賣場購物並且一次支付多筆款項時，這項功能會非常有用
-
-計算機和貨幣轉換工具
-- 可在您規劃預算時計算金額
-- 只要輸入交易資料就能迅速轉換貨幣
-
-搜尋
-- 可根據金額、類別、說明、收款人等等條件搜尋交易記錄
-
-詳細報表
-- 收入/花費
-- 現金流
-- 交易
-- 資產/負債（資本淨值）
-- 預期餘額 
-- 日/週/月/年趨勢圖表
-
-多種自定選項
-- 規劃預算和支付帳單時可使用自定週期功能（每週、每雙週、每月等等）
-- 根據個人需求調整收支類別和子類別的結構
-- 內建 1,500 多種圖示，可供帳戶和類別自定之用
-- 可使用照片製作專屬圖示
-
-Money Pro 同步 (PLUS 或 GOLD 訂閱方案)
-- 和其他使用者在不同裝置上一起追蹤開銷 *（跨平台和全家人資料雲端同步）
-
-資料備份
-- Money Pro 可在關鍵時刻自動備份資料
-- 不過您也可以手動製作備份
-
-多個設定檔
-- 您可以設置多個個人資料，並分別跟踪您的個人和家庭財務
-
-更多
-- 可列印和匯出為 pdf、qif、csv 格式
-- 密碼保護
-- 設定和追蹤財務目標 (GOLD 訂購)
-- 在擴增實境中檢視報告 (GOLD 訂購)
-- 支援多種貨幣，並可自動更新匯率
-- 自動 iCloud 同步 (iPad、iPhone、Mac)
-
-PLUS
-- 1 個月的PLUS服務: $4.99
-
-GOLD
-- 1 個月的 GOLD 服務: $9.99
-
-除了美國以外，其他國家∕地區的實際費用都會自動轉換成當地貨幣。
-我們會在您確定購買時向 iTunes 帳號扣款。系統將自動續約，除非您在當期結束至少 24 小時前關閉自動續約功能。系統將在當期結束前的 24 小時內向帳號扣款續約。若要管理訂閱方案以及關閉自動續約功能，使用者必須在購買後前往帳號設定專區。您無法在訂閱生效期間取消訂閱。若提供免費試用期，使用者一旦在試用期結束前付費訂閱，視同放棄剩餘的試用時間。
-
-條款和隱私權
-- http://ibearsoft.com/privacy.html
-- http://ibearsoft.com/terms.html
-
-使用手冊
-https://money.pro/tw/guide/
-
-Money Pro 是通用型應用程式， 只要購買一次即可在 iPhone 和 iPad 上使用。
-
-* 請參閱「App 支援」以取得更多詳細資訊
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/3f/4c/9f3f4c8e-a94c-0664-c76a-f12a2803f9a5/4abee680-4315-4c74-83e0-3a046978274d_iphone_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/39/7a/0c/397a0c89-82b8-868c-a5b9-8bd4ba42afe4/fbb90ff1-a5fb-46d2-af94-20a9944fe51e_iphone_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cb/33/61/cb336132-ba97-e5ca-712e-3201a753af33/1934c814-cec8-446e-a98e-938dd94e644b_iphone_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ae/b4/fa/aeb4faff-f46d-b482-9834-f612b7a261d7/06437c61-a75f-4d36-ba91-71469a53337b_iphone_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9e/a6/79/9ea679f5-12a8-ee97-6800-1ed0cf322d0f/55bda7eb-785c-4d10-95bd-cca216aea2e4_iphone_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fa/1e/85/fa1e8562-bb96-1b0b-89bc-df994400215a/4d2a77d1-b9eb-4580-bcee-7f84737fc3f1_iphone_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/60/f4/ce/60f4ce75-9d94-5f33-a355-069fabb23b08/dd206acf-6424-4251-abc3-ec56f7b35e9c_iphone_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/00/30/6e/00306e85-17e6-88e1-3521-a0d576970379/2e803e74-d084-4197-ad40-605fd7066298_iphone_9.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/69/74/ab/6974abd7-ced0-a80c-51b5-2c3171b811ce/f162c912-b4a2-4c40-ae3a-1966f522b4bc_ipad1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/e6/a4/83e6a4e2-128c-07ce-31a4-7207612e89ec/47b43808-5731-4031-b8c7-693ff8c8e647_ipad2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b3/11/81/b31181b0-eca5-25f5-8dcd-1008699af334/1d8483ed-eecf-4010-b0da-f80d4b4c9585_ipad3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/56/b8/81/56b881f0-f905-d2c7-8111-5dc89d810cdc/688fc7cd-1b90-471f-a50f-14e32f49d79f_ipad4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7b/7a/27/7b7a27d8-2c1f-1202-23b3-4b74d07349dd/4de40124-2089-4dce-ac6d-fe5913976d13_ipad5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b0/fd/03/b0fd039b-05d9-5156-21f2-b75a6380833b/169d45c3-386f-4595-a96f-7c93b8393860_ipad7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dc/bb/31/dcbb31da-080c-ca4c-f107-de5a2189ad3c/770f1af7-5e48-49b2-aabe-65b30462eb0a_ipad8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/14/fc/b0/14fcb016-dcd2-ac9b-8fd9-cd90524c670e/c9391506-159e-40e2-bd74-532fb686e30d_ipad9.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorsport Manager 4]]></title>
-        <id>Motorsport Manager 4-hk-1750104836612</id>
-        <link href="https://apps.apple.com/hk/app/motorsport-manager-4/id6449251957?uo=4"/>
-        <updated>2025-06-16T20:13:56.612Z</updated>
-        <summary type="html"><![CDATA[Bundle: HK$ 88.00 → HK$ 38.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/motorsport-manager-4/id6449251957?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>Bundle：</strong><span>HK$ 88.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b><span>[HK$ 38.00 ~ HK$ 88.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 38.00</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    Huge Investment：<b>HK$ 38.00</b>
-  </li><li>
-    Bundle：<b>HK$ 38.00</b>
-  </li><li>
-    Premium livery bundle：<b>HK$ 48.00</b>
-  </li><li>
-    Very Large Investment：<b>HK$ 22.00</b>
-  </li><li>
-    Investment：<b>HK$ 18.00</b>
-  </li><li>
-    Large Investment：<b>HK$ 22.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  MOTORSPORT MANAGER 4: MASTER RACE STRATEGY
-
-BUILD YOUR RACING DYNASTY
-Immerse yourself in the captivating journey of constructing your motorsport empire from the ground up, where every choice holds the key to your success.
-
-ASSEMBLE YOUR DREAM TEAM
-Hand-pick exceptional drivers and engineer a world-class racing powerhouse. Collaborate closely with drivers to secure pole positions and craft pitstop strategies that lead to race domination.
-
-REAL-TIME STRATEGY UNFOLDS
-Experience the adrenaline-pumping action of races in real-time or navigate through intricate strategy screens. Swiftly adapt to ever-changing weather, unexpected crashes, and the emergence of safety cars.
-
-UNLEASH VARIETY ON THE TRACK
-Embark on thrilling GT and Endurance racing adventures across six distinct championships. Immerse yourself in the iconic beauty of Monaco's settings, rendered in breathtaking artistry.
-
-DRIVERS TAKE CENTER STAGE
-Step into the shoes of promising new drivers, delve into their statistics, and cultivate pivotal relationships. Navigate the revamped HQ, seize upgrade opportunities, and master the new part development system for an immersive journey.
-
-YOUR JOURNEY, YOUR CHALLENGE
-Embark on a motorsport odyssey where every choice shapes your destiny. Witness dynamic AI team movements and adjust the difficulty level as the game evolves with you.
-
-SEIZE CONTROL, MAKE HISTORY
-It's your opportunity to rewrite the annals of racing lore and etch your name into the history of motorsport. Motorsport Manager 4 empowers you like never before.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/8a/93/788a93e8-0611-e8a4-a8bb-127ea1ca7cd3/70b8f36f-46ad-4f55-bb44-26b1e1d42d90_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/0c/0f/df0c0f1b-b800-355e-e534-877d19d3ad6e/197b9078-d617-4bf1-ae75-a32666c0e221_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/36/84/da36845b-602b-4129-904b-4819e9a79cde/acae3ebf-4877-4010-b0c6-c5d2fa892453_FeaturingImage.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/7b/38/d17b387b-b95d-8fd1-de10-4b4a8534eceb/5dc173a9-d936-4bec-b601-fb16eab3942c_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/1c/c1/c01cc19a-ac47-a7a7-67ad-81d5020e0e1e/6f8fa231-827b-43d7-a412-284fba943dae_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/9a/e0/489ae001-4876-7503-4d52-09a484de1ee3/b12a712a-9dda-4bc2-a642-3d15ccc0163f_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/2f/73/572f736e-01bb-0350-e01e-10b27a29daba/4e65f90a-f4f0-4984-bbea-eeb6ce7e79ff_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/1d/a8/721da87c-9e9b-5067-e090-da14770902f9/2ba5b27d-6e12-4261-806f-58f728470a3b_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/45/59/c24559c0-b7c9-731f-9b2c-29896c7d69eb/65f7b50f-874c-4a56-abcc-5dfefea7987b_FeatureImage.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/53/75/a75375f0-e5cc-2099-11ca-e249ac80a1b3/9e80e2a6-d3b2-4dc2-a736-79fb54c6bd36_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/f7/5d/81f75d80-f417-4fe8-0d65-2c6af7ba98e8/41706b87-c615-448c-9c52-b018dd10d18d_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/e4/1b/a7e41bad-5ca9-c26f-8e9d-0b64e44fb512/22fcca1c-f9eb-4301-8497-0ad43f5bb621_5.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cluedo: Classic Edition]]></title>
-        <id>Cluedo: Classic Edition-hk-1750104836612</id>
-        <link href="https://apps.apple.com/hk/app/cluedo-classic-edition/id1238247658?uo=4"/>
-        <updated>2025-06-16T20:13:56.612Z</updated>
-        <summary type="html"><![CDATA[Ultimate Detective Collection: HK$ 188.00 → HK$ 68.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/cluedo-classic-edition/id1238247658?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/c6/e3/49c6e375-99ed-17ec-a77f-1c941abd917c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>Ultimate Detective Collection：</strong><span>HK$ 188.00</span> → <b>
-  <strong>HK$ 68.00</strong>
-</b><span>[HK$ 68.00 ~ HK$ 188.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 58.00</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    Ultimate Detective's Package：<b>HK$ 288.00</b>
-  </li><li>
-    Ultimate Detective’s Package：<b>HK$ 148.00</b>
-  </li><li>
-    Sherlock Theme：<b>HK$ 58.00</b>
-  </li><li>
-    Tropical Mystery Theme：<b>HK$ 58.00</b>
-  </li><li>
-    Murder Express train station：<b>HK$ 32.00</b>
-  </li><li>
-    Classic Mansion：<b>HK$ 32.00</b>
-  </li><li>
-    Ultimate Detective Collection：<b>HK$ 68.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  THE ORIGINAL HASBRO BOARD GAME - It’s the classic murder mystery! Who did it? With what weapon? In which room? There’s a high-risk party at the mansion and every guest is a suspect. Roll the dice, become a detective and let Cluedo begin!
-
-•        A PREMIUM DIGITAL BOARD GAME - There are no ads, no pop-ups and no pay-to-win limits. Once you buy the app, that’s it: unlimited multiplayer fun for you and your family and nothing to stop you solving the crime!
-
-•        A BRAIN TEASER - Test your detective skills. At the start of each game, Cluedo will take one suspect, one weapon, and one room from the deck, and deal the rest to the players. If you ask: “was it Colonel Mustard with the Rope in the Drawing Room”, a player holding the Colonel, the Rope or the Drawing Room must show you their card. Enter every room in search of answers!
-
-•        CLUESHEET & HINT SYSTEM - Who committed murder?! Don’t risk letting the criminal escape! Use your virtual cluesheet companion to make a note of the suspects, weapons and rooms you can eliminate. The ideal companion for every detective: cluesheet helps you make your deductions, perfect your strategy and solve the mystery.
-
-•        FAMILY FRIENDLY - It’s the original family board game by Hasbro, suitable for all players 8 years and over. With no adverts or necessary in-app purchases it’s multiplayer fun for kids and adults. With the whole board game on your mobile you can take Cluedo wherever you go! Roll the dice and solve the mystery!
-
-•        SINGLE PLAYER - Put your brain to the test against a guest list of AI murder suspects, online or offline! Choose your character, choose your opponents and let no criminal escape the mansion!
-
-•        ONLINE MULTIPLAYER - Play Cluedo with your friends and find out who’s guilty on mobile, PC or Nintendo Switch! Don’t let distance stop your board game night. Play on the go, or curl up in an armchair and settle down for a night of crime and detective work, wherever you are!
-
-•        10 ADDITIONAL THEMES - Explore ten different themed boards with Cluedo's Ultimate Detective’s Package. Listed under “Editor’s Choice” for the Most Stylish Game, our exclusive original themes are hand crafted by our studio artists. 
-o        Tudor Mansion: The guests at this party have turned out to be a lethal combination!
-o        Vampire Castle: In a household where every suspect is a monster, who committed the crime?
-o        Egyptian Adventure: Solve the crime, from the dark tombs of pharaohs to the crumbling pyramids!
-o        Hollywood: In a land where life is an act, can you find the truth in the fairytale?
-o        Murder Express: Challenge your friends to solve a mystery based on a classic Agatha Christie novel!
-o        Sherlock: Become the great detective and solve a crime on the dark streets of London!
-o        Snowy Peaks: Old friends have been reunited. Tensions are running high, but whose grudge ran that deep?
-o        Tropical Mystery: Someone has rocked this boat in a big way! It’s a luxury race to the answer!
-o        Venetian Masquerade: Historic Venice is beautiful, but crime lurks beneath the surface!
-o        Wild West: From the jailhouse to the saloon, the story of Dr. Black’s end will spread far and wide. Only you can discover the truth!
-
-
-About Marmalade Game Studio
-At Marmalade Game Studio we make quality, premium multiplayer board games. Play our classic games, including Monopoly and The Game of Life 2, anywhere on your mobile! Enjoy with your friends and family whether you’re together or apart. You can find the fun with people you know or players around the world. Our games are ad-free, family friendly fun. For quality time, look for the Marmalade Game Studio logo.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/96/dd/6096dd17-f5cb-29f4-1abe-0c8ecb6f3efe/330265f0-988e-4483-8304-bf0929d10267_A_screenshots_main_1242x2208_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/27/fb/8c27fb69-6bb2-0415-e993-0aef030883fc/26bf69d0-a2d4-45b2-b260-572f98f960ba_A_screenshots_main_1242x2208_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/8a/17/318a1718-bf1a-4fbc-110f-d482fbb5dec6/76c45d0b-9adf-4ead-a88a-ad4ef1b5b56b_A_screenshots_main_1242x2208_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b4/10/1d/b4101dfa-adce-d465-fdfb-b7206f065409/e06482df-f174-4d13-9f2f-e09762477ef2_A_screenshots_main_1242x2208_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/fe/0b/57fe0ba7-db6c-4ad6-5b31-d2b82dfc4668/e4f9d5ae-6bdf-494a-9064-365cf69607e3_A_screenshots_main_1242x2208_5_eng.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/ce/d7/38ced7e2-3014-30ac-3149-02a2437f1dc1/f74ae9f8-bf51-4917-937f-22a67052b2f3_A_screenshots_main_1242x2208_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/a8/d3/e9a8d31f-ed0d-9d13-d0f2-01a55d867c29/9a6f6172-d164-4cdf-89fe-bc7552451f1f_clue_screenshots_apple_arcade_1242x2208_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f0/8f/75/f08f7561-b65e-c5c6-1276-27aa27828736/a421e5b9-4959-4de4-bc96-e839f154f7ae_clue_screenshots_apple_arcade_1242x2208_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/02/e3/ca/02e3caa3-8aa8-e025-e0bc-ccb66d733a27/ed7d73f1-bafa-405a-92c5-66cc15d4257e_A_screenshots_main_2048x2732_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/e4/f5/cce4f5e4-b3e8-1072-5c95-c9b219b06b31/be5b52db-1bc9-4784-941b-fd3d602448e2_A_screenshots_main_2048x2732_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/67/bc/fe67bc8c-efff-2849-1b2f-104b09f242e6/b22cdb63-fa32-4b8d-a14d-6337ec2bc7b0_A_screenshots_main_2048x2732_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/36/37/22363735-6bdd-b1a9-73df-6e1338cb2b9e/9c60dcbc-fb34-4749-a3cc-6ec47be76aed_A_screenshots_main_2048x2732_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/9d/b3/a39db37d-ce7a-7992-069e-6994387ac9a7/fef82d1c-ea76-469f-9680-429e0a098695_A_screenshots_main_2048x2732_5_eng.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/02/a3/0a02a357-5cda-8942-cd1c-843986c6e176/cf6ef44c-9b97-4088-aa9f-bacd696ff028_A_screenshots_main_2048x2732_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/54/54/61/5454616e-bb84-b880-af85-5ac65186c50c/d2a75f6f-19c5-4f3e-ac86-8334d0dfb400_clue_screenshots_apple_arcade_2048x2732_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/e2/70/42e2704b-7602-bd67-6483-9c15db7d0fc2/7f77e34c-a1cc-4675-8f39-a692fc59e2ea_clue_screenshots_apple_arcade_2048x2732_7.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iScore5 APHG]]></title>
-        <id>iScore5 APHG-hk-1750090565214</id>
-        <link href="https://apps.apple.com/hk/app/iscore5-aphg/id1482339363?uo=4"/>
-        <updated>2025-06-16T16:16:05.214Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 22.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/iscore5-aphg/id1482339363?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/f5/13/72f513ee-f7d8-4a0b-4d00-d2e2f013fe85/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 38.00</span> → <b>
-  <strong>HK$ 22.00</strong>
-</b><span>[HK$ 22.00 ~ HK$ 38.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 22.00</b>
-</p><h2>应用描述</h2><p>
-  iScore5™ APHG is a test prep app to get students ready for the AP® Human Geography exam.  The app created by EXPERT teachers for AP Human Geography Students.
-
-The goal is simple: Help students maximize their scores on the AP exam in a FUN way.  Everything is designed like a trivia game for students, with running scores, leaderboards, bonus and double bonus rounds. Plus, you have the ability to unlock levels as you progress through levels of learning.
-
-iScore5 APHG has two major components. First, there is a practice vocabulary section that contains the MOST important terms from EVERY unit from the class. 
-
-Our second component is where the FUN begins. 5 levels of multiple-choice questions that you must unlock as you score points.  These questions come from each AP Human Geography unit.  Level 1 has easier questions and level 5 contains the most challenging. As you move through the levels, your learning improves.  
-
-Don’t worry about the quality of these questions!  All of the question writers are experienced expert AP Human Geography Teachers or Geography College Professors.  They know about the class and they know what types of questions to ask to prepare you for the AP exam. 
-But remember, they know you WANT TO HAVE FUN while you learn!  
-
-Think about it. Stop carrying all that review stuff.  The best reason we have for the app is when your mom sees you on your phone you can say,  “I AM STUDYING FOR THE AP HUMAN GEOGRAPHY EXAM!”
-
-Highlights:
-A running scoreboard 
-A leaderboard to see how you do against other students
-A paperless way to prepare for the AP Human Geography exam
-21st century learning and gaming
-
-Disclaimer: AP and Advanced Placement are registered trademarks of the College Board, which was not involved in the production of, and does not endorse, this product.
-
-© iScore5 App, LLC. 
-All rights reserved. The text of this app, or any part thereof, may not be reproduced in any manner without the written permission from the publisher.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/80/3d/ed/803dedd0-21e3-bad9-88f0-e1f7735589f2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/ef/04/baef04c0-0cdf-9a4a-f157-511d7bc792b2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/ea/9b/23ea9bd2-29e4-2621-5e11-bca185885958/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2a/c8/30/2ac830cc-3c2b-61fa-b5d9-c69b080393ca/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/70/46/73/704673b2-d79e-2bab-bf8d-a064f1e0dda0/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/50/bc/0d50bc6b-774d-ae9b-d62e-a51d8a24cb99/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/43/84/85/4384853d-a374-bf61-2f5b-cc81aea7f845/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/b5/da/2db5da2f-8613-aada-bdd5-0dea946a2a63/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/89/aa/65/89aa6533-71eb-84cd-22a2-97cf38a861a2/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/77/cf/5277cf4b-987a-c947-ef61-c0a5268cc1f1/pr_source.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
