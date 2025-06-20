@@ -60298,6 +60298,25 @@
     "history": [
       [
         {
+          "timestamp": 1750422311230,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "1元礼包": "¥1.00",
+            "6元礼包": "¥6.00",
+            "68元礼包": "¥68.00",
+            "98元礼包": "¥98.00",
+            "198元礼包": "¥198.00",
+            "8元礼包": "¥8.00",
+            "12元礼包": "¥12.00",
+            "30元礼包": "¥30.00",
+            "88元礼包": "¥88.00",
+            "648元礼包": "¥648.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749683597801,
           "price": 0,
           "formattedPrice": "免费",
@@ -60584,10 +60603,18 @@
       "formattedPrice": "¥18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750422311230,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745406133842,
