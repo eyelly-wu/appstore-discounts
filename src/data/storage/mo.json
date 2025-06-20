@@ -6545,6 +6545,14 @@
     "history": [
       [
         {
+          "timestamp": 1750407438491,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746367332061,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -59953,6 +59961,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750407438491,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "USD 3.99",
+            "The Aircraft Bundle": "USD 17.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Global scenery - 12 months": "USD 12.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Airbus A380": "USD 1.99",
+            "Airbus A321": "USD 1.99",
+            "Boeing 787-10": "USD 1.99",
+            "Robin DR400": "USD 0.99",
+            "Boeing 777F": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1750403551717,
           "price": 3.99,
