@@ -63056,14 +63056,22 @@
   "1596063349": {
     "name": "Stash",
     "maxPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 190,
+      "formattedPrice": "$190.00"
     },
     "minPriceInfo": {
       "price": 120,
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750439465125,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
