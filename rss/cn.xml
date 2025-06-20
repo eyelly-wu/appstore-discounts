@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-19T14:34:07.332Z</updated>
+    <updated>2025-06-20T03:33:10.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-19T14:34:07.334Z</updated>
+        <updated>2025-06-20T03:33:10.383Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 19 Jun 2025 14:34:07 GMT</id>
+        <id>rankingcnFri, 20 Jun 2025 03:33:10 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-19T14:34:07.334Z</updated>
+        <updated>2025-06-20T03:33:10.384Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1150</b>
+        <b>1156</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>949</b>
+        <b>955</b>
       </td>
       <td>
         <b>16</b>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>628</b>
+        <b>632</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>466</b>
+        <b>470</b>
       </td>
       <td>
         <b>13</b>
@@ -306,6 +306,45 @@ feedId:157007849019630592+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id6550914957">打造世界-经典沙盒建造</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>DLC：英雄对决</i>：<b>1</b>
+              </li><li>
+                <i>DLC：怪物联盟</i>：<b>1</b>
+              </li><li>
+                <i>DLC：龙之神庙</i>：<b>1</b>
+              </li><li>
+                <i>DLC：贪婪洞窟</i>：<b>1</b>
+              </li><li>
+                <i>DLC：异界</i>：<b>1</b>
+              </li><li>
+                <i>DLC：外星入侵</i>：<b>1</b>
+              </li><li>
+                <i>DLC：邪恶之心</i>：<b>1</b>
+              </li><li>
+                <i>奇境森林</i>：<b>1</b>
+              </li><li>
+                <i>DLC：孤山世界</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
       </td>
       <td>
@@ -320,7 +359,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id352247139">Calorie Counter PRO MyNetDiary</a>
@@ -343,7 +382,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id510249014">水平仪 HD</a>
@@ -360,7 +399,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id646256209">Photo Eraser</a>
@@ -377,7 +416,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id703265535">FocusDots · 专注于当下</a>
@@ -394,7 +433,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
@@ -411,7 +450,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id936694037">录音机专业版: 高清录制</a>
@@ -428,7 +467,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1028950091">贪婪洞窟：猿神降临</a>
@@ -451,7 +490,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1055511498">Day One Journal</a>
@@ -474,7 +513,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
@@ -497,7 +536,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1304822713">无尽坦克大战 - 八位元单机王者 完美模拟穿越旧经典电视手游</a>
@@ -514,7 +553,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -531,7 +570,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400652313">冰钓大师</a>
@@ -548,7 +587,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -571,7 +610,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1437479513">逃脱者：困境突围</a>
@@ -598,7 +637,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1482339363">iScore5 APHG</a>
@@ -615,7 +654,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1519571900">Luwian</a>
@@ -632,7 +671,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -649,7 +688,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1523446532">重生细胞</a>
@@ -666,7 +705,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
@@ -683,7 +722,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -700,7 +739,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1551596643">模拟地铁</a>
@@ -717,7 +756,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1558391784">Filebar</a>
@@ -740,7 +779,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
@@ -757,7 +796,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -774,7 +813,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744837914">块块爱消除-手表游戏经典快乐休闲益智</a>
@@ -791,7 +830,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -808,7 +847,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -825,7 +864,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -842,7 +881,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -867,7 +906,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6743487416">黄金矿工 for Watch - 经典复刻</a>
@@ -884,7 +923,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
@@ -901,7 +940,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742221550">魔卡棋旅</a>
@@ -912,45 +951,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>43</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6550914957">打造世界-经典沙盒建造</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>DLC：英雄对决</i>：<b>1</b>
-              </li><li>
-                <i>DLC：怪物联盟</i>：<b>1</b>
-              </li><li>
-                <i>DLC：龙之神庙</i>：<b>1</b>
-              </li><li>
-                <i>DLC：贪婪洞窟</i>：<b>1</b>
-              </li><li>
-                <i>DLC：异界</i>：<b>1</b>
-              </li><li>
-                <i>DLC：外星入侵</i>：<b>1</b>
-              </li><li>
-                <i>DLC：邪恶之心</i>：<b>1</b>
-              </li><li>
-                <i>奇境森林</i>：<b>1</b>
-              </li><li>
-                <i>DLC：孤山世界</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1118,6 +1118,74 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打造世界-经典沙盒建造]]></title>
+        <id>打造世界-经典沙盒建造-cn-1750389110383</id>
+        <link href="https://apps.apple.com/cn/app/%E6%89%93%E9%80%A0%E4%B8%96%E7%95%8C-%E7%BB%8F%E5%85%B8%E6%B2%99%E7%9B%92%E5%BB%BA%E9%80%A0/id6550914957?uo=4"/>
+        <updated>2025-06-20T03:11:50.383Z</updated>
+        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%93%E9%80%A0%E4%B8%96%E7%95%8C-%E7%BB%8F%E5%85%B8%E6%B2%99%E7%9B%92%E5%BB%BA%E9%80%A0/id6550914957?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/da/13/63da13de-f588-8ae2-54c2-5b482baf422f/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥18.00</span> → <b>
+  <strong>¥12.00</strong>
+</b><span>[¥9.00 ~ ¥18.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥12.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    DLC：姐妹连：<b>¥2.00</b>
+  </li><li>
+    DLC：英雄对决：<b>¥6.00</b>
+  </li><li>
+    DLC：怪物联盟：<b>¥9.00</b>
+  </li><li>
+    DLC：贪婪洞窟：<b>¥4.00</b>
+  </li><li>
+    DLC：龙之神庙：<b>¥7.00</b>
+  </li><li>
+    DLC：异界：<b>¥6.00</b>
+  </li><li>
+    DLC：外星入侵：<b>¥6.00</b>
+  </li><li>
+    DLC：孤山世界：<b>¥9.00</b>
+  </li><li>
+    DLC：邪恶之心：<b>¥9.00</b>
+  </li><li>
+    奇境森林：<b>¥13.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  《打造世界》结合了策略、方块建造沙盒以及塔防多种元素。游戏中，你不是一个人在战斗，需要带领矮人部落在这个充满危险生物的随机世界里进行探索，安排他们分工合作收集资源，制作需要的物品、武器和盔甲，以及建造城堡，来抵御危险生物的入侵。
+
+【世界探索、沙盒生存】
+游戏共有七个不同的世界（游戏本体4个地图+3个dlc地图），每个世界都是随机生成的岛屿，你可以在游戏中自由的改变地形地貌。不同世界有着各自的地理及生物特色，同时也暗藏各类怪物和BOSS。带上大聪明矮人征服各个世界吧！
+
+【资源采集、制作发展】
+游戏中挖掘矿藏、捕捉动物、打败敌人、种植农田等等方式获得原料；升级科技树，制作数百种完全不同的物品！要知道除了常规的武器、建筑材料、食物、炼金药水外，你甚至建造一个广大的矿井网，配上升降机和铁路，快速抵达藏有最珍贵金属的矿脉中。如何发展矮人部落，你可要好好思考一下。
+对了，必须得告诉你，游戏中存在各种魔法，比如打开传送门，提高矮人运输资源的效率；使用魔法之光照亮黑暗的洞穴吓跑怪物；使用降水或是魔法森林加快树木成长，或者是使用指南针魔法找到隐藏资源，从而帮助加快资源开采，探索世界。
+
+【自由建造、殖民管理】
+发展一个部落可没那么容易，你需要安排矮人们的衣食住行，可以直接控制矮人进行挖掘、砍伐、攻击、建造等操作，并在矮人与怪物和BOSS战斗时使用魔法帮助他们。
+在游戏刚开始时，你只有1位矮人，随着在这个世界的等级提升，会获得更多的矮人；而随着人数越来越多，部落规模也越来越大的。
+部落的发展，建筑是必不可少的，发挥你天马星空的想象吧，无论是建古代宫殿风格、还是想要征服天空的空中住宅、又或者是结合现代科技坚不可摧的堡垒，只要你脑洞够大，创造独属于你的矮人之家！
+
+【即时战略&塔防战斗】
+有些怪物会成群结队的来掠夺矮人资源，有些怪物会定期从传送门而来攻打矮人，你需要带领矮人建立攻防系统，在的堡垒周围的路上设满陷阱和导弹塔，抵抗成群结队入侵而来的敌人。
+
+【DLC拓展内容】
+丰富的DLC内容拓展既可以带你领略不一样的世界：融合中式风格元素的《龙之神庙》、家园领地保卫战的《孤山世界》、暗黑领主和矮人的终极决战《邪恶之心》，还可以让你在世界探索中增加更多乐趣：女矮人携宠物及新装备登场的《姐妹连》、在神秘的斯芬克斯的沙漠世界探索神庙的《废弃矿山》、充满了植物和古老的魔法的《贪婪洞窟》，召唤英雄战士和法师的《英雄对决》，对抗更加强大的地下深渊头目的《怪物联盟》。
+
+【联系我们】
+抖音：@良心工作室
+快手：@良心工作室
+B站：@良心工作室
+小红书：@良心工作室
+微博：@良心工作室官方
+Q群：320015298
+
+若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[避难所：生存]]></title>
@@ -2289,45 +2357,5 @@ https://www.camscanner.com/app/privacy?language=zh-cn
 在Facebook 上关注我们：CamScanner
 在Google+上关注我们：CamScanner
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0a/02/5d/0a025d87-0717-f230-7a6c-37d857420a0a/7f83901c-5273-4344-916d-857c770c1fda_9.__U7b80_U4f53_U4e2d_U65875.5-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9b/8e/d2/9b8ed2f7-ee0e-9c10-3b78-91bc3b594dc8/350a759c-a74c-478c-84c4-433f45905095_9.__U7b80_U4f53_U4e2d_U65875.5-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/72/63/9d/72639db9-97fe-adff-dc5b-e95a29f5edd7/0ffd2170-a1ee-4394-bce1-dfd8012f8ae0_9.__U7b80_U4f53_U4e2d_U65875.5-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bd/d9/ee/bdd9eefd-f568-9796-a42d-ccd454053c19/424b1fb3-4fb0-4626-a3b3-4567bdf207e1_9.__U7b80_U4f53_U4e2d_U65875.5-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/8c/ad/3d8cadd5-bbb2-22dc-3dd7-cd4e425123a6/ed0a4c47-59dc-4ac5-8520-8ad8f8829721_9.__U7b80_U4f53_U4e2d_U65875.5-6.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iScore5 APHG]]></title>
-        <id>iScore5 APHG-cn-1750090565214</id>
-        <link href="https://apps.apple.com/cn/app/iscore5-aphg/id1482339363?uo=4"/>
-        <updated>2025-06-16T16:16:05.214Z</updated>
-        <summary type="html"><![CDATA[价格: ¥38.00 → ¥22.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/iscore5-aphg/id1482339363?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/f5/13/72f513ee-f7d8-4a0b-4d00-d2e2f013fe85/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥38.00</span> → <b>
-  <strong>¥22.00</strong>
-</b><span>[¥22.00 ~ ¥38.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥22.00</b>
-</p><h2>应用描述</h2><p>
-  iScore5™ APHG is a test prep app to get students ready for the AP® Human Geography exam.  The app created by EXPERT teachers for AP Human Geography Students.
-
-The goal is simple: Help students maximize their scores on the AP exam in a FUN way.  Everything is designed like a trivia game for students, with running scores, leaderboards, bonus and double bonus rounds. Plus, you have the ability to unlock levels as you progress through levels of learning.
-
-iScore5 APHG has two major components. First, there is a practice vocabulary section that contains the MOST important terms from EVERY unit from the class. 
-
-Our second component is where the FUN begins. 5 levels of multiple-choice questions that you must unlock as you score points.  These questions come from each AP Human Geography unit.  Level 1 has easier questions and level 5 contains the most challenging. As you move through the levels, your learning improves.  
-
-Don’t worry about the quality of these questions!  All of the question writers are experienced expert AP Human Geography Teachers or Geography College Professors.  They know about the class and they know what types of questions to ask to prepare you for the AP exam. 
-But remember, they know you WANT TO HAVE FUN while you learn!  
-
-Think about it. Stop carrying all that review stuff.  The best reason we have for the app is when your mom sees you on your phone you can say,  “I AM STUDYING FOR THE AP HUMAN GEOGRAPHY EXAM!”
-
-Highlights:
-A running scoreboard 
-A leaderboard to see how you do against other students
-A paperless way to prepare for the AP Human Geography exam
-21st century learning and gaming
-
-Disclaimer: AP and Advanced Placement are registered trademarks of the College Board, which was not involved in the production of, and does not endorse, this product.
-
-© iScore5 App, LLC. 
-All rights reserved. The text of this app, or any part thereof, may not be reproduced in any manner without the written permission from the publisher.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/80/3d/ed/803dedd0-21e3-bad9-88f0-e1f7735589f2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/ef/04/baef04c0-0cdf-9a4a-f157-511d7bc792b2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/ea/9b/23ea9bd2-29e4-2621-5e11-bca185885958/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2a/c8/30/2ac830cc-3c2b-61fa-b5d9-c69b080393ca/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/70/46/73/704673b2-d79e-2bab-bf8d-a064f1e0dda0/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/50/bc/0d50bc6b-774d-ae9b-d62e-a51d8a24cb99/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/43/84/85/4384853d-a374-bf61-2f5b-cc81aea7f845/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/b5/da/2db5da2f-8613-aada-bdd5-0dea946a2a63/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/89/aa/65/89aa6533-71eb-84cd-22a2-97cf38a861a2/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/77/cf/5277cf4b-987a-c947-ef61-c0a5268cc1f1/pr_source.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

@@ -5343,6 +5343,18 @@
     "history": [
       [
         {
+          "timestamp": 1750389110383,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "pack of 100 Badoo credits": "$1.99",
+            "Pack of 100 Credits": "$3.99",
+            "Badoo Premium": "$5.99",
+            "Super Powers": "$2.99",
+            "pack of 550 Badoo credits": "$7.99"
+          }
+        },
+        {
           "timestamp": 1750381310408,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -22146,6 +22158,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750389110383,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Starter Pack": "$4.99",
+            "Largo Sniper Rifle": "$0.99",
+            "Aria Sniper Rifle": "$9.99",
+            "Brutus Sniper Rifle": "$5.99",
+            "The Merry Maker Rifle": "$14.99",
+            "Aria Gold Sniper Rifle": "$24.99",
+            "Small Money Pack": "$0.99",
+            "Dragun": "$14.99",
+            "Exorcist": "$14.99",
+            "Extra Large Money Pack": "$9.99"
+          }
+        },
         {
           "timestamp": 1750381310408,
           "price": 0.99,
@@ -40258,8 +40287,8 @@
       "Original Lord Skill Package": "$17.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "DLC \"The Card Game\"": "$3.99",
       "Original Succession Package": "$17.99",
       "Monster Succession": "$4.99",
@@ -40291,6 +40320,25 @@
       "Original Lord Skill Package": "$17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750389110383,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Monster Succession": "$4.99",
+            "Awakened Irea Package": "$4.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Original Lord Complete Package": "$26.99",
+            "Awakening Viper Package": "$4.99",
+            "Torture Master Package": "$22.99",
+            "Original Monster Package": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750144371009,
@@ -60013,6 +60061,14 @@
     "history": [
       [
         {
+          "timestamp": 1750389110383,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750302768824,
           "price": 0,
           "formattedPrice": "Free",
@@ -61379,6 +61435,16 @@
       "Filebar Pro Lifetime": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750389110383,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750253311174,
@@ -77605,10 +77671,18 @@
       "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750389110383,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
