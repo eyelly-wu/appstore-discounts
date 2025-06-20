@@ -62819,5 +62819,51 @@
         }
       ]
     ]
+  },
+  "6449233549": {
+    "name": "Ark Nova",
+    "maxPriceInfo": {
+      "price": 10.99,
+      "formattedPrice": "USD 10.99"
+    },
+    "minPriceInfo": {
+      "price": 10.99,
+      "formattedPrice": "USD 10.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750417857625,
+          "price": 10.99,
+          "formattedPrice": "USD 10.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6745474000": {
+    "name": "空气枪BiuGun",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "PRO版武器": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "PRO版武器": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750417857625,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "PRO版武器": "USD 0.99"
+          }
+        }
+      ]
+    ]
   }
 }

@@ -64209,5 +64209,30 @@
         }
       ]
     ]
+  },
+  "6745474000": {
+    "name": "空气枪BiuGun",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "PRO版武器": "¥6.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "PRO版武器": "¥6.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750417857625,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "PRO版武器": "¥6.00"
+          }
+        }
+      ]
+    ]
   }
 }

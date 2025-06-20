@@ -1168,6 +1168,25 @@
     "history": [
       [
         {
+          "timestamp": 1750417857625,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {
+            "HAA Link": "₺449,99",
+            "HAA Pro Module": "₺899,99",
+            "SPL Enhance": "₺899,99",
+            "All-In Module Access": "₺449,99",
+            "HAA Upgrade to Pro": "₺17.999,99",
+            "HAA Pro Installer": "₺22.999,99",
+            "HAA Home Theater": "₺4.499,99",
+            "Unlock All Tier 5": "₺9.999,99",
+            "Unlock All Tier 7": "₺14.999,99",
+            "Unlock All Tier 4": "₺8.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749759261922,
           "price": 899.99,
           "formattedPrice": "₺899,99",
@@ -8505,6 +8524,25 @@
       "Richman 4 Fun ChinesePaladin5 package": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750417857625,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ruins Explorer Package": "₺39,99",
+            "Empire of Angels Package": "₺39,99",
+            "Richman 4 Fun Paid FI Package": "₺39,99",
+            "Richman4 Paid AC Package": "₺39,99",
+            "Richman4 Paid Monster Package": "₺39,99",
+            "Richman 4 Fun Undersea package": "₺39,99",
+            "Richman 4 Fun Treasure package": "₺39,99",
+            "Richman 4 Fun Water map package": "₺39,99",
+            "Richman 4 Fun  PARIS & LONDON": "₺39,99",
+            "Richman 4 Fun  Hawaii & South Pole Island": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748149335337,
@@ -66569,6 +66607,52 @@
           "price": 999.99,
           "formattedPrice": "₺999,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449233549": {
+    "name": "Ark Nova",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750417857625,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6745474000": {
+    "name": "空气枪BiuGun",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "PRO版武器": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "PRO版武器": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750417857625,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "PRO版武器": "₺39,99"
+          }
         }
       ]
     ]

@@ -4395,6 +4395,18 @@
     "history": [
       [
         {
+          "timestamp": 1750417857625,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "1350 Badoo Credits": "$790.00",
+            "3050 Badoo Credits": "$1,490.00",
+            "450 Badoo Credits": "$320.00",
+            "250 Badoo Credits": "$150.00",
+            "Lifetime Badoo Premium": "$2,490.00"
+          }
+        },
+        {
           "timestamp": 1750371119535,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -54555,6 +54567,21 @@
     "history": [
       [
         {
+          "timestamp": 1750417857625,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Speed Die": "$150.00",
+            "Fantasy Beach Bundle": "$390.00",
+            "Starseeker Token": "$320.00",
+            "Enchanted Forest Marine Bundle": "$390.00",
+            "LA Monstropolis Marine Bundle": "$390.00",
+            "The Rainbow Bundle": "$390.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750302768824,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -73850,7 +73877,10 @@
       "道法自然": "$60.00",
       "巾幗綻芳華": "$60.00",
       "江山美人": "$60.00",
-      "終身版": "$220.00"
+      "終身版": "$220.00",
+      "尊享版": "$150.00",
+      "攬月版": "$120.00",
+      "激情版": "$30.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -73871,9 +73901,31 @@
       "道法自然": "$60.00",
       "巾幗綻芳華": "$60.00",
       "江山美人": "$60.00",
-      "終身版": "$220.00"
+      "終身版": "$220.00",
+      "尊享版": "$150.00",
+      "攬月版": "$120.00",
+      "激情版": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750417857625,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "江山美人": "$60.00",
+            "終身版": "$220.00",
+            "尊享版": "$150.00",
+            "攬月版": "$120.00",
+            "激情版": "$30.00",
+            "道法自然": "$60.00",
+            "自創武將朝代特色兵種補丁": "$120.00",
+            "自創武將": "$120.00",
+            "重振漢室": "$60.00",
+            "虎嘯鳳鳴": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750294930223,
@@ -85579,6 +85631,52 @@
           "price": 790,
           "formattedPrice": "$790.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449233549": {
+    "name": "Ark Nova",
+    "maxPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750417857625,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6745474000": {
+    "name": "空气枪BiuGun",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "PRO版武器": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "PRO版武器": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750417857625,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "PRO版武器": "$30.00"
+          }
         }
       ]
     ]
