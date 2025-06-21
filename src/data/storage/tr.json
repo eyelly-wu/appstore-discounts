@@ -19856,7 +19856,8 @@
       "ThemeA2B0C0": "₺0,00",
       "主题大礼包": "₺179,99",
       "ThemeA2B0C1": "₺179,99",
-      "ThemeA2B1C0": "₺179,99"
+      "ThemeA2B1C0": "₺179,99",
+      "小酒仙节拍器": "₺39,99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -19872,9 +19873,29 @@
       "ThemeA2B0C0": "₺0,00",
       "主题大礼包": "₺179,99",
       "ThemeA2B0C1": "₺179,99",
-      "ThemeA2B1C0": "₺179,99"
+      "ThemeA2B1C0": "₺179,99",
+      "小酒仙节拍器": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750522433551,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "小酒仙节拍器": "₺39,99",
+            "Music collection 09": "₺129,99",
+            "Music collection sp01": "₺0,00",
+            "ThemeA0B0C1": "₺0,00",
+            "ThemeA0B1C0": "₺0,00",
+            "ThemeA1B0C0": "₺0,00",
+            "ThemeA0B1C1": "₺0,00",
+            "ThemeA1B0C1": "₺0,00",
+            "ThemeA1B1C0": "₺0,00",
+            "ThemeA2B0C0": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749784361183,
@@ -29181,6 +29202,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750522433551,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "₺1.499,99",
+            "Yearly Subscription": "₺459,99",
+            "Lifetime license": "₺4.499,99",
+            "Monthly Subscription": "₺109,99"
+          }
+        },
         {
           "timestamp": 1750518692058,
           "price": 0,
@@ -42253,7 +42285,9 @@
       "The Unicorn": "₺129,99",
       "Speed Die": "₺229,99",
       "Cherry Blossom Tokyo": "₺349,99",
-      "L.A. Monstropolis": "₺229,99"
+      "L.A. Monstropolis": "₺229,99",
+      "Big Cities USA Explorer Pack": "₺99,99",
+      "American Roadtrips Expl. Pack": "₺99,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -42310,10 +42344,29 @@
       "The Unicorn": "₺129,99",
       "Speed Die": "₺229,99",
       "Cherry Blossom Tokyo": "₺349,99",
-      "L.A. Monstropolis": "₺229,99"
+      "L.A. Monstropolis": "₺229,99",
+      "Big Cities USA Explorer Pack": "₺99,99",
+      "American Roadtrips Expl. Pack": "₺99,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750522433551,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "Orient Express": "₺129,99",
+            "New York 2121 Board": "₺249,99",
+            "Victorian London Board": "₺249,99",
+            "The Complete Collection": "₺1.499,99",
+            "Golden Dice": "₺229,99",
+            "Welcome Offer": "₺899,99",
+            "Big Cities USA Explorer Pack": "₺99,99",
+            "American Roadtrips Expl. Pack": "₺99,99",
+            "Lava Dice": "₺229,99"
+          }
+        },
         {
           "timestamp": 1750479392701,
           "price": 229.99,
