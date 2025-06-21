@@ -52892,6 +52892,25 @@
     "history": [
       [
         {
+          "timestamp": 1750515112682,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "尊享月俸": "HK$ 38.00",
+            "月俸": "HK$ 22.00",
+            "戰姬": "HK$ 788.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750241623540,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -63466,10 +63485,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750515112682,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750083196033,
