@@ -13711,6 +13711,27 @@
       ]
     ]
   },
+  "547000247": {
+    "name": "LExp - Long Exposure Calcs",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750493702323,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "549027629": {
     "name": "Super Hexagon",
     "maxPriceInfo": {
@@ -40385,6 +40406,27 @@
             "Golf Tracer Premium - Monthly": "$0.99",
             "Golf Tracer Premium - Yearly": "$5.99"
           }
+        }
+      ]
+    ]
+  },
+  "1332586660": {
+    "name": "Search Web Text on URL Browser",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750493702323,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -82982,7 +83024,11 @@
       "Airbus A321": "$1.99",
       "Concorde": "$1.99",
       "Boeing 747-400": "$1.99",
-      "UH-60": "$0.99"
+      "UH-60": "$0.99",
+      "ASG29": "$0.99",
+      "C90GTx": "$0.99",
+      "F4U Corsair": "$0.99",
+      "Junkers Ju 52": "$0.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -83005,10 +83051,31 @@
       "Airbus A321": "$1.99",
       "Concorde": "$1.99",
       "Boeing 747-400": "$1.99",
-      "UH-60": "$0.99"
+      "UH-60": "$0.99",
+      "ASG29": "$0.99",
+      "C90GTx": "$0.99",
+      "F4U Corsair": "$0.99",
+      "Junkers Ju 52": "$0.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750493702323,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "The Aircraft Bundle": "$17.99",
+            "ASG29": "$0.99",
+            "Boeing 787-10": "$1.99",
+            "C90GTx": "$0.99",
+            "Concorde": "$1.99",
+            "F4U Corsair": "$0.99",
+            "Boeing 737-900": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Junkers Ju 52": "$0.99"
+          }
+        },
         {
           "timestamp": 1750479392701,
           "price": 3.99,

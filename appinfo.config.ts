@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 547000247,
+    name: {
+      mo: 'LExp - Long Exposure Calcs',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1332586660,
+    name: {
+      mo: '搜索 互聯網 文本 URL 瀏覽器',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6449233549,
     name: {
       hk: 'Ark Nova',
