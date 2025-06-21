@@ -6925,6 +6925,23 @@
     "history": [
       [
         {
+          "timestamp": 1750475290970,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        },
+        {
           "timestamp": 1750393204151,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -54079,6 +54096,14 @@
     "history": [
       [
         {
+          "timestamp": 1750475290970,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748056671552,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -59397,6 +59422,25 @@
       "Remove AD": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750475290970,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Starter Package B": "$49.99",
+            "Daily Jewel Package": "$19.99",
+            "Lite Daily Jewel Package": "$8.99",
+            "Starter Package A": "$14.99",
+            "Remove AD": "$8.99",
+            "Jewel Package D": "$44.99",
+            "Jewel Package A": "$4.99",
+            "Jewel Package F": "$89.99",
+            "Jewel Package C": "$24.99",
+            "Jewel Package B": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750339607587,
@@ -81846,6 +81890,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750475290970,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750043820849,
