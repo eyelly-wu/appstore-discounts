@@ -27387,6 +27387,23 @@
     "history": [
       [
         {
+          "timestamp": 1750467657091,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Handful of caps": "$0.99",
+            "Pile of caps": "$4.99",
+            "Case with caps": "$19.99",
+            "Sausepan of caps": "$9.99",
+            "Special pack": "$4.99",
+            "Great pack": "$9.99",
+            "Small pack": "$0.99",
+            "Big pack": "$19.99",
+            "Standart pack": "$1.99",
+            "Useful pack": "$2.99"
+          }
+        },
+        {
           "timestamp": 1750403551717,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -78706,7 +78723,8 @@
       "Letter from Nemophila": "$1.19",
       "Standard Skin": "$1.19",
       "Deluxe Skin": "$1.79",
-      "Melodies of Fall": "$1.19"
+      "Melodies of Fall": "$1.19",
+      "夏色クリームソーダ": "$1.19"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -78728,10 +78746,28 @@
       "Letter from Nemophila": "$1.19",
       "Standard Skin": "$1.19",
       "Deluxe Skin": "$1.79",
-      "Melodies of Fall": "$1.19"
+      "Melodies of Fall": "$1.19",
+      "夏色クリームソーダ": "$1.19"
     },
     "history": [
       [
+        {
+          "timestamp": 1750467657091,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "Halloween Party": "$1.79",
+            "2025春いちごスキン": "$0.49",
+            "夏色クリームソーダ": "$1.19",
+            "2025春ネモフィラスキン": "$0.49",
+            "Summer holiday": "$1.19",
+            "Wagashi Whispers": "$1.19",
+            "Fireworks display": "$1.79",
+            "Sunset beach": "$1.19",
+            "New Year's Sunrise": "$1.79"
+          }
+        },
         {
           "timestamp": 1750457522206,
           "price": 2.99,
