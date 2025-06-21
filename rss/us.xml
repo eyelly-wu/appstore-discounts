@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-21T03:30:02.255Z</updated>
+    <updated>2025-06-21T05:34:00.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-21T03:30:02.257Z</updated>
+        <updated>2025-06-21T05:34:00.943Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 21 Jun 2025 03:30:02 GMT</id>
+        <id>rankingusSat, 21 Jun 2025 05:34:00 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-21T03:30:02.257Z</updated>
+        <updated>2025-06-21T05:34:00.944Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -446,14 +446,20 @@ feedId:157008699750812672+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
+        <a href="https://apps.apple.com/us/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Learn to Drive Unlimited</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -463,7 +469,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id936694037">Voice Recorder - Audio Record</a>
+        <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
       </td>
       <td>
         <ul>
@@ -480,7 +486,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1012298403">Don't Starve: Pocket Edition</a>
+        <a href="https://apps.apple.com/us/app/id936694037">Voice Recorder - Audio Record</a>
       </td>
       <td>
         <ul>
@@ -495,6 +501,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>21</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1012298403">Don't Starve: Pocket Edition</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1028950091">The Greedy Cave</a>
@@ -517,7 +540,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1055650930">Codenames</a>
@@ -534,7 +557,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1056920931">Iron Marines: RTS offline game</a>
@@ -567,7 +590,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1094038347">Only You Are Here</a>
@@ -594,7 +617,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1147297267">Don't Starve: Shipwrecked</a>
@@ -611,7 +634,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
@@ -628,7 +651,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1304822713">Infinity Tank Battle</a>
@@ -645,7 +668,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1359652100">Dungeon Maker : Dark Lord</a>
@@ -662,7 +685,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -679,7 +702,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1436429074">FILCA - Vintage Film Camera</a>
@@ -702,7 +725,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1437096541">Rush Rally 3</a>
@@ -719,7 +742,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439886655">Cultist Simulator</a>
@@ -736,7 +759,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
@@ -753,7 +776,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453820315">This Is the Police 2</a>
@@ -770,7 +793,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453875289">Hyper Light Drifter</a>
@@ -787,7 +810,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1482339363">iScore5 APHG</a>
@@ -804,7 +827,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <del>
@@ -829,7 +852,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
@@ -846,7 +869,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -863,7 +886,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1537362903">Neighbours back From Hell</a>
@@ -880,7 +903,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1538124245">where I put it</a>
@@ -897,7 +920,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1558391784">Filebar - media player</a>
@@ -920,7 +943,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576521142">SOULVARS</a>
@@ -937,7 +960,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -954,7 +977,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1592505377">Wreckfest</a>
@@ -971,7 +994,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1624326561">真武三国  英雄集结</a>
@@ -994,7 +1017,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1631331207">Hitman: Blood Money — Reprisal</a>
@@ -1011,7 +1034,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1640627334">Resident Evil Village for Mac</a>
@@ -1038,7 +1061,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642715290">Little Big Workshop</a>
@@ -1055,7 +1078,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1659271912">Train Dispatcher!2</a>
@@ -1072,7 +1095,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450980545">Resident Evil Village</a>
@@ -1101,7 +1124,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6462360082">Resident Evil 4</a>
@@ -1132,7 +1155,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -1149,7 +1172,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -1166,7 +1189,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -1183,7 +1206,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -1200,7 +1223,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6456751953">ChatTan - AI Bot</a>
@@ -1223,7 +1246,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
@@ -1246,7 +1269,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6743487416">Gold Miner - Watch Games</a>
@@ -1263,7 +1286,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740705851">Henshin Hero - Game for watch</a>
@@ -1280,7 +1303,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447090616">Whisper Notes - Speech To Text</a>
@@ -1433,6 +1456,110 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving Theory Test 4 in 1 Kit]]></title>
+        <id>Driving Theory Test 4 in 1 Kit-us-1750482718363</id>
+        <link href="https://apps.apple.com/us/app/driving-theory-test-4-in-1-kit/id829581836?uo=4"/>
+        <updated>2025-06-21T05:11:58.363Z</updated>
+        <summary type="html"><![CDATA[Learn to Drive Unlimited: $24.99 → $19.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/driving-theory-test-4-in-1-kit/id829581836?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/70/dc/fc70dc1d-049c-2516-1f7b-f408813dc071/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Learn to Drive Unlimited：</strong><span>$24.99</span> → <b>
+  <strong>$19.99</strong>
+</b><span>[$19.99 ~ $24.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$5.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Learn to Drive UK - 1 month：<b>$3.99</b>
+  </li><li>
+    Learn to Drive UK - 12 months：<b>$14.99</b>
+  </li><li>
+    Learn to Drive UK - 3 months：<b>$11.99</b>
+  </li><li>
+    Learn to Drive Unlimited：<b>$19.99</b>
+  </li><li>
+    Learn to Drive UK - Unlimited：<b>$9.99</b>
+  </li><li>
+    Learn to Drive UK - 3 month：<b>$11.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  **Apple's No.1 paid iPhone app for 7 years running**
+
+97% of learners pass their Theory Test using nothing more than this 4 in 1 AWARD-WINNING app*! Revise with full confidence knowing you have EVERYTHING you need to pass your 2025 Theory Test first time, getting you 1 step closer to your full DVLA licence, or we’ll give you your test fee back if you fail.
+
+Join the 18 MILLION+ learner drivers we’ve helped prepare for their driving theory test.
+
+Suitable for:
+• Car Drivers in GB & NI
+• Motorcyclists in GB & NI
+• Trainee ADI's in GB & NI
+• HGV/LGV & PCV Drivers preparing to take Module 1a and 1b Tests in GB & NI
+
+DRIVING THEORY TEST 2025
+Practise the latest Theory Test revision questions, answers and explanations, licensed directly from the DVSA (the people who set the official test). No other Theory Test app contains more revision questions!
+
+Sit UNLIMITED timed mock tests including the NEW DVSA video case studies. Car drivers can practise multiple-choice questions based on a short video...just like the real test.
+
+Keep a daily track of your progress so you know when you’re ready to sit the official Theory Test!
+
+FREE PASS GUARANTEE
+We’re so confident that our app will help you pass your Driving Theory Test, we will give you your £23 test fee back if you fail after completing the revision plan in full. Available for learner car drivers and motorcyclists only. T&C’s apply**.
+
+LEARNER PLAN
+Struggling to know where to start with your Theory Test revision? Our structured Learner Plan ensures you a first time pass, guiding you through your revision from start to finish.
+
+LEADERBOARD
+Rev up your revision with our NEW weekly Leaderboard! Earn points for acing practice quizzes, passing Mock Tests and more. Revise for a prize as you make the most of your study sessions.
+
+SMART AI MODE
+Want a more tailored approach to revision? Smart AI Mode makes revising for your theory test more efficient and tracks your progress to help you concentrate on the areas where you need the most support.
+
+VOICEOVER
+English voiceover available for all Driving Theory Test revision questions PLUS The Highway Code...ideal for users with reading difficulties or dyslexia.
+
+HAZARD PERCEPTION TEST
+85 interactive video clips, including all 34 DVSA CGI clips covering bad weather and night time driving, with built-in cheat detection just like in the official test.
+
+THE HIGHWAY CODE 2025 Edition
+Revise and refresh your knowledge of the latest UK Highway Code. Includes English voiceover.
+
+ROAD SIGNS 2025
+Learn ALL the UK road signs with over 1,500 photos and descriptions.
+
+Optional LEARN TO DRIVE PRACTICAL CAR DRIVING CONTENT
+Includes:
+• 3 day trial access to over 250 virtual Practical Driving Lesson videos, to help you learn and understand the routines and manoeuvres that you could be asked to perform on your Driving Test
+• The top 10 reasons for failing
+• Learn how to banish test nerves and anxiety
+• A full mock driving test with examiner debrief
+• All the latest DVSA help and advice on the 'Ready to Pass?' campaign
+Helping you get one step closer to your full DVLA licence
+
+EXCLUSIVE BONUS CONTENT
+Access to exclusive offers and discounts!
+
+AWARDS:
+• Named Apple's No.1 paid iPhone app of 2024, 2023, 2022, 2021, 2020, 2019 & 2018
+• As featured on the Gadget Show
+• Intelligent Instructor Product of the Year 2022, 2023 & 2024
+• App of the Year, FirstCar Awards 2021 & 2019
+• Winner of the Auto Express Theory Test App
+• DIA Driver and Rider Training Awards "Product of the Year"
+
+CONTACT US: support@drivingtestsuccess.com
+
+This app includes the Driver and Vehicle Standards Agency (DVSA) revision question bank. The Driver and Vehicle Standards Agency (DVSA) has given permission for the reproduction of Crown copyright material. DVSA does not accept responsibility for the accuracy of the reproduction.
+
+Requires account creation to access content.
+
+*Based users who complete the Learner Plan in full
+**Pass Guarantee T&C’s apply. See www.drivingtestsuccess.com/app-pass-guarantee
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Everybody's RPG: Reboot]]></title>
@@ -2231,82 +2358,5 @@ List of Features
 # AVAILABLE IN 11 DIFFERENT LANGUAGE
 English, Español, Français, Deutsch, Português (Br.),Português, Italiano, 中文 (Simplified), Русский, 日本語, 한국어
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/30/71/83/3071835f-fd64-a235-8c71-42421ff90bb9/a8239345-31fc-4140-a8b2-b94e5844f71c_English_1-01.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c6/d8/4b/c6d84bc5-88df-8f8c-26d8-fba9776b3012/29a6ddae-08e0-41d0-877f-ccdc1a7961d4_English_2-02.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/38/d4/77/38d4776b-8705-4384-d97b-f1f57aff2124/c6b5d473-3efb-43f0-835d-f72f55f3a13b_English_3-03.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f8/85/cf/f885cf1c-2f2d-be54-e704-cd5bce4fc944/d36bdd03-a1c7-49f7-89e7-0f3d90d33859_English_4-04.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a8/79/fc/a879fc8e-3333-684f-41ca-d451bf5f5b56/2132c0cb-443b-4596-82ff-de51b95f5493_English_5-05.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4f/04/f0/4f04f0b1-902c-e233-79da-d37917608d4f/8330ed32-2f4c-4cb5-875b-f396e8a9bcaa_English_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/9f/5b/b39f5bb8-0ff8-3532-17f0-0cf3db0f6892/d144aec8-45f9-46c4-8d25-f1dd4134de65_English_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/76/04/bd/7604bd97-370c-1721-5545-6483247d0502/46e12a2e-1a7a-4133-ba9f-081c7056d1c9_English_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cf/b8/f1/cfb8f11a-21bc-2745-e21f-8a43eea51f4e/c33a1fed-8f69-4097-ab75-39e7410549b4_English_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bd/0f/71/bd0f714b-adb4-a5f3-b3b9-f8741829ee57/bd75767b-a21b-41bc-9dd1-045d48779b22_English_5.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
-        <id>Goodnotes 6: AI Notes &amp; Docs-us-1750220509876</id>
-        <link href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4"/>
-        <updated>2025-06-18T04:21:49.876Z</updated>
-        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/09/4a/11094ae1-4e30-2e62-ac84-599cb7b30f65/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $10.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Goodnotes 6 (1 year)：<b>$11.99</b>
-  </li><li>
-    GoodNotes 5 Unlock：<b>$9.99</b>
-  </li><li>
-    Goodnotes 6 Free Trial：<b>$0.00</b>
-  </li><li>
-    Goodnotes 6 One-Time Payment：<b>$28.99</b>
-  </li><li>
-    Goodnotes 6 (1 Year)：<b>$11.99</b>
-  </li><li>
-    Marketplace Content：<b>$1.99</b>
-  </li><li>
-    Dotted Squares: Draft Papers：<b>$0.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. 
-
-Boost Professional Efficiency and Productivity
-• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.
-• Import, annotate, and organize PDFs, documents, and meeting notes.
-• Transcribe audio recordings from meetings so you never miss a detail.
-• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.
-• Export and share notes via email, print, PDF, or images for easy collaboration.
-• Send files directly to your unique Goodnotes email for quick access on all devices.
-• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.
-• Convert handwriting to text for quick and clean professional notes.
-• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.
-
-Powerful Digital Notes and Study Tools
-• Use AI-powered study tools help you learn faster and retain more information.
-• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.
-• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.
-• Convert equations to LaTeX format for easy use in reports and presentations.
-• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.
-• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.
-• Collaborate in real time with classmates by working on the same document for group projects and study sessions
-• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.
-
-Enhance Creative Digital Planning
-• Design fully customizable notebooks, templates, and covers to fit your style.
-• Mix handwriting, text, stickers, images, and drawings in a single notebook.
-• Stay focused with Smart Timer, and boost your productivity.
-• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.
-• Organize your notes with unlimited folders and advanced search.
-• Get exclusive monthly downloads every month with a paid subscription.
-• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.
-
-Experience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.
-
-Website: www.goodnotes.com 
-X: @goodnotesapp 
-Instagram: @goodnotes.app 
-Pinterest: @goodnotesapp 
-TikTok: @goodnotesapp 
-
-Privacy policy: https://www.goodnotes.com/privacy-policy 
-Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
-</p>]]></content>
     </entry>
 </feed>
