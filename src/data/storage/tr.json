@@ -1750,7 +1750,8 @@
       "Impressionist SnapPak": "₺39,99",
       "Fitzroy HipstaPak": "₺39,99",
       "Dali GoodPak": "₺39,99",
-      "Levi's Photo Workshop Holiday GoodPak": "₺39,99"
+      "Levi's Photo Workshop Holiday GoodPak": "₺39,99",
+      "Príncipe Real HipstaPak": "₺99,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -1776,9 +1777,29 @@
       "Impressionist SnapPak": "₺39,99",
       "Fitzroy HipstaPak": "₺39,99",
       "Dali GoodPak": "₺39,99",
-      "Levi's Photo Workshop Holiday GoodPak": "₺39,99"
+      "Levi's Photo Workshop Holiday GoodPak": "₺39,99",
+      "Príncipe Real HipstaPak": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750508499126,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Príncipe Real HipstaPak": "₺99,99",
+            "Coyoacán HipstaPak": "₺99,99",
+            "Ohara HipstaPak": "₺99,99",
+            "RetroPak 2022": "₺299,99",
+            "RetroPak 2023": "₺449,99",
+            "RetroPak Twenty-One": "₺229,99",
+            "Highland Park HipstaPak": "₺39,99",
+            "Pilsen HipstaPak": "₺39,99",
+            "Tiong Bahru HipstaPak": "₺39,99",
+            "Impressionist SnapPak": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749055417533,
@@ -4415,7 +4436,9 @@
       "Birth Chart Report - Untimed": "₺129,99",
       "Predictive Report - Untimed": "₺129,99",
       "Lunar Return Report": "₺179,99",
-      "The Big Three Report": "₺179,99"
+      "The Big Three Report": "₺179,99",
+      "Gold Level lifetime": "₺4.999,99",
+      "Gold Level Free Trial": "₺0,00"
     },
     "minPriceInfo": {
       "price": 1799.99,
@@ -4431,9 +4454,30 @@
       "Birth Chart Report - Untimed": "₺129,99",
       "Predictive Report - Untimed": "₺129,99",
       "Lunar Return Report": "₺179,99",
-      "The Big Three Report": "₺179,99"
+      "The Big Three Report": "₺179,99",
+      "Gold Level lifetime": "₺4.999,99",
+      "Gold Level Free Trial": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750508499126,
+          "price": 1799.99,
+          "formattedPrice": "₺1.799,99",
+          "inAppPurchases": {
+            "Gold Level lifetime": "₺4.999,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Lunar Return Report": "₺179,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Astrolocality Maps": "₺999,99",
+            "The Big Three Report": "₺179,99",
+            "Relationship Report": "₺179,99",
+            "Predictive Report - Untimed": "₺129,99",
+            "Predictive Report - No Background": "₺129,99",
+            "Predictive Report - Full": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -5032,6 +5076,25 @@
       "Technocraft": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750508499126,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Ferrous Mobile": "₺129,99",
+            "Hyper-Pop Mobile": "₺129,99",
+            "Chip-Tune Mobile": "₺129,99",
+            "Essential Winds": "₺99,99",
+            "Essential Strings": "₺99,99",
+            "DubTechno": "₺99,99",
+            "Chill-Lo-Fi Mobile": "₺99,99",
+            "Technocraft": "₺99,99",
+            "Brazil Bass": "₺99,99",
+            "PsyTrance": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750393204151,
@@ -12140,6 +12203,25 @@
     "history": [
       [
         {
+          "timestamp": 1750508499126,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Vault Of Gems": "₺2.299,99",
+            "Wagon Of Gems": "₺899,99",
+            "Chest Of Gems": "₺449,99",
+            "Barrel Of Gems": "₺229,99",
+            "Bag Of Gems": "₺129,99",
+            "Special Offer Saitam": "₺129,99",
+            "Big Hero Pack 2": "₺599,99",
+            "Saitam": "₺229,99",
+            "Big Hero Pack": "₺449,99",
+            "Hero Pack 5": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750371119535,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -18983,6 +19065,25 @@
     "history": [
       [
         {
+          "timestamp": 1750508499126,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Grottoes Add-on": "₺39,99",
+            "Wonderwood Add-on": "₺399,99",
+            "Heroes Add-on": "₺179,99",
+            "Temples of 4 Elements Add-on": "₺179,99",
+            "Abandoned Mines Add-on": "₺39,99",
+            "Invasion Add-on": "₺229,99",
+            "Heart of Evil Add-on": "₺299,99",
+            "Bosses & Monsters Add-on": "₺349,99",
+            "Lonely Mountain Add-on": "₺299,99",
+            "Biomes Add-on (Special Price)": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747717353327,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -19436,6 +19537,25 @@
       "Horse": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750508499126,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Free Checkpoints": "₺39,99",
+            "Large Coin Pack": "₺129,99",
+            "Medium Coin Pack": "₺99,99",
+            "Small Coin Pack": "₺39,99",
+            "Pig": "₺39,99",
+            "Dog": "₺39,99",
+            "Rooster": "₺39,99",
+            "Monkey": "₺39,99",
+            "Goat": "₺39,99",
+            "Horse": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745976593526,
@@ -27743,6 +27863,25 @@
       "A Large Bag of Gems": "₺899,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750508499126,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Promote Pack 5": "₺699,99",
+            "Promote Pack 4": "₺449,99",
+            "Promote Pack 3": "₺349,99",
+            "Promote Pack 2": "₺229,99",
+            "Promote Pack 1": "₺129,99",
+            "Double backpack slots": "₺99,99",
+            "Genius Big Deal Pack": "₺99,99",
+            "Boxer Big Deal Pack": "₺99,99",
+            "Double Bonus": "₺99,99",
+            "A Large Bag of Gems": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749672783458,
@@ -63074,6 +63213,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750508499126,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Airbus A350-1000": "₺179,99",
+            "Robin DR400": "₺39,99",
+            "Boeing 777F": "₺99,99",
+            "Airbus A319": "₺99,99",
+            "Antares 21E": "₺39,99",
+            "ASK 21": "₺39,99",
+            "Airbus A321": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 1 month": "₺129,99",
+            "Global scenery - 3 months": "₺229,99"
+          }
+        },
         {
           "timestamp": 1750479392701,
           "price": 179.99,
