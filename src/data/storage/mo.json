@@ -2258,6 +2258,23 @@
     "history": [
       [
         {
+          "timestamp": 1750486611164,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {
+            "forScore Pro": "USD 14.99",
+            "Brahms: The Mutopia Collection": "USD 0.00",
+            "Tchaikovsky: The Mutopia Collection": "USD 0.00",
+            "Liszt: The Mutopia Collection": "USD 0.00",
+            "Satie: The Mutopia Collection": "USD 0.00",
+            "Schumann: The Mutopia Collection": "USD 0.00",
+            "Haydn: The Mutopia Collection": "USD 0.00",
+            "Burgmüller: The Mutopia Collection": "USD 0.00",
+            "Sousa: The Mutopia Collection": "USD 0.00",
+            "Schubert: The Mutopia Collection": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1750482718363,
           "price": 24.99,
           "formattedPrice": "USD 24.99",
@@ -43435,6 +43452,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750486611164,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748008944667,
