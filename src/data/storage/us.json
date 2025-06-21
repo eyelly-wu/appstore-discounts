@@ -8219,7 +8219,9 @@
       "Locksmith - All Cranky Locks": "$1.99",
       "Locksmith - All Mystery Locks": "$4.99",
       "Locksmith - All Allie Locks": "$1.99",
-      "Mystery Duck Sale Pack": "$0.99"
+      "Mystery Duck Sale Pack": "$0.99",
+      "Cranky Sale Pack": "$0.99",
+      "Allie Sale Pack": "$0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -8233,9 +8235,30 @@
       "Locksmith - All Cranky Locks": "$1.99",
       "Locksmith - All Mystery Locks": "$4.99",
       "Locksmith - All Allie Locks": "$1.99",
-      "Mystery Duck Sale Pack": "$0.99"
+      "Mystery Duck Sale Pack": "$0.99",
+      "Cranky Sale Pack": "$0.99",
+      "Allie Sale Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750504194938,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Mystery Duck Sale Pack": "$0.99",
+            "Cranky Sale Pack": "$0.99",
+            "Allie Sale Pack": "$0.99",
+            "Locksmith - All Allie Locks": "$1.99",
+            "Allie's Story": "$0.99",
+            "Sale Pack": "$3.99",
+            "Locksmith - One Lock": "$0.99",
+            "Mystery Duck": "$2.99",
+            "Locksmith - All Mystery Locks": "$4.99",
+            "Locksmith - All Cranky Locks": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -8300,6 +8323,24 @@
       "Unlock \"Rocket Science\" level pack": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750504194938,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Magnetic Stars Superior Pack": "$24.99",
+            "Superpower 50 Sale": "$4.99",
+            "Magnetic Stars Grand Pack Sale": "$7.99",
+            "Magnetic Stars Grand Pack": "$14.99",
+            "Magnetic Stars Large Pack": "$6.99",
+            "Magnetic Stars Tiny Pack": "$3.99",
+            "Unlock \"Bath Time\" level pack": "$1.99",
+            "Unlock \"Bamboo Chutes\" level pack": "$1.99",
+            "Unlock \"Ant Hill\" level pack": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749874569852,
@@ -27074,6 +27115,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750504194938,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Coupon of the Greedy Cave": "$0.99",
+            "Package8": "$49.99",
+            "Package7": "$29.99"
+          }
+        },
         {
           "timestamp": 1750489887835,
           "price": 0.99,
@@ -89274,6 +89325,27 @@
           "inAppPurchases": {
             "PRO版武器": "$0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6745421021": {
+    "name": "ScanAgent",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750504194938,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
         }
       ]
     ]
