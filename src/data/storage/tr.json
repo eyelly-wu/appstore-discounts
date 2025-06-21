@@ -67424,5 +67424,30 @@
         }
       ]
     ]
+  },
+  "6479684285": {
+    "name": "Never Night",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Crimson Gem": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Crimson Gem": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750536776408,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Crimson Gem": "₺39,99"
+          }
+        }
+      ]
+    ]
   }
 }

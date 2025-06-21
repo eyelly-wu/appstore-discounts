@@ -85624,5 +85624,30 @@
         }
       ]
     ]
+  },
+  "6479684285": {
+    "name": "Never Night",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "Crimson Gem": "HK$ 588.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "Crimson Gem": "HK$ 588.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750536776408,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Crimson Gem": "HK$ 588.00"
+          }
+        }
+      ]
+    ]
   }
 }

@@ -85979,5 +85979,30 @@
         }
       ]
     ]
+  },
+  "6479684285": {
+    "name": "Never Night",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "Crimson Gem": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "Crimson Gem": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750536776408,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Crimson Gem": "$150.00"
+          }
+        }
+      ]
+    ]
   }
 }
