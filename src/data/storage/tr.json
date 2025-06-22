@@ -639,6 +639,23 @@
     "history": [
       [
         {
+          "timestamp": 1750605098690,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "10,000 coins": "₺99,99",
+            "1000 coins": "₺39,99",
+            "30,000 coins": "₺129,99",
+            "1000 candies": "₺39,99",
+            "10000 candies": "₺129,99",
+            "5000 eggs": "₺99,99",
+            "500 eggs": "₺39,99",
+            "10,000 gold": "₺39,99",
+            "100,000 gold": "₺99,99",
+            "15000 eggs": "₺129,99"
+          }
+        },
+        {
           "timestamp": 1750601485008,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -1800,6 +1817,25 @@
       "Príncipe Real HipstaPak": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750605098690,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Príncipe Real HipstaPak": "₺99,99",
+            "Coyoacán HipstaPak": "₺99,99",
+            "Ohara HipstaPak": "₺99,99",
+            "RetroPak 2022": "₺299,99",
+            "RetroPak 2023": "₺449,99",
+            "RetroPak Twenty-One": "₺229,99",
+            "Highland Park HipstaPak": "₺39,99",
+            "Pilsen HipstaPak": "₺39,99",
+            "Tiong Bahru HipstaPak": "₺39,99",
+            "Impressionist SnapPak": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750512109135,
@@ -15101,6 +15137,23 @@
     "history": [
       [
         {
+          "timestamp": 1750605098690,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "₺179,99",
+            "V.K Collection": "₺179,99",
+            "Forgotten Hourglass": "₺449,99",
+            "Rayark Selection Vol.2": "₺179,99",
+            "Cytus Selection Vol.1": "₺179,99",
+            "Cytus Selection Vol.2": "₺179,99",
+            "Brian Crain Collection": "₺179,99",
+            "Knight Iris": "₺179,99",
+            "Knight Rosabell Collection": "₺179,99",
+            "MILI Collection": "₺179,99"
+          }
+        },
+        {
           "timestamp": 1750601485008,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -16837,6 +16890,31 @@
           "price": 129.99,
           "formattedPrice": "₺129,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "852197796": {
+    "name": "Red Ball 4",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
+      "Unlock all levels": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
+      "Unlock all levels": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750605098690,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Unlock all levels": "₺99,99"
+          }
         }
       ]
     ]
@@ -24718,6 +24796,27 @@
       [
         {
           "timestamp": 1745334141417,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1086452026": {
+    "name": "临床医学检验技士题库 2024最新",
+    "maxPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "minPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750605098690,
           "price": 449.99,
           "formattedPrice": "₺449,99",
           "inAppPurchases": {}
@@ -48541,6 +48640,27 @@
           "timestamp": 1745328692670,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1551273147": {
+    "name": "Otter - Diet Diary",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750605098690,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
           "inAppPurchases": {}
         }
       ]

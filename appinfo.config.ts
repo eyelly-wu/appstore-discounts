@@ -68,6 +68,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 852197796,
+    name: {
+      mo: 'Red Ball 4',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1086452026,
+    name: {
+      mo: '临床医学检验技士题库 2024最新',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1551273147,
+    name: {
+      mo: 'Otter - Diet Diary',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1146269500,
     name: {
       mo: '英語日常用語-學習英語口語基本對話句型',

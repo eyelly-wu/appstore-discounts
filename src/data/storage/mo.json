@@ -17138,6 +17138,31 @@
       ]
     ]
   },
+  "852197796": {
+    "name": "Red Ball 4",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "Unlock all levels": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "Unlock all levels": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750605098690,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Unlock all levels": "USD 1.99"
+          }
+        }
+      ]
+    ]
+  },
   "860809977": {
     "name": "Fongo World Edition",
     "maxPriceInfo": {
@@ -24303,6 +24328,27 @@
       [
         {
           "timestamp": 1745334141417,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1086452026": {
+    "name": "临床医学检验技士题库 2024最新",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750605098690,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
           "inAppPurchases": {}
@@ -46734,6 +46780,27 @@
           "timestamp": 1745328692670,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1551273147": {
+    "name": "Otter - Diet Diary",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750605098690,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

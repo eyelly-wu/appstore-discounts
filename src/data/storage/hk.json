@@ -14330,6 +14330,23 @@
     "history": [
       [
         {
+          "timestamp": 1750605098690,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Silver": "HK$ 18.00",
+            "Tails": "HK$ 18.00",
+            "2,500 Ring Bundle": "HK$ 8.00",
+            "Amy": "HK$ 18.00",
+            "Knuckles": "HK$ 18.00",
+            "12,000 Ring Bundle": "HK$ 38.00",
+            "Rouge": "HK$ 18.00",
+            "15,000 Ring Bundle": "HK$ 38.00",
+            "Double Rings": "HK$ 22.00",
+            "Unlock Everything": "HK$ 168.00"
+          }
+        },
+        {
           "timestamp": 1750601485008,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -21262,6 +21279,31 @@
           "price": 22,
           "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "852197796": {
+    "name": "Red Ball 4",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "Unlock all levels": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "Unlock all levels": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750605098690,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Unlock all levels": "HK$ 18.00"
+          }
         }
       ]
     ]
@@ -30228,6 +30270,27 @@
       [
         {
           "timestamp": 1745334141417,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1086452026": {
+    "name": "临床医学检验技士题库 2024最新",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750605098690,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
           "inAppPurchases": {}
@@ -61536,6 +61599,27 @@
           "timestamp": 1745328692670,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1551273147": {
+    "name": "Otter - Diet Diary",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750605098690,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]
