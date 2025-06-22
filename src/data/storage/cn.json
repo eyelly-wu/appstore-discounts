@@ -1895,7 +1895,8 @@
       "Mozart: Twelve Duets": "¥15.00",
       "The Mutopia Piano Collection": "¥38.00",
       "Voluntary Upgrade": "¥58.00",
-      "Gottschalk: The Mutopia Collection": "¥0.00"
+      "Gottschalk: The Mutopia Collection": "¥0.00",
+      "Chopin: The Mutopia Collection": "¥8.00"
     },
     "minPriceInfo": {
       "price": 168,
@@ -1919,9 +1920,29 @@
       "Mozart: Twelve Duets": "¥15.00",
       "The Mutopia Piano Collection": "¥38.00",
       "Voluntary Upgrade": "¥58.00",
-      "Gottschalk: The Mutopia Collection": "¥0.00"
+      "Gottschalk: The Mutopia Collection": "¥0.00",
+      "Chopin: The Mutopia Collection": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750554496621,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Chopin: The Mutopia Collection": "¥8.00",
+            "Verdi: The Mutopia Collection": "¥0.00",
+            "Rameau: The Mutopia Collection": "¥0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749784361183,
@@ -38763,6 +38784,25 @@
     "history": [
       [
         {
+          "timestamp": 1750554496621,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "60钻石": "¥6.00",
+            "畅玩礼包": "¥18.00",
+            "角色-魔法师": "¥68.00",
+            "角色-游侠": "¥18.00",
+            "伙伴礼包-天使": "¥30.00",
+            "英雄礼包I": "¥68.00",
+            "伙伴礼包II-阿奇博尔德": "¥30.00",
+            "Heroic Package#2": "¥68.00",
+            "黄金令": "¥588.00",
+            "套装礼包": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749182767058,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -48796,6 +48836,24 @@
       "卓越豪礼": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750554496621,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "史诗礼包": "¥158.00",
+            "坐骑礼包504": "¥208.00",
+            "限时礼包": "¥30.00",
+            "进阶礼包": "¥178.00",
+            "饰品礼包": "¥193.00",
+            "周年献礼": "¥60.00",
+            "限时特惠": "¥12.00",
+            "升级好礼": "¥163.00",
+            "卓越豪礼": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749806025919,
@@ -61330,6 +61388,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750554496621,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "自创武将": "¥24.00",
+            "战国七雄": "¥28.00",
+            "终身版": "¥45.00",
+            "自创武将朝代特色兵种补丁": "¥28.00",
+            "楚汉争霸": "¥28.00",
+            "群雄争霸": "¥14.00",
+            "江山美人": "¥14.00",
+            "无双战神": "¥14.00",
+            "自创地图": "¥24.00",
+            "巾帼绽芳华": "¥14.00"
+          }
+        },
         {
           "timestamp": 1750547503588,
           "price": 0,
