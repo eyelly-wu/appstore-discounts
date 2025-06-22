@@ -52776,6 +52776,17 @@
     "history": [
       [
         {
+          "timestamp": 1750601485008,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748568593211,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -60100,6 +60111,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750601485008,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750428721028,
