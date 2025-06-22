@@ -63937,6 +63937,23 @@
     "history": [
       [
         {
+          "timestamp": 1750573044711,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Daniel skin": "$0.99",
+            "Reyna skin": "$0.99",
+            "Jorge skin": "$0.99",
+            "Gloria skin": "$0.99",
+            "Purple menu color": "$3.99",
+            "Red menu color": "$1.99",
+            "Yellow menu color": "$0.99",
+            "James character": "$0.99",
+            "Lisa character": "$0.00",
+            "Elsa character": "$0.99"
+          }
+        },
+        {
           "timestamp": 1750566250503,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -79336,7 +79353,9 @@
       "Deluxe Skin": "$1.79",
       "Melodies of Fall": "$1.19",
       "夏色クリームソーダ": "$1.19",
-      "ネオンシティ": "$1.79"
+      "ネオンシティ": "$1.79",
+      "オーロラプール": "$1.19",
+      "フルーツパーラー": "$1.19"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -79360,10 +79379,28 @@
       "Deluxe Skin": "$1.79",
       "Melodies of Fall": "$1.19",
       "夏色クリームソーダ": "$1.19",
-      "ネオンシティ": "$1.79"
+      "ネオンシティ": "$1.79",
+      "オーロラプール": "$1.19",
+      "フルーツパーラー": "$1.19"
     },
     "history": [
       [
+        {
+          "timestamp": 1750573044711,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "ネオンシティ": "$1.79",
+            "夏色クリームソーダ": "$1.19",
+            "オーロラプール": "$1.19",
+            "フルーツパーラー": "$1.19",
+            "2025春イースタースキン": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "2025春ネモフィラスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Letter from Nemophila": "$1.19"
+          }
+        },
         {
           "timestamp": 1750566250503,
           "price": 2.99,
