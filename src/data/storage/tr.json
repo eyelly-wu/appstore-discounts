@@ -3601,6 +3601,21 @@
     "history": [
       [
         {
+          "timestamp": 1750633905434,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Pack of 100 Credits": "₺99,99",
+            "Pack of 550 Credits": "₺229,99",
+            "Badoo Premium": "₺15,99",
+            "Super Powers": "₺23,99",
+            "Premium": "₺19,99",
+            "Pack of 3050 Credits": "₺299,99",
+            "Pack of 1250 Credits": "₺449,99",
+            "Pack of 2750 Credits": "₺449,99"
+          }
+        },
+        {
           "timestamp": 1750630273505,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -34256,6 +34271,25 @@
     "history": [
       [
         {
+          "timestamp": 1750633905434,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "₺179,99",
+            "TeaSet DarkLord Skin Package C": "₺229,99",
+            "Teaset Dark Lord Skin PackageB": "₺229,99",
+            "Teaset DarkLord Skin Package A": "₺229,99",
+            "Little Corr. Hero costume Pack": "₺1.199,99",
+            "Little Hero Costume Package": "₺1.199,99",
+            "Black Dark Lord Skin Package": "₺349,99",
+            "White Dark Lord Skin Package": "₺349,99",
+            "Awakening Viper Package": "₺229,99",
+            "Myth full pack": "₺1.799,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750374737436,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -52130,6 +52164,14 @@
     "history": [
       [
         {
+          "timestamp": 1750633905434,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748732532555,
           "price": 29.99,
           "formattedPrice": "₺29,99",
@@ -57423,6 +57465,17 @@
       "Home Sweet Home": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750633905434,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748568593211,
@@ -63189,6 +63242,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750633905434,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750461133847,
