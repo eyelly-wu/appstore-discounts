@@ -1121,16 +1121,27 @@
     "maxPriceInfo": {
       "price": 88,
       "formattedPrice": "HK$ 88.00",
-      "TuneIn Premium": "HK$ 78.00",
+      "TuneIn Premium": "HK$ 618.00",
       "TuneIn Premium Pro": "HK$ 788.00"
     },
     "minPriceInfo": {
       "price": 88,
       "formattedPrice": "HK$ 88.00",
       "TuneIn Premium": "HK$ 78.00",
-      "TuneIn Premium Pro": "HK$ 788.00"
+      "TuneIn Premium Pro": "HK$ 548.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750576337571,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "TuneIn Premium": "HK$ 618.00",
+            "TuneIn Premium Pro": "HK$ 548.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750007426154,
@@ -10197,6 +10208,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750576337571,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Chapter N": "HK$ 32.00",
+            "Chapter D": "HK$ 38.00",
+            "Chapter L": "HK$ 88.00",
+            "Chapter T": "HK$ 38.00",
+            "Chapter R": "HK$ 38.00",
+            "Chapter 0": "HK$ 38.00",
+            "Chapter K": "HK$ 38.00",
+            "Chapter 10": "HK$ 38.00",
+            "Chapter 9": "HK$ 38.00",
+            "Chapter S": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1750562428966,
           "price": 18,
@@ -27870,6 +27898,25 @@
     "history": [
       [
         {
+          "timestamp": 1750576337571,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "ULTRA BONK Hour 限時挑戰書": "HK$ 22.00",
+            "Radiant Star Trail 限時挑戰書": "HK$ 32.00",
+            "KALPA Collaboration 限時挑戰書": "HK$ 22.00",
+            "主線第八章": "HK$ 88.00",
+            "Glorious Chorus 限時挑戰書": "HK$ 22.00",
+            "Neon Rhapsody 限時挑戰書": "HK$ 22.00",
+            "Colorful Meteor Shower 限時挑戰書": "HK$ 22.00",
+            "Halv Selection 限時挑戰書": "HK$ 22.00",
+            "限時挑戰書": "HK$ 22.00",
+            "擴充章節 Y": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750263350775,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -32852,6 +32899,25 @@
       "Get tips about the pliers": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750576337571,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Purchase game": "HK$ 8.00",
+            "Props Tip: Temple corner": "HK$ 8.00",
+            "Props Tip: Pyramid": "HK$ 8.00",
+            "Props Tip: flower": "HK$ 8.00",
+            "Get tips on holographic camera": "HK$ 8.00",
+            "Get tips about two weeks mesh box factory eye": "HK$ 8.00",
+            "Get tips about the triangle blocks (1-6)": "HK$ 8.00",
+            "Get tips on the bucket": "HK$ 8.00",
+            "Get tips on stone-eyed": "HK$ 8.00",
+            "Get tips about this mysterious stone": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748246722624,
