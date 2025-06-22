@@ -15664,6 +15664,23 @@
     "history": [
       [
         {
+          "timestamp": 1750630273505,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Race Pass": "USD 4.99",
+            "Racing Prodigy X30 La Conca L4": "USD 14.99",
+            "Racing Prodigy X30 Atlanta": "USD 14.99",
+            "Racing Prodigy X30 Kart Dubai": "USD 14.99",
+            "Racing Prodigy X30 B. Vegas": "USD 14.99",
+            "Racing Prodigy 50 Quali Tyres": "USD 4.99",
+            "10 Pack Qualifying Tyres": "USD 0.99",
+            "Figo 100 Octane Fuel Pack - 20": "USD 3.99",
+            "Le Cont Hards - 40 Tyre Pack": "USD 3.99",
+            "Le Cont Mediums - 40 Tyre Pack": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1750626668257,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -17242,6 +17259,25 @@
       "12 Mo. Global Texting": "USD 27.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750630273505,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "12 Mo. Fongo Ultimate": "USD 99.99",
+            "3 Mo. Fongo Ultimate": "USD 29.99",
+            "6 Mo. Fongo Ultimate": "USD 54.99",
+            "1 Mo. Fongo Ultimate": "USD 12.99",
+            "12 Mo. Remove Ads": "USD 16.99",
+            "6 Mo. Remove Ads": "USD 9.99",
+            "3 Mo. Remove Ads": "USD 5.49",
+            "1 Mo. Remove Ads": "USD 2.79",
+            "12 Mo. Fongo Plus": "USD 84.99",
+            "12 Mo. Global Texting": "USD 27.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749888880858,
@@ -53255,7 +53291,9 @@
       "生存指南": "USD 2.99",
       "終極套件 (大折扣)": "USD 4.99",
       "第1季套件 (完整版)": "USD 19.99",
-      "作弊與懲罰": "USD 4.99"
+      "作弊與懲罰": "USD 4.99",
+      "終極套件 (完整版)": "USD 59.99",
+      "新領導者": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -53269,9 +53307,30 @@
       "生存指南": "USD 2.99",
       "終極套件 (大折扣)": "USD 4.99",
       "第1季套件 (完整版)": "USD 19.99",
-      "作弊與懲罰": "USD 4.99"
+      "作弊與懲罰": "USD 4.99",
+      "終極套件 (完整版)": "USD 59.99",
+      "新領導者": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750630273505,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "終極套件 (完整版)": "USD 59.99",
+            "新領導者": "USD 4.99",
+            "作弊與懲罰": "USD 4.99",
+            "第1季套件 (完整版)": "USD 19.99",
+            "第1季套件": "USD 9.99",
+            "終極套件": "USD 14.99",
+            "終極套件 (大折扣)": "USD 4.99",
+            "生存指南": "USD 2.99",
+            "祕密地堡": "USD 6.99",
+            "終極套件 (折扣)": "USD 11.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
