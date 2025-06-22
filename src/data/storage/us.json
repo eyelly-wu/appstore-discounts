@@ -25423,6 +25423,14 @@
     "history": [
       [
         {
+          "timestamp": 1750612219274,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747055497515,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -81451,6 +81459,25 @@
     "history": [
       [
         {
+          "timestamp": 1750612219274,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pennsylvania Carriage B": "$1.99",
+            "Pennsylvania Locomotive B": "$1.99",
+            "Pennsylvania Locomotive A": "$1.99",
+            "Pennsylvania Carriage A": "$1.99",
+            "Pennsylvania Character A": "$1.99",
+            "Pennsylvania Character B": "$1.99",
+            "Germany Carriage B": "$1.99",
+            "Germany Carriage A": "$1.99",
+            "Germany Locomotive B": "$1.99",
+            "Germany Locomotive A": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750068868138,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -89261,6 +89288,24 @@
       "Pre registration bundle": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750612219274,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Bundle": "$4.99",
+            "Pre registration bundle": "$5.99",
+            "Premium livery bundle": "$5.99",
+            "Game Editor": "$5.99",
+            "Very Large Investment": "$2.99",
+            "Large Investment": "$2.99",
+            "Huge Investment": "$4.99",
+            "Investment": "$1.99",
+            "Chairman's Payment": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,

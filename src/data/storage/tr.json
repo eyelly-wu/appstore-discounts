@@ -13754,6 +13754,25 @@
     "history": [
       [
         {
+          "timestamp": 1750612219274,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Kids Favs Bundle": "₺249,99",
+            "Animation Bundle Sale": "₺229,99",
+            "Animated Movies Deck": "₺99,99",
+            "Animation Bundle": "₺249,99",
+            "Kids Favs Bundle Sale": "₺229,99",
+            "Around The World Bundle": "₺299,99",
+            "Travel Essentials Deck": "₺99,99",
+            "Around The World Bundle Sale": "₺249,99",
+            "90s And 00s Cartoons Deck": "₺99,99",
+            "Kids Family Bundle BYOD": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749978729741,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -20584,6 +20603,14 @@
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750612219274,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747055497515,
@@ -42737,7 +42764,8 @@
       "L.A. Monstropolis": "₺229,99",
       "Big Cities USA Explorer Pack": "₺99,99",
       "American Roadtrips Expl. Pack": "₺99,99",
-      "Handbag Token": "₺129,99"
+      "Handbag Token": "₺129,99",
+      "Jin Token": "₺449,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -42779,7 +42807,7 @@
       "Monstropolis Token Bundle": "₺299,99",
       "Enchanted Forest Marine Bundle": "₺499,99",
       "LA Monstropolis Marine Bundle": "₺499,99",
-      "The Rainbow Bundle": "₺499,99",
+      "The Rainbow Bundle": "₺349,99",
       "Golden Flames Bundle": "₺449,99",
       "The Sports Car": "₺129,99",
       "Transylvania Wolf Token": "₺129,99",
@@ -42797,10 +42825,25 @@
       "L.A. Monstropolis": "₺229,99",
       "Big Cities USA Explorer Pack": "₺99,99",
       "American Roadtrips Expl. Pack": "₺99,99",
-      "Handbag Token": "₺129,99"
+      "Handbag Token": "₺129,99",
+      "Jin Token": "₺449,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750612219274,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Jin Token": "₺449,99",
+            "Speed Die": "₺229,99",
+            "Fantasy Beach Bundle": "₺499,99",
+            "Starseeker Token": "₺449,99",
+            "Enchanted Forest Marine Bundle": "₺499,99",
+            "LA Monstropolis Marine Bundle": "₺499,99",
+            "The Rainbow Bundle": "₺349,99"
+          }
+        },
         {
           "timestamp": 1750566250503,
           "price": 229.99,
