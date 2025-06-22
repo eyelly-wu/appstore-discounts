@@ -4395,6 +4395,19 @@
     "history": [
       [
         {
+          "timestamp": 1750566250503,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Premium": "$360.00",
+            "Super Powers": "$360.00",
+            "Pack of 100 Credits": "$90.00",
+            "Pack of 550 Credits": "$390.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750422311230,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -27795,6 +27808,25 @@
       "Battlepass": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750566250503,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Special pack": "$150.00",
+            "Great pack": "$320.00",
+            "Case with caps": "$690.00",
+            "Small pack": "$30.00",
+            "Big pack": "$690.00",
+            "Pile of caps": "$150.00",
+            "Seasonal event item": "$2,990.00",
+            "Handful of caps": "$30.00",
+            "Legendary pack": "$2,990.00",
+            "Standart pack": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750255981109,
