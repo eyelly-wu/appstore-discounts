@@ -2679,6 +2679,7 @@ export const part1AppConfig: AppConfig[] = [
       tw: 'Day R Premium: last world war',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1084793426,
@@ -6154,6 +6155,7 @@ export const part1AppConfig: AppConfig[] = [
       cn: '传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1603553413,
