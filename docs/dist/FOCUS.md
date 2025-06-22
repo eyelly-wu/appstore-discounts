@@ -376,7 +376,7 @@ So far, we've covered `6` `Countries or Regions` and  `1166` `Apps` <br />Push n
 |798|1624777523|Automatic|❌|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|
 |797|413943804|Automatic|Real Piano™|Real Piano™|Real Piano™|Real Piano™|Real Piano™|Real Piano™|
 |796|508064644|Automatic|地震讯息|地震訊息|地震訊息|地震訊息|Earthquakes Pro|Earthquakes Pro|
-|795|1038014543|Automatic|❌|Day R Premium: last world war|Day R Premium: last world war|Day R Premium: last world war|Day R Premium: last world war|Day R Premium|
+|795| ~~1038014543~~ |Automatic| ~~❌~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium~~ |
 |794|1084793426|Automatic|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|
 |793|1596863467|Automatic|❌|LoveChoice 揀愛|LoveChoice 揀愛|LoveChoice 揀愛|LoveChoice|LoveChoice|
 |792|1602403259|Automatic|Webmail App|Webmail App|Webmail App|Webmail App|Webmail App|Webmail App|
@@ -859,7 +859,7 @@ So far, we've covered `6` `Countries or Regions` and  `1166` `Apps` <br />Push n
 |315|1595739885|Automatic|❌|❌|Shadow Hunter: Special Edition|Shadow Hunter: Special Edition|Shadow Hunter: Special Edition|Shadow Hunter: Special Edition|
 |314|1596736236|Automatic|❌|❌|Rovio Classics: Angry Birds|Rovio Classics: Angry Birds|Red's First Flight|Red's First Flight|
 |313|1600307023|Automatic|❌|Dealer's Life 2|Dealer's Life 2|Dealer's Life 2|Dealer's Life 2|Dealer's Life 2|
-|312|1603421749|Automatic|传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜|❌|❌|❌|❌|❌|
+|312| ~~1603421749~~ |Automatic| ~~传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |311|1603553413|Automatic|手表浏览器|手表浏览器|手表浏览器|手表浏览器|手表浏览器|手表浏览器|
 |310|1606405358|Automatic|❌|Dealer's Life|Dealer's Life|Dealer's Life|Dealer's Life|Dealer's Life|
 |309|1609910024|Automatic|❌|泰拉瑞亞|泰拉瑞亞|泰拉瑞亞|❌|❌|

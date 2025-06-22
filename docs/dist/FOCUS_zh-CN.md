@@ -376,7 +376,7 @@
 |798|1624777523|自动|❌|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|
 |797|413943804|自动|Real Piano™|Real Piano™|Real Piano™|Real Piano™|Real Piano™|Real Piano™|
 |796|508064644|自动|地震讯息|地震訊息|地震訊息|地震訊息|Earthquakes Pro|Earthquakes Pro|
-|795|1038014543|自动|❌|Day R Premium: last world war|Day R Premium: last world war|Day R Premium: last world war|Day R Premium: last world war|Day R Premium|
+|795| ~~1038014543~~ |自动| ~~❌~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium~~ |
 |794|1084793426|自动|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|
 |793|1596863467|自动|❌|LoveChoice 揀愛|LoveChoice 揀愛|LoveChoice 揀愛|LoveChoice|LoveChoice|
 |792|1602403259|自动|Webmail App|Webmail App|Webmail App|Webmail App|Webmail App|Webmail App|
@@ -859,7 +859,7 @@
 |315|1595739885|自动|❌|❌|Shadow Hunter: Special Edition|Shadow Hunter: Special Edition|Shadow Hunter: Special Edition|Shadow Hunter: Special Edition|
 |314|1596736236|自动|❌|❌|Rovio Classics: Angry Birds|Rovio Classics: Angry Birds|Red's First Flight|Red's First Flight|
 |313|1600307023|自动|❌|Dealer's Life 2|Dealer's Life 2|Dealer's Life 2|Dealer's Life 2|Dealer's Life 2|
-|312|1603421749|自动|传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜|❌|❌|❌|❌|❌|
+|312| ~~1603421749~~ |自动| ~~传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |311|1603553413|自动|手表浏览器|手表浏览器|手表浏览器|手表浏览器|手表浏览器|手表浏览器|
 |310|1606405358|自动|❌|Dealer's Life|Dealer's Life|Dealer's Life|Dealer's Life|Dealer's Life|
 |309|1609910024|自动|❌|泰拉瑞亞|泰拉瑞亞|泰拉瑞亞|❌|❌|
