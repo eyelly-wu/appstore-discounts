@@ -1133,6 +1133,15 @@
     "history": [
       [
         {
+          "timestamp": 1750580127937,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "TuneIn Premium": "HK$ 78.00",
+            "TuneIn Premium Pro": "HK$ 788.00"
+          }
+        },
+        {
           "timestamp": 1750576337571,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -10208,6 +10217,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750580127937,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Chapter D": "HK$ 38.00",
+            "Chapter R": "HK$ 38.00",
+            "Chapter 0": "HK$ 38.00",
+            "Chapter L": "HK$ 88.00",
+            "Chapter N": "HK$ 32.00",
+            "Chapter K": "HK$ 38.00",
+            "Chapter S": "HK$ 38.00",
+            "Chapter T": "HK$ 38.00",
+            "Chapter 8": "HK$ 38.00",
+            "Chapter 6": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1750576337571,
           "price": 18,
@@ -27898,6 +27924,23 @@
     "history": [
       [
         {
+          "timestamp": 1750580127937,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "白金方案（每月續訂）": "HK$ 48.00",
+            "基本方案（每月續訂）": "HK$ 8.00",
+            "白金方案（每三個月續訂）": "HK$ 118.00",
+            "擴充章節 U": "HK$ 32.00",
+            "支線第一章": "HK$ 32.00",
+            "擴充章節H": "HK$ 32.00",
+            "擴充章節B": "HK$ 32.00",
+            "擴充章節 I": "HK$ 32.00",
+            "擴充章節 R": "HK$ 32.00",
+            "主線第八章": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1750576337571,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -32901,6 +32944,23 @@
     "history": [
       [
         {
+          "timestamp": 1750580127937,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "HK$ 8.00",
+            "Get the main entrance lighthouse passcode": "HK$ 8.00",
+            "Props Tip: Pyramid": "HK$ 8.00",
+            "Pyramid obtain dial pointer display mode": "HK$ 8.00",
+            "Get coffin password": "HK$ 8.00",
+            "Props Tip: Temple corner": "HK$ 8.00",
+            "Props Tip: flower": "HK$ 8.00",
+            "Get inside the temple door password": "HK$ 8.00",
+            "Rockets get the door unlocking": "HK$ 8.00",
+            "Get the factory door unlock": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1750576337571,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -33555,6 +33615,27 @@
           "timestamp": 1745328692670,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1146269500": {
+    "name": "英語日常用語-學習英語口語基本對話句型",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750580127937,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
         }
       ]
