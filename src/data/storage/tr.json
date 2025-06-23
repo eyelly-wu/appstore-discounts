@@ -26887,6 +26887,25 @@
     "history": [
       [
         {
+          "timestamp": 1750716746609,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺129,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺229,99",
+            "Pile O Monkey Money": "₺229,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Double Cash Mode": "₺399,99",
+            "Paragon Unlock": "₺229,99",
+            "Desperado Unlock Pack": "₺349,99",
+            "Vault O Monkey Money": "₺899,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750479392701,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -38141,7 +38160,8 @@
       "Instructor Unlock": "₺39,99",
       "Scenario Pack": "₺229,99",
       "The Black Caves Expansion": "₺99,99",
-      "Mountain Pass Early Unlock": "₺39,99"
+      "Mountain Pass Early Unlock": "₺39,99",
+      "Religious Leader Unlock": "₺39,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -38170,9 +38190,28 @@
       "Instructor Unlock": "₺39,99",
       "Scenario Pack": "₺229,99",
       "The Black Caves Expansion": "₺99,99",
-      "Mountain Pass Early Unlock": "₺39,99"
+      "Mountain Pass Early Unlock": "₺39,99",
+      "Religious Leader Unlock": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750716746609,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Command Pack": "₺399,99",
+            "Early Unlock Cheats": "₺449,99",
+            "Armchair Architect Unlock": "₺39,99",
+            "All Advisors Unlock": "₺449,99",
+            "Private Donor Unlock": "₺39,99",
+            "Region Tour": "₺179,99",
+            "Early Unlock Cheats (discount)": "₺229,99",
+            "Campaign + Challenge": "₺229,99",
+            "Religious Leader Unlock": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750134103969,
@@ -66262,6 +66301,14 @@
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750716746609,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746399731721,
