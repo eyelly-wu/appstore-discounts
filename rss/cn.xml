@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-23T10:36:06.098Z</updated>
+    <updated>2025-06-23T17:34:02.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-23T10:36:06.099Z</updated>
+        <updated>2025-06-23T17:34:02.757Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 23 Jun 2025 10:36:06 GMT</id>
+        <id>rankingcnMon, 23 Jun 2025 17:34:02 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-23T10:36:06.100Z</updated>
+        <updated>2025-06-23T17:34:02.758Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1169</b>
+        <b>1170</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>968</b>
+        <b>969</b>
       </td>
       <td>
         <b>18</b>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>638</b>
+        <b>639</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>476</b>
+        <b>477</b>
       </td>
       <td>
         <b>14</b>
@@ -308,6 +308,29 @@ feedId:157007849019630592+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id352247139">Calorie Counter PRO MyNetDiary</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>MyNetDiary Premium</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id6550914957">打造世界-经典沙盒建造</a>
       </td>
       <td>
@@ -344,7 +367,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447090616">Whisper Notes - 离线AI语音识别转录成文字</a>
@@ -361,7 +384,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id351850196">紫白飛星萬年曆 - 十三行作品</a>
@@ -372,29 +395,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id352247139">Calorie Counter PRO MyNetDiary</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>MyNetDiary Premium</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1241,6 +1241,89 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Calorie Counter PRO MyNetDiary]]></title>
+        <id>Calorie Counter PRO MyNetDiary-cn-1750698715505</id>
+        <link href="https://apps.apple.com/cn/app/calorie-counter-pro-mynetdiary/id352247139?uo=4"/>
+        <updated>2025-06-23T17:11:55.505Z</updated>
+        <summary type="html"><![CDATA[MyNetDiary Premium: ¥218.00 → ¥60.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/calorie-counter-pro-mynetdiary/id352247139?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/05/a0/b905a06c-64f4-c054-f10b-0e75c4ea2fb5/AppIconPro-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>MyNetDiary Premium：</strong><span>¥218.00</span> → <b>
+  <strong>¥60.00</strong>
+</b><span>[¥60.00 ~ ¥218.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥28.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    MyNetDiary Premium：<b>¥60.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Track calories, food, and macros with ease! MyNetDiary has a free barcode scanner, personal diet plans, and AI Meal Scan for instant logging — all in a smart, simple-to-use app. 
+
+USERS SAY…
+
+The best
+Love this app! The best out of many food tracking apps that I have tried over the years. Love that it is free! The breakdown of the meal and daily nutrition is very informative. Try it you will love it!
+
+LOVE LOVE LOVE THIS APP
+Best app for tracking food, exercise! Consistently losing weight! I love how it shows you if you're on target for your goal. Great layout, great look, easy to use!!! I highly recommend this app if you're looking to be a healthier you!!!
+
+Fast, intuitive, user friendly
+I have tried other calorie tracking programs over the years and this app is by far the best I've come across. I highly recommend it. The free version is very good and I am now enjoying the extra functions through a paid subscription.
+
+RECOGNIZED EXCELLENCE
+• Ranked #1 in Forbes Health’s Best Weight Loss Apps of 2025.
+• Rated #1 by the American Journal of Preventive Medicine.
+• Praised by The New York Times as “simpler, quicker, and better-looking” than other apps.
+• Featured in Today’s Dietitian, alongside WW and Noom.
+
+DIFFERENT FROM OTHER DIET APPS
+• Simple & Generous Features: Packed with free tools, no ads.
+• Lightning-Fast Logging: Barcode scanner and AI Meal Scan make tracking effortless.
+• Verified Food Database: Over 1.7 million items with 108 nutrients for accuracy.
+• Privacy Focused: No account required.
+
+MyNetDiary puts you in control. You can pick a diet or a meal plan, follow our registered dietitians' easy tips, and follow the app's guidance. Or, you can turn them off and simply use MyNetDiary as the best free calorie-counting app in the world.
+
+PROVEN SUCCESS
+• Active members lose an average of 1.4 lbs/week
+• Over 25 million users have chosen MyNetDiary, many switched from other diet apps
+
+A few of the free version features:
+• Easy food, exercise, and water tracking.
+• Daily coaching tips and meal reminders.
+• Customizable dashboard for your goals.
+• iOS Health integration and Apple Watch support.
+• Shopping lists, nutrition articles, and how-to videos.
+
+SPECIAL PRO APP FEATURES
+• Up to 108 nutrients tracked
+• Plan macros
+• Full set of charts
+• Timestamps
+• Carb tracking
+
+If you need more support, MyNetDiary Premium provides all the guidance and features you may need. At your fingertips, you'll find:
+
+• Premium Diets, 600+ full-flavored Premium Recipes and Menus by RDs, including low-carb, keto, high-protein, Mediterranean, vegetarian, and more - with diet planners, guides, and feedback.
+• Intermittent fasting - full-featured, with fasting timer and different protocols.
+• Macros planning and cycling.
+• Planning and tracking up to 108 nutrients, including omegas and aminos.
+• Recipe import tool - easily load internet recipes and calculate complete nutrition.
+• Integrations with top fitness trackers - Fitbit, Garmin, and Withings.
+• In-depth reporting and analysis tools to improve your diet.
+
+Subscription Terms:
+The subscription period will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current subscription period. To turn this function off, turn off auto-renew in your iTunes account. Renewal payments will differ depending on subscription and pricing at the time of renewal. Your iTunes account will be charged when the purchase is confirmed.
+
+Privacy Policy: www.mynetdiary.com/privacy.html
+Terms of Use: www.mynetdiary.com/terms.html
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/fa/97/77fa9799-510a-b8fa-8c6f-02bb6816e8cb/b6e679b3-ee7e-4575-8e1a-f3b3b9fa921a_Screen_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/d3/fb/05d3fbd0-1391-e2d9-64b3-7f9248d34126/70ed9fe0-d03d-4ff4-9a02-7cf7c9af602d_Screen_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/e1/f3/99e1f363-f0f9-0c8f-5456-38ee55fe92f9/96daa0f1-6b5e-46d1-afff-e96e947a349a_Screen_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/e8/bc/85e8bc5a-ec08-bb69-ff33-a8dc7d8d54b4/ff522954-5593-411e-8fef-230574cc533c_Screen_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/52/3a/c0523a87-51d7-e244-51ab-bff843147a4d/5314493e-674b-49b2-88c4-489ce0d7c9f7_Screen_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/6f/e0/2f6fe0d5-94fc-0e2b-229a-4b23555dd053/393405a5-1aad-49fd-9fa1-6f6aa8e05cea_Screen_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/e9/f3/10e9f314-c498-0dc4-42ad-8ee95d548994/99d376bd-5853-4149-9be8-3fc62a321424_Screen_08.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/48/81/684881b8-2805-2130-33f5-d5dc0d405994/7146ba39-1443-44e6-8c9e-20a48fbe5000_Screen_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/56/f4/a056f483-baea-b1f4-2c8e-088b6165b160/b7ceaa29-67a2-48f3-be17-2b6bb5702ab9_Screen_09.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/97/e2/f697e284-2117-e766-30f5-0d65ef1d60e0/f14ca282-cd3d-455e-8eec-f459d71f9ed1_Screen_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/e0/cc/4ae0cc83-f6dc-df8d-1fc2-a0deb24d6341/c7de4cda-f3e0-4cd4-a185-5158fd872988_Screen_01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/b3/2e/0fb32e68-73b3-344d-14ce-7e578d30a804/8b26b7fc-2fe0-4e83-ae00-52d729805b39_Screen_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/3e/03/b73e0382-66eb-6acb-e8df-e04ea5f03f7c/2310293b-81f6-4d6b-a181-f111649ee94f_Screen_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/db/46/67db46ac-b64c-8518-011a-47dc80150667/7489bfc2-2625-46e6-9b00-e8c7f02c989d_Screen_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/42/03/06420381-c68a-6ecc-92cc-a66e8037f19f/d80a7aba-a78f-43ef-aa63-add41fdb7853_Screen_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/cb/f3/37cbf3d7-866f-3e1f-cf4a-517fced16a05/ab932558-1ea9-4e3c-a34f-0233a55b0768_Screen_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/91/2f/a6912fdb-ee72-6bdb-3cd7-97a0a1b44de9/87ba38fe-2c96-4aa7-85ab-217789b20140_Screen_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/56/ca/8c56caed-31d6-2d76-c80d-566fb6ef4c8a/763e548c-c583-4a8e-b5ec-4254c33d9b35_Screen_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/9c/4b/449c4bcb-90e8-2ed6-3771-79b24a9a7585/59ec4a73-a0ef-4e97-9708-5294a3d81201_Screen_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/93/60/ce936090-05a1-efac-d31a-4c68a3146454/1f9edcb4-c4a0-47c6-b037-220eb171d735_Screen_10.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Whisper Notes - 离线AI语音识别转录成文字]]></title>
         <id>Whisper Notes - 离线AI语音识别转录成文字-cn-1750673673668</id>
         <link href="https://apps.apple.com/cn/app/whisper-notes-%E7%A6%BB%E7%BA%BFai%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E8%BD%AC%E5%BD%95%E6%88%90%E6%96%87%E5%AD%97/id6447090616?uo=4"/>
@@ -1668,121 +1751,5 @@ You can choose the size of the image for a stream or story, which is ideal for I
 Follow @luchfilmsapp on Instagram for inspiration from our community of users.
 We love hearing your ideas and feedback. Please email hello@vostokapp.ru or DM us on Instagram at @luchfilmsapp for questions or suggestions.
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dd/4a/82/dd4a8296-5b8c-7ae8-18ac-70ec9300345d/d0e89f8b-e0bc-498e-9cd3-d00e1c344362_Group_1004.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/e9/6d/97e96d91-8718-5c9b-814e-1d2b251a1a39/9d9ed9a1-9dc6-498e-9019-4fe09435277d_Group_992.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/ea/41/dbea4104-d415-ed42-5d72-bfc68918ac03/27c9554f-2ffb-4116-9f7a-9423048642de_Group_1033.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/20/09/e6200980-8b20-ab1a-c07f-f1838d27ba09/fa381b19-edc3-4542-98a9-37134c4a3a85_Group_1032.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/94/37/bd9437e0-0488-26f2-25f3-b9957e62ddfe/f36dbd84-605b-4a28-81e0-1f511c9f314e_Group_1034.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/17/c3/d317c334-ad9f-a716-9204-832370b9b736/026954c8-11b9-4714-bd81-3b6c87c13908_Group_1030.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/3f/d3/3b3fd3dd-0d05-0f5f-2d5f-86bd361c9c20/7b938047-d866-44ad-8a01-b26447f0fd70_Group_1031.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/6b/91/2a6b91ff-cae9-f2d8-9012-1ecf8d343fb7/196b3455-4eed-4d2c-8374-c197652a8e38_Group_998.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/da/78/acda7899-5c13-e880-7283-a745440be7e4/86217d6c-6d55-48c3-bdfc-9c964ff2ff9b_Group_994.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f8/40/8f/f8408f24-9df9-4c85-c965-d27bf40fda09/b8d6eef1-6482-48ab-a052-9b42d18ec046_ipad-2-3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/a7/75/22a775a6-0f88-b05c-29f0-5fdc02c14df4/782c79ca-9d65-485e-9d2a-7433b8b8c810_ipad-2-2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/b7/8d/76b78d6a-32f8-2b2c-0510-30f6ddcdfd8e/02ad3071-384d-4431-af5b-551645b4e7c9_ipad-2-1.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手表经典迷宫游戏]]></title>
-        <id>手表经典迷宫游戏-cn-1750428721028</id>
-        <link href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E7%BB%8F%E5%85%B8%E8%BF%B7%E5%AE%AB%E6%B8%B8%E6%88%8F/id6740471827?uo=4"/>
-        <updated>2025-06-20T14:12:01.028Z</updated>
-        <summary type="html"><![CDATA[价格: ¥1.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E7%BB%8F%E5%85%B8%E8%BF%B7%E5%AE%AB%E6%B8%B8%E6%88%8F/id6740471827?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/3b/ce9e3bbb-4f79-a61f-7e66-68d02617d17f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥1.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥1.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h2>应用描述</h2><p>经典迷宫游戏是一款经典的益智游戏，非常适合在短暂休息时训练您的大脑。它设计为一​​款非常简单的单人游戏，通过滑过有趣的复古迷宫来玩。快速玩一局，挑战 500 个迷宫，成为迷宫之王。</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vostok — 创建美丽快拍页面]]></title>
-        <id>Vostok — 创建美丽快拍页面-cn-1750428721028</id>
-        <link href="https://apps.apple.com/cn/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4"/>
-        <updated>2025-06-20T14:12:01.028Z</updated>
-        <summary type="html"><![CDATA[价格: ¥3.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/6f/8b/d76f8bb0-b9e7-df57-b8d7-d068fd9971fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥3.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥8.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h2>应用描述</h2><p>
-  欢迎来到Vostok - 你的终极故事编辑器和拼贴制作工具，旨在提升你在社交媒体上的存在感！Vostok可以轻松将你的创意转化为令人惊叹的专业级帖子和故事。
-
-无论你是博主、摄影师，还是喜欢在社交媒体上记录生活点滴的人，Vostok都为你提供了一切所需，打造引人注目的内容。我们时尚且用户友好的应用巧妙地融合了你对摄影和讲故事的热爱，为你提供了一个动态的平台，展示你的惊奇时刻。
-
-Vostok以极简主义风格自豪，成为你释放创意的完美空间。多种模板、贴纸和特效尽在指尖，让你打造独特的故事，展现个性。
-
-但Vostok不仅提供创意自由，更注重简便性。我们直观的界面使得编辑和分享内容变得轻而易举，让你有更多时间专注于创作引人入胜的故事，让你的粉丝喜爱。
-
-不要犹豫！立刻开始你的Vostok之旅，打造引人入胜的帖子和故事，留下深刻印象！
-
-以下是我们的一些功能预览：
-
-· 200+社交媒体设计模板
-· 支持西里尔字母的独家字体
-· 450+独特贴纸
-· 照片大气灰尘和颗粒特效
-· 多种背景：纸张纹理、大理石、渐变、颜色
-· 无广告，无需订阅
-· 支持深色模式
-
-被Apple评为2019年最佳应用之一。
-
-拥有200多个模板，Vostok是你打造出众社交媒体内容的工具箱。
-
-我们热切期待你的想法和反馈。
-通过hello@vostokapp.ru与我们联系，或在Instagram直接向我们发送消息，帐号为@vostokapp。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whisper Notes - 离线AI语音识别转录成文字]]></title>
-        <id>Whisper Notes - 离线AI语音识别转录成文字-cn-1750422311230</id>
-        <link href="https://apps.apple.com/cn/app/whisper-notes-%E7%A6%BB%E7%BA%BFai%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E8%BD%AC%E5%BD%95%E6%88%90%E6%96%87%E5%AD%97/id6447090616?uo=4"/>
-        <updated>2025-06-20T12:25:11.230Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/whisper-notes-%E7%A6%BB%E7%BA%BFai%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E8%BD%AC%E5%BD%95%E6%88%90%E6%96%87%E5%AD%97/id6447090616?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/b4/3d/9bb43dc8-5b89-d59b-1e37-5e8f97c32ae3/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥18.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h2>应用描述</h2><p>
-  Whisper Notes：基于Whisper AI的离线语音转文字应用，非常适合记录日常语音备忘录和会议笔记。应用完全离线运行，确保您的语音录音和隐私永远不会离开您的设备。
-
-无订阅，无应用内购买，无广告——只需一次性付款，终身使用。
-
-■ 功能特点 
-- 本地语音录制和转录 
-- 离线导入并转录音频/视频文件
-- 批量导出或删除文本和音频文件 
-- 支持导出带时间戳的转录文本
-
-■ 为什么我们开发这款应用
-有时我做了一个奇怪的梦，想在醒来时记录下来，但睡眼惺忪时打字很困难。我需要一个能够快速捕捉并转录语音的工具。
-
-当朋友发来需要长篇回复的信息，而我正在散步或吃饭时，我希望能快速回复而不必发送语音消息。
-
-■ 常见问题 
-1. 它支持录音过程中的实时转录吗？
-目前不支持，只能先录音，完成后再转录。
-
-2. 有最大转录长度限制吗？
-理论上没有，您可以录制几小时的音频。但由于转录是在您的设备上完成的，速度会有点慢。我测试了大约1小时的音频，转录是准确的。
-
-3. 转录速度如何？
-取决于您的设备。在我的iPhone 15上，转录速度约为1:5，意味着5分钟的音频需要约1分钟来转录。
-
-4. 为什么是付费应用且没有免费试用？
-我们设计Whisper Notes完全离线运行以保护您的隐私。一旦您下载并打开应用，它就再也不会连接互联网。
-提供免费试用需要应用内购买功能，这需要互联网连接—正是我们为了保护您的数据安全而要避免的。
-
-如果您不满意，只需点击右上角的设置按钮找到"申请退款"选项。
-
-5. 为什么不支持AI摘要？
-隐私是我们的首要任务。我们绝不会将您的语音录音或转录内容上传到任何AI服务或云服务器。如果您需要摘要，可以随时复制您的转录内容，单独使用您喜欢的AI工具。
-
-6. 支持哪些语言？
-英语、中文、德语、西班牙语、俄语、韩语、法语、日语、葡萄牙语、土耳其语、波兰语、加泰罗尼亚语、荷兰语、阿拉伯语、瑞典语、意大利语、印尼语、印地语、芬兰语、越南语、希伯来语、乌克兰语、希腊语、马来语、捷克语、罗马尼亚语、丹麦语、匈牙利语、泰米尔语、挪威语、泰语、乌尔都语、克罗地亚语、保加利亚语、立陶宛语、拉丁语、毛利语、马拉雅拉姆语、威尔士语、斯洛伐克语、泰卢固语、波斯语、拉脱维亚语、孟加拉语、塞尔维亚语、阿塞拜疆语、斯洛文尼亚语、卡纳达语、爱沙尼亚语、马其顿语、布列塔尼语、巴斯克语、冰岛语、亚美尼亚语、尼泊尔语、蒙古语、波斯尼亚语、哈萨克语、阿尔巴尼亚语、斯瓦希里语、加利西亚语、马拉地语、旁遮普语、僧伽罗语、高棉语、绍纳语、约鲁巴语、索马里语、南非语、奥克语、格鲁吉亚语、白俄罗斯语、塔吉克语、信德语、古吉拉特语、阿姆哈拉语、意第绪语、老挝语、乌兹别克语、法罗语、海地克里奥尔语、普什图语、土库曼语、新挪威语、马耳他语、梵语、卢森堡语、缅甸语、藏语、他加禄语、马达加斯加语、阿萨姆语、鞑靼语、夏威夷语、林加拉语、豪萨语、巴什基尔语、爪哇语、巽他语
-
-■ 联系方式
-support@whispernotes.app
-https://whispernotes.app
-</p>]]></content>
     </entry>
 </feed>
