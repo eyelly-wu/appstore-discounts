@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-22T18:37:07.792Z</updated>
+    <updated>2025-06-23T04:50:09.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-22T18:37:07.793Z</updated>
+        <updated>2025-06-23T04:50:09.910Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSun, 22 Jun 2025 18:37:07 GMT</id>
+        <id>rankingcnMon, 23 Jun 2025 04:50:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-22T18:37:07.793Z</updated>
+        <updated>2025-06-23T04:50:09.910Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -195,6 +195,29 @@ feedId:157007849019630592+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>4</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>高级功能</i>：<b>4</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id6739975257">乐桥</a>
       </td>
       <td>
@@ -217,7 +240,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
@@ -232,29 +255,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>英雄枪手</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>高级功能</i>：<b>3</b>
               </li>
             </ol>
           </li>
@@ -489,6 +489,31 @@ feedId:157007849019630592+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id966489322">生辰 — 桌面时间小组件</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>永久会员</i>：<b>1</b>
+              </li><li>
+                <i>生辰-季度会员</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>20</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1028950091">贪婪洞窟：猿神降临</a>
       </td>
       <td>
@@ -509,7 +534,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1055511498">Day One Journal</a>
@@ -532,7 +557,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
@@ -555,7 +580,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1304822713">无尽坦克大战 - 八位元单机王者 完美模拟穿越旧经典电视手游</a>
@@ -572,7 +597,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -589,7 +614,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400652313">冰钓大师</a>
@@ -606,7 +631,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -629,7 +654,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1437479513">逃脱者：困境突围</a>
@@ -656,7 +681,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -673,7 +698,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1482339363">iScore5 APHG</a>
@@ -690,7 +715,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -707,7 +732,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1519571900">Luwian</a>
@@ -724,7 +749,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -741,7 +766,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1523446532">重生细胞</a>
@@ -758,7 +783,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
@@ -775,7 +800,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -792,7 +817,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1551596643">模拟地铁</a>
@@ -809,7 +834,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1558391784">Filebar</a>
@@ -832,7 +857,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1587301632">全能记(录音,备忘,流水)</a>
@@ -849,7 +874,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
@@ -866,7 +891,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -883,7 +908,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744837914">块块爱消除-手表游戏经典快乐休闲益智</a>
@@ -900,7 +925,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -917,7 +942,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -934,7 +959,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -951,7 +976,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -976,7 +1001,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6743487416">黄金矿工 for Watch - 经典复刻</a>
@@ -993,7 +1018,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
@@ -1010,7 +1035,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742221550">魔卡棋旅</a>
@@ -1027,7 +1052,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
@@ -1044,7 +1069,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6450877530">花园之间</a>
@@ -1061,7 +1086,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447090616">Whisper Notes - 离线AI语音识别转录成文字</a>
@@ -1214,6 +1239,168 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayNav - 影片内无广告！]]></title>
+        <id>PlayNav - 影片内无广告！-cn-1750652899804</id>
+        <link href="https://apps.apple.com/cn/app/playnav-%E5%BD%B1%E7%89%87%E5%86%85%E6%97%A0%E5%B9%BF%E5%91%8A/id6446178861?uo=4"/>
+        <updated>2025-06-23T04:28:19.804Z</updated>
+        <summary type="html"><![CDATA[高级功能: ¥15.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/playnav-%E5%BD%B1%E7%89%87%E5%86%85%E6%97%A0%E5%B9%BF%E5%91%8A/id6446178861?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ba/1a/fcba1a02-3654-b8f3-5710-7822bcde85d5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>高级功能：</strong><span>¥15.00</span> → <b>
+  <strong>¥8.00</strong>
+</b><span>[¥3.00 ~ ¥68.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    高级功能：<b>¥8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  你是否厌倦了 YouTube 视频中的广告打扰
+
+全新的 YouTube PlayNav 视频浏览器将屏蔽观看视频时出现的所有侵入式广告 让你可以流畅无阻地享受喜爱的视频
+
+此外 我们的应用还提供你会喜欢的功能
+
+• 画中画播放 在使用其他应用时观看 YouTube 视频
+• 仅音频模式 在锁屏状态下播放任何 YouTube 视频的音频
+• 自动关闭 设置睡眠定时器 Premium
+• 循环模式 自动重复播放你最喜欢的视频 Premium
+• 学习模式 通过字幕学习语言 Premium
+
+此外 还包括播放列表 速度调整 相关视频 AirPlay 等实用功能 让你的观影体验更上一层楼
+
+如何使用 PlayNav
+
+画中画播放 PIP (Premium)
+
+在使用其他应用时观看 YouTube 视频 启用后播放器会缩小到屏幕上 你可以随意移动或双击隐藏它
+
+如何启用
+1 播放视频时 点击左上角的 PIP 图标 两个小屏幕图标
+2 视频播放时 从 iPhone 底部向上滑动 播放器将出现在屏幕上
+
+仅音频模式
+
+在 iPhone 屏幕锁定的情况下 收听你最喜欢的 YouTube 视频音频 可用于运动 散步 或睡前 搭配自动关闭功能 让你放松聆听喜爱的视频
+
+如何启用
+1 启用画中画播放
+2 然后锁定 iPhone 音频将继续播放
+
+自动关闭
+
+睡觉时间 到 YouTube 选择你喜欢的视频或播放列表 设置自动关闭计时器 让你在喜爱的音频陪伴下入睡
+
+如何启用
+1 在播放器中点击睡眠图标 月亮
+2 选择自动关闭的时间
+3 可与仅音频模式结合使用
+
+循环模式 重复播放视频
+
+想让你的视频循环播放 启用循环模式 让视频无限循环播放 还可与仅音频模式结合使用
+
+如何启用
+1 点击循环图标 视频将持续循环播放 直到你手动关闭
+
+学习模式 通过字幕学习语言
+
+现在 你可以通过字幕学习语言 启用学习模式后 你将看到原始字幕和你的语言翻译 还可以调整播放速度 更好地理解每个单词
+
+如何启用
+1 搜索你学习语言的视频
+2 视频播放后 点击标题旁的学习模式按钮
+
+– 现在试用 PLAYNAV！–
+
+免费享受所有基础功能，并通过一次性购买解锁 Premium 功能。
+
+最低要求
+• iOS 15 或更高版本
+• 3G 或更快的网络连接
+
+相关关键词
+YouTube YouTube Music YouTube Vanced 广告拦截器 无需订阅 跳过 YouTube 广告 无广告音乐 屏蔽弹窗 YouTube AdBlocker 拦截弹窗广告 无广告内容 高级广告拦截器 AdBlock Plus 删除广告 无广告 YouTube
+
+需要帮助
+访问 playnav.vidiom.app 或联系我们 info@playnav.vidiom.app
+
+服务条款 playnav.vidiom.app/terms-of-service
+隐私政策 playnav.vidiom.app/privacy-policy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/dc/fc/c6dcfcda-daa9-249e-affe-748304228c32/b76755b1-5a47-46f5-8a40-b1c0d56a6627_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/76/af/2076af84-9436-da0b-e362-c40add893f60/7869426b-6c3d-4c27-9703-67d5d3ecc172_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/9b/21/5b9b2117-ef25-861b-de0a-3ff0a667b392/2551f815-4407-4078-9d2d-2d092b942223_Hotpot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/c4/54/efc454c8-42b8-e53a-97c6-4caba2777098/f7883da8-e00d-43a1-aad8-8534a9b6f469_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/92/36/0a92367b-74df-3794-6d1f-9f3e3d9ca8bc/eb00f2e1-e187-4e5b-ba1d-0ee0d08dda1c_Hotpot_4.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
+        <id>生辰 — 桌面时间小组件-cn-1750652899804</id>
+        <link href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
+        <updated>2025-06-23T04:28:19.804Z</updated>
+        <summary type="html"><![CDATA[永久会员: ¥98.00 → ¥88.00<br/>生辰-季度会员: ¥88.00 → ¥22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f1/48/b5f1483c-8c5e-49b8-c88d-3adaa5712530/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>永久会员：</strong><span>¥98.00</span> → <b>
+  <strong>¥88.00</strong>
+</b><span>[¥88.00 ~ ¥128.00]</span>
+  </li><li>
+    <strong>生辰-季度会员：</strong><span>¥88.00</span> → <b>
+  <strong>¥22.00</strong>
+</b><span>[¥22.00 ~ ¥88.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    生辰年度会员：<b>¥78.00</b>
+  </li><li>
+    月度会员：<b>¥15.00</b>
+  </li><li>
+    永久会员：<b>¥88.00</b>
+  </li><li>
+    生辰-季度会员：<b>¥22.00</b>
+  </li><li>
+    生辰-年度会员：<b>¥88.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  这是一款关于生、死、心愿与延续的App。
+
+小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
+时针转动，生命流逝，但每一次心跳都可以更加有力。
+
+有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
+而现在，这些数字可以成为你重塑生命的坐标，指引你走向更健康、更长久的未来。
+
+生辰 2.0 通过 AI 分析和科学判断，不仅预测生命的终点，更为你铺就延长生命的道路：
+
+- 探索你的生命时钟：了解当下的预期寿命，直面生命的有限与珍贵。
+- 发现延寿的可能：看见改变健康习惯能为你带来多少额外的生命时光。
+- 聚合健康数据：自动追踪睡眠、锻炼、压力（HRV）、经期、喝水等十余种健康数据
+
+美国诗人纳·斯待尔在87岁那年写道：
+"如果我能够从头活过，我会试着犯更多的错。
+我会放松一点，我会灵活一点。
+我会爬更多的山，游更多的河，看更多的日落。"
+
+因为了解生命的终点，才能更好地珍惜当下的每一刻。生辰2.0 探索健康的可能，让我们成为你健康旅程的长久伙伴。
+
+【生辰 App 会员服务说明】
+
+1.会员包含几种订购类型
+订阅周期：1个月、3个月、12个月
+2.首次订购后会通过iTunes账户直接支付；账户会在到期前24小时内扣费，扣费成功后自动顺延一个订阅周期
+3.本服务由您自主选择是否续订，如需取消，请在订阅到期24小时前，在 AppleID 设置中取消
+4.生辰App 会员协议
+生辰App 会员服务协议：https://post.jellow.club/whatslife-payment/
+5.生辰App 软件协议与隐私政策
+生辰 软件许可及服务协议：https://post.jellow.club/whatslife-agreement/
+生辰 隐私协议：https://post.jellow.club/whatslife-privacy/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Be Focused Pro - Focus Timer]]></title>
@@ -1539,74 +1726,6 @@ Vostok以极简主义风格自豪，成为你释放创意的完美空间。多�
 ■ 联系方式
 support@whispernotes.app
 https://whispernotes.app
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打造世界-经典沙盒建造]]></title>
-        <id>打造世界-经典沙盒建造-cn-1750389110383</id>
-        <link href="https://apps.apple.com/cn/app/%E6%89%93%E9%80%A0%E4%B8%96%E7%95%8C-%E7%BB%8F%E5%85%B8%E6%B2%99%E7%9B%92%E5%BB%BA%E9%80%A0/id6550914957?uo=4"/>
-        <updated>2025-06-20T03:11:50.383Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%93%E9%80%A0%E4%B8%96%E7%95%8C-%E7%BB%8F%E5%85%B8%E6%B2%99%E7%9B%92%E5%BB%BA%E9%80%A0/id6550914957?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/da/13/63da13de-f588-8ae2-54c2-5b482baf422f/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥12.00</strong>
-</b><span>[¥9.00 ~ ¥18.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥12.00</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    DLC：姐妹连：<b>¥2.00</b>
-  </li><li>
-    DLC：英雄对决：<b>¥6.00</b>
-  </li><li>
-    DLC：怪物联盟：<b>¥9.00</b>
-  </li><li>
-    DLC：贪婪洞窟：<b>¥4.00</b>
-  </li><li>
-    DLC：龙之神庙：<b>¥7.00</b>
-  </li><li>
-    DLC：异界：<b>¥6.00</b>
-  </li><li>
-    DLC：外星入侵：<b>¥6.00</b>
-  </li><li>
-    DLC：孤山世界：<b>¥9.00</b>
-  </li><li>
-    DLC：邪恶之心：<b>¥9.00</b>
-  </li><li>
-    奇境森林：<b>¥13.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  《打造世界》结合了策略、方块建造沙盒以及塔防多种元素。游戏中，你不是一个人在战斗，需要带领矮人部落在这个充满危险生物的随机世界里进行探索，安排他们分工合作收集资源，制作需要的物品、武器和盔甲，以及建造城堡，来抵御危险生物的入侵。
-
-【世界探索、沙盒生存】
-游戏共有七个不同的世界（游戏本体4个地图+3个dlc地图），每个世界都是随机生成的岛屿，你可以在游戏中自由的改变地形地貌。不同世界有着各自的地理及生物特色，同时也暗藏各类怪物和BOSS。带上大聪明矮人征服各个世界吧！
-
-【资源采集、制作发展】
-游戏中挖掘矿藏、捕捉动物、打败敌人、种植农田等等方式获得原料；升级科技树，制作数百种完全不同的物品！要知道除了常规的武器、建筑材料、食物、炼金药水外，你甚至建造一个广大的矿井网，配上升降机和铁路，快速抵达藏有最珍贵金属的矿脉中。如何发展矮人部落，你可要好好思考一下。
-对了，必须得告诉你，游戏中存在各种魔法，比如打开传送门，提高矮人运输资源的效率；使用魔法之光照亮黑暗的洞穴吓跑怪物；使用降水或是魔法森林加快树木成长，或者是使用指南针魔法找到隐藏资源，从而帮助加快资源开采，探索世界。
-
-【自由建造、殖民管理】
-发展一个部落可没那么容易，你需要安排矮人们的衣食住行，可以直接控制矮人进行挖掘、砍伐、攻击、建造等操作，并在矮人与怪物和BOSS战斗时使用魔法帮助他们。
-在游戏刚开始时，你只有1位矮人，随着在这个世界的等级提升，会获得更多的矮人；而随着人数越来越多，部落规模也越来越大的。
-部落的发展，建筑是必不可少的，发挥你天马星空的想象吧，无论是建古代宫殿风格、还是想要征服天空的空中住宅、又或者是结合现代科技坚不可摧的堡垒，只要你脑洞够大，创造独属于你的矮人之家！
-
-【即时战略&塔防战斗】
-有些怪物会成群结队的来掠夺矮人资源，有些怪物会定期从传送门而来攻打矮人，你需要带领矮人建立攻防系统，在的堡垒周围的路上设满陷阱和导弹塔，抵抗成群结队入侵而来的敌人。
-
-【DLC拓展内容】
-丰富的DLC内容拓展既可以带你领略不一样的世界：融合中式风格元素的《龙之神庙》、家园领地保卫战的《孤山世界》、暗黑领主和矮人的终极决战《邪恶之心》，还可以让你在世界探索中增加更多乐趣：女矮人携宠物及新装备登场的《姐妹连》、在神秘的斯芬克斯的沙漠世界探索神庙的《废弃矿山》、充满了植物和古老的魔法的《贪婪洞窟》，召唤英雄战士和法师的《英雄对决》，对抗更加强大的地下深渊头目的《怪物联盟》。
-
-【联系我们】
-抖音：@良心工作室
-快手：@良心工作室
-B站：@良心工作室
-小红书：@良心工作室
-微博：@良心工作室官方
-Q群：320015298
-
-若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
 </p>]]></content>
     </entry>
 </feed>
