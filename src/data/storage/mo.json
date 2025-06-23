@@ -4614,10 +4614,29 @@
       "Predictive Report - Full": "USD 3.99",
       "My Pet Report": "USD 1.99",
       "Child Report - Untimed": "USD 2.99",
-      "Gold Level lifetime": "USD 119.99",
+      "Gold Level lifetime": "USD 99.99",
       "Gold Level Free Trial": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750640759866,
+          "price": 39.99,
+          "formattedPrice": "USD 39.99",
+          "inAppPurchases": {
+            "Gold Level lifetime": "USD 99.99",
+            "Gold Level Free Trial": "USD 0.00",
+            "Lunar Return Report": "USD 3.99",
+            "7-day Trial Astrolocality": "USD 0.00",
+            "Astrolocality Maps": "USD 24.99",
+            "The Big Three Report": "USD 3.99",
+            "Relationship Report": "USD 3.99",
+            "Predictive Report - Untimed": "USD 2.99",
+            "Predictive Report - No Background": "USD 2.99",
+            "Predictive Report - Full": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -35249,6 +35268,21 @@
     "history": [
       [
         {
+          "timestamp": 1750640759866,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "All Advisors Unlock": "USD 9.99",
+            "Early Unlock Cheats": "USD 9.99",
+            "Command Pack": "USD 6.99",
+            "Early Unlock Cheats (discount)": "USD 4.99",
+            "Region Tour": "USD 3.99",
+            "戰役 + 挑戰": "USD 4.99",
+            "黑暗洞窟擴展": "USD 1.99",
+            "蔚藍堤壩擴展": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1750633905434,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -39876,6 +39910,24 @@
       "6元新手禮包​​": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750640759866,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "30元新手禮包​": "USD 4.99",
+            "6元新手禮包​​": "USD 0.99",
+            "演武大會68元通行證": "USD 9.99",
+            "尊享月俸": "USD 4.99",
+            "禮包11": "USD 49.99",
+            "禮包9": "USD 29.99",
+            "禮包7": "USD 14.99",
+            "禮包6": "USD 9.99",
+            "禮包8": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750389110383,
