@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-22T17:32:07.691Z</updated>
+    <updated>2025-06-23T03:43:08.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-22T17:32:07.691Z</updated>
+        <updated>2025-06-23T03:43:08.184Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrSun, 22 Jun 2025 17:32:07 GMT</id>
+        <id>rankingtrMon, 23 Jun 2025 03:43:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-22T17:32:07.691Z</updated>
+        <updated>2025-06-23T03:43:08.184Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -145,6 +145,29 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>4</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Premium Features</i>：<b>4</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id6739975257">TuneShift</a>
       </td>
       <td>
@@ -167,7 +190,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id904278510">Hitman Sniper</a>
@@ -190,7 +213,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id918609651">Money Pro: Personal Finance AR</a>
@@ -215,7 +238,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439187947">Rebel Inc.</a>
@@ -230,29 +253,6 @@ feedId:157008924688563200+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Command Pack</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>3</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Premium Features</i>：<b>3</b>
               </li>
             </ol>
           </li>
@@ -1552,6 +1552,99 @@ feedId:157008924688563200+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PlayNav - No ads in videos!]]></title>
+        <id>PlayNav - No ads in videos!-tr-1750648874826</id>
+        <link href="https://apps.apple.com/tr/app/playnav-no-ads-in-videos/id6446178861?uo=4"/>
+        <updated>2025-06-23T03:21:14.826Z</updated>
+        <summary type="html"><![CDATA[Premium Features: ₺99,99 → ₺39,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/playnav-no-ads-in-videos/id6446178861?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ba/1a/fcba1a02-3654-b8f3-5710-7822bcde85d5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Premium Features：</strong><span>₺99,99</span> → <b>
+  <strong>₺39,99</strong>
+</b><span>[₺19,99 ~ ₺449,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Premium Features：<b>₺39,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Are you tired of interruptions caused by ads in your YouTube videos?
+
+The new YouTube PlayNav video browser will block all intrusive ads that appear while watching your videos, so you can enjoy your favorite videos smoothly and without interruptions.
+
+Plus, our app offers features you’ll love:
+• On-Screen Playback: Watch YouTube videos while using other apps.
+• Audio-Only Mode: Listen to any YouTube video with your screen locked.
+• Auto Shutdown: Set a sleep timer. (Premium)
+• Loop Mode: Automatically repeat your favorite videos. (Premium)
+• Learning Mode: Learn languages using subtitles. (Premium)
+
+It also includes essential features such as playlists, speed adjustment (improved), related videos, AirPlay, and more to enhance your video-watching experience.
+
+» HOW TO USE PLAYNAV?
+
+ON-SCREEN PLAYBACK (PIP) (Premium)
+
+Watch YouTube videos while using any other app. Once activated, the player will shrink on your screen, allowing you to move or hide it with a double tap.
+
+» How to activate it?
+1. While playing a video, tap the PIP icon in the upper-left corner (two small screen icons).
+2. While a video is playing, swipe up from the bottom of your iPhone, and the player will appear on your screen.
+
+AUDIO-ONLY MODE
+
+Listen to the audio of your favorite YouTube videos with your iPhone screen locked. Use it while exercising, walking, or before bed. Combine it with the auto shutdown feature to relax while listening to your favorite videos!
+
+» How to activate it?
+1. Enable On-Screen Playback.
+2. Then, lock your iPhone, and the audio will continue playing.
+
+AUTO SHUTDOWN
+
+Bedtime? Find your favorite YouTube video or playlist, set the auto shutdown timer, and let your favorite audio accompany you as you fall asleep.
+
+» How to activate it?
+1. Tap the Sleep icon (moon) in the player.
+2. Select the time you want for auto shutdown.
+3. You can combine it with Audio-Only Mode.
+
+LOOP MODE (REPEAT VIDEO)
+
+Want your video to play on repeat? Use Loop Mode to replay your video as many times as you like. You can also combine it with Audio-Only Mode.
+
+» How to activate it?
+1. Tap the Repeat icon. Your video will keep playing on loop until you disable it.
+
+LEARN LANGUAGES WITH SUBTITLES (LEARNING MODE)
+
+Now you can learn languages using subtitles! When you activate Learning Mode, you will see both the original subtitles and the translation in your language. You can also adjust the playback speed to better understand each word.
+
+» How to activate it?
+1 Search for videos in the language you are learning.
+2 Once your video starts playing, tap the Learning Mode button next to the video title.
+
+– TRY PLAYNAV NOW! –
+Enjoy all basic features for free and unlock Premium with a one-time purchase.
+
+Minimum requirements:
+• iOS 15 or higher.
+• 3G connection or higher.
+
+» Related keywords:
+YouTube, YouTube Music, YouTube Vanced, ad blocker, no subscription, skip YouTube ads, ad-free music, block pop-ups, adblock for YouTube, block pop-up ads, ad-free content, premium ad blocker, AdBlock Plus, remove ads, YouTube without ads.
+
+- Need help?
+Visit: playnav.vidiom.app or contact us at info@playnav.vidiom.app
+
+Terms of Service: playnav.vidiom.app/terms-of-service
+Privacy Policy: playnav.vidiom.app/privacy-policy
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/1b/a3/f41ba35e-2cd1-bfa1-1586-2fad3543c910/e56d11f2-8cdc-4e8a-97a1-8e00a0bdf908_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/fe/0e/88fe0ed8-2113-5dcd-c7ae-09f39ef6750a/febb8eb4-e913-44a6-829a-bdedac85315b_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/b3/b2/18b3b206-bb85-4773-a61d-5965a7b0e985/8af986d4-f22c-43a5-8c1c-1c5965a75fa2_Hotpot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/0c/84/410c8494-9e93-277d-feb2-af28220e5e97/c7bbd4b7-5d74-42fe-8ee1-858c90270f96_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/d6/2b/aed62b9b-53dc-59af-3fe5-28e7ecdbd296/6522e8f6-efb0-4ce5-a718-8b1e3079015f_Hotpot_4.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Be Focused Pro- Pomodoro Timer]]></title>
         <id>Be Focused Pro- Pomodoro Timer-tr-1750612219274</id>
         <link href="https://apps.apple.com/tr/app/be-focused-pro-pomodoro-timer/id953426154?uo=4"/>
@@ -2080,89 +2173,5 @@ English, 中文, Deutsch, Español, Русский, 한국어, Français, 日本
 support@whispernotes.app
 https://whispernotes.app
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Henshin Hero - Game for watch]]></title>
-        <id>Henshin Hero - Game for watch-tr-1750389110383</id>
-        <link href="https://apps.apple.com/tr/app/henshin-hero-game-for-watch/id6740705851?uo=4"/>
-        <updated>2025-06-20T03:11:50.383Z</updated>
-        <summary type="html"><![CDATA[Price: ₺99,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/henshin-hero-game-for-watch/id6740705851?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/db/c3/d4dbc395-60af-780e-ee7e-6c399c4d5769/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺99,99</span> → <b>
-  <strong>₺39,99</strong>
-</b><span>[₺39,99 ~ ₺99,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺39,99</b>
-</p><h2>Application Description</h2><p>
-  Turn Your Apple Watch into a Sound Effect Generator!
-
-With this fun and exciting Apple Watch app, you can choose your favorite sound effects and activate them with just a flick of your wrist!  Immerse yourself in the world of superheroes—transform like Iron Man or Spider-Man, or explore a variety of other thrilling sounds.  From realistic gun effects to animal sounds, police sirens, ambulance alarms, and much more, there’s always something new to discover!
-
-Download now and unleash the power of sound—bring your childhood dreams to life!
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeon Maker : Dark Lord]]></title>
-        <id>Dungeon Maker : Dark Lord-tr-1750374737436</id>
-        <link href="https://apps.apple.com/tr/app/dungeon-maker-dark-lord/id1359652100?uo=4"/>
-        <updated>2025-06-19T23:12:17.436Z</updated>
-        <summary type="html"><![CDATA[Price: ₺179,99 → ₺99,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/dungeon-maker-dark-lord/id1359652100?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/ed/72/69ed7268-6cc0-a243-da55-3bd3e10a88e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺179,99</span> → <b>
-  <strong>₺99,99</strong>
-</b><span>[₺99,99 ~ ₺179,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺99,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    DLC "The Card Game"：<b>₺179,99</b>
-  </li><li>
-    TeaSet DarkLord Skin Package C：<b>₺229,99</b>
-  </li><li>
-    Teaset Dark Lord Skin PackageB：<b>₺229,99</b>
-  </li><li>
-    Teaset DarkLord Skin Package A：<b>₺229,99</b>
-  </li><li>
-    Little Corr. Hero costume Pack：<b>₺1.199,99</b>
-  </li><li>
-    Little Hero Costume Package：<b>₺1.199,99</b>
-  </li><li>
-    Black Dark Lord Skin Package：<b>₺349,99</b>
-  </li><li>
-    White Dark Lord Skin Package：<b>₺349,99</b>
-  </li><li>
-    Awakening Viper Package：<b>₺229,99</b>
-  </li><li>
-    Myth full pack：<b>₺1.799,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Prepare for battle - a mob of heroes is about to invade your territory!
-Build traps facilities in your dungeon, hire monsters, discover relics with mysterious power, and protect your dungeon from heroes that came to take you down.
-
-◆ CONTENTS
-- 9 Dark Lords with special skills!
-- 300+ monsters and heroes
-- 100+ traps and facilities for your dungeon
-- 200+ relics with mysterious power
-- Various EVENTS filled with surprises
-- Various elements that can be unlocked throughout gameplay
-- and more…!
-We are planning to add more Dark Lords, traps, monsters, and more game modes!
-
-◆ CREATE YOUR OWN DUNGEON
-Think carefully when placing traps, facilities, and monsters into your dungeon. Strong strategy will help you survive the swarm of heroes and allow you to unlock more elements for your dungeon. May your dungeon endure the bravest heroes there are!
-
-◆ EXPLORE YOUR FATE
-Choose your fate from a selection of fate cards every day. If you wish to battle, heroes will come, and if you wish for surprises, a special event will take place.
-Choose the fate you want as the master of your dungeon.
-
--SUPPORT-
-E-Mail : support@gamecoaster.com
-Tel :+82 10-4178-0283
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/26/3b/32/263b3234-1a05-2cf2-51d2-0f66a2db3bef/f6fc0a01-2e5d-45f4-a1f8-a413c5d5173c_1_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/1c/e6/06/1ce60605-a855-0faf-db5a-0af3280d6990/6936b2c4-41c1-44f6-9e3d-09d5a59e4f50_2_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/e6/37/d5/e637d5b7-6c45-21d7-1c13-057dc7dc7437/a50f22cf-2d98-4ed1-ac12-97a3f72bc169_3_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/87/01/5e/87015efa-4eb4-9b75-56fe-d28be543c8e0/be4e3b32-85fb-49a6-afe9-69058cafdbab_4_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a3/58/0e/a3580e8a-4a0e-0db5-1711-26099806c564/ab204867-bf0c-4a94-8a59-3c49c000f2e0_5_eng.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a2/11/9b/a2119bd2-901e-309a-c6df-375892757390/ed376d75-4548-4c1b-b785-1858c34abdd2_1_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2d/52/b3/2d52b362-305d-0ac5-1a87-510e6a1e3aa4/5c6ba8a6-4032-4fc5-bb9e-f8cfe2612a79_2_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/59/72/d2/5972d228-3cbc-926f-edff-5b2beedaf4f7/eed6898b-c2fe-47fb-ad53-ff5417e2cfad_4_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/cd/ec/ae/cdecaeac-c102-5b51-a257-3d90f82ccbc8/b137d09f-55a1-493f-ab88-a53dd89eafbf_3_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/95/57/80/9557806e-01fe-01e9-af0f-c477735e2aa8/4fcb6d44-5c10-4254-a390-ec991aeb77f1_5_eng.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
