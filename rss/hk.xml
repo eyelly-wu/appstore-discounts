@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-23T04:50:09.919Z</updated>
+    <updated>2025-06-23T06:42:04.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-23T04:50:09.919Z</updated>
+        <updated>2025-06-23T06:42:04.582Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkMon, 23 Jun 2025 04:50:09 GMT</id>
+        <id>rankinghkMon, 23 Jun 2025 06:42:04 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-23T04:50:09.919Z</updated>
+        <updated>2025-06-23T06:42:04.582Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -95,6 +95,33 @@ feedId:157008141708743680+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id567533074">Sonic Jump™</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>4</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Tails</i>：<b>4</b>
+              </li><li>
+                <i>Rouge</i>：<b>4</b>
+              </li><li>
+                <i>Knuckles</i>：<b>4</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id1238247658">Cluedo: Classic Edition</a>
       </td>
       <td>
@@ -115,7 +142,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6446178861">PlayNav - 影片內無廣告！</a>
@@ -130,33 +157,6 @@ feedId:157008141708743680+userId:73658201673997312
             <span>App 內購買項目</span><ol>
               <li>
                 <i>高級功能</i>：<b>4</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/hk/app/id567533074">Sonic Jump™</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買項目</span><ol>
-              <li>
-                <i>Tails</i>：<b>3</b>
-              </li><li>
-                <i>Rouge</i>：<b>3</b>
-              </li><li>
-                <i>Knuckles</i>：<b>3</b>
               </li>
             </ol>
           </li>
@@ -1597,6 +1597,91 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonic Jump™]]></title>
+        <id>Sonic Jump™-hk-1750659610912</id>
+        <link href="https://apps.apple.com/hk/app/sonic-jump/id567533074?uo=4"/>
+        <updated>2025-06-23T06:20:10.912Z</updated>
+        <summary type="html"><![CDATA[Tails: HK$ 18.00 → HK$ 8.00<br/>Rouge: HK$ 18.00 → HK$ 8.00<br/>Knuckles: HK$ 18.00 → HK$ 8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/sonic-jump/id567533074?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/0c/8f/da0c8f70-72ae-be57-d3ad-a7e86a6fa726/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Tails：</strong><span>HK$ 18.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 18.00]</span>
+  </li><li>
+    <strong>Rouge：</strong><span>HK$ 18.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 18.00]</span>
+  </li><li>
+    <strong>Knuckles：</strong><span>HK$ 18.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 18.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 22.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    15,000 Ring Bundle：<b>HK$ 38.00</b>
+  </li><li>
+    Silver：<b>HK$ 18.00</b>
+  </li><li>
+    Vector：<b>HK$ 18.00</b>
+  </li><li>
+    Tails：<b>HK$ 8.00</b>
+  </li><li>
+    Rouge：<b>HK$ 8.00</b>
+  </li><li>
+    Shadow：<b>HK$ 8.00</b>
+  </li><li>
+    Knuckles：<b>HK$ 8.00</b>
+  </li><li>
+    Cream：<b>HK$ 8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Jump, spin and smash your way into the sky as you battle Dr. Eggman with Sonic and his friends! 
+
+Sonic Jump delivers brand new, arcade style adventures. Tilt and tap your way through Story levels and Arcade infinite modes. Visit new and classic Sonic levels for hours of fun. Challenge your friends across the world to see who can jump the farthest.
+
+PLAY WITH SONIC AND FRIENDS
+Play as Sonic or his friends Tails, Knuckles, Amy, Rouge, Silver and Blaze.   Master each characters special abilities and attacks!
+
+AMAZING WORLDS
+Jump across the legendary Green Hill Zone or take to new worlds including Mountain, Jungle, Blue Sky & Mechanical Zones.
+
+STORY AND ARCADE MODES
+Leap through 48 different levels on a quest to stop the evil Dr. Eggman or Jump until you drop in the infinite Arcade Mode.
+
+FUN CHALLENGES AND QUESTS
+You gotta go fast to beat each level and win big. Every level and both game modes have special rewards for completing special missions.
+
+UNLOCK POWERFUL ABILITIES 
+Collect rings as you play the game, or purchase them in store, to unlock characters, power ups and more.
+
+CHALLENGE THE WORLD
+Compete against players across the world to see who can jump highest in Arcade Mode or set epic scores on global leaderboards.
+
+CONSUMER REVIEWS
+- 4/4 “Whether you grew up with Sonic or not, Sonic Jump is a total blast.” - Slide to Play
+
+- 4/5 “The story mode and missions are the real draw… giving you a never-ending supply of reasons to keep jumping for the top.” - Digital Spy
+
+- 8/10 “Sonic Jump is an enjoyable little gem that took me by surprise.” - App Gamer
+
+- 4/5 “Sega has made Sonic Jump a proper standalone game well worth it for both fans, and non-fans of Sonic the Hedgehog.” - TouchGen
+
+- - - - -
+Privacy Policy: https://privacy.sega.com/en/sega-of-america-inc-privacy-policy
+Terms of Use: http://www.sega.com/terms
+
+Game apps are ad-supported and no in-app purchases are required to progress; ad-free play option available with in-app purchase.
+
+This game may include "Interest Based Ads" (please see http://www.sega.com/mprivacy#3IBADiscolure for more information)​ and may collect "Precise Location Data" ​(please see http://www.sega.com/mprivacy#5LocationDataDisclosure ​for more information)​.
+
+© SEGA. All rights reserved. SEGA, the SEGA logo, Sonic Jump™ are registered trademarks or trademarks of SEGA CORPORATION or its affiliates.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/3d/8c/f33d8cb6-3491-08ac-bb6f-2ed04e354e7d/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/52/c4/1c/52c41ce4-2a55-e13c-3d97-644421296194/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/63/d9/d563d963-5d9a-59e3-6a4e-bd950a819c63/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/77/3f/f0773f1b-a14e-03d0-5b47-8ccb6fe4de03/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/f3/2b/a2f32bed-1a6c-3b0b-7b94-1f13dec1b580/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/3c/16/4b3c165c-615c-d7fa-4173-8bc0d0ab2c0c/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/7c/06/e57c06ea-2ea3-fccb-1741-a0832a7c0cfe/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/2f/29/9e2f2915-ed2d-c306-34ef-1496f43f7d9a/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/d8/dd/c4d8dd2c-da3e-b593-66fa-559ab26aa5ec/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/78/3b/13/783b136a-f164-6316-5fa8-89c694c080d3/pr_source.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PlayNav - 影片內無廣告！]]></title>
