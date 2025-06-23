@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-23T06:42:04.580Z</updated>
+    <updated>2025-06-23T16:38:08.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-23T06:42:04.582Z</updated>
+        <updated>2025-06-23T16:38:08.245Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkMon, 23 Jun 2025 06:42:04 GMT</id>
+        <id>rankinghkMon, 23 Jun 2025 16:38:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-23T06:42:04.582Z</updated>
+        <updated>2025-06-23T16:38:08.245Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,13 +51,13 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1169</b>
+        <b>1170</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>968</b>
+        <b>969</b>
       </td>
       <td>
         <b>18</b>
@@ -68,13 +68,13 @@ feedId:157008141708743680+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>1077</b>
+        <b>1078</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>898</b>
+        <b>899</b>
       </td>
       <td>
         <b>15</b>
@@ -1176,7 +1176,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>56</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1612952507">AeroPads - Pads & Soundscapes</a>
+        <a href="https://apps.apple.com/hk/app/id1601446687">Streets of Rage 4</a>
       </td>
       <td>
         <ul>
@@ -1191,6 +1191,23 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>
         <b>57</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id1612952507">AeroPads - Pads & Soundscapes</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1640627334">Resident Evil Village for Mac</a>
@@ -1217,7 +1234,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1642715290">Little Big Workshop</a>
@@ -1234,7 +1251,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6450980545">Resident Evil Village</a>
@@ -1263,7 +1280,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6462360082">Resident Evil 4</a>
@@ -1298,7 +1315,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6469114836">スイカゲーム-Aladdin X</a>
@@ -1321,7 +1338,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -1338,7 +1355,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -1355,7 +1372,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6742457882">Deco: Wallpaper Creator</a>
@@ -1372,7 +1389,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -1389,7 +1406,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6456751953">ChatTan - AI Bot</a>
@@ -1412,7 +1429,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6449251957">Motorsport Manager 4</a>
@@ -1435,7 +1452,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6447090616">Whisper Notes - 離線AI語音輸入轉錄文字辨識</a>
@@ -1597,6 +1614,73 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streets of Rage 4]]></title>
+        <id>Streets of Rage 4-hk-1750695365912</id>
+        <link href="https://apps.apple.com/hk/app/streets-of-rage-4/id1601446687?uo=4"/>
+        <updated>2025-06-23T16:16:05.912Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 58.00 → HK$ 18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/streets-of-rage-4/id1601446687?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d0/23/81/d02381cf-8b28-d295-b65b-44b77c1c3ba4/AppIcons-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 58.00</span> → <b>
+  <strong>HK$ 18.00</strong>
+</b><span>[HK$ 18.00 ~ HK$ 58.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 18.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    Mr. X Nightmare DLC：<b>HK$ 22.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Punch your way through the Streets of Rage once again!
+
+Streets of Rage 4 takes forward the Streets of Rage legacy in this retro beat'em up with hand-drawn comic inspired graphics and updated mechanics.
+
+Streets of Rage comes back for a sequel 25 years after the last episode : a new crime syndicate seems to have taken control of the streets and corrupted the police. All you have to fight against them is your friends... and your fists ! Critically acclaimed, Streets of Rage 4 won several awards and nominated as Best Action Games at the 2020 Game Awards.
+
+FEATURES
+- Rediscover the classic Beat em up Streets of Rage Franchise with new fight mechanics
+- Get thrilled by the Retro hand-drawn comics-inspired artistic direction by the studio behind Wonder Boy: The Dragon’s Trap serving juicy animations & vivid FX
+- Unlock up to 5 new & emblematic playable characters and fight your way through 12 various stages to bring back order to the streets
+- Challenge yourself in different modes : Story, Training, Arcade...
+- Listen to a new Electro OST with world class musicians such as Olivier Derivière and legend Yuzo Koshiro
+- Brand-new custom survival mode to the DLC (Mr. X Nightmare)
+- New destroyables to help to maintain the combo counter"- Get retro with up to 13 alternative retro characters, secret retro levels or choose the SoR1&2 OST and enable the Retro Pixel graphics !
+
+* NEW MAJOR FREE UPDATE*
+
+- New co-op moves
+- +300 in-game improvements
+- Brand-new custom survival mode to the DLC (Mr. X Nightmare)
+- New destroyables to help to maintain the combo counter
+
+-MULTIPLAYER UPDATE-
+
+- Play online with a partner and gang up to defeat the Y twins' evil plan together!
+- Test your strength : hop in Battle Mode and fight your friends across your favorite levels"
+
+-Mr. X Nightmare DLC-
+The fight continues in Wood Oak City.
+After the events of Streets of Rage 4, our heroes wanted to prepare themselves for future threats. Axel, Blaze and their mates will start a very special deranged training with the help of Dr. Zan, who built an AI program from the remnants of Mister X’s brain that simulates every kind of danger they could be facing. 
+With this DLC, get ready for:
+• 3 new playable characters
+• A new Survival mode with weekly challenges
+• Character customization: build your own fighting style with new moves
+• New weapons and enemies!o note that multiplayer mode will not be available at launch but will come in a free update after release.
+
+CAREFULLY REDESIGNED FOR MOBILE
+- Revamped interface
+- Game Center achievements
+- iCloud - Share your progress between iOS devices
+- Compatible with MFicontrollers
+- No micro-transactions!
+
+Crack your knuckles and get ready for Streets of Rage 4 everywhere you go!
+
+If you run into a problem, please contact us at support@playdigious.mail.helpshift.com with as much information as possible on the issue, or check our FAQ at https://playdigious.helpshift.com/hc/en/6-streets-of-rage-4/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/23/25/5f/23255fd6-db06-5622-fd77-f42eaf6471a6/c9213e1b-5d59-4665-8e9f-edac1babaecb_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/81/68/8d/81688df4-73d2-a395-1fec-77cb63805047/d851860d-ab73-49e1-a1fb-3301324ceb7a_Screenshots_05_2208x1242_U00281_U0029.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/4b/91/e44b91bc-9f94-0cb1-cf8a-ac67d80c13df/9c91b0a0-7ead-41f9-b880-f400a69961a7_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/77/60/407760d5-fb56-034a-41b1-08fb211d2058/c1cbce38-91c1-4d76-bee3-17f7291a20e2_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/de/fa/26defabb-986e-612c-e436-fdf59a5c7dd2/2a765c1f-4c3f-408d-aeef-6a62d4ca753a_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/b2/21/60b2213a-3f98-ec2a-908b-03e7a5af897a/f2aa1c67-a1ae-42e2-986d-98da2c76a4b5_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/94/f6/6894f697-aea3-e5c4-e070-0ed57595bacf/6e02f2a8-5d1e-400a-85de-8140643c95d5_6.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9b/96/32/9b9632a3-f950-d456-a01d-146a43370b6b/9f32ef16-d75d-4ec4-bd05-d81eb6b645e9_7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/11/8a/7c/118a7c06-075e-4ba0-ec78-ec4c8a40f378/fe613f3f-1404-4e3f-8321-ed81e57a889f_SOR4_dlc_2208x1242.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/5c/ca/f35ccad3-2f43-159e-1d98-59ea97ed3e47/73c33cba-fcd0-4514-a38b-be6d900213a2_2_U00281_U0029.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/14/89/36148954-f175-aba8-d70e-8d0f782252c6/05a539c0-869e-4c86-a226-d3e66316efdc_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2c/c8/4b/2cc84b1d-9aba-66ec-2e6d-d10e096b30cf/40a04bbe-e747-4805-ac2c-fb710560b31e_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/5e/82/585e8224-a6f7-3ebf-0c0c-7c484aceb80d/75bd1d2d-ddc2-4fc0-ba9a-ca82a1228969_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/b5/26/e3b526d4-a982-9b03-2efd-7c2324907163/f9ed3cf3-a814-46f3-bf2a-2b788bc6fc79_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/d5/b0/35d5b07d-e4a2-13e0-9df4-4f15bebd1d73/3f0258ea-707a-49bb-a66e-1bd09cb09866_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/98/c0/fb98c00e-1ab5-4ef2-9809-f2bdd0a25f52/1a9b99c4-d9e9-4fd1-8993-15b93c9bd7e0_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/59/2f/d6592f74-587b-1deb-23f6-b44d3d55c17b/f11c3020-ed8b-4469-87a7-873a5fdfed71_7.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fc/74/76/fc7476d6-e8ca-c91b-78d0-b590a3f95dd2/ba2a1b7c-2fa6-44e7-a0c2-279291a51d67_SOR4_dlc_2732x2048.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sonic Jump™]]></title>
@@ -2351,315 +2435,5 @@ And there are reminders that you can never forget.
 https://www.badoo.com/privacy 
 https://badoo.com/terms
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/4a/bc/d44abc26-c385-72c7-a74c-9a3f755e186a/0_APP_IPHONE_55_0.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ff/37/abff3752-57b3-3984-22bc-30114fa7bb1b/1_APP_IPHONE_55_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/79/9c/dc799c19-cfd1-647c-3029-fed5a25a1834/2_APP_IPHONE_55_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/b4/c7/1db4c791-dd92-d5f8-28e5-dbec2dcad0cf/3_APP_IPHONE_55_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/47/4a/d3474a69-0f28-2b4f-46db-7f2bb7c40228/4_APP_IPHONE_55_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/9a/f1/7f9af1c0-1cb4-9a81-ab67-5ab34d0ab317/5_APP_IPHONE_55_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/8e/4a/028e4ad6-0d0e-a4d4-0619-4a519d19a4ef/0_APP_IPAD_PRO_129_0.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/9f/0a/7c9f0a97-925d-2c36-1388-504c18f0917f/1_APP_IPAD_PRO_129_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/f5/0a/33f50a10-3bef-54af-a851-2706b81402da/2_APP_IPAD_PRO_129_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/38/1b/12381b52-8e13-17b3-105a-a93b1844082b/3_APP_IPAD_PRO_129_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/00/d2/4b00d2af-ec7c-9dd8-59b0-c3072b4a22c9/4_APP_IPAD_PRO_129_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/2c/a7/892ca7bf-46f0-17b0-7f4f-9b2df6fb9745/5_APP_IPAD_PRO_129_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forest 專注森林 - 讀書專注番茄鐘]]></title>
-        <id>Forest 專注森林 - 讀書專注番茄鐘-hk-1750436126048</id>
-        <link href="https://apps.apple.com/hk/app/forest-%E5%B0%88%E6%B3%A8%E6%A3%AE%E6%9E%97-%E8%AE%80%E6%9B%B8%E5%B0%88%E6%B3%A8%E7%95%AA%E8%8C%84%E9%90%98/id866450515?uo=4"/>
-        <updated>2025-06-20T16:15:26.048Z</updated>
-        <summary type="html"><![CDATA[年訂閱: HK$ 330.00 → HK$ 200.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/forest-%E5%B0%88%E6%B3%A8%E6%A3%AE%E6%9E%97-%E8%AE%80%E6%9B%B8%E5%B0%88%E6%B3%A8%E7%95%AA%E8%8C%84%E9%90%98/id866450515?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/f3/1c/acf31c66-42e3-f2b3-8ac2-ea7554214183/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>年訂閱：</strong><span>HK$ 330.00</span> → <b>
-  <strong>HK$ 200.00</strong>
-</b><span>[HK$ 200.00 ~ HK$ 330.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    一盒陽光菁華：<b>HK$ 18.00</b>
-  </li><li>
-    一瓶陽光菁華：<b>HK$ 8.00</b>
-  </li><li>
-    年訂閱（早鳥）：<b>HK$ 200.00</b>
-  </li><li>
-    一小盆寶石：<b>HK$ 38.00</b>
-  </li><li>
-    一鏟子寶石：<b>HK$ 8.00</b>
-  </li><li>
-    年訂閱：<b>HK$ 200.00</b>
-  </li><li>
-    一大袋寶石：<b>HK$ 88.00</b>
-  </li><li>
-    月訂閱（早鳥）：<b>HK$ 35.00</b>
-  </li><li>
-    一推車寶石：<b>HK$ 188.00</b>
-  </li><li>
-    超值進階寶石包：<b>HK$ 58.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  ## 136 國家中排名第一名的生產力工具 app；超過兩百萬付費用戶的專注神器
-## 我們的用戶在世界各地種下超過 1,500,000 棵真樹
-## 簡單有趣的方式幫助您保持專注，培養高效率的生活習慣
-    
-紐約時報：「如果你想要放下手機、專注當下，真誠地和你的家人朋友們渡過相聚的時光，Forest 是你的最佳選擇。」
-    
-數位時代：「好的習慣必須要一段時間養成，要改善低頭族、不時會滑手機的症狀也不是一天兩天，記得多多使用這款App來幫助你改掉壞習慣，重新找回專注的自己。」
-    
-不論你是在圖書館讀書或是在辦公室上班，每當你希望有一段專心工作或學習的時間，你可以在 Forest 中種下一顆種子。在接下來的時間內，這顆種子將會慢慢地成長為一棵大樹。若是你禁不起誘惑，在這段時間內離開這個 app，你充滿生機、可愛的小樹將會枯萎而死。每一天，你都會有一片森林種滿了你今天所有茁壯的大樹，每一棵樹都代表了你曾經努力的時光。伴隨著畫面中生長的小樹，成就感以及責任感將會幫助你暫時離開手機，全心投入到手邊的工作，建立高效率與專注的生活習慣。 #治療拖延症 #提升時間效率 #遇見心流 #戒除手機成癮
-    
-保持專注，拒當低頭族！
-    
-保持專注：
-• 基於番茄工作法（番茄鐘）把時間抓回自己手中
-• 種植漂亮的小樹，並專注於生活中更重要的事情上
-• 因應不同專注情境，自訂你的應用程式允許名單，種樹時名單外的 App 將會被屏蔽（iOS 16 以上）
-• 用你專注的時光，一點一滴茁壯你的森林
-    
-滿滿的成就感：
-• 和朋友們分享你的成果並與全世界的使用者一同競賽
-• 用專注的時光累積 Forest 金幣，解鎖超過 90 種精心設計的大樹、灌木及背景白噪音
-• 與家人、好友一起，開始一局種樹挑戰
-• 達成成就獲得額外獎勵
-• 在保持專心的同時，與 Trees for the Future 一起為世界種下真正的樹苗
-    
-歷史回顧：
-• 自定義任務標籤，讓你花在各個任務的時間分配一目瞭然，幫助助你自主時間管理
-• 回顧你一週、一個月甚至一整年累積的大森林
-• 可追蹤你每日的手機使用時數與頻率
-• 以時間軸的形式回顧你在 Forest 經歷的專注旅程
-• 將你的專心時間記錄在蘋果健康 App
-    
-現在就放下手機，種出專屬自己的專注森林！
-    
-注意事項：
-• Forest 是一個 iPhone, iPad, Apple Watch 通用的應用程式，買一次即可在不同 iOS 設備上使用。於 iPhone, iPad 能使用上述提及的完整功能，於 Apple Watch 可提供查看今日專注紀錄以及顯示即時專注狀態。若要下載/解鎖其他非 iOS 平台的版本需要另外購買，不過只要登入同一個 Forest 帳號，你的帳號資料便可以在不同平台的設備間同步。
-• 由於 iOS 系統限制，允許名單功能需要 iOS/iPadOS 16 以上才能使用。iOS/iPadOS 15 以下的裝置無法使用允許名單，在種樹時離開 Forest 會導致小樹枯萎。
- • 種植真樹功能因為預算限制，每個帳號最多只能兌換五棵真樹。除此之外，我們時常會有一些限時活動可以種植更多的真樹，請記得關注我們的社交平台訊息，或是 app 內部通知。
- • Forest 在 App Store 上僅有此唯一版本，其他雷同或是刻意假冒 Forest 的軟體皆不是本團隊開發的產品，感謝您對於原創者的支持！
-    
-你可以在這些社群平台找到我們：：
-在 Facebook 給我們個讚: https://www.facebook.com/forestapp.cc/
-在 Twitter 跟隨我們: https://twitter.com/forestapp_cc
-在 Instagram 追蹤我們: https://www.instagram.com/forest_app/
-    
-我們還有提供瀏覽器的擴充套件，立即前往 www.forestapp.cc 查看吧！
-    
-- 音效設計 : Shi Kuang Lee
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8b/db/c7/8bdbc7ed-c41b-bbbd-c8d2-4bcef2a92969/f2b6bbcf-7885-419f-9666-3d88480e592d_iPhone5.5_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/b9/25/71b92545-9fee-54ff-afdb-e67f07761c0b/9eca0da0-7790-42f7-a4e1-fb33d06033bf_iPhone5.5_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/ee/a7/3eeea703-1e5d-fb4c-093a-008c52c9707a/75719620-5726-48d1-94ed-6e641f74a204_iPhone5.5_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/fb/cf/4bfbcfb3-3bf4-292f-c87a-85a0307dd328/0e369b47-1d89-4a0f-af69-45dfffe064cf_iPhone5.5_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/ea/ef/43eaef51-beca-643e-05ce-186b51fc600b/e089caff-340e-46a0-88a3-f832ebd7e97b_iPhone5.5_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/1a/15/0e1a15b1-1c04-a884-f60d-1ef29d2e168b/9a001b53-53db-4bb6-b127-93e52595231e_iPhone5.5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/a6/f9/26a6f924-875c-fad6-2b5b-b43184d833c4/54328093-1c36-47c1-b0fc-a365d488bb36_iPhone5.5_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/ed/81/e2ed81c6-08b5-a927-fde6-fad73839a9fc/68646ed4-9168-4f06-92d7-8d954f92b51d_iPhone5.5_8.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/2a/a7/972aa718-5cb2-96dd-2df5-9a9ec55e5158/2e6406f0-690a-46c7-8ecf-2faa3e2b61be_iPad_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/49/9e/ac499e0f-199d-500f-98b5-caec75b92836/5c0d3935-5617-4d7a-895b-5ffad32aa2da_iPad_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/ac/cb/ceaccb8e-f186-7a4c-7561-00b511ceae8c/f8abf6cb-2f12-4018-9439-65286f821bf8_iPad_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/46/b0/f046b04e-0926-8536-a590-477ebb96621d/1e8e02ce-ac1d-49cf-8134-c856d98d455f_iPad_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/e1/63/fde1632c-2bc5-a16a-8f64-e0a8f6cf6774/1ecac2fc-2a35-4a36-900f-58195c8fc41f_iPad_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/4d/17/f64d17e1-2f68-d5c7-d1bc-da82d14efecb/d0848a44-4d03-48d7-9a00-0cbad526438e_iPad_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fd/05/8d/fd058dcb-22ca-0b13-c2e6-480ef9823885/48a793db-8b0c-41f5-a50e-e41c08f46c92_iPad_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/75/db/4d75db3d-8d57-60a7-1e14-872f03e1447c/9463ad4f-973f-4bfa-89b9-34eb48ec9c9b_iPad_8.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全民RPG：重啟]]></title>
-        <id>全民RPG：重啟-hk-1750428721028</id>
-        <link href="https://apps.apple.com/hk/app/%E5%85%A8%E6%B0%91rpg-%E9%87%8D%E5%95%9F/id1523146826?uo=4"/>
-        <updated>2025-06-20T14:12:01.028Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 8.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E5%85%A8%E6%B0%91rpg-%E9%87%8D%E5%95%9F/id1523146826?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/33/88/213388c3-eee0-0242-a969-9595a98b16dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 8.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ HK$ 8.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    Starter Package B：<b>HK$ 388.00</b>
-  </li><li>
-    Daily Jewel Package：<b>HK$ 148.00</b>
-  </li><li>
-    Lite Daily Jewel Package：<b>HK$ 68.00</b>
-  </li><li>
-    Starter Package A：<b>HK$ 118.00</b>
-  </li><li>
-    Remove AD：<b>HK$ 68.00</b>
-  </li><li>
-    Jewel Package D：<b>HK$ 368.00</b>
-  </li><li>
-    Jewel Package A：<b>HK$ 38.00</b>
-  </li><li>
-    Jewel Package F：<b>HK$ 688.00</b>
-  </li><li>
-    Jewel Package C：<b>HK$ 188.00</b>
-  </li><li>
-    Jewel Package B：<b>HK$ 68.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  召集傳說英雄，挑戰無盡關卡！
-自動戰鬥、採礦、強化通通都有！
-真正的放置型奇幻 RPG，即使離線也能持續成長！
-
-* 組建擁有獨特技能的英雄戰隊，發揮戰略優勢！
-
-* 利用礦坑系統收集資源！打造裝備所需的一切盡在其中！
-
-* 挑戰強大的首領，獲得傳說級獎勵！
-
-* 自動成長系統，讓忙碌的你也能輕鬆遊玩！
-
-* 多樣化內容：地城、遺物、進化、傳說裝備等你來體驗！
-
-立即下載，開始書寫屬於你的傳奇！
-馬上開始遊戲，收集你的英雄吧！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手錶經典迷宮遊戲]]></title>
-        <id>手錶經典迷宮遊戲-hk-1750428721028</id>
-        <link href="https://apps.apple.com/hk/app/%E6%89%8B%E9%8C%B6%E7%B6%93%E5%85%B8%E8%BF%B7%E5%AE%AE%E9%81%8A%E6%88%B2/id6740471827?uo=4"/>
-        <updated>2025-06-20T14:12:01.028Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 8.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E6%89%8B%E9%8C%B6%E7%B6%93%E5%85%B8%E8%BF%B7%E5%AE%AE%E9%81%8A%E6%88%B2/id6740471827?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/3b/ce9e3bbb-4f79-a61f-7e66-68d02617d17f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 8.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ HK$ 8.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>經典迷宮遊戲是一款經典的益智遊戲，非常適合在短暫休息時訓練您的大腦。它設計為一款非常簡單的單人遊戲，透過滑過有趣的復古迷宮來玩。快速玩一局，挑戰 500 個迷宮，成為迷宮之王。</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vostok — 创建美丽快拍页面]]></title>
-        <id>Vostok — 创建美丽快拍页面-hk-1750428721028</id>
-        <link href="https://apps.apple.com/hk/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4"/>
-        <updated>2025-06-20T14:12:01.028Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 2.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/6f/8b/d76f8bb0-b9e7-df57-b8d7-d068fd9971fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 2.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ HK$ 8.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>
-  為您的企業、品牌或博客創作精彩的故事。 Vostok 將幫助您釋放照片的潛力，更有效地使用 Instagram 並與觀眾交流。
-
-只是一些設計可能性：
-
-· 200+社交設計模板
-· 西里爾文專屬字體
-· 450+ 獨家貼紙
-· 照片的灰塵和顆粒效果
-· 背景：紙張紋理、大理石、漸變、顏色
-· 無訂閱或廣告
-· 黑暗模式
-
-被 Apple 評為 2019 年最佳應用之一
-
-使用 200 多個模板創建精美的社交內容供您選擇。
-
-我們喜歡聽到您的想法和反饋。
-給我們發電子郵件 hello@vostokapp.ru 或在 Instagram 上通過@vostokapp DM我們
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機械迷城 (Machinarium)]]></title>
-        <id>機械迷城 (Machinarium)-hk-1750407438491</id>
-        <link href="https://apps.apple.com/hk/app/%E6%A9%9F%E6%A2%B0%E8%BF%B7%E5%9F%8E-machinarium/id459189186?uo=4"/>
-        <updated>2025-06-20T08:17:18.491Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E6%A9%9F%E6%A2%B0%E8%BF%B7%E5%9F%8E-machinarium/id459189186?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/24/08/3624088e-d974-7fa9-4c12-a1da2cb6ab21/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 38.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b><span>[HK$ 18.00 ~ HK$ 38.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 18.00</b>
-</p><h2>应用描述</h2><p>
-  《機械迷城》(Machinarium)是由《銀河歷險記》(Samorost)和《植物精靈》(Botanicula)的製作者開發的屢獲殊榮的獨立冒險遊戲。
-
-《機械迷城》(Machinarium)是一個完整長度的冒險遊戲。玩家將扮演一個流亡到垃圾堆的小機器人，從廢料場返回城市，並打敗壞人黑帽兄弟，拯救他的機器人女友。玩家需要使用邏輯、收集重要資訊及物品，來解決各式難題，才可以拯救機器人女友。快一起和可愛的小機器人，解開重重的謎團吧！
-
-絕對好玩 - TouchArcade
-4/4 - USA TODAY
-4/4 - SlideToPlay
-9/10 - Pocket Gamer
-
-獎項：
-- IGF，卓越視覺藝術獎
-- Gamasutra，年度最佳獨立遊戲獎
-- VGChartz.com，年度最佳獨立遊戲獎
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/ad/60/60ad608a-7649-22e1-e626-e76865e918e2/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/a5/6f/1ba56f69-452d-acdb-4741-24e5d0b6d2f6/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/c3/0c/59c30cfb-5a96-fdd9-e365-dd50b2cb5555/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/a7/6e/25a76edc-98cb-8b5e-cc7f-111060924f3a/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/08/84/2c/08842c2e-7454-631c-3529-a41d1331a74b/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/8c/8a/e38c8a63-4ec5-5ce7-7162-81a37a17c689/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/6b/2d/7b6b2df5-5890-acff-d4e5-b8803fc7d000/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/95/a4/de/95a4de76-dcb4-c146-17dd-c57c701092f3/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/33/c9/07/33c907bf-23ee-2216-b3cc-5c2d34b11b6d/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/e6/13/b9e613b6-fb7b-9038-4d6b-537d6afbf686/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/b7/9a/d7b79a2b-336c-f087-3503-0d5796e017e1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/26/98/7926980d-8f34-2865-5bb6-17dd3ceb40b1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/82/fd/60/82fd600c-a6b3-6720-3627-4bf678a097d1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/95/bd/c395bd69-2a92-16d2-54d7-9ca4a5b0b4dc/pr_source.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonic Jump™]]></title>
-        <id>Sonic Jump™-hk-1750403551717</id>
-        <link href="https://apps.apple.com/hk/app/sonic-jump/id567533074?uo=4"/>
-        <updated>2025-06-20T07:12:31.717Z</updated>
-        <summary type="html"><![CDATA[Tails: HK$ 18.00 → HK$ 8.00<br/>Rouge: HK$ 18.00 → HK$ 8.00<br/>Knuckles: HK$ 18.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/sonic-jump/id567533074?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/0c/8f/da0c8f70-72ae-be57-d3ad-a7e86a6fa726/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>Tails：</strong><span>HK$ 18.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 18.00]</span>
-  </li><li>
-    <strong>Rouge：</strong><span>HK$ 18.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 18.00]</span>
-  </li><li>
-    <strong>Knuckles：</strong><span>HK$ 18.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 18.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 22.00</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    15,000 Ring Bundle：<b>HK$ 38.00</b>
-  </li><li>
-    Silver：<b>HK$ 18.00</b>
-  </li><li>
-    Vector：<b>HK$ 18.00</b>
-  </li><li>
-    Tails：<b>HK$ 8.00</b>
-  </li><li>
-    Rouge：<b>HK$ 8.00</b>
-  </li><li>
-    Shadow：<b>HK$ 8.00</b>
-  </li><li>
-    Knuckles：<b>HK$ 8.00</b>
-  </li><li>
-    Cream：<b>HK$ 8.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Jump, spin and smash your way into the sky as you battle Dr. Eggman with Sonic and his friends! 
-
-Sonic Jump delivers brand new, arcade style adventures. Tilt and tap your way through Story levels and Arcade infinite modes. Visit new and classic Sonic levels for hours of fun. Challenge your friends across the world to see who can jump the farthest.
-
-PLAY WITH SONIC AND FRIENDS
-Play as Sonic or his friends Tails, Knuckles, Amy, Rouge, Silver and Blaze.   Master each characters special abilities and attacks!
-
-AMAZING WORLDS
-Jump across the legendary Green Hill Zone or take to new worlds including Mountain, Jungle, Blue Sky & Mechanical Zones.
-
-STORY AND ARCADE MODES
-Leap through 48 different levels on a quest to stop the evil Dr. Eggman or Jump until you drop in the infinite Arcade Mode.
-
-FUN CHALLENGES AND QUESTS
-You gotta go fast to beat each level and win big. Every level and both game modes have special rewards for completing special missions.
-
-UNLOCK POWERFUL ABILITIES 
-Collect rings as you play the game, or purchase them in store, to unlock characters, power ups and more.
-
-CHALLENGE THE WORLD
-Compete against players across the world to see who can jump highest in Arcade Mode or set epic scores on global leaderboards.
-
-CONSUMER REVIEWS
-- 4/4 “Whether you grew up with Sonic or not, Sonic Jump is a total blast.” - Slide to Play
-
-- 4/5 “The story mode and missions are the real draw… giving you a never-ending supply of reasons to keep jumping for the top.” - Digital Spy
-
-- 8/10 “Sonic Jump is an enjoyable little gem that took me by surprise.” - App Gamer
-
-- 4/5 “Sega has made Sonic Jump a proper standalone game well worth it for both fans, and non-fans of Sonic the Hedgehog.” - TouchGen
-
-- - - - -
-Privacy Policy: https://privacy.sega.com/en/sega-of-america-inc-privacy-policy
-Terms of Use: http://www.sega.com/terms
-
-Game apps are ad-supported and no in-app purchases are required to progress; ad-free play option available with in-app purchase.
-
-This game may include "Interest Based Ads" (please see http://www.sega.com/mprivacy#3IBADiscolure for more information)​ and may collect "Precise Location Data" ​(please see http://www.sega.com/mprivacy#5LocationDataDisclosure ​for more information)​.
-
-© SEGA. All rights reserved. SEGA, the SEGA logo, Sonic Jump™ are registered trademarks or trademarks of SEGA CORPORATION or its affiliates.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/3d/8c/f33d8cb6-3491-08ac-bb6f-2ed04e354e7d/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/52/c4/1c/52c41ce4-2a55-e13c-3d97-644421296194/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/63/d9/d563d963-5d9a-59e3-6a4e-bd950a819c63/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/77/3f/f0773f1b-a14e-03d0-5b47-8ccb6fe4de03/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/f3/2b/a2f32bed-1a6c-3b0b-7b94-1f13dec1b580/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/3c/16/4b3c165c-615c-d7fa-4173-8bc0d0ab2c0c/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/7c/06/e57c06ea-2ea3-fccb-1741-a0832a7c0cfe/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/2f/29/9e2f2915-ed2d-c306-34ef-1496f43f7d9a/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/d8/dd/c4d8dd2c-da3e-b593-66fa-559ab26aa5ec/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/78/3b/13/783b136a-f164-6316-5fa8-89c694c080d3/pr_source.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>

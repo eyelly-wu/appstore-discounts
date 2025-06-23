@@ -15728,6 +15728,23 @@
     "history": [
       [
         {
+          "timestamp": 1750695365912,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        },
+        {
           "timestamp": 1750673673668,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -61164,8 +61181,8 @@
   "1531654315": {
     "name": "MayLikeWallpaper - best hiapk",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "$0.29",
+      "price": 0.99,
+      "formattedPrice": "$0.99",
       "buy wallpaper once": "$0.99",
       "become Vip": "$1.99"
     },
@@ -61176,6 +61193,17 @@
       "become Vip": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750695365912,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "buy wallpaper once": "$0.99",
+            "become Vip": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -68314,6 +68342,16 @@
       "Mr. X Nightmare DLC": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750695365912,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747797598592,
@@ -87126,7 +87164,8 @@
       "Season MLB 2001": "$0.99",
       "Season MLB 1977": "$0.99",
       "Season MLB 1987": "$0.99",
-      "Season MLB 1997": "$0.99"
+      "Season MLB 1997": "$0.99",
+      "Season MLB 2010": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -87183,10 +87222,28 @@
       "Season MLB 2001": "$0.99",
       "Season MLB 1977": "$0.99",
       "Season MLB 1987": "$0.99",
-      "Season MLB 1997": "$0.99"
+      "Season MLB 1997": "$0.99",
+      "Season MLB 2010": "$0.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750695365912,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 1998": "$0.99",
+            "Season MLB 2010": "$0.99",
+            "1,000,000 PP for OOTP Go 26!": "$499.99",
+            "Season MLB 1995": "$0.99"
+          }
+        },
         {
           "timestamp": 1750652899804,
           "price": 9.99,

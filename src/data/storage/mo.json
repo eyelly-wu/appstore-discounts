@@ -46165,8 +46165,8 @@
   "1531654315": {
     "name": "画師牆紙",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29",
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
       "buy wallpaper once": "USD 0.99",
       "become Vip": "USD 1.99"
     },
@@ -46177,6 +46177,17 @@
       "become Vip": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750695365912,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "buy wallpaper once": "USD 0.99",
+            "become Vip": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -51362,6 +51373,16 @@
       "Mr. X Nightmare DLC": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750695365912,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747749745453,

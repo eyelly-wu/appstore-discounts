@@ -60929,8 +60929,8 @@
   "1531654315": {
     "name": "画師牆紙",
     "maxPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00",
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
       "buy wallpaper once": "HK$ 8.00",
       "become Vip": "HK$ 18.00"
     },
@@ -60941,6 +60941,17 @@
       "become Vip": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750695365912,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "buy wallpaper once": "HK$ 8.00",
+            "become Vip": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -66582,6 +66593,16 @@
       "Mr. X Nightmare DLC": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750695365912,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747749745453,
