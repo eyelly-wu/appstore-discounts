@@ -9331,6 +9331,27 @@
       ]
     ]
   },
+  "504494723": {
+    "name": "Fraction Calculator PRO #1",
+    "maxPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750691637350,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "505367096": {
     "name": "Fog of World",
     "maxPriceInfo": {
@@ -21443,6 +21464,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750691637350,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "₺699,99",
+            "生辰-年度会员": "₺599,99",
+            "生辰-季度会员": "₺599,99",
+            "生辰年度会员": "₺449,99",
+            "月度会员": "₺99,99"
+          }
+        },
         {
           "timestamp": 1750687999180,
           "price": 0,
