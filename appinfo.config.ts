@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1343590260,
+    name: {
+      mo: 'Neutral Density Calculator',
+    },
+    addType: 'auto',
+  },
+  {
     id: 504494723,
     name: {
       mo: '分數計算器 - PRO',

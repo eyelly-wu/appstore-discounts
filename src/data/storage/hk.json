@@ -40803,6 +40803,27 @@
       ]
     ]
   },
+  "1343590260": {
+    "name": "Neutral Density Calculator",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750753074943,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1351652600": {
     "name": "Boolean!",
     "maxPriceInfo": {
@@ -55224,6 +55245,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750753074943,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "HK$ 148.00",
+            "Dynasty Pet": "HK$ 118.00",
+            "Ultimate Amulet": "HK$ 48.00",
+            "Ultimate Ring": "HK$ 48.00",
+            "Ultimate Pet": "HK$ 48.00",
+            "Ultimate Ancient": "HK$ 98.00",
+            "Royal Rune": "HK$ 22.00",
+            "Norths Warden Pet Pack": "HK$ 118.00",
+            "Norths Warden Set": "HK$ 148.00",
+            "Black Friday Combo Items": "HK$ 228.00"
+          }
+        },
         {
           "timestamp": 1750720193948,
           "price": 8,
