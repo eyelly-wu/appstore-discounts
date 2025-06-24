@@ -629,7 +629,7 @@
 |550|396085661|自动|❌|遊戲發展國++|遊戲發展國++|遊戲發展國++|Game Dev Story|Game Dev Story|
 |549|402012828|自动|iSafe Pro|iSafe Pro|iSafe Pro|iSafe Pro|iSafe Pro|iSafe Pro|
 |548|402656416|自动|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|
-|547|403684733|自动|Badoo高级版|Badoo進階版|Badoo進階版|Badoo進階版|Badoo Premium|Badoo Premium|
+|547| ~~403684733~~ |自动| ~~Badoo高级版~~ | ~~Badoo進階版~~ | ~~Badoo進階版~~ | ~~Badoo進階版~~ | ~~Badoo Premium~~ | ~~Badoo Premium~~ |
 |546|404990064|自动|SkyView®|SkyView®|SkyView®|SkyView®|SkyView®|SkyView®|
 |545|405835358|自动|MilGPS|MilGPS|MilGPS|MilGPS|MilGPS|MilGPS|
 |544|406239138|自动|❌|Puffin Cloud Browser|Puffin Cloud Browser|Puffin Cloud Browser|Puffin Browser Pro|Puffin Browser Pro|

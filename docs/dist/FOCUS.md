@@ -629,7 +629,7 @@ So far, we've covered `6` `Countries or Regions` and  `1171` `Apps` <br />Push n
 |550|396085661|Automatic|❌|遊戲發展國++|遊戲發展國++|遊戲發展國++|Game Dev Story|Game Dev Story|
 |549|402012828|Automatic|iSafe Pro|iSafe Pro|iSafe Pro|iSafe Pro|iSafe Pro|iSafe Pro|
 |548|402656416|Automatic|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|IP Cam Viewer Pro|
-|547|403684733|Automatic|Badoo高级版|Badoo進階版|Badoo進階版|Badoo進階版|Badoo Premium|Badoo Premium|
+|547| ~~403684733~~ |Automatic| ~~Badoo高级版~~ | ~~Badoo進階版~~ | ~~Badoo進階版~~ | ~~Badoo進階版~~ | ~~Badoo Premium~~ | ~~Badoo Premium~~ |
 |546|404990064|Automatic|SkyView®|SkyView®|SkyView®|SkyView®|SkyView®|SkyView®|
 |545|405835358|Automatic|MilGPS|MilGPS|MilGPS|MilGPS|MilGPS|MilGPS|
 |544|406239138|Automatic|❌|Puffin Cloud Browser|Puffin Cloud Browser|Puffin Cloud Browser|Puffin Browser Pro|Puffin Browser Pro|
