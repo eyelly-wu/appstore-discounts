@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-24T13:50:07.927Z</updated>
+    <updated>2025-06-24T23:34:14.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-24T13:50:07.927Z</updated>
+        <updated>2025-06-24T23:34:14.064Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkTue, 24 Jun 2025 13:50:07 GMT</id>
+        <id>rankinghkTue, 24 Jun 2025 23:34:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-24T13:50:07.927Z</updated>
+        <updated>2025-06-24T23:34:14.064Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -60,7 +60,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>970</b>
       </td>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>900</b>
       </td>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
     </tr>
   </tbody>
@@ -168,6 +168,31 @@ feedId:157008141708743680+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>超大型金錢包</i>：<b>3</b>
+              </li><li>
+                <i>新手包</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id1028950091">貪婪洞窟：猿神降临</a>
       </td>
       <td>
@@ -188,7 +213,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1519571900">Luwian</a>
@@ -205,7 +230,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6740471827">手錶經典迷宮遊戲</a>
@@ -222,7 +247,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6739975257">乐桥</a>
@@ -247,7 +272,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id319295332">TuneIn Radio: Music & Sports</a>
@@ -272,7 +297,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id352247139">Calorie Counter PRO MyNetDiary</a>
@@ -295,10 +320,12 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id403684733">Badoo進階版</a>
+        <del>
+          <a href="https://apps.apple.com/hk/app/id403684733">Badoo進階版</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -310,31 +337,6 @@ feedId:157008141708743680+userId:73658201673997312
             <span>App 內購買項目</span><ol>
               <li>
                 <i>Super Powers</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>11</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/hk/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買項目</span><ol>
-              <li>
-                <i>超大型金錢包</i>：<b>2</b>
-              </li><li>
-                <i>新手包</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -1508,7 +1510,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+        <a href="https://apps.apple.com/hk/app/id403684733">Badoo進階版</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1517,7 +1519,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1444761746">RFS - Real Flight Simulator</a>
+        <a href="https://apps.apple.com/hk/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1526,7 +1528,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1512751689">The Game of Life 2</a>
+        <a href="https://apps.apple.com/hk/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1535,7 +1537,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+        <a href="https://apps.apple.com/hk/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1544,16 +1546,16 @@ feedId:157008141708743680+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1444383602">Goodnotes 6：筆記，PDF，AI</a>
+        <a href="https://apps.apple.com/hk/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/hk/app/id1444383602">Goodnotes 6：筆記，PDF，AI</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1562,7 +1564,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/hk/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1571,7 +1573,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/hk/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1580,7 +1582,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/hk/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1589,7 +1591,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
+        <a href="https://apps.apple.com/hk/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1598,7 +1600,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id456637671">安全監控照片+視頻Pro</a>
+        <a href="https://apps.apple.com/hk/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1607,7 +1609,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/hk/app/id456637671">安全監控照片+視頻Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1616,7 +1618,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/hk/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1625,12 +1627,75 @@ feedId:157008141708743680+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id1485101937">Juice Watch</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id488674899">雨雷達 ° -實時天氣圖</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刺客任務：狙擊 (Hitman Sniper)]]></title>
+        <id>刺客任務：狙擊 (Hitman Sniper)-hk-1750806730921</id>
+        <link href="https://apps.apple.com/hk/app/%E5%88%BA%E5%AE%A2%E4%BB%BB%E5%8B%99-%E7%8B%99%E6%93%8A-hitman-sniper/id904278510?uo=4"/>
+        <updated>2025-06-24T23:12:10.921Z</updated>
+        <summary type="html"><![CDATA[超大型金錢包: HK$ 88.00 → HK$ 58.00<br/>新手包: HK$ 38.00 → HK$ 22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E5%88%BA%E5%AE%A2%E4%BB%BB%E5%8B%99-%E7%8B%99%E6%93%8A-hitman-sniper/id904278510?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>超大型金錢包：</strong><span>HK$ 88.00</span> → <b>
+  <strong>HK$ 58.00</strong>
+</b><span>[HK$ 58.00 ~ HK$ 88.00]</span>
+  </li><li>
+    <strong>新手包：</strong><span>HK$ 38.00</span> → <b>
+  <strong>HK$ 22.00</strong>
+</b><span>[HK$ 22.00 ~ HK$ 38.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 8.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    Limited Time Offer：<b>HK$ 118.00</b>
+  </li><li>
+    超大型代幣包：<b>HK$ 88.00</b>
+  </li><li>
+    超大型金錢包：<b>HK$ 58.00</b>
+  </li><li>
+    促銷包：<b>HK$ 188.00</b>
+  </li><li>
+    新手包：<b>HK$ 22.00</b>
+  </li><li>
+    中型金錢包：<b>HK$ 32.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  成為終極無聲殺手
+進入《Hitman Sniper》，扮演探員 47（Agent 47），體驗最震撼的狙擊手遊。
+
+黑山共和國的戰略任務
+磨練策略技巧，精心策劃一場完美暗殺。
+
+死亡谷挑戰模式
+準備迎接無窮的動作考驗，測試你的僵屍獵人技巧和射擊速度。
+
+超過 150 個任務和 10 份合同
+揭露秘密與詭計，精進你的完美暗殺技巧。
+
+16 種獨一無二的槍砲
+消滅目標、收集武器零件，完成設計突擊可解鎖最強大的槍砲。
+
+與好友一較高下，競逐排行榜冠軍
+衝高分數，升上合同殺手排行第一名，成為全世界最出色的無聲殺手。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/f5/14/4ff514b0-f939-df13-8087-84bd3217e009/mzl.bzdlkeau.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/12/32/43/123243f6-2ada-46b6-9d40-ef5d52b2c8c2/mzl.stqiidrz.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/64/69/52/6469521c-8e46-de39-d39d-f26221900223/mzl.zczjlcvd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/af/3a/f4/af3af49d-e212-394a-aff8-e2b62d4f586b/mzl.qnyhsiqe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/a0/f6/6ea0f61c-0214-ff61-ca59-542f41383ef1/mzl.jluxebmf.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/70/d1/ba70d194-83d5-194f-cb52-8de9fcf5d781/mzl.evgrgmwz.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/25/e2/2a25e257-0979-20b7-48cc-f5798fb338bf/mzl.etsyiapq.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/e7/88/cae78850-19a1-d2fc-a4d8-3777b03245f4/mzl.zybyctyl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/45/0c/a1/450ca19e-b8ef-e8d7-a9cc-66dd9dbd8f89/mzl.ldamlibv.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/81/a9/d381a9b2-4758-8ac9-e361-3e6ada871f3b/mzl.pftqxiws.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Luwian]]></title>
@@ -2567,24 +2632,5 @@ TuneIn 可在 200 個平台和連接裝置上免費使用。在您鍛煉時透�
 
 TuneIn 使用 Nielsen 測量軟體，該軟體使您能夠為諸如 Nielsen 的 TV Ratings 等市場研究做貢獻。要瞭解關於 Neilsen 的產品和您的隱私的更多資訊，請瀏覽 http://www.nielsen.com/digitalprivacy。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b0/f0/b7/b0f0b7f0-4e9d-2f54-414c-8f83a4ce7be8/524d361f-fab3-4d94-a57c-fc2939547a95_CN_8_news.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/39/34/e0/3934e05c-cba0-75b5-9e39-e65d45e2c58a/473ff864-3274-4c4a-8e24-6faf089bffd2_CN_8_radio.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/25/31/35/2531356c-4687-f129-fb60-4f681b936cdc/ce167c45-7bd5-4bdd-835b-03f82302ba81_CN_8_music.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/fd/95/7d/fd957df5-63e8-16dc-5d80-8635cb868364/7ebdb179-2c44-471c-9179-d15ca2a5daf6_ASO_TuneIn_iPhone8plus_07.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/bb/0b/63/bb0b63fc-7900-eb5a-df8a-95d993fdca31/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7d/50/41/7d504129-2b8c-e59e-ff04-0fba961a70a4/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ca/e4/c2/cae4c2c0-df37-925d-c177-c569e258689f/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/4b/f8/ba4bf847-06e9-214b-d1bc-63ac5acaeed2/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/87/09/c1/8709c129-2894-ff8b-5737-2dbb905521fc/mzl.irioloer.png/480x360bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全能備忘錄]]></title>
-        <id>全能備忘錄-hk-1750515112682</id>
-        <link href="https://apps.apple.com/hk/app/%E5%85%A8%E8%83%BD%E5%82%99%E5%BF%98%E9%8C%84/id1587301632?uo=4"/>
-        <updated>2025-06-21T14:11:52.682Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 32.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E5%85%A8%E8%83%BD%E5%82%99%E5%BF%98%E9%8C%84/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 32.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ HK$ 32.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
     </entry>
 </feed>

@@ -2602,6 +2602,25 @@
     "history": [
       [
         {
+          "timestamp": 1750806730921,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Príncipe Real HipstaPak": "$1.99",
+            "Coyoacán HipstaPak": "$1.99",
+            "Ohara HipstaPak": "$1.99",
+            "RetroPak 2022": "$6.99",
+            "RetroPak 2023": "$9.99",
+            "RetroPak Twenty-One": "$4.99",
+            "Highland Park HipstaPak": "$0.99",
+            "Pilsen HipstaPak": "$0.99",
+            "Tiong Bahru HipstaPak": "$0.99",
+            "Impressionist SnapPak": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750306878199,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -27770,6 +27789,18 @@
       "Package7": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750806730921,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Coupon of the Greedy Cave": "$0.99",
+            "Package8": "$49.99",
+            "Package7": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750508499126,
