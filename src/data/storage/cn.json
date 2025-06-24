@@ -5848,6 +5848,23 @@
     "history": [
       [
         {
+          "timestamp": 1750771716689,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "¥8.00",
+            "Acoustic Guitars": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Voices": "¥8.00",
+            "Synth Lead": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Sliced Beats": "¥8.00",
+            "Synth Plucks": "¥15.00",
+            "Chill-Lo-Fi Mobile": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1750738979910,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -44013,6 +44030,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750771716689,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749117746507,
