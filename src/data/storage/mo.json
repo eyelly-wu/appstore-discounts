@@ -7573,6 +7573,23 @@
     "history": [
       [
         {
+          "timestamp": 1750789057348,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99",
+            "Minecraft Store Item 8": "USD 7.99"
+          }
+        },
+        {
           "timestamp": 1750785209219,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -60265,8 +60282,8 @@
   "6483862844": {
     "name": "光遇樂隊",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 19.99,
+      "formattedPrice": "USD 19.99",
       "半年度超級會員": "USD 9.99",
       "年度超級會員": "USD 19.99",
       "Quarterly Ultra Membership": "USD 4.99",
@@ -60293,6 +60310,25 @@
       "月度專屬會員": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750789057348,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "半年度超級會員": "USD 9.99",
+            "年度超級會員": "USD 19.99",
+            "Quarterly Ultra Membership": "USD 4.99",
+            "月度超級會員": "USD 2.99",
+            "80根蠟燭": "USD 6.99",
+            "30根蠟燭": "USD 2.99",
+            "20根蠟燭": "USD 1.99",
+            "10根蠟燭": "USD 0.99",
+            "季度專屬會員": "USD 3.99",
+            "月度專屬會員": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
