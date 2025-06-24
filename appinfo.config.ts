@@ -4461,6 +4461,7 @@ export const part1AppConfig: AppConfig[] = [
       tr: 'Badoo Premium',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 404990064,
