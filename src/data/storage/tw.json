@@ -74885,13 +74885,25 @@
     "name": "Lies of P",
     "maxPriceInfo": {
       "price": 1290,
-      "formattedPrice": "$1,290.00"
+      "formattedPrice": "$1,290.00",
+      "Lies of P: Overture": "$590.00"
     },
     "minPriceInfo": {
       "price": 775,
-      "formattedPrice": "$775.00"
+      "formattedPrice": "$775.00",
+      "Lies of P: Overture": "$590.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750785209219,
+          "price": 1290,
+          "formattedPrice": "$1,290.00",
+          "inAppPurchases": {
+            "Lies of P: Overture": "$590.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727186533412,

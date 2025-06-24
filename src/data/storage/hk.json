@@ -75444,13 +75444,25 @@
     "name": "Lies of P",
     "maxPriceInfo": {
       "price": 328,
-      "formattedPrice": "HK$ 328.00"
+      "formattedPrice": "HK$ 328.00",
+      "Lies of P: Overture": "HK$ 158.00"
     },
     "minPriceInfo": {
       "price": 198,
-      "formattedPrice": "HK$ 198.00"
+      "formattedPrice": "HK$ 198.00",
+      "Lies of P: Overture": "HK$ 158.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750785209219,
+          "price": 328,
+          "formattedPrice": "HK$ 328.00",
+          "inAppPurchases": {
+            "Lies of P: Overture": "HK$ 158.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727186533412,
