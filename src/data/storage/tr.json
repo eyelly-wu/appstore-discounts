@@ -13853,6 +13853,25 @@
     "history": [
       [
         {
+          "timestamp": 1750835639735,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Kids Favs Bundle": "₺249,99",
+            "Animation Bundle Sale": "₺229,99",
+            "Animated Movies Deck": "₺99,99",
+            "Animation Bundle": "₺249,99",
+            "Kids Favs Bundle Sale": "₺229,99",
+            "Around The World Bundle": "₺299,99",
+            "Travel Essentials Deck": "₺99,99",
+            "Around The World Bundle Sale": "₺249,99",
+            "90s And 00s Cartoons Deck": "₺99,99",
+            "Kids Family Bundle BYOD": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750616142164,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -20906,6 +20925,23 @@
     "history": [
       [
         {
+          "timestamp": 1750835639735,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包年": "₺159,99",
+            "金牛会员尊享版连续包月": "₺12,99",
+            "问财专业版连续包月": "₺999,99",
+            "问财进阶版连续包月": "₺399,99",
+            "598花币": "₺3.999,99",
+            "299花币": "₺1.799,99",
+            "早盘选股宝连续包月": "₺1.299,99",
+            "机构探测器连续包月": "₺379,99",
+            "金牛情报连续包月": "₺219,99",
+            "分时顶底连续包季": "₺389,99"
+          }
+        },
+        {
           "timestamp": 1750832393839,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -26974,6 +27010,23 @@
     "history": [
       [
         {
+          "timestamp": 1750835639735,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Desperado Unlock Pack": "₺349,99",
+            "She-Ra Prestige Pack Sale": "₺299,99",
+            "She-Ra Sword Booster Sale": "₺99,99",
+            "She-Ra Sword Power Booster": "₺179,99",
+            "She-Ra Prestige Pack": "₺599,99",
+            "Battle Cat Booster Pack": "₺179,99",
+            "Battle Cat Prestige Pack": "₺179,99",
+            "Rogue Legends": "₺449,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750734832599,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -30495,7 +30548,9 @@
       "Warning": "₺99,99",
       "Classic Miss Scarlett": "₺129,99",
       "Classic Reverend Green": "₺129,99",
-      "Classic Professor Plum": "₺129,99"
+      "Classic Professor Plum": "₺129,99",
+      "London": "₺179,99",
+      "Vampire Castle": "₺179,99"
     },
     "minPriceInfo": {
       "price": 299.99,
@@ -30520,9 +30575,30 @@
       "Warning": "₺99,99",
       "Classic Miss Scarlett": "₺129,99",
       "Classic Reverend Green": "₺129,99",
-      "Classic Professor Plum": "₺129,99"
+      "Classic Professor Plum": "₺129,99",
+      "London": "₺179,99",
+      "Vampire Castle": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750835639735,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "London": "₺179,99",
+            "Murder Express train station": "₺179,99",
+            "Vampire Castle": "₺179,99",
+            "Ultimate Detective's Package": "₺1.499,99",
+            "Sherlock Theme": "₺299,99",
+            "Vampire Theme": "₺299,99",
+            "Snowy Peaks Theme": "₺299,99",
+            "Masquerade Theme Bundle": "₺299,99",
+            "Super Pack": "₺249,99",
+            "Super Yacht": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750374737436,
@@ -30838,10 +30914,18 @@
       "formattedPrice": "₺109,99"
     },
     "minPriceInfo": {
-      "price": 87.99,
-      "formattedPrice": "₺87,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750835639735,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746601351240,
@@ -56138,6 +56222,14 @@
     "history": [
       [
         {
+          "timestamp": 1750835639735,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746601351240,
           "price": 599.99,
           "formattedPrice": "₺599,99",
@@ -57934,6 +58026,25 @@
       "Smelting Pack": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750835639735,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Nurse Pack": "₺229,99",
+            "Unlock Beholder": "₺129,99",
+            "Unlock Gumiho": "₺129,99",
+            "Season 3 Battle Pass": "₺99,99",
+            "Uniform Pack": "₺179,99",
+            "Unlock Baphomet": "₺129,99",
+            "Season 2 Battle Pass": "₺99,99",
+            "Monster Pack 2": "₺1.299,99",
+            "Info Pack": "₺599,99",
+            "Smelting Pack": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750662881017,
@@ -67214,10 +67325,18 @@
       "formattedPrice": "₺629,00"
     },
     "minPriceInfo": {
-      "price": 204.99,
-      "formattedPrice": "₺204,99"
+      "price": 61.99,
+      "formattedPrice": "₺61,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750835639735,
+          "price": 61.99,
+          "formattedPrice": "₺61,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746601351240,

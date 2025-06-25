@@ -8784,8 +8784,8 @@
       "Arranged BGMs": "$100.00"
     },
     "minPriceInfo": {
-      "price": 135,
-      "formattedPrice": "$135.00",
+      "price": 33,
+      "formattedPrice": "$33.00",
       "Complete Set": "$130.00",
       "Full Armor": "$70.00",
       "All Health Boosts": "$33.00",
@@ -8794,6 +8794,21 @@
       "Arranged BGMs": "$100.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750835639735,
+          "price": 33,
+          "formattedPrice": "$33.00",
+          "inAppPurchases": {
+            "Complete Set": "$130.00",
+            "Full Armor": "$70.00",
+            "All Health Boosts": "$33.00",
+            "All Subtanks": "$33.00",
+            "All Weapons": "$70.00",
+            "Arranged BGMs": "$100.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746601351240,
@@ -27665,6 +27680,18 @@
     "history": [
       [
         {
+          "timestamp": 1750835639735,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "貪婪洞窟點券": "$30.00",
+            "超值禮包8": "$1,490.00",
+            "超值禮包7": "$990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749920995136,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -34695,6 +34722,23 @@
     "history": [
       [
         {
+          "timestamp": 1750835639735,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "6财富币": "$30.00",
+            "128财富币": "$690.00",
+            "88财富币": "$390.00",
+            "198财富币": "$990.00",
+            "168财富币": "$790.00",
+            "1998财富币": "$9,990.00",
+            "1598财富币": "$7,990.00",
+            "898财富币": "$3,990.00",
+            "418财富币": "$1,990.00",
+            "98财富币": "$490.00"
+          }
+        },
+        {
           "timestamp": 1750832393839,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -37111,10 +37155,18 @@
       "formattedPrice": "$170.00"
     },
     "minPriceInfo": {
-      "price": 135,
-      "formattedPrice": "$135.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750835639735,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746601351240,
@@ -47755,6 +47807,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750835639735,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Early Unlock Cheats": "$320.00",
+            "All Advisors Unlock": "$320.00",
+            "Command Pack": "$220.00",
+            "Early Unlock Cheats (discount)": "$150.00",
+            "Region Tour": "$120.00",
+            "戰役 + 挑戰": "$150.00",
+            "黑暗洞窟擴展": "$60.00",
+            "場景包": "$150.00"
+          }
+        },
         {
           "timestamp": 1750832393839,
           "price": 60,
@@ -67028,6 +67095,14 @@
     "history": [
       [
         {
+          "timestamp": 1750835639735,
+          "price": 395,
+          "formattedPrice": "$395.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746601351240,
           "price": 790,
           "formattedPrice": "$790.00",
@@ -84620,10 +84695,18 @@
       "formattedPrice": "$940.00"
     },
     "minPriceInfo": {
-      "price": 310,
-      "formattedPrice": "$310.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750835639735,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746601351240,

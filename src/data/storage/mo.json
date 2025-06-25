@@ -2552,6 +2552,25 @@
     "history": [
       [
         {
+          "timestamp": 1750835639735,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "空间会员·365G-3年（活动）": "USD 79.99",
+            "空间会员·365G-1年（活动）": "USD 39.99",
+            "专业会员·无限版-1个月（活动）": "USD 14.99",
+            "专业会员·无限版-12个月（活动）": "USD 149.99",
+            "专业会员·10人版-12个月（活动）": "USD 79.99",
+            "专业会员·10人版-1个月（活动）": "USD 7.99",
+            "专业会员·5人版-1个月（活动）": "USD 4.99",
+            "专业会员·5人版-12个月（活动）": "USD 49.99",
+            "基础会员1个月（活动）": "USD 1.99",
+            "基础会员12个月（活动）": "USD 14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750277699977,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -7393,8 +7412,8 @@
       "All Subtanks": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99",
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
       "Complete Set": "USD 3.99",
       "Full Armor": "USD 1.99",
       "All Health Boosts": "USD 0.99",
@@ -7403,6 +7422,21 @@
       "All Subtanks": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750835639735,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Complete Set": "USD 3.99",
+            "Full Armor": "USD 1.99",
+            "All Health Boosts": "USD 0.99",
+            "Arranged BGMs": "USD 2.99",
+            "All Weapons": "USD 1.99",
+            "All Subtanks": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746601351240,
@@ -8326,6 +8360,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750835639735,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Chapter N": "USD 3.99",
+            "Chapter D": "USD 4.99",
+            "Chapter L": "USD 9.99",
+            "Chapter T": "USD 4.99",
+            "Chapter R": "USD 4.99",
+            "Chapter 0": "USD 4.99",
+            "Chapter K": "USD 4.99",
+            "Chapter 10": "USD 4.99",
+            "Chapter 9": "USD 4.99",
+            "Chapter S": "USD 4.99"
+          }
+        },
         {
           "timestamp": 1750813387088,
           "price": 1.99,
@@ -28587,10 +28638,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750835639735,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746601351240,
@@ -53131,6 +53190,14 @@
     "history": [
       [
         {
+          "timestamp": 1750835639735,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746601351240,
           "price": 24.99,
           "formattedPrice": "USD 24.99",
@@ -61040,6 +61107,23 @@
     "history": [
       [
         {
+          "timestamp": 1750835639735,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "USD 3.99",
+            "The Aircraft Bundle": "USD 17.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Global scenery - 12 months": "USD 12.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Airbus A380": "USD 1.99",
+            "Airbus A321": "USD 1.99",
+            "Boeing 787-10": "USD 1.99",
+            "Robin DR400": "USD 0.99",
+            "Boeing 777F": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1750832393839,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -62106,10 +62190,18 @@
       "formattedPrice": "USD 29.99"
     },
     "minPriceInfo": {
-      "price": 9.89,
-      "formattedPrice": "USD 9.89"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750835639735,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746601351240,
