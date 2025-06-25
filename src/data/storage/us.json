@@ -21787,6 +21787,21 @@
     "history": [
       [
         {
+          "timestamp": 1750875496738,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Learn to Drive UK - Unlimited": "$9.99",
+            "Learn to Drive UK - 3 month": "$11.99",
+            "Learn to Drive Unlimited": "$24.99",
+            "Learn to Drive UK - 1 month": "$3.99",
+            "Learn to Drive UK - 12 months": "$14.99",
+            "Learn to Drive UK - 3 months": "$11.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750482718363,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -75081,7 +75096,8 @@
       "1 Month": "$1.49",
       "1 Year": "$4.99",
       "Yearly VIP": "$4.99",
-      "Monthly VIP": "$1.49"
+      "Monthly VIP": "$1.49",
+      "Lifetime VIP": "$14.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -75090,10 +75106,24 @@
       "1 Month": "$1.49",
       "1 Year": "$4.99",
       "Yearly VIP": "$4.99",
-      "Monthly VIP": "$1.49"
+      "Monthly VIP": "$1.49",
+      "Lifetime VIP": "$14.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750875496738,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "$14.99",
+            "Yearly VIP": "$4.99",
+            "Monthly VIP": "$1.49",
+            "Lifetime": "$29.99",
+            "1 Year": "$4.99",
+            "1 Month": "$1.49"
+          }
+        },
         {
           "timestamp": 1750871549179,
           "price": 0,

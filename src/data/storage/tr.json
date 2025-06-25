@@ -58756,7 +58756,8 @@
       "1 Month": "₺59,99",
       "1 Year": "₺199,99",
       "Yearly VIP": "₺199,99",
-      "Monthly VIP": "₺59,99"
+      "Monthly VIP": "₺59,99",
+      "Lifetime VIP": "₺599,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -58765,10 +58766,24 @@
       "1 Month": "₺59,99",
       "1 Year": "₺199,99",
       "Yearly VIP": "₺199,99",
-      "Monthly VIP": "₺59,99"
+      "Monthly VIP": "₺59,99",
+      "Lifetime VIP": "₺599,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750875496738,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "₺599,99",
+            "Yearly VIP": "₺199,99",
+            "Monthly VIP": "₺59,99",
+            "1 Year": "₺199,99",
+            "1 Month": "₺59,99",
+            "Lifetime": "₺1.299,99"
+          }
+        },
         {
           "timestamp": 1750871549179,
           "price": 0,
