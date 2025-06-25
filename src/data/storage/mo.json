@@ -8378,6 +8378,23 @@
     "history": [
       [
         {
+          "timestamp": 1750849911787,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Chapter N": "USD 3.99",
+            "Chapter D": "USD 4.99",
+            "Chapter L": "USD 9.99",
+            "Chapter T": "USD 4.99",
+            "Chapter R": "USD 4.99",
+            "Chapter 0": "USD 4.99",
+            "Chapter K": "USD 4.99",
+            "Chapter 10": "USD 4.99",
+            "Chapter 9": "USD 4.99",
+            "Chapter S": "USD 4.99"
+          }
+        },
+        {
           "timestamp": 1750839507387,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -39970,6 +39987,27 @@
           "timestamp": 1745419646428,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1448849222": {
+    "name": "The Bonfire 2 Uncharted Shores",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750849911787,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
         }
       ]

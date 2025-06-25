@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1448849222,
+    name: {
+      mo: 'The Bonfire 2 Uncharted Shores',
+    },
+    addType: 'auto',
+  },
+  {
     id: 550101894,
     name: {
       mo: '高吉占星 專業版Pro 星座占卜大師',
