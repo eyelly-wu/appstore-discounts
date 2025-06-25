@@ -1065,7 +1065,7 @@ So far, we've covered `6` `Countries or Regions` and  `1173` `Apps` <br />Push n
 |116|703265535|Manual|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|
 |115|6479307181|Manual|灵体侦测器|靈體偵測器|靈體偵測器|靈體偵測器|Ghostly Detector|Ghostly Detector|
 |114| ~~488674899~~ |Manual| ~~雨雷達-實時天氣圖。 亞洲和中國。°~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~RAIN RADAR °- sky weather NOAA~~ | ~~RAIN RADAR ° live weather maps~~ |
-|113|1636719674|Manual|锁屏启动 - 万能桌面小组件&灵动岛一键快捷指令手机捷径布局|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化主螢幕佈局|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化主螢幕佈局|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化主螢幕佈局|Lock Launcher - Screen Widgets|Lock Launcher - Screen Widgets|
+|113|1636719674|Manual|锁屏启动 - 万能桌面小组件&灵动岛一键快捷指令搜索直达扫码|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化搜索直達|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化搜索直達|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化搜索直達|Lock Launcher - Screen Widgets|Lock Launcher - Screen Widgets|
 |112|1543163106|Manual|末剑二|❌|❌|❌|❌|❌|
 |111|6443812780|Manual|我的水世界求生|❌|❌|❌|❌|❌|
 |110|1344655035|Manual|蜡烛人|❌|❌|❌|❌|❌|
