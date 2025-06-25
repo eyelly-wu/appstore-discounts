@@ -13245,10 +13245,18 @@
       "formattedPrice": "$19.99"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "$19.99"
+      "price": 12.99,
+      "formattedPrice": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750821285398,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745398953972,
@@ -49869,6 +49877,20 @@
     "history": [
       [
         {
+          "timestamp": 1750821285398,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Forbidden Bundle": "$6.99",
+            "The Dancer": "$1.99",
+            "The Ghoul": "$1.99",
+            "The Priest": "$1.99",
+            "The Exile": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749525225041,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -55374,6 +55396,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750821285398,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750475290970,
@@ -62344,6 +62374,23 @@
     "history": [
       [
         {
+          "timestamp": 1750821285398,
+          "price": 15.99,
+          "formattedPrice": "$15.99",
+          "inAppPurchases": {
+            "Major Jazz Blues 12 key": "$4.99",
+            "Funk Popular": "$2.99",
+            "Swing Ⅱ-V-I-VI 12key (Long)": "$4.99",
+            "Herbie Hancock & Chick corea": "$4.99",
+            "Rhythm Change 12key": "$4.99",
+            "Neo Soul Jam Track 12key": "$4.99",
+            "Bossa Nova Blues 12key": "$2.99",
+            "Slow Funky Groove 12key": "$4.99",
+            "Essential Wayne Shorter": "$4.99",
+            "Antonio Carlos Jobim Book Ⅰ.": "$5.99"
+          }
+        },
+        {
           "timestamp": 1750813387088,
           "price": 15.99,
           "formattedPrice": "$15.99",
@@ -66086,6 +66133,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750821285398,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750562428966,
@@ -73431,6 +73486,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750821285398,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749697861787,
@@ -86802,6 +86865,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750821285398,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750716746609,
