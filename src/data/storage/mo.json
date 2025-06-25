@@ -2552,6 +2552,23 @@
     "history": [
       [
         {
+          "timestamp": 1750839507387,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "连续包年": "USD 39.99",
+            "连续包季": "USD 9.99",
+            "空间会员·365G-3年（活动）": "USD 79.99",
+            "空间会员·365G-1年（活动）": "USD 39.99",
+            "专业会员·无限版-1个月（活动）": "USD 14.99",
+            "专业会员·无限版-12个月（活动）": "USD 149.99",
+            "专业会员·10人版-12个月（活动）": "USD 79.99",
+            "专业会员·10人版-1个月（活动）": "USD 7.99",
+            "专业会员·5人版-1个月（活动）": "USD 4.99",
+            "专业会员·5人版-12个月（活动）": "USD 49.99"
+          }
+        },
+        {
           "timestamp": 1750835639735,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -8361,6 +8378,23 @@
     "history": [
       [
         {
+          "timestamp": 1750839507387,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Chapter D": "USD 4.99",
+            "Chapter 6": "USD 4.99",
+            "Chapter 5": "USD 4.99",
+            "Chapter 0": "USD 4.99",
+            "Chapter 10": "USD 4.99",
+            "Chapter 8": "USD 4.99",
+            "Chapter L": "USD 9.99",
+            "Chapter K": "USD 4.99",
+            "Chapter S": "USD 4.99",
+            "Chapter R": "USD 4.99"
+          }
+        },
+        {
           "timestamp": 1750835639735,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -12261,6 +12295,31 @@
             "瘋狂的尊貴套餐": "USD 79.99",
             "終極尊貴包": "USD 39.99",
             "中聲望包": "USD 8.99"
+          }
+        }
+      ]
+    ]
+  },
+  "550101894": {
+    "name": "高吉占星 專業版Pro 星座占卜大師",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99",
+      "離線資料授權": "USD 0.00"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99",
+      "離線資料授權": "USD 0.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750839507387,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {
+            "離線資料授權": "USD 0.00"
           }
         }
       ]
