@@ -31091,6 +31091,27 @@
       ]
     ]
   },
+  "1062515791": {
+    "name": "The House of Da Vinci",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750893134975,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1062745479": {
     "name": "HeartWatch: Heart Rate Tracker",
     "maxPriceInfo": {
@@ -57131,6 +57152,18 @@
     "history": [
       [
         {
+          "timestamp": 1750893134975,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$19.95",
+            "Annual": "$6.00",
+            "Monthly": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1743557378627,
           "price": 0,
           "formattedPrice": "Free",
@@ -72928,6 +72961,55 @@
           "price": 14.99,
           "formattedPrice": "$14.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1631790409": {
+    "name": "Starri - Move to music",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Starri Pass": "$14.99",
+      "500 Gems": "$10.99",
+      "300 Gems": "$6.99",
+      "Special Value Pack": "$2.99",
+      "100 Gems": "$2.99",
+      "1200 Gems": "$23.99",
+      "2500 Gems": "$47.99",
+      "Christmas Song Pack": "$0.99",
+      "200 Gems": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Starri Pass": "$14.99",
+      "500 Gems": "$10.99",
+      "300 Gems": "$6.99",
+      "Special Value Pack": "$2.99",
+      "100 Gems": "$2.99",
+      "1200 Gems": "$23.99",
+      "2500 Gems": "$47.99",
+      "Christmas Song Pack": "$0.99",
+      "200 Gems": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750893134975,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Starri Pass": "$14.99",
+            "500 Gems": "$10.99",
+            "300 Gems": "$6.99",
+            "Special Value Pack": "$2.99",
+            "100 Gems": "$2.99",
+            "1200 Gems": "$23.99",
+            "2500 Gems": "$47.99",
+            "Christmas Song Pack": "$0.99",
+            "200 Gems": "$4.99"
+          }
         }
       ]
     ]
@@ -92120,6 +92202,27 @@
           "inAppPurchases": {
             "Crimson Gem": "$29.99"
           }
+        }
+      ]
+    ]
+  },
+  "6742321646": {
+    "name": "WSET 3 Trainer Pro",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750893134975,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
         }
       ]
     ]

@@ -68,6 +68,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1062515791,
+    name: {
+      mo: 'The House of Da Vinci',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1631790409,
+    name: {
+      mo: 'Starri 星動旋律',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742321646,
+    name: {
+      mo: 'WSET 3 Trainer Pro',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1448849222,
     name: {
       mo: 'The Bonfire 2 Uncharted Shores',

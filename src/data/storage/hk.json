@@ -13128,6 +13128,25 @@
     "history": [
       [
         {
+          "timestamp": 1750893134975,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Procurement Director": "HK$ 8.00",
+            "Disaster Manager": "HK$ 8.00",
+            "Medical Coordinator": "HK$ 8.00",
+            "Ethics Watchdog": "HK$ 8.00",
+            "Chaos Engineer": "HK$ 8.00",
+            "Economic Forecaster": "HK$ 8.00",
+            "Situation Director": "HK$ 8.00",
+            "Outreach Coordinator": "HK$ 8.00",
+            "Fast Response EMTs": "HK$ 8.00",
+            "Strategic Fundraiser": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749931954931,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -30125,6 +30144,27 @@
       ]
     ]
   },
+  "1062515791": {
+    "name": "The House of Da Vinci",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750893134975,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1062745479": {
     "name": "HeartWatch: 監測心率",
     "maxPriceInfo": {
@@ -39122,6 +39162,25 @@
       "B.B.K.K.B.K.K. 2023 Remake SLC": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750893134975,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "HARDCORE TANO*C VOL.II": "HK$ 38.00",
+            "HARDCORE TANO*C": "HK$ 38.00",
+            "Cosmic Radio 2024": "HK$ 38.00",
+            "Miku Extend 2025": "HK$ 38.00",
+            "Paradigm: Reboot pt. 2": "HK$ 38.00",
+            "Paradigm: Reboot pt. 1": "HK$ 38.00",
+            "RAVON": "HK$ 38.00",
+            "NEKO_II": "HK$ 88.00",
+            "Rhythm Games Party 2024": "HK$ 38.00",
+            "B.B.K.K.B.K.K. 2023 Remake SLC": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750407438491,
@@ -71262,6 +71321,55 @@
       ]
     ]
   },
+  "1631790409": {
+    "name": "Starri 星動旋律",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Starri Pass": "HK$ 118.00",
+      "Special Value Pack": "HK$ 22.00",
+      "500 Gems": "HK$ 88.00",
+      "100 Gems": "HK$ 22.00",
+      "300 Gems": "HK$ 58.00",
+      "1200 Gems": "HK$ 188.00",
+      "Christmas Song Pack": "HK$ 8.00",
+      "2500 Gems": "HK$ 388.00",
+      "200 Gems": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Starri Pass": "HK$ 118.00",
+      "Special Value Pack": "HK$ 22.00",
+      "500 Gems": "HK$ 88.00",
+      "100 Gems": "HK$ 22.00",
+      "300 Gems": "HK$ 58.00",
+      "1200 Gems": "HK$ 188.00",
+      "Christmas Song Pack": "HK$ 8.00",
+      "2500 Gems": "HK$ 388.00",
+      "200 Gems": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750893134975,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Starri Pass": "HK$ 118.00",
+            "Special Value Pack": "HK$ 22.00",
+            "500 Gems": "HK$ 88.00",
+            "100 Gems": "HK$ 22.00",
+            "300 Gems": "HK$ 58.00",
+            "1200 Gems": "HK$ 188.00",
+            "Christmas Song Pack": "HK$ 8.00",
+            "2500 Gems": "HK$ 388.00",
+            "200 Gems": "HK$ 38.00"
+          }
+        }
+      ]
+    ]
+  },
   "1631859420": {
     "name": "劫後公司",
     "maxPriceInfo": {
@@ -88256,6 +88364,27 @@
           "inAppPurchases": {
             "Crimson Gem": "HK$ 588.00"
           }
+        }
+      ]
+    ]
+  },
+  "6742321646": {
+    "name": "WSET 3 Trainer Pro",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750893134975,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
         }
       ]
     ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-06-25T14:35:07.731Z</updated>
+    <updated>2025-06-25T23:34:15.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-25T14:35:07.731Z</updated>
+        <updated>2025-06-25T23:34:15.938Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoWed, 25 Jun 2025 14:35:07 GMT</id>
+        <id>rankingmoWed, 25 Jun 2025 23:34:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-25T14:35:07.731Z</updated>
+        <updated>2025-06-25T23:34:15.939Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -51,13 +51,13 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1173</b>
+        <b>1176</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>972</b>
+        <b>975</b>
       </td>
       <td>
         <b>19</b>
@@ -68,13 +68,13 @@ feedId:157008389768002560+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>1077</b>
+        <b>1080</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>898</b>
+        <b>901</b>
       </td>
       <td>
         <b>16</b>
@@ -186,6 +186,29 @@ feedId:157008389768002560+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/mo/app/id1238247658">Cluedo: Classic Edition</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>4</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Ultimate Detective Collection</i>：<b>4</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/mo/app/id6446178861">PlayNav - 影片內無廣告！</a>
       </td>
       <td>
@@ -198,29 +221,6 @@ feedId:157008389768002560+userId:73658201673997312
             <span>App 內購買項目</span><ol>
               <li>
                 <i>高級功能</i>：<b>4</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/mo/app/id1238247658">Cluedo: Classic Edition</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買項目</span><ol>
-              <li>
-                <i>Ultimate Detective Collection</i>：<b>3</b>
               </li>
             </ol>
           </li>
@@ -1588,6 +1588,62 @@ feedId:157008389768002560+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cluedo: Classic Edition]]></title>
+        <id>Cluedo: Classic Edition-mo-1750893134975</id>
+        <link href="https://apps.apple.com/mo/app/cluedo-classic-edition/id1238247658?uo=4"/>
+        <updated>2025-06-25T23:12:14.975Z</updated>
+        <summary type="html"><![CDATA[Ultimate Detective Collection: USD 19.99 → USD 14.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/cluedo-classic-edition/id1238247658?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/c6/e3/49c6e375-99ed-17ec-a77f-1c941abd917c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Ultimate Detective Collection：</strong><span>USD 19.99</span> → <b>
+  <strong>USD 14.99</strong>
+</b><span>[USD 14.99 ~ USD 19.99]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>USD 6.99</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    Snowy Peaks Theme：<b>USD 6.99</b>
+  </li><li>
+    Ultimate Detective's Package：<b>USD 34.99</b>
+  </li><li>
+    Ultimate Detective Collection：<b>USD 14.99</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  THE ORIGINAL HASBRO BOARD GAME - It’s the classic murder mystery! Who did it? With what weapon? In which room? There’s a high-risk party at the mansion and every guest is a suspect. Roll the dice, become a detective and let Cluedo begin!
+
+•        A PREMIUM DIGITAL BOARD GAME - There are no ads, no pop-ups and no pay-to-win limits. Once you buy the app, that’s it: unlimited multiplayer fun for you and your family and nothing to stop you solving the crime!
+
+•        A BRAIN TEASER - Test your detective skills. At the start of each game, Cluedo will take one suspect, one weapon, and one room from the deck, and deal the rest to the players. If you ask: “was it Colonel Mustard with the Rope in the Drawing Room”, a player holding the Colonel, the Rope or the Drawing Room must show you their card. Enter every room in search of answers!
+
+•        CLUESHEET & HINT SYSTEM - Who committed murder?! Don’t risk letting the criminal escape! Use your virtual cluesheet companion to make a note of the suspects, weapons and rooms you can eliminate. The ideal companion for every detective: cluesheet helps you make your deductions, perfect your strategy and solve the mystery.
+
+•        FAMILY FRIENDLY - It’s the original family board game by Hasbro, suitable for all players 8 years and over. With no adverts or necessary in-app purchases it’s multiplayer fun for kids and adults. With the whole board game on your mobile you can take Cluedo wherever you go! Roll the dice and solve the mystery!
+
+•        SINGLE PLAYER - Put your brain to the test against a guest list of AI murder suspects, online or offline! Choose your character, choose your opponents and let no criminal escape the mansion!
+
+•        ONLINE MULTIPLAYER - Play Cluedo with your friends and find out who’s guilty on mobile, PC or Nintendo Switch! Don’t let distance stop your board game night. Play on the go, or curl up in an armchair and settle down for a night of crime and detective work, wherever you are!
+
+•        10 ADDITIONAL THEMES - Explore ten different themed boards with Cluedo's Ultimate Detective’s Package. Listed under “Editor’s Choice” for the Most Stylish Game, our exclusive original themes are hand crafted by our studio artists. 
+o        Tudor Mansion: The guests at this party have turned out to be a lethal combination!
+o        Vampire Castle: In a household where every suspect is a monster, who committed the crime?
+o        Egyptian Adventure: Solve the crime, from the dark tombs of pharaohs to the crumbling pyramids!
+o        Hollywood: In a land where life is an act, can you find the truth in the fairytale?
+o        Murder Express: Challenge your friends to solve a mystery based on a classic Agatha Christie novel!
+o        Sherlock: Become the great detective and solve a crime on the dark streets of London!
+o        Snowy Peaks: Old friends have been reunited. Tensions are running high, but whose grudge ran that deep?
+o        Tropical Mystery: Someone has rocked this boat in a big way! It’s a luxury race to the answer!
+o        Venetian Masquerade: Historic Venice is beautiful, but crime lurks beneath the surface!
+o        Wild West: From the jailhouse to the saloon, the story of Dr. Black’s end will spread far and wide. Only you can discover the truth!
+
+
+About Marmalade Game Studio
+At Marmalade Game Studio we make quality, premium multiplayer board games. Play our classic games, including Monopoly and The Game of Life 2, anywhere on your mobile! Enjoy with your friends and family whether you’re together or apart. You can find the fun with people you know or players around the world. Our games are ad-free, family friendly fun. For quality time, look for the Marmalade Game Studio logo.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/96/dd/6096dd17-f5cb-29f4-1abe-0c8ecb6f3efe/330265f0-988e-4483-8304-bf0929d10267_A_screenshots_main_1242x2208_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/27/fb/8c27fb69-6bb2-0415-e993-0aef030883fc/26bf69d0-a2d4-45b2-b260-572f98f960ba_A_screenshots_main_1242x2208_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/8a/17/318a1718-bf1a-4fbc-110f-d482fbb5dec6/76c45d0b-9adf-4ead-a88a-ad4ef1b5b56b_A_screenshots_main_1242x2208_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b4/10/1d/b4101dfa-adce-d465-fdfb-b7206f065409/e06482df-f174-4d13-9f2f-e09762477ef2_A_screenshots_main_1242x2208_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/fe/0b/57fe0ba7-db6c-4ad6-5b31-d2b82dfc4668/e4f9d5ae-6bdf-494a-9064-365cf69607e3_A_screenshots_main_1242x2208_5_eng.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/ce/d7/38ced7e2-3014-30ac-3149-02a2437f1dc1/f74ae9f8-bf51-4917-937f-22a67052b2f3_A_screenshots_main_1242x2208_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/a8/d3/e9a8d31f-ed0d-9d13-d0f2-01a55d867c29/9a6f6172-d164-4cdf-89fe-bc7552451f1f_clue_screenshots_apple_arcade_1242x2208_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f0/8f/75/f08f7561-b65e-c5c6-1276-27aa27828736/a421e5b9-4959-4de4-bc96-e839f154f7ae_clue_screenshots_apple_arcade_1242x2208_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/02/e3/ca/02e3caa3-8aa8-e025-e0bc-ccb66d733a27/ed7d73f1-bafa-405a-92c5-66cc15d4257e_A_screenshots_main_2048x2732_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/e4/f5/cce4f5e4-b3e8-1072-5c95-c9b219b06b31/be5b52db-1bc9-4784-941b-fd3d602448e2_A_screenshots_main_2048x2732_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/67/bc/fe67bc8c-efff-2849-1b2f-104b09f242e6/b22cdb63-fa32-4b8d-a14d-6337ec2bc7b0_A_screenshots_main_2048x2732_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/36/37/22363735-6bdd-b1a9-73df-6e1338cb2b9e/9c60dcbc-fb34-4749-a3cc-6ec47be76aed_A_screenshots_main_2048x2732_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/9d/b3/a39db37d-ce7a-7992-069e-6994387ac9a7/fef82d1c-ea76-469f-9680-429e0a098695_A_screenshots_main_2048x2732_5_eng.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/02/a3/0a02a357-5cda-8942-cd1c-843986c6e176/cf6ef44c-9b97-4088-aa9f-bacd696ff028_A_screenshots_main_2048x2732_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/54/54/61/5454616e-bb84-b880-af85-5ac65186c50c/d2a75f6f-19c5-4f3e-ac86-8334d0dfb400_clue_screenshots_apple_arcade_2048x2732_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/e2/70/42e2704b-7602-bd67-6483-9c15db7d0fc2/7f77e34c-a1cc-4675-8f39-a692fc59e2ea_clue_screenshots_apple_arcade_2048x2732_7.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Iron Marines]]></title>
         <id>Iron Marines-mo-1750860787382</id>
         <link href="https://apps.apple.com/mo/app/iron-marines/id1056920931?uo=4"/>
@@ -2761,166 +2817,5 @@ Calculations
 iOS Advanced Feature
 • Invoke menu on app icon to cast a new chart, view current transits chart wheel or basic chart details report
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/ba/b8/b8bab8a2-7f56-5618-d7a9-ecdb6388663b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6a/49/72/6a497268-4442-a194-ca32-7b4510695713/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/35/14/45/351445a3-8b7e-67c9-f715-946ff8c4b46b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/01/b5/8a/01b58aea-fd97-a956-57a9-c5ba6b57bd7b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/70/e3/b2/70e3b2ef-c6ca-4f39-8aab-455c388ea778/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e4/56/78/e4567882-8ac1-ea4c-23e9-77ddc93810c7/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/eb/f8/09/ebf809b7-d1c0-3e44-d6ec-a980d6cc5193/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/65/56/e96556f2-5c85-0370-8403-d94e76b86f06/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/de/a2/3e/dea23e12-d5ad-fe79-f53f-71256f96fb5b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c3/54/51/c3545139-902c-d59c-4c80-79c313c99420/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/e2/62/d4e26252-d8c2-e916-94f8-8ad62ae2771c/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/20/42/47/2042479d-dfca-c1b8-66cf-6ddb6c232032/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/09/94/300994d0-d98f-0bd8-c5f8-c1ba9595353f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/0b/04/6d0b04dc-f040-514f-a71a-5bfdccc02837/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/82/ef/0a82ef4b-978a-66bb-184d-cddcf307a1f0/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/00/f1/78/00f178cc-52b7-5e4d-a9aa-68913003a50c/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/12/a2/e612a28d-23d8-6238-eccb-90b9b0d40181/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/a2/36/27a2368e-950f-a42f-9ff4-1be26e19c553/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c4/33/63/c4336334-6c41-e4be-cb9d-ac1cabd7eb2d/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iron Marines]]></title>
-        <id>Iron Marines-mo-1750623173249</id>
-        <link href="https://apps.apple.com/mo/app/iron-marines/id1056920931?uo=4"/>
-        <updated>2025-06-22T20:12:53.249Z</updated>
-        <summary type="html"><![CDATA[英雄超能博士: USD 4.99 → USD 2.99<br/>英雄藍色飛龍: USD 6.99 → USD 4.99<br/>英雄羅爺: USD 2.99 → USD 0.99<br/>英雄鐵甲馬克: USD 6.99 → USD 4.99<br/>英雄自由獵人: USD 4.99 → USD 2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/iron-marines/id1056920931?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/a7/cd/e9a7cd3f-5086-a6d5-080b-14dbd6288c01/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>英雄超能博士：</strong><span>USD 4.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 4.99]</span>
-  </li><li>
-    <strong>英雄藍色飛龍：</strong><span>USD 6.99</span> → <b>
-  <strong>USD 4.99</strong>
-</b><span>[USD 4.99 ~ USD 6.99]</span>
-  </li><li>
-    <strong>英雄羅爺：</strong><span>USD 2.99</span> → <b>
-  <strong>USD 0.99</strong>
-</b><span>[USD 0.99 ~ USD 2.99]</span>
-  </li><li>
-    <strong>英雄鐵甲馬克：</strong><span>USD 6.99</span> → <b>
-  <strong>USD 4.99</strong>
-</b><span>[USD 4.99 ~ USD 6.99]</span>
-  </li><li>
-    <strong>英雄自由獵人：</strong><span>USD 4.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 4.99]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>USD 2.99</b>
-</p><h3>App 內購買項目</h3><ul>
-  <li>
-    英雄超能博士：<b>USD 2.99</b>
-  </li><li>
-    英雄藍色飛龍：<b>USD 4.99</b>
-  </li><li>
-    英雄虛空獵手：<b>USD 2.99</b>
-  </li><li>
-    英雄風刃：<b>USD 0.99</b>
-  </li><li>
-    英雄司珀羅：<b>USD 2.99</b>
-  </li><li>
-    英雄羅爺：<b>USD 0.99</b>
-  </li><li>
-    英雄鐵甲馬克：<b>USD 4.99</b>
-  </li><li>
-    英雄命運女俠：<b>USD 0.99</b>
-  </li><li>
-    英雄達爾文：<b>USD 0.99</b>
-  </li><li>
-    英雄自由獵人：<b>USD 2.99</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  這是遊戲創作者繼獲獎作品Kingdom Rush（王國保衛戰）三部曲之後的又一超凡太空奇幻歷險之作。即時，動態以及深度策略的遊戲模式將帶你穿越到不可思議的未知星球。沉浸式擬真遊戲場景，過癮的遊戲玩法，以及超凡絕佳的藝術感和一絲詼諧幽默感帶你進入激烈的戰爭世界。勇猛的士兵，威猛的機甲人和強大的外星人通通等你來統率，並肩迎接最強挑戰。
-
-招募和訓練銀河系中最偉大的英雄，率領他們參與幾乎不可能完成的危險任務，發動他們強大的力量和能力。即使是在戰鬥最激烈的時候你也可通過改變自己部隊的角色而進行戰略調整，突擊隊員調整為狙擊兵，火焰噴射器調整為導彈發射器。通過炸彈襲擊，智能地雷，支援部隊，砲塔和各種特種武器轉變戰鬥態勢。
-
-機器人軍隊整裝待發;星際戰艦墜毀了;到處是巨大怪物，未知的種族;所向披靡的攻擊;絕望的營救;無所畏懼地破壞行動正在銀河之中發生......銀河系需要你的統領。
-
-銀河系需要鋼鐵戰隊
-
-遊戲特色
-
-指导你的部队参加3个不同世界的21次任务。準備好發動英勇的攻擊，堅守陣地，拯救平民，潛入超級計算機和各種英雄的物品。每個任務需要新的戰術和行動才能取得勝利。
-
-通過17次終結式特別行動的戰術規則測試你的機智。每個關卡通過傷痕銘記挑戰。諒你也不敢。
-
-解鎖不可能模式。僅對大無畏敢死隊開放。諒你絕對不敢。
-
-在史詩戰鬥中擊敗巨大而非凡的頭目。這些頭目卑鄙而異常地巨大，他們決心要將你碾碎。鋼鐵戰隊，整裝待發！
-
-40+升級以提升你的戰略，同時授予你的部隊防禦無人機，凝固汽油彈火箭，反彈爆炸和更多的器械可使用。
-
-14位具有出色能力的英雄聽從你的調遣。將他們訓練到極致出色，否則惹惱他們後果自負。
-
-8種可向敵人發動進攻的特種武器，讓你的戰術更加具有深度。還有什麼比得上一個瞄準了的導彈？對50枚高爆炸炸彈的軌道炮襲擊！
-
-完成70+成就中的任何成就，贏得你應得的獎勵
-
-選擇你的遊戲困難模式，找到屬於你的公平挑戰：休閒，普通或老兵別太狂妄了要么狂妄一點你自己決定！！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/91/53/de9153dd-653c-e8dc-51bc-6018cc35b50b/822f0b37-135c-4b09-9398-ecfee027d5b1_2208x1242_5-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/0f/d0/dd0fd04e-8132-604b-b171-95e06bb4d947/10a8a69e-f126-42a4-a714-b44639c71873_2208x1242_2-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/92/a0/c6/92a0c67a-5879-3d40-806c-ce89c194d219/f5d557b2-8b0a-4455-ad54-5875200b2c8d_2208x1242_4-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/28/e7/4d/28e74d1f-45e3-ed64-8c76-d4896da280d5/cde13322-d468-47e7-9177-ceb7896d6312_2208x1242_3-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/df/e2/a9dfe293-f633-6816-68ae-427757d3147b/86f5d183-59aa-4c95-a352-24ddaba7a56c_2208x1242_1-zh-tw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/03/b0/4903b0aa-84e5-7831-74a9-ff27b26a4c36/zh-Hant_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/1c/4c/1c1c4c91-6498-642b-bd28-e41b25c17cff/zh-Hant_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0c/2b/0c/0c2b0cd6-35b7-eab2-3ab2-61fedd498c92/b176156c-a9ef-443c-bee6-bab7b3b4deec_2732x2048_5-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/b8/c7/87b8c771-def4-a791-0ac2-ce7eb6357da6/28f5abfd-8c06-4d7d-905d-cbcf17ab84b4_2732x2048_2-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d0/1d/19/d01d190e-fb08-b846-90f9-ea480098eb2a/08e24119-6757-4458-bf71-7240ac371ad1_2732x2048_4-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8b/6d/a1/8b6da151-ec81-d378-6819-fa6f22e35359/7a30a9d8-9199-46f9-a0cd-a4347dc443ee_2732x2048_3-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/d8/fc/c4d8fc7d-df71-7af4-0fff-aaf9e922332b/cb8b5eb0-e1a9-40c4-b17b-2996edfd9775_2732x2048_1-zh-tw.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d9/a2/98/d9a29891-b4aa-0bbc-b1b5-143d7b6275fe/63c64062-48e3-468a-b858-c6ac51462e29_2732x2048bb__U00281_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/31/a1/44/31a14474-cac1-e895-ec12-cb3b15330aae/47b0430f-a870-42ab-a94d-11fec7c5fa64_2732x2048bb.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be Focused Pro – 專工作學習番茄計時器]]></title>
-        <id>Be Focused Pro – 專工作學習番茄計時器-mo-1750612219274</id>
-        <link href="https://apps.apple.com/mo/app/be-focused-pro-%E5%B0%88%E5%B7%A5%E4%BD%9C%E5%AD%B8%E7%BF%92%E7%95%AA%E8%8C%84%E8%A8%88%E6%99%82%E5%99%A8/id953426154?uo=4"/>
-        <updated>2025-06-22T17:10:19.274Z</updated>
-        <summary type="html"><![CDATA[价格: USD 12.99 → USD 7.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/be-focused-pro-%E5%B0%88%E5%B7%A5%E4%BD%9C%E5%AD%B8%E7%BF%92%E7%95%AA%E8%8C%84%E8%A8%88%E6%99%82%E5%99%A8/id953426154?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/46/13/91461341-6b5e-0d9c-50ee-482695e71cd0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 12.99</span> → <b>
-  <strong>USD 7.99</strong>
-</b><span>[免費 ~ USD 12.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 7.99</b>
-</p><h2>应用描述</h2><p>
-  專注於任務對於我們這個綁定於螢幕的世代來說是一項真正的挑戰。Be Focused 透過將單個任務分解為不同的時間間隔，並由短暫的休息時間分隔，協助您完成工作。這是一種令人驚訝的有效方法，可保持動力和專注。建立任務、配置休息時間，並在一天、一週或自訂期間內追蹤您的進度。您可以在 iPhone、iPad 或 Mac 上使用 Be Focused — 所有內容都能完美同步。
-
-任務管理
-
-•	建立和管理任務
-•	為任務添加備註和截止日期
-•	使用標籤和篩選器組織任務
-•	從其他應用程式貼上任務清單
-
-計時器控制
-
-•	開始、暫停或跳過間隔
-•	自動開始下一個間隔（可選）
-•	規劃完成任務所需的間隔並追蹤準確性
-•	管理已完成的間隔
-
-計時器自訂
-
-•	設定工作時段、短暫休息和長時間休息的持續時間
-•	定義長時間休息前的間隔數量
-•	設定每日完成間隔的目標
-•	為各個任務分配不同的計時器設定
-
-報告
-
-•	查看詳細報告以監控您的進度
-•	將資料匯出為 CSV 格式
-
-聲音與通知
-
-•	可調整頻率的碼錶滴答聲
-•	多種鬧鐘聲音
-•	互動式通知
-•	可調整的鬧鐘和碼錶音量
-
-整合
-
-•	在所有裝置間同步（iPhone、iPad、Mac）*
-•	與 Focus Matrix 整合，使用緊急/重要原則管理任務 **
-•	與「快捷指令」App 整合，以自動化工作流程
-
-快速存取
-
-•	鎖定畫面和主畫面的小工具
-•	鎖定畫面和動態島的即時動態
-•	可從鎖定畫面、控制中心或動作按鈕啟動或停止計時器
-
-自動化
-
-•	與「快捷指令」App 整合（透過「快捷指令」App 控制任務和計時器）
-•	在 Be Focused App 中基於事件自動執行「快捷指令」
-
-裝置支援
-
-•	支援 Apple Watch
-•	也適用於 Mac
-•	支援深色和淺色模式
-
-* 與 Mac 同步需要另外購買 Be Focused Pro for macOS。
-** 與 Focus Matrix 的整合需要購買 Focus Matrix 的專業版。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/33/95/4b33956d-a4f2-b8da-3549-b2414d24f1da/69a82ba5-8722-4e67-8285-6e0feaa08121_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/4d/be/2e4dbe19-cf73-c940-1393-1b103c46265f/a834318d-3f1f-4ddf-87ff-3d7fc9d92282_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/75/04/9c/75049c7c-bb90-1942-33a3-7b41cb82b2c4/44dada14-ff4c-4301-8a80-aebbd9adfe3a_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/de/5e/ddde5e52-97b1-3777-ddbb-e6b1e4a9e70a/a4e99589-bad4-4759-a2f6-2aedfa711edf_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d5/8f/7c/d58f7cdd-1a90-271e-9672-bf543ae5b524/52679d96-1ed5-4862-aff9-295a9c600360_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ee/99/4e/ee994e16-ce02-c9be-90ab-2da335373a29/c35ee54d-2905-4c87-9f43-a0f4b04d3c42_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7c/3f/85/7c3f85fc-5ab6-d442-c11a-fd364e8097c9/955417b0-3338-4d37-a5c9-4a1c0f75db79_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/56/99/8c/56998c51-4100-64c5-af52-71124fd53345/16e7a05c-70c3-4940-9a0d-d20e8d100dd0_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c1/4b/25/c14b2585-e73a-4058-6f9d-5e01b144ba4e/241d3669-431b-4a69-8718-779a76927964_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/7a/68/4e7a683f-e070-e294-9ee5-1d9187bb1b4f/a0c76f1d-a5f2-485f-b370-2c2797d36e7e_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a8/51/50/a851506b-1725-88f8-43b1-09127720feb5/45c6cc33-c955-422b-95d1-6cf17cf9e23d_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ef/08/6b/ef086bb1-a007-d1e6-8977-32e982e91143/31c7c881-fa50-4969-907f-67f2eb86ebad_6.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

@@ -1,10 +1,13 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1173` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1176` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1176|1062515791|Automatic|❌|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|
+|1175|1631790409|Automatic|❌|Starri 星動旋律|Starri 星動旋律|Starri 星動旋律|Starri - Move to music|Starri - Move to music|
+|1174|6742321646|Automatic|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|
 |1173|1448849222|Automatic|❌|The Bonfire 2 Uncharted Shores|The Bonfire 2 Uncharted Shores|The Bonfire 2 Uncharted Shores|The Bonfire 2 Uncharted Shores|The Bonfire 2 Uncharted Shores|
 |1172|550101894|Automatic|高吉占星专业版Pro - 星座大师与运势解析|高吉占星 專業版Pro 星座占卜大師|高吉占星 專業版Pro 星座占卜大師|高吉占星 專業版Pro 星座占卜大師|高吉占星专业版 - 流年运势运程全解析|高吉占星专业版Pro - 星座大师与运势解析|
 |1171|1343590260|Automatic|Neutral Density Calculator|Neutral Density Calculator|Neutral Density Calculator|Neutral Density Calculator|Neutral Density Calculator|Neutral Density Calculator|
