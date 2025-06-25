@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-24T13:50:07.961Z</updated>
+    <updated>2025-06-25T04:45:09.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-24T13:50:07.961Z</updated>
+        <updated>2025-06-25T04:45:09.614Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrTue, 24 Jun 2025 13:50:07 GMT</id>
+        <id>rankingtrWed, 25 Jun 2025 04:45:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-24T13:50:07.961Z</updated>
+        <updated>2025-06-25T04:45:09.614Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -60,7 +60,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>970</b>
       </td>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>896</b>
       </td>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
     </tr>
   </tbody>
@@ -145,6 +145,29 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id1439187947">Rebel Inc.</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>4</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Command Pack</i>：<b>4</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
       </td>
       <td>
@@ -165,7 +188,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6739975257">TuneShift</a>
@@ -190,7 +213,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id904278510">Hitman Sniper</a>
@@ -213,7 +236,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id918609651">Money Pro: Personal Finance AR</a>
@@ -230,29 +253,6 @@ feedId:157008924688563200+userId:73658201673997312
                 <i>PLUS</i>：<b>3</b>
               </li><li>
                 <i>GOLD</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1439187947">Rebel Inc.</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>3</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Command Pack</i>：<b>3</b>
               </li>
             </ol>
           </li>
@@ -1515,7 +1515,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+        <a href="https://apps.apple.com/tr/app/id403684733">Badoo Premium</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1524,7 +1524,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1444761746">RFS - Real Flight Simulator</a>
+        <a href="https://apps.apple.com/tr/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1533,7 +1533,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
+        <a href="https://apps.apple.com/tr/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1542,7 +1542,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+        <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1551,16 +1551,16 @@ feedId:157008924688563200+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
+        <a href="https://apps.apple.com/tr/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
-      <td>Artificially Added</td>
+      <td>Automatically Added</td>
     </tr>
     <tr>
       <td>
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id533055404">Night Stars</a>
+        <a href="https://apps.apple.com/tr/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1569,7 +1569,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/tr/app/id533055404">Night Stars</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1578,7 +1578,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/tr/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1587,7 +1587,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1527841661">Sandbox Planet</a>
+        <a href="https://apps.apple.com/tr/app/id505904421">AirDisk Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1596,7 +1596,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id431033044">Phone Drive: File Storage Sync</a>
+        <a href="https://apps.apple.com/tr/app/id1527841661">Sandbox Planet</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1605,7 +1605,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id456637671">Safety Photo+Video Pro</a>
+        <a href="https://apps.apple.com/tr/app/id431033044">Phone Drive: File Storage Sync</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1614,7 +1614,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id818394449">Timeline - World history</a>
+        <a href="https://apps.apple.com/tr/app/id456637671">Safety Photo+Video Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1623,7 +1623,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/tr/app/id818394449">Timeline - World history</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1632,12 +1632,111 @@ feedId:157008924688563200+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id1485101937">Juice Watch</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id488674899">RAIN RADAR ° live weather maps</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebel Inc.]]></title>
+        <id>Rebel Inc.-tr-1750825421843</id>
+        <link href="https://apps.apple.com/tr/app/rebel-inc/id1439187947?uo=4"/>
+        <updated>2025-06-25T04:23:41.843Z</updated>
+        <summary type="html"><![CDATA[Command Pack: ₺499,99 → ₺399,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/rebel-inc/id1439187947?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/6c/d7/0a6cd718-9c73-0d42-201c-322904435830/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Command Pack：</strong><span>₺499,99</span> → <b>
+  <strong>₺399,99</strong>
+</b><span>[₺299,99 ~ ₺499,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺99,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Command Pack：<b>₺399,99</b>
+  </li><li>
+    Early Unlock Cheats：<b>₺449,99</b>
+  </li><li>
+    Drill Sergeant Unlock：<b>₺39,99</b>
+  </li><li>
+    All Advisors Unlock：<b>₺449,99</b>
+  </li><li>
+    Armchair Architect Unlock：<b>₺39,99</b>
+  </li><li>
+    Region Tour：<b>₺179,99</b>
+  </li><li>
+    Private Donor Unlock：<b>₺39,99</b>
+  </li><li>
+    Early Unlock Cheats (discount)：<b>₺229,99</b>
+  </li><li>
+    Campaign + Challenge：<b>₺229,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Can you stop the Insurgency? From the creator of Plague Inc. comes a unique and deeply engaging political/military strategic simulation. 
+
+The war is ‘over’ - but we all know that doesn’t mean anything. To stabilise the country, you need to balance military and civilian priorities to win the hearts and minds of the people, whilst also stopping insurgents from seizing power!
+
+Rebel Inc. is the brand new game from the creator of ‘Plague Inc.’ - one of the most popular paid games ever with over 130 million players. Brilliantly executed with beautiful graphics and critically acclaimed gameplay - Rebel Inc. offers a deeply engaging, strategic challenge inspired by the complexities and consequences of modern counter insurgency.
+
+◈◈◈ #1 top paid game globally ◈◈◈
+
+▶ “Rebel Inc. lets everyone wrestle with the messy challenges of post-conflict recovery and better understand the complex realities of building peace.” - World Bank Global Lead for Stability, Peace and Security
+▶ "Highly rewarding spiritual sequel to one of the App Store's biggest hits." - Pocket Tactics
+▶ "Surprisingly sophisticated... even better than some of the stabilization training software I have seen in government use" - PAXsims
+▶ "Rebel Inc. is fascinating and fun" - 148Apps.com
+▶ "Another great game and a worthy successor to Plague Inc" - App Store review
+▶ "If you love strategy games then this is the game for you" - App Store review
+▶ "Brilliant game, the gameplay is interesting and the strategy is intuitive!" - App Store review
+▶ "Unlike anything I’ve played on here before" - App Store review
+
+◈◈◈
+
+Features:
+● Stabilise 9 richly modeled regions
+● Innovative representation of counter insurgency tactics 
+● Fund realistic initiatives to empower the local government
+● Highly detailed, hyper-realistic world based on extensive research
+● Intelligent strategic and tactical AI
+● Sophisticated narrative algorithms shaped by your decisions
+● 8 unique governors with radically different abilities
+● Conduct large-scale Operations in Campaign mode
+● Play new generated Challenges every week
+● 13 Official Scenarios including disease outbreaks, helicopters and advanced insurgents
+● Comprehensive in-game help and tutorial system
+● Full Save/Load functionality
+● Internet connectivity not required
+
+An important note:
+Although a fictional game, Rebel Inc. looks at important real world issues and we have made every effort to deal with them sensitively. The game has been extensively researched and has been developed in cooperation with leading regional politicians, business people and journalists as well as international charities, experts and governments.
+
+Rebel Inc. is now fully localised in English, French, German, Spanish, Portuguese, Italian, Korean, Japanese, Chinese (Simplified and Traditional), and Russian.
+
+Special sale price to celebrate the launch of the game!
+
+◈◈◈
+
+I’ve got lots of plans for updates! Get in touch and let me know what you want to see.
+James (the designer)
+
+Contact me here:
+www.ndemiccreations.com/en/1-support
+
+Follow me on Twitter: 
+www.twitter.com/NdemicCreations
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/01/ac/bf/01acbf55-8aba-e7a6-8aaa-169e4d61d921/mzl.zjhgfhyn.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/47/af/a1/47afa172-dcdb-dc38-7843-af63b6ed7db1/mzl.sutvyeyx.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/bd/83/7dbd83ee-3b37-bcd5-798c-098b58ec05a9/mzl.cmcdwpru.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/09/5f/26095faf-3665-f710-a832-d6cd04527eb8/mzl.rxddpmpj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/48/26/fd/4826fd88-24af-dedd-92c3-a7b44a1eccbc/mzl.juoelgkv.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/55/a9/2f55a9c8-0ff3-e878-792a-6e8b8c883b6c/mzl.ridbminh.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b0/a7/1b/b0a71b3a-087d-ea07-00d5-bdfb360f68cf/mzl.lrmqfiug.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/27/16/7c271615-3826-3b50-d517-648363ed6bea/mzl.xsjtsvap.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/42/83/e9/4283e969-23ff-29bb-3a70-bc34010b668d/mzl.sjfxcasz.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/df/eb/19/dfeb1905-e13e-b2b8-2fec-4329b8143c32/mzl.heagngcs.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/07/5d/cd/075dcd00-6c2c-2f31-55af-e54b861f3a9b/mzl.fhjsauty.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/48/8f/ec488f4e-1472-bcba-2f0b-43dfe551b11e/mzl.vtvrpchu.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Luwian]]></title>
@@ -2355,75 +2454,5 @@ War never changes. In 1985 USSR went down before an unknown enemy. In a few days
 
 User agreement: http://tltgames.ru/license-agreement-en
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/90/cf/0690cf73-1247-f835-15f7-cba623e19edc/1aecd46d-7ce9-4d81-9254-f628456425f6_Premium_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/36/f3/1536f3f6-01ce-9d22-4a93-7c889e80169f/09283753-f39d-41a1-a45c-a7b4e867dbc8_1_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/d3/6c/4dd36ca1-e042-b715-68bc-a5e4424fefd4/7ac799fd-b463-489a-8852-6fe660cc8d23_2_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2b/6b/3e/2b6b3e51-7ff3-a731-3d71-60a6d3976f44/d21e96ef-0353-43b6-9539-930d16b25c30_7_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/38/88/133888c3-3156-e830-a8da-6c0b8ef4b4a3/f7cfb957-6f62-424f-892c-2aca9a521791_3_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c5/cd/d2/c5cdd2ce-4318-1ede-6e82-41078196699e/d5e07146-2bb5-4e91-a9fa-b47115572314_4_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/e4/52/43e452a4-9079-5620-938f-4248f571ad3f/31d40a46-fdda-4684-a8f8-574a13cd83ae_5_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/c3/62/64c362cf-6d16-57e3-d981-964ebf8a7de9/392e8dcd-788c-43d3-ab8e-8a47b6e0bf78_6_en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/81/97/04/81970402-ffcd-b543-eb29-a5def3c23dff/ea5affda-de2e-4178-8d42-0abc18bce379_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/1b/a4/e91ba456-6548-115e-1d6a-5f31469aa27f/b57105d1-c058-481c-9008-6239d912b164_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/fc/d5/09fcd512-30de-f8ca-beaf-59367621c593/57245464-4ab4-4aca-85e8-dbe65afa71ae_Premium_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/94/32/4b943220-f995-7db5-99cd-7b037a58e291/0d67567b-fb97-4977-9bdf-f01902998a39_1_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/b9/3d/2cb93d5d-72aa-b278-d25f-cd322a95f96d/3fc94b42-ea47-42e4-a8a8-b2e85d29602c_2_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/a2/cc/a2a2cc70-edf9-ae7d-1be7-fe35d6cab765/c211749e-8593-4699-84cd-3cddb3820ef7_7_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d0/47/f4/d047f41e-562e-8192-efa2-a5a1ffdae62c/0f095350-5f04-4bf9-aa2e-2a62e5544f5d_3_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/33/cb/a2/33cba21c-0968-a18b-f647-77d7e57f8297/5f51ada7-eae5-4631-b4b5-d6b1822158e0_4_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ba/9f/bf/ba9fbf20-5eb7-c07a-3af5-86d8fdb3438d/084f61e7-8001-44e5-a622-f7010273991a_5_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/8a/93/a78a93ca-2b68-084e-e956-6e02882a5009/4b0f2b43-fddf-4124-a341-ca895b5a41b0_6_en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/61/66/ac616636-9b7e-985e-217e-b33e81c0f562/39947d08-9a25-4897-a887-06e31ecb8eff_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/09/c2/7809c277-e401-4b9f-1c32-dc945aa0bf71/a2c7551f-3f9e-443b-ad53-2cb0dd304dd0_9.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All In One Memo]]></title>
-        <id>All In One Memo-tr-1750547503588</id>
-        <link href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4"/>
-        <updated>2025-06-21T23:11:43.588Z</updated>
-        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺179,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺179,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controller for HomeKit]]></title>
-        <id>Controller for HomeKit-tr-1750518692058</id>
-        <link href="https://apps.apple.com/tr/app/controller-for-homekit/id1198176727?uo=4"/>
-        <updated>2025-06-21T15:11:32.058Z</updated>
-        <summary type="html"><![CDATA[Lifetime license: ₺4.499,99 → ₺1.499,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/controller-for-homekit/id1198176727?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/e4/1b/47e41be0-0780-f252-74e8-25a185499bf0/AppIcon-1-0-1x_U007epad-0-9-0-P3-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Lifetime license：</strong><span>₺4.499,99</span> → <b>
-  <strong>₺1.499,99</strong>
-</b><span>[₺1.499,99 ~ ₺4.499,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    PRO yearly subscription：<b>₺1.499,99</b>
-  </li><li>
-    Lifetime license：<b>₺1.499,99</b>
-  </li><li>
-    Monthly Subscription：<b>₺109,99</b>
-  </li><li>
-    Yearly Subscription：<b>₺459,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Experience and control your Apple Home in a whole new way with Controller for HomeKit. Our app combines all the familiar HomeKit features with numerous additional enhancements, offering you a user-friendly interface, unparalleled control, and flexibility.
-
-* FLOOR PLAN: Create a detailed floor plan of your home using the LiDAR sensor on your iPhone or iPad and control your HomeKit accessories directly through the floor plan.
-* COMPLEX AUTOMATIONS: Utilize advanced triggers and conditions for custom automations that are perfectly tailored to your needs.
-* NOTIFICATIONS: Create custom notifications to stay informed about important events in your home.
-* BACKUPS: Secure your setup and restore it easily when needed.
-* SMART FOLDERS: Organize your devices and automations effortlessly with smart folders and custom filters.
-* WORKFLOWS: Optimize your daily routines with workflows that go beyond the capabilities of Apple Home.
-* SETUP CODES: Securely store your HomeKit and Matter codes in the app, so they are always at hand and never lost.
-* MAINTENANCE: Keep track of your setup, quickly identifying which batteries need to be replaced, which devices are unreachable, or which automations are broken.
-* LOGS: Monitor all activities and changes in your smart home.
-* WIDGETS: Control your devices faster and easier with convenient widgets or quickly jump into your floor plan.
-
-Unlock the full potential of your smart home with Controller for HomeKit. Download the app now and experience how simple and intuitive home automation can be.
-
-For more information, visit our website: https://www.controllerforhomekit.com
-
-Privacy Policy: 
-https://controllerforhomekit.com/privacy-en/
-
-Terms of Use: 
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/89/99/eb8999ec-0245-1c15-b1f5-ea49fe930c76/35282cae-390d-47d8-b4f7-1a944a3d5e17_01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/0c/cf/e10ccf7f-19f1-b1e5-ed88-89937558835e/ae93a330-3a1f-4ff0-b3ef-7a8c5f0aff49_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/cb/9d/5bcb9d06-e422-39b0-ce03-517abfe60fc4/e404657a-bc5f-446a-aebd-175624200d84_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/94/00/d0940019-0b83-57ae-199c-297416c5d5fc/83b8bddc-13b1-4a9c-a491-3cbd63ff07b2_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/34/19/ad3419f6-46fa-e2ab-48ef-d488829fff05/067b78fc-d797-4a3c-8f61-fb5fedcec1a2_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/69/b1/8769b11d-34b5-619c-fed4-6c2386119bec/fc27cfc1-733c-4b5d-baca-3285406cf137_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ea/fb/fceafb4c-5ae1-892f-6c1a-d066b24c4591/40bf8022-4191-4fc4-9df7-c08c350b8429_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/b5/ae9ab58f-37ac-be22-134a-f256723563f0/bbc81b0a-825a-4865-9d1f-1b6135a6f255_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/fc/74/c2fc748b-3248-b9d3-cf01-fa4bbd341050/c4cdf412-7fd9-4e50-b3a9-115ca0a7149c_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/ce/ec/e5ceec46-bf19-6035-ee14-0972f0a1892a/a3e7ea1b-4fad-4f81-907a-57bb3ca08a63_10.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
