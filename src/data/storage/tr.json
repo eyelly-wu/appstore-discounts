@@ -30626,7 +30626,9 @@
       "Classic Reverend Green": "₺129,99",
       "Classic Professor Plum": "₺129,99",
       "London": "₺179,99",
-      "Vampire Castle": "₺179,99"
+      "Vampire Castle": "₺179,99",
+      "Venetian palace": "₺179,99",
+      "Snowy Peaks": "₺179,99"
     },
     "minPriceInfo": {
       "price": 299.99,
@@ -30653,10 +30655,29 @@
       "Classic Reverend Green": "₺129,99",
       "Classic Professor Plum": "₺129,99",
       "London": "₺179,99",
-      "Vampire Castle": "₺179,99"
+      "Vampire Castle": "₺179,99",
+      "Venetian palace": "₺179,99",
+      "Snowy Peaks": "₺179,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750878552395,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Super Yacht": "₺179,99",
+            "Venetian palace": "₺179,99",
+            "London": "₺179,99",
+            "Snowy Peaks": "₺179,99",
+            "Murder Express train station": "₺179,99",
+            "Vampire Castle": "₺179,99",
+            "Ultimate Detective's Package": "₺1.499,99",
+            "Sherlock Theme": "₺299,99",
+            "Vampire Theme": "₺299,99",
+            "Snowy Peaks Theme": "₺299,99"
+          }
+        },
         {
           "timestamp": 1750835639735,
           "price": 299.99,
@@ -43810,6 +43831,25 @@
       "Jin Token": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750878552395,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "Orient Express": "₺129,99",
+            "New York 2121 Board": "₺249,99",
+            "The Complete Collection": "₺1.499,99",
+            "Champions Token Bundle": "₺299,99",
+            "Victorian London Board": "₺249,99",
+            "Theme Collection": "₺999,99",
+            "Cherry Blossom Tokyo Board": "₺249,99",
+            "Big Cities USA Explorer Pack": "₺99,99",
+            "American Roadtrips Expl. Pack": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750726953860,
