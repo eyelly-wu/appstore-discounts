@@ -844,6 +844,23 @@
     "history": [
       [
         {
+          "timestamp": 1750864445242,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "HK$ 48.00",
+            "Harp Sweeteners": "HK$ 48.00",
+            "Tuning Tools": "HK$ 88.00",
+            "Harmonic Tuning": "HK$ 148.00",
+            "Extended Frequency Modes": "HK$ 38.00",
+            "Full Discounted Upgrade Pack": "HK$ 488.00",
+            "Orchestral Sweeteners": "HK$ 48.00",
+            "Buzz Feiten Pack": "HK$ 48.00",
+            "Harmonica Sweeteners": "HK$ 88.00",
+            "World Sweetener Pack": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1750860787382,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -48886,6 +48903,16 @@
       "Card.Note Premiun": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750864445242,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750054807863,
