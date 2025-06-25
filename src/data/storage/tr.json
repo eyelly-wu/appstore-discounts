@@ -24548,7 +24548,8 @@
       "1-Year SVIP": "₺599,99",
       "Annual Special SVIP": "₺599,99",
       "500 Conversations": "₺449,99",
-      "90 Days SVIP": "₺129,99"
+      "90 Days SVIP": "₺129,99",
+      "SVIP auto-renew quarterly": "₺179,99"
     },
     "minPriceInfo": {
       "price": 599.99,
@@ -24562,9 +24563,25 @@
       "1-Year SVIP": "₺499,99",
       "Annual Special SVIP": "₺499,99",
       "500 Conversations": "₺449,99",
-      "90 Days SVIP": "₺129,99"
+      "90 Days SVIP": "₺129,99",
+      "SVIP auto-renew quarterly": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750871549179,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "₺29,99",
+            "SVIP auto-renew yearly": "₺399,99",
+            "SVIP auto-renew quarterly": "₺179,99",
+            "90 Days SVIP": "₺129,99",
+            "Annual Special SVIP": "₺599,99",
+            "545 Days SVIP": "₺599,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749496209231,
@@ -40873,6 +40890,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750871549179,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Teammate Package#2": "₺229,99",
+            "Bronze Decree": "₺1.199,99",
+            "Heroic Package#3": "₺2.299,99",
+            "Role Package III": "₺449,99",
+            "Suit Package": "₺1.299,99",
+            "Teammate Package": "₺229,99",
+            "Role Package": "₺129,99",
+            "Heroic Package#2": "₺449,99",
+            "Heroic Package#1": "₺449,99",
+            "Resource Package": "₺129,99"
+          }
+        },
         {
           "timestamp": 1750868175370,
           "price": 4.99,
@@ -58720,16 +58754,34 @@
       "formattedPrice": "Free",
       "Lifetime": "₺1.299,99",
       "1 Month": "₺59,99",
-      "1 Year": "₺199,99"
+      "1 Year": "₺199,99",
+      "Yearly VIP": "₺199,99",
+      "Monthly VIP": "₺59,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "Lifetime": "₺499,99",
       "1 Month": "₺59,99",
-      "1 Year": "₺199,99"
+      "1 Year": "₺199,99",
+      "Yearly VIP": "₺199,99",
+      "Monthly VIP": "₺59,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750871549179,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺1.299,99",
+            "Yearly VIP": "₺199,99",
+            "Monthly VIP": "₺59,99",
+            "1 Year": "₺199,99",
+            "1 Month": "₺59,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -64860,6 +64912,16 @@
       "Premium Features": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750871549179,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Premium Features": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750648874826,
