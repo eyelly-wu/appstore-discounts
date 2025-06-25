@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-24T23:34:14.062Z</updated>
+    <updated>2025-06-25T05:37:02.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-24T23:34:14.064Z</updated>
+        <updated>2025-06-25T05:37:02.473Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkTue, 24 Jun 2025 23:34:14 GMT</id>
+        <id>rankinghkWed, 25 Jun 2025 05:37:02 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-24T23:34:14.064Z</updated>
+        <updated>2025-06-25T05:37:02.473Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -122,6 +122,31 @@ feedId:157008141708743680+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>4</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>超大型金錢包</i>：<b>4</b>
+              </li><li>
+                <i>新手包</i>：<b>4</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id1238247658">Cluedo: Classic Edition</a>
       </td>
       <td>
@@ -142,7 +167,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6446178861">PlayNav - 影片內無廣告！</a>
@@ -157,31 +182,6 @@ feedId:157008141708743680+userId:73658201673997312
             <span>App 內購買項目</span><ol>
               <li>
                 <i>高級功能</i>：<b>4</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/hk/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買項目</span><ol>
-              <li>
-                <i>超大型金錢包</i>：<b>3</b>
-              </li><li>
-                <i>新手包</i>：<b>3</b>
               </li>
             </ol>
           </li>
@@ -1642,6 +1642,60 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刺客任務：狙擊 (Hitman Sniper)]]></title>
+        <id>刺客任務：狙擊 (Hitman Sniper)-hk-1750828493904</id>
+        <link href="https://apps.apple.com/hk/app/%E5%88%BA%E5%AE%A2%E4%BB%BB%E5%8B%99-%E7%8B%99%E6%93%8A-hitman-sniper/id904278510?uo=4"/>
+        <updated>2025-06-25T05:14:53.904Z</updated>
+        <summary type="html"><![CDATA[超大型金錢包: HK$ 88.00 → HK$ 58.00<br/>新手包: HK$ 38.00 → HK$ 22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E5%88%BA%E5%AE%A2%E4%BB%BB%E5%8B%99-%E7%8B%99%E6%93%8A-hitman-sniper/id904278510?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/45/148a45a9-62c8-15ca-baa4-1050b9952fb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>超大型金錢包：</strong><span>HK$ 88.00</span> → <b>
+  <strong>HK$ 58.00</strong>
+</b><span>[HK$ 58.00 ~ HK$ 88.00]</span>
+  </li><li>
+    <strong>新手包：</strong><span>HK$ 38.00</span> → <b>
+  <strong>HK$ 22.00</strong>
+</b><span>[HK$ 22.00 ~ HK$ 38.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 8.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    Limited Time Offer：<b>HK$ 118.00</b>
+  </li><li>
+    超大型代幣包：<b>HK$ 88.00</b>
+  </li><li>
+    超大型金錢包：<b>HK$ 58.00</b>
+  </li><li>
+    促銷包：<b>HK$ 188.00</b>
+  </li><li>
+    新手包：<b>HK$ 22.00</b>
+  </li><li>
+    中型金錢包：<b>HK$ 32.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  成為終極無聲殺手
+進入《Hitman Sniper》，扮演探員 47（Agent 47），體驗最震撼的狙擊手遊。
+
+黑山共和國的戰略任務
+磨練策略技巧，精心策劃一場完美暗殺。
+
+死亡谷挑戰模式
+準備迎接無窮的動作考驗，測試你的僵屍獵人技巧和射擊速度。
+
+超過 150 個任務和 10 份合同
+揭露秘密與詭計，精進你的完美暗殺技巧。
+
+16 種獨一無二的槍砲
+消滅目標、收集武器零件，完成設計突擊可解鎖最強大的槍砲。
+
+與好友一較高下，競逐排行榜冠軍
+衝高分數，升上合同殺手排行第一名，成為全世界最出色的無聲殺手。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/f5/14/4ff514b0-f939-df13-8087-84bd3217e009/mzl.bzdlkeau.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/12/32/43/123243f6-2ada-46b6-9d40-ef5d52b2c8c2/mzl.stqiidrz.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/64/69/52/6469521c-8e46-de39-d39d-f26221900223/mzl.zczjlcvd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/af/3a/f4/af3af49d-e212-394a-aff8-e2b62d4f586b/mzl.qnyhsiqe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/a0/f6/6ea0f61c-0214-ff61-ca59-542f41383ef1/mzl.jluxebmf.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/70/d1/ba70d194-83d5-194f-cb52-8de9fcf5d781/mzl.evgrgmwz.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/25/e2/2a25e257-0979-20b7-48cc-f5798fb338bf/mzl.etsyiapq.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/e7/88/cae78850-19a1-d2fc-a4d8-3777b03245f4/mzl.zybyctyl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/45/0c/a1/450ca19e-b8ef-e8d7-a9cc-66dd9dbd8f89/mzl.ldamlibv.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/81/a9/d381a9b2-4758-8ac9-e361-3e6ada871f3b/mzl.pftqxiws.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[刺客任務：狙擊 (Hitman Sniper)]]></title>
