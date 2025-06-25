@@ -2602,6 +2602,23 @@
     "history": [
       [
         {
+          "timestamp": 1750813387088,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$0.99",
+            "Portland HipstaPak": "$0.99",
+            "Shibuya HipstaPak": "$0.99",
+            "Camden HipstaPak": "$0.99",
+            "Mission Hipstapak": "$0.99",
+            "Soho HipstaPak": "$0.99",
+            "Bondi HipstaPak": "$0.99",
+            "Wicker Park HipstaPak": "$0.99",
+            "RetroPak One": "$1.99",
+            "Dali GoodPak": "$0.99"
+          }
+        },
+        {
           "timestamp": 1750806730921,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -27790,6 +27807,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750813387088,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "[A heap of crystals]": "$0.99",
+            "[A box of crystals]": "$2.99",
+            "[A package of crystals]": "$3.99",
+            "[A big package of crystals]": "$9.99",
+            "[A chest of crystals]": "$19.99",
+            "Coupon of the Greedy Cave": "$2.99",
+            "Package4": "$9.99",
+            "[A big chest of crystals]": "$49.99"
+          }
+        },
         {
           "timestamp": 1750806730921,
           "price": 0.99,
@@ -62312,6 +62344,25 @@
     "history": [
       [
         {
+          "timestamp": 1750813387088,
+          "price": 15.99,
+          "formattedPrice": "$15.99",
+          "inAppPurchases": {
+            "Minor Swing Ⅱ-Ⅴ-Ⅰ-Ⅵ 12key(L)": "$4.99",
+            "Antonio Carlos Jobim SongBookⅡ": "$5.99",
+            "Sing like Chet": "$6.99",
+            "Antonio Carlos Jobim Book Ⅰ.": "$5.99",
+            "Latin Jazz Song Book (Cuban)": "$5.99",
+            "Film Music Repertoire": "$4.99",
+            "Art Blakey&The Jazz Messengers": "$4.99",
+            "Benny Green Songbook": "$4.99",
+            "One Chord Funk (Dominant7th)": "$4.99",
+            "Essential Wayne Shorter": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750522433551,
           "price": 15.99,
           "formattedPrice": "$15.99",
@@ -78890,6 +78941,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750813387088,
+          "price": 59.99,
+          "formattedPrice": "$59.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1750785209219,
           "price": 59.99,
