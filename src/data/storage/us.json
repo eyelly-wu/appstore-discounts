@@ -85352,8 +85352,8 @@
   "6483862844": {
     "name": "Sky Band",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "$19.99",
+      "price": 39.99,
+      "formattedPrice": "$39.99",
       "Semi-annual Pro Membership": "$9.99",
       "Annual Ultra Membership": "$19.99",
       "Quarterly Ultra Membership": "$4.99",
@@ -85380,6 +85380,25 @@
       "Monthly Pro Membership": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750944476419,
+          "price": 39.99,
+          "formattedPrice": "$39.99",
+          "inAppPurchases": {
+            "Semi-annual Pro Membership": "$9.99",
+            "Annual Ultra Membership": "$19.99",
+            "Quarterly Ultra Membership": "$4.99",
+            "Monthly Ultra Membership": "$2.99",
+            "80 Candles": "$6.99",
+            "30 Candles": "$2.99",
+            "20 Candles": "$1.99",
+            "10 Candles": "$0.99",
+            "Quarterly Pro Membership": "$3.99",
+            "Monthly Pro Membership": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750789057348,

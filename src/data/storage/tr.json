@@ -65271,8 +65271,8 @@
   "6483862844": {
     "name": "Sky Band",
     "maxPriceInfo": {
-      "price": 899.99,
-      "formattedPrice": "₺899,99",
+      "price": 1799.99,
+      "formattedPrice": "₺1.799,99",
       "Semi-annual Pro Membership": "₺449,99",
       "Annual Ultra Membership": "₺899,99",
       "Quarterly Ultra Membership": "₺229,99",
@@ -65299,6 +65299,25 @@
       "Monthly Pro Membership": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750944476419,
+          "price": 1799.99,
+          "formattedPrice": "₺1.799,99",
+          "inAppPurchases": {
+            "Semi-annual Pro Membership": "₺449,99",
+            "Annual Ultra Membership": "₺899,99",
+            "Quarterly Ultra Membership": "₺229,99",
+            "Monthly Ultra Membership": "₺129,99",
+            "80 Candles": "₺299,99",
+            "30 Candles": "₺129,99",
+            "20 Candles": "₺99,99",
+            "10 Candles": "₺39,99",
+            "Quarterly Pro Membership": "₺179,99",
+            "Monthly Pro Membership": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750785209219,
