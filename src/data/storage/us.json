@@ -22590,6 +22590,23 @@
     "history": [
       [
         {
+          "timestamp": 1750975928097,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Box of Sunshine Elixir": "$1.99",
+            "Bottle of Sunshine Elixir": "$0.99",
+            "Small pot of Crystal": "$4.99",
+            "Large bag of Crystal": "$10.99",
+            "Shovelful of Crystal": "$0.99",
+            "Cartful of Crystal": "$21.99",
+            "Advanced Bonus Pack": "$6.99",
+            "Deluxe Pack": "$18.99",
+            "Select Pack": "$12.99",
+            "Elite Package": "$9.99"
+          }
+        },
+        {
           "timestamp": 1750972321338,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -28252,6 +28269,18 @@
     "history": [
       [
         {
+          "timestamp": 1750975928097,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Coupon of the Greedy Cave": "$0.99",
+            "Package8": "$49.99",
+            "Package7": "$29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750825421843,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -32195,6 +32224,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750975928097,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Subscription (1 year)": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac #5": "$99.99"
+          }
+        },
         {
           "timestamp": 1750968834747,
           "price": 0,
