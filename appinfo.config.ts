@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6745999173,
+    name: {
+      cn: '圆桌三国-三国休闲卡牌',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6746633753,
     name: {
       tr: 'Yōkai Retreat SP Yin Yang-Sama',
