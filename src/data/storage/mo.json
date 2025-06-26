@@ -12747,6 +12747,25 @@
     "history": [
       [
         {
+          "timestamp": 1750911731426,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "USD 0.99",
+            "Classic Tack Tower Skin": "USD 1.99",
+            "Classic Super Monkey Skin Sale": "USD 0.99",
+            "Classic Super Monkey Skin": "USD 1.99",
+            "Classic Ice Tower Skin Sale": "USD 0.99",
+            "Classic Ice Tower Skin": "USD 1.99",
+            "Classic Bomb Tower Skin Sale": "USD 0.99",
+            "Classic Bomb Tower Skin": "USD 1.99",
+            "Classic Dart Monkey Skin Sale": "USD 0.99",
+            "Classic Dart Monkey Skin": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748386936952,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -58807,7 +58826,7 @@
     ]
   },
   "6456751953": {
-    "name": "ChatTan - AI Bot",
+    "name": "MyTan - AI Bot",
     "maxPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29",

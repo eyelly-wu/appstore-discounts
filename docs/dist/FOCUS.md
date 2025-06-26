@@ -929,7 +929,7 @@ So far, we've covered `6` `Countries or Regions` and  `1177` `Apps` <br />Push n
 |256|6452276410|Automatic|❌|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|
 |255|6471479898|Automatic|猫历 - 可爱清新日历和日程表提醒事项|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：Schedule Planner|Cat Calendar：Schedule Planner|
 |254|6738371720|Automatic|❌|銀盤滑冰場物語|銀盤滑冰場物語|銀盤滑冰場物語|Skating Rink Story|Skating Rink Story|
-|253|6456751953|Automatic|❌|ChatTan - AI Bot|ChatTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|
+|253|6456751953|Automatic|❌|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|
 |252|6469114836|Automatic|❌|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|Suika Game-Aladdin X|Suika Game-Aladdin X|
 |251|6743648252|Automatic|❌|終焉車站|終焉車站|終焉車站|Saihate Station|Saihate Station|
 |250|6738636631|Automatic|❌|烈焰同盟|❌|烈焰同盟|❌|❌|

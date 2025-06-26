@@ -929,7 +929,7 @@
 |256|6452276410|自动|❌|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|
 |255|6471479898|自动|猫历 - 可爱清新日历和日程表提醒事项|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：Schedule Planner|Cat Calendar：Schedule Planner|
 |254|6738371720|自动|❌|銀盤滑冰場物語|銀盤滑冰場物語|銀盤滑冰場物語|Skating Rink Story|Skating Rink Story|
-|253|6456751953|自动|❌|ChatTan - AI Bot|ChatTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|
+|253|6456751953|自动|❌|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|
 |252|6469114836|自动|❌|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|Suika Game-Aladdin X|Suika Game-Aladdin X|
 |251|6743648252|自动|❌|終焉車站|終焉車站|終焉車站|Saihate Station|Saihate Station|
 |250|6738636631|自动|❌|烈焰同盟|❌|烈焰同盟|❌|❌|
