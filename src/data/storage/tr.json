@@ -62617,7 +62617,7 @@
     ]
   },
   "6456751953": {
-    "name": "ChatTan - AI Bot",
+    "name": "MyTan - AI Bot",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99",
@@ -63855,6 +63855,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750907593064,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Pennsylvania Carriage B": "₺99,99",
+            "Pennsylvania Locomotive B": "₺99,99",
+            "Pennsylvania Locomotive A": "₺99,99",
+            "Pennsylvania Carriage A": "₺99,99",
+            "Pennsylvania Character A": "₺99,99",
+            "Pennsylvania Character B": "₺99,99",
+            "Germany Carriage B": "₺99,99",
+            "Germany Carriage A": "₺99,99",
+            "Germany Locomotive B": "₺99,99",
+            "Germany Locomotive A": "₺99,99"
+          }
+        },
         {
           "timestamp": 1750893134975,
           "price": 229.99,
@@ -70065,6 +70082,31 @@
           "price": 249.99,
           "formattedPrice": "₺249,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746633753": {
+    "name": "Yōkai Retreat SP Yin Yang-Sama",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99",
+      "Diamonds": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99",
+      "Diamonds": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750907593064,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Diamonds": "₺99,99"
+          }
         }
       ]
     ]

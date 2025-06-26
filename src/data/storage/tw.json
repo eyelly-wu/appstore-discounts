@@ -78673,7 +78673,7 @@
     ]
   },
   "6456751953": {
-    "name": "ChatTan - AI Bot",
+    "name": "MyTan - AI Bot",
     "maxPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00",
@@ -80814,6 +80814,25 @@
       "Germany Locomotive A": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750907593064,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Pennsylvania Carriage B": "$60.00",
+            "Pennsylvania Locomotive B": "$60.00",
+            "Pennsylvania Locomotive A": "$60.00",
+            "Pennsylvania Carriage A": "$60.00",
+            "Pennsylvania Character A": "$60.00",
+            "Pennsylvania Character B": "$60.00",
+            "Germany Carriage B": "$60.00",
+            "Germany Carriage A": "$60.00",
+            "Germany Locomotive B": "$60.00",
+            "Germany Locomotive A": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750576337571,

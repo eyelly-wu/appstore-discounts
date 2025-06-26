@@ -1,10 +1,11 @@
 
 # 关注焦点
-当前已收录 `6` 个 `国家或地区` 和 `1176` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `6` 个 `国家或地区` 和 `1177` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br />如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br />目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1177|6746633753|自动|❌|Yōkai Retreat SP Yin Yang-Sama|❌|❌|❌|Yōkai Retreat SP Yin Yang-Sama|
 |1176|1062515791|自动|❌|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|
 |1175|1631790409|自动|❌|Starri 星動旋律|Starri 星動旋律|Starri 星動旋律|Starri - Move to music|Starri - Move to music|
 |1174|6742321646|自动|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|
@@ -928,7 +929,7 @@
 |256|6452276410|自动|❌|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|
 |255|6471479898|自动|猫历 - 可爱清新日历和日程表提醒事项|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：Schedule Planner|Cat Calendar：Schedule Planner|
 |254|6738371720|自动|❌|銀盤滑冰場物語|銀盤滑冰場物語|銀盤滑冰場物語|Skating Rink Story|Skating Rink Story|
-|253|6456751953|自动|❌|ChatTan - AI Bot|ChatTan - AI Bot|ChatTan - AI Bot|ChatTan - AI Bot|ChatTan - AI Bot|
+|253|6456751953|自动|❌|ChatTan - AI Bot|ChatTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|
 |252|6469114836|自动|❌|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|Suika Game-Aladdin X|Suika Game-Aladdin X|
 |251|6743648252|自动|❌|終焉車站|終焉車站|終焉車站|Saihate Station|Saihate Station|
 |250|6738636631|自动|❌|烈焰同盟|❌|烈焰同盟|❌|❌|

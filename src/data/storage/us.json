@@ -15963,6 +15963,23 @@
     "history": [
       [
         {
+          "timestamp": 1750907593064,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bonehart": "$4.99",
+            "Ashbite": "$4.99",
+            "Sha'tra": "$0.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$0.99",
+            "Dante": "$2.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$2.99"
+          }
+        },
+        {
           "timestamp": 1750825421843,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -23547,8 +23564,8 @@
       "Hero Pack 9": "$7.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 0.99,
+      "formattedPrice": "$0.99",
       "Faustus": "$4.99",
       "Vez'nan": "$2.99",
       "Bravebark": "$2.99",
@@ -23569,6 +23586,25 @@
       "Hero Pack 9": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750907593064,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Faustus": "$4.99",
+            "Vez'nan": "$2.99",
+            "Bravebark": "$2.99",
+            "Phoenix": "$4.99",
+            "Reg'son": "$0.99",
+            "Bruce": "$2.99",
+            "Special Offer Faustus": "$4.99",
+            "Prince Denas": "$0.99",
+            "Wilbur": "$4.99",
+            "Xin": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750763473770,
@@ -30646,6 +30682,14 @@
     "history": [
       [
         {
+          "timestamp": 1750907593064,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750302768824,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -30720,8 +30764,8 @@
       "Hero Trabuco": "$2.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 0.99,
+      "formattedPrice": "$0.99",
       "Hero Mark X": "$4.99",
       "Special Pack 4": "$14.99",
       "Special Pack 2": "$3.99",
@@ -30739,6 +30783,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750907593064,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Hero Mark X": "$6.99",
+            "Special Pack 4": "$14.99",
+            "Special Pack 2": "$3.99",
+            "Hero Blue Dragon": "$6.99",
+            "Special Pack 5": "$4.99",
+            "Hero Dr.Graff": "$4.99",
+            "Hero Fate": "$2.99",
+            "Hero Ajax": "$2.99",
+            "Starter Pack": "$4.99",
+            "Hero Sha'Tra": "$4.99"
+          }
+        },
         {
           "timestamp": 1750839507387,
           "price": 2.99,
@@ -37242,6 +37303,25 @@
     "history": [
       [
         {
+          "timestamp": 1750907593064,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$4.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$2.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Hero Tank": "$3.99",
+            "Tower Deep Devil's Reef": "$0.99",
+            "Tower Grim Cemetery": "$0.99",
+            "Pirate Kings Campaign!": "$7.99",
+            "Tower Goblin War Zeppelin": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750576337571,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -40519,10 +40599,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750907593064,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -42718,6 +42806,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750907593064,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "Valentine Stage": "$3.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "MUSE RADIO FM104": "$3.99"
+          }
+        },
         {
           "timestamp": 1750825421843,
           "price": 2.99,
@@ -49375,6 +49479,19 @@
     "history": [
       [
         {
+          "timestamp": 1750907593064,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Classic DLC Pack": "$2.99",
+            "Gravel Track Pack": "$2.99",
+            "Retro Expansion Pack": "$2.99",
+            "Live Event Service": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750302768824,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -55946,6 +56063,14 @@
     "history": [
       [
         {
+          "timestamp": 1750907593064,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749266485972,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -59552,10 +59677,18 @@
       "formattedPrice": "$9.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99"
+      "price": 6.99,
+      "formattedPrice": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750907593064,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -81201,7 +81334,7 @@
     ]
   },
   "6456751953": {
-    "name": "ChatTan - AI Bot",
+    "name": "MyTan - AI Bot",
     "maxPriceInfo": {
       "price": 0.29,
       "formattedPrice": "$0.29",
@@ -82589,6 +82722,14 @@
       "formattedPrice": "$3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750907593064,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745810336961,
