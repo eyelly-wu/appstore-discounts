@@ -63127,12 +63127,20 @@
       "The End Of Karma(DLC)": "₺179,99"
     },
     "minPriceInfo": {
-      "price": 349.99,
-      "formattedPrice": "₺349,99",
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
       "The End Of Karma(DLC)": "₺149,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750961876369,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "The End Of Karma(DLC)": "₺149,99"
+          }
+        },
         {
           "timestamp": 1750954554299,
           "price": 349.99,

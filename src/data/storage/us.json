@@ -82777,12 +82777,20 @@
       "The End Of Karma(DLC)": "$3.99"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "$7.99",
+      "price": 6.39,
+      "formattedPrice": "$6.39",
       "The End Of Karma(DLC)": "$3.59"
     },
     "history": [
       [
+        {
+          "timestamp": 1750961876369,
+          "price": 6.39,
+          "formattedPrice": "$6.39",
+          "inAppPurchases": {
+            "The End Of Karma(DLC)": "$3.59"
+          }
+        },
         {
           "timestamp": 1750954554299,
           "price": 7.99,
