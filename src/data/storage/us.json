@@ -1239,6 +1239,25 @@
     "history": [
       [
         {
+          "timestamp": 1750899739699,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Harmonic Tuning": "$19.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Extended Frequency Modes": "$4.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Orchestral Sweeteners": "$5.99",
+            "Buzz Feiten Pack": "$5.99",
+            "World Sweetener Pack": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750151670232,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -7142,6 +7161,25 @@
       "PsyTrance": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750899739699,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$1.99",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750738979910,
@@ -57151,6 +57189,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750899739699,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "$0.99",
+            "Lifetime": "$19.99",
+            "Annual": "$6.00"
+          }
+        },
         {
           "timestamp": 1750893134975,
           "price": 0,
