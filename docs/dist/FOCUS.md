@@ -5,7 +5,7 @@ So far, we've covered `6` `Countries or Regions` and  `1177` `Apps` <br />Push n
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|1177|6746633753|Automatic|❌|Yōkai Retreat SP Yin Yang-Sama|❌|❌|❌|Yōkai Retreat SP Yin Yang-Sama|
+|1177|6746633753|Automatic|❌|Yōkai Retreat SP Yin Yang-Sama|❌|Yōkai Retreat SP Yin Yang-Sama|Yōkai Retreat SP Yin Yang-Sama|Yōkai Retreat SP Yin Yang-Sama|
 |1176|1062515791|Automatic|❌|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|
 |1175|1631790409|Automatic|❌|Starri 星動旋律|Starri 星動旋律|Starri 星動旋律|Starri - Move to music|Starri - Move to music|
 |1174|6742321646|Automatic|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|

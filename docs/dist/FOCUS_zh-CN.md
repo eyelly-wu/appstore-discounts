@@ -5,7 +5,7 @@
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|1177|6746633753|自动|❌|Yōkai Retreat SP Yin Yang-Sama|❌|❌|❌|Yōkai Retreat SP Yin Yang-Sama|
+|1177|6746633753|自动|❌|Yōkai Retreat SP Yin Yang-Sama|❌|Yōkai Retreat SP Yin Yang-Sama|Yōkai Retreat SP Yin Yang-Sama|Yōkai Retreat SP Yin Yang-Sama|
 |1176|1062515791|自动|❌|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|
 |1175|1631790409|自动|❌|Starri 星動旋律|Starri 星動旋律|Starri 星動旋律|Starri - Move to music|Starri - Move to music|
 |1174|6742321646|自动|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|
