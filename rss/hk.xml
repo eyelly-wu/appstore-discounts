@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-26T16:38:06.980Z</updated>
+    <updated>2025-06-26T17:34:16.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-26T16:38:06.981Z</updated>
+        <updated>2025-06-26T17:34:16.786Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkThu, 26 Jun 2025 16:38:06 GMT</id>
+        <id>rankinghkThu, 26 Jun 2025 17:34:16 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-06-26T16:38:06.981Z</updated>
+        <updated>2025-06-26T17:34:16.786Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -95,6 +95,29 @@ feedId:157008141708743680+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id6446178861">PlayNav - 影片內無廣告！</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>5</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>高級功能</i>：<b>5</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id567533074">Sonic Jump™</a>
       </td>
       <td>
@@ -119,7 +142,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
@@ -144,7 +167,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1238247658">Cluedo: Classic Edition</a>
@@ -159,29 +182,6 @@ feedId:157008141708743680+userId:73658201673997312
             <span>App 內購買項目</span><ol>
               <li>
                 <i>Ultimate Detective Collection</i>：<b>4</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/hk/app/id6446178861">PlayNav - 影片內無廣告！</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>4</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買項目</span><ol>
-              <li>
-                <i>高級功能</i>：<b>4</b>
               </li>
             </ol>
           </li>
@@ -2003,6 +2003,101 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayNav - 影片內無廣告！]]></title>
+        <id>PlayNav - 影片內無廣告！-hk-1750957909907</id>
+        <link href="https://apps.apple.com/hk/app/playnav-%E5%BD%B1%E7%89%87%E5%85%A7%E7%84%A1%E5%BB%A3%E5%91%8A/id6446178861?uo=4"/>
+        <updated>2025-06-26T17:11:49.907Z</updated>
+        <summary type="html"><![CDATA[高級功能: HK$ 8.00 → HK$ 2.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/playnav-%E5%BD%B1%E7%89%87%E5%85%A7%E7%84%A1%E5%BB%A3%E5%91%8A/id6446178861?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ba/1a/fcba1a02-3654-b8f3-5710-7822bcde85d5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>高級功能：</strong><span>HK$ 8.00</span> → <b>
+  <strong>HK$ 2.00</strong>
+</b><span>[HK$ 2.00 ~ HK$ 88.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 2.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    高級功能：<b>HK$ 2.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  你是否厭倦了 YouTube 影片中的廣告打擾
+
+全新的 YouTube PlayNav 影片瀏覽器將屏蔽觀看影片時出現的所有侵入式廣告，讓你可以流暢無阻地享受喜愛的影片
+
+此外，我們的應用還提供你會喜歡的功能
+
+• 畫中畫播放：在使用其他應用時觀看 YouTube 影片
+• 僅音頻模式：在鎖屏狀態下播放任何 YouTube 影片的音頻
+• 自動關閉：設置睡眠計時器（Premium）
+• 循環模式：自動重複播放你最喜歡的影片（Premium）
+• 學習模式：通過字幕學習語言（Premium）
+
+此外，還包括播放清單、速度調整、相關影片、AirPlay 等實用功能，讓你的觀影體驗更上一層樓
+
+如何使用 PlayNav
+
+畫中畫播放（PIP）(Premium)
+
+在使用其他應用時觀看 YouTube 影片。啟用後播放器會縮小到螢幕上，你可以隨意移動或雙擊隱藏它
+
+如何啟用
+	1.	播放影片時，點擊左上角的 PIP 圖示（兩個小螢幕圖示）
+	2.	影片播放時，從 iPhone 底部向上滑動，播放器將顯示在螢幕上
+
+僅音頻模式
+
+在 iPhone 螢幕鎖定的情況下，收聽你最喜歡的 YouTube 影片音頻。可用於運動、散步或睡前。搭配自動關閉功能，讓你放鬆聆聽喜愛的影片
+
+如何啟用
+	1.	啟用畫中畫播放
+	2.	然後鎖定 iPhone，音頻將繼續播放
+
+自動關閉
+
+睡覺時間？到 YouTube 選擇你喜歡的影片或播放清單，設置自動關閉計時器，讓你在喜愛的音頻陪伴下入睡
+
+如何啟用
+	1.	在播放器中點擊睡眠圖示（月亮）
+	2.	選擇自動關閉的時間
+	3.	可與僅音頻模式結合使用
+
+循環模式（重複播放影片）
+
+想讓你的影片循環播放嗎？啟用循環模式，讓影片無限循環播放。也可與僅音頻模式結合使用
+
+如何啟用
+	1.	點擊重複圖示，影片將持續循環播放，直到你手動關閉
+
+學習模式（通過字幕學習語言）
+
+現在，你可以通過字幕學習語言！啟用學習模式後，你將看到原始字幕和你的語言翻譯。還可以調整播放速度，更好地理解每個單詞
+
+如何啟用
+	1.	搜索你學習語言的影片
+	2.	影片播放後，點擊標題旁的學習模式按鈕
+
+– 現在試用 PLAYNAV！–
+
+免費享受所有基本功能，並通過一次性購買解鎖 Premium 功能。
+
+最低要求
+• iOS 15 或更高版本
+• 3G 或更快的網路連接
+
+相關關鍵詞
+YouTube、YouTube Music、YouTube Vanced、廣告攔截器、無需訂閱、跳過 YouTube 廣告、無廣告音樂、屏蔽彈窗、YouTube 的 AdBlock、屏蔽彈窗廣告、無廣告內容、高級廣告攔截器、AdBlock Plus、移除廣告、無廣告 YouTube
+
+需要幫助
+訪問 playnav.vidiom.app 或聯繫我們 info@playnav.vidiom.app
+
+服務條款 playnav.vidiom.app/terms-of-service
+隱私政策 playnav.vidiom.app/privacy-policy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/1b/f0/b71bf0e9-8dd4-9c0d-3bd1-0e3e6ac97381/973cb385-8418-414c-bd09-cc82a5fc8d14_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/a9/00/78a900a2-7d51-e3fd-9199-e9c61a35f32b/c68d1dd7-34e0-4f98-ba2f-f236a06d046d_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/65/c3/5365c387-c655-8e83-14e9-e20083d91f17/26c1d40d-6248-4914-b1ba-071e398203d9_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/5a/73/845a73e1-1a26-df2b-43ad-fd5eb710bb61/42eddfff-d78e-4e10-b01d-c4d6624891fb_Hotpot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/e6/9b/74e69bea-d543-ebad-7fa9-0a44fc6eeab8/4f98a2e1-d800-4817-8727-81d5b787a70a_Hotpot_4.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SkySafari 7 Pro]]></title>
