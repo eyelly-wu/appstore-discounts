@@ -34784,6 +34784,14 @@
     "history": [
       [
         {
+          "timestamp": 1750947141553,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749218549598,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -46669,6 +46677,20 @@
       "出類拔萃": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947141553,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "寶物編輯器": "$30.00",
+            "美術升級包": "$90.00",
+            "群英薈": "$90.00",
+            "出類拔萃": "$90.00",
+            "蒼天之志": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748959365680,
@@ -59586,6 +59608,25 @@
     "history": [
       [
         {
+          "timestamp": 1750947141553,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Starter Package B": "$1,490.00",
+            "Daily Jewel Package": "$690.00",
+            "Lite Daily Jewel Package": "$290.00",
+            "Starter Package A": "$490.00",
+            "Remove AD": "$290.00",
+            "Jewel Package D": "$1,490.00",
+            "Jewel Package A": "$150.00",
+            "Jewel Package F": "$2,990.00",
+            "Jewel Package C": "$790.00",
+            "Jewel Package B": "$290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750428721028,
           "price": 0,
           "formattedPrice": "免費",
@@ -63980,6 +64021,14 @@
     "history": [
       [
         {
+          "timestamp": 1750947141553,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749132148195,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -66446,10 +66495,18 @@
       "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947141553,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -78562,6 +78619,18 @@
     "history": [
       [
         {
+          "timestamp": 1750947141553,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "擴展內容《倩影萍蹤》": "$90.00",
+            "擴展內容《新顏繪夢》": "$30.00",
+            "擴展內容《一統江湖》": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746626555033,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -88353,10 +88422,22 @@
   },
   "6746633753": {
     "name": "Yōkai Retreat SP Yin Yang-Sama",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "Diamonds": "$60.00"
+    },
+    "minPriceInfo": {
+      "Diamonds": "$60.00"
+    },
     "history": [
       [
+        {
+          "timestamp": 1750947141553,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Diamonds": "$60.00"
+          }
+        },
         {
           "timestamp": 1750918750455,
           "inAppPurchases": {}

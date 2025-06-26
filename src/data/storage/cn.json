@@ -13550,6 +13550,23 @@
     "history": [
       [
         {
+          "timestamp": 1750947141553,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "238学币": "¥238.00",
+            "188学币": "¥188.00",
+            "698学币": "¥698.00",
+            "398学币": "¥398.00",
+            "998学币": "¥828.00",
+            "298学币": "¥298.00",
+            "128学币": "¥128.00",
+            "98学币": "¥98.00",
+            "68学币": "¥68.00",
+            "38学币": "¥38.00"
+          }
+        },
+        {
           "timestamp": 1750911731426,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -25087,6 +25104,14 @@
     "history": [
       [
         {
+          "timestamp": 1750947141553,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749218549598,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -25431,6 +25456,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947141553,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749218549598,
@@ -48422,6 +48455,14 @@
     "history": [
       [
         {
+          "timestamp": 1750947141553,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749132148195,
           "price": 25,
           "formattedPrice": "¥25.00",
@@ -50701,6 +50742,18 @@
       "《部落与弯刀 - 胧境之冬》": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947141553,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "《部落与弯刀 - 比武大会》": "¥8.00",
+            "《部落与弯刀 - 赫石之夏》": "¥8.00",
+            "《部落与弯刀 - 胧境之冬》": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749218549598,
@@ -53441,10 +53494,21 @@
       "price": 20,
       "formattedPrice": "¥20.00",
       "DLC终业": "¥12.00",
-      "暖雪全家桶": "¥37.00",
+      "暖雪全家桶": "¥30.00",
       "终业(DLC)": "¥10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947141553,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {
+            "终业(DLC)": "¥10.00",
+            "暖雪全家桶": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738771356308,
@@ -60178,6 +60242,14 @@
     "history": [
       [
         {
+          "timestamp": 1750947141553,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749218549598,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -62891,6 +62963,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750947141553,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "江山美人": "¥14.00",
+            "终身版": "¥45.00",
+            "揽月版": "¥25.00",
+            "尊享版": "¥35.00",
+            "激情版": "¥5.00",
+            "自创武将朝代特色兵种补丁": "¥28.00",
+            "北境狂人": "¥14.00",
+            "虎啸凤鸣": "¥14.00",
+            "镇海神威": "¥14.00",
+            "自创武将朝代服装发饰素材补丁": "¥24.00"
+          }
+        },
         {
           "timestamp": 1750944476419,
           "price": 0,
@@ -66546,14 +66635,22 @@
   "6612011484": {
     "name": "怪物乐土",
     "maxPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00"
+      "price": 18,
+      "formattedPrice": "¥18.00"
     },
     "minPriceInfo": {
       "price": 12,
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947141553,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749802635734,
