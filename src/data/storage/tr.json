@@ -70628,14 +70628,22 @@
   "6747050164": {
     "name": "BiR GüN DAHA",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "₺2,99"
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "₺2,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751030747713,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750018368270,
