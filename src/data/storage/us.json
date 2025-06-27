@@ -35090,6 +35090,14 @@
     "history": [
       [
         {
+          "timestamp": 1750994070405,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749266485972,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -48475,6 +48483,20 @@
     "history": [
       [
         {
+          "timestamp": 1750994070405,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Treasures Editor": "$0.99",
+            "Dawn of Heroes": "$3.99",
+            "Feature DLC": "$2.99",
+            "Art Upgrade Pack": "$2.99",
+            "Heroes Assemble": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749007381783,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -61783,6 +61805,25 @@
     "history": [
       [
         {
+          "timestamp": 1750994070405,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Starter Package B": "$49.99",
+            "Daily Jewel Package": "$19.99",
+            "Lite Daily Jewel Package": "$8.99",
+            "Starter Package A": "$14.99",
+            "Remove AD": "$8.99",
+            "Jewel Package D": "$44.99",
+            "Jewel Package A": "$4.99",
+            "Jewel Package F": "$89.99",
+            "Jewel Package C": "$24.99",
+            "Jewel Package B": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750475290970,
           "price": 0,
           "formattedPrice": "Free",
@@ -67168,6 +67209,14 @@
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750994070405,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749180180364,
@@ -81682,6 +81731,18 @@
     "history": [
       [
         {
+          "timestamp": 1750994070405,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "《Canvas of Heroes》": "$0.99",
+            "《Her Vanishing Silhouette》": "$2.99",
+            "《The Great Conquest》": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746633756123,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -93038,10 +93099,22 @@
   },
   "6746633753": {
     "name": "Yōkai Retreat SP Yin Yang-Sama",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "Diamonds": "$1.99"
+    },
+    "minPriceInfo": {
+      "Diamonds": "$1.99"
+    },
     "history": [
       [
+        {
+          "timestamp": 1750994070405,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$1.99"
+          }
+        },
         {
           "timestamp": 1750918750455,
           "inAppPurchases": {}
