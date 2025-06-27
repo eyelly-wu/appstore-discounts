@@ -14875,7 +14875,11 @@
       "Rouge": "$60.00",
       "Double Rings": "$90.00",
       "Unlock Everything": "$690.00",
-      "120,000 Ring Bundle": "$990.00"
+      "120,000 Ring Bundle": "$990.00",
+      "15,000 Ring Bundle": "$150.00",
+      "Vector": "$60.00",
+      "Shadow": "$30.00",
+      "Cream": "$30.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -14883,15 +14887,36 @@
       "2,500 Ring Bundle": "$30.00",
       "Silver": "$60.00",
       "12,000 Ring Bundle": "$150.00",
-      "Knuckles": "$60.00",
-      "Tails": "$60.00",
+      "Knuckles": "$30.00",
+      "Tails": "$30.00",
       "Amy": "$60.00",
-      "Rouge": "$60.00",
+      "Rouge": "$30.00",
       "Double Rings": "$90.00",
       "Unlock Everything": "$690.00",
-      "120,000 Ring Bundle": "$990.00"
+      "120,000 Ring Bundle": "$990.00",
+      "15,000 Ring Bundle": "$150.00",
+      "Vector": "$60.00",
+      "Shadow": "$30.00",
+      "Cream": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751048246506,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "15,000 Ring Bundle": "$150.00",
+            "Silver": "$60.00",
+            "Vector": "$60.00",
+            "Tails": "$30.00",
+            "Rouge": "$30.00",
+            "Shadow": "$30.00",
+            "Knuckles": "$30.00",
+            "Cream": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750396427266,
