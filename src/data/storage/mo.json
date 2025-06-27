@@ -1488,6 +1488,23 @@
     "history": [
       [
         {
+          "timestamp": 1751001243834,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "USD 0.99",
+            "Portland HipstaPak": "USD 0.99",
+            "Mission Hipstapak": "USD 0.99",
+            "Shibuya HipstaPak": "USD 0.99",
+            "Camden HipstaPak": "USD 0.99",
+            "Soho HipstaPak": "USD 0.99",
+            "Foodie SnapPak": "USD 0.99",
+            "Bondi HipstaPak": "USD 0.99",
+            "Multi-Exposure Kit": "USD 0.99",
+            "America HipstaPak": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1750998131705,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -7678,6 +7695,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751001243834,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Vehicles pack": "USD 9.99",
+            "Tools Pack": "USD 5.99",
+            "Scary Pack": "USD 9.99",
+            "Weapon Pack": "USD 5.99",
+            "Minecraft Pets Pack": "USD 9.99",
+            "Minecraft Morph Pack": "USD 5.99",
+            "Marketplace Pass Full": "USD 3.99",
+            "Marketplace Pass Trial": "USD 3.99",
+            "The Incredibles": "USD 7.99",
+            "Marketplace Pass w/trial": "USD 3.99"
+          }
+        },
         {
           "timestamp": 1750964999629,
           "price": 6.99,
@@ -14449,7 +14483,8 @@
       "Around The World Bundle": "USD 6.99",
       "Travel Essentials Deck": "USD 1.99",
       "Around The World Bundle Sale": "USD 5.99",
-      "90s And 00s Cartoons Deck": "USD 1.99"
+      "90s And 00s Cartoons Deck": "USD 1.99",
+      "Holiday Offer Native July 2025": "USD 19.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -14483,9 +14518,29 @@
       "Around The World Bundle": "USD 5.99",
       "Travel Essentials Deck": "USD 1.99",
       "Around The World Bundle Sale": "USD 3.99",
-      "90s And 00s Cartoons Deck": "USD 1.99"
+      "90s And 00s Cartoons Deck": "USD 1.99",
+      "Holiday Offer Native July 2025": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751001243834,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Holiday Offer Native July 2025": "USD 19.99",
+            "Kids Favs Bundle": "USD 5.99",
+            "Animation Bundle Sale": "USD 4.99",
+            "Animated Movies Deck": "USD 1.99",
+            "Animation Bundle": "USD 5.99",
+            "Kids Favs Bundle Sale": "USD 4.99",
+            "Around The World Bundle": "USD 6.99",
+            "Travel Essentials Deck": "USD 1.99",
+            "Around The World Bundle Sale": "USD 5.99",
+            "90s And 00s Cartoons Deck": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750238050082,
