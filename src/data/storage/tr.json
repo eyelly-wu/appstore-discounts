@@ -7577,6 +7577,23 @@
     "history": [
       [
         {
+          "timestamp": 1751005166043,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "₺20,99",
+            "Realms Monthly Subscription: You + 2 Friends": "₺10,49",
+            "Minecraft Store Item 2": "₺99,99",
+            "Realms Plus: You + 10 Friends": "₺20,99",
+            "Minecraft Store Item 6": "₺249,99",
+            "Minecraft Store Item 4": "₺179,99",
+            "Minecraft Store Item 3": "₺129,99",
+            "Minecraft Store Item 10": "₺449,99",
+            "Minecraft Store Item 5": "₺229,99",
+            "Minecraft Store Item 1": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1751001243834,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -64355,6 +64372,23 @@
     "history": [
       [
         {
+          "timestamp": 1751005166043,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "India Expansion Bundle": "₺349,99",
+            "Japan Expansion Bundle": "₺299,99",
+            "Round the World Ticket": "₺1.299,99",
+            "Europe Expansion": "₺449,99",
+            "Europe Map": "₺399,99",
+            "1910 Ticket Pack": "₺179,99",
+            "Legendary Asia Map": "₺249,99",
+            "Ticket to Ride ChristmasBundle": "₺179,99",
+            "San Francisco Expansion Bundle": "₺299,99",
+            "LegendaryAsia Expansion Bundle": "₺299,99"
+          }
+        },
+        {
           "timestamp": 1751001243834,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -70772,6 +70806,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751005166043,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1750979535544,
           "price": 2.99,
