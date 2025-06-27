@@ -3681,7 +3681,9 @@
       "专业会员·5人版-1个月（活动）": "HK$ 38.00",
       "专业会员·5人版-12个月（活动）": "HK$ 388.00",
       "基础会员1个月（活动）": "HK$ 18.00",
-      "基础会员12个月（活动）": "HK$ 118.00"
+      "基础会员12个月（活动）": "HK$ 118.00",
+      "基础会员-连续包月": "HK$ 18.00",
+      "基础会员1个月(尝鲜)": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -3733,9 +3735,30 @@
       "专业会员·5人版-1个月（活动）": "HK$ 38.00",
       "专业会员·5人版-12个月（活动）": "HK$ 388.00",
       "基础会员1个月（活动）": "HK$ 18.00",
-      "基础会员12个月（活动）": "HK$ 118.00"
+      "基础会员12个月（活动）": "HK$ 118.00",
+      "基础会员-连续包月": "HK$ 18.00",
+      "基础会员1个月(尝鲜)": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751033553596,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "基础会员-连续包月": "HK$ 18.00",
+            "基础会员1个月(尝鲜)": "HK$ 8.00",
+            "空间会员·365G-3年（活动）": "HK$ 588.00",
+            "空间会员·365G-1年（活动）": "HK$ 288.00",
+            "专业会员·无限版-1个月（活动）": "HK$ 118.00",
+            "专业会员·无限版-12个月（活动）": "HK$ 1,188.00",
+            "专业会员·10人版-12个月（活动）": "HK$ 588.00",
+            "专业会员·10人版-1个月（活动）": "HK$ 58.00",
+            "专业会员·5人版-1个月（活动）": "HK$ 38.00",
+            "专业会员·5人版-12个月（活动）": "HK$ 388.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750562428966,
@@ -13236,6 +13259,25 @@
     "history": [
       [
         {
+          "timestamp": 1751033553596,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Procurement Director": "HK$ 8.00",
+            "Disaster Manager": "HK$ 8.00",
+            "Medical Coordinator": "HK$ 8.00",
+            "Ethics Watchdog": "HK$ 8.00",
+            "Chaos Engineer": "HK$ 8.00",
+            "Economic Forecaster": "HK$ 8.00",
+            "Situation Director": "HK$ 8.00",
+            "Outreach Coordinator": "HK$ 8.00",
+            "Fast Response EMTs": "HK$ 8.00",
+            "Strategic Fundraiser": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750899739699,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -19252,6 +19294,14 @@
     "history": [
       [
         {
+          "timestamp": 1751033553596,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749996631604,
           "price": 0,
           "formattedPrice": "免費",
@@ -23763,10 +23813,29 @@
       "一箱寶石": "HK$ 88.00",
       "一桶寶石": "HK$ 38.00",
       "一袋寶石": "HK$ 22.00",
-      "凌 .": "HK$ 38.00",
+      "凌 .": "HK$ 22.00",
       "英雄包 9": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751033553596,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Big Hero Pack 3": "HK$ 118.00",
+            "一倉庫寶石": "HK$ 388.00",
+            "一車寶石": "HK$ 148.00",
+            "一箱寶石": "HK$ 88.00",
+            "一桶寶石": "HK$ 38.00",
+            "一袋寶石": "HK$ 22.00",
+            "威爾伯": "HK$ 38.00",
+            "怖鹿獅": "HK$ 22.00",
+            "凌 .": "HK$ 22.00",
+            "英雄包 9": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750860787382,
@@ -33155,6 +33224,23 @@
     "history": [
       [
         {
+          "timestamp": 1751033553596,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Desperado Unlock Pack": "HK$ 58.00",
+            "She-Ra Prestige Pack Sale": "HK$ 58.00",
+            "She-Ra Sword Booster Sale": "HK$ 18.00",
+            "She-Ra Sword Power Booster": "HK$ 32.00",
+            "She-Ra Prestige Pack": "HK$ 98.00",
+            "Battle Cat Booster Pack": "HK$ 32.00",
+            "Battle Cat Prestige Pack": "HK$ 32.00",
+            "Rogue Legends": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749961370215,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -35560,6 +35646,25 @@
       "998财富币": "HK$ 1,188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751033553596,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "128财富币": "HK$ 148.00",
+            "88财富币": "HK$ 98.00",
+            "198财富币": "HK$ 228.00",
+            "168财富币": "HK$ 188.00",
+            "1998财富币": "HK$ 2,288.00",
+            "1598财富币": "HK$ 1,888.00",
+            "898财富币": "HK$ 988.00",
+            "418财富币": "HK$ 488.00",
+            "98财富币": "HK$ 118.00",
+            "998财富币": "HK$ 1,188.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750144371009,
@@ -62971,6 +63076,17 @@
     "history": [
       [
         {
+          "timestamp": 1751033553596,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "buy wallpaper once": "HK$ 8.00",
+            "become Vip": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750695365912,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -66104,6 +66220,14 @@
       "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751033553596,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750601485008,
@@ -83034,6 +83158,14 @@
     "history": [
       [
         {
+          "timestamp": 1751033553596,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750601485008,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -89133,6 +89265,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751033553596,
+          "price": 6,
+          "formattedPrice": "HK$ 6.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1751005166043,
           "inAppPurchases": {}

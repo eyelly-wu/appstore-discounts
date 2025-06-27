@@ -13709,7 +13709,7 @@
       "一桶寶石": "USD 4.99",
       "一袋寶石": "USD 2.99",
       "大型英雄包 2": "USD 12.99",
-      "大聖": "USD 4.99",
+      "大聖": "USD 2.99",
       "大型英雄包": "USD 9.99",
       "黑棘船長": "USD 0.99",
       "剎陀羅": "USD 2.99",
@@ -13718,6 +13718,25 @@
       "英雄包 1": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751033553596,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "一倉庫寶石": "USD 49.99",
+            "一車寶石": "USD 19.99",
+            "一箱寶石": "USD 9.99",
+            "一桶寶石": "USD 4.99",
+            "一袋寶石": "USD 2.99",
+            "特別優惠大聖": "USD 2.99",
+            "大型英雄包 2": "USD 12.99",
+            "大聖": "USD 2.99",
+            "大型英雄包": "USD 9.99",
+            "英雄包 5": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750860787382,
@@ -15123,6 +15142,14 @@
     "history": [
       [
         {
+          "timestamp": 1751033553596,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749996631604,
           "price": 0,
           "formattedPrice": "免費",
@@ -15713,6 +15740,25 @@
       "I Bundle 09": "USD 15.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751033553596,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "USD 3.99",
+            "Ayatsugu_Otowa Collection": "USD 3.99",
+            "Sherwin Collection": "USD 3.99",
+            "Capchii Collection": "USD 3.99",
+            "VII Bundle 06": "USD 12.99",
+            "VII Bundle 05": "USD 10.99",
+            "VII Bundle 03": "USD 6.99",
+            "VII Bundle 02": "USD 4.99",
+            "VII Bundle 04": "USD 8.99",
+            "VII Bundle 01": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750825421843,
@@ -47149,6 +47195,17 @@
     "history": [
       [
         {
+          "timestamp": 1751033553596,
+          "price": 0.39,
+          "formattedPrice": "USD 0.39",
+          "inAppPurchases": {
+            "buy wallpaper once": "USD 0.99",
+            "become Vip": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750695365912,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -49959,10 +50016,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 0.49,
-      "formattedPrice": "USD 0.49"
+      "price": 0.39,
+      "formattedPrice": "USD 0.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751033553596,
+          "price": 0.39,
+          "formattedPrice": "USD 0.39",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750601485008,
@@ -60949,6 +61014,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751033553596,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750601485008,
