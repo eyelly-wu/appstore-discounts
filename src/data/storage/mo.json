@@ -35962,6 +35962,37 @@
       ]
     ]
   },
+  "1437211990": {
+    "name": "地下城與治療者 : Raid Manager",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "5,000鑽石": "USD 4.99",
+      "15,000鑽石": "USD 11.99",
+      "30,000鑽石": "USD 23.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "5,000鑽石": "USD 4.99",
+      "15,000鑽石": "USD 11.99",
+      "30,000鑽石": "USD 23.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751072431721,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "5,000鑽石": "USD 4.99",
+            "15,000鑽石": "USD 11.99",
+            "30,000鑽石": "USD 23.99"
+          }
+        }
+      ]
+    ]
+  },
   "1437479513": {
     "name": "逃脱者：困境突围",
     "maxPriceInfo": {
@@ -65247,6 +65278,64 @@
             "30元礼包": "USD 3.99",
             "18元礼包": "USD 2.99",
             "6元礼包": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6747742701": {
+    "name": "情感反捞模拟器-捞女游戏",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751072431721,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746683191": {
+    "name": "VAKA No: 1937",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "Early Access": "USD 0.99",
+      "Weekly Pass": "USD 1.99",
+      "75 Credits": "USD 2.99",
+      "30 Credits": "USD 1.99",
+      "10 Credits": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "Early Access": "USD 0.99",
+      "Weekly Pass": "USD 1.99",
+      "75 Credits": "USD 2.99",
+      "30 Credits": "USD 1.99",
+      "10 Credits": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751072431721,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Early Access": "USD 0.99",
+            "Weekly Pass": "USD 1.99",
+            "75 Credits": "USD 2.99",
+            "30 Credits": "USD 1.99",
+            "10 Credits": "USD 0.99"
           }
         }
       ]

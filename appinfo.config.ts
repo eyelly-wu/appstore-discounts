@@ -68,6 +68,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1437211990,
+    name: {
+      mo: '地下城與治療者 : Raid Manager',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6747742701,
+    name: {
+      mo: '情感反捞模拟器-捞女游戏',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6746683191,
+    name: {
+      tr: 'CASE No: 1937',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1507562429,
     name: {
       mo: '華夏人生',

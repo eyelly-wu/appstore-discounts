@@ -24476,6 +24476,25 @@
     "history": [
       [
         {
+          "timestamp": 1751072431721,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Hero Mark X": "₺299,99",
+            "Hero Roy": "₺39,99",
+            "Special Pack 2": "₺179,99",
+            "Hero Blue Dragon": "₺299,99",
+            "Special Pack 4": "₺699,99",
+            "Special Pack 3": "₺229,99",
+            "Hero Fate": "₺129,99",
+            "Hero Ajax": "₺129,99",
+            "Starter Pack": "₺229,99",
+            "Special Pack 5": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750893134975,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -39247,6 +39266,37 @@
       ]
     ]
   },
+  "1437211990": {
+    "name": "Raid Manager",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "5,000 diamonds": "₺229,99",
+      "15,000 diamonds": "₺499,99",
+      "30,000 diamonds": "₺999,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "5,000 diamonds": "₺229,99",
+      "15,000 diamonds": "₺499,99",
+      "30,000 diamonds": "₺999,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751072431721,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "5,000 diamonds": "₺229,99",
+            "15,000 diamonds": "₺499,99",
+            "30,000 diamonds": "₺999,99"
+          }
+        }
+      ]
+    ]
+  },
   "1437715202": {
     "name": "倉頡詞典",
     "maxPriceInfo": {
@@ -51770,6 +51820,25 @@
       "Wild World Adventure Pack": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751072431721,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Midnight Deck": "₺229,99",
+            "Midnight Night Out Pack": "₺99,99",
+            "Holiday Christmas Pack": "₺39,99",
+            "Word Bonanza Bundle": "₺449,99",
+            "Fun & Games Sports Mix Pack 1": "₺39,99",
+            "Midnight Bedroom Pack": "₺99,99",
+            "Celebrity Musicians Pack": "₺39,99",
+            "Mystery Mix Pack 1": "₺39,99",
+            "Holiday Christmas Pack 2": "₺39,99",
+            "Surprise Pack 1": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750998131705,
@@ -71188,6 +71257,64 @@
             "30元礼包": "₺179,99",
             "18元礼包": "₺129,99",
             "6元礼包": "₺39,99"
+          }
+        }
+      ]
+    ]
+  },
+  "6747742701": {
+    "name": "情感反捞模拟器-捞女游戏",
+    "maxPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751072431721,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746683191": {
+    "name": "CASE No: 1937",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "₺2,99",
+      "10 Credits": "₺29,99",
+      "30 Credits": "₺79,99",
+      "Weekly Pass": "₺99,99",
+      "Early Access": "₺49,99",
+      "75 Credits": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "₺2,99",
+      "10 Credits": "₺29,99",
+      "30 Credits": "₺79,99",
+      "Weekly Pass": "₺99,99",
+      "Early Access": "₺49,99",
+      "75 Credits": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751072431721,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {
+            "10 Credits": "₺29,99",
+            "30 Credits": "₺79,99",
+            "Weekly Pass": "₺99,99",
+            "Early Access": "₺49,99",
+            "75 Credits": "₺149,99"
           }
         }
       ]
