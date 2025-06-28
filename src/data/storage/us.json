@@ -1653,7 +1653,7 @@
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "$9.99",
-      "TuneIn Premium": "$9.99",
+      "TuneIn Premium": "$79.99",
       "TuneIn Premium (Pro)": "$7.99",
       "TuneIn Premium Pro": "$69.99"
     },
@@ -1665,6 +1665,17 @@
       "TuneIn Premium Pro": "$69.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751123484571,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "TuneIn Premium": "$79.99",
+            "TuneIn Premium Pro": "$69.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750007426154,
@@ -49393,6 +49404,16 @@
       "Card.Note Premiun": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751123484571,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Card.Note Premiun": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750864445242,
