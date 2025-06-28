@@ -71410,8 +71410,8 @@
   "6746683191": {
     "name": "CASE No: 1937",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "₺2,99",
+      "price": 4.99,
+      "formattedPrice": "₺4,99",
       "10 Credits": "₺29,99",
       "30 Credits": "₺79,99",
       "Weekly Pass": "₺99,99",
@@ -71429,6 +71429,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751130628546,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "10 Credits": "₺29,99",
+            "30 Credits": "₺79,99",
+            "Weekly Pass": "₺99,99",
+            "Early Access": "₺49,99",
+            "75 Credits": "₺149,99"
+          }
+        },
         {
           "timestamp": 1751072431721,
           "price": 2.99,
