@@ -28161,6 +28161,14 @@
     "history": [
       [
         {
+          "timestamp": 1751119837389,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748440944770,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -40365,6 +40373,19 @@
       "黃金認證": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751119837389,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "500張 換購券": "$320.00",
+            "200張 換購券": "$150.00",
+            "50張 換購券": "$60.00",
+            "黃金認證": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749439044822,
@@ -64337,6 +64358,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751119837389,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750774392637,
@@ -89671,6 +89700,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751119837389,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Diamonds": "$60.00"
+          }
+        },
         {
           "timestamp": 1751094688019,
           "inAppPurchases": {}
