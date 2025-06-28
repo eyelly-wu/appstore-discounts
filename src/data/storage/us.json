@@ -19132,6 +19132,14 @@
     "history": [
       [
         {
+          "timestamp": 1751080158817,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750043820849,
           "price": 0,
           "formattedPrice": "Free",
@@ -25638,7 +25646,11 @@
       "ThemeA2B0C0": "$0.00",
       "主题大礼包": "$3.99",
       "ThemeA2B0C1": "$3.99",
-      "ThemeA2B1C0": "$3.99"
+      "ThemeA2B1C0": "$3.99",
+      "Music Collection  02": "$1.99",
+      "Music collection 05": "$1.99",
+      "Music collection 06": "$1.99",
+      "Subscription Ticket 6~10": "$8.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -25662,9 +25674,32 @@
       "ThemeA2B0C0": "$0.00",
       "主题大礼包": "$3.99",
       "ThemeA2B0C1": "$3.99",
-      "ThemeA2B1C0": "$3.99"
+      "ThemeA2B1C0": "$3.99",
+      "Music Collection  02": "$1.99",
+      "Music collection 05": "$1.99",
+      "Music collection 06": "$1.99",
+      "Subscription Ticket 6~10": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751080158817,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Music Collection 01": "$1.99",
+            "Music Collection  02": "$1.99",
+            "Forever friends": "$6.99",
+            "Subscription Ticket 1~5": "$8.99",
+            "Music Collection 03": "$2.99",
+            "Music Collection 04": "$2.99",
+            "Music collection sp01": "$0.00",
+            "Music collection 05": "$1.99",
+            "Music collection 06": "$1.99",
+            "Subscription Ticket 6~10": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750652899804,
@@ -40812,6 +40847,24 @@
       "Large Tip": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751080158817,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "$2.99",
+            "Power Builder (yearly)": "$25.49",
+            "Power Builder (weekly)": "$0.99",
+            "The Ultimate Tip": "$54.99",
+            "Super Mega Smashing Tip": "$30.99",
+            "Super Smashing Tip": "$16.99",
+            "Super Mega Tip": "$9.99",
+            "Mega Tip": "$5.99",
+            "Super Tip": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750216315437,
@@ -67139,10 +67192,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 0.49,
-      "formattedPrice": "$0.49"
+      "price": 0.39,
+      "formattedPrice": "$0.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751080158817,
+          "price": 0.39,
+          "formattedPrice": "$0.39",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750648874826,
@@ -85665,6 +85726,14 @@
     "history": [
       [
         {
+          "timestamp": 1751080158817,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750648874826,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -93367,6 +93436,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751080158817,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$1.99"
+          }
+        },
         {
           "timestamp": 1751005166043,
           "inAppPurchases": {}
