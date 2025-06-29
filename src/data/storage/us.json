@@ -1667,6 +1667,16 @@
     "history": [
       [
         {
+          "timestamp": 1751167411687,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "TuneIn Premium": "$9.99",
+            "TuneIn Premium (Pro)": "$7.99",
+            "TuneIn Premium Pro": "$69.99"
+          }
+        },
+        {
           "timestamp": 1751159373577,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -28306,6 +28316,14 @@
     "history": [
       [
         {
+          "timestamp": 1751167411687,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748488888641,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -35848,6 +35866,23 @@
     "history": [
       [
         {
+          "timestamp": 1751167411687,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Fistful of Gems": "$4.99",
+            "Buy 100 Gems": "$0.99",
+            "Genius Big Deal Pack": "$1.99",
+            "Boxer Big Deal Pack": "$1.99",
+            "Promote Pack 3": "$7.99",
+            "Pouch of Gems": "$9.99",
+            "Double Bonus": "$1.99",
+            "Double backpack slots": "$1.99",
+            "Promote Pack 2": "$4.99",
+            "A Large Bag of Gems": "$19.99"
+          }
+        },
+        {
           "timestamp": 1751159373577,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -41336,6 +41371,19 @@
       "500 Tickets": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751167411687,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Golden Pass": "$1.99",
+            "200 Tickets": "$4.99",
+            "50 Tickets": "$1.99",
+            "500 Tickets": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749439044822,
@@ -67679,6 +67727,14 @@
     "history": [
       [
         {
+          "timestamp": 1751167411687,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750821285398,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -93740,6 +93796,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751167411687,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$1.99"
+          }
+        },
         {
           "timestamp": 1751094688019,
           "inAppPurchases": {}
