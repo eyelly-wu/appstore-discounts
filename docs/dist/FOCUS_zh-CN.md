@@ -30,7 +30,7 @@
 |1161|1332586660|自动|搜索 互联网 文本 URL 浏览器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|Search Web Text on URL Browser|Search Web Text on URL Browser|
 |1160|6449233549|自动|❌|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|
 |1159|6745474000|自动|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|
-|1158|567533074|自动|❌|Sonic Jump™|Sonic Jump™|Sonic Jump™|Sonic Jump™|Sonic Jump™|
+|1158| ~~567533074~~ |自动| ~~❌~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ |
 |1157|1661136258|自动|❌|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|
 |1156|344919689|自动|❌|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|
 |1155|928407252|自动|粤语字典专业版|粵語字典專業版|粵語字典專業版|粵語字典專業版|Cantonese/Yuet Dictionary Pro|Cantonese/Yuet Dictionary Pro|
@@ -210,7 +210,7 @@
 |981|682046579|自动|人体探秘 - Tinybop出品|Tinybop 人體探秘|Tinybop 人體探秘|Tinybop 人體探秘|The Human Body by Tinybop|The Human Body by Tinybop|
 |980|787148904|自动|❌|R-TYPE II|R-TYPE II|R-TYPE II|R-TYPE II|R-TYPE II|
 |979|933113994|自动|❌|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|
-|978|1056920931|自动|❌|Iron Marines|Iron Marines|Iron Marines|Iron Marines: RTS offline game|Iron Marines: RTS offline game|
+|978| ~~1056920931~~ |自动| ~~❌~~ | ~~Iron Marines~~ | ~~Iron Marines~~ | ~~Iron Marines~~ | ~~Iron Marines: RTS offline game~~ | ~~Iron Marines: RTS offline game~~ |
 |977|1082806154|自动|❌|Age of Rivals|Age of Rivals|Age of Rivals|Age of Rivals|Age of Rivals|
 |976|1354857517|自动|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|
 |975|1463331841|自动|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|
@@ -473,7 +473,7 @@
 |718|1112850631|自动|❌|樂秀專業版-影片編輯與影片剪輯|樂秀專業版-影片編輯與影片剪輯|樂秀專業版-影片編輯與影片剪輯|VideoShow PRO - Video Editor|VideoShow PRO - Video Editor|
 |717|1126386264|自动|❌|AdGuard Pro — adblock|AdGuard Pro — adblock|AdGuard Pro — adblock|AdGuard Pro — adblock&privacy|AdGuard Pro — adblock|
 |716|1182456409|自动|❌|奧托的奧德賽|奧托的奧德賽|奧托的奧德賽|Alto's Odyssey|Alto's Odyssey|
-|715|1238247658|自动|❌|Cluedo: Classic Edition|Cluedo: Classic Edition|❌|❌|Cluedo: Classic Edition|
+|715| ~~1238247658~~ |自动| ~~❌~~ | ~~Cluedo: Classic Edition~~ | ~~Cluedo: Classic Edition~~ | ~~❌~~ | ~~❌~~ | ~~Cluedo: Classic Edition~~ |
 |714|1260271235|自动|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|
 |713|1260967308|自动|WhatCall|WhatCall|WhatCall|WhatCall|WhatCall|WhatCall|
 |712|1423585518|自动|ROMAN: 进食计画、减肥、减脂一体化。 体重管理。|ROMAN: 進食計畫、減肥、減脂一體化。體重管理。|ROMAN: 進食計畫、減肥、減脂一體化。體重管理。|ROMAN: 進食計畫、減肥、減脂一體化。體重管理。|Roman: budget weight loss|Roman: budget weight loss|
@@ -524,7 +524,7 @@
 |667|1621065119|自动|❌|逆轉裁判123成步堂精選集|逆轉裁判123成步堂精選集|逆轉裁判123成步堂精選集|Ace Attorney Trilogy|Ace Attorney Trilogy|
 |666|1626320298|自动|极速变色龙|❌|❌|❌|❌|❌|
 |665|6738272916|自动|全球电视 - 国际电视直播|全球電視 - 國際電視直播|全球電視 - 國際電視直播|全球電視 - 國際電視直播|NetTV: Watch Global TV|NetTV: Watch Global TV|
-|664|6446178861|自动|PlayNav - 影片内无广告！|PlayNav - 影片內無廣告！|PlayNav - 影片內無廣告！|PlayNav - 影片內無廣告！|PlayNav - No ads in videos!|PlayNav - No ads in videos!|
+|664| ~~6446178861~~ |自动| ~~PlayNav - 影片内无广告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - No ads in videos!~~ | ~~PlayNav - No ads in videos!~~ |
 |663|363385252|自动|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|
 |662|430270438|自动|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|
 |661|679454835|自动|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|
@@ -711,10 +711,10 @@
 |480|890791581|自动|樂客導航王全3D Pro|樂客導航王全3D Pro|樂客導航王全3D Pro|樂客導航王全3D Pro|樂客導航王全3D Pro|樂客導航王全3D Pro|
 |479|891194610|自动|❌|戰車撞殭屍2 (Earn to Die 2)|戰車撞殭屍2 (Earn to Die 2)|戰車撞殭屍2 (Earn to Die 2)|Earn to Die 2|Earn to Die 2|
 |478|901738789|自动|地下城堡: 炼金术师的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|Dungeon Survivor|Dungeon Survivor|
-|477|904278510|自动|❌|刺客任務：狙擊 (Hitman Sniper)|刺客任務：狙擊 (Hitman Sniper)|刺客任務：狙擊 (Hitman Sniper)|Hitman Sniper|Hitman Sniper|
+|477| ~~904278510~~ |自动| ~~❌~~ | ~~刺客任務：狙擊 (Hitman Sniper)~~ | ~~刺客任務：狙擊 (Hitman Sniper)~~ | ~~刺客任務：狙擊 (Hitman Sniper)~~ | ~~Hitman Sniper~~ | ~~Hitman Sniper~~ |
 |476|912536422|自动|❌|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|
 |475|916976066|自动|短语键盘|短語鍵盤|短語鍵盤|短語鍵盤|Phraseboard Keyboard|Phraseboard Keyboard|
-|474|918609651|自动|Money Pro: Personal Finance AR|Money Pro: 個人財務|Money Pro: 個人財務|Money Pro: 個人財務|Money Pro: Personal Finance AR|Money Pro: Personal Finance AR|
+|474| ~~918609651~~ |自动| ~~Money Pro: Personal Finance AR~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: Personal Finance AR~~ | ~~Money Pro: Personal Finance AR~~ |
 |473|924695435|自动|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|
 |472|925494667|自动|❌|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|
 |471|926015463|自动|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|
@@ -741,7 +741,7 @@
 |450|1010311475|自动|QuickBend: Conduit Bending|QuickBend: Conduit Bending|QuickBend: Conduit Bending|QuickBend: Conduit Bending|QuickBend: Conduit Bending|QuickBend: Conduit Bending|
 |449|1012298403|自动|❌|Don't Starve: Pocket Edition|Don't Starve: Pocket Edition|Don't Starve: Pocket Edition|Don't Starve: Pocket Edition|Don't Starve: Pocket Edition|
 |448|1023146677|自动|❌|Five Nights at Freddy's 4|Five Nights at Freddy's 4|Five Nights at Freddy's 4|Five Nights at Freddy's 4|Five Nights at Freddy's 4|
-|447|1028950091|自动|贪婪洞窟：猿神降临|貪婪洞窟：猿神降临|貪婪洞窟：猿神降临|貪婪洞窟：猿神降临|The Greedy Cave|The Greedy Cave|
+|447| ~~1028950091~~ |自动| ~~贪婪洞窟：猿神降临~~ | ~~貪婪洞窟：猿神降临~~ | ~~貪婪洞窟：猿神降临~~ | ~~貪婪洞窟：猿神降临~~ | ~~The Greedy Cave~~ | ~~The Greedy Cave~~ |
 |446|1029932207|自动|❌|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|
 |445|1035219553|自动|Analog London|Analog London|Analog London|Analog London|Analog London|Analog London|
 |444|1035219562|自动|Analog Paris|Analog Paris|Analog Paris|Analog Paris|Analog Paris|Analog Paris|
@@ -803,7 +803,7 @@
 |388|1436429074|自动|FILCA - SLR Film Camera|FILCA - SLR Film Camera|FILCA - SLR Film Camera|FILCA - SLR Film Camera|FILCA - Vintage Film Camera|FILCA - SLR Film Camera|
 |387|1437096541|自动|❌|Rush Rally 3|Rush Rally 3|Rush Rally 3|Rush Rally 3|Rush Rally 3|
 |386|1438245901|自动|❌|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|
-|385|1439187947|自动|❌|Rebel Inc. (反叛公司)|Rebel Inc. (反叛公司)|Rebel Inc. (反叛公司)|Rebel Inc.|Rebel Inc.|
+|385| ~~1439187947~~ |自动| ~~❌~~ | ~~Rebel Inc. (反叛公司)~~ | ~~Rebel Inc. (反叛公司)~~ | ~~Rebel Inc. (反叛公司)~~ | ~~Rebel Inc.~~ | ~~Rebel Inc.~~ |
 |384|1439881811|自动|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|
 |383|1441969889|自动|❌|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|
 |382|1442776789|自动|❌|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|Pirates Outlaws|Pirates Outlaws|
@@ -909,7 +909,7 @@
 |282|6443916065|自动|WiFi万能钥匙专业版-无线热点密码安全万能wi-fi管家|WiFi萬能鑰匙專業版-無線熱點密碼安全萬能wi-fi管家|WiFi萬能鑰匙專業版-無線熱點密碼安全萬能wi-fi管家|WiFi萬能鑰匙專業版-無線熱點密碼安全萬能wi-fi管家|❌|❌|
 |281|6737512463|自动|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|
 |280|6462190343|自动|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|
-|279|6444782083|自动|王国保卫战4|❌|❌|❌|❌|❌|
+|279| ~~6444782083~~ |自动| ~~王国保卫战4~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |278|6450148077|自动|干中学！偷偷|干中学！偷偷|干中学！偷偷|干中学！偷偷|❌|干中学！偷偷|
 |277|6449766387|自动|合成大西瓜 : 专为手表设计的合成类休闲解压小游戏|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|
 |276|6740246950|自动|花皮 - 同城约会，无面具社交，解压释放正念素颜|花皮 - 同城约会，无面具社交，解压释放正念素颜|花皮 - 同城约会，无面具社交，解压释放正念素颜|花皮 - 同城约会，无面具社交，解压释放正念素颜|花皮 - 同城约会，无面具社交，解压释放正念素颜|花皮 - 同城约会，无面具社交，解压释放正念素颜|
@@ -986,7 +986,7 @@
 |205|6474616013|自动|❌|Trump Is Back|Trump Is Back|Trump Is Back|Trump Is Back|Trump Is Back|
 |204|6471594918|自动|Just a Simple Image Converter|Just a Simple Image Converter|Just a Simple Image Converter|Just a Simple Image Converter|Just a Simple Image Converter|Just a Simple Image Converter|
 |203|6686394372|自动|❌|Age of History 3|Age of History 3|Age of History 3|Age of History 3|Age of History 3|
-|202|6740471827|自动|手表经典迷宫游戏|手錶經典迷宮遊戲|手錶經典迷宮遊戲|手錶經典迷宮遊戲|Classic Maze Game for Watch|Classic Maze Game for Watch|
+|202| ~~6740471827~~ |自动| ~~手表经典迷宫游戏~~ | ~~手錶經典迷宮遊戲~~ | ~~手錶經典迷宮遊戲~~ | ~~手錶經典迷宮遊戲~~ | ~~Classic Maze Game for Watch~~ | ~~Classic Maze Game for Watch~~ |
 |201|1481853033|手动|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|
 |200|1581140954|手动|Noir - 为Safari添加深色模式|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|
 |199|1592917505|手动|Noir – 为Safari添加深色模式|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|
@@ -1128,7 +1128,7 @@
 |63|1261944766|手动|Alook浏览器 - 8倍速|Alook瀏覽器 - 8倍速|Alook瀏覽器 - 8倍速|Alook瀏覽器 - 8倍速|Alook Browser - 8x Speed|Alook Browser - 8x Speed|
 |62|866450515|手动|Forest 专注森林 - 番茄钟学习计时器|Forest 專注森林 - 讀書專注番茄鐘|Forest 專注森林 - 讀書專注番茄鐘|Forest 專注森林 - 讀書專注番茄鐘|Forest: Focus for Productivity|Forest: Focus for Productivity|
 |61|1600873673|手动|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|❌|❌|❌|
-|60|388624839|手动|扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别|CamScanner+|CamScanner+|CamScanner+|CamScanner + | OCR Scanner|CamScanner + | PDF Scanner|
+|60| ~~388624839~~ |手动| ~~扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别~~ | ~~CamScanner+~~ | ~~CamScanner+~~ | ~~CamScanner+~~ | ~~CamScanner + | OCR Scanner~~ | ~~CamScanner + | PDF Scanner~~ |
 |59|768160271|手动|航旅纵横PRO-官方机票、值机火车票接送机免税酒店|航旅纵横PRO-官方机票、值机火车票接送机免税酒店|航旅纵横PRO-官方机票、值机火车票接送机免税酒店|航旅纵横PRO-官方机票、值机火车票接送机免税酒店|航旅纵横PRO-官方机票、值机火车票接送机免税酒店|航旅纵横PRO-官方机票、值机火车票接送机免税酒店|
 |58|1439723850|手动|时间规划局 - 倒计时与提醒事项|Countdown! Reminders and Timer|Countdown! Reminders and Timer|Countdown! Reminders and Timer|Countdown! Reminders and Timer|Countdown! Reminders and Timer|
 |57|6447023668|手动|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|
