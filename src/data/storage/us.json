@@ -33,10 +33,22 @@
       "price": 9.99,
       "formattedPrice": "$9.99",
       "Pro Tier 1": "$9.99",
-      "Pro Tier 2": "$99.99",
+      "Pro Tier 2": "$14.99",
       "RadarScope Pro Subscription": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751203341836,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Pro Tier 2": "$14.99",
+            "Pro Tier 1": "$9.99",
+            "RadarScope Pro Subscription": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -10851,6 +10863,25 @@
       "Marketplace Pass w/trial": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751203341836,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Vehicles pack": "$9.99",
+            "Tools Pack": "$5.99",
+            "Scary Pack": "$9.99",
+            "Weapon Pack": "$5.99",
+            "Minecraft Pets Pack": "$9.99",
+            "Minecraft Morph Pack": "$5.99",
+            "Marketplace Pass Full": "$3.99",
+            "Marketplace Pass Trial": "$3.99",
+            "The Incredibles": "$7.99",
+            "Marketplace Pass w/trial": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750702674831,
@@ -26772,6 +26803,25 @@
     "history": [
       [
         {
+          "timestamp": 1751203341836,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "问财专业版连续包月": "$24.99",
+            "问财进阶版连续包月": "$9.99",
+            "598花币": "$89.99",
+            "299花币": "$39.99",
+            "早盘选股宝连续包月": "$39.99",
+            "机构探测器连续包月": "$17.49",
+            "金牛情报连续包月": "$10.99",
+            "分时顶底连续包季": "$18.99",
+            "波段雷达连续包季": "$41.99",
+            "主力密码连续包月": "$17.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750950811339,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -36581,6 +36631,23 @@
     "history": [
       [
         {
+          "timestamp": 1751203341836,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Element EXP increase": "$8.99",
+            "Rebirth EXP increase": "$8.99",
+            "Rebirth Package": "$41.99",
+            "12000 Rubies": "$84.99",
+            "50000 Rebirth Stones": "$84.99",
+            "Element Package": "$15.99",
+            "250 Hell Stones": "$41.99",
+            "120 Hell Stones": "$24.99",
+            "30 Hell Stones": "$8.99",
+            "500 Hell Stones": "$41.99"
+          }
+        },
+        {
           "timestamp": 1751171364012,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -43658,6 +43725,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751203341836,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_3": "$20.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Valentine Stage": "$3.99"
+          }
+        },
         {
           "timestamp": 1751191979116,
           "price": 0.49,
@@ -82843,6 +82926,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751203341836,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "ネオンシティ": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "オーロラプール": "$1.19",
+            "2025春いちごスキン": "$0.49",
+            "夏色クリームソーダ": "$1.19",
+            "Fireworks display": "$1.79",
+            "Sunset beach": "$1.19",
+            "フルーツパーラー": "$1.19",
+            "Halloween Party": "$1.79",
+            "New Year's Sunrise": "$1.79"
+          }
+        },
         {
           "timestamp": 1751188331610,
           "price": 2.99,
