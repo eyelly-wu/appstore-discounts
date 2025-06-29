@@ -248,6 +248,7 @@ export const latestAppConfig: AppConfig[] = [
       mo: 'Sonic Jump™',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1661136258,
@@ -1516,6 +1517,7 @@ export const part1AppConfig: AppConfig[] = [
       hk: 'Iron Marines',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1082806154,
@@ -3360,6 +3362,7 @@ export const part1AppConfig: AppConfig[] = [
       hk: 'Cluedo: Classic Edition',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1260271235,
@@ -3718,6 +3721,7 @@ export const part1AppConfig: AppConfig[] = [
       hk: 'PlayNav - 影片內無廣告！',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 363385252,
@@ -5070,6 +5074,7 @@ export const part1AppConfig: AppConfig[] = [
       tr: 'Hitman Sniper',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 912536422,
@@ -5093,6 +5098,7 @@ export const part1AppConfig: AppConfig[] = [
       tw: 'Money Pro: 個人財務',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 924695435,
@@ -5288,6 +5294,7 @@ export const part1AppConfig: AppConfig[] = [
       mo: '貪婪洞窟：猿神降临',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1029932207,
@@ -5740,6 +5747,7 @@ export const part1AppConfig: AppConfig[] = [
       tr: 'Rebel Inc.',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1439881811,
@@ -6525,6 +6533,7 @@ export const part1AppConfig: AppConfig[] = [
       cn: '王国保卫战4',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 6450148077,
@@ -7092,6 +7101,7 @@ export const part1AppConfig: AppConfig[] = [
       tr: 'Classic Maze Game for Watch',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1481853033,
@@ -7609,6 +7619,7 @@ export const part1AppConfig: AppConfig[] = [
       '扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别',
       { us: 'CamScanner + | OCR Scanner' },
     ],
+    allowNotification: false,
   },
   { id: 768160271, name: '航旅纵横PRO' },
   {
