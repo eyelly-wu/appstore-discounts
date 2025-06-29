@@ -28821,7 +28821,14 @@
       "Props Tip: flower": "₺39,99",
       "Pyramid obtain dial pointer display mode": "₺39,99",
       "Rockets get the door unlocking": "₺39,99",
-      "Lighthouse obtain exit door passcode": "₺39,99"
+      "Lighthouse obtain exit door passcode": "₺39,99",
+      "Purchase game": "₺39,99",
+      "Get tips on holographic camera": "₺39,99",
+      "Get tips about two weeks mesh box factory eye": "₺39,99",
+      "Get tips about the triangle blocks (1-6)": "₺39,99",
+      "Get tips on the bucket": "₺39,99",
+      "Get tips on stone-eyed": "₺39,99",
+      "Get tips about this mysterious stone": "₺39,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -28835,9 +28842,35 @@
       "Props Tip: flower": "₺39,99",
       "Pyramid obtain dial pointer display mode": "₺39,99",
       "Rockets get the door unlocking": "₺39,99",
-      "Lighthouse obtain exit door passcode": "₺39,99"
+      "Lighthouse obtain exit door passcode": "₺39,99",
+      "Purchase game": "₺39,99",
+      "Get tips on holographic camera": "₺39,99",
+      "Get tips about two weeks mesh box factory eye": "₺39,99",
+      "Get tips about the triangle blocks (1-6)": "₺39,99",
+      "Get tips on the bucket": "₺39,99",
+      "Get tips on stone-eyed": "₺39,99",
+      "Get tips about this mysterious stone": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751177854965,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Purchase game": "₺39,99",
+            "Props Tip: Temple corner": "₺39,99",
+            "Props Tip: Pyramid": "₺39,99",
+            "Props Tip: flower": "₺39,99",
+            "Get tips on holographic camera": "₺39,99",
+            "Get tips about two weeks mesh box factory eye": "₺39,99",
+            "Get tips about the triangle blocks (1-6)": "₺39,99",
+            "Get tips on the bucket": "₺39,99",
+            "Get tips on stone-eyed": "₺39,99",
+            "Get tips about this mysterious stone": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -32046,8 +32079,8 @@
       "Hero Jack'O Lantern": "₺39,99",
       "Mega Heroe Bundle": "₺799,99",
       "Tower Goblin War Zeppelin": "₺229,99",
-      "Tower Ignis Altar": "₺129,99",
-      "Hero Grosh": "₺229,99",
+      "Tower Ignis Altar": "₺39,99",
+      "Hero Grosh": "₺129,99",
       "Special Offer 27": "₺349,99",
       "Special Offer 24": "₺349,99",
       "Special Offer 21": "₺349,99",
@@ -32066,6 +32099,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751177854965,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "₺349,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Tower Ignis Altar": "₺39,99",
+            "Hero Grosh": "₺129,99",
+            "Special Offer 27": "₺349,99",
+            "Special Offer 24": "₺349,99",
+            "Special Offer 21": "₺349,99",
+            "Special Offer 20": "₺349,99",
+            "Special Offer 19": "₺349,99",
+            "Special Offer 18": "₺299,99"
+          }
+        },
         {
           "timestamp": 1751171364012,
           "price": 129.99,
@@ -71505,6 +71555,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751177854965,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1751152319729,
           "price": 2.99,
