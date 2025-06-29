@@ -23300,6 +23300,14 @@
     "history": [
       [
         {
+          "timestamp": 1751238723963,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751152319729,
           "price": 0,
           "formattedPrice": "Free",
@@ -31395,6 +31403,14 @@
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751238723963,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750029085113,
@@ -43249,6 +43265,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751238723963,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750201926797,
@@ -60697,14 +60721,27 @@
       "Mega Tip": "₺899,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99",
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
       "Tip": "₺229,99",
       "Yearly Recurring Tip": "₺399,99",
       "Monthly Recurring Tip": "₺79,99",
       "Mega Tip": "₺899,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751238723963,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Tip": "₺229,99",
+            "Yearly Recurring Tip": "₺399,99",
+            "Monthly Recurring Tip": "₺79,99",
+            "Mega Tip": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -60823,8 +60860,8 @@
       "Black Kitten Pack": "₺19,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99",
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
       "Cheongsam (New Year) Pack": "₺19,99",
       "Skinny Jeans Pack": "₺4,99",
       "Bikini Pack": "₺19,99",
@@ -60836,6 +60873,24 @@
       "Black Kitten Pack": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751238723963,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Cheongsam (New Year) Pack": "₺19,99",
+            "Skinny Jeans Pack": "₺4,99",
+            "Bikini Pack": "₺19,99",
+            "Cheongsam (Blue Flowers)": "₺19,99",
+            "Youthful Days Pack": "₺4,99",
+            "Energetic Pack": "₺4,99",
+            "Cyber Rabbit": "₺29,99",
+            "学院兔皮肤": "₺29,99",
+            "Black Kitten Pack": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746572538107,
@@ -71807,6 +71862,16 @@
       "Diamonds": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751238723963,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {
+            "Diamonds": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751177854965,
