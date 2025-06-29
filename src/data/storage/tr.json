@@ -14246,6 +14246,23 @@
     "history": [
       [
         {
+          "timestamp": 1751220977102,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Mix It Up": "₺0,00",
+            "Just For Kids": "₺0,00",
+            "The Ellen Show": "₺0,00",
+            "Build Your Own Deck": "₺129,99",
+            "Super Heroes": "₺99,99",
+            "Friends": "₺129,99",
+            "Wish You Were Here": "₺99,99",
+            "Happy Holidays": "₺99,99",
+            "Adult Supervision": "₺99,99",
+            "As Seen On TV": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1751217018061,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -71907,8 +71924,8 @@
   "6746683191": {
     "name": "CASE No: 1937",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99",
+      "price": 19.99,
+      "formattedPrice": "₺19,99",
       "10 Credits": "₺29,99",
       "30 Credits": "₺79,99",
       "Weekly Pass": "₺99,99",
@@ -71926,6 +71943,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751220977102,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "10 Credits": "₺29,99",
+            "30 Credits": "₺79,99",
+            "Weekly Pass": "₺99,99",
+            "Early Access": "₺49,99",
+            "75 Credits": "₺149,99"
+          }
+        },
         {
           "timestamp": 1751184924424,
           "price": 9.99,
