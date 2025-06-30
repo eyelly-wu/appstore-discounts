@@ -9963,6 +9963,14 @@
     "history": [
       [
         {
+          "timestamp": 1751253594307,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750407438491,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -28503,6 +28511,14 @@
     "history": [
       [
         {
+          "timestamp": 1751253594307,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751167411687,
           "price": 0,
           "formattedPrice": "Free",
@@ -37871,6 +37887,14 @@
       "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751253594307,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750043820849,
@@ -57578,6 +57602,14 @@
     "history": [
       [
         {
+          "timestamp": 1751253594307,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750216315437,
           "price": 2.49,
           "formattedPrice": "$2.49",
@@ -77026,14 +77058,27 @@
       "Mega Tip": "$19.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "Tip": "$4.99",
       "Monthly Recurring Tip": "$1.99",
       "Yearly Recurring Tip": "$9.99",
       "Mega Tip": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751253594307,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Tip": "$4.99",
+            "Monthly Recurring Tip": "$1.99",
+            "Mega Tip": "$19.99",
+            "Yearly Recurring Tip": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -77152,8 +77197,8 @@
       "Cheongsam (New Year) Pack": "$0.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "Cyber Rabbit": "$0.99",
       "Bikini Pack": "$0.99",
       "Black Kitten Pack": "$0.99",
@@ -77165,6 +77210,24 @@
       "Cheongsam (New Year) Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751253594307,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Cyber Rabbit": "$0.99",
+            "Bikini Pack": "$0.99",
+            "Youthful Days Pack": "$0.99",
+            "Energetic Pack": "$0.99",
+            "Cheongsam (Blue Flowers)": "$0.99",
+            "Skinny Jeans Pack": "$0.99",
+            "Black Kitten Pack": "$0.99",
+            "学院兔皮肤": "$0.99",
+            "Cheongsam (New Year) Pack": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746587952230,
@@ -94230,6 +94293,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751253594307,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$1.99"
+          }
+        },
         {
           "timestamp": 1751177854965,
           "inAppPurchases": {}
