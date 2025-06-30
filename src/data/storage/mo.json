@@ -33896,7 +33896,8 @@
       "喵斯快跑·傳奇": "USD 3.99",
       "肥宅快樂包 Vol.20": "USD 3.99",
       "MSR特選曲目組合包": "USD 5.99",
-      "古亞星兜風指南": "USD 3.99"
+      "古亞星兜風指南": "USD 3.99",
+      "unlockall_3": "USD 20.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -33935,9 +33936,29 @@
       "喵斯快跑·傳奇": "USD 2.99",
       "肥宅快樂包 Vol.20": "USD 3.99",
       "MSR特選曲目組合包": "USD 5.99",
-      "古亞星兜風指南": "USD 3.99"
+      "古亞星兜風指南": "USD 3.99",
+      "unlockall_3": "USD 20.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751321551544,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "unlockall_3": "USD 20.99",
+            "unlockall_0": "USD 27.99",
+            "unlockall_29": "USD 20.99",
+            "東方暮樂團 -壹-": "USD 3.99",
+            "cyTus": "USD 5.99",
+            "Let's GROOVE": "USD 3.99",
+            "暮 色 電 台 FM101": "USD 3.99",
+            "MSR特選曲目組合包_Vol.02": "USD 5.99",
+            "Miku in Museland": "USD 5.99",
+            "肥宅快樂包 Vol.3": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750860787382,
@@ -36253,6 +36274,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751321551544,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "UPGRADE PRO VERSION": "USD 59.99",
+            "KODAK SERIES FILM": "USD 5.99",
+            "FUJI SERIES FILM": "USD 4.99",
+            "RETRO SERIES FILM": "USD 4.99",
+            "UPGRADE PRO": "USD 39.99",
+            "LOMO SERIES": "USD 4.99",
+            "WEDDING SERIES FILM": "USD 4.99",
+            "IU SERIES FILM": "USD 4.99"
+          }
+        },
         {
           "timestamp": 1751317910544,
           "price": 3.99,
