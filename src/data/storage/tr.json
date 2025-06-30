@@ -61029,6 +61029,19 @@
     "history": [
       [
         {
+          "timestamp": 1751325127990,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Tip": "₺229,99",
+            "Yearly Recurring Tip": "₺399,99",
+            "Monthly Recurring Tip": "₺79,99",
+            "Mega Tip": "₺899,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751238723963,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -67507,6 +67520,18 @@
     "history": [
       [
         {
+          "timestamp": 1751325127990,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Premium Subscription": "₺99,99",
+            "Annual Premium Subscription": "₺229,99",
+            "TuneShift Lifetime Membership": "₺449,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751271520560,
           "price": 0,
           "formattedPrice": "Free",
@@ -72208,6 +72233,16 @@
       "Diamonds": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751325127990,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {
+            "Diamonds": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751264389517,
