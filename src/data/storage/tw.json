@@ -314,6 +314,25 @@
     "history": [
       [
         {
+          "timestamp": 1751303475051,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "$30.00",
+            "Grimm Skin Pack": "$30.00",
+            "Zombie Skin Pack": "$30.00",
+            "Monster Pack": "$30.00",
+            "Dance Pack Three": "$30.00",
+            "Mondo Pack": "$30.00",
+            "Superbowl Skin Pack": "$30.00",
+            "Candy Land Pack": "$30.00",
+            "Underwater World Pack": "$30.00",
+            "Mafia Pack": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750151670232,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -9136,8 +9155,8 @@
   "479516143": {
     "name": "Minecraft",
     "maxPriceInfo": {
-      "price": 33,
-      "formattedPrice": "$33.00",
+      "price": 215,
+      "formattedPrice": "$215.00",
       "Minecraft Store Item 2": "$60.00",
       "Realms Plus:10 Friends w/trial": "$240.00",
       "Minecraft Store Item 6": "$190.00",
@@ -9184,6 +9203,25 @@
       "Marketplace Pass w/trial": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751303475051,
+          "price": 215,
+          "formattedPrice": "$215.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$60.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$190.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$90.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$320.00",
+            "Minecraft Store Item 4": "$120.00",
+            "Minecraft Store Item 5": "$150.00",
+            "Minecraft Store Item 1": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750576337571,
@@ -22333,6 +22371,24 @@
       "年訂閱（早鳥）": "$660.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751303475051,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "森日豪華禮包": "$590.00",
+            "森日精選禮包": "$390.00",
+            "Elite Package": "$320.00",
+            "Supreme Package": "$150.00",
+            "Advanced Package": "$90.00",
+            "Starter Package": "$30.00",
+            "年訂閱": "$1,099.00",
+            "月訂閱（早鳥）": "$110.00",
+            "年訂閱（早鳥）": "$660.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749182767058,
