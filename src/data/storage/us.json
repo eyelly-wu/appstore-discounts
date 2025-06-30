@@ -26694,6 +26694,14 @@
     "history": [
       [
         {
+          "timestamp": 1751271520560,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750612219274,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -59314,6 +59322,22 @@
     "history": [
       [
         {
+          "timestamp": 1751271520560,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Jin Token": "$9.99",
+            "Speed Die": "$4.99",
+            "Fantasy Beach Bundle": "$11.99",
+            "Starseeker Token": "$9.99",
+            "Enchanted Forest Marine Bundle": "$11.99",
+            "LA Monstropolis Marine Bundle": "$11.99",
+            "The Rainbow Bundle": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750734832599,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -87405,7 +87429,7 @@
       "年度高级订阅": "$4.99",
       "Annual Premium Subscription": "$4.99",
       "Monthly Premium Subscription": "$1.99",
-      "TuneShift Lifetime Membership": "$7.99"
+      "TuneShift Lifetime Membership": "$9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -87420,6 +87444,18 @@
       "TuneShift Lifetime Membership": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751271520560,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Premium Subscription": "$1.99",
+            "TuneShift Lifetime Membership": "$9.99",
+            "Annual Premium Subscription": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750270663987,
@@ -94597,6 +94633,27 @@
           "timestamp": 1751109003929,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740755738": {
+    "name": "Lost in Fantaland",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751271520560,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
           "inAppPurchases": {}
         }
       ]

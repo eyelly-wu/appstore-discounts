@@ -21540,6 +21540,14 @@
     "history": [
       [
         {
+          "timestamp": 1751271520560,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750612219274,
           "price": 349.99,
           "formattedPrice": "₺349,99",
@@ -67247,7 +67255,7 @@
       "年度高级订阅": "₺229,99",
       "Annual Premium Subscription": "₺229,99",
       "Monthly Premium Subscription": "₺99,99",
-      "TuneShift Lifetime Membership": "₺349,99"
+      "TuneShift Lifetime Membership": "₺449,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -67262,6 +67270,18 @@
       "TuneShift Lifetime Membership": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751271520560,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Premium Subscription": "₺99,99",
+            "Annual Premium Subscription": "₺179,99",
+            "TuneShift Lifetime Membership": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750270663987,
@@ -72234,6 +72254,27 @@
           "timestamp": 1751109003929,
           "price": 229.99,
           "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740755738": {
+    "name": "Lost in Fantaland",
+    "maxPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751271520560,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
           "inAppPurchases": {}
         }
       ]

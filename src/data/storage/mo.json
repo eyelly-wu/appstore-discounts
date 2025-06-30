@@ -21118,6 +21118,14 @@
     "history": [
       [
         {
+          "timestamp": 1751271520560,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750612219274,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
@@ -62429,7 +62437,7 @@
       "年度高级订阅": "USD 4.99",
       "Annual Premium Subscription": "USD 3.99",
       "月度高級訂閱": "USD 1.99",
-      "TuneShift Lifetime Membership": "USD 7.99"
+      "TuneShift Lifetime Membership": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -62444,6 +62452,18 @@
       "TuneShift Lifetime Membership": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751271520560,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高級訂閱": "USD 1.99",
+            "Annual Premium Subscription": "USD 3.99",
+            "TuneShift Lifetime Membership": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750270663987,
@@ -65963,6 +65983,27 @@
           "timestamp": 1751109003929,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740755738": {
+    "name": "迷失幻途",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751271520560,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]
