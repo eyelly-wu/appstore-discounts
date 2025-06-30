@@ -1917,6 +1917,23 @@
     "history": [
       [
         {
+          "timestamp": 1751317910544,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$30.00",
+            "Shibuya HipstaPak": "$30.00",
+            "Portland HipstaPak": "$30.00",
+            "Mission Hipstapak": "$30.00",
+            "Camden HipstaPak": "$30.00",
+            "Soho HipstaPak": "$30.00",
+            "Foodie SnapPak": "$30.00",
+            "Bondi HipstaPak": "$30.00",
+            "RetroPak One": "$60.00",
+            "Multi-Exposure Kit": "$30.00"
+          }
+        },
+        {
           "timestamp": 1751314413097,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -9239,6 +9256,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751317910544,
+          "price": 215,
+          "formattedPrice": "$215.00",
+          "inAppPurchases": {
+            "Vehicles pack": "$320.00",
+            "Tools Pack": "$190.00",
+            "Scary Pack": "$320.00",
+            "Weapon Pack": "$190.00",
+            "Minecraft Pets Pack": "$320.00",
+            "Minecraft Morph Pack": "$190.00",
+            "Marketplace Pass Full": "$120.00",
+            "Marketplace Pass Trial": "$120.00",
+            "The Incredibles": "$290.00",
+            "Marketplace Pass w/trial": "$120.00"
+          }
+        },
         {
           "timestamp": 1751303475051,
           "price": 215,
@@ -33409,6 +33443,25 @@
     "history": [
       [
         {
+          "timestamp": 1751317910544,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "闯关基金XII": "$1,490.00",
+            "至尊闯关基金XII": "$2,990.00",
+            "1元首充礼包": "$30.00",
+            "王者礼包": "$990.00",
+            "黄金礼包": "$320.00",
+            "铂金礼包": "$490.00",
+            "钻石礼包": "$690.00",
+            "白银礼包": "$120.00",
+            "黑铁礼包": "$60.00",
+            "特权签到礼包": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751084193762,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -33952,6 +34005,25 @@
       "3,750,000 points": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751317910544,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "7,000,000 points": "$2,490.00",
+            "500,000 points": "$320.00",
+            "2,100,000 points": "$990.00",
+            "100,000 points": "$90.00",
+            "25,000 points": "$30.00",
+            "1,500,000 points": "$790.00",
+            "850,000 points": "$490.00",
+            "10,000,000 points": "$2,990.00",
+            "3,750,000 points": "$1,490.00",
+            "300,000 points": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746162152577,
@@ -40940,6 +41012,27 @@
           "timestamp": 1745328692670,
           "price": 490,
           "formattedPrice": "$490.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1297430468": {
+    "name": "Florence",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751317910544,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]

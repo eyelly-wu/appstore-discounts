@@ -26886,6 +26886,25 @@
     "history": [
       [
         {
+          "timestamp": 1751317910544,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "问财专业版连续包月": "$24.99",
+            "问财进阶版连续包月": "$9.99",
+            "598花币": "$89.99",
+            "299花币": "$39.99",
+            "早盘选股宝连续包月": "$39.99",
+            "机构探测器连续包月": "$17.49",
+            "金牛情报连续包月": "$10.99",
+            "分时顶底连续包季": "$18.99",
+            "波段雷达连续包季": "$41.99",
+            "主力密码连续包月": "$17.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751206242556,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -38340,6 +38359,23 @@
     "history": [
       [
         {
+          "timestamp": 1751317910544,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$4.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$2.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Tower Deep Devil's Reef": "$0.99",
+            "Tower Grim Cemetery": "$0.99",
+            "Hero Tank": "$3.99",
+            "Pirate Kings Campaign!": "$7.99",
+            "Tower Goblin War Zeppelin": "$4.99"
+          }
+        },
+        {
           "timestamp": 1751314413097,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -41679,6 +41715,27 @@
           "timestamp": 1745328692670,
           "price": 14.99,
           "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1297430468": {
+    "name": "Florence",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751317910544,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]
