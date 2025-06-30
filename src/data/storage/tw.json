@@ -13470,6 +13470,25 @@
     "history": [
       [
         {
+          "timestamp": 1751292775136,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "$30.00",
+            "SLS 2022: Jacksonville": "$30.00",
+            "SLS 2021: World Championship": "$30.00",
+            "SLS 2019: Sao Paulo": "$30.00",
+            "SLS 2019: London": "$30.00",
+            "Sandbox 1 Year": "$760.00",
+            "Sandbox 3 Months": "$300.00",
+            "Sandbox Monthly": "$150.00",
+            "SLS 2018: World Championship": "$30.00",
+            "Mountain of Bolts": "$2,990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750227539916,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -72345,6 +72364,19 @@
     "history": [
       [
         {
+          "timestamp": 1751292775136,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Yearly Recurring Tip": "$320.00",
+            "Monthly Recurring Tip": "$60.00",
+            "Mega Tip": "$690.00",
+            "Tip": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751206242556,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -85103,7 +85135,7 @@
       "连续按月订阅": "$60.00",
       "月度高级订阅": "$60.00",
       "年度高级订阅": "$150.00",
-      "Annual Premium Subscription": "$120.00",
+      "Annual Premium Subscription": "$150.00",
       "月度高級訂閱": "$60.00",
       "TuneShift Lifetime Membership": "$320.00"
     },
@@ -85121,6 +85153,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751292775136,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高級訂閱": "$60.00",
+            "Annual Premium Subscription": "$150.00",
+            "TuneShift Lifetime Membership": "$320.00"
+          }
+        },
         {
           "timestamp": 1751271520560,
           "price": 0,
@@ -90628,6 +90670,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751292775136,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Diamonds": "$60.00"
+          }
+        },
         {
           "timestamp": 1751264389517,
           "inAppPurchases": {}

@@ -56475,6 +56475,19 @@
     "history": [
       [
         {
+          "timestamp": 1751292775136,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Yearly Recurring Tip": "¥68.00",
+            "Monthly Recurring Tip": "¥15.00",
+            "Mega Tip": "¥148.00",
+            "Tip": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751206242556,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -63341,6 +63354,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751292775136,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "月度高级订阅": "¥12.00",
+            "年度高级订阅": "¥38.00",
+            "乐桥终身会员": "¥68.00"
+          }
+        },
         {
           "timestamp": 1751271520560,
           "price": 0,

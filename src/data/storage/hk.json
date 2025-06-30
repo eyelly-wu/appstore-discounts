@@ -75024,6 +75024,19 @@
     "history": [
       [
         {
+          "timestamp": 1751292775136,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Yearly Recurring Tip": "HK$ 88.00",
+            "Monthly Recurring Tip": "HK$ 18.00",
+            "Mega Tip": "HK$ 148.00",
+            "Tip": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751206242556,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -81800,6 +81813,24 @@
     "history": [
       [
         {
+          "timestamp": 1751292775136,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {
+            "ネオンシティ": "HK$ 9.00",
+            "夏色クリームソーダ": "HK$ 6.00",
+            "オーロラプール": "HK$ 6.00",
+            "フルーツパーラー": "HK$ 6.00",
+            "2025春イースタースキン": "HK$ 9.00",
+            "2025春さくらスキン": "HK$ 2.00",
+            "2025春ネモフィラスキン": "HK$ 2.00",
+            "2025春いちごスキン": "HK$ 2.00",
+            "Letter from Nemophila": "HK$ 6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750738979910,
           "price": 15,
           "formattedPrice": "HK$ 15.00",
@@ -85219,7 +85250,7 @@
       "连续按月订阅": "HK$ 18.00",
       "月度高级订阅": "HK$ 18.00",
       "年度高级订阅": "HK$ 38.00",
-      "Annual Premium Subscription": "HK$ 32.00",
+      "Annual Premium Subscription": "HK$ 38.00",
       "月度高級訂閱": "HK$ 18.00",
       "TuneShift Lifetime Membership": "HK$ 88.00"
     },
@@ -85237,6 +85268,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751292775136,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度高級訂閱": "HK$ 18.00",
+            "TuneShift Lifetime Membership": "HK$ 88.00",
+            "Annual Premium Subscription": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1751271520560,
           "price": 0,
@@ -90629,6 +90670,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751292775136,
+          "price": 6,
+          "formattedPrice": "HK$ 6.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1751264389517,
           "inAppPurchases": {}
