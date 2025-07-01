@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-07-01T09:38:08.954Z</updated>
+    <updated>2025-07-01T23:25:16.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-01T09:38:08.954Z</updated>
+        <updated>2025-07-01T23:25:16.995Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrTue, 01 Jul 2025 09:38:08 GMT</id>
+        <id>rankingtrTue, 01 Jul 2025 23:25:16 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-01T09:38:08.954Z</updated>
+        <updated>2025-07-01T23:25:16.995Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1186</b>
+        <b>1191</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>985</b>
+        <b>990</b>
       </td>
       <td>
         <b>30</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1082</b>
+        <b>1087</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>910</b>
+        <b>915</b>
       </td>
       <td>
         <b>26</b>
@@ -144,6 +144,74 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>4</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1271620263">ICEY</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1380582804">Mobile Empire</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1614795077">Otaku's Adventure</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1644917705">Cyber Manhunt</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
@@ -404,6 +472,224 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otaku's Adventure]]></title>
+        <id>Otaku's Adventure-tr-1751411532352</id>
+        <link href="https://apps.apple.com/tr/app/otakus-adventure/id1614795077?uo=4"/>
+        <updated>2025-07-01T23:12:12.352Z</updated>
+        <summary type="html"><![CDATA[Price: ₺129,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/otakus-adventure/id1614795077?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/81/10/23/8110232f-4e1c-8a11-8f2a-5fbfc0bea55d/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺129,99</span> → <b>
+  <strong>₺99,99</strong>
+</b><span>[₺99,99 ~ ₺129,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺99,99</b>
+</p><h2>Application Description</h2><p>
+  Otaku’s Adventure is a unique anime-style AVG that tells the story of an Otaku who has been single since birth and craves to be loved. After the romantic encounter with three charming girls, your life will take an unexpected turn: to go on a run-away adventure with Waifu, an outer-space journey with Gohard, or an exploration in a fantasy world with (´･ω･`). 
+
+- Kick start your thrilling and romantic adventure and release your Otaku energy!
+- Unlock 35+ endings following three different routes
+- Use your wit to solve the ingenious puzzles and beat a collection of funny mini-games ranging from shooting games to turn-based RPG combat
+- Enjoy the brand new DLC free of charge and uncover the untold story of Waifu
+- Get yourself immersed in the new voice-acting for Waifu and (´･ω･`) along with the original Cantonese voice-acting for Gohard
+- Test your Otaku-ness level by discovering the anime and game references!
+_________________________
+
+Follow us on Twitter: @XD_En_Official
+Contact: indie@xd.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/5e/93/c45e9390-b1e1-c6ad-e905-f0201cf04b11/50308b0f-81d5-4d04-9024-9e78f2939571_0.03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e1/78/54/e1785451-c0e3-7e72-0e4d-2599fb0099ee/e240c269-6fac-4420-9efb-928da773c48c_0.13.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e2/de/eb/e2deeb44-b1e5-11e4-129b-507f163c5a84/f9fe4f74-e71c-4689-b6b8-ec1d5812ada6_0.11.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cd/41/97/cd4197c7-c782-18f8-07ba-358226110869/49d18210-4084-485e-b087-0c19562d3a42_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/23/d9/4223d9cf-214b-2d95-b7ca-1fbc08ed81de/167872f1-69a4-466e-b414-16a74090619a_4.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/e4/25/b9e42535-fdb1-67db-bbad-4ed92e8135f1/aabb6544-5185-4c3d-8cab-58f72192e207_Image_16.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/01/18/74/011874e0-15e8-59a7-18fc-a5663aa79392/38085f32-039e-42f6-acb6-f2af4f1b3131_Image_14.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/74/85/0a/74850ac4-16c4-aff1-5f5b-ec1359b3ea22/fd2368d7-198b-4a43-aec6-5d7a2df135ac_Image_18.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/33/71/2d/33712d6c-e121-b8c2-7630-252657bfe9fd/3964fbf4-962d-414f-bc43-5aa546ce2dba_5-1600x1200.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/87/b8/cb87b846-df08-4758-8a51-4a88fd8d24ef/5cf8ac1f-eec9-4df3-9f35-5ed5ce1c3c72_4-1600x1200.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Empire]]></title>
+        <id>Mobile Empire-tr-1751411532352</id>
+        <link href="https://apps.apple.com/tr/app/mobile-empire/id1380582804?uo=4"/>
+        <updated>2025-07-01T23:12:12.352Z</updated>
+        <summary type="html"><![CDATA[Price: ₺129,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/mobile-empire/id1380582804?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/fd/4f/35fd4fcb-381b-1ee8-d703-e4173dfb9613/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺129,99</span> → <b>
+  <strong>₺99,99</strong>
+</b><span>[₺79,99 ~ ₺129,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺99,99</b>
+</p><h2>Application Description</h2><p>
+  Game Introduction
+Mobile Empire is a simulation game based on "manufacturing mobile phones", with a high degree of freedom. You will play as an entrepreneur back in 2001. You acquired the initial capital from a mystery investor because of your unique vision and created a technological enterprise that may change the world. The game starts from 2001 and ends in 2035, during which you will start with old school smartphones in the early R&D stages, progressing until AR smart glasses can be independently used. During the 35 years, you will experience, witness, and promote the magnificent development process of smartphones. You have the chance to develop your company into the world's number one technological enterprise.
+
+• Unique theme
+Currently, Mobile Empire is probably the only PC simulation game based on "manufacturing mobile phones". You will have the chance to create miracles and develop your little-known company into a global technological empire. 
+
+• Innovative competition experience
+In order to simulate a real business environment, lots of competitors will be constantly updated. Players may cooperate with them for joint development or poach talents from them. 
+
+• Massive amounts of random events
+In order to create a better "sense of the world", a great deal of industrial events, world events, crisis events, lucky events, employee events, and news interviews are set in this game for you to make your own choices.
+
+• Bountiful blueprints
+The game includes 65 different cell phone blueprints and more than 100 cell phone appearances from 3x3 keypads to full-screen and folding screens, and even includes futuristic AR smart glasses. Bountiful blueprints are yours to explore. 
+
+• Vast technologies
+In this game, there are many technologies and accessories are available for upgrade. In addition, with adequate funds, you can even research and develop CPUs with superior performance and experience better operating systems. Customized naming is also supported.
+
+• Creative persuasion system
+In terms of talent recruitment, the game provides a very distinctive "persuasion" system. To acquire the top talents, you need to use different communication skills to persuade the recruits according to their personalities.
+
+• Other contents for you to explore
+The game also includes credit ratings, company acquisitions, employee development, outsourcing mode, intelligence system, company strategies, and more for you to explore.
+
+• "Mobile Empire" IOS supports the archive of PC games.
+
+Languages Supported:
+*English
+*简体中文 (Simplified Chinese)
+*繁体中文 (Traditional Chinese)
+
+Operating system 
+iOS: version 8.0 or higher 
+
+Recommended configuration 
+RAM: 1 GB or more 
+Storage: 1.5 GB 
+
+Service Email：indie@xindong.com
+©2020 X.D. Network Inc. All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b8/fe/fc/b8fefc8b-6c32-b894-08e5-41f7b3fa2f00/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/7e/cd/d67ecdae-7c6e-194a-686b-372215a3d749/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/dd/2d/f4dd2d01-b058-0dec-5055-d39b6cb298f9/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/26/ed/8a/26ed8a89-a896-ab7d-4274-b9330df234b5/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/24/ce/1a/24ce1a52-ef89-0a2e-63b3-b03f807a27b4/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/52/ff/7d52ff54-ba37-e55d-735e-ebb5ce3daf73/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/66/34/26/66342640-7d7c-8777-faca-aed8a6b7bad3/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0b/c6/c2/0bc6c265-10bd-42ba-4ede-8db2d1f2a806/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/65/7b/31657b19-4313-83e6-1afd-6d2c32144225/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8c/d4/da/8cd4daa6-8f24-d4a1-a68f-55e66f940ba1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/22/f0/a122f04f-71a1-5a4b-32a7-4bf2505b19f1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/92/87/b99287bb-851f-588e-8ef3-00836061a3b3/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/56/5e/ea/565eea63-b50f-f5a2-9b28-c170058a67bf/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f9/7c/64/f97c6426-a8f0-6428-ee44-c6d5a84103d0/pr_source.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICEY]]></title>
+        <id>ICEY-tr-1751411532352</id>
+        <link href="https://apps.apple.com/tr/app/icey/id1271620263?uo=4"/>
+        <updated>2025-07-01T23:12:12.352Z</updated>
+        <summary type="html"><![CDATA[Price: ₺129,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/icey/id1271620263?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/42/e4/0b/42e40bed-ba27-1450-9463-da43e44010d3/AppIcon-1x_U007emarketing-0-9-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺129,99</span> → <b>
+  <strong>₺99,99</strong>
+</b><span>[₺79,99 ~ ₺129,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺99,99</b>
+</p><h2>Application Description</h2><p>
+  ICEY is a 2D side-scrolling action game. As you follow the narrator's omnipresent voice, you will see through ICEY's eyes and learn the truth about her world. 
+
+“Alright, you caught me! This ISN'T really just a simple 2D action game, and you WON'T be seeing through ICEY's eyes... NOR will you learn the truth about her world." says the narrator. 
+
+“ICEY is a Meta game in disguise. The narrator will constantly urge you in one direction, but you must ask, "Why? Why am I following his directions? Why can't I learn the truth about this world and ICEY's purpose here?" Fight against his tyranny, and uncover what's really going on for yourself!
+
+In fact, you can become ICEY, and let loose the shackles of your own identity. You are ICEY, and ICEY is you... if you want it that way. Feel free to keep hold of your own self, if you wish. 
+
+Now Is the Time For You to Discover the Truth.
+
+[FEATURES]
+
+Fast-paced Combat: 
+Crush enemies in the palm of your hand. 
+Attack! Dodge! Counterattack! Do not hesitate. 
+This is the only way to survive! 
+
+Incredible Combos: 
+With simple controls, amazing combos are easy to unleash, even for beginners. 
+Every skill is special in its own way. Master your favorites and create your own fighting style!
+
+Massive Cyborg Bosses: 
+Can you withstand the onslaught of attacks from terrifying cyborg bosses? 
+Every boss unleashes flurries of different attacks. It's up to you to find their weak spots and tear them apart!
+
+[Awards]
+-Nominated, Tokyo Game Show 2016 DENGEKI PlayStation Best Indie Game
+-Official Selection, 2016 Gamescom Indie Arena Booth 
+-Most Promising Game 2nd Prize, Taipei Game Show 2016 
+-Official Selection, Casual Connect Asia 2016 
+-Official Selection, IGF China 2015 
+-Best Technology Award, Indieplay 2015
+
+Operating system 
+iOS: version 8.0 or higher 
+
+Recommended configuration 
+RAM: 2 GB or more 
+Storage: 1.2 GB (iOS) 
+
+Tips 
+- As gameplay smoothness and reliability are affected by screen resolution and the number of applications running in the background, you can adjust the image quality option to achieve balance between image, smoothness and power consumption. 
+
+- Added MFi controller support
+
+Languages Supported:
+*English
+*Francais
+*Español
+*简体中文 (Simplified Chinese)
+*繁体中文 (Traditional Chinese)
+
+Facebook: /ICEYtheGame
+Twitter:@ICEYtheGame
+Service Email: ICEY@xindong.com
+2017 X.D. Network Inc. All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/31/4d/80314d42-4928-285e-ff1e-ae1ed0594fe5/mzl.paznipql.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/e1/ad/6be1ad4c-c98e-9ff0-c05e-442317676aa1/mzl.ixidjdpc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/20/bf/ec/20bfec09-f888-df7e-cb69-3e2b38d93039/mzl.qwspudpw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/1e/1b/311e1b7f-65f5-6868-3533-cd7a0f937706/mzl.qxndgpfo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/f3/05/cef305b2-337e-46b8-4bb9-faba8a466ae7/mzl.ugthspkk.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/73/0e/2b/730e2b72-7942-0a0a-d991-7860268f517f/mzl.jvnwrskb.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/71/0b/42/710b42d7-f75b-d88d-5f3a-40d305126d19/mzl.qhvrhsiw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/85/5e/92/855e9240-0e07-b317-a4ab-d649762b22f9/mzl.evnuizwl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/70/12/d3/7012d3b7-87cb-8022-3b2c-84b36e1e43e1/mzl.rnckkema.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Manhunt]]></title>
+        <id>Cyber Manhunt-tr-1751411532352</id>
+        <link href="https://apps.apple.com/tr/app/cyber-manhunt/id1644917705?uo=4"/>
+        <updated>2025-07-01T23:12:12.352Z</updated>
+        <summary type="html"><![CDATA[Price: ₺229,99 → ₺129,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/cyber-manhunt/id1644917705?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/96/74/769674e2-cb26-207b-0543-4fed45593717/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺229,99</span> → <b>
+  <strong>₺129,99</strong>
+</b><span>[₺99,99 ~ ₺229,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺129,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Hello World!：<b>₺39,99</b>
+  </li><li>
+    Home Sweet Home：<b>₺39,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Cyber Manhunt is a Cyber-Style, Realistic- Society theme, Story-Rich indie game. The game taked place in the Republic of Alivia with some different theme stories ,but the fate of the characters is closely related in there. It will focus on social issues liking big data, hacking, citizen privacy etc... 
+
+We want to reveal the profound themes behind the stories with wonderful plots and gamification. And let players pay more attention to Cyber Violence and Privacy Breaches.
+
+[Contents]
+◆Chapter I: Death of a Programmer
+The CEO of a company committed suicide by jumping off a building, and claimed that he was extorted tens of millions by his wife. While his wife posted photos of domestic violence on social networks. Who is lying?
+◆Chapter II: Invisible Eyes
+The indecent video of the female college student went viral on the Internet. At this moment, she was already socially dead. Who is the initiator? Who should protect the safety of women?
+◆Chapter III: The Evidence Vanishes
+The student council president, who is both excellent in character and study, suddenly disappeared. The bullying incident made the case more complicated. Who is the murderer and who is the victim?
+◆Chapter IV: The Price of Humiliation
+The female singer has been exposed again! Threatening letters, hype, the suicide of former girl group members... The Internet has set off a public opinion carnival again!
+◆Chapter V: Immortal Code
+When the society is in madness, are you willing to join the Immortal Code to obtain true love and immortality?
+◆DLC: Home Sweet Home
+Behind this seemingly sweet and happy family, everyone has their own secrets, what is the truth hidden behind?!
+◆DLC: Hello World!
+Senior researcher of Titan Dr. Lucrezia died in a terrible car accident on the spot, but the fellow Benjamin took escape from death. But he did not realize that he was about to be involved in a huge conspiracy…
+
+[Features]
+◆Highly Immersive: Gamers play as a hacker in the game, accepts the commission of the company, and solve dangerous incidents.
+◆Rich Gameplay: There are lots of features of Social Engineering in the game, which is including Detecting, Tracking, Puzzles-Solving, Destroying and Hacking etc..
+◆Wonderful Plots: Each chapter in the game will reflect a current hot social topic, such as: Sneak Shot, Cyber Violence, School Bullying, etc...
+◆Multiple Roles: There are many different roles in this game with a flash of personality. Their stories would be dug by yourself.
+◆Fully Dubbing: All the characters in the game have their own voice actors that make the game experience more immersive.
+◆Original Music: There are some original songs in the game, and the lyrics and vocals are all completed by the studio.
+
+[Gameplay]
+◆Web Search: You should collect basic information about the targets through the Internet search.
+◆Database: You can use the database to get deep information about targets.
+◆Crack: You would get passwords based on the obtained target's information, and use it to log in to accounts of different platforms.
+◆Chat: The exciting thing is that you need to chat with targets by disguise and use the information to get the trust of the target.
+◆Phishing: You can send phishing links to hack the targets' hardware devices, and get private information.
+◆Picture Analysis: You can get valuable information and relevant clues from pictures.
+More advanced hacking methods will be unlocked later!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/09/63/1f/09631f1f-c8d2-53cb-382c-2aaaa8b03978/b06ed38e-0bfc-4d1f-abe9-9557edcbe6bc_2208.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1c/8c/ca/1c8cca77-4287-a14e-96ae-4978b2e85dcc/a065e6bb-677c-4d4b-90c2-5355ad574556_QQ20220928-0.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/65/f4/8f/65f48f21-3bb5-a5e6-50f0-557cdfe54791/d6c8bead-b708-496d-a380-fdeab0fa31fe_QQ20220928-20.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a0/a5/20/a0a520c4-7bc6-6a85-db49-1f0f12804899/4c294ed6-ffde-4d46-a2db-9c675c61cc39_QQ20220928-12.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/82/9b/23/829b23ff-7070-6689-e77b-e73c9d454f89/103a1775-25cd-41cc-8c0a-837d74af7c99_QQ20220928-26.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/89/cd/71/89cd71f6-86b0-e129-c1f5-4577f34ad5ce/7ec5bf86-6f3c-4041-bd44-4d03877a0ee6_QQ20220928-7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/04/79/7e0479c8-4fa7-416d-c6fe-46c59a13875e/ec5aac03-6ba0-44f2-801a-3a8698b9afa2_QQ20220928-22.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ef/12/30/ef1230f7-5e7e-cafc-9f0a-c8743ad96bfa/c3241fe6-d425-43ad-ac70-368efb3ebfa8_QQ20220928-13.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/80/82/3c808259-f015-aa29-6242-0bce1a31acdb/b45eb479-f7b9-4afa-8eac-a99f1330de83_QQ20220928-3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2b/f0/aa/2bf0aaac-0c6c-60c0-a8b6-12e4da31826a/a785652f-3c39-481f-8f20-c09bada5b0f5_QQ20220928-10.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/5a/35/46/5a3546b4-a80d-70a3-8cee-bdff3e5d5ff2/8a0a9c33-737f-4e1a-9501-f6edd3f2fc0a_2732.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/25/b0/f1/25b0f1d1-b16e-0a96-c63b-655b0e6683ea/6ee61743-1842-4e11-a322-57a37dcc172b_21.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e0/a9/64/e0a96496-02e8-22bf-b9f5-f02af0eab486/24d70c38-e6b3-4b4c-828e-6bd21df7c27e_14.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/40/94/4b/40944bf0-9b22-2e82-0bba-8c094de44ce6/262a467c-9ad2-43d8-a1c8-a715873244d8_9.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/43/63/9a/43639aef-482c-990a-61c9-59becde605b9/66656253-8920-45d1-8c2b-8e9cfd5eb052_y1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/be/7a/28/be7a28e8-e7b8-5ec9-480e-1088dcb58579/396cc804-72a5-4d15-a546-d4114e8e8dde_16.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8e/38/bf/8e38bfb6-14df-6a28-f7ce-69d4a49c06b2/b0d20e51-a57d-4068-8444-c6a87197561b_18.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/39/6e/a9396eb3-24e1-db39-3d64-f7d56261d41a/66fb9935-dda0-441c-8fc2-cf284e962e37_20.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9b/2a/d0/9b2ad0bd-647b-ed1c-7354-0a6f494b766c/5668175f-307c-42f5-b0a9-d37863b5452e_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/02/0c/9e/020c9e79-8d17-a3c0-b452-bee53ef3d38d/3375bfc3-a40a-46f0-8f0e-f78fb1e5d866_13.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中药方剂速查 -【专业版】中医药查询宝典]]></title>
@@ -968,158 +1254,5 @@ Roll the dice, take investment risks, bid for properties in auctions, make your 
 
 Play Marmalade Game Studio’s multiplayer games with friends and family wherever you are! Our online games with friends include Clue/Cluedo, The Game of Life, The Game of Life 2 and Battleship.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/f9/f4/e2f9f4c0-52ad-4637-911e-503e20732d01/d04aa017-8e0c-4313-bc9b-b87c0ee8c600_monopoly_screenshots_september_2022_2208x1242_1_UK.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/42/d5/4e42d5e3-528d-65a9-5493-8d2e6e841cdb/c6a3bcd6-0d79-40f8-a82c-828ca45e75cd_monopoly_screenshots_september_2022_2208x1242_2_UK.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/e4/0a/f7e40a6a-715a-e019-3197-7c06e9c4e1ba/90090656-d8e7-43a3-8583-d7ca244bb7b3_monopoly_screenshots_september_2022_2208x1242_3_UK.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/c9/c9/2bc9c9ed-7bc5-79a4-ae6d-3c071d5281df/84082a58-fd0f-4fb5-b733-3a003b310148_monopoly_screenshots_september_2022_2208x1242_4_UK.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/32/af/b832afce-4462-4704-3151-980cf3debe5a/378e43ae-4412-4e40-874a-fa94b34714f2_ENG_mon_screenshots_may2024_2208x1242_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/ff/f2/28fff2a4-f7d9-5f76-eed3-958b60f40bb2/21aa2f34-4031-4ad7-bbbb-2dda4f307b92_monopoly_screenshots_april_2022_2732x2048_1_UK.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/11/33/07113341-41f1-da90-2068-9f600508ae44/8b36bcbd-3e02-43fb-8bf7-da69033b6888_monopoly_screenshots_april_2022_2732x2048_2_UK.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/fa/73/bdfa7329-6e9c-f9a0-3f34-de43eadfb47f/c5179da6-ac1a-4633-80af-6329dbf7641b_monopoly_screenshots_april_2022_2732x2048_3_UK.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/d4/f8/08d4f8ad-2f8b-b946-a7e2-160d9e925505/e6e920d2-89c1-4f79-a7f6-41329519c647_monopoly_screenshots_april_2022_2732x2048_4_UK.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/78/45/ef7845aa-aa79-bdbc-fb6f-5a865e3a15ae/090edc1d-57fc-4e23-b0fa-3bb94d0ffa11_ENG_mon_screenshots_may2024_2732x2048_5.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All In One Memo]]></title>
-        <id>All In One Memo-tr-1751152319729</id>
-        <link href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4"/>
-        <updated>2025-06-28T23:11:59.729Z</updated>
-        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺179,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺179,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MovieSpirit - Movie Maker Pro]]></title>
-        <id>MovieSpirit - Movie Maker Pro-tr-1751152319729</id>
-        <link href="https://apps.apple.com/tr/app/moviespirit-movie-maker-pro/id1020541183?uo=4"/>
-        <updated>2025-06-28T23:11:59.729Z</updated>
-        <summary type="html"><![CDATA[Price: ₺449,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/moviespirit-movie-maker-pro/id1020541183?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/aa/8f/58aa8fc3-3ede-5036-6576-4f920c5138f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺449,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺449,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  Pay once, use forever！ You are free to use and upgrade the App in your whole life once you pay for the download once.
-
-Do you want to share your exciting and memorable moments with someone?
-Do you want to make your own movie?
-Do you want to be a director, a producer, a starring actor?
-
-In MovieSpirit, these characters can all be done by you alone!
-
-With MovieSpirit, you can combine various media materials, such as videos, photos, music, text, recording and finger graffiti, and according to your creativity,  edit them together and add various special effects (scene switching effects, Text animation, Filter effects, video Intro, masks and so on) to create your own movie. 
-
-Main functions:
-
-- Crop, split, merge, cut, transform, flip and scale media clips
-- Overlay multi-layers video (Picture-in-picture effect),  no limit to the number of videos or pictures
-- Professional Video Ratio, Scalable Timeline (frame by frame), Unlimited Track Layers
-- Add masks (Line mask, Rectangle mask, Circle mask, Text mask and Path mask options) to hide or show parts of the video
-- Video matting, remove video background
-- Cutout Tool (Custom Shape Tools such as Pen Tool, Lasso Tool, Smudge Tool and Text Tool can be used for image matting)
-- Replace background for green/blue screen video, chroma key compositing
-- up to 50 special effects options, such as Blur, Snow, Rain, Bubble, Flower, Earthquake, Mirror, Fireworks, Smoke, Vortex, flame, Starry Sky and so on
-- Gradual Opaque
-- Fast-Forward, Slow-Motion and reverse video (1/12 Slow to 16-fold Speed)
-- Text-to-Voice function (dozens of language options)
-- 360 Degrees rotating video
-- Multiple Image Blending modes
-- Various fonts, text templates, text colors, vertical text, emojis, shadows, text strokes, alignment etc., supports downloading new fonts from Internet or icloud 
-- Built-in free music and sound effects in various styles, adding music from your computer or from iTunes, and extracting audio from videos
-- Voice recording
-- Draw graffiti with your finger directly on the film, variety of auxiliary drawing shape tools that can be freely selected such as straight line, curve, arrow, circle, square, triangle, star, heart, colorful text and so on
-- Simple automatic tracking function
-- Add movable mosaic
-- Custom Background Color, such as solid color, gradient color and extract color from picture
-- Dozens of Animation effects
-- Adjustable Brightness, Contrast, Saturation, Exposure, White Balance, Gamma
-- Create your own GIF animation
-- Private Custom Intro titles (sold separately)
-- Up to 80 filter effects (sketch, comics, fisheye, magnifiers, glass, background blur, rotation blur, vortex, various color filter and so on
-- Up to 60 scene switching effects
-- dozens of appearance shapes can be set for video/picture such as circle, heart, diamond, star, various irregular shapes and even customize unique shapes
-- Can turn the video/photo into black and white, highlight the part that needs to be highlighted (Color Splash)
-- Free to deform video/photo into irregular shapes
-- Add motion points to video/photo/text to make them move, zoom, rotate and move together to create a variety of gorgeous effects, such as fade-in and fade-out effect and up to 100 multiple phantom effect
-- Real-time preview, high resolution video output (HD)
-- Import multimedia material directly from your computer via Wi-Fi: videos, photos, music and GIF animations
-- Save and share videos directly to social networks such as Facebook, Instagram, Twitter, iCloud, WeChat, Mailbox and so on
-- Helpful video tutorials
-
-
-We're looking forward to any feedback and comments on MovieSpirit, and if you have any query or problem, please feel free to contact us via email verytools2006@gmail.com
-
-We are committed to your long-term satisfaction. Thanks!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/84/43/c6/8443c612-e66f-2cc4-5404-28496758665d/mzl.vouvntxp.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/a6/b9/81a6b968-db10-16b0-7122-fc4bf9a89139/mzl.irrolmav.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5e/8d/10/5e8d104d-5b8e-8725-b913-0fec3a00d852/mzl.mhpnjkrz.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/55/22/99/552299e2-cf56-fa58-c350-3896ade7ec99/mzl.tasdcgmo.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e5/55/80/e55580c3-ea91-dee0-2e79-6aacfa44eaa6/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/a0/dd/d1a0dd33-42a6-43d9-bd74-e4d1aaf3e727/mzl.gyaqzhtx.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/14/f8/b1/14f8b185-87f3-3d82-6b0c-e34173307848/mzl.zegpdavb.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/8a/dd/f28addfb-74f5-1398-1267-8fb1cabff9e6/mzl.spbtrnit.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5f/3d/f1/5f3df1c1-daac-1cb8-f8c2-adf671519289/mzl.rkeuxqiq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/15/b1/b815b16e-b741-2fb6-68f7-7f1a61ac89b5/pr_source.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
-        <id>Card.Note - 多彩卡片笔记-tr-1751119837389</id>
-        <link href="https://apps.apple.com/tr/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
-        <updated>2025-06-28T14:10:37.389Z</updated>
-        <summary type="html"><![CDATA[Card.Note Premiun: ₺99,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bd/ea/39/bdea39a5-04ae-3694-52b7-e7564c9e9ed5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Card.Note Premiun：</strong><span>₺99,99</span> → <b>
-  <strong>₺39,99</strong>
-</b><span>[₺29,99 ~ ₺99,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Card.Note Premiun：<b>₺39,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  「Card.Note」：每个念头都值得用心记录
-
-这是一款以卡片为主要设计理念的极简记事 App 。
-你写的每一段文字都可以生成一张张精美的卡片 。
-
-你可以用它来写诗、短文、随想； 
-也可以用它来写日记、清单、规划、要事提醒；
-还可以直接用语音输入来记录每个瞬间的念头。
-
-「Card.Note」九大特点：
-
-1.极简设计
-循着极简的设计理念，结合图标及手势操作，轻松上手。
-
-2.全局卡片化
-充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
-
-3.全局手势化
-下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
-
-4.语音录入
-打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
-
-5.要事提醒：
-可设置提醒闹种，重要事情和计划不再错失。
-
-6.快捷高效
-支持3D-Touch及Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
-
-7.文青定制
-精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
-
-8.iCloud云同步
-支持iCloud云同步，多台设备间数据可任意同步。
-
-9.深色模式
-全局适配深色模式，视觉舒适不刺眼。
-
-感谢下载，生活愉快。
-
-如有问题或建议，请联系开发者
-微博：PoPoem开发者
-邮箱：yande18@126.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
