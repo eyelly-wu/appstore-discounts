@@ -57969,6 +57969,17 @@
     "history": [
       [
         {
+          "timestamp": 1751361345777,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "USD 39.99",
+            "通行證": "USD 4.99",
+            "可下載內容包": "USD 19.99",
+            "Street Wolf 裝束": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1751357879850,
           "price": 0,
           "formattedPrice": "免費",
@@ -60653,10 +60664,18 @@
       "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751361345777,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746498642266,
