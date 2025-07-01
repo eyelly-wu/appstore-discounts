@@ -18252,7 +18252,9 @@
       "2025 Birthday Package (Basic)": "₺599,99",
       "Deluxe Pack": "₺799,99",
       "Select Pack": "₺599,99",
-      "Annual (Early Bird)": "₺769,99"
+      "Annual (Early Bird)": "₺769,99",
+      "Annual": "₺769,99",
+      "Monthly (Early Bird)": "₺129,00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -18274,10 +18276,29 @@
       "2025 Birthday Package (Basic)": "₺449,99",
       "Deluxe Pack": "₺799,99",
       "Select Pack": "₺599,99",
-      "Annual (Early Bird)": "₺769,99"
+      "Annual (Early Bird)": "₺769,99",
+      "Annual": "₺769,99",
+      "Monthly (Early Bird)": "₺129,00"
     },
     "history": [
       [
+        {
+          "timestamp": 1751376490651,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Bottle of Sunshine Elixir": "₺39,99",
+            "Box of Sunshine Elixir": "₺99,99",
+            "Shovelful of Crystal": "₺39,99",
+            "Annual (Early Bird)": "₺769,99",
+            "Small pot of Crystal": "₺229,99",
+            "Annual": "₺769,99",
+            "Monthly (Early Bird)": "₺129,00",
+            "Large bag of Crystal": "₺499,99",
+            "Advanced Bonus Pack": "₺299,99",
+            "Cartful of Crystal": "₺999,99"
+          }
+        },
         {
           "timestamp": 1751364857528,
           "price": 0,
@@ -54338,6 +54359,20 @@
       "SkySafari Premium Monthly": "₺68,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751376490651,
+          "price": 2299.99,
+          "formattedPrice": "₺2.299,99",
+          "inAppPurchases": {
+            "SkySafari Premium": "₺1.299,99",
+            "GAIA Star Database": "₺0,00",
+            "PGC Galaxy Database": "₺0,00",
+            "Apollo Lunar Missions": "₺0,00",
+            "SkySafari Premium Monthly": "₺68,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750950811339,
