@@ -77454,6 +77454,19 @@
     "history": [
       [
         {
+          "timestamp": 1751340289418,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Monthly Recurring Tip": "$1.99",
+            "Tip": "$4.99",
+            "Mega Tip": "$19.99",
+            "Yearly Recurring Tip": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751253594307,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -87750,6 +87763,16 @@
     "history": [
       [
         {
+          "timestamp": 1751340289418,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Premium Subscription": "$1.99",
+            "Annual Premium Subscription": "$4.99",
+            "TuneShift Lifetime Membership": "$9.99"
+          }
+        },
+        {
           "timestamp": 1751271520560,
           "price": 0,
           "formattedPrice": "Free",
@@ -94729,6 +94752,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751340289418,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$1.99"
+          }
+        },
         {
           "timestamp": 1751264389517,
           "inAppPurchases": {}
