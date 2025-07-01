@@ -1309,7 +1309,9 @@
       "World Sweetener Pack": "$9.99",
       "Misc Stringed Sweeteners": "$3.99",
       "Harp Sweeteners": "$5.99",
-      "Harmonica Sweeteners": "$9.99"
+      "Harmonica Sweeteners": "$9.99",
+      "Accordion Sweetener Pack": "$9.99",
+      "All Sweeteners": "$39.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -1327,9 +1329,30 @@
       "World Sweetener Pack": "$9.99",
       "Misc Stringed Sweeteners": "$3.99",
       "Harp Sweeteners": "$5.99",
-      "Harmonica Sweeteners": "$9.99"
+      "Harmonica Sweeteners": "$9.99",
+      "Accordion Sweetener Pack": "$9.99",
+      "All Sweeteners": "$39.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751400833542,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Accordion Sweetener Pack": "$9.99",
+            "All Sweeteners": "$39.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Harmonic Tuning": "$19.99",
+            "Extended Frequency Modes": "$4.99",
+            "Buzz Feiten Pack": "$5.99",
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Harmonica Sweeteners": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750911731426,
