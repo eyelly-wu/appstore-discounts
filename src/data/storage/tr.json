@@ -4737,8 +4737,8 @@
       "Gold Level Free Trial": "₺0,00"
     },
     "minPriceInfo": {
-      "price": 1799.99,
-      "formattedPrice": "₺1.799,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Birth Chart Report - Full": "₺179,99",
       "Predictive Report - Full": "₺179,99",
       "Relationship Report": "₺179,99",
@@ -4755,6 +4755,25 @@
       "Gold Level Free Trial": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺179,99",
+            "Predictive Report - Full": "₺179,99",
+            "Relationship Report": "₺179,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Birthday Report": "₺179,99",
+            "Child Report - Full": "₺179,99",
+            "Predictive Report - No Background": "₺129,99",
+            "Astrolocality Maps": "₺999,99",
+            "Birth Chart Report - Untimed": "₺129,99",
+            "Predictive Report - Untimed": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750512109135,
@@ -32448,6 +32467,25 @@
       "Tower Swamp Thing": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Hero Beresad": "₺229,99",
+            "Tower Shaolin Temple": "₺39,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Tower Blazing Gem": "₺129,99",
+            "Mega Tower Bundle": "₺699,99",
+            "Hero Mortemis": "₺39,99",
+            "Pirate Kings Campaign!": "₺349,99",
+            "Tower Grim Cemetery": "₺39,99",
+            "Tower Ignis Altar": "₺39,99",
+            "Tower Deep Devil's Reef": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751307476772,

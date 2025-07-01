@@ -6703,8 +6703,8 @@
       "Child Report - Untimed": "$2.99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "$39.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Birth Chart Report - Full": "$3.99",
       "Predictive Report - Full": "$3.99",
       "Relationship Report": "$3.99",
@@ -6721,6 +6721,25 @@
       "Child Report - Untimed": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "$3.99",
+            "Predictive Report - Full": "$3.99",
+            "Relationship Report": "$3.99",
+            "Birthday Report": "$3.99",
+            "Child Report - Full": "$3.99",
+            "Astrolocality Maps": "$24.99",
+            "7-day Trial Astrolocality": "$0.00",
+            "Predictive Report - No Background": "$2.99",
+            "Birth Chart Report - Untimed": "$2.99",
+            "My Pet Report": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750932823210,
@@ -44023,6 +44042,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751332184337,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_3": "$20.99",
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "Valentine Stage": "$3.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$8.99",
+            "MUSE RADIO FM104": "$3.99"
+          }
+        },
         {
           "timestamp": 1751257672595,
           "price": 0.49,
@@ -83416,6 +83452,25 @@
       "フルーツパーラー": "$1.19"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "Fireworks display": "$1.79",
+            "Halloween Party": "$1.79",
+            "オーロラプール": "$1.19",
+            "Sunset beach": "$1.19",
+            "Crimson Walk": "$1.79",
+            "2025春いちごスキン": "$0.49",
+            "夏色クリームソーダ": "$1.19",
+            "フルーツパーラー": "$1.19"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751203341836,

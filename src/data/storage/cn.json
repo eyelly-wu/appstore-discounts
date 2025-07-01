@@ -5327,8 +5327,8 @@
       "Gold Level Free Trial": "¥0.00"
     },
     "minPriceInfo": {
-      "price": 298,
-      "formattedPrice": "¥298.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "Birth Chart Report - Full": "¥28.00",
       "7-day Trial Astrolocality": "¥0.00",
       "Relationship Report": "¥28.00",
@@ -5347,6 +5347,25 @@
       "Gold Level Free Trial": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Astrolocality Maps": "¥168.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Full": "¥28.00",
+            "Child Report - Full": "¥28.00",
+            "Predictive Report - No Background": "¥22.00",
+            "Birth Chart Report - Untimed": "¥22.00",
+            "Birthday Report": "¥28.00",
+            "Predictive Report - Untimed": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -53638,6 +53657,24 @@
     "history": [
       [
         {
+          "timestamp": 1751332184337,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "心愿礼包": "¥45.00",
+            "聚财盆": "¥18.00",
+            "超值月卡": "¥30.00",
+            "豪华月卡": "¥68.00",
+            "一碟包子": "¥6.00",
+            "SP武将碎片": "¥298.00",
+            "新手成长礼包": "¥6.00",
+            "竞赛VIP赛季卡": "¥30.00",
+            "犒赏令": "¥68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751231470489,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -64648,6 +64685,25 @@
       "激情版": "¥5.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "自创武将": "¥24.00",
+            "终身版": "¥45.00",
+            "战国七雄": "¥28.00",
+            "群雄争霸": "¥14.00",
+            "自创武将朝代特色兵种补丁": "¥28.00",
+            "楚汉争霸": "¥28.00",
+            "自创地图": "¥24.00",
+            "虎啸凤鸣": "¥14.00",
+            "无双战神": "¥14.00",
+            "镇海神威": "¥14.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751203341836,

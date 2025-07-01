@@ -6599,8 +6599,8 @@
       "Gold Level Free Trial": "HK$ 0.00"
     },
     "minPriceInfo": {
-      "price": 288,
-      "formattedPrice": "HK$ 288.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Birth Chart Report - Full": "HK$ 32.00",
       "Predictive Report - Full": "HK$ 32.00",
       "Relationship Report": "HK$ 32.00",
@@ -6619,6 +6619,25 @@
       "Gold Level Free Trial": "HK$ 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "HK$ 32.00",
+            "Predictive Report - Full": "HK$ 32.00",
+            "Astrolocality Maps": "HK$ 188.00",
+            "Relationship Report": "HK$ 32.00",
+            "7-day Trial Astrolocality": "HK$ 0.00",
+            "Birthday Report": "HK$ 32.00",
+            "Predictive Report - No Background": "HK$ 22.00",
+            "Child Report - Full": "HK$ 32.00",
+            "Birth Chart Report - Untimed": "HK$ 22.00",
+            "Predictive Report - Untimed": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -36783,7 +36802,8 @@
       "促銷禮包5": "HK$ 118.00",
       "促銷禮包4": "HK$ 88.00",
       "促銷禮包1": "HK$ 22.00",
-      "一大车钻石": "HK$ 788.00"
+      "一大车钻石": "HK$ 788.00",
+      "一箱鑽石": "HK$ 388.00"
     },
     "minPriceInfo": {
       "price": 2,
@@ -36801,9 +36821,29 @@
       "促銷禮包5": "HK$ 118.00",
       "促銷禮包4": "HK$ 88.00",
       "促銷禮包1": "HK$ 22.00",
-      "一大车钻石": "HK$ 788.00"
+      "一大车钻石": "HK$ 788.00",
+      "一箱鑽石": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "一筆鑽石": "HK$ 38.00",
+            "一大袋鑽石": "HK$ 148.00",
+            "僱傭超能少年": "HK$ 18.00",
+            "促銷禮包3": "HK$ 58.00",
+            "1代套裝(3星)": "HK$ 18.00",
+            "一小袋鑽石": "HK$ 88.00",
+            "雙倍獎勵": "HK$ 18.00",
+            "一箱鑽石": "HK$ 388.00",
+            "100鑽石": "HK$ 8.00",
+            "雙倍背包": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750277699977,
@@ -40562,6 +40602,25 @@
       "B.B.K.K.B.K.K. 2023 Remake SLC": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "HARDCORE TANO*C VOL.II": "HK$ 38.00",
+            "HARDCORE TANO*C": "HK$ 38.00",
+            "Cosmic Radio 2024": "HK$ 38.00",
+            "Miku Extend 2025": "HK$ 38.00",
+            "Paradigm: Reboot pt. 2": "HK$ 38.00",
+            "Paradigm: Reboot pt. 1": "HK$ 38.00",
+            "RAVON": "HK$ 38.00",
+            "NEKO_II": "HK$ 88.00",
+            "Rhythm Games Party 2024": "HK$ 38.00",
+            "B.B.K.K.B.K.K. 2023 Remake SLC": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750899739699,
@@ -56438,6 +56497,25 @@
       "禮包5": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "月俸": "HK$ 22.00",
+            "尊享月俸": "HK$ 38.00",
+            "戰姬": "HK$ 788.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750998131705,

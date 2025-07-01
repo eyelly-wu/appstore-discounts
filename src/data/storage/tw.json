@@ -1917,6 +1917,23 @@
     "history": [
       [
         {
+          "timestamp": 1751332184337,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Príncipe Real HipstaPak": "$60.00",
+            "Coyoacán HipstaPak": "$60.00",
+            "Ohara HipstaPak": "$60.00",
+            "RetroPak 2022": "$220.00",
+            "RetroPak 2023": "$320.00",
+            "RetroPak Twenty-One": "$150.00",
+            "Highland Park HipstaPak": "$30.00",
+            "Pilsen HipstaPak": "$30.00",
+            "Tiong Bahru HipstaPak": "$30.00",
+            "Impressionist SnapPak": "$30.00"
+          }
+        },
+        {
           "timestamp": 1751317910544,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -5692,8 +5709,8 @@
       "Gold Level Free Trial": "$0.00"
     },
     "minPriceInfo": {
-      "price": 1290,
-      "formattedPrice": "$1,290.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "7-day Trial Astrolocality": "$0.00",
       "Birth Chart Report - Full": "$120.00",
       "Relationship Report": "$120.00",
@@ -5712,6 +5729,25 @@
       "Gold Level Free Trial": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Astrolocality Maps": "$790.00",
+            "Birth Chart Report - Full": "$120.00",
+            "Relationship Report": "$120.00",
+            "Predictive Report - Full": "$120.00",
+            "7-day Trial Astrolocality": "$0.00",
+            "Predictive Report - No Background": "$90.00",
+            "Birth Chart Report - Untimed": "$90.00",
+            "The Big Three Report": "$120.00",
+            "Birthday Report": "$120.00",
+            "Child Report - Full": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -20240,6 +20276,25 @@
     "history": [
       [
         {
+          "timestamp": 1751332184337,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "$490.00",
+            "Racing Prodigy X30 Atlanta": "$490.00",
+            "Racing Prodigy X30 Kart Dubai": "$490.00",
+            "Racing Prodigy X30 B. Vegas": "$490.00",
+            "Racing Prodigy 50 Quali Tyres": "$150.00",
+            "10 Pack Qualifying Tyres": "$30.00",
+            "Figo 100 Octane Fuel Pack - 20": "$120.00",
+            "Le Cont Hards - 40 Tyre Pack": "$120.00",
+            "Le Cont Mediums - 40 Tyre Pack": "$120.00",
+            "Le Cont Softs - 40 Tyres Pack": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751188331610,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -34439,6 +34494,23 @@
       "Desperado Unlock Pack": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751332184337,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Desperado Unlock Pack": "$290.00",
+            "She-Ra Prestige Pack Sale": "$220.00",
+            "She-Ra Sword Booster Sale": "$60.00",
+            "She-Ra Sword Power Booster": "$120.00",
+            "She-Ra Prestige Pack": "$390.00",
+            "Battle Cat Booster Pack": "$120.00",
+            "Battle Cat Prestige Pack": "$120.00",
+            "Rogue Legends": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750652899804,
