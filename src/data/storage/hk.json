@@ -29667,10 +29667,18 @@
       "formattedPrice": "HK$ 168.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751357879850,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746698552946,
@@ -73964,6 +73972,18 @@
     "history": [
       [
         {
+          "timestamp": 1751357879850,
+          "price": 288,
+          "formattedPrice": "HK$ 288.00",
+          "inAppPurchases": {
+            "可下載內容包": "HK$ 138.00",
+            "通行證": "HK$ 35.00",
+            "Street Wolf 裝束": "HK$ 21.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749024185521,
           "price": 72,
           "formattedPrice": "HK$ 72.00",
@@ -76406,6 +76426,25 @@
       "武器專屬強化券 x1 (E)": "HK$ 16.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751357879850,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 428.00",
+            "逆命殊途": "HK$ 68.00",
+            "額外內容擴充包": "HK$ 138.00",
+            "金色公事包": "HK$ 7.00",
+            "武器專屬強化券 x5 (A)": "HK$ 68.00",
+            "武器專屬強化券 x3 (C)": "HK$ 49.00",
+            "武器專屬強化券 x3 (A)": "HK$ 49.00",
+            "武器專屬強化券 x3 (B)": "HK$ 49.00",
+            "武器專屬強化券 x3 (D)": "HK$ 49.00",
+            "武器專屬強化券 x1 (A)": "HK$ 21.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751235093130,

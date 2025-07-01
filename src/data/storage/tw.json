@@ -29949,10 +29949,18 @@
       "formattedPrice": "$690.00"
     },
     "minPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 190,
+      "formattedPrice": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751357879850,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746698552946,
@@ -71676,6 +71684,18 @@
     "history": [
       [
         {
+          "timestamp": 1751357879850,
+          "price": 1130,
+          "formattedPrice": "$1,130.00",
+          "inAppPurchases": {
+            "可下載內容包": "$560.00",
+            "通行證": "$140.00",
+            "Street Wolf 裝束": "$85.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749024185521,
           "price": 285,
           "formattedPrice": "$285.00",
@@ -73744,6 +73764,19 @@
     "history": [
       [
         {
+          "timestamp": 1751357879850,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "$1,130.00",
+            "通行證": "$140.00",
+            "可下載內容包": "$560.00",
+            "Street Wolf 裝束": "$85.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749024185521,
           "price": 0,
           "formattedPrice": "免費",
@@ -73921,6 +73954,25 @@
       "綠色藥草吊飾": "$29.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751357879850,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "$1,700.00",
+            "逆命殊途": "$280.00",
+            "額外內容擴充包": "$560.00",
+            "武器專屬強化券 x5 (A)": "$280.00",
+            "金色公事包": "$29.00",
+            "武器專屬強化券 x3 (A)": "$199.00",
+            "經典公事包": "$29.00",
+            "綠色藥草吊飾": "$29.00",
+            "手槍彈藥吊飾": "$29.00",
+            "武器專屬強化券 x3 (B)": "$199.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751213629295,
