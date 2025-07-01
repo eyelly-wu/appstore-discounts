@@ -1336,6 +1336,23 @@
     "history": [
       [
         {
+          "timestamp": 1751404306878,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Harmonic Tuning": "$19.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Extended Frequency Modes": "$4.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Buzz Feiten Pack": "$5.99",
+            "Keyboard Sweeteners": "$19.99",
+            "Orchestral Sweeteners": "$5.99"
+          }
+        },
+        {
           "timestamp": 1751400833542,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -16600,6 +16617,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751404306878,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Vault Of Gems": "$49.99",
+            "Wagon Of Gems": "$19.99",
+            "Chest Of Gems": "$9.99",
+            "Barrel Of Gems": "$4.99",
+            "Bag Of Gems": "$2.99",
+            "Special Offer Saitam": "$2.99",
+            "Big Hero Pack 2": "$12.99",
+            "Saitam": "$2.99",
+            "Big Hero Pack": "$9.99",
+            "Hero Pack 5": "$4.99"
+          }
+        },
         {
           "timestamp": 1751344323964,
           "price": 0.99,
@@ -33189,6 +33223,27 @@
           "timestamp": 1750605098690,
           "price": 9.99,
           "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1086456790": {
+    "name": "SRR Counter for Dogs & Cats",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751404306878,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]
@@ -95471,6 +95526,19 @@
           "timestamp": 1751271520560,
           "price": 3.99,
           "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746355331": {
+    "name": "Stop&Get Away From Me! Defense",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1751404306878,
           "inAppPurchases": {}
         }
       ]

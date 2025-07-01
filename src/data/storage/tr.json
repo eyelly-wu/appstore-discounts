@@ -14382,6 +14382,25 @@
     "history": [
       [
         {
+          "timestamp": 1751404306878,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Holiday Offer Native July 2025": "₺899,99",
+            "Kids Favs Bundle": "₺249,99",
+            "Animation Bundle Sale": "₺229,99",
+            "Animated Movies Deck": "₺99,99",
+            "Animation Bundle": "₺249,99",
+            "Kids Favs Bundle Sale": "₺229,99",
+            "Around The World Bundle": "₺299,99",
+            "Travel Essentials Deck": "₺99,99",
+            "Around The World Bundle Sale": "₺249,99",
+            "90s And 00s Cartoons Deck": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751296437522,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -26315,6 +26334,27 @@
           "timestamp": 1750605098690,
           "price": 449.99,
           "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1086456790": {
+    "name": "SRR Counter for Dogs & Cats",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751404306878,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
           "inAppPurchases": {}
         }
       ]
@@ -72883,6 +72923,19 @@
           "timestamp": 1751271520560,
           "price": 179.99,
           "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746355331": {
+    "name": "Stop&Get Away From Me! Defense",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1751404306878,
           "inAppPurchases": {}
         }
       ]

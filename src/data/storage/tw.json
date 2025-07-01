@@ -12846,6 +12846,25 @@
     "history": [
       [
         {
+          "timestamp": 1751404306878,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Procurement Director": "$30.00",
+            "Disaster Manager": "$30.00",
+            "Medical Coordinator": "$30.00",
+            "Ethics Watchdog": "$30.00",
+            "Chaos Engineer": "$30.00",
+            "Economic Forecaster": "$30.00",
+            "Situation Director": "$30.00",
+            "Outreach Coordinator": "$30.00",
+            "Fast Response EMTs": "$30.00",
+            "Strategic Fundraiser": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750899739699,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -33256,6 +33275,27 @@
           "timestamp": 1750605098690,
           "price": 320,
           "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1086456790": {
+    "name": "SRR Counter for Dogs & Cats",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751404306878,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]
@@ -91757,6 +91797,31 @@
           "price": 120,
           "formattedPrice": "$120.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746355331": {
+    "name": "Stop&Get Away From Me! Defense",
+    "maxPriceInfo": {
+      "price": 20,
+      "formattedPrice": "$20.00",
+      "Diamonds": "$2,990.00"
+    },
+    "minPriceInfo": {
+      "price": 20,
+      "formattedPrice": "$20.00",
+      "Diamonds": "$2,990.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751404306878,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "Diamonds": "$2,990.00"
+          }
         }
       ]
     ]

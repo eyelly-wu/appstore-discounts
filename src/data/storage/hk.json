@@ -32408,6 +32408,27 @@
       ]
     ]
   },
+  "1086456790": {
+    "name": "SRR Counter for Dogs & Cats",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751404306878,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1086617993": {
     "name": "時間塊 - 快速記錄時間規劃日程安排",
     "maxPriceInfo": {
@@ -91573,6 +91594,31 @@
           "price": 32,
           "formattedPrice": "HK$ 32.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746355331": {
+    "name": "Stop&Get Away From Me! Defense",
+    "maxPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "Diamonds": "HK$ 788.00"
+    },
+    "minPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "Diamonds": "HK$ 788.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751404306878,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 788.00"
+          }
         }
       ]
     ]

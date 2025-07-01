@@ -4779,7 +4779,9 @@
       "My Pet Report": "USD 1.99",
       "Child Report - Untimed": "USD 2.99",
       "Gold Level lifetime": "USD 119.99",
-      "Gold Level Free Trial": "USD 0.00"
+      "Gold Level Free Trial": "USD 0.00",
+      "Gold Annual": "USD 59.99",
+      "Gold Monthly": "USD 7.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4795,9 +4797,30 @@
       "My Pet Report": "USD 1.99",
       "Child Report - Untimed": "USD 2.99",
       "Gold Level lifetime": "USD 99.99",
-      "Gold Level Free Trial": "USD 0.00"
+      "Gold Level Free Trial": "USD 0.00",
+      "Gold Annual": "USD 59.99",
+      "Gold Monthly": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751404306878,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Gold Annual": "USD 59.99",
+            "Gold Monthly": "USD 7.99",
+            "Gold Level lifetime": "USD 99.99",
+            "Gold Level Free Trial": "USD 0.00",
+            "Lunar Return Report": "USD 3.99",
+            "7-day Trial Astrolocality": "USD 0.00",
+            "Astrolocality Maps": "USD 24.99",
+            "The Big Three Report": "USD 3.99",
+            "Relationship Report": "USD 3.99",
+            "Predictive Report - Untimed": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751332184337,
@@ -19436,6 +19459,25 @@
     "history": [
       [
         {
+          "timestamp": 1751404306878,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Big Hero Pack 3": "USD 14.99",
+            "一倉庫寶石": "USD 49.99",
+            "一車寶石": "USD 19.99",
+            "一箱寶石": "USD 9.99",
+            "一桶寶石": "USD 4.99",
+            "一袋寶石": "USD 2.99",
+            "威爾伯": "USD 6.99",
+            "怖鹿獅": "USD 4.99",
+            "凌 .": "USD 4.99",
+            "英雄包 9": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751379155083,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -25676,6 +25718,27 @@
           "timestamp": 1750605098690,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1086456790": {
+    "name": "SRR Counter for Dogs & Cats",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751404306878,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

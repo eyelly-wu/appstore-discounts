@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1086456790,
+    name: {
+      mo: 'SRR Counter for Dogs & Cats',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6746355331,
+    name: {
+      hk: 'Stop&Get Away From Me! Defense',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1330451888,
     name: {
       mo: 'Pocket City',
