@@ -18041,8 +18041,8 @@
       "Learn to Drive Unlimited": "₺999,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
       "Learn to Drive UK - 1 month": "₺129,99",
       "Learn to Drive UK - 12 months": "₺599,99",
       "Learn to Drive UK - 3 months": "₺499,99",
@@ -18051,6 +18051,21 @@
       "Learn to Drive Unlimited": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751497970464,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Learn to Drive UK - 1 month": "₺129,99",
+            "Learn to Drive UK - 12 months": "₺599,99",
+            "Learn to Drive UK - 3 months": "₺499,99",
+            "Learn to Drive UK - Unlimited": "₺449,99",
+            "Learn to Drive UK - 3 month": "₺499,99",
+            "Learn to Drive Unlimited": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -23474,6 +23489,20 @@
       "125,000 Gold": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751497970464,
+          "price": 5,
+          "formattedPrice": "₺5,00",
+          "inAppPurchases": {
+            "25,000 Gold": "₺179,99",
+            "60,000 Gold": "₺449,99",
+            "700,000 Gold": "₺3.999,99",
+            "325,000 Gold": "₺1.999,99",
+            "125,000 Gold": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -40127,6 +40156,14 @@
     "history": [
       [
         {
+          "timestamp": 1751497970464,
+          "price": 11.99,
+          "formattedPrice": "₺11,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748991733994,
           "price": 54.99,
           "formattedPrice": "₺54,99",
@@ -41398,15 +41435,29 @@
       "Root: The Marauder Expansion": "₺449,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99",
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
       "The Riverfolk Expansion": "₺299,99",
-      "Root: The Underworld Expansion": "₺349,99",
+      "Root: The Underworld Expansion": "₺299,99",
       "The Clockwork Expansion": "₺179,99",
       "Exiles & Partisans & Vagabonds": "₺249,99",
       "Root: The Marauder Expansion": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751497970464,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "₺299,99",
+            "Root: The Underworld Expansion": "₺299,99",
+            "The Clockwork Expansion": "₺179,99",
+            "Exiles & Partisans & Vagabonds": "₺249,99",
+            "Root: The Marauder Expansion": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748559723409,
@@ -60414,10 +60465,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751497970464,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -73175,8 +73234,8 @@
   "6746633753": {
     "name": "Yōkai Retreat SP Yin Yang-Sama",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99",
+      "price": 449.99,
+      "formattedPrice": "₺449,99",
       "Diamonds": "₺129,99"
     },
     "minPriceInfo": {
@@ -73185,6 +73244,16 @@
       "Diamonds": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751497970464,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "Diamonds": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751437170649,
@@ -73527,14 +73596,22 @@
   "6740755738": {
     "name": "Lost in Fantaland",
     "maxPriceInfo": {
-      "price": 179.99,
-      "formattedPrice": "₺179,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 179.99,
       "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751497970464,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751271520560,
@@ -73554,6 +73631,16 @@
       "Diamonds": "₺4.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751497970464,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Diamonds": "₺4.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751437170649,
@@ -73584,9 +73671,23 @@
   },
   "6747758553": {
     "name": "Grand Agent: It Call",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "Diamonds": "₺699,99"
+    },
+    "minPriceInfo": {
+      "Diamonds": "₺699,99"
+    },
     "history": [
+      [
+        {
+          "timestamp": 1751497970464,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {
+            "Diamonds": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751487185942,
