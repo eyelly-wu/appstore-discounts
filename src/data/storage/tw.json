@@ -86579,6 +86579,25 @@
     "history": [
       [
         {
+          "timestamp": 1751440400252,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "The Aircraft Bundle": "$590.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 777-300ER": "$60.00",
+            "Global scenery - 3 months": "$220.00",
+            "Airbus A350-1000": "$120.00",
+            "UH-60": "$30.00",
+            "Airbus A321": "$60.00",
+            "Airbus A380": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751376490651,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -91856,6 +91875,10 @@
     "history": [
       [
         {
+          "timestamp": 1751440400252,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1751426026026,
           "price": 0,
           "formattedPrice": "免費",
@@ -92135,6 +92158,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751440400252,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1751430191350,
           "price": 0,
