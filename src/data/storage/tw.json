@@ -13792,6 +13792,25 @@
     "history": [
       [
         {
+          "timestamp": 1751430191350,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "$30.00",
+            "Skatepark: The Berrics": "$60.00",
+            "Skatepark: The Factory": "$30.00",
+            "Skatepark of Tampa": "$30.00",
+            "Skatepark: The Valley": "$30.00",
+            "Skatepark 6 Pack": "$150.00",
+            "Skatepark: Havasu": "$60.00",
+            "Skatepark: Schoolyard": "$30.00",
+            "Skatepark: Macba": "$60.00",
+            "The Alley": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751321551544,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -18554,6 +18573,25 @@
       "Holiday Offer Native July 2025": "$690.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751430191350,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Holiday Offer Native July 2025": "$690.00",
+            "Kids Favs Bundle": "$190.00",
+            "Animation Bundle Sale": "$150.00",
+            "Animated Movies Deck": "$60.00",
+            "Animation Bundle": "$190.00",
+            "Kids Favs Bundle Sale": "$150.00",
+            "Around The World Bundle": "$220.00",
+            "Travel Essentials Deck": "$60.00",
+            "Around The World Bundle Sale": "$190.00",
+            "90s And 00s Cartoons Deck": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751127229967,
@@ -78735,6 +78773,25 @@
     "history": [
       [
         {
+          "timestamp": 1751430191350,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "自創武將": "$120.00",
+            "群雄爭霸": "$60.00",
+            "終身版": "$220.00",
+            "自創地圖": "$120.00",
+            "戰國七雄": "$120.00",
+            "楚漢爭霸": "$120.00",
+            "自創武將朝代特色兵種補丁": "$120.00",
+            "巾幗綻芳華": "$60.00",
+            "無雙戰神": "$60.00",
+            "自創武將朝代服裝發飾素材補丁": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751344323964,
           "price": 0,
           "formattedPrice": "免費",
@@ -92055,12 +92112,20 @@
       "Diamonds": "$2,990.00"
     },
     "minPriceInfo": {
-      "price": 20,
-      "formattedPrice": "$20.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Diamonds": "$2,990.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1751430191350,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "$2,990.00"
+          }
+        },
         {
           "timestamp": 1751404306878,
           "price": 20,
