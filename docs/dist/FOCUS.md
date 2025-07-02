@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1193` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1194` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1194|6747758553|Automatic|❌|Grand Agent: It Call|❌|Grand Agent: It Call|Grand Agent: It Call|Grand Agent: It Call|
 |1193|509223426|Automatic|❌|Absolute RC Heli Simulator|Absolute RC Heli Simulator|Absolute RC Heli Simulator|Absolute RC Heli Simulator|Absolute RC Heli Simulator|
 |1192|389083586|Automatic|MDict|MDict|MDict|MDict|MDict|MDict|
 |1191|627818916|Automatic|❌|海鮮壽司物語|海鮮壽司物語|海鮮壽司物語|The Sushi Spinnery|The Sushi Spinnery|
