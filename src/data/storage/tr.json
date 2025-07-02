@@ -64369,14 +64369,22 @@
   "6449766387": {
     "name": "Merge Watermelon 4 Watch",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751447726836,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747609327795,
