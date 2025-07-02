@@ -6797,7 +6797,8 @@
       "My Pet Report": "$1.99",
       "Lunar Return Report": "$3.99",
       "Predictive Report - Untimed": "$2.99",
-      "Child Report - Untimed": "$2.99"
+      "Child Report - Untimed": "$2.99",
+      "Gold Level Free Trial": "$0.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -6815,9 +6816,29 @@
       "My Pet Report": "$1.99",
       "Lunar Return Report": "$3.99",
       "Predictive Report - Untimed": "$2.99",
-      "Child Report - Untimed": "$2.99"
+      "Child Report - Untimed": "$2.99",
+      "Gold Level Free Trial": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751451247046,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "$3.99",
+            "Predictive Report - Full": "$3.99",
+            "Relationship Report": "$3.99",
+            "Birthday Report": "$3.99",
+            "7-day Trial Astrolocality": "$0.00",
+            "Child Report - Full": "$3.99",
+            "Astrolocality Maps": "$24.99",
+            "Predictive Report - No Background": "$2.99",
+            "Birth Chart Report - Untimed": "$2.99",
+            "Gold Level Free Trial": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751332184337,
@@ -20807,6 +20828,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751451247046,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "700 Aces": "$9.99",
+            "Race Pass": "$4.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "15000 Aces": "$99.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "Le Cont Softs - 40 Tyres Pack": "$3.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99"
+          }
+        },
         {
           "timestamp": 1751430191350,
           "price": 0,
@@ -38630,6 +38668,14 @@
     "history": [
       [
         {
+          "timestamp": 1751451247046,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745328692670,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -41056,6 +41102,25 @@
       "Alice": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751451247046,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99",
+            "Battle CHAOS 2019": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750173218085,
