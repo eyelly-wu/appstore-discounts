@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-01T14:26:20.828Z</updated>
+    <updated>2025-07-02T03:28:16.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-01T14:26:20.830Z</updated>
+        <updated>2025-07-02T03:28:16.165Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 01 Jul 2025 14:26:20 GMT</id>
+        <id>rankingcnWed, 02 Jul 2025 03:28:16 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-01T14:26:20.830Z</updated>
+        <updated>2025-07-02T03:28:16.166Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1187</b>
+        <b>1191</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>986</b>
+        <b>990</b>
       </td>
       <td>
         <b>30</b>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>646</b>
+        <b>647</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>484</b>
+        <b>485</b>
       </td>
       <td>
         <b>21</b>
@@ -215,6 +215,23 @@ feedId:157007849019630592+userId:73658201673997312
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444396120">挺进地牢</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
       </td>
       <td>
         <ul>
@@ -427,6 +444,49 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怪物乐土]]></title>
+        <id>怪物乐土-cn-1751426026026</id>
+        <link href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4"/>
+        <updated>2025-07-02T03:13:46.026Z</updated>
+        <summary type="html"><![CDATA[价格: ¥18.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/5d/2a/d75d2ab5-2d31-ce7c-758b-2dcc9ec5f1ba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥18.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥12.00 ~ ¥18.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥15.00</b>
+</p><h2>应用描述</h2><p>
+  宠物对战与银河恶魔城的融合。在可爱的侧视像素世界中收集和训练怪物，并让其为你作战。
+
+【寻找灵魂使魔，成为你最可靠的冒险伙伴】
+跟随先人的步伐，成为一个怪物饲养人并拯救怪物避难所。借助收集的怪物组建团队，开展史诗般冒险，解锁不断扩张的世界。在成为终极怪物饲养人的过程中，你将揭开威胁着人类与怪物之间和平的谜团。
+
+【探索银河恶魔城式的世界】
+探索银河恶魔城式的世界。借助培养的怪物们各种专属能力，你可以在这个世界上进行探索，拓宽自己视界。砍掉树藤、撞倒墙壁、滑过间隙......在怪物的帮助下，通通不在话下。
+
+【组建你自己的队伍】
+从世界各地孵化、收集和训练怪物，组建自己的组合。每个怪物均具备独有技能树，方便定制你自己的队伍。
+
+【战术3V3作战，激情碰撞】
+有策略地发出进攻命令，发挥最大效果；集中进攻以创造各种连击，反复出招，找到最佳的连击，从而获得最为稀有的怪兽蛋。
+
+【与其他的饲养员联机匹配战斗】
+针锋相对，在线上玩家对战中体验雄壮的战斗，接受技巧与能力的试炼！收集并训练怪物，点满它们的技能树，一路作战，让你的怪物撑到最后！
+
+【联系我们】
+抖音：@良心工作室
+快手：@良心工作室
+B站：@良心工作室
+小红书：@良心工作室
+微博：@良心工作室官方
+Q群：925023982
+
+若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[挺进地牢]]></title>
@@ -1079,71 +1139,5 @@ https://controllerforhomekit.com/privacy-en/
 Terms of Use: 
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 </p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/89/99/eb8999ec-0245-1c15-b1f5-ea49fe930c76/35282cae-390d-47d8-b4f7-1a944a3d5e17_01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/0c/cf/e10ccf7f-19f1-b1e5-ed88-89937558835e/ae93a330-3a1f-4ff0-b3ef-7a8c5f0aff49_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/cb/9d/5bcb9d06-e422-39b0-ce03-517abfe60fc4/e404657a-bc5f-446a-aebd-175624200d84_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/94/00/d0940019-0b83-57ae-199c-297416c5d5fc/83b8bddc-13b1-4a9c-a491-3cbd63ff07b2_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/34/19/ad3419f6-46fa-e2ab-48ef-d488829fff05/067b78fc-d797-4a3c-8f61-fb5fedcec1a2_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/69/b1/8769b11d-34b5-619c-fed4-6c2386119bec/fc27cfc1-733c-4b5d-baca-3285406cf137_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ea/fb/fceafb4c-5ae1-892f-6c1a-d066b24c4591/40bf8022-4191-4fc4-9df7-c08c350b8429_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/b5/ae9ab58f-37ac-be22-134a-f256723563f0/bbc81b0a-825a-4865-9d1f-1b6135a6f255_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/fc/74/c2fc748b-3248-b9d3-cf01-fa4bbd341050/c4cdf412-7fd9-4e50-b3a9-115ca0a7149c_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/ce/ec/e5ceec46-bf19-6035-ee14-0972f0a1892a/a3e7ea1b-4fad-4f81-907a-57bb3ca08a63_10.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
-        <id>Card.Note - 多彩卡片笔记-cn-1751123484571</id>
-        <link href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
-        <updated>2025-06-28T15:11:24.571Z</updated>
-        <summary type="html"><![CDATA[Card.Note Premiun: ¥12.00 → ¥8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bd/ea/39/bdea39a5-04ae-3694-52b7-e7564c9e9ed5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>Card.Note Premiun：</strong><span>¥12.00</span> → <b>
-  <strong>¥8.00</strong>
-</b><span>[¥6.00 ~ ¥12.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    Card.Note Premiun：<b>¥8.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  「Card.Note」：每个念头都值得用心记录
-
-这是一款以卡片为主要设计理念的极简记事 App 。
-你写的每一段文字都可以生成一张张精美的卡片 。
-
-你可以用它来写诗、短文、随想； 
-也可以用它来写日记、清单、规划、要事提醒；
-还可以直接用语音输入来记录每个瞬间的念头。
-
-「Card.Note」九大特点：
-
-1.极简设计
-循着极简的设计理念，结合图标及手势操作，轻松上手。
-
-2.全局卡片化
-充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
-
-3.全局手势化
-下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
-
-4.语音录入
-打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
-
-5.要事提醒：
-可设置提醒闹种，重要事情和计划不再错失。
-
-6.快捷高效
-支持3D-Touch及Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
-
-7.文青定制
-精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
-
-8.iCloud云同步
-支持iCloud云同步，多台设备间数据可任意同步。
-
-9.深色模式
-全局适配深色模式，视觉舒适不刺眼。
-
-感谢下载，生活愉快。
-
-如有问题或建议，请联系开发者
-微博：PoPoem开发者
-邮箱：yande18@126.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

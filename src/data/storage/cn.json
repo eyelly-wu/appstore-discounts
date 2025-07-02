@@ -16634,6 +16634,25 @@
     "history": [
       [
         {
+          "timestamp": 1751426026026,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "¥0.00",
+            "ThemeA0B1C0": "¥0.00",
+            "ThemeA1B0C0": "¥0.00",
+            "ThemeA0B1C1": "¥0.00",
+            "ThemeA1B0C1": "¥0.00",
+            "ThemeA1B1C0": "¥0.00",
+            "ThemeA2B0C0": "¥0.00",
+            "主题大礼包": "¥25.00",
+            "ThemeA2B0C1": "¥25.00",
+            "ThemeA2B1C0": "¥25.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751091416498,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -69197,6 +69216,14 @@
     "history": [
       [
         {
+          "timestamp": 1751426026026,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750947141553,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -69491,7 +69518,7 @@
     ]
   },
   "6747742701": {
-    "name": "情感反捞模拟器-捞女游戏",
+    "name": "情感反诈模拟器-捞女游戏",
     "maxPriceInfo": {
       "price": 29,
       "formattedPrice": "¥29.00"

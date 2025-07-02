@@ -15,7 +15,7 @@ So far, we've covered `6` `Countries or Regions` and  `1191` `Apps` <br />Push n
 |1184|823869162|Automatic|❌|SimplePlanes|SimplePlanes|SimplePlanes|SimplePlanes|SimplePlanes|
 |1183|6745006883|Automatic|健身模拟器|健身模擬器|健身模擬器|健身模擬器|GET YOKED|GET YOKED|
 |1182|1437211990|Automatic|❌|地下城與治療者 : Raid Manager|地下城與治療者 : Raid Manager|地下城與治療者 : Raid Manager|Raid Manager|Raid Manager|
-|1181|6747742701|Automatic|情感反捞模拟器-捞女游戏|情感反捞模拟器-捞女游戏|情感反捞模拟器-捞女游戏|情感反捞模拟器-捞女游戏|情感反捞模拟器-捞女游戏|情感反捞模拟器-捞女游戏|
+|1181|6747742701|Automatic|情感反诈模拟器-捞女游戏|情感反诈模拟器-捞女游戏|情感反诈模拟器-捞女游戏|情感反诈模拟器-捞女游戏|情感反诈模拟器-捞女游戏|情感反诈模拟器-捞女游戏|
 |1180|6746683191|Automatic|❌|VAKA No: 1937|VAKA No: 1937|VAKA No: 1937|CASE No: 1937|CASE No: 1937|
 |1179|1507562429|Automatic|❌|華夏人生|華夏人生|華夏人生|❌|❌|
 |1178|6745999173|Automatic|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|

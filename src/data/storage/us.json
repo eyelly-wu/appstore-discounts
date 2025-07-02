@@ -13880,6 +13880,14 @@
     "history": [
       [
         {
+          "timestamp": 1751426026026,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750821285398,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -16617,6 +16625,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751426026026,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        },
         {
           "timestamp": 1751407922216,
           "price": 0.99,
@@ -24502,6 +24527,25 @@
       "Hero Pack 9": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751426026026,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Faustus": "$6.99",
+            "Vez'nan": "$4.99",
+            "Bravebark": "$4.99",
+            "Phoenix": "$6.99",
+            "Bruce": "$4.99",
+            "Reg'son": "$1.99",
+            "Special Offer Faustus": "$4.99",
+            "Prince Denas": "$2.99",
+            "Wilbur": "$6.99",
+            "Xin": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750907593064,
@@ -38748,6 +38792,25 @@
     "history": [
       [
         {
+          "timestamp": 1751426026026,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Hero Tank": "$5.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Pirate Kings Campaign!": "$7.99",
+            "Tower Goblin War Zeppelin": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751317910544,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -40670,6 +40733,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751426026026,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749266485972,
@@ -50029,6 +50100,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751426026026,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749266485972,
@@ -64346,6 +64425,14 @@
     "history": [
       [
         {
+          "timestamp": 1751426026026,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750302768824,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -68933,6 +69020,14 @@
     "history": [
       [
         {
+          "timestamp": 1751426026026,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751167411687,
           "price": 0,
           "formattedPrice": "Free",
@@ -69287,6 +69382,25 @@
       "Goofy Roofs Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751426026026,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$9.99",
+            "Content Bundle 2": "$7.99",
+            "Getaway Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "Off-Road Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Banger Racing Car Pack": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750302768824,
@@ -72720,6 +72834,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751426026026,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749266485972,
@@ -77415,6 +77537,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751426026026,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750648874826,
@@ -95350,13 +95483,21 @@
   "6746633753": {
     "name": "Yōkai Retreat SP Yin Yang-Sama",
     "maxPriceInfo": {
-      "Diamonds": "$1.99"
+      "Diamonds": "$2.99"
     },
     "minPriceInfo": {
       "Diamonds": "$1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1751426026026,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$2.99"
+          }
+        },
         {
           "timestamp": 1751350779035,
           "inAppPurchases": {}
@@ -95506,7 +95647,7 @@
     ]
   },
   "6747742701": {
-    "name": "情感反捞模拟器-捞女游戏",
+    "name": "情感反诈模拟器-捞女游戏",
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99"
@@ -95607,10 +95748,22 @@
   },
   "6746355331": {
     "name": "Stop&Get Away From Me! Defense",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "Diamonds": "$99.99"
+    },
+    "minPriceInfo": {
+      "Diamonds": "$99.99"
+    },
     "history": [
       [
+        {
+          "timestamp": 1751426026026,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "Diamonds": "$99.99"
+          }
+        },
         {
           "timestamp": 1751404306878,
           "inAppPurchases": {}
