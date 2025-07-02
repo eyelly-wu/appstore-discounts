@@ -28107,6 +28107,22 @@
     "history": [
       [
         {
+          "timestamp": 1751494335378,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "13 Gems": "HK$ 58.00",
+            "6 Gems": "HK$ 32.00",
+            "1 Gem": "HK$ 8.00",
+            "48 Gems": "HK$ 228.00",
+            "150 Gems": "HK$ 588.00",
+            "74 Gems": "HK$ 328.00",
+            "28 Gems": "HK$ 118.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751396999777,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -86716,6 +86732,23 @@
     "history": [
       [
         {
+          "timestamp": 1751494335378,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 32.00",
+            "The Aircraft Bundle": "HK$ 148.00",
+            "Global scenery - 12 months": "HK$ 98.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "UH-60": "HK$ 8.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 737-900": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1751483384765,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -92078,7 +92111,8 @@
       "Weekly Pass": "HK$ 18.00",
       "75 Credits": "HK$ 22.00",
       "30 Credits": "HK$ 18.00",
-      "10 Credits": "HK$ 8.00"
+      "10 Credits": "HK$ 8.00",
+      "150 Kredi": "HK$ 48.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -92087,9 +92121,25 @@
       "Weekly Pass": "HK$ 18.00",
       "75 Credits": "HK$ 22.00",
       "30 Credits": "HK$ 18.00",
-      "10 Credits": "HK$ 8.00"
+      "10 Credits": "HK$ 8.00",
+      "150 Kredi": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751494335378,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "150 Kredi": "HK$ 48.00",
+            "Early Access": "HK$ 8.00",
+            "Weekly Pass": "HK$ 18.00",
+            "75 Credits": "HK$ 22.00",
+            "30 Credits": "HK$ 18.00",
+            "10 Credits": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751072431721,

@@ -66955,7 +66955,8 @@
       "Weekly Pass": "USD 1.99",
       "75 Credits": "USD 2.99",
       "30 Credits": "USD 1.99",
-      "10 Credits": "USD 0.99"
+      "10 Credits": "USD 0.99",
+      "150 Kredi": "USD 5.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -66964,9 +66965,25 @@
       "Weekly Pass": "USD 1.99",
       "75 Credits": "USD 2.99",
       "30 Credits": "USD 1.99",
-      "10 Credits": "USD 0.99"
+      "10 Credits": "USD 0.99",
+      "150 Kredi": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751494335378,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "150 Kredi": "USD 5.99",
+            "Early Access": "USD 0.99",
+            "Weekly Pass": "USD 1.99",
+            "75 Credits": "USD 2.99",
+            "30 Credits": "USD 1.99",
+            "10 Credits": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751072431721,

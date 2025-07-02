@@ -84424,6 +84424,23 @@
     "history": [
       [
         {
+          "timestamp": 1751494335378,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "オーロラプール": "$1.19",
+            "2025春いちごスキン": "$0.49",
+            "Fireworks display": "$1.79",
+            "Halloween Party": "$1.79",
+            "Sunset beach": "$1.19",
+            "Christmas night": "$1.79",
+            "Crimson Walk": "$1.79",
+            "Sunflower farm": "$1.19"
+          }
+        },
+        {
           "timestamp": 1751483384765,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -95983,7 +96000,8 @@
       "Weekly Pass": "$1.99",
       "75 Credits": "$2.99",
       "30 Credits": "$1.99",
-      "10 Credits": "$0.99"
+      "10 Credits": "$0.99",
+      "150 Kredi": "$5.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -95992,9 +96010,25 @@
       "Weekly Pass": "$1.99",
       "75 Credits": "$2.99",
       "30 Credits": "$1.99",
-      "10 Credits": "$0.99"
+      "10 Credits": "$0.99",
+      "150 Kredi": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751494335378,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "150 Kredi": "$5.99",
+            "Early Access": "$0.99",
+            "Weekly Pass": "$1.99",
+            "75 Credits": "$2.99",
+            "30 Credits": "$1.99",
+            "10 Credits": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751072431721,
