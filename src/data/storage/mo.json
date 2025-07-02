@@ -18128,8 +18128,8 @@
       "Learn to Drive UK - 1 month": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99",
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
       "Learn to Drive UK - 3 months": "USD 11.99",
       "Learn to Drive UK - 12 months": "USD 14.99",
       "Learn to Drive UK - Unlimited": "USD 9.99",
@@ -18138,6 +18138,21 @@
       "Learn to Drive UK - 1 month": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751465572280,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Learn to Drive UK - 3 months": "USD 11.99",
+            "Learn to Drive UK - 12 months": "USD 14.99",
+            "Learn to Drive UK - Unlimited": "USD 9.99",
+            "Learn to Drive UK - 3 month": "USD 11.99",
+            "Learn to Drive Unlimited": "USD 24.99",
+            "Learn to Drive UK - 1 month": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -22836,6 +22851,20 @@
       "125,000資金": "USD 18.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751465572280,
+          "price": 0.9,
+          "formattedPrice": "USD 0.90",
+          "inAppPurchases": {
+            "700,000資金": "USD 89.99",
+            "60,000資金": "USD 9.99",
+            "325,000資金": "USD 45.99",
+            "25,000資金": "USD 3.99",
+            "125,000資金": "USD 18.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745330541207,
@@ -36670,6 +36699,14 @@
     "history": [
       [
         {
+          "timestamp": 1751465572280,
+          "price": 1.39,
+          "formattedPrice": "USD 1.39",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748959365680,
           "price": 6.29,
           "formattedPrice": "USD 6.29",
@@ -37817,15 +37854,29 @@
       "Root: The Marauder Expansion": "USD 9.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99",
+      "price": 3.99,
+      "formattedPrice": "USD 3.99",
       "The Riverfolk Expansion": "USD 6.99",
-      "Root: The Underworld Expansion": "USD 7.99",
+      "Root: The Underworld Expansion": "USD 6.99",
       "Exiles & Partisans & Vagabonds": "USD 5.99",
       "The Clockwork Expansion": "USD 3.99",
       "Root: The Marauder Expansion": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751465572280,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "USD 6.99",
+            "Root: The Underworld Expansion": "USD 6.99",
+            "Exiles & Partisans & Vagabonds": "USD 5.99",
+            "The Clockwork Expansion": "USD 3.99",
+            "Root: The Marauder Expansion": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748527337543,
@@ -56090,10 +56141,18 @@
       "formattedPrice": "USD 8.99"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "USD 8.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751465572280,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -66877,14 +66936,22 @@
   "6740755738": {
     "name": "迷失幻途",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751465572280,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751271520560,

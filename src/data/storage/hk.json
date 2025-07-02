@@ -22414,8 +22414,8 @@
       "Learn to Drive UK - 3 month": "HK$ 88.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00",
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
       "Learn to Drive UK - 1 month": "HK$ 32.00",
       "Learn to Drive UK - 12 months": "HK$ 118.00",
       "Learn to Drive UK - 3 months": "HK$ 88.00",
@@ -22424,6 +22424,21 @@
       "Learn to Drive UK - 3 month": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751465572280,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Learn to Drive UK - 1 month": "HK$ 32.00",
+            "Learn to Drive UK - 12 months": "HK$ 118.00",
+            "Learn to Drive UK - 3 months": "HK$ 88.00",
+            "Learn to Drive Unlimited": "HK$ 188.00",
+            "Learn to Drive UK - Unlimited": "HK$ 88.00",
+            "Learn to Drive UK - 3 month": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747378950513,
@@ -28361,6 +28376,20 @@
       "125,000資金": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751465572280,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "60,000資金": "HK$ 88.00",
+            "700,000資金": "HK$ 688.00",
+            "325,000資金": "HK$ 368.00",
+            "25,000資金": "HK$ 32.00",
+            "125,000資金": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745330541207,
@@ -51592,6 +51621,14 @@
     "history": [
       [
         {
+          "timestamp": 1751465572280,
+          "price": 12,
+          "formattedPrice": "HK$ 12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748959365680,
           "price": 55,
           "formattedPrice": "HK$ 55.00",
@@ -52541,8 +52578,8 @@
       "Root: The Marauder Expansion": "HK$ 88.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00",
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
       "The Riverfolk Expansion": "HK$ 58.00",
       "Exiles & Partisans & Vagabonds": "HK$ 48.00",
       "The Clockwork Expansion": "HK$ 32.00",
@@ -52550,6 +52587,20 @@
       "Root: The Marauder Expansion": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751465572280,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "HK$ 58.00",
+            "Root: The Underworld Expansion": "HK$ 58.00",
+            "The Clockwork Expansion": "HK$ 32.00",
+            "Exiles & Partisans & Vagabonds": "HK$ 48.00",
+            "Root: The Marauder Expansion": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748527337543,
@@ -56927,6 +56978,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751465572280,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "尊享月俸": "HK$ 38.00",
+            "月俸": "HK$ 22.00",
+            "戰姬": "HK$ 788.00"
+          }
+        },
         {
           "timestamp": 1751462849087,
           "price": 8,
@@ -74168,10 +74236,18 @@
       "formattedPrice": "HK$ 68.00"
     },
     "minPriceInfo": {
-      "price": 68,
-      "formattedPrice": "HK$ 68.00"
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751465572280,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -91645,8 +91721,8 @@
   "6746633753": {
     "name": "Yōkai Retreat SP Yin Yang-Sama",
     "maxPriceInfo": {
-      "price": 6,
-      "formattedPrice": "HK$ 6.00",
+      "price": 88,
+      "formattedPrice": "HK$ 88.00",
       "Diamonds": "HK$ 22.00"
     },
     "minPriceInfo": {
@@ -91656,6 +91732,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751465572280,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1751440400252,
           "inAppPurchases": {}
@@ -91916,14 +92000,22 @@
   "6740755738": {
     "name": "迷失幻途",
     "maxPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 32,
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751465572280,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751271520560,
@@ -91948,6 +92040,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751465572280,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 788.00"
+          }
+        },
         {
           "timestamp": 1751440400252,
           "inAppPurchases": {}
