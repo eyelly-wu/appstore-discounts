@@ -7752,6 +7752,25 @@
     "history": [
       [
         {
+          "timestamp": 1751462849087,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Vehicles pack": "₺449,99",
+            "Tools Pack": "₺249,99",
+            "Scary Pack": "₺449,99",
+            "Weapon Pack": "₺249,99",
+            "Minecraft Pets Pack": "₺449,99",
+            "Minecraft Morph Pack": "₺249,99",
+            "Marketplace Pass Full": "₺129,99",
+            "Marketplace Pass Trial": "₺129,99",
+            "The Incredibles": "₺349,99",
+            "Marketplace Pass w/trial": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751005166043,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -34140,8 +34159,8 @@
       "3,000,000 coins": "₺1.999,99"
     },
     "minPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99",
+      "price": 19.99,
+      "formattedPrice": "₺19,99",
       "20,000 coins": "₺19,99",
       "220,000 coins": "₺179,99",
       "90,000 coins": "₺99,99",
@@ -34151,6 +34170,22 @@
       "3,000,000 coins": "₺1.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751462849087,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "20,000 coins": "₺19,99",
+            "90,000 coins": "₺99,99",
+            "220,000 coins": "₺179,99",
+            "550,000 coins": "₺449,99",
+            "1,300,000 coins": "₺999,99",
+            "2,000,000 coins": "₺1.299,99",
+            "3,000,000 coins": "₺1.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749060185259,

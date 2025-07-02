@@ -31080,8 +31080,8 @@
       "1,300,000 coins": "USD 22.99"
     },
     "minPriceInfo": {
-      "price": 0.59,
-      "formattedPrice": "USD 0.59",
+      "price": 0.49,
+      "formattedPrice": "USD 0.49",
       "3,000,000 coins": "USD 44.99",
       "2,000,000 coins": "USD 29.99",
       "550,000 coins": "USD 9.99",
@@ -31091,6 +31091,22 @@
       "1,300,000 coins": "USD 22.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751462849087,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "3,000,000 coins": "USD 44.99",
+            "2,000,000 coins": "USD 29.99",
+            "550,000 coins": "USD 9.99",
+            "220,000 coins": "USD 3.99",
+            "90,000 coins": "USD 1.99",
+            "20,000 coins": "USD 0.49",
+            "1,300,000 coins": "USD 22.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749060185259,
