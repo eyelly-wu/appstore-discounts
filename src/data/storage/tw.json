@@ -1338,16 +1338,27 @@
     "maxPriceInfo": {
       "price": 320,
       "formattedPrice": "$320.00",
-      "TuneIn Premium": "$320.00",
+      "TuneIn Premium": "$2,390.00",
       "TuneIn Premium Pro": "$3,390.00"
     },
     "minPriceInfo": {
       "price": 320,
       "formattedPrice": "$320.00",
       "TuneIn Premium": "$320.00",
-      "TuneIn Premium Pro": "$3,390.00"
+      "TuneIn Premium Pro": "$2,290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751480285006,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "TuneIn Premium": "$2,390.00",
+            "TuneIn Premium Pro": "$2,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750007426154,
@@ -12555,6 +12566,58 @@
           "price": 60,
           "formattedPrice": "$60.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "509223426": {
+    "name": "Absolute RC Heli Simulator",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "TRex 700 N": "$90.00",
+      "TRex 500": "$90.00",
+      "Bell 222 Airwolf": "$90.00",
+      "Blast 450 3D": "$90.00",
+      "AH-64 Apache": "$90.00",
+      "All Heli and Drone models": "$490.00",
+      "A10 Warthog": "$90.00",
+      "F16 Thunderbird": "$90.00",
+      "F15 Eagle": "$90.00",
+      "All Plane Models": "$690.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "TRex 700 N": "$90.00",
+      "TRex 500": "$90.00",
+      "Bell 222 Airwolf": "$90.00",
+      "Blast 450 3D": "$90.00",
+      "AH-64 Apache": "$90.00",
+      "All Heli and Drone models": "$490.00",
+      "A10 Warthog": "$90.00",
+      "F16 Thunderbird": "$90.00",
+      "F15 Eagle": "$90.00",
+      "All Plane Models": "$690.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751480285006,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "TRex 700 N": "$90.00",
+            "TRex 500": "$90.00",
+            "Bell 222 Airwolf": "$90.00",
+            "Blast 450 3D": "$90.00",
+            "AH-64 Apache": "$90.00",
+            "All Heli and Drone models": "$490.00",
+            "A10 Warthog": "$90.00",
+            "F16 Thunderbird": "$90.00",
+            "F15 Eagle": "$90.00",
+            "All Plane Models": "$690.00"
+          }
         }
       ]
     ]

@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 509223426,
+    name: {
+      mo: 'Absolute RC Heli Simulator',
+    },
+    addType: 'auto',
+  },
+  {
     id: 389083586,
     name: {
       mo: 'MDict',
