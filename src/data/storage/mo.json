@@ -20585,6 +20585,14 @@
     "history": [
       [
         {
+          "timestamp": 1751551965928,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749391832097,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -29162,6 +29170,25 @@
       "地獄石500個": "USD 41.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751551965928,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "功能禮包": "USD 3.99",
+            "魔法禮包": "USD 8.99",
+            "綜合禮包": "USD 15.99",
+            "寶石180個": "USD 2.99",
+            "喚生石2400個": "USD 8.99",
+            "自動禮包": "USD 15.99",
+            "魅魔禮包": "USD 41.99",
+            "寶石300個": "USD 3.99",
+            "戒指禮包": "USD 24.99",
+            "地獄石240個": "USD 24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751184924424,
@@ -51081,6 +51108,34 @@
           "price": 5.99,
           "formattedPrice": "USD 5.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1575414319": {
+    "name": "Dune: Imperium",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99",
+      "Dune: Imperium - Immortality": "USD 9.99",
+      "Dune: Imperium - Rise of Ix": "USD 8.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99",
+      "Dune: Imperium - Immortality": "USD 9.99",
+      "Dune: Imperium - Rise of Ix": "USD 8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751551965928,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Dune: Imperium - Immortality": "USD 9.99",
+            "Dune: Imperium - Rise of Ix": "USD 8.99"
+          }
         }
       ]
     ]

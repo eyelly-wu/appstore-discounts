@@ -26197,6 +26197,14 @@
     "history": [
       [
         {
+          "timestamp": 1751551965928,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749391832097,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -38412,6 +38420,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751551965928,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "魔法禮包": "$290.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "寶石180個": "$90.00",
+            "寶石660個": "$290.00",
+            "魅魔禮包": "$1,290.00",
+            "覺醒禮包": "$1,290.00"
+          }
+        },
         {
           "timestamp": 1751545535962,
           "price": 30,
@@ -66023,6 +66048,34 @@
       ]
     ]
   },
+  "1575414319": {
+    "name": "Dune: Imperium",
+    "maxPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00",
+      "Dune: Imperium - Immortality": "$320.00",
+      "Dune: Imperium - Rise of Ix": "$290.00"
+    },
+    "minPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00",
+      "Dune: Imperium - Immortality": "$320.00",
+      "Dune: Imperium - Rise of Ix": "$290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751551965928,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Dune: Imperium - Immortality": "$320.00",
+            "Dune: Imperium - Rise of Ix": "$290.00"
+          }
+        }
+      ]
+    ]
+  },
   "1575588022": {
     "name": "MenubarX - 強大的選單列瀏覽器",
     "maxPriceInfo": {
@@ -92732,6 +92785,14 @@
     "history": [
       [
         {
+          "timestamp": 1751551965928,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Diamonds": "$90.00"
+          }
+        },
+        {
           "timestamp": 1751526824402,
           "inAppPurchases": {}
         },
@@ -93051,17 +93112,25 @@
   "6746355331": {
     "name": "Stop&Get Away From Me! Defense",
     "maxPriceInfo": {
-      "price": 20,
-      "formattedPrice": "$20.00",
+      "price": 30,
+      "formattedPrice": "$30.00",
       "Diamonds": "$2,990.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Diamonds": "$2,990.00"
+      "Diamonds": "$490.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1751551965928,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Diamonds": "$490.00"
+          }
+        },
         {
           "timestamp": 1751523585237,
           "inAppPurchases": {}
@@ -93110,8 +93179,8 @@
   "6747758553": {
     "name": "Grand Agent: It Call",
     "maxPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00",
+      "price": 30,
+      "formattedPrice": "$30.00",
       "Diamonds": "$490.00"
     },
     "minPriceInfo": {
@@ -93121,6 +93190,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751551965928,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Diamonds": "$490.00"
+          }
+        },
         {
           "timestamp": 1751523585237,
           "inAppPurchases": {}
