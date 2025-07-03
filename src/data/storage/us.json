@@ -22833,8 +22833,8 @@
       "Learn to Drive UK - 3 month": "$11.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99",
+      "price": 4.99,
+      "formattedPrice": "$4.99",
       "Learn to Drive UK - 1 month": "$3.99",
       "Learn to Drive UK - 12 months": "$14.99",
       "Learn to Drive UK - 3 months": "$11.99",
@@ -22843,6 +22843,21 @@
       "Learn to Drive UK - 3 month": "$11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751512525372,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Learn to Drive UK - 1 month": "$3.99",
+            "Learn to Drive UK - 12 months": "$14.99",
+            "Learn to Drive UK - 3 months": "$11.99",
+            "Learn to Drive UK - 3 month": "$11.99",
+            "Learn to Drive Unlimited": "$19.99",
+            "Learn to Drive UK - Unlimited": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750878552395,
@@ -28720,6 +28735,20 @@
       "325,000 Gold": "$45.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751512525372,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "60,000 Gold": "$9.99",
+            "25,000 Gold": "$3.99",
+            "125,000 Gold": "$18.99",
+            "700,000 Gold": "$89.99",
+            "325,000 Gold": "$45.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745378203223,
@@ -51393,6 +51422,14 @@
     "history": [
       [
         {
+          "timestamp": 1751512525372,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749007381783,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -52305,15 +52342,29 @@
       "The Clockwork Expansion": "$5.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 3.99,
+      "formattedPrice": "$3.99",
       "The Riverfolk Expansion": "$6.99",
-      "Root: The Underworld Expansion": "$7.99",
+      "Root: The Underworld Expansion": "$6.99",
       "Exiles & Partisans & Vagabonds": "$5.99",
       "Root: The Marauder Expansion": "$9.99",
       "The Clockwork Expansion": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751512525372,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "$6.99",
+            "Root: The Underworld Expansion": "$6.99",
+            "Exiles & Partisans & Vagabonds": "$5.99",
+            "Root: The Marauder Expansion": "$9.99",
+            "The Clockwork Expansion": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748575235922,
@@ -76369,10 +76420,18 @@
       "formattedPrice": "$8.99"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "$8.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751512525372,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -95935,6 +95994,14 @@
     "history": [
       [
         {
+          "timestamp": 1751512525372,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Diamonds": "$2.99"
+          }
+        },
+        {
           "timestamp": 1751437170649,
           "inAppPurchases": {}
         }
@@ -96195,14 +96262,22 @@
   "6740755738": {
     "name": "Lost in Fantaland",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751512525372,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751271520560,
@@ -96223,6 +96298,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751512525372,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$99.99"
+          }
+        },
         {
           "timestamp": 1751437170649,
           "inAppPurchases": {}
@@ -96254,10 +96337,22 @@
   },
   "6747758553": {
     "name": "Grand Agent: It Call",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "Diamonds": "$14.99"
+    },
+    "minPriceInfo": {
+      "Diamonds": "$14.99"
+    },
     "history": [
       [
+        {
+          "timestamp": 1751512525372,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Diamonds": "$14.99"
+          }
+        },
         {
           "timestamp": 1751487185942,
           "inAppPurchases": {}
