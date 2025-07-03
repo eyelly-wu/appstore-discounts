@@ -5800,7 +5800,9 @@
       "My Pet Report": "$60.00",
       "Child Report - Untimed": "$90.00",
       "Gold Level lifetime": "$3,990.00",
-      "Gold Level Free Trial": "$0.00"
+      "Gold Level Free Trial": "$0.00",
+      "Gold Annual": "$1,990.00",
+      "Gold Monthly": "$290.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -5819,10 +5821,31 @@
       "Predictive Report - Untimed": "$90.00",
       "My Pet Report": "$60.00",
       "Child Report - Untimed": "$90.00",
-      "Gold Level lifetime": "$3,990.00",
-      "Gold Level Free Trial": "$0.00"
+      "Gold Level lifetime": "$2,990.00",
+      "Gold Level Free Trial": "$0.00",
+      "Gold Annual": "$1,990.00",
+      "Gold Monthly": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751516713387,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Gold Annual": "$1,990.00",
+            "Gold Monthly": "$290.00",
+            "Gold Level lifetime": "$2,990.00",
+            "Gold Level Free Trial": "$0.00",
+            "Lunar Return Report": "$120.00",
+            "7-day Trial Astrolocality": "$0.00",
+            "Astrolocality Maps": "$790.00",
+            "The Big Three Report": "$120.00",
+            "Relationship Report": "$120.00",
+            "Predictive Report - Untimed": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751332184337,
@@ -30569,6 +30592,25 @@
     "history": [
       [
         {
+          "timestamp": 1751516713387,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "白金方案（每三個月續訂）": "$360.00",
+            "白金方案（每月續訂）": "$150.00",
+            "支線第一章": "$120.00",
+            "基本方案（每月續訂）": "$30.00",
+            "擴充章節B": "$120.00",
+            "擴充章節 R": "$120.00",
+            "擴充章節 U": "$120.00",
+            "擴充章節 I": "$120.00",
+            "支線第二章": "$120.00",
+            "擴充章節H": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751084193762,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -38173,6 +38215,25 @@
       "喚生石1100個": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751516713387,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "魔法禮包": "$290.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "寶石180個": "$90.00",
+            "寶石660個": "$290.00",
+            "魅魔禮包": "$1,290.00",
+            "覺醒禮包": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751354064580,
@@ -54750,6 +54811,25 @@
       "6元新手禮包​​": "$33.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751516713387,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "一鍵買斷禮包": "$150.00",
+            "648金玉": "$3,290.00",
+            "328金玉": "$1,690.00",
+            "尊享月俸": "$170.00",
+            "戰姬": "$2,990.00",
+            "月俸": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751094688019,
@@ -74844,6 +74924,25 @@
       "綠色藥草吊飾": "$29.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751516713387,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "$1,700.00",
+            "逆命殊途": "$280.00",
+            "額外內容擴充包": "$560.00",
+            "武器專屬強化券 x5 (A)": "$280.00",
+            "金色公事包": "$29.00",
+            "武器專屬強化券 x3 (A)": "$199.00",
+            "經典公事包": "$29.00",
+            "手槍彈藥吊飾": "$29.00",
+            "綠色藥草吊飾": "$29.00",
+            "武器專屬強化券 x1 (A)": "$85.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751357879850,
