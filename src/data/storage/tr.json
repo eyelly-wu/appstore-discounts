@@ -24928,7 +24928,8 @@
       "Colorful Meteor Shower Pass": "₺129,99",
       "Halv Selection Challenge Pass": "₺129,99",
       "Challenge Pass": "₺129,99",
-      "Expansion Ch. Y": "₺179,99"
+      "Expansion Ch. Y": "₺179,99",
+      "Lanota 9th Anniversary Pass": "₺179,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -24952,9 +24953,29 @@
       "Colorful Meteor Shower Pass": "₺129,99",
       "Halv Selection Challenge Pass": "₺129,99",
       "Challenge Pass": "₺129,99",
-      "Expansion Ch. Y": "₺179,99"
+      "Expansion Ch. Y": "₺179,99",
+      "Lanota 9th Anniversary Pass": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751541095711,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Lanota 9th Anniversary Pass": "₺179,99",
+            "ULTRA BONK Hour Challenge Pass": "₺129,99",
+            "Radiant Star Trail Pass": "₺179,99",
+            "KALPA Collaboration Pass": "₺129,99",
+            "Main Story Ch. VIII": "₺449,99",
+            "Glorious Chorus Challenge Pass": "₺129,99",
+            "Neon Rhapsody Challenge Pass": "₺129,99",
+            "Colorful Meteor Shower Pass": "₺129,99",
+            "Halv Selection Challenge Pass": "₺129,99",
+            "Challenge Pass": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750576337571,
@@ -55033,6 +55054,27 @@
           "timestamp": 1730693617795,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1566275194": {
+    "name": "Forest Camp Story",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751541095711,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
           "inAppPurchases": {}
         }
       ]
