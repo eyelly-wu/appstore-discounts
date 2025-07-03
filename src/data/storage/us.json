@@ -65963,6 +65963,25 @@
     "history": [
       [
         {
+          "timestamp": 1751537644424,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Siege of Shadows": "$4.99",
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Tribes of Twilight": "$4.99",
+            "Death of Divinity": "$4.99",
+            "Masks of Misery": "$4.99",
+            "Dawncaster Mega Bundle": "$12.99",
+            "Infernal Invasions": "$5.99",
+            "Dawncaster Origins Bundle": "$4.99",
+            "Eclypse Supporter Pack": "$3.99",
+            "Infinitum Support Banner": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751430191350,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -86431,7 +86450,8 @@
       "Loki": "$0.99",
       "Civet Theme": "$0.99",
       "Tuxedo Theme": "$0.99",
-      "Siamese Theme": "$0.99"
+      "Siamese Theme": "$0.99",
+      "City Night Theme": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -86449,9 +86469,29 @@
       "Loki": "$0.99",
       "Civet Theme": "$0.99",
       "Tuxedo Theme": "$0.99",
-      "Siamese Theme": "$0.99"
+      "Siamese Theme": "$0.99",
+      "City Night Theme": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751537644424,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "City Night Theme": "$0.99",
+            "Monthly": "$1.99",
+            "Yearly": "$11.99",
+            "Grey Theme": "$0.99",
+            "Lucky": "$0.99",
+            "Siamese Theme": "$0.99",
+            "2025 Spring Forest Theme": "$0.99",
+            "2025 Spring Lawn Theme": "$1.49",
+            "2025 Spring Flower Theme": "$0.99",
+            "Lawn Theme": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747940529582,
