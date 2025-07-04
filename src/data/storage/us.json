@@ -34697,7 +34697,8 @@
       "刘备连衣裙礼包": "$0.99",
       "每月特权礼包": "$39.99",
       "商会支援计划四": "$2.99",
-      "300钻石": "$3.99"
+      "300钻石": "$3.99",
+      "宝石通行证": "$14.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -34725,9 +34726,29 @@
       "刘备连衣裙礼包": "$0.99",
       "每月特权礼包": "$39.99",
       "商会支援计划四": "$2.99",
-      "300钻石": "$3.99"
+      "300钻石": "$3.99",
+      "宝石通行证": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751635567609,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "宝石通行证": "$14.99",
+            "休假证明": "$14.99",
+            "小憩十次": "$3.99",
+            "新春灯笼": "$14.99",
+            "购买十次": "$3.99",
+            "狂欢十次": "$3.99",
+            "圣诞派对": "$14.99",
+            "黄金通行证": "$14.99",
+            "劳动勋章": "$14.99",
+            "劳动十次": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -35709,6 +35730,25 @@
       "Get tips about this mysterious stone": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751635567609,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Purchase game": "$0.99",
+            "Props Tip: Temple corner": "$0.99",
+            "Props Tip: Pyramid": "$0.99",
+            "Props Tip: flower": "$0.99",
+            "Get tips on holographic camera": "$0.99",
+            "Get tips about two weeks mesh box factory eye": "$0.99",
+            "Get tips about the triangle blocks (1-6)": "$0.99",
+            "Get tips on the bucket": "$0.99",
+            "Get tips on stone-eyed": "$0.99",
+            "Get tips about this mysterious stone": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750968834747,
@@ -60596,6 +60636,22 @@
       "Jin Token": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751635567609,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Jin Token": "$9.99",
+            "Speed Die": "$4.99",
+            "Fantasy Beach Bundle": "$11.99",
+            "Starseeker Token": "$9.99",
+            "Enchanted Forest Marine Bundle": "$11.99",
+            "LA Monstropolis Marine Bundle": "$11.99",
+            "The Rainbow Bundle": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751286326647,
@@ -92464,6 +92520,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751635567609,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "175,000 PP for OOTP Go 26!": "$69.99",
+            "25,000 PP for OOTP Go 26!": "$15.99",
+            "75,000 PP for OOTP Go 26!": "$34.99",
+            "12,000 PP for OOTP Go 26!": "$7.99",
+            "1,000,000 PP for OOTP Go 26!": "$349.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Bundle MLB 2000s": "$4.99",
+            "Season MLB 2024": "$0.99",
+            "Bundle MLB 1990s": "$4.99"
+          }
+        },
         {
           "timestamp": 1751606130344,
           "price": 9.99,
