@@ -97053,12 +97053,27 @@
       "formattedPrice": "$0.99",
       "Early Access": "$0.99",
       "Weekly Pass": "$1.99",
-      "75 Credits": "$2.99",
+      "75 Credits": "$1.99",
       "30 Credits": "$1.99",
       "10 Credits": "$0.99",
-      "150 Kredi": "$5.99"
+      "150 Kredi": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751663525703,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "150 Kredi": "$2.99",
+            "Early Access": "$0.99",
+            "Weekly Pass": "$1.99",
+            "75 Credits": "$1.99",
+            "30 Credits": "$1.99",
+            "10 Credits": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751494335378,

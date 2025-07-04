@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-04T10:36:05.724Z</updated>
+    <updated>2025-07-04T21:35:20.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-04T10:36:05.724Z</updated>
+        <updated>2025-07-04T21:35:20.736Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 04 Jul 2025 10:36:05 GMT</id>
+        <id>rankingusFri, 04 Jul 2025 21:35:20 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-04T10:36:05.724Z</updated>
+        <updated>2025-07-04T21:35:20.736Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1197</b>
+        <b>1198</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>996</b>
+        <b>997</b>
       </td>
       <td>
         <b>30</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1096</b>
+        <b>1097</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>920</b>
+        <b>921</b>
       </td>
       <td>
         <b>25</b>
@@ -465,6 +465,31 @@ feedId:157008699750812672+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>22</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6746683191">CASE No: 1937</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>150 Kredi</i>：<b>1</b>
+              </li><li>
+                <i>75 Credits</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -702,6 +727,50 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CASE No: 1937]]></title>
+        <id>CASE No: 1937-us-1751663525703</id>
+        <link href="https://apps.apple.com/us/app/case-no-1937/id6746683191?uo=4"/>
+        <updated>2025-07-04T21:12:05.703Z</updated>
+        <summary type="html"><![CDATA[150 Kredi: $5.99 → $2.99<br/>75 Credits: $2.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/case-no-1937/id6746683191?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/e3/3c/96e33c6d-17b2-49c2-dbf4-861951fd8a42/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>150 Kredi：</strong><span>$5.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $5.99]</span>
+  </li><li>
+    <strong>75 Credits：</strong><span>$2.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $2.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    150 Kredi：<b>$2.99</b>
+  </li><li>
+    Early Access：<b>$0.99</b>
+  </li><li>
+    Weekly Pass：<b>$1.99</b>
+  </li><li>
+    75 Credits：<b>$1.99</b>
+  </li><li>
+    30 Credits：<b>$1.99</b>
+  </li><li>
+    10 Credits：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Foggy streets, dark secrets, and a hidden story at every corner.
+
+Case No: 1937 is a choice-based detective game that immerses you in the magical yet dangerous atmosphere of the past. In this interactive experience, you step into the shoes of master detective Refik Bey and chase unsolved cases throughout Istanbul.
+
+Every decision alters the course of events. Sometimes a conversation with a suspect, other times a simple clue can lead you to a completely different ending. You can replay the same story in different ways, uncover hidden endings, and explore branching narratives to shed light on Istanbul’s shadowy history.
+
+Are you ready to solve your first case as Refik Bey?
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[myLightMeter PRO]]></title>

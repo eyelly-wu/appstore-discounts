@@ -194,6 +194,14 @@
       "all": 2,
       "price": 2,
       "inAppPurchase": {}
+    },
+    "6746683191": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "150 Kredi": 1,
+        "75 Credits": 1
+      }
     }
   },
   "mo": {
@@ -298,6 +306,14 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6746683191": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "150 Kredi": 1,
+        "75 Credits": 1
+      }
     }
   },
   "tw": {
@@ -425,6 +441,14 @@
       "all": 2,
       "price": 2,
       "inAppPurchase": {}
+    },
+    "6746683191": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "150 Kredi": 1,
+        "75 Credits": 1
+      }
     }
   },
   "us": {
@@ -539,6 +563,14 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6746683191": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "150 Kredi": 1,
+        "75 Credits": 1
+      }
     }
   },
   "tr": {
@@ -675,9 +707,12 @@
       "inAppPurchase": {}
     },
     "6746683191": {
-      "all": 1,
+      "all": 2,
       "price": 1,
-      "inAppPurchase": {}
+      "inAppPurchase": {
+        "75 Credits": 1,
+        "150 Kredi": 1
+      }
     }
   }
 }
