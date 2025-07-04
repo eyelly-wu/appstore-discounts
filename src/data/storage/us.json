@@ -13958,7 +13958,17 @@
       "Blast 450 3D": "$2.99",
       "Bell 47": "$2.99",
       "F15 Eagle": "$2.99",
-      "Airbus A380 EDF": "$2.99"
+      "Airbus A380 EDF": "$2.99",
+      "Boeing 747 Jumbo Jet": "$2.99",
+      "RC Transformer": "$2.99",
+      "Race Car": "$2.99",
+      "Lego Car": "$2.99",
+      "XB-70 Valkirie": "$2.99",
+      "BVM King Cat": "$2.99",
+      "B17 Flying Fortress": "$2.99",
+      "A6M Zero": "$2.99",
+      "P-47 Thunderbolt": "$2.99",
+      "Curtiss P-40 Warhawk": "$2.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -13972,9 +13982,38 @@
       "Blast 450 3D": "$2.99",
       "Bell 47": "$2.99",
       "F15 Eagle": "$2.99",
-      "Airbus A380 EDF": "$2.99"
+      "Airbus A380 EDF": "$2.99",
+      "Boeing 747 Jumbo Jet": "$2.99",
+      "RC Transformer": "$2.99",
+      "Race Car": "$2.99",
+      "Lego Car": "$2.99",
+      "XB-70 Valkirie": "$2.99",
+      "BVM King Cat": "$2.99",
+      "B17 Flying Fortress": "$2.99",
+      "A6M Zero": "$2.99",
+      "P-47 Thunderbolt": "$2.99",
+      "Curtiss P-40 Warhawk": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751590936129,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Boeing 747 Jumbo Jet": "$2.99",
+            "RC Transformer": "$2.99",
+            "Race Car": "$2.99",
+            "Lego Car": "$2.99",
+            "XB-70 Valkirie": "$2.99",
+            "BVM King Cat": "$2.99",
+            "B17 Flying Fortress": "$2.99",
+            "A6M Zero": "$2.99",
+            "P-47 Thunderbolt": "$2.99",
+            "Curtiss P-40 Warhawk": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751480285006,
@@ -68442,6 +68481,25 @@
       "Red menu color": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751590936129,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Founders Pack": "$0.99",
+            "Lisa character": "$0.00",
+            "Gloria skin": "$0.99",
+            "Marco character": "$0.99",
+            "Elsa character": "$0.99",
+            "Jorge skin": "$0.99",
+            "Daniel skin": "$0.99",
+            "James character": "$0.99",
+            "Reyna skin": "$0.99",
+            "Manuel character": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751307476772,
