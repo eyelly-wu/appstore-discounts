@@ -74164,5 +74164,33 @@
         }
       ]
     ]
+  },
+  "6448201153": {
+    "name": "WOL — wake on lan",
+    "maxPriceInfo": {
+      "price": 69.99,
+      "formattedPrice": "₺69,99",
+      "WOL Pro SALE": "₺19,99",
+      "WOL Pro": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 69.99,
+      "formattedPrice": "₺69,99",
+      "WOL Pro SALE": "₺19,99",
+      "WOL Pro": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751617058383,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {
+            "WOL Pro SALE": "₺19,99",
+            "WOL Pro": "₺39,99"
+          }
+        }
+      ]
+    ]
   }
 }

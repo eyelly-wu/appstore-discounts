@@ -93566,5 +93566,33 @@
         }
       ]
     ]
+  },
+  "6448201153": {
+    "name": "WOL — wake on lan",
+    "maxPriceInfo": {
+      "price": 50,
+      "formattedPrice": "$50.00",
+      "WOL Pro SALE": "$20.00",
+      "WOL Pro": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 50,
+      "formattedPrice": "$50.00",
+      "WOL Pro SALE": "$20.00",
+      "WOL Pro": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751617058383,
+          "price": 50,
+          "formattedPrice": "$50.00",
+          "inAppPurchases": {
+            "WOL Pro SALE": "$20.00",
+            "WOL Pro": "$30.00"
+          }
+        }
+      ]
+    ]
   }
 }

@@ -70296,5 +70296,33 @@
         }
       ]
     ]
+  },
+  "6448201153": {
+    "name": "WOL — wake on lan",
+    "maxPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00",
+      "WOL Pro SALE": "¥3.00",
+      "WOL Pro": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00",
+      "WOL Pro SALE": "¥3.00",
+      "WOL Pro": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751617058383,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "WOL Pro SALE": "¥3.00",
+            "WOL Pro": "¥8.00"
+          }
+        }
+      ]
+    ]
   }
 }

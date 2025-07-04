@@ -93324,5 +93324,33 @@
         }
       ]
     ]
+  },
+  "6448201153": {
+    "name": "WOL — wake on lan",
+    "maxPriceInfo": {
+      "price": 12,
+      "formattedPrice": "HK$ 12.00",
+      "WOL Pro SALE": "HK$ 2.00",
+      "WOL Pro": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "HK$ 12.00",
+      "WOL Pro SALE": "HK$ 2.00",
+      "WOL Pro": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751617058383,
+          "price": 12,
+          "formattedPrice": "HK$ 12.00",
+          "inAppPurchases": {
+            "WOL Pro SALE": "HK$ 2.00",
+            "WOL Pro": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
   }
 }
