@@ -5493,7 +5493,9 @@
       "My Pet Report": "¥15.00",
       "Predictive Report - Untimed": "¥22.00",
       "Gold Level lifetime": "¥798.00",
-      "Gold Level Free Trial": "¥0.00"
+      "Gold Level Free Trial": "¥0.00",
+      "Gold Annual": "¥398.00",
+      "Gold Monthly": "¥58.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -5512,10 +5514,31 @@
       "Child Report - Untimed": "¥22.00",
       "My Pet Report": "¥15.00",
       "Predictive Report - Untimed": "¥22.00",
-      "Gold Level lifetime": "¥798.00",
-      "Gold Level Free Trial": "¥0.00"
+      "Gold Level lifetime": "¥698.00",
+      "Gold Level Free Trial": "¥0.00",
+      "Gold Annual": "¥398.00",
+      "Gold Monthly": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751624018196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Gold Annual": "¥398.00",
+            "Gold Monthly": "¥58.00",
+            "Gold Level lifetime": "¥698.00",
+            "Gold Level Free Trial": "¥0.00",
+            "Lunar Return Report": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Astrolocality Maps": "¥168.00",
+            "The Big Three Report": "¥28.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Untimed": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751332184337,

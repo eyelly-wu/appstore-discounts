@@ -12943,10 +12943,18 @@
       "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751624018196,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745419646428,
@@ -61407,6 +61415,23 @@
     "history": [
       [
         {
+          "timestamp": 1751624018196,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Season Pass": "₺299,99",
+            "Nurse Pack": "₺229,99",
+            "Autonomy": "₺129,99",
+            "Mecha Pack": "₺229,99",
+            "Unlock Beholder": "₺129,99",
+            "Unlock Gumiho": "₺129,99",
+            "Season 3 Battle Pass": "₺99,99",
+            "Uniform Pack": "₺179,99",
+            "Unlock Baphomet": "₺129,99",
+            "Season 2 Battle Pass": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1751620434851,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -69085,6 +69110,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751624018196,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Boeing 787-10": "₺99,99",
+            "UH-60": "₺39,99",
+            "Global scenery - 12 months": "₺399,99",
+            "EC135": "₺39,99"
+          }
+        },
         {
           "timestamp": 1751603002383,
           "price": 179.99,
