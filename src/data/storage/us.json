@@ -13997,6 +13997,23 @@
     "history": [
       [
         {
+          "timestamp": 1751598808484,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "TRex 700 N": "$2.99",
+            "AH-64 Apache": "$2.99",
+            "A10 Warthog": "$2.99",
+            "Hughes 500": "$2.99",
+            "Bell 222 Airwolf": "$2.99",
+            "TRex 500": "$2.99",
+            "Blast 450 3D": "$2.99",
+            "Bell 47": "$2.99",
+            "F15 Eagle": "$2.99",
+            "Airbus A380 EDF": "$2.99"
+          }
+        },
+        {
           "timestamp": 1751590936129,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -26030,6 +26047,14 @@
     "history": [
       [
         {
+          "timestamp": 1751598808484,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749439044822,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -37492,6 +37517,25 @@
       "18000 Rebirth Stones": "$41.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751598808484,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "Total Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "180 Rubies": "$2.99",
+            "660 Rubies": "$8.99",
+            "Ring Package": "$24.99",
+            "Element Package": "$15.99",
+            "1100 Rebirth Stones": "$3.99",
+            "2400 Rebirth Stones": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751504557387,
@@ -96301,6 +96345,14 @@
     "history": [
       [
         {
+          "timestamp": 1751598808484,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Diamonds": "$2.99"
+          }
+        },
+        {
           "timestamp": 1751523585237,
           "inAppPurchases": {}
         },
@@ -96623,10 +96675,18 @@
       "Diamonds": "$99.99"
     },
     "minPriceInfo": {
-      "Diamonds": "$99.99"
+      "Diamonds": "$14.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1751598808484,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Diamonds": "$14.99"
+          }
+        },
         {
           "timestamp": 1751523585237,
           "inAppPurchases": {}
@@ -96688,6 +96748,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751598808484,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Diamonds": "$14.99"
+          }
+        },
         {
           "timestamp": 1751523585237,
           "inAppPurchases": {}
