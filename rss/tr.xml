@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-07-04T04:45:11.899Z</updated>
+    <updated>2025-07-04T05:37:09.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-04T04:45:11.900Z</updated>
+        <updated>2025-07-04T05:37:09.671Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrFri, 04 Jul 2025 04:45:11 GMT</id>
+        <id>rankingtrFri, 04 Jul 2025 05:37:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-04T04:45:11.900Z</updated>
+        <updated>2025-07-04T05:37:09.672Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -95,14 +95,22 @@ feedId:157008924688563200+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6746355331">Stop&Get Away From Me! Defense</a>
+        <a href="https://apps.apple.com/tr/app/id319295332">TuneIn Radio: Music & Sports</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>TuneIn Premium Pro</i>：<b>1</b>
+              </li><li>
+                <i>TuneIn Premium</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -112,7 +120,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
+        <a href="https://apps.apple.com/tr/app/id6746355331">Stop&Get Away From Me! Defense</a>
       </td>
       <td>
         <ul>
@@ -129,6 +137,23 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id288419283">RadarScope</a>
       </td>
       <td>
@@ -141,29 +166,6 @@ feedId:157008924688563200+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Pro Tier 2</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id319295332">TuneIn Radio: Music & Sports</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>TuneIn Premium Pro</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -757,6 +759,92 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TuneIn Radio: Music & Sports]]></title>
+        <id>TuneIn Radio: Music &amp; Sports-tr-1751606130344</id>
+        <link href="https://apps.apple.com/tr/app/tunein-radio-music-sports/id319295332?uo=4"/>
+        <updated>2025-07-04T05:15:30.344Z</updated>
+        <summary type="html"><![CDATA[TuneIn Premium: ₺209,99 → ₺65,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/tunein-radio-music-sports/id319295332?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/3b/3a/553b3aba-3f13-b065-4caa-1dd9c9e2ebe3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>TuneIn Premium：</strong><span>₺209,99</span> → <b>
+  <strong>₺65,99</strong>
+</b><span>[₺65,99 ~ ₺209,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺449,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    TuneIn Premium：<b>₺65,99</b>
+  </li><li>
+    TuneIn Premium Pro：<b>₺699,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  RADIO, YOUR WAY
+
+Listen to all the live news, sports, music, podcasts and radio you love, from around the world—all on the TuneIn app.
+
+TuneIn Pro is a special version of the TuneIn app that, for a one-time fee, removes visual display ads and pre-roll commercials that normally play before content begins.
+
+ALL YOUR AUDIO IN ONE APP.
+
+• News: Stay informed with 24/7 news from local, national, and global sources, including CNN, MSNBC, FOX News Radio, NPR, and BBC.
+
+• Sports: Listen to live NFL, NHL, and college games, anywhere you go, plus local, national, and global sports talk stations. And, get instant gametime notifications and customized listening when you pick your teams on the app.
+
+• Music: Find tunes for any mood with exclusive music channels, including Today's Hits, Classic Rock Hits, and Country Roads.
+
+• Podcasts: Follow your passions and stream your favorite podcasts.
+
+• Radio: Stream your more than 100,000 AM, FM, and internet radio stations broadcasting from 197 countries.
+
+
+UNLOCK EVEN MORE WITH TUNEIN PREMIUM
+
+Sign up for the optional TuneIn Premium plan to hear:
+
+• Live Sports: Never miss a moment with live home radio broadcasts of every single NFL and NHL game, plus the biggest college football and basketball teams.
+
+• News with Fewer Ad Breaks: Keep up with breaking news with fewer ad breaks from CNBC, CNN, FOX News Radio, MSNBC, and more.
+
+• Commercial-Free Music: Enjoy curated music stations, nonstop with no ads.
+
+• Fewer Ads: Hear 100,000+ radio stations with fewer ads and commercial breaks.
+
+
+WHAT YOU GET WITH THE TUNEIN APP
+
+1. NEWS FROM ALL SIDES
+
+Experience live 24/7 news from CNN, MSNBC, FOX News Radio, BBC, NPR, CNBC, and Cheddar, plus local stations like KQED-FM, WNYC-FM, KCRW, WHYY, WTMJ, and WAMU. Or get specific with news podcasts.
+
+2. UNRIVALED LIVE SPORTS & SPORTS TALK
+
+Fuel your fandom with live play-by-play of NFL, NHL, and college football and basketball. Plus, hear news, analysis, and fan discussions from sports talk stations like ESPN Radio and talkSPORT. And, receive gametime notifications and customized content when you pick your favorite teams on the app. Plus, listen to podcasts covering your football, baseball, basketball, and hockey obsession from every angle.
+
+3. MUSIC FOR EVERY MOOD
+
+Listen to the perfect music for every moment with TuneIn's exclusive, curated stations. Or listen to local stations and programs from the best AM/FM channels in the world.
+
+4. PODCASTS FOR ANY PASSION
+
+From trending chart-toppers to niche favorites, follow shows like RadioLab, Stuff You Should Know, and TED Radio Hour, and top-rated hits like NPR's Up First, NYT's The Daily, Wow in the World, and more.
+
+5. LISTEN WHEREVER YOU ARE
+
+In addition to the mobile and desktop app, TuneIn is available for free on hundreds of connected devices, including Apple Watch, CarPlay, Google Home, Amazon Echo and Alexa, Sonos, Bose, Roku, Chromecast, and more.
+
+
+Subscribe to TuneIn Radio Premium through the free app. If you choose to subscribe, you will be charged a monthly subscription fee according to your country. The subscription fee will be shown in the app before you complete the payment. Your subscription will automatically renew every month at the then-current subscription fee unless auto-renew is turned off at least 24 hours before the end of the then-current subscription period. Your iTunes account will automatically be charged within 24 hours prior to the end of the then-current period. The subscription fee will be charged monthly. You can turn off auto-renew at any time from your iTunes account settings.
+
+Privacy policy: http://tunein.com/policies/privacy/
+Terms of use: http://tunein.com/policies/
+
+TuneIn uses Nielsen measurement software which allows you to contribute to market research, like Nielsen’s TV Ratings. To learn more about Nielsen's products and your privacy, please visit http://www.nielsen.com/digitalprivacy for more information.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/45/1f/7a/451f7adc-e4aa-422f-13bb-2d36d7c754fd/ff0539f7-a9f7-4be8-bf0d-cccdf45f6bbc_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/07/67/8d/07678dd2-a464-c9e4-2c7d-bc5c4feaf6a1/bc404670-4324-4855-b360-4a4ed9b6dc98_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/20/43/c9/2043c9a9-1014-12cb-a53c-bea2ef1c0011/8ae61e0d-5b9d-4e7b-a266-81a725dd8416_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e4/99/95/e49995ff-fdd9-ef8d-37f2-29fc253e3cf4/6e651d24-f028-4ed0-9ef7-0f5e037a0c22_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/60/ae/7860aebd-dd82-7bc9-2fec-568c313f1c24/530f9281-59ed-45d9-82ff-25c0af0d3e8d_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/34/62/183462ce-d27a-8efd-de32-dfe508c9ac3a/c5e4c454-c205-4180-a0df-3f4d244d1475_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/84/35/c28435ce-03d8-7aed-5394-3bb7a42533b8/bb528b9b-2153-4383-b4bc-37ea2c8c57cb_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9e/9d/ae/9e9daeae-1630-6f01-23e0-1fe43e152d32/8622f585-3a40-449f-a225-00c6f252ad1f_7.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/27/35/6b27358e-f302-8b6c-33dc-50ed5ec34461/cc360a2b-243c-4a41-9e7e-b09c97844846_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/d3/f6/3dd3f6cc-c42f-997c-66a3-78cd56ca8dae/dde3e537-3a00-4bd6-98bd-0c8101e72fd0_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/0d/83/260d8344-36e0-651f-76b9-dffa48fb60b9/8bfa7d4a-e300-4281-8de0-b07dee47daaa_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/0a/70/e80a70c3-1421-82b5-958d-8b0f4204f9a4/c9f7f461-b3dd-495c-8f53-f3f66ffe2cd0_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/6b/a9/646ba92e-40c7-df9e-47ef-21ade4fe3277/18234b92-635c-4151-8ec7-d3d645729f88_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/f7/a4/bbf7a491-2436-e109-209c-996cf68b2fa6/a0269f32-314c-43c6-8a4b-fb0df43924ae_6.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yōkai Retreat SP Yin Yang-Sama]]></title>
