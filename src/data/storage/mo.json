@@ -26561,7 +26561,13 @@
       "至尊等级基金XI": "USD 99.99",
       "至尊闯关基金XI": "USD 99.99",
       "闯关基金XII": "USD 49.99",
-      "至尊闯关基金XII": "USD 99.99"
+      "至尊闯关基金XII": "USD 99.99",
+      "180根火柴": "USD 2.99",
+      "500根火柴": "USD 6.99",
+      "980根火柴": "USD 14.99",
+      "3280根火柴": "USD 49.99",
+      "新手礼包": "USD 0.99",
+      "3元礼包": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -26582,9 +26588,34 @@
       "至尊等级基金XI": "USD 99.99",
       "至尊闯关基金XI": "USD 99.99",
       "闯关基金XII": "USD 49.99",
-      "至尊闯关基金XII": "USD 99.99"
+      "至尊闯关基金XII": "USD 99.99",
+      "180根火柴": "USD 2.99",
+      "500根火柴": "USD 6.99",
+      "980根火柴": "USD 14.99",
+      "3280根火柴": "USD 49.99",
+      "新手礼包": "USD 0.99",
+      "3元礼包": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751749917599,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "60根火柴": "USD 0.99",
+            "180根火柴": "USD 2.99",
+            "500根火柴": "USD 6.99",
+            "980根火柴": "USD 14.99",
+            "1680根火柴": "USD 24.99",
+            "3280根火柴": "USD 49.99",
+            "6480根火柴": "USD 99.99",
+            "新手礼包": "USD 0.99",
+            "3元礼包": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750306878199,
@@ -44845,6 +44876,22 @@
       "Speed Die": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751749917599,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Jin Token": "USD 9.99",
+            "Speed Die": "USD 4.99",
+            "Fantasy Beach Bundle": "USD 11.99",
+            "Starseeker Token": "USD 9.99",
+            "Enchanted Forest Marine Bundle": "USD 11.99",
+            "LA Monstropolis Marine Bundle": "USD 11.99",
+            "The Rainbow Bundle": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751195394286,
