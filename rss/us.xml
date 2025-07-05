@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-04T21:35:20.736Z</updated>
+    <updated>2025-07-05T05:34:10.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-04T21:35:20.736Z</updated>
+        <updated>2025-07-05T05:34:10.372Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 04 Jul 2025 21:35:20 GMT</id>
+        <id>rankingusSat, 05 Jul 2025 05:34:10 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-04T21:35:20.736Z</updated>
+        <updated>2025-07-05T05:34:10.373Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -95,6 +95,23 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id6746355331">Stop&Get Away From Me! Defense</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>3</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
       </td>
       <td>
@@ -109,23 +126,6 @@ feedId:157008699750812672+userId:73658201673997312
                 <i>Rin·Len's Mirrorland</i>：<b>2</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id6746355331">Stop&Get Away From Me! Defense</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -152,14 +152,14 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id430270438">Astro Gold</a>
+        <a href="https://apps.apple.com/us/app/id6747758553">Grand Agent: It Call</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>1</b>
+            <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -169,7 +169,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id583922375">myLightMeter PRO</a>
+        <a href="https://apps.apple.com/us/app/id430270438">Astro Gold</a>
       </td>
       <td>
         <ul>
@@ -186,7 +186,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
+        <a href="https://apps.apple.com/us/app/id583922375">myLightMeter PRO</a>
       </td>
       <td>
         <ul>
@@ -203,7 +203,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
+        <a href="https://apps.apple.com/us/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
       </td>
       <td>
         <ul>
@@ -220,7 +220,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id994157520">1942 Pacific Front Premium</a>
+        <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
       </td>
       <td>
         <ul>
@@ -237,7 +237,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1041260001">FINAL FANTASY Ⅸ</a>
+        <a href="https://apps.apple.com/us/app/id994157520">1942 Pacific Front Premium</a>
       </td>
       <td>
         <ul>
@@ -254,7 +254,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1195035357">Dungeon Defense : The Gate</a>
+        <a href="https://apps.apple.com/us/app/id1041260001">FINAL FANTASY Ⅸ</a>
       </td>
       <td>
         <ul>
@@ -271,7 +271,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1264608487">Driving Zone: Germany Pro</a>
+        <a href="https://apps.apple.com/us/app/id1195035357">Dungeon Defense : The Gate</a>
       </td>
       <td>
         <ul>
@@ -288,7 +288,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1271620263">ICEY</a>
+        <a href="https://apps.apple.com/us/app/id1264608487">Driving Zone: Germany Pro</a>
       </td>
       <td>
         <ul>
@@ -305,7 +305,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1380582804">Mobile Empire</a>
+        <a href="https://apps.apple.com/us/app/id1271620263">ICEY</a>
       </td>
       <td>
         <ul>
@@ -322,7 +322,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
+        <a href="https://apps.apple.com/us/app/id1380582804">Mobile Empire</a>
       </td>
       <td>
         <ul>
@@ -337,6 +337,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>15</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -365,7 +382,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
@@ -382,7 +399,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1614795077">Otaku's Adventure</a>
@@ -399,7 +416,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1633243177">Ableton Note</a>
@@ -416,7 +433,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1644917705">Cyber Manhunt</a>
@@ -433,27 +450,10 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6747758553">Grand Agent: It Call</a>
+        <a href="https://apps.apple.com/us/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
       </td>
       <td>
         <ul>
@@ -727,6 +727,79 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grand Agent: It Call]]></title>
+        <id>Grand Agent: It Call-us-1751692350639</id>
+        <link href="https://apps.apple.com/us/app/grand-agent-it-call/id6747758553?uo=4"/>
+        <updated>2025-07-05T05:12:30.639Z</updated>
+        <summary type="html"><![CDATA[Price: $0.29 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/grand-agent-it-call/id6747758553?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/be/7f/fabe7f07-f126-ec4e-8564-94b58834abf7/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$0.29</span> → <b>
+  <strong>Free</strong>
+</b><span></span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Diamonds：<b>$14.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  In this exciting mobile game, you will become a legendary agent and embark on a secret operation codenamed "zero". Your mission is to sneak into the enemy's aircraft base and destroy all enemy aircraft. You will face many threats alone, but fortunately, you have a support aircraft to provide you with airdrop supplies.
+
+The gameplay of the game is simple but challenging. You will control the agent to move left and right on the runway of the aircraft base to avoid the attacks of enemy aircraft and the falling missiles. The top of the screen is the flight area of ​​​​the enemy aircraft, and they will continue to fire missiles at you in an attempt to shoot you down. You need to stay alert at all times to avoid these deadly threats.
+
+By clicking on the screen, you can fire into the sky and destroy enemy aircraft. There is also a "continuous shooting mode" in the game. After turning it on, you can continue to fire into the air and eliminate the enemy more efficiently. But be careful, once the enemy's missiles fall to the ground, they will cause great damage to you. You only have 3 chances to be hit. Once this number is exceeded, the game will end.
+
+During the battle, the support aircraft will regularly drop airdrops for you. These airdrops contain a variety of useful props, such as ammunition boxes for replenishing bullets, medical kits for restoring health, and upgrade props for strengthening missiles. Proper use of these airdrop props will help you gain an advantage in battle.
+
+As the game progresses, as long as you can hold on longer, you will get additional upgrade opportunities. Every upgrade will make you stronger, whether it is improving firepower, increasing health, or unlocking more powerful props, which can make you more confident when facing the enemy. The longer you hold on, the greater the benefits you will get. The ultimate goal is to defend yourself for as long as possible and destroy more enemy aircraft.
+
+This is a mini casual game that can start an exciting agent journey anytime, anywhere. Simple and easy-to-use operations, coupled with challenging gameplay, allow you to experience the thrill of exciting battles in fragmented time.
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop&Get Away From Me! Defense]]></title>
+        <id>Stop&amp;Get Away From Me! Defense-us-1751692350639</id>
+        <link href="https://apps.apple.com/us/app/stop-get-away-from-me-defense/id6746355331?uo=4"/>
+        <updated>2025-07-05T05:12:30.639Z</updated>
+        <summary type="html"><![CDATA[Price: $0.29 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/stop-get-away-from-me-defense/id6746355331?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/50/8d/ae508d42-7f41-d35b-795c-540e0a4cd9cb/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$0.29</span> → <b>
+  <strong>Free</strong>
+</b><span></span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Diamonds：<b>$14.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  In a desolate wilderness, the atmosphere is tense. You are standing in an open area, and suddenly, a group of ferocious wolves surround you from all directions. Their eyes are flashing with greed, and they are approaching you step by step. At this critical moment, you must pick up the gun in your hand, react quickly, repel these monsters, and protect your life. This is a tense and exciting battle, and also a simple and relaxing casual mini game.
+
+### Gameplay
+
+#### Click the screen to fire
+The operation of the game is very simple. You only need to click the screen to control the character to shoot at the monster. The crosshairs on the screen will automatically aim at the approaching wolf. You only need to click the screen at the right time to fire bullets and repel the monster. This simple and intuitive operation method allows players to easily get started and quickly get into the game without complicated tutorials.
+
+#### Dynamic aiming and reaction
+Although the operation of the game is simple, the actions of the monsters are full of uncertainty. The wolves will attack you from different directions and angles. You need to stay alert at all times, react quickly, and click the screen accurately to effectively repel them. As the game progresses, the number of monsters will gradually increase, and their actions will become more cunning and rapid, which requires players to constantly improve their reaction speed and aiming accuracy.
+
+#### Easy restart, continuous challenge
+The game has a very fast pace. Once surrounded or hit by monsters, the game will end. But don't worry, the game provides an easy restart mechanism. You can restart the game with just a click and get back into this exciting battle. This fast restart mechanism allows players to try multiple times in a short period of time, constantly challenge their limits, and easily get the joy of the game.
+
+#### Unique and interesting painting style
+The game uses a unique art style. Although the picture is simple, it is full of fun and tension. The image design of the monsters is both scary and interesting, allowing players to feel a hint of humor in the tense battle. The scene design of the game is also very rich. From the barren wilderness to the abandoned town, each scene has its own unique atmosphere, making players feel as if they are in a real combat environment.
+
+#### Endless challenges and fun
+Every game is a new challenge. The action mode and number of monsters will be different, which requires players to constantly adjust their strategies and reactions. As the game progresses, you can also unlock new weapons and props to improve your combat effectiveness and better deal with more powerful monsters. This endless challenge and constantly improving gameplay allows players to immerse themselves in the game for a long time and enjoy the fun of shooting.
+
+In this exciting battle, you will be surrounded by various monsters, but with your courage and wisdom, you will be able to repel them and win. Come join this battle, experience simple and easy gameplay, and enjoy endless challenges and fun!
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CASE No: 1937]]></title>
@@ -1560,337 +1633,5 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 https://www.livesky.com/privacy.html
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/4b/66/ec4b6627-9e7a-4d7b-9e59-9dc3c22b2444/fc114c40-4a86-4151-acf1-135348f90def_01_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/41/c8/3441c8a2-9ddb-0ba4-54a2-7d9c33d55819/7d3c5a19-ce1e-493a-b97e-ac44bfe1e3e2_02_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3b/25/823b255b-d6de-2865-4001-54ae3b77ca74/9477ad0f-a87f-48fe-87df-b7d86cfddf29_03_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/3f/6f/973f6fc6-a487-a6d7-d84e-83bcd67eb617/f41d04a7-f92a-4bf8-8326-44a5624d4c52_04_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/33/a6/e733a6c5-9983-9cce-de47-91f52ce960f5/9b64ba56-4005-424b-9ac4-4adc03e276a6_10_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/29/a9/3729a943-c485-0530-a9fe-699afd5b40a1/0bcedd32-ad40-475d-8c85-564a3ca8994b_08_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/11/87/ee1187f7-9aa6-a26e-6044-d64a7d862df3/bb8fb1c7-f236-4a78-8eb8-8da51ea5170d_09_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/4a/46/754a46a6-9c84-cfd7-19bd-95f14a12c20f/6d960956-086f-4094-9879-148483841975_06_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/4f/e3/bb4fe39e-0ac2-3e00-a123-f53195ee038a/c3b22f39-5c7a-46cf-bd83-588d1912b4ea_05_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/47/dc/0547dc56-d76f-05e9-a76b-3d645d075327/b1f682b8-1c05-484a-a311-89c284bdbd28_07_SS7_Screenshot_iPhone.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/2a/01/0c2a01fe-e47e-4cc9-b47a-a110a57d01ea/4042e357-ab43-48ad-bb08-c52c04846921_01_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/cf/1d/fdcf1d78-831e-20e5-8bd5-8226e0de2a1d/a7a0b6ff-94fb-41f8-a3d4-3000abeb9896_02_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/3b/07/813b07ea-0be7-9738-35c5-1334ce61cd23/8a9e5258-db74-4b4e-96a5-b788f79dabe8_03_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c6/78/61c678e7-4d03-8256-6665-9f6cb4ef8fe1/377933b2-01c1-4478-bf01-cfb3687a0c19_04_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/59/e8/bb59e8b6-04aa-55ec-f994-f71e4418a0fa/a8a7bedb-8c9d-4b5e-ad17-4b2430958800_05_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/08/4a/99084abd-62bc-7ee8-584b-a050da479c70/d861049c-217c-49c1-9e9c-c44984660491_06_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/82/39/9e823931-4754-0559-429d-16d381d79ade/385be8d6-bd03-4f58-b9da-f4aba2986b18_07_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/ea/88/edea8817-3658-c7e7-de0c-5f6b7e5eb266/81645ccf-a042-4217-9666-a4d5cc811000_08_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/5d/54/cd5d546d-62e3-cf9c-6103-edb6dcd6ab94/edecb9b2-ea7b-43be-a335-28f63ab96a71_09_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ce/64/a3ce64f7-e854-18de-2bcf-32569ab49314/27ed81ef-4682-4c8b-8ade-92250d6dfbb4_10_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop&Get Away From Me! Defense]]></title>
-        <id>Stop&amp;Get Away From Me! Defense-us-1751430191350</id>
-        <link href="https://apps.apple.com/us/app/stop-get-away-from-me-defense/id6746355331?uo=4"/>
-        <updated>2025-07-02T04:23:11.350Z</updated>
-        <summary type="html"><![CDATA[Price: $0.49 → $0.29]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/stop-get-away-from-me-defense/id6746355331?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/50/8d/ae508d42-7f41-d35b-795c-540e0a4cd9cb/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.49</span> → <b>
-  <strong>$0.29</strong>
-</b><span></span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.29</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>$99.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In a desolate wilderness, the atmosphere is tense. You are standing in an open area, and suddenly, a group of ferocious wolves surround you from all directions. Their eyes are flashing with greed, and they are approaching you step by step. At this critical moment, you must pick up the gun in your hand, react quickly, repel these monsters, and protect your life. This is a tense and exciting battle, and also a simple and relaxing casual mini game.
-
-### Gameplay
-
-#### Click the screen to fire
-The operation of the game is very simple. You only need to click the screen to control the character to shoot at the monster. The crosshairs on the screen will automatically aim at the approaching wolf. You only need to click the screen at the right time to fire bullets and repel the monster. This simple and intuitive operation method allows players to easily get started and quickly get into the game without complicated tutorials.
-
-#### Dynamic aiming and reaction
-Although the operation of the game is simple, the actions of the monsters are full of uncertainty. The wolves will attack you from different directions and angles. You need to stay alert at all times, react quickly, and click the screen accurately to effectively repel them. As the game progresses, the number of monsters will gradually increase, and their actions will become more cunning and rapid, which requires players to constantly improve their reaction speed and aiming accuracy.
-
-#### Easy restart, continuous challenge
-The game has a very fast pace. Once surrounded or hit by monsters, the game will end. But don't worry, the game provides an easy restart mechanism. You can restart the game with just a click and get back into this exciting battle. This fast restart mechanism allows players to try multiple times in a short period of time, constantly challenge their limits, and easily get the joy of the game.
-
-#### Unique and interesting painting style
-The game uses a unique art style. Although the picture is simple, it is full of fun and tension. The image design of the monsters is both scary and interesting, allowing players to feel a hint of humor in the tense battle. The scene design of the game is also very rich. From the barren wilderness to the abandoned town, each scene has its own unique atmosphere, making players feel as if they are in a real combat environment.
-
-#### Endless challenges and fun
-Every game is a new challenge. The action mode and number of monsters will be different, which requires players to constantly adjust their strategies and reactions. As the game progresses, you can also unlock new weapons and props to improve your combat effectiveness and better deal with more powerful monsters. This endless challenge and constantly improving gameplay allows players to immerse themselves in the game for a long time and enjoy the fun of shooting.
-
-In this exciting battle, you will be surrounded by various monsters, but with your courage and wisdom, you will be able to repel them and win. Come join this battle, experience simple and easy gameplay, and enjoy endless challenges and fun!
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MuseDash]]></title>
-        <id>MuseDash-us-1751430191350</id>
-        <link href="https://apps.apple.com/us/app/musedash/id1361473095?uo=4"/>
-        <updated>2025-07-02T04:23:11.350Z</updated>
-        <summary type="html"><![CDATA[Rin·Len's Mirrorland: $8.99 → $5.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/musedash/id1361473095?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/32/bc/f032bc12-3152-93ef-deeb-f6ec4bf3a610/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Rin·Len's Mirrorland：</strong><span>$8.99</span> → <b>
-  <strong>$5.99</strong>
-</b><span>[$4.99 ~ $8.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$0.49</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    unlockall_0：<b>$27.99</b>
-  </li><li>
-    unlockall_3：<b>$20.99</b>
-  </li><li>
-    Touhou Mugakudan -Ⅰ-：<b>$3.99</b>
-  </li><li>
-    Muse Radio FM101：<b>$3.99</b>
-  </li><li>
-    unlockall_29：<b>$20.99</b>
-  </li><li>
-    Miku in Museland：<b>$8.99</b>
-  </li><li>
-    Valentine Stage：<b>$3.99</b>
-  </li><li>
-    Rin·Len's Mirrorland：<b>$5.99</b>
-  </li><li>
-    cyTus：<b>$5.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  "Hitting while listening to music."
-"Is that the call from another world?"
-[Game Starts Now—!!]
-
-Lovely girls
-or rhythmic music?
-If there’s a place for you to have them both…
-It must be the paradise of parkour & rhythm game  — Muse Dash!!
-
-Huh?! Not your forte? It doesn’t matter!
-Who says you must have a strong sense of rhythm to win?
-Avoid is also a valid option (?)
-As long as you have 100% of passion, courage, and… love for lovely girls~
-Rhythm and fight won’t be an issue
-
-[Gameplay]
-Dance to the music and beat enemies in the air and on the ground. Also, watch out for the obstacles!!
-What an easy, beginner-friendly rhythm game
-
-[Media Review]
-可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
-
-“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
-
-Languages Supported:
-English
-简体中文（Simplified Chinese）
-繁体中文 （Traditional Chinese）
-日本語（Japanese)
-韩语 （Korean）
-
-Feedback: https://service.peropero.net/
-Twitter:@MuseDash_EN
-@PeroPeroGuys
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Otaku's Adventure]]></title>
-        <id>Otaku's Adventure-us-1751426026026</id>
-        <link href="https://apps.apple.com/us/app/otakus-adventure/id1614795077?uo=4"/>
-        <updated>2025-07-02T03:13:46.026Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/otakus-adventure/id1614795077?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/81/10/23/8110232f-4e1c-8a11-8f2a-5fbfc0bea55d/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h2>Application Description</h2><p>
-  Otaku’s Adventure is a unique anime-style AVG that tells the story of an Otaku who has been single since birth and craves to be loved. After the romantic encounter with three charming girls, your life will take an unexpected turn: to go on a run-away adventure with Waifu, an outer-space journey with Gohard, or an exploration in a fantasy world with (´･ω･`). 
-
-- Kick start your thrilling and romantic adventure and release your Otaku energy!
-- Unlock 35+ endings following three different routes
-- Use your wit to solve the ingenious puzzles and beat a collection of funny mini-games ranging from shooting games to turn-based RPG combat
-- Enjoy the brand new DLC free of charge and uncover the untold story of Waifu
-- Get yourself immersed in the new voice-acting for Waifu and (´･ω･`) along with the original Cantonese voice-acting for Gohard
-- Test your Otaku-ness level by discovering the anime and game references!
-_________________________
-
-Follow us on Twitter: @XD_En_Official
-Contact: indie@xd.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/5e/93/c45e9390-b1e1-c6ad-e905-f0201cf04b11/50308b0f-81d5-4d04-9024-9e78f2939571_0.03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e1/78/54/e1785451-c0e3-7e72-0e4d-2599fb0099ee/e240c269-6fac-4420-9efb-928da773c48c_0.13.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e2/de/eb/e2deeb44-b1e5-11e4-129b-507f163c5a84/f9fe4f74-e71c-4689-b6b8-ec1d5812ada6_0.11.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cd/41/97/cd4197c7-c782-18f8-07ba-358226110869/49d18210-4084-485e-b087-0c19562d3a42_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/23/d9/4223d9cf-214b-2d95-b7ca-1fbc08ed81de/167872f1-69a4-466e-b414-16a74090619a_4.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/e4/25/b9e42535-fdb1-67db-bbad-4ed92e8135f1/aabb6544-5185-4c3d-8cab-58f72192e207_Image_16.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/01/18/74/011874e0-15e8-59a7-18fc-a5663aa79392/38085f32-039e-42f6-acb6-f2af4f1b3131_Image_14.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/74/85/0a/74850ac4-16c4-aff1-5f5b-ec1359b3ea22/fd2368d7-198b-4a43-aec6-5d7a2df135ac_Image_18.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/33/71/2d/33712d6c-e121-b8c2-7630-252657bfe9fd/3964fbf4-962d-414f-bc43-5aa546ce2dba_5-1600x1200.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/87/b8/cb87b846-df08-4758-8a51-4a88fd8d24ef/5cf8ac1f-eec9-4df3-9f35-5ed5ce1c3c72_4-1600x1200.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile Empire]]></title>
-        <id>Mobile Empire-us-1751426026026</id>
-        <link href="https://apps.apple.com/us/app/mobile-empire/id1380582804?uo=4"/>
-        <updated>2025-07-02T03:13:46.026Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/mobile-empire/id1380582804?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/fd/4f/35fd4fcb-381b-1ee8-d703-e4173dfb9613/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h2>Application Description</h2><p>
-  Game Introduction
-Mobile Empire is a simulation game based on "manufacturing mobile phones", with a high degree of freedom. You will play as an entrepreneur back in 2001. You acquired the initial capital from a mystery investor because of your unique vision and created a technological enterprise that may change the world. The game starts from 2001 and ends in 2035, during which you will start with old school smartphones in the early R&D stages, progressing until AR smart glasses can be independently used. During the 35 years, you will experience, witness, and promote the magnificent development process of smartphones. You have the chance to develop your company into the world's number one technological enterprise.
-
-• Unique theme
-Currently, Mobile Empire is probably the only PC simulation game based on "manufacturing mobile phones". You will have the chance to create miracles and develop your little-known company into a global technological empire. 
-
-• Innovative competition experience
-In order to simulate a real business environment, lots of competitors will be constantly updated. Players may cooperate with them for joint development or poach talents from them. 
-
-• Massive amounts of random events
-In order to create a better "sense of the world", a great deal of industrial events, world events, crisis events, lucky events, employee events, and news interviews are set in this game for you to make your own choices.
-
-• Bountiful blueprints
-The game includes 65 different cell phone blueprints and more than 100 cell phone appearances from 3x3 keypads to full-screen and folding screens, and even includes futuristic AR smart glasses. Bountiful blueprints are yours to explore. 
-
-• Vast technologies
-In this game, there are many technologies and accessories are available for upgrade. In addition, with adequate funds, you can even research and develop CPUs with superior performance and experience better operating systems. Customized naming is also supported.
-
-• Creative persuasion system
-In terms of talent recruitment, the game provides a very distinctive "persuasion" system. To acquire the top talents, you need to use different communication skills to persuade the recruits according to their personalities.
-
-• Other contents for you to explore
-The game also includes credit ratings, company acquisitions, employee development, outsourcing mode, intelligence system, company strategies, and more for you to explore.
-
-• "Mobile Empire" IOS supports the archive of PC games.
-
-Languages Supported:
-*English
-*简体中文 (Simplified Chinese)
-*繁体中文 (Traditional Chinese)
-
-Operating system 
-iOS: version 8.0 or higher 
-
-Recommended configuration 
-RAM: 1 GB or more 
-Storage: 1.5 GB 
-
-Service Email：indie@xindong.com
-©2020 X.D. Network Inc. All rights reserved.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b8/fe/fc/b8fefc8b-6c32-b894-08e5-41f7b3fa2f00/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/7e/cd/d67ecdae-7c6e-194a-686b-372215a3d749/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/dd/2d/f4dd2d01-b058-0dec-5055-d39b6cb298f9/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/26/ed/8a/26ed8a89-a896-ab7d-4274-b9330df234b5/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/24/ce/1a/24ce1a52-ef89-0a2e-63b3-b03f807a27b4/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/52/ff/7d52ff54-ba37-e55d-735e-ebb5ce3daf73/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/66/34/26/66342640-7d7c-8777-faca-aed8a6b7bad3/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0b/c6/c2/0bc6c265-10bd-42ba-4ede-8db2d1f2a806/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/65/7b/31657b19-4313-83e6-1afd-6d2c32144225/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8c/d4/da/8cd4daa6-8f24-d4a1-a68f-55e66f940ba1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/22/f0/a122f04f-71a1-5a4b-32a7-4bf2505b19f1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/92/87/b99287bb-851f-588e-8ef3-00836061a3b3/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/56/5e/ea/565eea63-b50f-f5a2-9b28-c170058a67bf/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f9/7c/64/f97c6426-a8f0-6428-ee44-c6d5a84103d0/pr_source.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICEY]]></title>
-        <id>ICEY-us-1751426026026</id>
-        <link href="https://apps.apple.com/us/app/icey/id1271620263?uo=4"/>
-        <updated>2025-07-02T03:13:46.026Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/icey/id1271620263?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/42/e4/0b/42e40bed-ba27-1450-9463-da43e44010d3/AppIcon-1x_U007emarketing-0-9-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h2>Application Description</h2><p>
-  ICEY is a 2D side-scrolling action game. As you follow the narrator's omnipresent voice, you will see through ICEY's eyes and learn the truth about her world. 
-
-“Alright, you caught me! This ISN'T really just a simple 2D action game, and you WON'T be seeing through ICEY's eyes... NOR will you learn the truth about her world." says the narrator. 
-
-“ICEY is a Meta game in disguise. The narrator will constantly urge you in one direction, but you must ask, "Why? Why am I following his directions? Why can't I learn the truth about this world and ICEY's purpose here?" Fight against his tyranny, and uncover what's really going on for yourself!
-
-In fact, you can become ICEY, and let loose the shackles of your own identity. You are ICEY, and ICEY is you... if you want it that way. Feel free to keep hold of your own self, if you wish. 
-
-Now Is the Time For You to Discover the Truth.
-
-[FEATURES]
-
-Fast-paced Combat: 
-Crush enemies in the palm of your hand. 
-Attack! Dodge! Counterattack! Do not hesitate. 
-This is the only way to survive! 
-
-Incredible Combos: 
-With simple controls, amazing combos are easy to unleash, even for beginners. 
-Every skill is special in its own way. Master your favorites and create your own fighting style!
-
-Massive Cyborg Bosses: 
-Can you withstand the onslaught of attacks from terrifying cyborg bosses? 
-Every boss unleashes flurries of different attacks. It's up to you to find their weak spots and tear them apart!
-
-[Awards]
--Nominated, Tokyo Game Show 2016 DENGEKI PlayStation Best Indie Game
--Official Selection, 2016 Gamescom Indie Arena Booth 
--Most Promising Game 2nd Prize, Taipei Game Show 2016 
--Official Selection, Casual Connect Asia 2016 
--Official Selection, IGF China 2015 
--Best Technology Award, Indieplay 2015
-
-Operating system 
-iOS: version 8.0 or higher 
-
-Recommended configuration 
-RAM: 2 GB or more 
-Storage: 1.2 GB (iOS) 
-
-Tips 
-- As gameplay smoothness and reliability are affected by screen resolution and the number of applications running in the background, you can adjust the image quality option to achieve balance between image, smoothness and power consumption. 
-
-- Added MFi controller support
-
-Languages Supported:
-*English
-*Francais
-*Español
-*简体中文 (Simplified Chinese)
-*繁体中文 (Traditional Chinese)
-
-Facebook: /ICEYtheGame
-Twitter:@ICEYtheGame
-Service Email: ICEY@xindong.com
-2017 X.D. Network Inc. All rights reserved.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/31/4d/80314d42-4928-285e-ff1e-ae1ed0594fe5/mzl.paznipql.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/e1/ad/6be1ad4c-c98e-9ff0-c05e-442317676aa1/mzl.ixidjdpc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/20/bf/ec/20bfec09-f888-df7e-cb69-3e2b38d93039/mzl.qwspudpw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/1e/1b/311e1b7f-65f5-6868-3533-cd7a0f937706/mzl.qxndgpfo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/f3/05/cef305b2-337e-46b8-4bb9-faba8a466ae7/mzl.ugthspkk.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/73/0e/2b/730e2b72-7942-0a0a-d991-7860268f517f/mzl.jvnwrskb.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/71/0b/42/710b42d7-f75b-d88d-5f3a-40d305126d19/mzl.qhvrhsiw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/85/5e/92/855e9240-0e07-b317-a4ab-d649762b22f9/mzl.evnuizwl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/70/12/d3/7012d3b7-87cb-8022-3b2c-84b36e1e43e1/mzl.rnckkema.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Manhunt]]></title>
-        <id>Cyber Manhunt-us-1751426026026</id>
-        <link href="https://apps.apple.com/us/app/cyber-manhunt/id1644917705?uo=4"/>
-        <updated>2025-07-02T03:13:46.026Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/cyber-manhunt/id1644917705?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/96/74/769674e2-cb26-207b-0543-4fed45593717/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Home Sweet Home：<b>$0.99</b>
-  </li><li>
-    Hello World!：<b>$0.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Cyber Manhunt is a Cyber-Style, Realistic- Society theme, Story-Rich indie game. The game taked place in the Republic of Alivia with some different theme stories ,but the fate of the characters is closely related in there. It will focus on social issues liking big data, hacking, citizen privacy etc... 
-
-We want to reveal the profound themes behind the stories with wonderful plots and gamification. And let players pay more attention to Cyber Violence and Privacy Breaches.
-
-[Contents]
-◆Chapter I: Death of a Programmer
-The CEO of a company committed suicide by jumping off a building, and claimed that he was extorted tens of millions by his wife. While his wife posted photos of domestic violence on social networks. Who is lying?
-◆Chapter II: Invisible Eyes
-The indecent video of the female college student went viral on the Internet. At this moment, she was already socially dead. Who is the initiator? Who should protect the safety of women?
-◆Chapter III: The Evidence Vanishes
-The student council president, who is both excellent in character and study, suddenly disappeared. The bullying incident made the case more complicated. Who is the murderer and who is the victim?
-◆Chapter IV: The Price of Humiliation
-The female singer has been exposed again! Threatening letters, hype, the suicide of former girl group members... The Internet has set off a public opinion carnival again!
-◆Chapter V: Immortal Code
-When the society is in madness, are you willing to join the Immortal Code to obtain true love and immortality?
-◆DLC: Home Sweet Home
-Behind this seemingly sweet and happy family, everyone has their own secrets, what is the truth hidden behind?!
-◆DLC: Hello World!
-Senior researcher of Titan Dr. Lucrezia died in a terrible car accident on the spot, but the fellow Benjamin took escape from death. But he did not realize that he was about to be involved in a huge conspiracy…
-
-[Features]
-◆Highly Immersive: Gamers play as a hacker in the game, accepts the commission of the company, and solve dangerous incidents.
-◆Rich Gameplay: There are lots of features of Social Engineering in the game, which is including Detecting, Tracking, Puzzles-Solving, Destroying and Hacking etc..
-◆Wonderful Plots: Each chapter in the game will reflect a current hot social topic, such as: Sneak Shot, Cyber Violence, School Bullying, etc...
-◆Multiple Roles: There are many different roles in this game with a flash of personality. Their stories would be dug by yourself.
-◆Fully Dubbing: All the characters in the game have their own voice actors that make the game experience more immersive.
-◆Original Music: There are some original songs in the game, and the lyrics and vocals are all completed by the studio.
-
-[Gameplay]
-◆Web Search: You should collect basic information about the targets through the Internet search.
-◆Database: You can use the database to get deep information about targets.
-◆Crack: You would get passwords based on the obtained target's information, and use it to log in to accounts of different platforms.
-◆Chat: The exciting thing is that you need to chat with targets by disguise and use the information to get the trust of the target.
-◆Phishing: You can send phishing links to hack the targets' hardware devices, and get private information.
-◆Picture Analysis: You can get valuable information and relevant clues from pictures.
-More advanced hacking methods will be unlocked later!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/09/63/1f/09631f1f-c8d2-53cb-382c-2aaaa8b03978/b06ed38e-0bfc-4d1f-abe9-9557edcbe6bc_2208.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1c/8c/ca/1c8cca77-4287-a14e-96ae-4978b2e85dcc/a065e6bb-677c-4d4b-90c2-5355ad574556_QQ20220928-0.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/65/f4/8f/65f48f21-3bb5-a5e6-50f0-557cdfe54791/d6c8bead-b708-496d-a380-fdeab0fa31fe_QQ20220928-20.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a0/a5/20/a0a520c4-7bc6-6a85-db49-1f0f12804899/4c294ed6-ffde-4d46-a2db-9c675c61cc39_QQ20220928-12.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/82/9b/23/829b23ff-7070-6689-e77b-e73c9d454f89/103a1775-25cd-41cc-8c0a-837d74af7c99_QQ20220928-26.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/89/cd/71/89cd71f6-86b0-e129-c1f5-4577f34ad5ce/7ec5bf86-6f3c-4041-bd44-4d03877a0ee6_QQ20220928-7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/04/79/7e0479c8-4fa7-416d-c6fe-46c59a13875e/ec5aac03-6ba0-44f2-801a-3a8698b9afa2_QQ20220928-22.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ef/12/30/ef1230f7-5e7e-cafc-9f0a-c8743ad96bfa/c3241fe6-d425-43ad-ac70-368efb3ebfa8_QQ20220928-13.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/80/82/3c808259-f015-aa29-6242-0bce1a31acdb/b45eb479-f7b9-4afa-8eac-a99f1330de83_QQ20220928-3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2b/f0/aa/2bf0aaac-0c6c-60c0-a8b6-12e4da31826a/a785652f-3c39-481f-8f20-c09bada5b0f5_QQ20220928-10.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/5a/35/46/5a3546b4-a80d-70a3-8cee-bdff3e5d5ff2/8a0a9c33-737f-4e1a-9501-f6edd3f2fc0a_2732.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/25/b0/f1/25b0f1d1-b16e-0a96-c63b-655b0e6683ea/6ee61743-1842-4e11-a322-57a37dcc172b_21.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e0/a9/64/e0a96496-02e8-22bf-b9f5-f02af0eab486/24d70c38-e6b3-4b4c-828e-6bd21df7c27e_14.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/40/94/4b/40944bf0-9b22-2e82-0bba-8c094de44ce6/262a467c-9ad2-43d8-a1c8-a715873244d8_9.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/43/63/9a/43639aef-482c-990a-61c9-59becde605b9/66656253-8920-45d1-8c2b-8e9cfd5eb052_y1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/be/7a/28/be7a28e8-e7b8-5ec9-480e-1088dcb58579/396cc804-72a5-4d15-a546-d4114e8e8dde_16.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8e/38/bf/8e38bfb6-14df-6a28-f7ce-69d4a49c06b2/b0d20e51-a57d-4068-8444-c6a87197561b_18.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/39/6e/a9396eb3-24e1-db39-3d64-f7d56261d41a/66fb9935-dda0-441c-8fc2-cf284e962e37_20.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9b/2a/d0/9b2ad0bd-647b-ed1c-7354-0a6f494b766c/5668175f-307c-42f5-b0a9-d37863b5452e_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/02/0c/9e/020c9e79-8d17-a3c0-b452-bee53ef3d38d/3375bfc3-a40a-46f0-8f0e-f78fb1e5d866_13.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
