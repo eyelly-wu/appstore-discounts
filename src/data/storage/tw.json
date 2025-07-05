@@ -15312,6 +15312,25 @@
     "history": [
       [
         {
+          "timestamp": 1751699498384,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "$30.00",
+            "Classic Tack Tower Skin": "$60.00",
+            "Classic Super Monkey Skin Sale": "$30.00",
+            "Classic Super Monkey Skin": "$60.00",
+            "Classic Ice Tower Skin Sale": "$30.00",
+            "Classic Ice Tower Skin": "$60.00",
+            "Classic Bomb Tower Skin Sale": "$30.00",
+            "Classic Bomb Tower Skin": "$60.00",
+            "Classic Dart Monkey Skin Sale": "$30.00",
+            "Classic Dart Monkey Skin": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750813387088,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -79885,6 +79904,23 @@
     "history": [
       [
         {
+          "timestamp": 1751699498384,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "冠絕天下": "$60.00",
+            "西涼悍將": "$60.00",
+            "江山美人": "$60.00",
+            "終身版": "$220.00",
+            "尊享版": "$150.00",
+            "攬月版": "$120.00",
+            "激情版": "$30.00",
+            "道法自然": "$60.00",
+            "自創武將朝代特色兵種補丁": "$120.00",
+            "自創武將": "$120.00"
+          }
+        },
+        {
           "timestamp": 1751692350639,
           "price": 0,
           "formattedPrice": "免費",
@@ -93917,6 +93953,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751699498384,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1751683449841,
           "price": 0,
