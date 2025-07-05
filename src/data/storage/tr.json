@@ -870,7 +870,10 @@
       "World Sweetener Pack": "₺449,99",
       "Steel Guitar Sweeteners": "₺699,99",
       "Orchestral Sweeteners": "₺249,99",
-      "Misc Stringed Sweeteners": "₺179,99"
+      "Misc Stringed Sweeteners": "₺179,99",
+      "Harp Sweeteners": "₺249,99",
+      "Harmonica Sweeteners": "₺449,99",
+      "Buzz Feiten Pack": "₺249,99"
     },
     "minPriceInfo": {
       "price": 449.99,
@@ -884,9 +887,31 @@
       "World Sweetener Pack": "₺449,99",
       "Steel Guitar Sweeteners": "₺699,99",
       "Orchestral Sweeteners": "₺249,99",
-      "Misc Stringed Sweeteners": "₺179,99"
+      "Misc Stringed Sweeteners": "₺179,99",
+      "Harp Sweeteners": "₺249,99",
+      "Harmonica Sweeteners": "₺449,99",
+      "Buzz Feiten Pack": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751732045585,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "World Sweetener Pack": "₺449,99",
+            "Steel Guitar Sweeteners": "₺699,99",
+            "Orchestral Sweeteners": "₺249,99",
+            "Misc Stringed Sweeteners": "₺179,99",
+            "Keyboard Sweeteners": "₺899,99",
+            "Harp Sweeteners": "₺249,99",
+            "Harmonica Sweeteners": "₺449,99",
+            "Guitar & Bass Sweeteners": "₺249,99",
+            "Buzz Feiten Pack": "₺249,99",
+            "Extended Frequency Modes": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -73081,6 +73106,24 @@
       "Pre registration bundle": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751732045585,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Bundle": "₺229,99",
+            "Pre registration bundle": "₺249,99",
+            "Premium livery bundle": "₺249,99",
+            "Game Editor": "₺249,99",
+            "Very Large Investment": "₺129,99",
+            "Large Investment": "₺129,99",
+            "Huge Investment": "₺229,99",
+            "Investment": "₺99,99",
+            "Chairman's Payment": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
